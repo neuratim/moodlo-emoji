@@ -1,0 +1,9 @@
+include: package:lints/recommended.yaml
+
+linter:
+  rules:
+    always_declare_return_types: true
+    directives_ordering: true
+    sort_constructors_first: true
+    sort_unnamed_constructors_first: true
+

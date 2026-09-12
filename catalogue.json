@@ -1,0 +1,218 @@
+{
+  "downloadBase": "https://raw.githubusercontent.com/neuratim/moodlo-emoji/main",
+  "generatedAt": "2026-09-12T12:12:51.925792Z",
+  "licence": "CC0 1.0 Universal (public domain). No attribution required.",
+  "revision": 2,
+  "schema": 1,
+  "styles": [
+    {
+      "archive": "packs/ceramic-1.zip",
+      "bundled": true,
+      "bytes": 6045090,
+      "description": "Smooth glazed characters with a warm, hand-crafted finish.",
+      "id": "ceramic",
+      "localizations": {
+        "cs": {
+          "description": "Hladké glazované postavičky s hřejivým, ručně vyráběným vzhledem.",
+          "name": "Keramika"
+        }
+      },
+      "name": "Ceramic",
+      "preview": "previews/ceramic.webp",
+      "previewBytes": 43912,
+      "previewSha256": "998968a28686462eb0393ce881ebcdfa20b8aaafde88e0f38c4556ea4333c2e5",
+      "sha256": "e1c5b2538e5a7e7102ff95ee0450fa76cb78b9a2800f0cc76625fc8d096cace0",
+      "version": 1
+    },
+    {
+      "archive": "packs/clay-1.zip",
+      "bundled": false,
+      "bytes": 4189119,
+      "description": "Soft sculpted clay with playful shapes and gentle shadows.",
+      "id": "clay",
+      "localizations": {
+        "cs": {
+          "description": "Měkká modelovaná hlína s hravými tvary a jemnými stíny.",
+          "name": "Modelovací hlína"
+        }
+      },
+      "name": "Clay",
+      "preview": "previews/clay.webp",
+      "previewBytes": 50434,
+      "previewSha256": "f68b7ef1228f6a60cca04f6a3347e0c12f51b4a6d004d5c67f52a472f0df14c9",
+      "sha256": "14014a9c9272774ecb331e5efbac3bb97ad8496bd9b723ae226c1bfe974ce705",
+      "version": 1
+    },
+    {
+      "archive": "packs/felt-1.zip",
+      "bundled": false,
+      "bytes": 8567254,
+      "description": "Cozy stitched felt characters with visible fibers and seams.",
+      "id": "felt",
+      "localizations": {
+        "cs": {
+          "description": "Útulné plstěné postavičky s viditelnými vlákny a švy.",
+          "name": "Plsť"
+        }
+      },
+      "name": "Felt",
+      "preview": "previews/felt.webp",
+      "previewBytes": 128054,
+      "previewSha256": "5bee4ee03bdef758fec1f71a78c1539172913fbec63f4cf465f9e7766b03a882",
+      "sha256": "94458978b882636d469f310db805d5fd4f802ddbd7c1e86c3aa0ddd662d8dd71",
+      "version": 1
+    },
+    {
+      "archive": "packs/glass-1.zip",
+      "bundled": false,
+      "bytes": 6409032,
+      "description": "Translucent glass figures with luminous color and reflections.",
+      "id": "glass",
+      "localizations": {
+        "cs": {
+          "description": "Průsvitné skleněné postavičky se zářivými barvami a odlesky.",
+          "name": "Sklo"
+        }
+      },
+      "name": "Glass",
+      "preview": "previews/glass.webp",
+      "previewBytes": 61928,
+      "previewSha256": "800314c45deea9cf6ecd4fb02b4be769c414c8da953d4004234e94c5955f9ca2",
+      "sha256": "8d235b3a268fe830049baa9d5eaed6b89b8841ca70cd01b8964d6547dbbd7495",
+      "version": 1
+    },
+    {
+      "archive": "packs/gouache-1.zip",
+      "bundled": false,
+      "bytes": 6960156,
+      "description": "Bold matte gouache with expressive brush texture.",
+      "id": "gouache",
+      "localizations": {
+        "cs": {
+          "description": "Výrazný matný kvaš s živou strukturou štětce.",
+          "name": "Kvaš"
+        }
+      },
+      "name": "Gouache",
+      "preview": "previews/gouache.webp",
+      "previewBytes": 67584,
+      "previewSha256": "cb1252ef3537774572464693cc8d116507ec9dea41c0b7c06d8843ef8e29c96e",
+      "sha256": "745211a4b1c50aee35000757df56c978f2dec02ad211cba2d3753aedfc20bd0e",
+      "version": 1
+    },
+    {
+      "archive": "packs/ink-1.zip",
+      "bundled": false,
+      "bytes": 7467379,
+      "description": "Confident ink lines with graphic contrast and lively marks.",
+      "id": "ink",
+      "localizations": {
+        "cs": {
+          "description": "Sebevědomé inkoustové linie s výrazným kontrastem a živou kresbou.",
+          "name": "Inkoust"
+        }
+      },
+      "name": "Ink",
+      "preview": "previews/ink.webp",
+      "previewBytes": 75060,
+      "previewSha256": "e980acfee1410f550cd8b037cd2c1a904bf8044d67a8c1810d80c52c1ea2ab00",
+      "sha256": "58c823f8ce117380a930e8f494b9cfd5ba65d882d074aaee4b8e740442e2c36a",
+      "version": 1
+    },
+    {
+      "archive": "packs/oil-1.zip",
+      "bundled": false,
+      "bytes": 8351296,
+      "description": "Rich oil-painted emoji with deep color and visible brushwork.",
+      "id": "oil",
+      "localizations": {
+        "cs": {
+          "description": "Syté olejomalby s hlubokými barvami a patrnými tahy štětce.",
+          "name": "Olejomalba"
+        }
+      },
+      "name": "Oil Paint",
+      "preview": "previews/oil.webp",
+      "previewBytes": 121792,
+      "previewSha256": "09d75bd7b587320b855d275218b1c4b8925b6499bcc27685487ed97393ff050e",
+      "sha256": "117c3b3dd2ab6587651f78296ae5d7df5c4bc104a25980f62200626206dd8e69",
+      "version": 1
+    },
+    {
+      "archive": "packs/paper-1.zip",
+      "bundled": false,
+      "bytes": 5765703,
+      "description": "Layered paper-cut characters with tactile edges and soft depth.",
+      "id": "paper",
+      "localizations": {
+        "cs": {
+          "description": "Vrstvené papírové postavičky s hmatatelnými hranami a jemnou hloubkou.",
+          "name": "Papírová koláž"
+        }
+      },
+      "name": "Paper Craft",
+      "preview": "previews/paper.webp",
+      "previewBytes": 72196,
+      "previewSha256": "e00c752ab63d7bf3f28ed595eae5f7bb788bb4e50d6560e84156169675a07616",
+      "sha256": "2a75441f58e7382d1b2f3a684e54e2a5b42e707a1faef5efc2d589134059f326",
+      "version": 1
+    },
+    {
+      "archive": "packs/pixel-1.zip",
+      "bundled": true,
+      "bytes": 4719993,
+      "description": "Crisp pixel-art emoji with bright, readable expressions.",
+      "id": "pixel",
+      "localizations": {
+        "cs": {
+          "description": "Ostré pixelové emoji s jasnými a dobře čitelnými výrazy.",
+          "name": "Pixel art"
+        }
+      },
+      "name": "Pixel Art",
+      "preview": "previews/pixel.webp",
+      "previewBytes": 39330,
+      "previewSha256": "d8a276b9997eee869728913427d4196d1ffeea9abe394f2c248ff49414c09bc0",
+      "sha256": "22db6a7ce02d26529d68e5dc9bbf9ec4a9652d2921399ebe0c6ab3fdd73b33d4",
+      "version": 1
+    },
+    {
+      "archive": "packs/watercolor-1.zip",
+      "bundled": true,
+      "bytes": 7370174,
+      "description": "Airy watercolor characters with gentle washes and organic edges.",
+      "id": "watercolor",
+      "localizations": {
+        "cs": {
+          "description": "Vzdušné akvarelové postavičky s jemnými lazurami a přirozenými okraji.",
+          "name": "Akvarel"
+        }
+      },
+      "name": "Watercolor",
+      "preview": "previews/watercolor.webp",
+      "previewBytes": 76682,
+      "previewSha256": "7b9eabe06ad0662fa928662113de37b3814599a6e907d0d152c0b0c1f3651df1",
+      "sha256": "92ab25f97684f3f13f4c90b9412c6b9f2cbacc6c72852e1a301e299368e67cae",
+      "version": 1
+    },
+    {
+      "archive": "packs/wood-1.zip",
+      "bundled": false,
+      "bytes": 6446052,
+      "description": "Carved wooden emoji with natural grain and rounded forms.",
+      "id": "wood",
+      "localizations": {
+        "cs": {
+          "description": "Vyřezávané dřevěné emoji s přirozenou kresbou a oblými tvary.",
+          "name": "Dřevo"
+        }
+      },
+      "name": "Wood",
+      "preview": "previews/wood.webp",
+      "previewBytes": 90034,
+      "previewSha256": "9b3dff43ca5898f039d8c1ccb41bade8eaa559f610181e641ec18e9aba880aa4",
+      "sha256": "9d41705fef949407bf0a1ae6dfd6b20147913f9ce917d21bf8fec994dfdec8fb",
+      "version": 1
+    }
+  ]
+}

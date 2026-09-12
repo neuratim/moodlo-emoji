@@ -1,0 +1,151 @@
+{
+  "downloadBase": "https://raw.githubusercontent.com/neuratim/moodlo-emoji/main",
+  "licence": "CC0 1.0 Universal (public domain). No attribution required.",
+  "schema": 1,
+  "styles": [
+    {
+      "bundled": true,
+      "description": "Smooth glazed characters with a warm, hand-crafted finish.",
+      "id": "ceramic",
+      "localizations": {
+        "cs": {
+          "description": "Hladké glazované postavičky s hřejivým, ručně vyráběným vzhledem.",
+          "name": "Keramika"
+        }
+      },
+      "name": "Ceramic",
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "description": "Soft sculpted clay with playful shapes and gentle shadows.",
+      "id": "clay",
+      "localizations": {
+        "cs": {
+          "description": "Měkká modelovaná hlína s hravými tvary a jemnými stíny.",
+          "name": "Modelovací hlína"
+        }
+      },
+      "name": "Clay",
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "description": "Cozy stitched felt characters with visible fibers and seams.",
+      "id": "felt",
+      "localizations": {
+        "cs": {
+          "description": "Útulné plstěné postavičky s viditelnými vlákny a švy.",
+          "name": "Plsť"
+        }
+      },
+      "name": "Felt",
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "description": "Translucent glass figures with luminous color and reflections.",
+      "id": "glass",
+      "localizations": {
+        "cs": {
+          "description": "Průsvitné skleněné postavičky se zářivými barvami a odlesky.",
+          "name": "Sklo"
+        }
+      },
+      "name": "Glass",
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "description": "Bold matte gouache with expressive brush texture.",
+      "id": "gouache",
+      "localizations": {
+        "cs": {
+          "description": "Výrazný matný kvaš s živou strukturou štětce.",
+          "name": "Kvaš"
+        }
+      },
+      "name": "Gouache",
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "description": "Confident ink lines with graphic contrast and lively marks.",
+      "id": "ink",
+      "localizations": {
+        "cs": {
+          "description": "Sebevědomé inkoustové linie s výrazným kontrastem a živou kresbou.",
+          "name": "Inkoust"
+        }
+      },
+      "name": "Ink",
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "description": "Rich oil-painted emoji with deep color and visible brushwork.",
+      "id": "oil",
+      "localizations": {
+        "cs": {
+          "description": "Syté olejomalby s hlubokými barvami a patrnými tahy štětce.",
+          "name": "Olejomalba"
+        }
+      },
+      "name": "Oil Paint",
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "description": "Layered paper-cut characters with tactile edges and soft depth.",
+      "id": "paper",
+      "localizations": {
+        "cs": {
+          "description": "Vrstvené papírové postavičky s hmatatelnými hranami a jemnou hloubkou.",
+          "name": "Papírová koláž"
+        }
+      },
+      "name": "Paper Craft",
+      "version": 1
+    },
+    {
+      "bundled": true,
+      "description": "Crisp pixel-art emoji with bright, readable expressions.",
+      "id": "pixel",
+      "localizations": {
+        "cs": {
+          "description": "Ostré pixelové emoji s jasnými a dobře čitelnými výrazy.",
+          "name": "Pixel art"
+        }
+      },
+      "name": "Pixel Art",
+      "version": 1
+    },
+    {
+      "bundled": true,
+      "description": "Airy watercolor characters with gentle washes and organic edges.",
+      "id": "watercolor",
+      "localizations": {
+        "cs": {
+          "description": "Vzdušné akvarelové postavičky s jemnými lazurami a přirozenými okraji.",
+          "name": "Akvarel"
+        }
+      },
+      "name": "Watercolor",
+      "version": 1
+    },
+    {
+      "bundled": false,
+      "description": "Carved wooden emoji with natural grain and rounded forms.",
+      "id": "wood",
+      "localizations": {
+        "cs": {
+          "description": "Vyřezávané dřevěné emoji s přirozenou kresbou a oblými tvary.",
+          "name": "Dřevo"
+        }
+      },
+      "name": "Wood",
+      "version": 1
+    }
+  ]
+}
+

@@ -1,0 +1,15 @@
+name: moodlo_emoji_catalogue
+description: Builds and validates the public Moodlo emoji style packages.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  archive: ^4.0.9
+  crypto: ^3.0.7
+
+dev_dependencies:
+  lints: ^6.0.0
+
