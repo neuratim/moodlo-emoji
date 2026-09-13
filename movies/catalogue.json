@@ -1,0 +1,166 @@
+{
+  "downloadBase": "https://raw.githubusercontent.com/neuratim/moodlo-emoji/main/movies",
+  "generatedAt": "2026-09-13T10:24:41.821542Z",
+  "licence": "CC0 1.0 Universal (public domain). No attribution required.",
+  "movies": [
+    {
+      "episodes": [
+        {
+          "bytes": 12748114,
+          "cover": "feelingverse/episodes/s101/s101_p01.png",
+          "id": "s101",
+          "localizations": {
+            "ar": {
+              "title": "مهرجان الأضواء المختلفة"
+            },
+            "bn": {
+              "title": "ভিন্ন আলোর উৎসব"
+            },
+            "cs": {
+              "title": "Slavnost různých světel"
+            },
+            "de": {
+              "title": "Das Fest der verschiedenen Lichter"
+            },
+            "en": {
+              "title": "The Festival of Different Lights"
+            },
+            "es": {
+              "title": "El festival de las luces diferentes"
+            },
+            "fr": {
+              "title": "Le Festival des lumières différentes"
+            },
+            "hi": {
+              "title": "अलग-अलग रोशनियों का उत्सव"
+            },
+            "id": {
+              "title": "Festival Cahaya yang Berbeda"
+            },
+            "it": {
+              "title": "Il festival delle luci diverse"
+            },
+            "ja": {
+              "title": "それぞれに違う光の祭り"
+            },
+            "ko": {
+              "title": "서로 다른 빛의 축제"
+            },
+            "pl": {
+              "title": "Święto różnych świateł"
+            },
+            "pt": {
+              "title": "O Festival das Luzes Diferentes"
+            },
+            "ru": {
+              "title": "Фестиваль разных огней"
+            },
+            "tr": {
+              "title": "Farklı Işıklar Festivali"
+            },
+            "vi": {
+              "title": "Lễ hội của những ánh sáng khác biệt"
+            },
+            "zh": {
+              "title": "不同光芒的节日"
+            }
+          },
+          "number": 101,
+          "path": "feelingverse/episodes/s101/episode.json",
+          "sha256": "3e89d7d992cf912a931328eec74f22eaad4eef5e001b2858272b213d7cbea22b",
+          "tags": [
+            "festival",
+            "friendship",
+            "mystery",
+            "wonder"
+          ],
+          "version": 2
+        }
+      ],
+      "id": "feelingverse",
+      "localizations": {
+        "ar": {
+          "description": "مغامرة أبطال خارقين من الإيموجي عبر عالم كل المشاعر فيه مهمة.",
+          "title": "عالم المشاعر: العجب المسروق"
+        },
+        "bn": {
+          "description": "একটি ইমোজি সুপারহিরো অভিযান, যেখানে প্রতিটি অনুভূতির গুরুত্ব আছে।",
+          "title": "ফিলিংভার্স: চুরি হওয়া বিস্ময়"
+        },
+        "cs": {
+          "description": "Emoji superhrdinské dobrodružství světem, kde záleží na každém pocitu.",
+          "title": "Feelingverse: Ukradený úžas"
+        },
+        "de": {
+          "description": "Ein Emoji-Superheldenabenteuer durch eine Welt, in der jedes Gefühl zählt.",
+          "title": "Feelingverse: Das gestohlene Staunen"
+        },
+        "en": {
+          "description": "An emoji superhero adventure through a world where every feeling matters.",
+          "title": "Feelingverse: The Stolen Wonder"
+        },
+        "es": {
+          "description": "Una aventura de superhéroes emoji por un mundo donde cada emoción importa.",
+          "title": "Feelingverse: El asombro robado"
+        },
+        "fr": {
+          "description": "Une aventure de super-héros emoji dans un monde où chaque émotion compte.",
+          "title": "Feelingverse : L’émerveillement volé"
+        },
+        "hi": {
+          "description": "एक इमोजी सुपरहीरो रोमांच, ऐसी दुनिया में जहाँ हर भावना मायने रखती है।",
+          "title": "फीलिंगवर्स: चुराया गया विस्मय"
+        },
+        "id": {
+          "description": "Petualangan pahlawan super emoji di dunia tempat setiap perasaan berarti.",
+          "title": "Feelingverse: Keajaiban yang Dicuri"
+        },
+        "it": {
+          "description": "Un’avventura di supereroi emoji in un mondo dove ogni emozione conta.",
+          "title": "Feelingverse: La meraviglia rubata"
+        },
+        "ja": {
+          "description": "どの気持ちも大切にされる世界をめぐる、絵文字ヒーローの冒険。",
+          "title": "フィーリングバース：奪われた驚き"
+        },
+        "ko": {
+          "description": "모든 감정이 소중한 세계를 누비는 이모지 슈퍼히어로 모험.",
+          "title": "필링버스: 빼앗긴 경이"
+        },
+        "pl": {
+          "description": "Superbohaterska przygoda emoji w świecie, w którym liczy się każde uczucie.",
+          "title": "Feelingverse: Skradziony zachwyt"
+        },
+        "pt": {
+          "description": "Uma aventura de super-heróis emoji por um mundo onde todo sentimento importa.",
+          "title": "Feelingverse: O encanto roubado"
+        },
+        "ru": {
+          "description": "Супергеройское приключение эмодзи в мире, где важно каждое чувство.",
+          "title": "Вселенная чувств: Украденное чудо"
+        },
+        "tr": {
+          "description": "Her duygunun önemli olduğu bir dünyada emoji süper kahraman macerası.",
+          "title": "Duygu Evreni: Çalınan Hayret"
+        },
+        "vi": {
+          "description": "Cuộc phiêu lưu siêu anh hùng emoji trong thế giới nơi mọi cảm xúc đều quan trọng.",
+          "title": "Vũ trụ cảm xúc: Điều kỳ diệu bị đánh cắp"
+        },
+        "zh": {
+          "description": "一场穿越每种感受都很重要的世界的表情符号超级英雄冒险。",
+          "title": "感受宇宙：被偷走的惊奇"
+        }
+      },
+      "tags": [
+        "adventure",
+        "emoji",
+        "friendship",
+        "superhero"
+      ],
+      "version": 2
+    }
+  ],
+  "revision": 3,
+  "schema": 1
+}

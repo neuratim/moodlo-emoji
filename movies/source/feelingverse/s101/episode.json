@@ -1,0 +1,262 @@
+{
+  "altTexts": [
+    "Rain and Nova sit on the west-bank stone step and hold one damp, unmarked paper moth; a single connected bridge crosses the canal beside the lighthouse on its round east-bank foundation.",
+    "Beam touches a low lamp hood while Fizz holds the pulley rope, Bloom steadies a suspended lantern and small Puff fits its paper shade with both hands; three residents wait behind them.",
+    "On a railed stone maintenance shelf, Flare warms a bolted bronze hinge with one cuff, Quiver watches with three attached chimes, and Mend anchors a rose safety line through a fixed wall ring.",
+    "Bitter holds one capped sample tube beside a detached glass lantern globe in a wooden cradle; Pop keeps both mittens clear of its oily white streak, while Quest examines it with his brass disk closed.",
+    "Still sits with two eyes and a neutral straight mouth beside smaller Hope, who folds an ivory moth with one blue dot; a shaded lamp, tied-back curtain and reachable latch frame the open garden exit.",
+    "Beam sends a modest light through the wet paper moth held by Rain and the clear triangular pane held by Nova; exactly three branches end on the nearby stone, and Nova’s scarf pin remains intact.",
+    "Rain and Nova watch a real white service barge beneath the single bridge; its oval collector hood stands on deck supports above a pale rippled reflection, partly hiding its operator, while the paper moth rests beside Rain’s foot."
+  ],
+  "id": "s101",
+  "localizations": {
+    "ar": {
+      "captions": [
+        "في موزاييك، تعيش المشاعر كأشخاص. يظن Rain، حامل الحزن، أن دمعة أفسدت عثة ورقية للمهرجان. أما Nova، حاملة الدهشة، فترى فيها شيئًا يستحق الاحتفاظ به.\n\nRain: «بلّلت الجناح أكثر مما ينبغي».\nNova: «دعني أرى ما يفعله الماء».",
+        "يجلب Beam السعادة إلى المهرجان. ينظم Fizz الأضواء، ويفسح Bloom المجال للآخرين، ويحصل Puff الصغير والهش على مهمة حقيقية بدلًا من حمله بعيدًا عن الطريق.\n\nBloom: «أمسك الغطاء هناك يا Puff. نحتاج إلى يديك».",
+        "الغضب ليس مدمّرًا دائمًا: يستخدم Flare الحرارة لفك مفصلة عالقة. يراقب Quiver الخطر، ويثبت Mend حبل أمان. يعمل الثلاثة معًا أفضل من عمل كل منهم وحده.\n\nQuiver: «قليلًا بعد. المفصلة تتحرك».\nFlare: «إذًا القليل يكفي».",
+        "يلاحظ Bitter، الاشمئزاز، طلاءً أبيض لا مكان له على مصابيح المهرجان. يتوقف Pop قبل لمسه. ويدرك Quest، الفضول، أن أحدًا عبث بمعدات المدينة.\n\nBitter: «لم تكن هذه الطبقة هنا صباحًا».\nQuest: «إذًا عمل أحدهم على مصابيحنا».",
+        "يرعى Still غرف الهدوء الاختيارية في المدينة. ويعدّ Hope، متدرّب الفوانيس، عثةً لـNova. اختيار الهدوء لا يجعل أيًّا منهما عدوًّا للمشاعر.\n\nHope: «علّمتني Nova هذه الطيّة».\nStill: «يمكنك إعطاؤها إياها بعد الموكب».",
+        "يوفّر Beam الضوء وRain القطرات، وتقسم Nova الوهج الملطف عبر منشور. تظهر ثلاثة مسارات بدلًا من شعاع واحد حاد. مواهبهم المختلفة تجعل النتيجة ممكنة.\n\nNova: «أبقِ الماء يا Rain. فهو يمنح الضوء مجالًا للانتشار».",
+        "تنساب بارجة خدمة بيضاء إلى قناة المهرجان. يجمع غطاؤها الضوء بدلًا من إعادته. لاحظ Rain وNova الدخيل، لكنهما لا يعرفان هدفه بعد.\n\nRain: «لماذا تخفت الفوانيس خلف ذلك القارب؟»"
+      ],
+      "title": "مهرجان الأضواء المختلفة"
+    },
+    "bn": {
+      "captions": [
+        "মোজাইকে অনুভূতিরা মানুষের মতো বাঁচে। দুঃখের বাহক Rain ভাবে, এক ফোঁটা অশ্রু উৎসবের কাগজের মথটি নষ্ট করেছে। বিস্ময়ের বাহক Nova তাতে রেখে দেওয়ার মতো কিছু দেখে।\n\nRain: “ডানাটা বেশি ভিজিয়ে ফেলেছি।”\nNova: “জলটা কী করে, দেখি।”",
+        "Beam উৎসবে সুখ নিয়ে আসে। Fizz আলো সাজায়, Bloom অন্যদের জায়গা করে দেয়। ছোট, কোমল Puff-কে কোলে করে সরিয়ে না নিয়ে সত্যিকারের কাজ দেওয়া হয়।\n\nBloom: “ঢাকনাটা ওখানে ধরো, Puff। তোমার হাত দুটো আমাদের দরকার।”",
+        "রাগ সব সময় ধ্বংস করে না: Flare তাপ দিয়ে আটকে থাকা কবজা খোলে। Quiver বিপদ দেখে, Mend নিরাপত্তার দড়ি বাঁধে। একার চেয়ে একসঙ্গে তিনজন ভালো কাজ করে।\n\nQuiver: “আর একটু। কবজাটা নড়ছে।”\nFlare: “তাহলে একটু হলেই চলবে।”",
+        "বিতৃষ্ণা, Bitter, উৎসবের বাতিতে বেমানান সাদা আস্তরণ দেখে। Pop ছোঁয়ার আগেই থামে। কৌতূহল, Quest, বুঝতে পারে কেউ শহরের সরঞ্জাম বদলেছে।\n\nBitter: “সকালে এই আস্তরণ ছিল না।”\nQuest: “তাহলে কেউ আমাদের বাতিতে কাজ করেছে।”",
+        "Still শহরের স্বেচ্ছায় বিশ্রাম নেওয়ার নীরব ঘরগুলির দেখাশোনা করে। ফানুসের শিক্ষানবিশ Hope, Nova-র জন্য একটি মথ বানায়। নীরবতা বেছে নিলে কেউ অনুভূতির শত্রু হয় না।\n\nHope: “এই ভাঁজটা Nova শিখিয়েছে।”\nStill: “শোভাযাত্রার পরে ওকে দিতে পারো।”",
+        "Beam আলো দেয়, Rain দেয় জলকণা, আর Nova প্রিজমে নরম আলো ভাগ করে। একটি তীব্র রশ্মির বদলে তিনটি পথ দেখা যায়। তাদের ভিন্ন ভিন্ন গুণেই তা সম্ভব হয়।\n\nNova: “জলটা থাক, Rain। এতে আলো ছড়িয়ে পড়ার জায়গা পায়।”",
+        "একটি সাদা পরিষেবা-বার্জ উৎসবের খালে ঢোকে। তার ছাউনিটি আলো ফেরত না দিয়ে সংগ্রহ করছে। Rain ও Nova অনুপ্রবেশকারীকে দেখেছে, কিন্তু তার লক্ষ্য এখনও জানে না।\n\nRain: “ওই নৌকার পিছনে ফানুসগুলো ম্লান হচ্ছে কেন?”"
+      ],
+      "title": "ভিন্ন আলোর উৎসব"
+    },
+    "cs": {
+      "captions": [
+        "V Mosaic žijí emoce jako lidé. Rain, který nese Smutek, si myslí, že slza zničila papírovou slavnostní můru. Nova, která nese Úžas, v ní vidí něco, co stojí za zachování.\n\nRain: „Moc jsem namočil křídlo.“\nNova: „Ukaž mi, co ta voda udělá.“",
+        "Beam přináší na slavnost Štěstí. Fizz organizuje světla, Bloom dělá místo ostatním a malý, zranitelný Puff dostává skutečný úkol, místo aby ho někdo odnesl stranou.\n\nBloom: „Podrž tam stínidlo, Puffe. Potřebujeme tvoje ruce.“",
+        "Hněv nemusí ničit: Flare teplem uvolňuje zatuhlý pant. Quiver hlídá nebezpečí a Mend kotví záchranné lano. Společně jim to jde lépe než samotným.\n\nQuiver: „Ještě trochu. Pant se hýbe.“\nFlare: „Tak trochu stačí.“",
+        "Bitter, Znechucení, si všímá bílého povlaku, který na slavnostní lampy nepatří. Pop se zastaví, než se ho dotkne. Quest, Zvědavost, poznává, že někdo upravil vybavení města.\n\nBitter: „Ten povlak tu ráno nebyl.“\nQuest: „Tak někdo pracoval na našich lampách.“",
+        "Still pečuje o městské místnosti, kam lze dobrovolně přijít za tichem. Hope, lampionový učeň, připravuje můru pro Novu. Volba ticha z nich nedělá nepřátele pocitů.\n\nHope: „Tenhle sklad mě naučila Nova.“\nStill: „Můžeš jí ji dát po průvodu.“",
+        "Beam dodává světlo, Rain kapky a Nova dělí změkčenou záři hranolem. Tam, kam by dopadl jediný ostrý paprsek, vznikají tři cesty. Výsledek umožňují jejich různé dary.\n\nNova: „Nech tam tu vodu, Raine. Dává světlu prostor rozptýlit se.“",
+        "Do slavnostního kanálu vklouzává bílý servisní člun. Jeho kryt světlo sbírá, místo aby je vracel. Rain a Nova si vetřelce všimli, ale ještě neznají jeho cíl.\n\nRain: „Proč za tou lodí pohasínají lampiony?“"
+      ],
+      "title": "Slavnost různých světel"
+    },
+    "de": {
+      "captions": [
+        "In Mosaic leben Gefühle als Menschen. Rain, der Traurigkeit trägt, glaubt, eine Träne habe eine Papiermotte fürs Fest verdorben. Nova, die Staunen trägt, sieht etwas Bewahrenswertes.\n\nRain: „Ich habe den Flügel zu nass gemacht.“\nNova: „Lass mich sehen, was das Wasser bewirkt.“",
+        "Beam bringt Glück zum Fest. Fizz organisiert die Lichter, Bloom macht anderen Platz, und der kleine, verletzliche Puff bekommt eine echte Aufgabe, statt weggetragen zu werden.\n\nBloom: „Halte den Schirm dort, Puff. Wir brauchen deine Hände.“",
+        "Wut zerstört nicht immer: Flare löst mit Wärme ein klemmendes Scharnier. Quiver prüft die Gefahr, Mend verankert ein Sicherungsseil. Zusammen gelingt es ihnen besser als allein.\n\nQuiver: „Noch etwas. Das Scharnier bewegt sich.“\nFlare: „Dann reicht etwas.“",
+        "Bitter, der Ekel, bemerkt einen weißen Belag, der nicht auf die Festlampen gehört. Pop hält vor der Berührung inne. Quest, die Neugier, erkennt, dass jemand die städtische Ausrüstung verändert hat.\n\nBitter: „Heute Morgen war dieser Film noch nicht da.“\nQuest: „Dann hat jemand an unseren Lampen gearbeitet.“",
+        "Still betreut die freiwilligen Ruheräume der Stadt. Hope, ein Laternenlehrling, bereitet eine Motte für Nova vor. Wer Ruhe wählt, ist kein Feind der Gefühle.\n\nHope: „Nova hat mir diese Faltung gezeigt.“\nStill: „Nach dem Umzug kannst du sie ihr geben.“",
+        "Beam liefert Licht, Rain Tropfen, und Nova teilt den sanften Schein durch ein Prisma. Drei Wege entstehen, wo sonst ein harter Strahl aufträfe. Ihre verschiedenen Gaben ermöglichen das Ergebnis.\n\nNova: „Lass das Wasser, Rain. Es gibt dem Licht Raum, sich zu verteilen.“",
+        "Ein weißer Wartungskahn gleitet in den Festkanal. Seine Haube sammelt Licht, statt es zurückzugeben. Rain und Nova haben den Eindringling bemerkt, kennen aber sein Ziel noch nicht.\n\nRain: „Warum werden die Laternen hinter diesem Boot dunkler?“"
+      ],
+      "title": "Das Fest der verschiedenen Lichter"
+    },
+    "en": {
+      "captions": [
+        "In Mosaic, emotions live as people. Rain, who carries Sadness, thinks a tear has spoiled a paper festival moth. Nova, who carries Wonder, sees something worth keeping.\n\nRain: “I made the wing too wet.”\nNova: “Let me see what the water does.”",
+        "Beam brings Happiness to the festival. Fizz organizes the lights, Bloom makes room for others, and small, vulnerable Puff gets a real task instead of being carried out of the way.\n\nBloom: “Hold the shade there, Puff. We need your hands.”",
+        "Anger is not always destructive: Flare uses heat to free a stubborn hinge. Quiver checks the danger, and Mend anchors a safety line. The three work better together than alone.\n\nQuiver: “A little more. The hinge is moving.”\nFlare: “Then a little is enough.”",
+        "Bitter, Disgust, notices a white coating that does not belong on the festival lamps. Pop stops before touching it. Quest, Curiosity, recognizes that someone has altered the city’s equipment.\n\nBitter: “That film was not here this morning.”\nQuest: “Then someone has been working on our lamps.”",
+        "Still looks after the city’s voluntary quiet rooms. Hope, a lantern apprentice, prepares a moth for Nova. Choosing quiet does not make either of them an enemy of feeling.\n\nHope: “Nova taught me this fold.”\nStill: “You can give it to her after the procession.”",
+        "Beam supplies light, Rain supplies droplets, and Nova divides the softened glow through a prism. Three paths appear where one harsh beam would have fallen. Their different gifts make the result possible.\n\nNova: “Keep the water, Rain. It gives the light somewhere to spread.”",
+        "A white service barge slips into the festival canal. Its hood is collecting light instead of giving it back. Rain and Nova have noticed the intruder, but they do not yet know its target.\n\nRain: “Why are the lanterns dimming behind that boat?”"
+      ],
+      "title": "The Festival of Different Lights"
+    },
+    "es": {
+      "captions": [
+        "En Mosaic, las emociones viven como personas. Rain, que lleva la Tristeza, cree que una lágrima ha estropeado una polilla de papel para el festival. Nova, que lleva el Asombro, ve algo que merece conservarse.\n\nRain: «Mojé demasiado el ala».\nNova: «Déjame ver qué hace el agua».",
+        "Beam trae Felicidad al festival. Fizz organiza las luces, Bloom hace sitio a los demás y Puff, pequeño y vulnerable, recibe una tarea de verdad en vez de ser apartado en brazos.\n\nBloom: «Sujeta ahí la pantalla, Puff. Necesitamos tus manos».",
+        "La ira no siempre destruye: Flare usa calor para soltar una bisagra atascada. Quiver vigila el peligro y Mend ancla una cuerda de seguridad. Juntos trabajan mejor que solos.\n\nQuiver: «Un poco más. La bisagra se mueve».\nFlare: «Entonces basta con un poco».",
+        "Bitter, el Asco, detecta una capa blanca que no debería estar en las lámparas del festival. Pop se detiene antes de tocarla. Quest, la Curiosidad, reconoce que alguien ha alterado el equipo de la ciudad.\n\nBitter: «Esa película no estaba esta mañana».\nQuest: «Entonces alguien ha trabajado en nuestras lámparas».",
+        "Still cuida los espacios de calma voluntarios de la ciudad. Hope, aprendiz de farolero, prepara una polilla para Nova. Elegir el silencio no los convierte en enemigos de las emociones.\n\nHope: «Nova me enseñó este pliegue».\nStill: «Puedes dársela después del desfile».",
+        "Beam aporta luz, Rain gotas y Nova divide el resplandor suavizado con un prisma. Surgen tres caminos donde habría caído un solo rayo intenso. Sus distintos dones lo hacen posible.\n\nNova: «Deja el agua, Rain. Le da a la luz un lugar donde extenderse».",
+        "Una barcaza blanca de servicio entra en el canal del festival. Su cubierta recoge luz en vez de devolverla. Rain y Nova han visto al intruso, pero aún no conocen su objetivo.\n\nRain: «¿Por qué se apagan las linternas detrás de ese barco?»"
+      ],
+      "title": "El festival de las luces diferentes"
+    },
+    "fr": {
+      "captions": [
+        "À Mosaic, les émotions vivent comme des personnes. Rain, qui porte la Tristesse, croit qu’une larme a abîmé un papillon de papier pour la fête. Nova, qui porte l’Émerveillement, y voit quelque chose à garder.\n\nRain : « J’ai trop mouillé l’aile. »\nNova : « Laisse-moi voir ce que fait l’eau. »",
+        "Beam apporte le Bonheur à la fête. Fizz organise les lumières, Bloom fait de la place aux autres, et Puff, petit et vulnérable, reçoit une vraie tâche au lieu d’être porté à l’écart.\n\nBloom : « Tiens l’abat-jour là, Puff. Nous avons besoin de tes mains. »",
+        "La colère ne détruit pas toujours : Flare chauffe une charnière grippée. Quiver surveille le danger et Mend ancre une corde de sécurité. Ensemble, ils travaillent mieux que seuls.\n\nQuiver : « Encore un peu. La charnière bouge. »\nFlare : « Alors un peu suffit. »",
+        "Bitter, le Dégoût, remarque un enduit blanc qui n’a rien à faire sur les lampes de fête. Pop s’arrête avant de le toucher. Quest, la Curiosité, comprend que quelqu’un a modifié le matériel de la ville.\n\nBitter : « Ce film n’était pas là ce matin. »\nQuest : « Quelqu’un a donc travaillé sur nos lampes. »",
+        "Still veille sur les salles de repos librement accessibles de la ville. Hope, apprenti lanternier, prépare un papillon pour Nova. Choisir le calme ne fait pas d’eux des ennemis des émotions.\n\nHope : « Nova m’a appris ce pli. »\nStill : « Tu pourras le lui donner après le défilé. »",
+        "Beam fournit la lumière, Rain les gouttes, et Nova divise la lueur adoucie à travers un prisme. Trois chemins apparaissent au lieu d’un seul rayon cru. Leurs dons différents rendent cela possible.\n\nNova : « Garde l’eau, Rain. Elle donne à la lumière de quoi se diffuser. »",
+        "Une barge blanche de service glisse dans le canal de la fête. Son capot recueille la lumière au lieu de la rendre. Rain et Nova ont remarqué l’intrus, mais ignorent encore sa cible.\n\nRain : « Pourquoi les lanternes faiblissent-elles derrière ce bateau ? »"
+      ],
+      "title": "Le Festival des lumières différentes"
+    },
+    "hi": {
+      "captions": [
+        "मोज़ाइक में भावनाएँ लोगों की तरह रहती हैं। उदासी को साथ लिए Rain को लगता है कि एक आँसू ने उत्सव का कागज़ी पतंगा बिगाड़ दिया। विस्मय को साथ लिए Nova को उसमें सहेजने लायक कुछ दिखता है।\n\nRain: “पंख ज़्यादा गीला कर दिया।”\nNova: “देखूँ तो पानी क्या करता है।”",
+        "Beam उत्सव में खुशी लाता है। Fizz रोशनियाँ सँभालता है, Bloom दूसरों को जगह देता है, और छोटे, संवेदनशील Puff को उठाकर किनारे करने के बजाय असली काम मिलता है।\n\nBloom: “आवरण वहीं पकड़े रहो, Puff। हमें तुम्हारे हाथ चाहिए।”",
+        "क्रोध हमेशा विनाशकारी नहीं होता: Flare गर्मी से अटका कब्ज़ा खोलता है। Quiver खतरा जाँचता है और Mend सुरक्षा-रस्सी बाँधता है। अकेले से बेहतर, तीनों मिलकर काम करते हैं।\n\nQuiver: “थोड़ा और। कब्ज़ा हिल रहा है।”\nFlare: “तो थोड़ा ही काफ़ी है।”",
+        "घृणा, Bitter, उत्सव की बत्तियों पर बेमेल सफ़ेद परत देखता है। Pop छूने से पहले रुक जाता है। जिज्ञासा, Quest, समझता है कि किसी ने शहर के उपकरण बदले हैं।\n\nBitter: “सुबह यह परत यहाँ नहीं थी।”\nQuest: “तो किसी ने हमारी बत्तियों पर काम किया है।”",
+        "Still शहर के स्वैच्छिक शांत कमरों की देखभाल करता है। लालटेन-प्रशिक्षु Hope, Nova के लिए पतंगा बनाता है। शांति चुनना किसी को भावनाओं का दुश्मन नहीं बनाता।\n\nHope: “यह मोड़ Nova ने सिखाया।”\nStill: “जुलूस के बाद उसे दे सकते हो।”",
+        "Beam रोशनी देता है, Rain बूँदें, और Nova नरम उजाले को प्रिज़्म से बाँटती है। एक तीखी किरण की जगह तीन रास्ते बनते हैं। उनके अलग-अलग गुणों से यह संभव होता है।\n\nNova: “पानी रहने दो, Rain। इससे रोशनी को फैलने की जगह मिलती है।”",
+        "एक सफ़ेद सेवा-बजरा उत्सव की नहर में सरकता है। उसका हुड रोशनी लौटाने के बजाय समेट रहा है। Rain और Nova ने घुसपैठिए को देख लिया है, पर उसका निशाना अभी नहीं जानते।\n\nRain: “उस नाव के पीछे लालटेनें मद्धम क्यों पड़ रही हैं?”"
+      ],
+      "title": "अलग-अलग रोशनियों का उत्सव"
+    },
+    "id": {
+      "captions": [
+        "Di Mosaic, emosi hidup sebagai orang. Rain, pembawa Kesedihan, mengira air mata merusak ngengat kertas untuk festival. Nova, pembawa Ketakjuban, melihat sesuatu yang layak disimpan.\n\nRain: “Sayapnya terlalu kubasahi.”\nNova: “Biar kulihat apa yang dilakukan air itu.”",
+        "Beam membawa Kebahagiaan ke festival. Fizz mengatur lampu, Bloom memberi ruang bagi yang lain, dan Puff yang kecil dan rentan mendapat tugas nyata, bukan digendong menjauh.\n\nBloom: “Pegang kapnya di situ, Puff. Kami butuh tanganmu.”",
+        "Amarah tidak selalu merusak: Flare memanaskan engsel yang macet. Quiver memeriksa bahaya, dan Mend menambatkan tali pengaman. Bertiga mereka bekerja lebih baik daripada sendiri.\n\nQuiver: “Sedikit lagi. Engselnya bergerak.”\nFlare: “Kalau begitu, sedikit sudah cukup.”",
+        "Bitter, Rasa Jijik, melihat lapisan putih yang tak semestinya ada di lampu festival. Pop berhenti sebelum menyentuhnya. Quest, Rasa Ingin Tahu, menyadari seseorang mengubah peralatan kota.\n\nBitter: “Lapisan itu belum ada tadi pagi.”\nQuest: “Berarti seseorang mengutak-atik lampu kita.”",
+        "Still menjaga ruang tenang kota yang bebas dipilih. Hope, murid pembuat lentera, menyiapkan ngengat untuk Nova. Memilih ketenangan tidak membuat mereka memusuhi perasaan.\n\nHope: “Nova mengajariku lipatan ini.”\nStill: “Kamu bisa memberikannya setelah arak-arakan.”",
+        "Beam memberi cahaya, Rain tetesan air, dan Nova membagi sinar lembut melalui prisma. Tiga jalur muncul menggantikan satu berkas tajam. Bakat mereka yang berbeda membuatnya mungkin.\n\nNova: “Biarkan airnya, Rain. Air memberi cahaya tempat untuk menyebar.”",
+        "Sebuah tongkang layanan putih menyelinap ke kanal festival. Tudungnya mengumpulkan cahaya, bukan mengembalikannya. Rain dan Nova melihat penyusup itu, tetapi belum tahu sasarannya.\n\nRain: “Mengapa lentera di belakang perahu itu meredup?”"
+      ],
+      "title": "Festival Cahaya yang Berbeda"
+    },
+    "it": {
+      "captions": [
+        "A Mosaic le emozioni vivono come persone. Rain, che porta la Tristezza, crede che una lacrima abbia rovinato una falena di carta per la festa. Nova, che porta la Meraviglia, vede qualcosa da conservare.\n\nRain: «Ho bagnato troppo l’ala».\nNova: «Fammi vedere cosa fa l’acqua».",
+        "Beam porta Felicità alla festa. Fizz organizza le luci, Bloom fa spazio agli altri e Puff, piccolo e vulnerabile, riceve un vero compito invece di essere portato via.\n\nBloom: «Tieni lì il paralume, Puff. Ci servono le tue mani».",
+        "La rabbia non distrugge sempre: Flare usa il calore per liberare un cardine bloccato. Quiver controlla i pericoli e Mend ancora una fune di sicurezza. Insieme lavorano meglio che da soli.\n\nQuiver: «Ancora un poco. Il cardine si muove».\nFlare: «Allora un poco basta».",
+        "Bitter, il Disgusto, nota una patina bianca fuori posto sulle lampade della festa. Pop si ferma prima di toccarla. Quest, la Curiosità, capisce che qualcuno ha alterato le attrezzature cittadine.\n\nBitter: «Quella patina stamattina non c’era».\nQuest: «Allora qualcuno ha lavorato sulle nostre lampade».",
+        "Still cura le stanze cittadine dove si sceglie liberamente la quiete. Hope, apprendista delle lanterne, prepara una falena per Nova. Scegliere il silenzio non li rende nemici delle emozioni.\n\nHope: «Nova mi ha insegnato questa piega».\nStill: «Potrai dargliela dopo il corteo».",
+        "Beam dà la luce, Rain le gocce e Nova divide il chiarore attenuato con un prisma. Appaiono tre percorsi dove sarebbe caduto un solo raggio intenso. Lo rendono possibile i loro doni diversi.\n\nNova: «Lascia l’acqua, Rain. Dà alla luce uno spazio in cui diffondersi».",
+        "Una chiatta bianca di servizio entra nel canale della festa. La sua cappa raccoglie luce invece di restituirla. Rain e Nova hanno notato l’intruso, ma non ne conoscono ancora il bersaglio.\n\nRain: «Perché le lanterne si affievoliscono dietro quella barca?»"
+      ],
+      "title": "Il festival delle luci diverse"
+    },
+    "ja": {
+      "captions": [
+        "モザイクでは、感情が人として暮らしている。悲しみを抱くRainは、涙で祭りの紙の蛾をだめにしたと思う。驚きを抱くNovaは、残す価値のあるものを見つける。\n\nRain：「羽を濡らしすぎたよ。」\nNova：「水がどう働くか、見せて。」",
+        "Beamは祭りに幸せを運ぶ。Fizzは明かりを整え、Bloomはみんなの居場所を作る。小さく傷つきやすいPuffも、抱いて脇へよけられるのではなく、本当の仕事を任される。\n\nBloom：「Puff、そこでかさを持って。あなたの手が必要なの。」",
+        "怒りは壊すだけではない。Flareは熱で固い蝶番を緩める。Quiverは危険を確かめ、Mendは命綱を固定する。三人一緒なら、一人よりうまく働ける。\n\nQuiver：「もう少し。蝶番が動いてる。」\nFlare：「なら、少しで十分だ。」",
+        "嫌悪のBitterは、祭りの灯りに場違いな白い膜を見つける。Popは触る前に止まる。好奇心のQuestは、誰かが街の設備を変えたと気づく。\n\nBitter：「今朝はこの膜はなかった。」\nQuest：「じゃあ、誰かが僕らの灯りをいじったんだ。」",
+        "Stillは、自由に利用できる街の静かな部屋を世話する。灯り作りの見習いHopeはNovaに贈る蛾を折る。静けさを選んでも、感情の敵にはならない。\n\nHope：「この折り方はNovaが教えてくれた。」\nStill：「行列のあとで渡せるよ。」",
+        "Beamが光を、Rainが水滴を供給し、Novaが柔らかくなった光をプリズムで分ける。一筋の強い光の代わりに三つの道が現れる。異なる力が合わさって生まれたものだ。\n\nNova：「水はそのままにして、Rain。光が広がる場所をくれるから。」",
+        "白い作業船が祭りの運河へ滑り込む。船の覆いは光を返さず、集めている。RainとNovaは侵入者に気づいたが、その狙いはまだ知らない。\n\nRain：「どうして、あの船の後ろで灯りが暗くなるの？」"
+      ],
+      "title": "それぞれに違う光の祭り"
+    },
+    "ko": {
+      "captions": [
+        "모자이크에서는 감정들이 사람으로 살아간다. 슬픔을 품은 Rain은 눈물 한 방울이 축제용 종이 나방을 망쳤다고 생각한다. 경이를 품은 Nova는 간직할 만한 것을 본다.\n\nRain: “날개를 너무 적셨네.”\nNova: “물이 어떤 일을 하는지 보자.”",
+        "Beam은 축제에 행복을 가져온다. Fizz는 조명을 정리하고 Bloom은 다른 이들의 자리를 만든다. 작고 여린 Puff도 안겨서 비켜나는 대신 실제 일을 맡는다.\n\nBloom: “Puff, 거기서 갓을 잡아 줘. 네 손이 필요해.”",
+        "분노가 늘 파괴적인 것은 아니다. Flare는 열로 뻑뻑한 경첩을 푼다. Quiver는 위험을 살피고 Mend는 안전줄을 고정한다. 셋은 혼자일 때보다 함께 더 잘한다.\n\nQuiver: “조금만 더. 경첩이 움직여.”\nFlare: “그럼 조금이면 충분해.”",
+        "혐오를 품은 Bitter는 축제 등불에 어울리지 않는 흰 막을 발견한다. Pop은 닿기 전에 멈춘다. 호기심을 품은 Quest는 누군가 도시 장비를 바꿨음을 알아챈다.\n\nBitter: “아침에는 이 막이 없었어.”\nQuest: “그럼 누군가 우리 등불에 손을 댔네.”",
+        "Still은 누구나 원할 때 찾는 도시의 조용한 방들을 돌본다. 등불 견습생 Hope는 Nova에게 줄 나방을 접는다. 고요함을 선택한다고 감정의 적이 되는 것은 아니다.\n\nHope: “Nova가 이 접는 법을 알려 줬어.”\nStill: “행렬이 끝나면 전해 주렴.”",
+        "Beam은 빛을, Rain은 물방울을 내고 Nova는 부드러워진 빛을 프리즘으로 나눈다. 강한 빛줄기 하나가 닿을 곳에 세 갈래 길이 생긴다. 서로 다른 재능 덕분이다.\n\nNova: “물은 그대로 둬, Rain. 빛이 퍼질 곳을 만들어 주잖아.”",
+        "흰 작업 바지선이 축제 운하로 미끄러져 들어온다. 그 덮개는 빛을 돌려주지 않고 모으고 있다. Rain과 Nova는 침입자를 알아봤지만, 아직 그 목표는 모른다.\n\nRain: “왜 저 배 뒤에서 등불이 어두워지지?”"
+      ],
+      "title": "서로 다른 빛의 축제"
+    },
+    "pl": {
+      "captions": [
+        "W Mosaic emocje żyją jak ludzie. Rain, niosący Smutek, uważa, że łza zepsuła papierową ćmę na święto. Nova, niosąca Zachwyt, widzi coś wartego zachowania.\n\nRain: „Za bardzo zmoczyłem skrzydło”.\nNova: „Pokaż mi, co robi woda”.",
+        "Beam wnosi Szczęście na święto. Fizz organizuje światła, Bloom robi miejsce innym, a mały, wrażliwy Puff dostaje prawdziwe zadanie, zamiast zostać wyniesiony na bok.\n\nBloom: „Przytrzymaj tu klosz, Puff. Potrzebujemy twoich rąk”.",
+        "Gniew nie zawsze niszczy: Flare ciepłem uwalnia oporny zawias. Quiver sprawdza zagrożenie, a Mend mocuje linę bezpieczeństwa. Razem pracują lepiej niż osobno.\n\nQuiver: „Jeszcze trochę. Zawias się rusza”.\nFlare: „To trochę wystarczy”.",
+        "Bitter, Wstręt, dostrzega biały nalot, który nie pasuje do świątecznych lamp. Pop zatrzymuje się przed dotknięciem. Quest, Ciekawość, rozpoznaje, że ktoś zmienił miejskie urządzenia.\n\nBitter: „Rano tej powłoki tu nie było”.\nQuest: „Więc ktoś pracował przy naszych lampach”.",
+        "Still dba o miejskie pokoje dobrowolnego wyciszenia. Hope, uczeń latarnika, przygotowuje ćmę dla Novy. Wybór ciszy nie czyni ich wrogami uczuć.\n\nHope: „Nova nauczyła mnie tego zgięcia”.\nStill: „Możesz dać jej ćmę po pochodzie”.",
+        "Beam daje światło, Rain kropelki, a Nova rozdziela łagodną poświatę pryzmatem. Zamiast jednego ostrego promienia pojawiają się trzy drogi. Umożliwiają to ich różne dary.\n\nNova: „Zostaw wodę, Rain. Daje światłu miejsce do rozproszenia”.",
+        "Biała barka serwisowa wpływa do świątecznego kanału. Jej czasza zbiera światło, zamiast je oddawać. Rain i Nova zauważyli intruza, lecz nie znają jeszcze jego celu.\n\nRain: „Dlaczego latarnie za tą łodzią przygasają?”"
+      ],
+      "title": "Święto różnych świateł"
+    },
+    "pt": {
+      "captions": [
+        "Em Mosaic, as emoções vivem como pessoas. Rain, que carrega a Tristeza, acha que uma lágrima estragou uma mariposa de papel para a festa. Nova, que carrega o Encanto, vê algo que vale guardar.\n\nRain: “Molhei demais a asa.”\nNova: “Deixa-me ver o que a água faz.”",
+        "Beam traz Felicidade à festa. Fizz organiza as luzes, Bloom abre espaço para os outros e Puff, pequeno e vulnerável, recebe uma tarefa de verdade em vez de ser levado para longe.\n\nBloom: “Segura a cúpula aí, Puff. Precisamos das tuas mãos.”",
+        "A raiva nem sempre destrói: Flare usa calor para soltar uma dobradiça presa. Quiver verifica o perigo e Mend prende uma linha de segurança. Juntos trabalham melhor do que sozinhos.\n\nQuiver: “Mais um pouco. A dobradiça está a mexer.”\nFlare: “Então um pouco basta.”",
+        "Bitter, o Nojo, nota uma camada branca que não devia estar nas lanternas da festa. Pop para antes de tocar. Quest, a Curiosidade, percebe que alguém alterou o equipamento da cidade.\n\nBitter: “Essa película não estava aqui de manhã.”\nQuest: “Então alguém trabalhou nas nossas lanternas.”",
+        "Still cuida das salas de descanso voluntário da cidade. Hope, aprendiz de lanternas, prepara uma mariposa para Nova. Escolher o silêncio não faz deles inimigos dos sentimentos.\n\nHope: “Nova ensinou-me esta dobra.”\nStill: “Podes dar-lha depois do cortejo.”",
+        "Beam fornece luz, Rain gotículas e Nova divide o brilho suavizado com um prisma. Surgem três caminhos onde cairia um único feixe intenso. Os seus dons diferentes tornam isso possível.\n\nNova: “Deixa a água, Rain. Dá à luz um lugar onde se espalhar.”",
+        "Uma barcaça branca de serviço entra no canal da festa. A sua cúpula recolhe luz em vez de a devolver. Rain e Nova viram o intruso, mas ainda não sabem qual é o seu alvo.\n\nRain: “Porque estão as lanternas a perder luz atrás daquele barco?”"
+      ],
+      "title": "O Festival das Luzes Diferentes"
+    },
+    "ru": {
+      "captions": [
+        "В Мозаике эмоции живут как люди. Rain, носитель Печали, думает, что слеза испортила бумажного праздничного мотылька. Nova, носительница Изумления, видит нечто ценное.\n\nRain: «Я слишком намочил крыло».\nNova: «Дай посмотреть, что делает вода».",
+        "Beam приносит на праздник Счастье. Fizz устраивает освещение, Bloom даёт место другим, а маленький уязвимый Puff получает настоящее дело: его не уносят в сторону.\n\nBloom: «Держи абажур здесь, Puff. Нам нужны твои руки».",
+        "Гнев не всегда разрушителен: Flare нагревает заевшую петлю. Quiver следит за опасностью, а Mend закрепляет страховку. Вместе они работают лучше, чем поодиночке.\n\nQuiver: «Ещё чуть-чуть. Петля двигается».\nFlare: «Значит, чуть-чуть и хватит».",
+        "Bitter, Отвращение, замечает на праздничных фонарях неуместный белый налёт. Pop останавливается, не коснувшись его. Quest, Любопытство, понимает: кто-то изменил городское оборудование.\n\nBitter: «Утром этой плёнки не было».\nQuest: «Значит, кто-то работал с нашими фонарями».",
+        "Still заботится о городских комнатах добровольной тишины. Hope, ученик фонарщика, делает мотылька для Nova. Выбор тишины не делает их врагами чувств.\n\nHope: «Этому сгибу меня научила Nova».\nStill: «Отдашь ей мотылька после шествия».",
+        "Beam даёт свет, Rain — капли, а Nova делит смягчённое сияние призмой. Вместо одного резкого луча возникают три пути. Это возможно благодаря их разным дарам.\n\nNova: «Оставь воду, Rain. Она даёт свету пространство для рассеивания».",
+        "Белая служебная баржа скользит в праздничный канал. Её колпак собирает свет, а не возвращает его. Rain и Nova заметили чужака, но ещё не знают его цели.\n\nRain: «Почему фонари за этой лодкой тускнеют?»"
+      ],
+      "title": "Фестиваль разных огней"
+    },
+    "tr": {
+      "captions": [
+        "Mosaic’te duygular insanlar gibi yaşar. Hüznü taşıyan Rain, bir gözyaşının kâğıt şenlik güvesini bozduğunu düşünür. Hayreti taşıyan Nova ise saklanmaya değer bir şey görür.\n\nRain: “Kanadı fazla ıslattım.”\nNova: “Suyun ne yaptığını bir göreyim.”",
+        "Beam şenliğe Mutluluk getirir. Fizz ışıkları düzenler, Bloom başkalarına yer açar. Küçük ve incinebilir Puff ise kucakta kenara taşınmak yerine gerçek bir görev alır.\n\nBloom: “Siperliği orada tut, Puff. Ellerine ihtiyacımız var.”",
+        "Öfke her zaman yıkıcı değildir: Flare, sıkışmış menteşeyi ısıtarak açar. Quiver tehlikeyi kontrol eder, Mend güvenlik ipini sabitler. Birlikte daha iyi çalışırlar.\n\nQuiver: “Biraz daha. Menteşe oynuyor.”\nFlare: “Öyleyse birazı yeter.”",
+        "Tiksintiyi taşıyan Bitter, şenlik lambalarına ait olmayan beyaz bir kaplama fark eder. Pop dokunmadan durur. Merakı taşıyan Quest, birinin şehrin donanımını değiştirdiğini anlar.\n\nBitter: “Bu tabaka sabah yoktu.”\nQuest: “Demek biri lambalarımızda çalışmış.”",
+        "Still, şehrin isteğe bağlı sessiz odalarıyla ilgilenir. Fener çırağı Hope, Nova için bir güve hazırlar. Sessizliği seçmeleri, onları duyguların düşmanı yapmaz.\n\nHope: “Bu katlamayı Nova öğretti.”\nStill: “Geçit töreninden sonra ona verebilirsin.”",
+        "Beam ışığı, Rain damlaları sağlar; Nova yumuşayan ışığı bir prizmadan geçirip böler. Tek sert ışının düşeceği yerde üç yol oluşur. Farklı yetenekleri bunu mümkün kılar.\n\nNova: “Suyu bırak, Rain. Işığa yayılacak bir yer veriyor.”",
+        "Beyaz bir hizmet mavnası şenlik kanalına süzülür. Başlığı ışığı geri vermek yerine toplar. Rain ve Nova davetsiz konuğu fark etmiştir, ama hedefini henüz bilmez.\n\nRain: “O teknenin arkasındaki fenerler neden sönükleşiyor?”"
+      ],
+      "title": "Farklı Işıklar Festivali"
+    },
+    "vi": {
+      "captions": [
+        "Ở Mosaic, cảm xúc sống như con người. Rain mang Nỗi buồn, nghĩ một giọt lệ đã làm hỏng con bướm đêm giấy của lễ hội. Nova mang Niềm kinh ngạc, thấy điều đáng giữ lại.\n\nRain: “Tớ làm cánh ướt quá.”\nNova: “Để tớ xem nước làm được gì.”",
+        "Beam mang Hạnh phúc tới lễ hội. Fizz lo ánh sáng, Bloom nhường chỗ cho mọi người. Puff nhỏ bé, dễ tổn thương được giao việc thật sự thay vì bị bế sang một bên.\n\nBloom: “Giữ chụp đèn ở đó nhé, Puff. Chúng tớ cần đôi tay cậu.”",
+        "Giận dữ không phải lúc nào cũng phá hoại: Flare dùng nhiệt gỡ bản lề kẹt. Quiver kiểm tra nguy hiểm, Mend neo dây an toàn. Cả ba phối hợp tốt hơn khi làm riêng.\n\nQuiver: “Thêm chút nữa. Bản lề đang nhúc nhích.”\nFlare: “Vậy một chút là đủ.”",
+        "Bitter, Sự ghê tởm, nhận ra lớp phủ trắng lạ trên đèn lễ hội. Pop dừng lại trước khi chạm vào. Quest, Sự tò mò, hiểu rằng ai đó đã sửa đổi thiết bị của thành phố.\n\nBitter: “Sáng nay chưa có lớp màng này.”\nQuest: “Vậy có người đã động vào đèn của chúng ta.”",
+        "Still chăm lo các phòng yên tĩnh tự nguyện của thành phố. Hope, học việc làm đèn, chuẩn bị bướm đêm giấy cho Nova. Chọn yên tĩnh không khiến họ thành kẻ thù của cảm xúc.\n\nHope: “Nova dạy tớ nếp gấp này.”\nStill: “Sau đoàn diễu hành, cháu có thể tặng cô ấy.”",
+        "Beam cho ánh sáng, Rain cho giọt nước, Nova dùng lăng kính tách ánh sáng đã dịu đi. Ba đường sáng hiện ra thay cho một tia gắt. Những tài năng khác nhau giúp họ làm được điều đó.\n\nNova: “Giữ nước lại, Rain. Nó cho ánh sáng chỗ để lan ra.”",
+        "Một sà lan dịch vụ trắng lướt vào kênh lễ hội. Chụp thu gom của nó lấy ánh sáng thay vì trả lại. Rain và Nova thấy kẻ xâm nhập nhưng chưa biết mục tiêu của nó.\n\nRain: “Sao đèn lồng phía sau con thuyền kia lại mờ đi?”"
+      ],
+      "title": "Lễ hội của những ánh sáng khác biệt"
+    },
+    "zh": {
+      "captions": [
+        "在马赛克城，情感像人一样生活。承载悲伤的Rain觉得，一滴眼泪弄坏了节庆纸蛾。承载惊奇的Nova却看见了值得保留的东西。\n\nRain：“我把翅膀弄得太湿了。”\nNova：“让我看看水会带来什么。”",
+        "Beam把快乐带到节日里。Fizz安排灯光，Bloom为别人腾出空间，小小而脆弱的Puff也得到了一项真正的任务，而不是被抱到一旁。\n\nBloom：“Puff，把灯罩扶在那里。我们需要你的双手。”",
+        "愤怒并不总是破坏：Flare用热量松开卡住的铰链。Quiver检查危险，Mend固定安全绳。三人合作比独自行动更好。\n\nQuiver：“再一点。铰链动了。”\nFlare：“那一点就够了。”",
+        "代表厌恶的Bitter发现，节日灯具上有不该出现的白色涂层。Pop在碰到它之前停下。代表好奇的Quest意识到，有人改动了城市设备。\n\nBitter：“今天早上还没有这层膜。”\nQuest：“那就是有人动过我们的灯。”",
+        "Still照看城里供人自愿使用的安静房间。灯笼学徒Hope正在为Nova折一只纸蛾。选择安静，并不意味着与情感为敌。\n\nHope：“这个折法是Nova教我的。”\nStill：“游行后你就可以送给她。”",
+        "Beam提供光，Rain提供水滴，Nova用棱镜分开柔和的光芒。原本只有一道刺眼光束的地方，出现了三条光路。是他们不同的天赋促成了这一切。\n\nNova：“把水留着，Rain。它给了光散开的地方。”",
+        "一艘白色工作驳船悄悄驶进节日运河。它的罩子正在收集光，而不是把光送回来。Rain和Nova注意到了闯入者，却还不知道它的目标。\n\nRain：“为什么那艘船后面的灯笼都暗了？”"
+      ],
+      "title": "不同光芒的节日"
+    }
+  },
+  "number": 101,
+  "panels": [
+    {
+      "image": "s101_p01.png"
+    },
+    {
+      "image": "s101_p02.png"
+    },
+    {
+      "image": "s101_p03.png"
+    },
+    {
+      "image": "s101_p04.png"
+    },
+    {
+      "image": "s101_p05.png"
+    },
+    {
+      "image": "s101_p06.png"
+    },
+    {
+      "image": "s101_p07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "festival",
+    "friendship",
+    "mystery",
+    "wonder"
+  ],
+  "version": 2
+}

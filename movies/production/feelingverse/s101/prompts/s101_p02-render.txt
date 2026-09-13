@@ -1,0 +1,48 @@
+SCENE 101.2 | movie image 002/175 | intermediate art for s101_p02.png
+
+FORMAT: ONE frozen illustrated moment. Art viewport 1200 × 1080 (10:9), later composed above a 420-pixel text band in the final 1200 × 1500 card. Keep essential faces/hands/clues inside a 6% art margin. No panels, inset scenes, duplicate action poses, generated text, captions, speech bubbles, sound-effect lettering or logos inside this artwork.
+
+STYLE: Match the USER-APPROVED ORIGINAL MOVIE frame (first reference), especially its dimensional glossy-painted rounded emoji bodies, white-sclera expressive eyes, rich amber and violet cinematic lighting, selective confident black comic contours, real textured stone, crafted bronze, colorful glass and substantial fabric. This is the SAME visual universe, not new flat coin-token designs, stone tablets, human superheroes, Pokémon or animal creatures. One face-bearing rounded body with directly attached short limbs; no separate torso or head. Keep the user-approved 3D comic finish, with clear shadow grouping and genuine environmental depth. No franchise emblems, words or costumes. The user explicitly selected this original style, overriding the assignment's flatter matte-only style sentence. Every background must still obey the NEW geography and support rules; do not copy impossible architecture or extra crowds from old style references.
+
+ANATOMY: each emoji is ONE face-bearing rounded disk, about 1 U wide and 0.25 U thick, with TWO side arms/mitten hands and TWO short legs/feet; total height about 1.25 U. No separate head/neck/human torso. Puff and Hope are 0.7 scale; other emojis standard scale. Null has its own large mechanical form. Anatomical left/right and craft port/starboard do not flip with the camera.
+
+MOVIE CONTEXT: Null, a machine built for optional quiet, is forcibly recording expressions and planning to destroy the individual originals. Rain leads the rescue of Nova and the surviving victims. Original echoes must return through established paths to the SAME bodies. Hush’s mouthlessness and Still’s neutrality are normal identities, not stolen expressions. Nova branches existing light through real prisms; no one teleports, invents memories or heals props by feeling strongly.
+
+CHAPTER ENTRY: Sunset, Day 1. Mosaic is celebrating at the foot of the Manylight lighthouse. Everyone is free. Null has secretly sent Vex and a collector barge into the canal.
+
+THIS SHOT’S NARRATIVE JOB: The eventual rescue network already exists as ordinary civic equipment maintained by a community.
+
+PREVIOUS VIEW OF THIS LOCATION: s101_p01 — In Mosaic, emotions live as people. Rain, who carries Sadness, thinks a tear has spoiled a paper festival moth. Nova, who carries Wonder, sees something worth keeping. This is continuity context, not a second scene to render. A cross-cut does not automatically put the previous cast into the present image.
+
+FOREGROUND / ACTION CAST — exactly Beam, Fizz, Bloom, Puff. The following definitions establish identity, not extra actions:
+
+- Beam (😄; Happiness): Golden matte body; short ivory sun-visor with a notch at the wearer’s anatomical right edge. The face depends on the explicit scene state below; never infer a smile from the Happiness role alone. Functional limit: Produces light, not unlimited energy. A direct beam feeds Null’s collectors; diffused light can reveal and connect. CURRENT STATE: NORMAL FACE: both dark crescent eyes and broad smile remain on Beam’s own body. Respond with concern when called for without blanking the face.
+
+- Fizz (🥳; Celebration): Coral body; conical teal party hat with three white dots; curled gold party blower. Functional limit: Runs public lantern lines and knows how to organize a crowd. CURRENT STATE: Normal established body/face and costume; no new prop or ability.
+
+- Bloom (😊; Warmth and gratitude): Soft-gold body; curved smiling eyes; pink cheeks; two-petal coral neck bow. Functional limit: Organizes practical care and notices who is left out. CURRENT STATE: Normal established body/face and costume; no new prop or ability.
+
+- Puff (🥺; Vulnerability and longing): Small cream body at 0.7 scale; large reflective pleading eyes; soft red scalloped cap. Functional limit: Not a secret weapon. Accepts help, then helps an even smaller anonymous neighbor. CURRENT STATE: Normal established body/face and costume; no new prop or ability.
+
+BACKGROUND NAMED CAST: none beyond the foreground list. Named people in the narration are not instructions to add visible actors.
+
+UNNAMED PEOPLE: permit only the exact residents/workers expressly counted in the frozen-action paragraph; otherwise none. Never add crowds to fill empty space. Echo patterns, paintings and reflections are not additional living actors.
+
+PLACE M0 — Mosaic / festival canal: WEST bank: broad stone steps, one lantern-tree structure fixed to a masonry planter, paved promenade and vendor tables. EAST bank: the single Manylight lighthouse on its own round stone foundation. One arched pedestrian bridge joins the banks north of the steps. The canal remains open beneath its arch. Ordinary houses occupy separate hillside terraces, never rooftops of other houses. Warm practical lamps against cool blue water; sunset/night through 123, pre-dawn return in 124 with first dawn at 124.7, full daylight after the Day 5 jump. Return views must preserve the step–bridge–tower relationship.
+
+CAMERA / COMPOSITION: Wide canal-level shot from the paved west promenade; medium-height foreground figures, deep architectural background.
+
+FROZEN ACTION / BLOCKING / EVIDENCE: Beam stands at the left lamp post and touches its hood with a small controlled glow. Fizz, one pace behind, holds a lowered pulley cord; the single suspended lantern hangs at Puff’s eye height. Bloom steadies the lantern frame while Puff fits its paper shade using both mittens. Three unnamed residents wait farther along the same paved route. Each lamp cable connects to a visible post. One bridge crosses the canal behind the group; no buildings occupy the waterway.
+
+BACKGROUND LOGIC, MANDATORY: every building mass rests on its own foundation or established structural support; every bridge/stair/lift joins a real origin and destination. Reject castles stacked on castles, buildings sitting on ordinary roofs, unsupported islands, overlapping floors and stairs into nothing. Trace load→support, route→destination, light→source and opening→space. Fantasy effects do not waive these tests. Real reflections require the actual object and correct orientation. Dry rooms, water, airlocks and vacuum obey the specified boundaries.
+
+SCENE-SPECIFIC REJECTION: Reject a crowd of duplicate Beams, an unsupported lantern line, Puff treated as a baby, or an unexplained second bridge.
+
+PLANNED REFERENCE DEPENDENCIES: style_graphic_novel_v2, cast_Beam_identity_and_current_state, cast_Fizz_identity_and_current_state, cast_Bloom_identity_and_current_state, cast_Puff_identity_and_current_state, location_M0_plan_and_light, prop_states_s101_p02, accepted_scene_s101_p01. These are logical production IDs, NOT supplied or approved files. Create/check them first; attach only references that actually exist. Use original identity locks as well as preceding approved art so errors do not propagate.
+
+TEXT HANDOFF: render no letters in the art. The final-card compositor MUST add the exact Narration and attributed Dialogue printed immediately above this packet. Clean art alone is NOT a completed card. Preserve signing/radio/aside modes and every word; inspect the final text-bearing card before approval.
+
+
+REFERENCE ROLES: image 1 is PRIMARY user-approved STYLE only; image 2 is exact character identities Fizz/Bloom/Puff; image 3 is ONLY Beam identity (third row), not rendering style and no Rain or Nova in this shot; image 4 supplies approved same-location architecture only (remove its people from this new frame). Fizz coral with teal conical hat and exactly three white dots, one gold curled blower; Bloom soft gold with pink cheeks and two-petal coral bow; Puff cream, small .7 scale, red scalloped cap. Beam golden with ivory visor whose notch is on wearer's right edge of visor. Body is undamaged. In this story the eyes, outlines and volume match reference1. Two short arms and feet each. Single-thumb mittens.
+COMPOSITION PRIORITY: Exactly FOUR named foreground people, exactly THREE much smaller unnamed waiting residents in back on the same west walkway. No other people. Left post and its hood are low enough for Beam to touch with one controlled glimmer. Behind him Fizz visibly HOLDS the free end of a continuous rope threaded over a simple pulley fixed at top of a right-hand post. Its other end supports ONE lantern at Puff's eye height. Bloom supports that lantern's rigid metal rim from one side; Puff uses both mittens on the paper shade from the other. The hanging load, suspension point, down-rope in Fizz hand and sturdy post base must all be legible. Lantern bottom ABOVE pavement. All four feet on pavement, no occluded missing person. Avoid crossing unrelated ropes or floating lamp strings. ONE bridge in background, ordinary terrace houses supported on land. Keep buildings secondary and geometrically simple.
+Nearly square 10:9 art, 1600x1440 if possible. All essential actors, hands, pulley support, lantern, three residents and bridge connections within 8% margin. No letters or captions.

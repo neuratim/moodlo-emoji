@@ -1,0 +1,43 @@
+SCENE 101.7 | movie image 007/175 | intermediate art for s101_p07.png
+
+FORMAT: ONE frozen illustrated moment. Art viewport 1200 × 1080 (10:9), later composed above a 420-pixel text band in the final 1200 × 1500 card. Keep essential faces/hands/clues inside a 6% art margin. No panels, inset scenes, duplicate action poses, generated text, captions, speech bubbles, sound-effect lettering or logos inside this artwork.
+
+STYLE: original Marvel/DC-scale superhero fantasy with decisive graphic-novel contours, painterly environmental depth, strong value grouping, restrained local highlights, substantial cloth/stone/glass/bronze/metal. Matte emoji bodies, not glossy toy enamel or flat stickers on photographs. No franchise hero, costume, emblem or location. Prioritize the actual action over a heroic lineup.
+
+ANATOMY: each emoji is ONE face-bearing rounded disk, about 1 U wide and 0.25 U thick, with TWO side arms/mitten hands and TWO short legs/feet; total height about 1.25 U. No separate head/neck/human torso. Puff and Hope are 0.7 scale; other emojis standard scale. Null has its own large mechanical form. Anatomical left/right and craft port/starboard do not flip with the camera.
+
+MOVIE CONTEXT: Null, a machine built for optional quiet, is forcibly recording expressions and planning to destroy the individual originals. Rain leads the rescue of Nova and the surviving victims. Original echoes must return through established paths to the SAME bodies. Hush’s mouthlessness and Still’s neutrality are normal identities, not stolen expressions. Nova branches existing light through real prisms; no one teleports, invents memories or heals props by feeling strongly.
+
+CHAPTER ENTRY: Sunset, Day 1. Mosaic is celebrating at the foot of the Manylight lighthouse. Everyone is free. Null has secretly sent Vex and a collector barge into the canal.
+
+THIS SHOT’S NARRATIVE JOB: The first threat is physically present and observable, not an impossible reflection or unexplained omen.
+
+PREVIOUS VIEW OF THIS LOCATION: s101_p06 — Beam supplies light, Rain supplies droplets, and Nova divides the softened glow through a prism. Three paths appear where one harsh beam would have fallen. Their different gifts make the result possible. This is continuity context, not a second scene to render. A cross-cut does not automatically put the previous cast into the present image.
+
+FOREGROUND / ACTION CAST — exactly Rain, Nova. The following definitions establish identity, not extra actions:
+
+- Rain (😢; Sadness; the viewpoint hero): Cobalt-blue matte illustrated body; one large tear at the anatomical left eye; scalloped indigo rain-collar; small clear teardrop bottle on a cord. The collar has one small secure front pocket; its bottle is not an infinite water source. Functional limit: Condensation reveals traces beneath blanking lacquer; tears can carry an existing echo, never create a lost one. Needs moisture and close contact. CURRENT STATE: Does not own Nova’s pin yet.
+
+- Nova (🤩; Wonder; the kidnapped friend): Warm-ivory matte body; star-shaped pupils; narrow violet comet scarf. The scarf’s brass star pin is a separate tracked object whose attachment and damage are explicitly specified. A lively small open smile may soften with concern while both star pupils remain recognizable. Functional limit: Splits existing light into branching routes through real prisms. Needs a light source and optical connections; cannot teleport bodies or rewrite minds. CURRENT STATE: FREE and not restrained at this moment. Star pin intact on the scarf knot; both star pupils visible.
+
+REQUIRED BACKGROUND CAST — exactly Vex. Keep their camera depth/occlusion as directed; never duplicate them among the foreground:
+
+- Vex (😈; Mischief used to harm; Null’s lieutenant): Plum matte body; two short horns, anatomical left horn covered by an amber cap; pointed silver half-collar with one service-badge clip. The white badge and fold-out reflector follow the current inventory, not a default costume. Narrow lively dark eyes and a small sly mouth can become serious; do not redesign the face after cooperation. CURRENT STATE: One intact square white service badge on clip except when used; one fold-out reflector remains the only optical trick tool. Vex is a specific kidnapper, not proof that an emotion is evil.
+
+Vex is ONLY an indistinct partly occluded operator silhouette here, not a close readable additional protagonist. Its location behind the real hood matters more than facial detail.
+
+UNNAMED PEOPLE: permit only the exact residents/workers expressly counted in the frozen-action paragraph; otherwise none. Never add crowds to fill empty space. Echo patterns, paintings and reflections are not additional living actors.
+
+PLACE M0 — Mosaic / festival canal: WEST bank: broad stone steps, one lantern-tree structure fixed to a masonry planter, paved promenade and vendor tables. EAST bank: the single Manylight lighthouse on its own round stone foundation. One arched pedestrian bridge joins the banks north of the steps. The canal remains open beneath its arch. Ordinary houses occupy separate hillside terraces, never rooftops of other houses. Warm practical lamps against cool blue water; sunset/night through 123, pre-dawn return in 124 with first dawn at 124.7, full daylight after the Day 5 jump. Return views must preserve the step–bridge–tower relationship.
+
+CAMERA / COMPOSITION: Wide, low view along the canal toward the underside of the bridge; both bank and water surface visible.
+
+FROZEN ACTION / BLOCKING / EVIDENCE: Rain and Nova stand on the west-bank step looking beneath the bridge. The original moth lies safely beside Rain’s foot. In the midground, a real white collector barge rounds the bridge pier, with a white oval collector hood raised above its deck. Its matching pale reflection appears directly beneath it in the water, broken by ripples. Show Vex only as an indistinct operator shape behind the hood, without introducing a second readable character. The barge fits between the existing piers.
+
+BACKGROUND LOGIC, MANDATORY: every building mass rests on its own foundation or established structural support; every bridge/stair/lift joins a real origin and destination. Reject castles stacked on castles, buildings sitting on ordinary roofs, unsupported islands, overlapping floors and stairs into nothing. Trace load→support, route→destination, light→source and opening→space. Fantasy effects do not waive these tests. Real reflections require the actual object and correct orientation. Dry rooms, water, airlocks and vacuum obey the specified boundaries.
+
+SCENE-SPECIFIC REJECTION: Reject a reflection with no real source, a boat passing through a pier, a readable Null in distant space, or Nova already restrained.
+
+PLANNED REFERENCE DEPENDENCIES: style_graphic_novel_v2, cast_Rain_identity_and_current_state, cast_Nova_identity_and_current_state, cast_Vex_identity_and_current_state, location_M0_plan_and_light, prop_states_s101_p07, accepted_scene_s101_p06. These are logical production IDs, NOT supplied or approved files. Create/check them first; attach only references that actually exist. Use original identity locks as well as preceding approved art so errors do not propagate.
+
+TEXT HANDOFF: render no letters in the art. The final-card compositor MUST add the exact Narration and attributed Dialogue printed immediately above this packet. Clean art alone is NOT a completed card. Preserve signing/radio/aside modes and every word; inspect the final text-bearing card before approval.

@@ -1,0 +1,55 @@
+[
+  {
+    "dialogue": [
+      "Rain: “I made the wing too wet.”",
+      "Nova: “Let me see what the water does.”"
+    ],
+    "id": "s101_p01",
+    "narration": "In Mosaic, emotions live as people. Rain, who carries Sadness, thinks a tear has spoiled a paper festival moth. Nova, who carries Wonder, sees something worth keeping."
+  },
+  {
+    "dialogue": [
+      "Bloom: “Hold the shade there, Puff. We need your hands.”"
+    ],
+    "id": "s101_p02",
+    "narration": "Beam brings Happiness to the festival. Fizz organizes the lights, Bloom makes room for others, and small, vulnerable Puff gets a real task instead of being carried out of the way."
+  },
+  {
+    "dialogue": [
+      "Quiver: “A little more. The hinge is moving.”",
+      "Flare: “Then a little is enough.”"
+    ],
+    "id": "s101_p03",
+    "narration": "Anger is not always destructive: Flare uses heat to free a stubborn hinge. Quiver checks the danger, and Mend anchors a safety line. The three work better together than alone."
+  },
+  {
+    "dialogue": [
+      "Bitter: “That film was not here this morning.”",
+      "Quest: “Then someone has been working on our lamps.”"
+    ],
+    "id": "s101_p04",
+    "narration": "Bitter, Disgust, notices a white coating that does not belong on the festival lamps. Pop stops before touching it. Quest, Curiosity, recognizes that someone has altered the city’s equipment."
+  },
+  {
+    "dialogue": [
+      "Hope: “Nova taught me this fold.”",
+      "Still: “You can give it to her after the procession.”"
+    ],
+    "id": "s101_p05",
+    "narration": "Still looks after the city’s voluntary quiet rooms. Hope, a lantern apprentice, prepares a moth for Nova. Choosing quiet does not make either of them an enemy of feeling."
+  },
+  {
+    "dialogue": [
+      "Nova: “Keep the water, Rain. It gives the light somewhere to spread.”"
+    ],
+    "id": "s101_p06",
+    "narration": "Beam supplies light, Rain supplies droplets, and Nova divides the softened glow through a prism. Three paths appear where one harsh beam would have fallen. Their different gifts make the result possible."
+  },
+  {
+    "dialogue": [
+      "Rain: “Why are the lanterns dimming behind that boat?”"
+    ],
+    "id": "s101_p07",
+    "narration": "A white service barge slips into the festival canal. Its hood is collecting light instead of giving it back. Rain and Nova have noticed the intruder, but they do not yet know its target."
+  }
+]
