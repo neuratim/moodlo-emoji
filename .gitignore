@@ -1,3 +1,6 @@
+*.pyc
 .dart_tool/
+__pycache__/
+/movies/production/
+/movies/source/
 pubspec.lock
-

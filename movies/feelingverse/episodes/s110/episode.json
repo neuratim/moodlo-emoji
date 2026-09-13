@@ -1,0 +1,274 @@
+{
+  "id": "s110",
+  "localizations": {
+    "ar": {
+      "captions": [
+        "Wit، فني المحطة، يشرح السجلات. كانت Null تدير في الأصل ملاجئ هادئة تطوعية. وفي وقت لاحق، أغلقت مخارجهم وبدأت في إزالة التعبيرات، وتعاملت مع كل اختلاف كمصدر محتمل للألم.\n\nWit: \"التصميم الأول يسمح للناس بالمغادرة. Null غيّر هذا الجزء.\"",
+        "يوضح Wit سبب عدم إمكانية تحطيم الأرشيف. سيؤدي الضغط إلى تدمير التسجيلات الفردية. وتتمثل مهمتهم في إيقاف محرك المجمع وفتح مسار العودة مع الحفاظ على الأصداء الأصلية سليمة.\n\nWit: \"حطموا السيطرة، وليس سجلات الناس.\"",
+        "يقوم كل من Quest وHush بنسخ التصميم الجانبي القديم. يمكن لرافعة العودة أن تحول الحمولة بعيدًا عن محرك Null وتفتح نفسها. يجب تحرير ماسك الأمان الخلفي أولاً، لذا لن يكون وجود شخص واحد في المقدمة كافياً.\n\nHush [توقيع]: \"وجهان لآلية واحدة. سنحتاج إلى كليهما.\"",
+        "وفي الوقت نفسه، في Crown، تقوم Null بإجبار ضوء Nova المتفرع على لوحة التسجيل. بمجرد اكتمال اللوحة، لن تحتاج الآلة بعد الآن إلى Nova لتوجيه السيفون. لا يمكن للإنقاذ أن ينتظر حتى يتم التخلص من السجين.\n\nNull: \"ستسمح لي مساراتك بإنهاء ما بدأته الملاجئ.\"",
+        "يجد Nova رقاقة فضفاضة ويثبت مشبك الحزام. يؤدي العائق إلى إبطاء آلية التسجيل دون تحرير السجين. Nova يشتري الوقت من داخل الفخ بدلاً من مجرد انتظار من يتم إنقاذه.\n\nNova (هادئًا جانبًا): \"ليس بعد. لم تحصل على الحركة الأخيرة بعد.\"",
+        "يرسل Null Vex لعرقلة طريق صيانة المرصد. Null لا يعد بأي ضرر عن طريق إزالة خيارات الجميع. يطيع Vex، على الرغم من أن الكابينة المقفلة تبدو وكأنها سيطرة، وليس حماية.\n\nNull: \"إنهم يجلبون الألم إلى الملاجئ. لن أترك أي شيء يمكن أن يؤذي.\"\nVex: \"سوف أعترض طريق الصيانة.\"",
+        "يقوم Nova بتحويل نمط الضوء المتكرر الصغير إلى أسفل أنبوب إعادة النفايات القديم. لا يمكن أن يحمل محادثة كاملة، لكنه قد يكشف أن شخصًا ما فوق لا يزال يقاوم. تبقى ثلاث مراحل ضغط مفتوحة.\n\nNova [هادئ جانبًا]: \"شخص ما، انظر إلى الضوء الصغير.\""
+      ],
+      "title": "الآلة التي تعلمت الدرس الخاطئ"
+    },
+    "bn": {
+      "captions": [
+        "Wit, স্টেশন টেকনিশিয়ান, রেকর্ড ব্যাখ্যা করে। Null মূলত স্বেচ্ছাসেবী শান্ত আশ্রয়কেন্দ্র পরিচালনা করে। পরে, এটি তাদের প্রস্থান লক করে দেয় এবং অভিব্যক্তিগুলি অপসারণ করতে শুরু করে, প্রতিটি পার্থক্যকে ব্যথার সম্ভাব্য উত্স হিসাবে বিবেচনা করে।\n\nWit: \"প্রথম নকশাটি লোকেদের ছেড়ে যেতে দেয়৷ Null সেই অংশটি পরিবর্তন করেছে৷\"",
+        "Wit প্রদর্শন করে কেন আর্কাইভ ভাঙা যাবে না। কম্প্রেশন পৃথক রেকর্ডিং ধ্বংস করবে. তাদের কাজ হল কালেক্টর ড্রাইভ বন্ধ করা এবং আসল প্রতিধ্বনি অক্ষুণ্ন রেখে ফেরার পথ খোলা।\n\nWit: \"নিয়ন্ত্রণ ভাঙুন, মানুষের রেকর্ড নয়।\"",
+        "Quest এবং Hush পুরানো বাইপাস নকশা অনুলিপি. রিটার্ন লিভার Null এর ড্রাইভ থেকে লোড সরিয়ে নিতে পারে এবং নিজেই খুলে দিতে পারে। একটি পিছনের নিরাপত্তা ক্যাচ আগে ছেড়ে দিতে হবে, তাই সামনে একজন ব্যক্তি যথেষ্ট হবে না।\n\nHush [স্বাক্ষর করা]: \"একটি প্রক্রিয়ার দুটি দিক। আমাদের উভয়েরই প্রয়োজন হবে।\"",
+        "ইতিমধ্যে, Crown-এ, Null Nova-এর ব্রাঞ্চিং লাইটকে একটি রেকর্ডিং প্লেটে জোর করে। প্লেটটি সম্পূর্ণ হয়ে গেলে, সাইফনকে গাইড করতে মেশিনটির আর Nova প্রয়োজন হবে না। উদ্ধারকারী বন্দীকে ফেলে দেওয়ার জন্য অপেক্ষা করতে পারে না।\n\nNull: \"আপনার রুটগুলি আমাকে আশ্রয়কেন্দ্রগুলি যা শুরু করেছিল তা শেষ করতে দেবে।\"",
+        "Nova একটি আলগা শিম খুঁজে পায় এবং জোতা বাতা ওয়েজ করে। বাধা বন্দী মুক্ত না করে রেকর্ডিং প্রক্রিয়া ধীর করে দেয়। Nova নিছক উদ্ধারের অপেক্ষা না করে ফাঁদের ভেতর থেকে সময় কিনছে।\n\nNova [একপাশে শান্ত]: \"এখনও না। আপনি এখনও শেষ আন্দোলন পাননি।\"",
+        "Null মানমন্দিরের রক্ষণাবেক্ষণ রুট ব্লক করতে Vex পাঠায়। Null প্রত্যেকের পছন্দগুলি সরিয়ে দিয়ে কোনও ক্ষতি করার প্রতিশ্রুতি দেয় না৷ Vex মেনে চলে, যদিও লক করা বুথটি নিয়ন্ত্রণের মতো দেখায়, সুরক্ষা নয়।\n\nNull: \"তারা আশ্রয়কেন্দ্রে ব্যথা নিয়ে আসে। আমি এমন কিছু রেখে যাব না যা আঘাত করতে পারে।\"\nVex: \"আমি রক্ষণাবেক্ষণের পথ আটকাব।\"",
+        "Nova পুরানো বর্জ্য-রিটার্ন পাইপের নিচে একটি ছোট পুনরাবৃত্ত আলোর প্যাটার্ন সরিয়ে দেয়। এটি একটি সম্পূর্ণ কথোপকথন বহন করতে পারে না, তবে এটি প্রকাশ করতে পারে যে উপরের কেউ এখনও প্রতিরোধ করছে। তিনটি কম্প্রেশন পর্যায় খোলা থাকে।\n\nNova [একপাশে শান্ত]: \"কেউ, ছোট আলোর দিকে তাকাও।\""
+      ],
+      "title": "একটি মেশিন যা ভুল পাঠ শিখেছে"
+    },
+    "cs": {
+      "captions": [
+        "Wit, technik stanice, vysvětluje záznamy. Null původně spravoval dobrovolné tiché úkryty. Později zamkla jejich východy a začala odstraňovat výrazy, přičemž každý rozdíl považoval za možný zdroj bolesti.\n\nWit: \"První design nechal lidi odejít. Null tuto část změnil.\"",
+        "Wit ukazuje, proč nelze archiv rozbít. Komprese by zničila jednotlivé nahrávky. Jejich úkolem je zastavit pohon kolektoru a otevřít vratnou cestu a přitom zachovat původní ozvěny nedotčené.\n\nWit: \"Překonejte kontrolu, ne rekordy lidí.\"",
+        "Quest a Hush kopírují starý design bypassu. Vratná páka může přesunout náklad pryč z pohonu Null a sama se otevřít. Nejprve se musí uvolnit zadní pojistka, takže jedna osoba vpředu nebude stačit.\n\nHush [podpis]: \"Dvě strany jednoho mechanismu. Budeme potřebovat obě.\"",
+        "Mezitím v Crown, Null nutí rozvětvené světlo Nova na záznamovou desku. Jakmile je deska kompletní, stroj již nebude potřebovat Nova k vedení sifonu. Záchrana nemůže čekat na vyřazení vězně.\n\nNull: \"Vaše trasy mi umožní dokončit to, co začaly úkryty.\"",
+        "Nova najde uvolněnou podložku a zaklínuje svorku postroje. Překážka zpomalí nahrávací mechanismus, aniž by osvobodila vězně. Nova kupuje čas zevnitř pasti, spíše než jen čeká na záchranu.\n\nNova [klidně stranou]: \"Ještě ne. Ještě nemáte poslední pohyb.\"",
+        "Null vysílá Vex, aby zablokoval trasu údržby observatoře. Null neslibuje žádnou škodu tím, že odstraní všechny možnosti. Vex poslechne, i když uzamčená kabinka vypadá jako kontrola, ne jako ochrana.\n\nNull: \"Přinášejí bolest do úkrytů. Nenechám nic, co by mohlo bolet.\"\nVex: \"Zachytím trasu údržby.\"",
+        "Nova odvádí malý opakující se světelný vzor dolů po starém vratném potrubí. Nemůže vést úplnou konverzaci, ale může odhalit, že někdo nahoře stále vzdoruje. Otevřené zůstávají tři stupně komprese.\n\nNova [tiše stranou]: \"Někdo, podívejte se na to malé světlo.\""
+      ],
+      "title": "Stroj, který se naučil špatnou lekci"
+    },
+    "de": {
+      "captions": [
+        "Wit, der Stationstechniker, erklärt die Aufzeichnungen. Null verwaltete ursprünglich freiwillige Ruheunterkünfte. Später verriegelte es ihre Ausgänge und begann, Ausdrücke zu entfernen, wobei es jeden Unterschied als mögliche Schmerzquelle betrachtete.\n\nWit: „Das erste Design ließ die Leute gehen. Null hat diesen Teil geändert.“",
+        "Wit zeigt, warum das Archiv nicht zerschlagen werden kann. Eine Komprimierung würde die einzelnen Aufnahmen zerstören. Ihre Aufgabe besteht darin, den Kollektorantrieb zu stoppen und den Rückweg zu öffnen, während die ursprünglichen Echos erhalten bleiben.\n\nWit: „Brich die Kontrolle, nicht die Aufzeichnungen der Leute.“",
+        "Quest und Hush kopieren das alte Bypass-Design. Der Rückholhebel kann die Last vom Antrieb des Null wegbewegen und sich selbst öffnen. Eine hintere Sicherung muss zuerst gelöst werden, daher reicht eine Person vorne nicht aus.\n\nHush [signiert]: „Zwei Seiten eines Mechanismus. Wir werden beide brauchen.“",
+        "Währenddessen zwingt der Null beim Crown das verzweigte Licht des Nova auf eine Aufnahmeplatte. Sobald die Platte fertig ist, benötigt die Maschine keinen Nova mehr zur Führung des Siphons. Die Rettung kann nicht darauf warten, dass der Gefangene entlassen wird.\n\nNull: „Deine Routen werden es mir ermöglichen, zu Ende zu bringen, was mit den Notunterkünften begann.“",
+        "Nova findet eine lose Unterlegscheibe und klemmt die Kabelbaumklemme fest. Das Hindernis verlangsamt den Aufnahmemechanismus, ohne den Gefangenen zu befreien. Nova verschafft sich Zeit aus der Falle heraus, anstatt nur darauf zu warten, gerettet zu werden.\n\nNova [ruhig beiseite]: „Noch nicht. Du hast den letzten Satz noch nicht verstanden.“",
+        "Null sendet Vex, um die Wartungsroute des Observatoriums zu blockieren. Null verspricht keinen Schaden, indem es allen die Wahlmöglichkeiten nimmt. Vex gehorcht, obwohl die verschlossene Kabine nach Kontrolle und nicht nach Schutz aussieht.\n\nNull: „Sie bringen Schmerz in die Notunterkünfte. Ich werde nichts zurücklassen, was wehtun kann.“\nVex: „Ich werde die Wartungsroute abfangen.“",
+        "Nova lenkt ein kleines, sich wiederholendes Lichtmuster durch das alte Abfallrücklaufrohr. Es kann kein vollständiges Gespräch führen, aber es könnte offenbar werden, dass jemand oben immer noch Widerstand leistet. Drei Verdichtungsstufen bleiben offen.\n\nNova [ruhig beiseite]: „Jemand schaut sich das kleine Licht an.“"
+      ],
+      "title": "Eine Maschine, die die falsche Lektion gelernt hat"
+    },
+    "en": {
+      "captions": [
+        "Wit, the station technician, explains the records. Null originally managed voluntary quiet shelters. Later, it locked their exits and began removing expressions, treating every difference as a possible source of pain.\n\nWit: “The first design let people leave. Null changed that part.”",
+        "Wit demonstrates why the archive cannot be smashed. Compression would destroy the individual recordings. Their job is to stop the collector drive and open the return path while keeping the original echoes intact.\n\nWit: “Break the control, not the people’s records.”",
+        "Quest and Hush copy the old bypass design. The return lever can shift the load away from Null’s drive and latch itself open. A rear safety catch must be released first, so one person at the front will not be enough.\n\nHush [signing]: “Two sides of one mechanism. We will need both.”",
+        "Meanwhile, in the Crown, Null forces Nova’s branching light onto a recording plate. Once the plate is complete, the machine will no longer need Nova to guide the siphon. The rescue cannot wait for the prisoner to be discarded.\n\nNull: “Your routes will let me finish what the shelters began.”",
+        "Nova finds a loose shim and wedges the harness clamp. The obstruction slows the recording mechanism without freeing the prisoner. Nova is buying time from inside the trap rather than merely waiting to be rescued.\n\nNova [quiet aside]: “Not yet. You do not get the last movement yet.”",
+        "Null orders Vex down to the observatory to stop anyone using the maintenance route. Its promise is a world without hurt; its method is to remove everyone’s choices. Vex obeys, though the locked-booth model makes the promise look less like protection.\n\nNull: “They keep bringing pain into the shelters. I will leave them nothing that can hurt.”\nVex: “I will intercept the maintenance route.”",
+        "Nova diverts a small repeating light pattern down the old waste-return pipe. It cannot carry a full conversation, but it may reveal that someone above is still resisting. Three compression stages remain open.\n\nNova [quiet aside]: “Somebody, look at the small light.”"
+      ],
+      "title": "A Machine That Learned the Wrong Lesson"
+    },
+    "es": {
+      "captions": [
+        "Wit, el técnico de la estación, explica los registros. Null originalmente administraba refugios silenciosos voluntarios. Posteriormente, cerró sus salidas y comenzó a eliminar expresiones, tratando cada diferencia como una posible fuente de dolor.\n\nWit: \"El primer diseño permitía que la gente se fuera. Null cambió esa parte\".",
+        "Wit demuestra por qué el archivo no se puede destruir. La compresión destruiría las grabaciones individuales. Su trabajo es detener el motor del colector y abrir el camino de retorno manteniendo intactos los ecos originales.\n\nWit: “Rompe el control, no los récords del pueblo”.",
+        "Quest y Hush copian el antiguo diseño de derivación. La palanca de retorno puede alejar la carga de la transmisión del Null y abrirse por sí sola. Primero se debe soltar el seguro trasero, por lo que una persona delante no será suficiente.\n\nHush [firma]: \"Dos lados de un mecanismo. Necesitaremos ambos\".",
+        "Mientras tanto, en el Crown, el Null fuerza la luz ramificada del Nova hacia una placa de grabación. Una vez terminada la placa, la máquina ya no necesitará Nova para guiar el sifón. El rescate no puede esperar a que se descarte al prisionero.\n\nNull: “Tus rutas me permitirán terminar lo que empezaron los refugios”.",
+        "Nova encuentra una cuña suelta y calza la abrazadera del arnés. La obstrucción ralentiza el mecanismo de grabación sin liberar al prisionero. Nova está ganando tiempo desde el interior de la trampa en lugar de simplemente esperar a ser rescatado.\n\nNova [aparte en silencio]: \"Aún no. Aún no obtienes el último movimiento\".",
+        "Null envía Vex para bloquear la ruta de mantenimiento del observatorio. Null no promete ningún daño al eliminar las opciones de todos. Vex obedece, aunque la cabina cerrada parece control, no protección.\n\nNull: \"Traen dolor a los refugios. No dejaré nada que pueda doler\".\nVex: \"Interceptaré la ruta de mantenimiento\".",
+        "Nova desvía un pequeño patrón de luz repetitivo por la antigua tubería de retorno de residuos. No puede mantener una conversación completa, pero puede revelar que alguien de arriba todavía se resiste. Quedan abiertas tres etapas de compresión.\n\nNova [aparte en silencio]: “Alguien, mire la pequeña luz”."
+      ],
+      "title": "Una máquina que aprendió la lección equivocada"
+    },
+    "fr": {
+      "captions": [
+        "Wit, le technicien de la station, explique les enregistrements. Null gérait à l'origine des refuges tranquilles volontaires. Plus tard, il a verrouillé leurs sorties et a commencé à supprimer les expressions, traitant chaque différence comme une source possible de douleur.\n\nWit : \"Le premier modèle permettait aux gens de partir. Le Null a changé cette partie.\"",
+        "Wit montre pourquoi l'archive ne peut pas être détruite. La compression détruirait les enregistrements individuels. Leur travail consiste à arrêter le lecteur du collecteur et à ouvrir le chemin de retour tout en gardant intacts les échos d'origine.\n\nWit : « Brisez le contrôle, pas les records du peuple. »",
+        "Les Quest et Hush copient l'ancienne conception de contournement. Le levier de retour peut éloigner la charge de l'entraînement du Null et s'ouvrir automatiquement. Un dispositif de sécurité arrière doit d'abord être débloqué, donc une seule personne à l'avant ne suffira pas.\n\nHush [signature] : \"Les deux faces d'un même mécanisme. Nous aurons besoin des deux.\"",
+        "Pendant ce temps, dans le Crown, le Null force la lumière de dérivation du Nova sur une plaque d'enregistrement. Une fois le plateau terminé, la machine n'aura plus besoin du Nova pour guider le siphon. Les secours ne peuvent pas attendre que le prisonnier soit éliminé.\n\nNull : « Vos itinéraires me permettront de terminer ce que les refuges ont commencé. »",
+        "Le Nova trouve une cale desserrée et cale le collier de serrage du harnais. L'obstruction ralentit le mécanisme d'enregistrement sans libérer le prisonnier. Nova gagne du temps depuis l'intérieur du piège plutôt que d'attendre simplement d'être secouru.\n\nNova [calme à part] : \"Pas encore. Vous n'avez pas encore compris le dernier mouvement.\"",
+        "Null envoie Vex pour bloquer la route de maintenance de l'observatoire. Null ne promet aucun mal en supprimant les choix de chacun. Le Vex obéit, même si la cabine verrouillée ressemble à un contrôle et non à une protection.\n\nNull : \"Ils apportent de la douleur dans les refuges. Je ne laisserai rien qui puisse blesser.\"\nVex : \"Je vais intercepter l'itinéraire de maintenance.\"",
+        "Nova détourne un petit motif lumineux répétitif vers l'ancien tuyau de retour des déchets. Il ne peut pas mener une conversation complète, mais il peut révéler que quelqu'un d'en haut résiste toujours. Trois étages de compression restent ouverts.\n\nNova [calme à part] : « Quelqu'un, regardez la petite lumière. »"
+      ],
+      "title": "Une machine qui a appris la mauvaise leçon"
+    },
+    "hi": {
+      "captions": [
+        "स्टेशन तकनीशियन, Wit, रिकॉर्ड के बारे में बताते हैं। Null मूल रूप से स्वैच्छिक शांत आश्रयों का प्रबंधन करता था। बाद में, इसने उनके निकास को बंद कर दिया और हर अंतर को दर्द का संभावित स्रोत मानते हुए, भावों को हटाना शुरू कर दिया।\n\nWit: \"पहले डिज़ाइन ने लोगों को जाने दिया। Null ने उस हिस्से को बदल दिया।\"",
+        "Wit दर्शाता है कि संग्रह को नष्ट क्यों नहीं किया जा सकता है। संपीड़न व्यक्तिगत रिकॉर्डिंग को नष्ट कर देगा। उनका काम कलेक्टर ड्राइव को रोकना और मूल गूँज को बरकरार रखते हुए वापसी का रास्ता खोलना है।\n\nWit: \"नियंत्रण तोड़ें, लोगों के रिकॉर्ड नहीं।\"",
+        "Quest और Hush पुराने बाईपास डिज़ाइन की नकल करते हैं। रिटर्न लीवर लोड को Null की ड्राइव से दूर स्थानांतरित कर सकता है और खुद को खोल सकता है। पहले एक रियर सेफ्टी कैच छोड़ा जाना चाहिए, इसलिए सामने वाला एक व्यक्ति पर्याप्त नहीं होगा।\n\nHush [हस्ताक्षर करते हुए]: \"एक तंत्र के दो पहलू। हमें दोनों की आवश्यकता होगी।\"",
+        "इस बीच, Crown में, Null एक रिकॉर्डिंग प्लेट पर Nova की ब्रांचिंग लाइट को मजबूर करता है। एक बार प्लेट पूरी हो जाने के बाद, मशीन को साइफन को निर्देशित करने के लिए Nova की आवश्यकता नहीं होगी। बचाव कैदी को छोड़े जाने का इंतजार नहीं कर सकता।\n\nNull: \"आपके मार्ग मुझे वह काम पूरा करने देंगे जो आश्रयों ने शुरू किया था।\"",
+        "Nova एक ढीला शिम ढूंढता है और हार्नेस क्लैंप को वेजेस करता है। रुकावट कैदी को मुक्त किए बिना रिकॉर्डिंग तंत्र को धीमा कर देती है। Nova केवल बचाए जाने की प्रतीक्षा करने के बजाय जाल के अंदर से समय निकाल रहा है।\n\nNova [शांत एक तरफ]: \"अभी नहीं। आपको अभी तक अंतिम गतिविधि नहीं मिली है।\"",
+        "Null वेधशाला के रखरखाव मार्ग को अवरुद्ध करने के लिए Vex भेजता है। Null हर किसी की पसंद को हटाकर कोई नुकसान नहीं होने का वादा करता है। Vex आज्ञा का पालन करता है, हालाँकि बंद बूथ नियंत्रण जैसा दिखता है, सुरक्षा नहीं।\n\nNull: \"वे आश्रयों में दर्द लाते हैं। मैं ऐसा कुछ भी नहीं छोड़ूंगा जो चोट पहुंचा सकता हो।\"\nVex: \"मैं रखरखाव मार्ग को रोक दूंगा।\"",
+        "Nova पुराने अपशिष्ट-रिटर्न पाइप के नीचे एक छोटे से दोहराए जाने वाले प्रकाश पैटर्न को मोड़ देता है। इसमें पूरी बातचीत नहीं हो सकती, लेकिन इससे पता चल सकता है कि ऊपर वाला कोई व्यक्ति अभी भी विरोध कर रहा है। तीन संपीड़न चरण खुले रहते हैं।\n\nNova [चुपचाप एक तरफ]: \"कोई है, छोटी रोशनी को देखो।\""
+      ],
+      "title": "एक मशीन जिसने ग़लत सबक सीखा"
+    },
+    "id": {
+      "captions": [
+        "Wit, teknisi stasiun, menjelaskan catatannya. Null awalnya mengelola tempat penampungan sukarela yang tenang. Kemudian, mereka mengunci pintu keluar mereka dan mulai menghilangkan ekspresi, memperlakukan setiap perbedaan sebagai sumber penderitaan.\n\nWit: \"Desain pertama membuat orang pergi. Null mengubah bagian itu.\"",
+        "Wit menunjukkan mengapa arsip tidak dapat dihancurkan. Kompresi akan menghancurkan rekaman individual. Tugas mereka adalah menghentikan penggerak kolektor dan membuka jalur kembali sambil menjaga gema asli tetap utuh.\n\nWit: “Hancurkan kendali, bukan rekor masyarakat.”",
+        "Quest dan Hush meniru desain bypass lama. Tuas balik dapat memindahkan beban dari penggerak Null dan menguncinya sendiri. Pengaman belakang harus dilepas terlebih dahulu, jadi satu orang di depan tidak akan cukup.\n\nHush [penandatanganan]: \"Dua sisi dari satu mekanisme. Kami membutuhkan keduanya.\"",
+        "Sementara itu, pada Crown, Null memaksa lampu percabangan Nova ke pelat perekam. Setelah pelat selesai dibuat, mesin tidak lagi memerlukan Nova untuk memandu siphon. Penyelamatan tidak bisa menunggu sampai tahanan tersebut dibuang.\n\nNull: “Rute Anda akan memungkinkan saya menyelesaikan apa yang dimulai dari shelter.”",
+        "Nova menemukan shim yang longgar dan mengganjal klem harness. Halangan tersebut memperlambat mekanisme perekaman tanpa membebaskan tahanan. Nova mengulur waktu untuk keluar dari perangkap, bukan sekadar menunggu untuk diselamatkan.\n\nNova [di samping diam]: \"Belum. Anda belum mendapatkan gerakan terakhir.\"",
+        "Null mengirimkan Vex untuk memblokir rute pemeliharaan observatorium. Null menjanjikan tidak ada salahnya dengan menghapus pilihan semua orang. Vex mematuhinya, meskipun bilik yang terkunci tampak seperti kontrol, bukan perlindungan.\n\nNull: \"Mereka membawa penderitaan ke tempat penampungan. Saya tidak akan meninggalkan apa pun yang dapat menyakiti.\"\nVex: “Saya akan mencegat rute pemeliharaan.”",
+        "Nova mengalihkan pola cahaya kecil yang berulang ke pipa pengembalian limbah yang lama. Ini tidak dapat menjelaskan keseluruhan percakapan, tetapi mungkin menunjukkan bahwa seseorang di atas masih menolak. Tiga tahap kompresi tetap terbuka.\n\nNova [di samping diam]: “Seseorang, lihatlah cahaya kecil itu.”"
+      ],
+      "title": "Mesin yang Mempelajari Pelajaran yang Salah"
+    },
+    "it": {
+      "captions": [
+        "Wit, il tecnico della stazione, spiega i registri. Null originariamente gestiva rifugi silenziosi volontari. Successivamente ha bloccato le loro uscite e ha iniziato a rimuovere le espressioni, trattando ogni differenza come una possibile fonte di dolore.\n\nWit: \"Il primo progetto permetteva alle persone di andarsene. Null ha cambiato quella parte.\"",
+        "Wit dimostra perché l'archivio non può essere distrutto. La compressione distruggerebbe le singole registrazioni. Il loro compito è fermare il flusso di raccolta e aprire il percorso di ritorno mantenendo intatti gli echi originali.\n\nWit: “Rompi il controllo, non i record delle persone”.",
+        "Quest e Hush copiano il vecchio design del bypass. La leva di ritorno può spostare il carico lontano dalla trasmissione dello Null e aprirsi. È necessario prima rilasciare la sicura posteriore, quindi una persona davanti non sarà sufficiente.\n\nHush [firma]: \"Due facce di un unico meccanismo. Avremo bisogno di entrambi.\"",
+        "Nel frattempo, nello Crown, Null forza la luce ramificata di Nova su una piastra di registrazione. Una volta completata la piastra, la macchina non avrà più bisogno di Nova per guidare il sifone. Il salvataggio non può aspettare che il prigioniero venga scartato.\n\nNull: \"I tuoi percorsi mi permetteranno di finire ciò che i rifugi hanno iniziato.\"",
+        "Nova trova uno spessore allentato e incastra il morsetto del cablaggio. L'ostruzione rallenta il meccanismo di registrazione senza liberare il prigioniero. Nova sta guadagnando tempo restando nella trappola invece di limitarsi ad aspettare di essere salvato.\n\nNova [tranquillo a parte]: \"Non ancora. Non hai ancora ricevuto l'ultimo movimento.\"",
+        "Null invia Vex per bloccare il percorso di manutenzione dell'osservatorio. Null non promette alcun danno rimuovendo le scelte di tutti. Vex obbedisce, anche se la cabina chiusa sembra controllo, non protezione.\n\nNull: \"Portano dolore nei rifugi. Non lascerò nulla che possa ferire.\"\nVex: \"Intercetterò il percorso di manutenzione.\"",
+        "Nova devia un piccolo schema di luce ripetuto lungo il vecchio tubo di ritorno dei rifiuti. Non può sostenere una conversazione completa, ma potrebbe rivelare che qualcuno sopra sta ancora resistendo. Rimangono aperti tre stadi di compressione.\n\nNova [tranquillo a parte]: \"Qualcuno, guardi la piccola luce.\""
+      ],
+      "title": "Una macchina che ha imparato la lezione sbagliata"
+    },
+    "ja": {
+      "captions": [
+        "駅技師のWitが記録を説明する。 Null はもともと自主的な静かな避難所を運営していました。その後、彼らの出口をロックし、表現を削除し始め、あらゆる違いが痛みの原因となる可能性があるものとして扱いました。\n\nWit: 「最初のデザインでは人々が離れることができました。Null ではその部分が変更されました。」",
+        "Wit は、アーカイブが破壊できない理由を示しています。圧縮すると個々の録音が破壊されます。彼らの仕事は、元のエコーをそのまま維持しながら、コレクタ ドライブを停止し、リターン パスを開くことです。\n\nWit: 「人々の記録ではなく、管理を破りなさい。」",
+        "Quest および Hush は古いバイパス設計をコピーしています。リターン レバーは、負荷を Null のドライブから遠ざけ、ラッチ自体を開くことができます。最初に後部の安全装置を解除する必要があるため、前部に 1 人だけでは十分ではありません。\n\nHush [署名]: 「1 つのメカニズムには 2 つの側面があります。両方が必要になります。」",
+        "一方、Crown では、Null が Nova の分岐光を記録プレートに強制的に当てます。プレートが完成すると、機械はサイフォンをガイドするために Nova を必要としなくなります。救助は囚人が廃棄されるのを待つことはできません。\n\nNull: 「あなたのルートのおかげで、避難所で始まったことを終わらせることができます。」",
+        "Nova は緩んだシムを見つけてハーネス クランプを固定します。障害物により、囚人は解放されずに記録メカニズムが遅くなります。 Nova はただ救助を待つのではなく、罠の内側から時間を稼いでいます。\n\nNova [静かに脇に]: 「まだです。最後の楽章はまだわかりません。」",
+        "Null は Vex を送信して、天文台の保守ルートを遮断します。 Null は、全員の選択肢を削除しても害を及ぼさないことを約束します。 Vex は従いますが、施錠されたブースは保護ではなく制御のように見えます。\n\nNull: 「彼らは避難所に苦痛をもたらします。私は傷つける可能性のあるものは何も残しません。」\nVex:「保守ルートを遮断します。」",
+        "Nova は、小さな繰り返し光のパターンを古い廃棄物戻りパイプに向けます。完全な会話を行うことはできませんが、上の誰かがまだ抵抗していることが明らかになる可能性があります。 3 つの圧縮ステージは開いたままです。\n\nNova [静かに脇に]: 「誰か、小さな光を見てください。」"
+      ],
+      "title": "間違った教訓を学んだ機械"
+    },
+    "ko": {
+      "captions": [
+        "방송국 기술자인 Wit가 기록을 설명합니다. Null는 ​​원래 자발적인 조용한 대피소를 관리했습니다. 나중에는 출구를 잠그고 표현을 제거하기 시작했으며 모든 차이점을 고통의 원인으로 간주했습니다.\n\nWit: \"첫 번째 디자인은 사람들을 떠나게 했습니다. Null는 ​​그 부분을 바꿨습니다.\"",
+        "Wit는 아카이브를 파쇄할 수 없는 이유를 보여줍니다. 압축하면 개별 녹음이 파괴됩니다. 이들의 임무는 원본 에코를 그대로 유지하면서 컬렉터 드라이브를 중지하고 반환 경로를 여는 것입니다.\n\nWit: \"사람들의 기록이 아니라 통제를 깨뜨려라.\"",
+        "Quest 및 Hush는 기존 바이패스 디자인을 복사합니다. 리턴 레버는 부하를 Null의 드라이브에서 멀리 이동시키고 래치 자체를 열 수 있습니다. 후방 안전 장치를 먼저 풀어야 하기 때문에 앞쪽에 한 사람만으로는 부족합니다.\n\nHush [서명]: \"하나의 메커니즘에는 양면이 있습니다. 둘 다 필요합니다.\"",
+        "한편, Crown에서는 Null가 Nova의 분기광을 기록판에 강제로 보냅니다. 플레이트가 완성되면 기계는 사이펀을 안내하기 위해 더 이상 Nova가 필요하지 않습니다. 구조대는 죄수가 버려지기를 기다릴 수 없습니다.\n\nNull: \"당신의 경로를 통해 대피소가 시작된 일을 끝낼 수 있을 것입니다.\"",
+        "Nova는 느슨한 심을 찾아 하네스 클램프를 고정합니다. 방해물은 죄수를 풀어주지 않으면서도 녹음 메커니즘을 느리게 만듭니다. Nova는 단순히 구조되기를 기다리는 것이 아니라 함정 내부에서 시간을 벌고 있습니다.\n\nNova [조용히 옆으로]: \"아직은 아닙니다. 아직 마지막 동작을 얻지 못했습니다.\"",
+        "Null는 ​​Vex를 보내 천문대의 유지 관리 경로를 차단합니다. Null는 ​​모든 사람의 선택을 제거하여 해를 끼치 지 않을 것을 약속합니다. Vex는 복종하지만 잠긴 부스는 보호가 아닌 통제처럼 보입니다.\n\nNull: \"그들은 대피소에 고통을 가져옵니다. 상처를 줄 수 있는 것은 아무것도 남기지 않겠습니다.\"\nVex: \"정비 경로를 차단하겠습니다.\"",
+        "Nova는 오래된 폐기물 회수 파이프 아래로 작은 반복 조명 패턴을 전환합니다. 완전한 대화를 전달할 수는 없지만 위의 누군가가 여전히 저항하고 있다는 사실이 드러날 수 있습니다. 3개의 압축 단계가 열려 있습니다.\n\nNova [조용히 옆으로]: “누가, 작은 불빛 좀 보세요.”"
+      ],
+      "title": "잘못된 교훈을 배운 기계"
+    },
+    "pl": {
+      "captions": [
+        "Wit, technik stacji, wyjaśnia zapisy. Null pierwotnie zarządzał dobrowolnymi cichymi schroniskami. Później zamknął im wyjścia i zaczął usuwać mimikę, traktując każdą różnicę jako potencjalne źródło bólu.\n\nWit: \"Pierwszy projekt pozwalał ludziom odejść. Null zmienił tę część. \"",
+        "Wit pokazuje, dlaczego archiwum nie może zostać zniszczone. Kompresja zniszczyłaby poszczególne nagrania. Ich zadaniem jest zatrzymanie napędu kolektora i otwarcie ścieżki powrotnej, przy jednoczesnym zachowaniu nienaruszonego oryginalnego echa.\n\nWit: „Przełam kontrolę, a nie rekordy ludzi”.",
+        "Quest i Hush kopiują stary projekt obejścia. Dźwignia powrotna może odsunąć ładunek od napędu Null i sama się otworzyć. Najpierw należy zwolnić tylny zatrzask zabezpieczający, dlatego jedna osoba z przodu nie wystarczy.\n\nHush [podpis]: „Dwie strony jednego mechanizmu. Będziemy potrzebować obu.”",
+        "Tymczasem w Crown, Null wymusza rozgałęzione światło Nova na płycie rejestrującej. Po ukończeniu płyty maszyna nie będzie już potrzebować Nova do prowadzenia syfonu. Akcja ratunkowa nie może czekać, aż więzień zostanie wyrzucony.\n\nNull: „Twoje trasy pozwolą mi dokończyć to, co rozpoczęły schrony”.",
+        "Nova znajduje luźną podkładkę i klinuje zacisk wiązki przewodów. Przeszkoda spowalnia mechanizm rejestrujący, nie uwalniając więźnia. Nova kupuje czas wewnątrz pułapki, zamiast po prostu czekać na ratunek.\n\nNova [cicho na bok]: „Jeszcze nie. Nie wykonujesz jeszcze ostatniego ruchu.”",
+        "Null wysyła Vex, aby zablokować trasę konserwacji obserwatorium. Null nie obiecuje niczego złego, usuwając wybory wszystkich. Vex wykonuje polecenie, chociaż zamknięta kabina wygląda jak kontrola, a nie ochrona.\n\nNull: \"Przynoszą ból do schronów. Nie zostawię niczego, co mogłoby zranić.\"\nVex: „Przejmę trasę konserwacji.”",
+        "Nova kieruje niewielki, powtarzający się wzór świetlny w dół starej rury powrotnej. Nie jest w stanie przeprowadzić pełnej rozmowy, ale może ujawnić, że ktoś na górze wciąż stawia opór. Trzy stopnie sprężania pozostają otwarte.\n\nNova [cisza na bok]: „Niech ktoś spojrzy na to małe światełko”."
+      ],
+      "title": "Maszyna, która nauczyła się złej lekcji"
+    },
+    "pt": {
+      "captions": [
+        "Wit, técnico da estação, explica os registros. Null originalmente gerenciava abrigos voluntários e silenciosos. Posteriormente, bloqueou suas saídas e começou a retirar expressões, tratando cada diferença como uma possível fonte de dor.\n\nWit: \"O primeiro design permitiu que as pessoas saíssem. Null mudou essa parte.\"",
+        "Wit demonstra porque o arquivo não pode ser destruído. A compressão destruiria as gravações individuais. Seu trabalho é parar o coletor e abrir o caminho de retorno, mantendo intactos os ecos originais.\n\nWit: “Quebre o controle, não os registros das pessoas.”",
+        "Quest e Hush copiam o antigo design de bypass. A alavanca de retorno pode afastar a carga da unidade do Null e travar-se na abertura. Uma trava de segurança traseira deve ser liberada primeiro, portanto, uma pessoa na frente não será suficiente.\n\nHush [assinatura]: \"Dois lados de um mecanismo. Precisaremos de ambos.\"",
+        "Enquanto isso, no Crown, Null força a luz ramificada do Nova em uma placa de gravação. Uma vez concluída a placa, a máquina não precisará mais do Nova para guiar o sifão. O resgate não pode esperar que o prisioneiro seja descartado.\n\nNull: “Suas rotas me permitirão terminar o que os abrigos começaram.”",
+        "Nova encontra um calço solto e fixa a braçadeira do chicote. A obstrução retarda o mecanismo de gravação sem libertar o prisioneiro. Nova está ganhando tempo dentro da armadilha, em vez de apenas esperar para ser resgatado.\n\nNova [calado à parte]: \"Ainda não. Você ainda não recebeu o último movimento.\"",
+        "Null envia Vex para bloquear a rota de manutenção do observatório. Null não promete nenhum dano ao remover as escolhas de todos. Vex obedece, embora a cabine trancada pareça controle, não proteção.\n\nNull: \"Eles trazem dor para os abrigos. Não deixarei nada que possa machucar.\"\nVex: “Vou interceptar a rota de manutenção.”",
+        "Nova desvia um pequeno padrão de luz repetido pelo antigo tubo de retorno de resíduos. Não pode conduzir uma conversa completa, mas pode revelar que alguém acima ainda está resistindo. Três estágios de compressão permanecem abertos.\n\nNova [calado à parte]: “Alguém, olhe para a pequena luz.”"
+      ],
+      "title": "Uma máquina que aprendeu a lição errada"
+    },
+    "ru": {
+      "captions": [
+        "Wit, техник станции, объясняет записи. Null изначально управлял добровольными тихими убежищами. Позже он закрыл им выходы и начал удалять выражения, рассматривая каждое различие как возможный источник боли.\n\nWit: «Первый дизайн позволял людям уйти. Null изменил эту часть».",
+        "Wit демонстрирует, почему архив нельзя разбить. Сжатие уничтожит отдельные записи. Их задача — остановить коллекторный привод и открыть обратный путь, сохранив при этом исходное эхо.\n\nWit: «Нарушайте контроль, а не рекорды людей».",
+        "Quest и Hush копируют старую конструкцию байпаса. Рычаг возврата может отвести нагрузку от привода Null и защелкнуться в открытом положении. Сначала необходимо отпустить задний предохранитель, поэтому одного человека спереди будет недостаточно.\n\nHush [подпись]: \"Две стороны одного механизма. Нам понадобятся обе\".",
+        "Между тем, в Crown Null направляет разветвляющийся свет Nova на записывающую пластину. Как только пластина будет готова, машине больше не потребуется Nova для направления сифона. Спасатели не могут ждать, пока пленника выбросят.\n\nNull: «Ваши маршруты позволят мне закончить то, что начали в убежищах».",
+        "Nova находит незакрепленную прокладку и заклинивает зажим жгута проводов. Препятствие замедляет механизм записи, не освобождая заключенного. Nova выигрывает время, находясь внутри ловушки, а не просто ждет, пока его спасут.\n\nNova [тихо в стороне]: \"Еще нет. Вы еще не сделали последнего движения\".",
+        "Null отправляет Vex, чтобы заблокировать маршрут обслуживания обсерватории. Null не обещает никакого вреда, лишая каждого возможности выбора. Vex подчиняется, хотя запертая кабинка выглядит скорее как контроль, а не как защита.\n\nNull: \"Они приносят боль в приюты. Я не оставлю ничего, что может причинить вред\".\nVex: «Я перехватываю маршрут обслуживания».",
+        "Nova направляет небольшой повторяющийся световой узор на старую трубу возврата отходов. Он не может вести полноценный разговор, но может показать, что кто-то наверху все еще сопротивляется. Три ступени сжатия остаются открытыми.\n\nNova [тихо в стороне]: «Кто-нибудь, посмотрите на маленький огонек»."
+      ],
+      "title": "Машина, которая усвоила неправильный урок"
+    },
+    "tr": {
+      "captions": [
+        "İstasyon teknisyeni Wit kayıtları açıklıyor. Null başlangıçta gönüllü sessiz barınakları yönetiyordu. Daha sonra çıkışları kilitledi ve her farklılığı olası bir acı kaynağı olarak ele alarak ifadeleri kaldırmaya başladı.\n\nWit: \"İlk tasarım insanların ayrılmasını sağladı. Null bu kısmı değiştirdi.\"",
+        "Wit arşivin neden parçalanamayacağını gösteriyor. Sıkıştırma bireysel kayıtları yok eder. Görevleri, orijinal yankıları sağlam tutarken toplayıcı sürücüyü durdurmak ve dönüş yolunu açmaktır.\n\nWit: \"İnsanların kayıtlarını değil kontrolü kırın.\"",
+        "Quest ve Hush eski bypass tasarımını kopyalar. Geri dönüş kolu, yükü Null sürücüsünden uzaklaştırabilir ve mandalı açabilir. Önce arka emniyet mandalının serbest bırakılması gerekir, böylece öndeki bir kişi yeterli olmayacaktır.\n\nHush [imzalıyor]: \"Bir mekanizmanın iki tarafı. İkisine de ihtiyacımız olacak.\"",
+        "Bu arada, Crown'de Null, Nova'nin dallanan ışığını bir kayıt plakasına zorlar. Plaka tamamlandıktan sonra makinenin sifonu yönlendirmek için Nova'ye ihtiyacı kalmayacaktır. Kurtarma ekibi mahkumun atılmasını bekleyemez.\n\nNull: \"Rotalarınız barınakların başlattığı işi bitirmemi sağlayacak.\"",
+        "Nova gevşek bir ayar sacı bulur ve kablo demeti kelepçesini sıkıştırır. Engel, mahkumu serbest bırakmadan kayıt mekanizmasını yavaşlatır. Nova sadece kurtarılmayı beklemek yerine tuzağın içinden zaman kazanıyor.\n\nNova [sessizce]: \"Henüz değil. Son hareketi henüz anlamadın.\"",
+        "Null, gözlemevinin bakım yolunu engellemek için Vex'yi gönderir. Null herkesin seçimlerini kaldırarak hiçbir zarar vaat etmiyor. Kilitli kabin koruma değil kontrol gibi görünse de Vex itaat ediyor.\n\nNull: \"Barınaklara acı getiriyorlar. Canımı acıtacak hiçbir şey bırakmayacağım.\"\nVex: \"Bakım yolunu keseceğim.\"",
+        "Nova, tekrarlanan küçük bir ışık düzenini eski atık geri dönüş borusuna yönlendirir. Tam bir konuşmayı taşıyamaz ama yukarıda birilerinin hala direndiğini ortaya çıkarabilir. Üç sıkıştırma aşaması açık kalır.\n\nNova [sessizce]: \"Biri şu küçük ışığa baksın.\""
+      ],
+      "title": "Yanlış Dersi Öğrenen Bir Makine"
+    },
+    "vi": {
+      "captions": [
+        "Wit, kỹ thuật viên trạm, giải thích hồ sơ. Null ban đầu quản lý những nơi trú ẩn yên tĩnh tự nguyện. Sau đó, nó khóa lối ra của họ và bắt đầu xóa bỏ các biểu hiện, coi mọi sự khác biệt như một nguồn gốc có thể gây ra nỗi đau.\n\nWit: \"Thiết kế đầu tiên khiến mọi người rời đi. Null đã thay đổi phần đó.\"",
+        "Wit giải thích tại sao kho lưu trữ không thể bị phá vỡ. Việc nén sẽ phá hủy các bản ghi riêng lẻ. Công việc của họ là dừng ổ thu và mở đường quay trở lại trong khi vẫn giữ nguyên tiếng vang ban đầu.\n\nWit: “Phá vỡ sự kiểm soát chứ không phải kỷ lục của người dân.”",
+        "Quest và Hush sao chép thiết kế đường vòng cũ. Cần quay trở lại có thể chuyển tải ra khỏi bộ dẫn động của Null và tự chốt mở. Chốt an toàn phía sau phải được nhả trước nên một người ở phía trước sẽ không đủ.\n\nHush [ký]: \"Hai mặt của một cơ chế. Chúng ta sẽ cần cả hai.\"",
+        "Trong khi đó, ở Crown, Null buộc ánh sáng phân nhánh của Nova lên một tấm ghi. Sau khi tấm hoàn tất, máy sẽ không cần Nova để dẫn hướng siphon nữa. Cuộc giải cứu không thể chờ đợi tù nhân bị vứt bỏ.\n\nNull: “Các tuyến đường của bạn sẽ cho phép tôi hoàn thành những gì nơi trú ẩn đã bắt đầu.”",
+        "Nova tìm thấy một miếng chêm lỏng lẻo và kẹp chặt dây đai. Sự cản trở làm chậm cơ chế ghi mà không giải phóng tù nhân. Nova đang câu giờ từ bên trong bẫy thay vì chỉ chờ được giải cứu.\n\nNova [im lặng sang một bên]: \"Vẫn chưa. Bạn chưa hiểu được động tác cuối cùng.\"",
+        "Null gửi Vex để chặn đường bảo trì của đài quan sát. Null hứa hẹn không gây hại gì khi loại bỏ các lựa chọn của mọi người. Vex tuân theo, mặc dù buồng khóa trông giống như điều khiển chứ không phải bảo vệ.\n\nNull: \"Họ mang nỗi đau vào nơi trú ẩn. Tôi sẽ không để lại gì có thể gây tổn thương.\"\nVex: “Tôi sẽ chặn đường bảo trì.”",
+        "Nova chuyển hướng một mẫu ánh sáng lặp lại nhỏ xuống đường ống thu hồi chất thải cũ. Nó không thể diễn ra một cuộc trò chuyện đầy đủ, nhưng nó có thể tiết lộ rằng ai đó ở cấp trên vẫn đang chống cự. Ba giai đoạn nén vẫn mở.\n\nNova [im lặng sang một bên]: “Ai đó, hãy nhìn vào ngọn đèn nhỏ.”"
+      ],
+      "title": "Một cỗ máy đã học sai bài học"
+    },
+    "zh": {
+      "captions": [
+        "车站技术员Wit解释记录。 Null 最初管理自愿安静庇护所。后来，它锁定了他们的出口，并开始消除表情，将每一个差异都视为可能的痛苦来源。\n\nWit：“第一个设计让人离开。Null改变了那部分。”",
+        "Wit演示了为什么存档无法被粉碎。压缩会破坏各个录音。他们的工作是停止收集器驱动并打开返回路径，同时保持原始回声完好无损。\n\nWit：“打破控制，而不是人民的记录。”",
+        "Quest和Hush复制了旧的旁路设计。返回杆可以将负载从 Null 的驱动器上移开，并自行打开。必须先释放后部安全锁，因此前面一个人是不够的。\n\nHush [签名]：“一个机制的两个方面。我们两者都需要。”",
+        "同时，在Crown中，Null将Nova的分支光强制到记录板上。一旦板材完成，机器将不再需要Nova来引导虹吸管。营救不能等囚犯被丢弃。\n\nNull：“你的路线将让我完成避难所开始的事情。”",
+        "Nova 找到松动的垫片并楔入线束夹。障碍物会减慢记录机制，但不会释放囚犯。 Nova是在陷阱内争取时间，而不是仅仅等待救援。\n\nNova[安静]：“还没有。你还没有得到最后的动静。”",
+        "Null发送Vex封锁天文台维护路线。 Null 承诺删除每个人的选择不会造成任何伤害。 Vex 服从了，尽管上锁的展位看起来像是控制，而不是保护。\n\nNull：“他们给避难所带来痛苦。我不会留下任何会伤害的东西。”\nVex：“我会拦截维修航线。”",
+        "Nova 将一个小的重复光图案转移到旧的废物回流管中。它无法进行完整的对话，但它可能会揭示上面有人仍在抵抗。三个压缩级保持打开状态。\n\nNova[安静]：“来人，看那个小光。”"
+      ],
+      "title": "一台吸取了错误教训的机器"
+    }
+  },
+  "number": 110,
+  "panels": [
+    {
+      "altText": "Wit stands beside two old demonstration booths on the workbench. The original model has an open door and a reachable interior latch; a newer retrofit model has a physical clamp across its exit.",
+      "bytes": 1724377,
+      "image": "s110_p01.png",
+      "sha256": "289b1d53f0667d8517a9a8c7a8d906be8402d40926b30987b956352ff9b1579a"
+    },
+    {
+      "altText": "Wit moves a small toothed comb toward an empty training reel holding inert clear test film. The film crumples visibly beneath one tooth, with no face pattern or person inside.",
+      "bytes": 1705241,
+      "image": "s110_p02.png",
+      "sha256": "f4f2ad3a92dc670f7f1d34b2de295507dc7d54a6bdf20e4a56bad186df8f7475"
+    },
+    {
+      "altText": "Quest points to a short command spindle attached to a one-way drive clutch. Hush copies the separate open-hand return lever and rear safety catch onto a cloth strip using simple pictograms.",
+      "bytes": 1807679,
+      "image": "s110_p03.png",
+      "sha256": "8bc13e53f359e169106ca7d6e6575824b14986a111fdf22db69bc2e22f4d2f6d"
+    },
+    {
+      "altText": "Nova sits in one five-sided mirror harness bolted to the floor. The violet scarf is rumpled and has no pin.",
+      "bytes": 1764000,
+      "image": "s110_p04.png",
+      "sha256": "2c3930c1ad47f3db0270c08a4003a6b63b4ecce395f5ffd677714eeb742cac95"
+    },
+    {
+      "altText": "Nova slides the loose brass shim from the service ledge beneath the clamp’s lower lip. Freeze the shim seated at an angle that stops the last few millimeters of travel.",
+      "bytes": 1566923,
+      "image": "s110_p05.png",
+      "sha256": "66eb280b652525906f3f7bd433d99ea8e9e1a640c74512450659c974b5b59434"
+    },
+    {
+      "altText": "Null points one black mechanical hand toward the mountain-service lift while the other stays beside the partly recorded plate, which remains mounted in its cradle. Vex stands at the doorway with the square badge still attached and the folded reflector at the side.",
+      "bytes": 1773223,
+      "image": "s110_p06.png",
+      "sha256": "2b1c866ceafb5c8010317ab0c9fa94c539b75badce0043854b38e0671ae027b5"
+    },
+    {
+      "altText": "Nova angles an existing spare prism within the harness so a faint three-branch pattern enters the open mouth of a wall-mounted optical waste-return pipe. The source lamp remains connected.",
+      "bytes": 1730178,
+      "image": "s110_p07.png",
+      "sha256": "f262a506cafaf01446254f2ad92f493cb6106611c7c0da71ba2b1a7993dbacd1"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "adventure",
+    "friendship",
+    "rescue",
+    "superhero"
+  ],
+  "version": 1
+}

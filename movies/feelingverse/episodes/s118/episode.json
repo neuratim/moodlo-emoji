@@ -1,0 +1,274 @@
+{
+  "id": "s118",
+  "localizations": {
+    "ar": {
+      "captions": [
+        "يصل Null إلى جسر النقل ويدير مجمعه نحو Nova. يقع طريق الهروب خلف بوابة المنتصف، لكن المدخل له خط واضح للمجموعة. يعود Beam إلى الخلف بينما يقوم Rain بتحريك Nova نحو المنحدر المحمي.\n\nRain: \"Nova، خلف البوابة. Bash لديه الكبسولة مفتوحة.\"",
+        "يقوم Beam بإعادة توجيه المجمع بعيدًا عن Nova من خلال أن يصبح هدفًا أكثر إشراقًا وأقرب. نفس الكمية التي استهلكت الضوء في المهرجان أصبحت الآن تعكس تعبير Beam الخاص. يشتري الدرع لحظة، لكنه لا يستطيع التغلب على المجمع.\n\nBeam: \"تحرك بينما ينظر إلي!\"",
+        "Rain وMend يلتقطان جسم Beam الفارغ. يتم تخزين التعبير الذهبي المسروق سليمًا في بكرة مرئية، لذا لا يزال من الممكن إعادته. يجب عليهم حماية الجسم هنا والنمط الأصلي أعلاه؛ ولا يمكن لأي منهما أن يحل محل الآخر.\n\nRain: \"البكرة سليمة. احتفظ بـ Beam معنا.\"",
+        "يقوم Bitter بتأمين Beam في حجرة الانتظار بينما يحتفظ Bash بمسار الصعود. يحتاج الجسم إلى الرعاية قبل أن يتمكن أي شخص من محاولة الترميم. رسم البسمة عليها لن يعيد التعبير المسروق.\n\nBitter: \"ضبط النفس آمن. يبقى الحاجب مع الجسم.\"",
+        "يجب أن يبقى شخص ما لفتح آلية عودة Crown. اختار Quiver البقاء مع Flare بدلاً من المغادرة مع Mend. Mend يقبل الاختيار؛ الرعاية ليست مثل إبقاء كل صديق في متناول اليد.\n\nQuiver: \"أنزلوهم. سنفتح العودة.\"\nMend: \"احتفظوا بطريق العودة لأنفسكم.\"",
+        "تحدد Quest وHush وVex وPop وظائفهم بينما يقوم Flare وQuiver بتأمين النهج. سيقوم هؤلاء الستة بحماية الأرشيف، وتحرير المقبض الخلفي وتسليح الممر الالتفافي. كما أنهم يحافظون على الطريق المؤدي إلى رصيف الكبسولة الأصلي واضحًا.\n\nQuest: \"قم بحماية البكرات أولاً. أرسل إشارة للفريق الأرضي قبل أن نطلق أي شيء.\"",
+        "ستة نزول: Rain، Nova، Mend، Bitter، Beam وBash. يبقى ستة في Crown. يجب على Nova توجيه العودة من Manylight بينما يحرر الآخرون الآلية المذكورة أعلاه؛ لا تستطيع أي من المجموعتين إكمال عملية الإنقاذ بمفردها.\n\nNova: \"نفتحه من كلا الطرفين.\""
+      ],
+      "title": "الهروب الذي يكلف ابتسامة"
+    },
+    "bn": {
+      "captions": [
+        "Null স্থানান্তর সেতুতে পৌঁছে এবং এর সংগ্রাহককে Nova এর দিকে ঘুরিয়ে দেয়। পালানোর পথটি মিডপয়েন্ট গেটের বাইরে রয়েছে, তবে গ্রহণের গ্রুপের কাছে একটি স্পষ্ট লাইন রয়েছে। Beam পিছনে ঘুরে যখন Rain Nova সুরক্ষিত র‌্যাম্পের দিকে নিয়ে যায়।\n\nRain: \"Nova, গেটের পিছনে। Bash এর পড খোলা আছে।\"",
+        "Beam সংগ্রাহককে তার উজ্জ্বল, কাছাকাছি লক্ষ্য হয়ে Nova থেকে দূরে পুনঃনির্দেশ করে। উত্সবে আলো গ্রহণ করা একই ভোজন এখন Beam এর নিজস্ব অভিব্যক্তিকে ধরে রাখে। ঢাল একটি মুহূর্ত কিনে নেয়, কিন্তু এটি সংগ্রাহককে পরাভূত করতে পারে না।\n\nBeam: \"এটি আমার দিকে তাকানোর সময় সরান!\"",
+        "Rain এবং Mend Beam এর ফাঁকা বডি ধরছে। চুরি করা সোনার অভিব্যক্তিটি একটি দৃশ্যমান রিলে অক্ষতভাবে সংরক্ষণ করা হয়, তাই একটি ফেরত এখনও সম্ভব। তারা এখানে শরীর এবং উপরের মূল প্যাটার্ন রক্ষা করতে হবে; কোনটিই অন্যটির প্রতিস্থাপন করতে পারে না।\n\nRain: \"রিল অক্ষত আছে। Beam আমাদের সাথে রাখুন।\"",
+        "Bitter ওয়েটিং পডে Beam সুরক্ষিত করে যখন Bash বোর্ডিং রুট ধরে রাখে। কেউ পুনরুদ্ধারের চেষ্টা করার আগে শরীরের যত্ন প্রয়োজন। এটিতে একটি হাসি আঁকা চুরি করা অভিব্যক্তি ফিরিয়ে আনবে না।\n\nBitter: \"সংযম সুরক্ষিত। ভিসার শরীরের সাথে থাকে।\"",
+        "Crown এর রিটার্ন মেকানিজম খুলতে কাউকে অবশ্যই থাকতে হবে। Quiver Mend ছেড়ে যাওয়ার পরিবর্তে Flare-এর সাথে থাকা বেছে নেয়। Mend পছন্দ গ্রহণ করে; যত্ন প্রতিটি বন্ধুকে নাগালের মধ্যে রাখার মতো নয়।\n\nQuiver: \"ওদের নামিয়ে নাও। আমরা রিটার্ন খুলব।\"\nMend: \"নিজের জন্য একটি পথ ফিরে রাখুন।\"",
+        "Quest, Hush, Vex এবং Pop তাদের কাজ চিহ্নিত করে যখন Flare এবং Quiver পদ্ধতির নিরাপত্তা দেয়। এই ছয়টি সংরক্ষণাগারকে রক্ষা করবে, পিছনের ক্যাচটি ছেড়ে দেবে এবং বাইপাসকে হাত দেবে। তারা মূল পড বার্থের রুটটিও পরিষ্কার রাখে।\n\nQuest: \"প্রথমে রিলগুলিকে পাহারা দিন৷ আমরা কিছু প্রকাশ করার আগে গ্রাউন্ড টিমকে সংকেত দিন৷\"",
+        "ছয়টি অবতরণ: Rain, Nova, Mend, Bitter, Beam এবং Bash। ছয়টি Crown এ রয়ে গেছে। Nova ম্যানিলাইট থেকে ফেরার পথ নির্দেশ করতে হবে যখন অন্যরা উপরের মেকানিজম মুক্ত করবে; কোন দল একা উদ্ধার কাজ সম্পন্ন করতে পারে না.\n\nNova: \"আমরা এটি উভয় প্রান্ত থেকে খুলি।\""
+      ],
+      "title": "দ্য এস্কেপ দ্যাট কস্টস এ স্মাইল"
+    },
+    "cs": {
+      "captions": [
+        "Null dosáhne přenosového můstku a otočí svůj kolektor směrem k Nova. Úniková cesta leží za středovou bránou, ale vstup má jasnou linii ke skupině. Beam se otočí zpět, zatímco Rain posouvá Nova směrem k chráněné rampě.\n\nRain: \"Nova, za bránou. Bash má otevřený modul.\"",
+        "Beam přesměruje kolektor pryč od Nova tím, že se stane jeho jasnějším a bližším cílem. Stejný příjem, který spotřeboval světlo na festivalu, nyní zachycuje vlastní výraz Beam. Štít kupuje okamžik, ale nemůže přemoci sběratele.\n\nBeam: \"Pohni se, když se na mě dívá!\"",
+        "Rain a Mend zachycují zaslepené tělo Beam. Ukradený zlatý výraz je uložen neporušený na viditelném kotouči, takže vrácení je stále možné. Musí chránit tělo zde a původní vzor nahoře; ani jeden nemůže nahradit druhý.\n\nRain: \"Cívka je neporušená. Mějte Beam u nás.\"",
+        "Bitter zajišťuje Beam v čekárně, zatímco Bash drží nástupní trasu. Tělo potřebuje péči, než se někdo pokusí o obnovu. Když na to namalujete úsměv, ten ukradený výraz by se nevrátil.\n\nBitter: \"Bezpečně se přidržujte. Hledí zůstává u těla.\"",
+        "Někdo musí zůstat, aby otevřel vratný mechanismus Crown. Quiver se rozhodl zůstat u Flare místo toho, aby odešel s Mend. Mend přijímá volbu; péče není totéž jako mít každého přítele na dosah.\n\nQuiver: \"Sundejte je. Otevřeme návrat.\"\nMend: \"Nechte si cestu zpět pro sebe.\"",
+        "Quest, Hush, Vex a Pop identifikují své úlohy, zatímco Flare a Quiver zajišťují přístup. Těchto šest ochrání archiv, uvolní zadní pojistku a vyzbrojí bypass. Udržují také volnou cestu k původnímu kotvišti.\n\nQuest: \"Nejdřív hlídejte kotouče. Než něco vypustíme, dejte signál pozemnímu týmu.\"",
+        "Šest sestupů: Rain, Nova, Mend, Bitter, Beam a Bash. V Crown jich zůstalo šest. Nova musí řídit návrat z Manylight, zatímco ostatní uvolní mechanismus nahoře; ani jedna skupina nemůže dokončit záchranu sama.\n\nNova: \"Otevíráme to z obou konců.\""
+      ],
+      "title": "Útěk, který stojí úsměv"
+    },
+    "de": {
+      "captions": [
+        "Null erreicht die Transferbrücke und dreht seinen Kollektor in Richtung Nova. Der Fluchtweg liegt hinter dem Mitteltor, aber der Einlass weist eine klare Linie zur Gruppe auf. Beam dreht sich um, während Rain Nova in Richtung der geschützten Rampe bewegt.\n\nRain: „Nova, hinter dem Tor. Bash hat die Kapsel offen.“",
+        "Beam lenkt den Kollektor von Nova weg, indem er zu seinem helleren, näheren Ziel wird. Die gleiche Aufnahme, die auf dem Festival Licht verbrauchte, fängt jetzt den eigenen Ausdruck von Beam ein. Der Schild verschafft einen Moment, aber er kann den Kollektor nicht überwältigen.\n\nBeam: „Beweg dich, während es mich ansieht!“",
+        "Rain und Mend fangen den ausgestanzten Körper von Beam ein. Der gestohlene goldene Ausdruck wird unversehrt in einer sichtbaren Rolle aufbewahrt, sodass eine Rückgabe weiterhin möglich ist. Sie müssen hier den Körper und oben das ursprüngliche Muster schützen; Keiner kann den anderen ersetzen.\n\nRain: „Die Rolle ist intakt. Behalten Sie Beam bei uns.“",
+        "Bitter sichert Beam in der Wartekapsel, während Bash die Einstiegsroute hält. Der Körper braucht Pflege, bevor jemand eine Wiederherstellung versuchen kann. Ein Lächeln darauf zu malen würde den gestohlenen Ausdruck nicht zurückbringen.\n\nBitter: „Rückhaltesystem sicher. Das Visier bleibt am Körper.“",
+        "Jemand muss bleiben, um den Rückholmechanismus des Crown zu öffnen. Quiver entscheidet sich dafür, bei Flare zu bleiben, anstatt bei Mend zu bleiben. Mend akzeptiert die Wahl; Fürsorge ist nicht dasselbe wie jeden Freund in Reichweite zu halten.\n\nQuiver: „Nehmen Sie sie ab. Wir werden die Rückgabe öffnen.“\nMend: „Behalten Sie eine Route zurück für sich.“",
+        "Quest, Hush, Vex und Pop identifizieren ihre Jobs, während Flare und Quiver den Ansatz sichern. Diese sechs schützen das Archiv, lösen die hintere Verriegelung und aktivieren den Bypass. Sie halten auch den Weg zum ursprünglichen Pod-Liegeplatz frei.\n\nQuest: „Bewachen Sie zuerst die Walzen. Geben Sie dem Bodenteam Bescheid, bevor wir etwas veröffentlichen.“",
+        "Sechs Abstiege: Rain, Nova, Mend, Bitter, Beam und Bash. Sechs verbleiben im Crown. Nova muss die Rückkehr von Manylight steuern, während die anderen den oben genannten Mechanismus freigeben; Keine Gruppe kann die Rettung alleine abschließen.\n\nNova: „Wir öffnen es von beiden Enden.“"
+      ],
+      "title": "Die Flucht, die ein Lächeln kostet"
+    },
+    "en": {
+      "captions": [
+        "Null reaches the transfer bridge and turns its collector toward Nova. The escape route lies beyond the midpoint gate, but the intake has a clear line to the group. Beam turns back while Rain moves Nova toward the protected ramp.\n\nRain: “Nova, behind the gate. Bash has the pod open.”",
+        "Beam redirects the collector away from Nova by becoming its brighter, closer target. The same intake that consumed light at the festival now catches Beam’s own expression. The shield buys a moment, but it cannot overpower the collector.\n\nBeam: “Move while it is looking at me!”",
+        "Rain and Mend catch Beam’s blanked body. The stolen golden expression is stored intact in a visible reel, so a return is still possible. They must protect the body here and the original pattern above; neither can substitute for the other.\n\nRain: “The reel is intact. Keep Beam with us.”",
+        "Bitter secures Beam in the waiting pod while Bash holds the boarding route. The body needs care before anyone can attempt restoration. Painting a smile on it would not bring back the stolen expression.\n\nBitter: “Restraint secure. The visor stays with the body.”",
+        "Someone must stay to open the Crown’s return mechanism. Quiver chooses to remain with Flare rather than leave with Mend. Mend accepts the choice; care is not the same as keeping every friend within reach.\n\nQuiver: “Take them down. We will open the return.”\nMend: “Keep a route back for yourselves.”",
+        "Quest, Hush, Vex and Pop identify their jobs while Flare and Quiver secure the approach. These six will protect the archive, release the rear catch and arm the bypass. They also keep the route to the original pod berth clear.\n\nQuest: “Guard the reels first. Signal the ground team before we release anything.”",
+        "Six descend: Rain, Nova, Mend, Bitter, Beam and Bash. Six remain in the Crown. Nova must guide the return from Manylight while the others free the mechanism above; neither group can complete the rescue alone.\n\nNova: “We open it from both ends.”"
+      ],
+      "title": "The Escape That Costs a Smile"
+    },
+    "es": {
+      "captions": [
+        "Null llega al puente de transferencia y gira su colector hacia Nova. La ruta de escape se encuentra más allá de la puerta del punto medio, pero la entrada tiene una línea clara hacia el grupo. Beam retrocede mientras Rain mueve Nova hacia la rampa protegida.\n\nRain: \"Nova, detrás de la puerta. Bash tiene la cápsula abierta\".",
+        "Beam desvía al coleccionista lejos de Nova convirtiéndose en su objetivo más brillante y cercano. La misma toma que consumió luz en el festival ahora capta la propia expresión de Beam. El escudo compra un momento, pero no puede dominar al coleccionista.\n\nBeam: “¡Muévete mientras me mira!”",
+        "Rain y Mend atrapan el cuerpo ciego de Beam. La expresión dorada robada se almacena intacta en un carrete visible, por lo que aún es posible una devolución. Deben proteger el cuerpo aquí y el patrón original arriba; ninguno puede sustituir al otro.\n\nRain: \"El carrete está intacto. Mantenga Beam con nosotros\".",
+        "Bitter asegura a Beam en la cabina de espera mientras Bash mantiene la ruta de embarque. El cuerpo necesita cuidados antes de que alguien pueda intentar restaurarlo. Pintarle una sonrisa no le devolvería la expresión robada.\n\nBitter: \"Sujeción segura. La visera permanece pegada al cuerpo\".",
+        "Alguien debe quedarse para abrir el mecanismo de retorno del Crown. Quiver elige permanecer con Flare en lugar de irse con Mend. Mend acepta la elección; cuidar no es lo mismo que mantener a todos los amigos a su alcance.\n\nQuiver: \"Bájalos. Abriremos la devolución\".\nMend: “Mantengan una ruta de regreso para ustedes mismos”.",
+        "Quest, Hush, Vex y Pop identifican sus trabajos, mientras que Flare y Quiver aseguran el acercamiento. Estos seis protegerán el archivo, liberarán el pestillo trasero y armarán el bypass. También mantienen despejada la ruta hacia el atracadero original.\n\nQuest: \"Primero proteja los carretes. Avise al equipo de tierra antes de que sueltemos algo\".",
+        "Seis descensos: Rain, Nova, Mend, Bitter, Beam y Bash. Quedan seis en el Crown. Nova debe guiar el regreso de Manylight mientras los demás liberan el mecanismo de arriba; Ninguno de los grupos puede completar el rescate solo.\n\nNova: “Lo abrimos por ambos extremos”."
+      ],
+      "title": "El escape que cuesta una sonrisa"
+    },
+    "fr": {
+      "captions": [
+        "Le Null atteint le pont de transfert et tourne son collecteur vers le Nova. La voie d'évacuation se situe au-delà de la porte médiane, mais l'entrée offre une ligne claire vers le groupe. Beam fait demi-tour tandis que Rain déplace Nova vers la rampe protégée.\n\nRain : \"Nova, derrière la porte. Bash a le pod ouvert.\"",
+        "Beam redirige le collecteur loin du Nova en devenant sa cible plus lumineuse et plus proche. La même consommation de lumière lors du festival reflète désormais la propre expression de Beam. Le bouclier fait gagner un moment, mais il ne peut pas vaincre le collectionneur.\n\nBeam : « Bougez pendant qu’il me regarde ! »",
+        "Les Rain et Mend attrapent le corps masqué du Beam. L'expression dorée volée est stockée intacte dans une bobine visible, un retour est donc toujours possible. Ils doivent protéger le corps ici et le motif original ci-dessus ; aucun des deux ne peut se substituer à l’autre.\n\nRain : \"La bobine est intacte. Gardez Beam avec nous.\"",
+        "Bitter sécurise Beam dans le module d'attente tandis que Bash détient la route d'embarquement. Le corps a besoin de soins avant que quiconque puisse tenter de le restaurer. Peindre un sourire dessus ne ramènerait pas l’expression volée.\n\nBitter : \"Retenue sécurisée. La visière reste avec le corps.\"",
+        "Quelqu’un doit rester pour ouvrir le mécanisme de retour du Crown. Quiver choisit de rester avec Flare plutôt que de partir avec Mend. Mend accepte le choix ; prendre soin n’est pas la même chose que garder chaque ami à portée de main.\n\nQuiver : \"Enlevez-les. Nous ouvrirons le retour.\"\nMend : « Gardez un itinéraire de retour pour vous-mêmes. »",
+        "Quest, Hush, Vex et Pop identifient leurs travaux tandis que Flare et Quiver sécurisent l'approche. Ces six protégeront les archives, libéreront le loquet arrière et armeront le bypass. Ils maintiennent également la route vers le poste d'amarrage d'origine dégagé.\n\nQuest : \"Gardez d'abord les rouleaux. Signalez à l'équipe au sol avant de lâcher quoi que ce soit.\"",
+        "Six descendent : Rain, Nova, Mend, Bitter, Beam et Bash. Il en reste six dans le Crown. Nova doit guider le retour de Manylight pendant que les autres libèrent le mécanisme du dessus ; aucun des deux groupes ne peut mener à bien le sauvetage seul.\n\nNova : « Nous l’ouvrons des deux côtés. »"
+      ],
+      "title": "L'évasion qui coûte un sourire"
+    },
+    "hi": {
+      "captions": [
+        "Null ट्रांसफर ब्रिज तक पहुंचता है और अपने कलेक्टर को Nova की ओर मोड़ देता है। भागने का मार्ग मध्यबिंदु गेट से परे है, लेकिन समूह के लिए प्रवेश की एक स्पष्ट रेखा है। Beam वापस मुड़ता है जबकि Rain Nova को संरक्षित रैंप की ओर ले जाता है।\n\nRain: \"Nova, गेट के पीछे। Bash का पॉड खुला है।\"",
+        "Beam संग्राहक का उज्जवल, निकट लक्ष्य बनकर उसे Nova से दूर पुनर्निर्देशित करता है। उत्सव में प्रकाश की खपत करने वाला वही सेवन अब Beam की अपनी अभिव्यक्ति को पकड़ता है। ढाल एक क्षण खरीद लेती है, लेकिन वह संग्राहक पर हावी नहीं हो सकती।\n\nBeam: \"जब यह मेरी ओर देख रहा हो तब हटो!\"",
+        "Rain और Mend Beam की खाली बॉडी को पकड़ते हैं। चुराई गई सुनहरी अभिव्यक्ति एक दृश्य रील में बरकरार रखी गई है, इसलिए वापसी अभी भी संभव है। उन्हें यहां शरीर और ऊपर मूल पैटर्न की रक्षा करनी होगी; कोई भी दूसरे का स्थानापन्न नहीं हो सकता।\n\nRain: \"रील बरकरार है। Beam को हमारे पास रखें।\"",
+        "Bitter वेटिंग पॉड में Beam को सुरक्षित रखता है जबकि Bash बोर्डिंग रूट को सुरक्षित रखता है। किसी के भी पुनर्स्थापन का प्रयास करने से पहले शरीर को देखभाल की आवश्यकता होती है। इस पर मुस्कुराहट चित्रित करने से चुराई गई अभिव्यक्ति वापस नहीं आएगी।\n\nBitter: \"संयम सुरक्षित है। वाइज़र शरीर के साथ रहता है।\"",
+        "Crown के रिटर्न मैकेनिज्म को खोलने के लिए किसी को रुकना होगा। Quiver ने Mend के साथ जाने के बजाय Flare के साथ रहना चुना। Mend विकल्प स्वीकार करता है; देखभाल हर दोस्त को पहुंच के भीतर रखने के समान नहीं है।\n\nQuiver: \"उन्हें नीचे ले जाओ। हम रिटर्न खोलेंगे।\"\nMend: \"अपने लिए वापसी का मार्ग रखें।\"",
+        "Quest, Hush, Vex और Pop अपनी नौकरियों की पहचान करते हैं जबकि Flare और Quiver दृष्टिकोण को सुरक्षित करते हैं। ये छह पुरालेख की रक्षा करेंगे, पीछे की पकड़ को छोड़ेंगे और बायपास को बाँट देंगे। वे मूल पॉड बर्थ का मार्ग भी साफ़ रखते हैं।\n\nQuest: \"पहले रीलों की रक्षा करें। कुछ भी जारी करने से पहले ग्राउंड टीम को संकेत दें।\"",
+        "छह उतरते हैं: Rain, Nova, Mend, Bitter, Beam और Bash। Crown में छह बचे हैं। Nova को मैनीलाइट से वापसी का मार्गदर्शन करना चाहिए जबकि अन्य उपरोक्त तंत्र को मुक्त करते हैं; कोई भी समूह अकेले बचाव पूरा नहीं कर सकता।\n\nNova: \"हम इसे दोनों सिरों से खोलते हैं।\""
+      ],
+      "title": "भागने में एक मुस्कान की कीमत चुकानी पड़ती है"
+    },
+    "id": {
+      "captions": [
+        "Null mencapai jembatan transfer dan memutar kolektornya menuju Nova. Jalur keluarnya terletak di luar gerbang tengah, namun jalur masuknya memiliki garis yang jelas menuju rombongan. Beam berbalik sementara Rain menggerakkan Nova menuju jalan terlindung.\n\nRain: \"Nova, di belakang gerbang. Bash memiliki pod yang terbuka.\"",
+        "Beam mengalihkan kolektor dari Nova dengan menjadi target yang lebih terang dan lebih dekat. Asupan yang sama yang menyita cahaya di festival kini menangkap ekspresi Beam sendiri. Perisai itu memberi waktu, tetapi tidak bisa mengalahkan kolektornya.\n\nBeam: “Bergerak sambil menatapku!”",
+        "Rain dan Mend menangkap tubuh Beam yang kosong. Ekspresi emas yang dicuri disimpan utuh dalam gulungan yang terlihat, sehingga pengembalian masih dapat dilakukan. Mereka harus melindungi tubuh di sini dan pola asli di atas; tidak ada yang bisa menggantikan yang lain.\n\nRain: \"Reelnya masih utuh. Simpan Beam bersama kami.\"",
+        "Bitter mengamankan Beam di ruang tunggu sementara Bash menahan rute boarding. Tubuh membutuhkan perawatan sebelum siapa pun dapat melakukan restorasi. Melukis senyuman di atasnya tidak akan mengembalikan ekspresi yang dicuri.\n\nBitter: \"Pengekangan aman. Visor tetap menempel pada bodi.\"",
+        "Seseorang harus tetap tinggal untuk membuka mekanisme pengembalian Crown. Quiver memilih untuk tetap menggunakan Flare daripada meninggalkan Mend. Mend menerima pilihan; kepedulian tidak sama dengan menjaga setiap teman tetap dalam jangkauan.\n\nQuiver: \"Kalahkan mereka. Kami akan membuka pengembaliannya.\"\nMend: “Jaga rute pulangmu sendiri.”",
+        "Quest, Hush, Vex dan Pop mengidentifikasi pekerjaannya sementara Flare dan Quiver mengamankan pendekatannya. Keenamnya akan melindungi arsip, melepaskan kait belakang dan mempersenjatai bypass. Mereka juga menjaga rute menuju tempat berlabuh pod aslinya tetap jelas.\n\nQuest: \"Jaga gulungannya terlebih dahulu. Beri tanda pada tim darat sebelum kami melepaskan apa pun.\"",
+        "Enam turun: Rain, Nova, Mend, Bitter, Beam dan Bash. Enam tetap di Crown. Nova harus memandu kembalinya Manylight sementara yang lain membebaskan mekanisme di atas; tidak ada kelompok yang dapat menyelesaikan penyelamatan sendirian.\n\nNova: “Kami membukanya dari kedua ujungnya.”"
+      ],
+      "title": "Pelarian yang Membutuhkan Senyuman"
+    },
+    "it": {
+      "captions": [
+        "Null raggiunge il ponte di trasferimento e gira il suo collettore verso Nova. La via di fuga si trova oltre il cancello del punto medio, ma la presa ha una linea chiara verso il gruppo. Beam torna indietro mentre Rain muove Nova verso la rampa protetta.\n\nRain: \"Nova, dietro il cancello. Bash ha la capsula aperta.\"",
+        "Beam reindirizza il collezionista lontano da Nova diventando il suo bersaglio più luminoso e più vicino. Lo stesso approccio che ha consumato la luce al festival ora cattura l’espressione stessa di Beam. Lo scudo guadagna un momento, ma non può sopraffare il collezionista.\n\nBeam: “Muoviti mentre mi guarda!”",
+        "Rain e Mend catturano il corpo tranciato di Beam. L'espressione d'oro rubata è conservata intatta in una bobina visibile, quindi è ancora possibile una restituzione. Devono proteggere il corpo qui e il modello originale sopra; nessuno dei due può sostituire l'altro.\n\nRain: \"La bobina è intatta. Tieni Beam con noi.\"",
+        "Bitter protegge Beam nella capsula di attesa mentre Bash mantiene la rotta d'imbarco. Il corpo ha bisogno di cure prima che qualcuno possa tentare il restauro. Dipingervi sopra un sorriso non riporterebbe in vita l'espressione rubata.\n\nBitter: \"Trattenimento sicuro. La visiera resta attaccata al corpo.\"",
+        "Qualcuno deve restare per aprire il meccanismo di restituzione dello Crown. Quiver sceglie di rimanere con Flare piuttosto che andarsene con Mend. Mend accetta la scelta; prendersi cura non è la stessa cosa che tenere ogni amico a portata di mano.\n\nQuiver: \"Abbatteteli. Apriremo il ritorno.\"\nMend: \"Tenetevi la strada del ritorno.\"",
+        "Quest, Hush, Vex e Pop identificano i loro lavori mentre Flare e Quiver assicurano l'approccio. Questi sei proteggeranno l'archivio, rilasceranno il fermo posteriore e attiveranno il bypass. Mantengono inoltre libero il percorso verso l'ormeggio originale della capsula.\n\nQuest: \"Proteggi prima i rulli. Segnala alla squadra di terra prima di rilasciare qualsiasi cosa.\"",
+        "Sei scendono: Rain, Nova, Mend, Bitter, Beam e Bash. Sei rimangono nello Crown. Nova deve guidare il rientro dal Manylight mentre gli altri liberano il meccanismo sovrastante; nessuno dei due gruppi può completare il salvataggio da solo.\n\nNova: \"Lo apriamo da entrambe le estremità.\""
+      ],
+      "title": "La fuga che costa un sorriso"
+    },
+    "ja": {
+      "captions": [
+        "Null は転送ブリッジに到達し、コレクタを Nova に向けます。逃げ道は中間ゲートの先にありますが、取水口にはグループとの明確な境界線があります。 Beam は引き返し、Rain は Nova を保護されたランプに向かって移動します。\n\nRain: 「Nova、ゲートの後ろ。Bashはポッドを開いている。」",
+        "Beam は、より明るく近いターゲットになることで、コレクターを Nova からリダイレクトします。フェスティバルで光を消費したのと同じ摂取量が、Beam 自身の表現を捉えます。シールドは瞬間を稼ぎますが、コレクターを圧倒することはできません。\n\nBeam: 「私を見ながら移動してください!」",
+        "RainとMendはBeamのブランクボディをキャッチします。盗まれた黄金の表現は目に見えるリールにそのまま保管されているため、返却はまだ可能です。彼らはここで体を保護し、上の元のパターンを保護する必要があります。どちらも他方の代わりにはなりません。\n\nRain: 「リールは無傷です。Beam を保管してください。」",
+        "Bitter は待機ポッドに Beam を確保し、Bash は搭乗ルートを保持します。修復を試みる前に、体をケアする必要があります。そこに笑顔を描いても、奪われた表情は戻らない。\n\nBitter: 「拘束は確実です。バイザーは体から外れません。」",
+        "Crown の返品メカニズムを開くには、誰かがそこにいなければなりません。 Quiver は、Mend を離れるのではなく、Flare に残ることを選択します。 Mend は選択を受け入れます。ケアは、すべての友人を手の届くところに置いておくことと同じではありません。\n\nQuiver: 「彼らを降ろしてください。返却口を開けます。」\nMend: 「自分で戻るルートを確保してください。」",
+        "Quest、Hush、Vex、Pop は自分のジョブを特定し、Flare と Quiver はアプローチを確保します。これら 6 台がアーカイブを保護し、後部のキャッチを解放し、バイパスを作動させます。また、元のポッドバースへのルートも明確に保ちます。\n\nQuest: 「まずリールを守ってください。何かをリリースする前に地上チームに合図してください。」",
+        "6 つの降下: Rain、Nova、Mend、Bitter、Beam、Bash。 Crown には 6 つが残っています。 Nova はManylight からの復帰をガイドしなければなりませんが、他のものは上記のメカニズムを解放します。どちらのグループも単独では救助を完了することはできません。\n\nNova: 「両端から開けます。」"
+      ],
+      "title": "笑顔を犠牲にした逃避行"
+    },
+    "ko": {
+      "captions": [
+        "Null는 전송 브리지에 도달하고 수집기를 Nova쪽으로 돌립니다. 탈출 경로는 중간 지점 게이트 너머에 있지만 흡입구에는 그룹에 대한 명확한 선이 있습니다. Beam는 뒤로 돌아서고 Rain는 Nova를 보호 램프 쪽으로 이동합니다.\n\nRain: \"Nova, 게이트 뒤에 있습니다. Bash가 포드를 열어 놓았습니다.\"",
+        "Beam는 더 밝고 더 가까운 대상이 되어 수집기를 Nova에서 멀어지게 리디렉션합니다. 페스티벌에서 빛을 소비했던 동일한 섭취량이 이제 Beam 자신의 표정을 사로잡습니다. 방패는 순간을 벌지만 수집가를 압도할 수는 없습니다.\n\nBeam: \"나를 보고 있는 동안 움직여라!\"",
+        "Rain와 Mend는 Beam의 블랭크 바디를 잡습니다. 도난당한 황금 표현은 눈에 보이는 릴에 그대로 보관되어 아직 반품이 가능합니다. 그들은 여기의 몸과 위의 원래 패턴을 보호해야 합니다. 어느 쪽도 다른 쪽을 대신할 수 없습니다.\n\nRain: \"릴은 온전합니다. Beam를 보관하세요.\"",
+        "Bitter는 대기 포드에서 Beam를 보호하고 Bash는 탑승 경로를 유지합니다. 누군가가 회복을 시도하기 전에 신체에 대한 관리가 필요합니다. 그 위에 미소를 그리는 것은 훔친 표정을 되찾지 못할 것입니다.\n\nBitter: \"고정 장치는 안전합니다. 바이저는 신체와 함께 유지됩니다.\"",
+        "Crown의 반환 메커니즘을 열려면 누군가가 남아 있어야 합니다. Quiver는 Mend를 떠나는 대신 Flare에 남는 것을 선택했습니다. Mend는 선택을 받아들입니다. 보살핌은 모든 친구를 가까이 두는 것과는 다릅니다.\n\nQuiver: \"그들을 쓰러뜨리세요. 우리가 반품을 열겠습니다.\"\nMend: \"스스로 경로를 확보하세요.\"",
+        "Quest, Hush, Vex 및 Pop는 작업을 식별하고 Flare 및 Quiver는 접근 방식을 확보합니다. 이 6개는 아카이브를 보호하고 후면 캐치를 해제하며 바이패스를 무장시킵니다. 그들은 또한 원래의 포드 정박지로 가는 경로를 깨끗하게 유지합니다.\n\nQuest: \"먼저 릴을 보호하세요. 무엇이든 출시하기 전에 지상팀에 신호를 보내세요.\"",
+        "6개의 하강: Rain, Nova, Mend, Bitter, Beam 및 Bash. Crown에는 6개가 남아 있습니다. Nova는 Manylight의 반환을 안내해야 하며 다른 사람들은 위의 메커니즘을 해제해야 합니다. 어느 그룹도 혼자서 구조를 완료할 수 없습니다.\n\nNova: \"양쪽 끝에서 엽니다.\""
+      ],
+      "title": "미소를 희생해야 하는 탈출"
+    },
+    "pl": {
+      "captions": [
+        "Null dociera do mostu transferowego i kieruje swój kolektor w stronę Nova. Droga ucieczki leży za środkową bramą, ale wlot prowadzi do grupy. Beam zawraca, podczas gdy Rain przesuwa Nova w stronę chronionej rampy.\n\nRain: \"Nova, za bramą. Bash ma otwartą kapsułę.\"",
+        "Beam przekierowuje kolektor z dala od Nova, stając się jego jaśniejszym, bliższym celem. Ten sam pobór, który pochłonął światło na festiwalu, teraz odzwierciedla ekspresję Beam. Tarcza kupuje chwilę, ale nie może pokonać zbieracza.\n\nBeam: „Rusz się, póki na mnie patrzy!”",
+        "Rain i Mend chwytają pusty korpus Beam. Skradziony złoty wyraz jest przechowywany w nienaruszonym stanie na widocznej szpuli, więc zwrot jest nadal możliwy. Muszą chronić ciało tutaj i oryginalny wzór powyżej; żadne z nich nie może zastąpić drugiego.\n\nRain: \"Bęben jest nienaruszony. Zachowaj Beam u nas. \"",
+        "Bitter zabezpiecza Beam w kapsule oczekującej, podczas gdy Bash utrzymuje trasę wejścia na pokład. Ciało wymaga opieki, zanim ktokolwiek będzie mógł podjąć próbę regeneracji. Namalowanie na nim uśmiechu nie przywróci skradzionego wyrazu twarzy.\n\nBitter: \"Bezpieczne zabezpieczenie. Wizjer pozostaje przy ciele.\"",
+        "Ktoś musi zostać, aby otworzyć mechanizm powrotny Crown. Quiver decyduje się pozostać przy Flare, zamiast odejść z Mend. Mend akceptuje wybór; troska to nie to samo, co trzymanie każdego przyjaciela w zasięgu ręki.\n\nQuiver: \"Zdejmij ich. Otworzymy powrót.\"\nMend: „Zachowajcie drogę powrotną dla siebie”.",
+        "Quest, Hush, Vex i Pop identyfikują swoje zadania, podczas gdy Flare i Quiver zabezpieczają podejście. Ta szóstka ochroni archiwum, zwolni tylny zatrzask i uzbroi obejście. Utrzymują także wolną drogę do pierwotnego miejsca postoju kapsuły.\n\nQuest: \"Najpierw strzeż bębnów. Daj sygnał drużynie naziemnej, zanim cokolwiek wypuścimy.\"",
+        "Sześć zejść: Rain, Nova, Mend, Bitter, Beam i Bash. Sześć pozostaje w Crown. Nova musi kierować powrotem z Manylight, podczas gdy inne uwalniają mechanizm powyżej; żadna grupa nie jest w stanie samodzielnie ukończyć akcji ratunkowej.\n\nNova: „Otwieramy z obu stron.”"
+      ],
+      "title": "Ucieczka, która kosztuje uśmiech"
+    },
+    "pt": {
+      "captions": [
+        "Null alcança a ponte de transferência e vira seu coletor em direção a Nova. A rota de fuga fica além do portão central, mas a entrada tem uma linha clara para o grupo. Beam volta enquanto Rain move Nova em direção à rampa protegida.\n\nRain: \"Nova, atrás do portão. Bash está com o pod aberto.\"",
+        "Beam redireciona o coletor para longe de Nova, tornando-se seu alvo mais brilhante e mais próximo. A mesma ingestão que consumiu luz no festival agora capta a expressão própria de Beam. O escudo ganha um momento, mas não pode dominar o colecionador.\n\nBeam: “Mova-se enquanto ele está olhando para mim!”",
+        "Rain e Mend capturam o corpo cego de Beam. A expressão dourada roubada é armazenada intacta em uma bobina visível, portanto a devolução ainda é possível. Eles devem proteger o corpo aqui e o padrão original acima; nenhum deles pode substituir o outro.\n\nRain: \"A bobina está intacta. Mantenha Beam conosco.\"",
+        "Bitter protege Beam na cápsula de espera enquanto Bash mantém a rota de embarque. O corpo precisa de cuidados antes que alguém possa tentar a restauração. Pintar um sorriso não traria de volta a expressão roubada.\n\nBitter: \"Contenção segura. A viseira permanece com o corpo.\"",
+        "Alguém deve ficar para abrir o mecanismo de retorno do Crown. Quiver opta por permanecer com Flare em vez de sair com Mend. Mend aceita a escolha; cuidar não é o mesmo que manter todos os amigos ao seu alcance.\n\nQuiver: \"Derrube-os. Abriremos o retorno.\"\nMend: “Mantenha uma rota de volta para vocês.”",
+        "Quest, Hush, Vex e Pop identificam seus trabalhos enquanto Flare e Quiver protegem a abordagem. Esses seis protegerão o arquivo, liberarão a trava traseira e armarão o desvio. Eles também mantêm a rota para o cais original livre.\n\nQuest: \"Proteja os rolos primeiro. Avise a equipe de solo antes de lançarmos qualquer coisa.\"",
+        "Seis descem: Rain, Nova, Mend, Bitter, Beam e Bash. Seis permanecem no Crown. Nova deve guiar o retorno do Manylight enquanto os demais liberam o mecanismo acima; nenhum grupo pode completar o resgate sozinho.\n\nNova: “Abrimos pelas duas extremidades.”"
+      ],
+      "title": "A fuga que custa um sorriso"
+    },
+    "ru": {
+      "captions": [
+        "Null достигает передаточного моста и поворачивает свой коллектор в сторону Nova. Путь эвакуации лежит за средними воротами, но вход имеет четкую линию с группой. Beam поворачивает назад, а Rain перемещает Nova к защищенному пандусу.\n\nRain: \"Nova, за воротами. У Bash открыта капсула\".",
+        "Beam перенаправляет коллекционера от Nova, становясь его более яркой и близкой целью. Тот же источник света, который поглощал свет на фестивале, теперь отражает собственное выражение Beam. Щит дает момент, но не может одолеть коллекционера.\n\nBeam: «Двигайся, пока он смотрит на меня!»",
+        "Rain и Mend ловят заглушенное тело Beam. Украденное золотое выражение сохраняется в целости и сохранности на видимой катушке, поэтому возврат по-прежнему возможен. Они должны защищать тело здесь и исходный узор выше; ни одно из них не может заменить другое.\n\nRain: \"Батушка цела. Оставьте Beam у нас\".",
+        "Bitter закрепляет Beam в ожидающей капсуле, а Bash удерживает маршрут посадки. Тело нуждается в уходе, прежде чем кто-либо сможет попытаться восстановить его. Нарисовав на нем улыбку, украденное выражение лица не вернётся.\n\nBitter: \"Удерживающие устройства закреплены. Козырек остается на теле\".",
+        "Кто-то должен остаться, чтобы открыть возвратный механизм Crown. Quiver предпочитает остаться с Flare, а не уйти с Mend. Mend принимает выбор; забота — это не то же самое, что держать каждого друга под рукой.\n\nQuiver: \"Уничтожьте их. Мы откроем возврат\".\nMend: «Оставьте себе обратный путь».",
+        "Quest, Hush, Vex и Pop определяют свои задания, а Flare и Quiver обеспечивают подход. Эти шестеро защитят архив, отпустят заднюю защелку и активируют байпас. Они также сохраняют свободным путь к первоначальному месту для капсул.\n\nQuest: \"Сначала охраняйте барабаны. Подайте сигнал наземной команде, прежде чем мы что-нибудь выпустим\".",
+        "Шесть спусков: Rain, Nova, Mend, Bitter, Beam и Bash. Шестеро остаются в составе Crown. Nova должен руководить возвращением Манилайта, пока остальные освобождают указанный выше механизм; ни одна группа не может завершить спасение в одиночку.\n\nNova: «Мы открываем его с обоих концов»."
+      ],
+      "title": "Побег, который стоит улыбки"
+    },
+    "tr": {
+      "captions": [
+        "Null transfer köprüsüne ulaşır ve toplayıcısını Nova'ye doğru döndürür. Kaçış yolu orta nokta kapısının ötesinde yer alıyor ancak girişin gruba net bir çizgisi var. Rain, Nova'yi korumalı rampaya doğru hareket ettirirken Beam geri döner.\n\nRain: \"Nova, kapının arkasında. Bash'nin bölmesi açık.\"",
+        "Beam, daha parlak ve daha yakın bir hedef haline gelerek toplayıcıyı Nova'den uzaklaştırır. Festivalde ışık tüketen aynı alım artık Beam'nin kendi ifadesini yakalıyor. Kalkan bir an kazandırır ama toplayıcıyı alt edemez.\n\nBeam: \"Bana bakarken hareket et!\"",
+        "Rain ve Mend, Beam'nin boşaltılmış gövdesini yakalar. Çalınan altın ifade, görünür bir makarada bozulmadan saklanır, dolayısıyla geri dönüş hala mümkündür. Burada gövdeyi, yukarıdaki orijinal deseni korumalılar; hiçbiri diğerinin yerini tutamaz.\n\nRain: \"Makara sağlam. Beam'yi yanımızda tutun.\"",
+        "Bitter, Beam'yi bekleme bölmesinde korurken, Bash biniş rotasını korur. Herhangi birinin restorasyona girişmeden önce vücudun bakıma ihtiyacı var. Üzerine bir gülümseme çizmek çalınan ifadeyi geri getirmeyecekti.\n\nBitter: \"Sabitleme güvenli. Vizör gövdeyle birlikte kalıyor.\"",
+        "Crown'nin geri dönüş mekanizmasını açmak için birinin kalması gerekiyor. Quiver, Mend ile ayrılmak yerine Flare ile kalmayı seçiyor. Mend seçimi kabul eder; bakım her arkadaşın ulaşılabilir olmasıyla aynı şey değildir.\n\nQuiver: \"Onları indirin. Geri dönüşü açacağız.\"\nMend: “Kendiniz için geriye doğru bir rota tutun.”",
+        "Quest, Hush, Vex ve Pop işlerini tanımlarken Flare ve Quiver yaklaşımı güvence altına alır. Bu altısı arşivi koruyacak, arka mandalı serbest bırakacak ve bypass'ı devreye alacak. Ayrıca orijinal kapsül yatağına giden yolu da açık tutuyorlar.\n\nQuest: \"Önce makaraları koruyun. Herhangi bir şeyi bırakmadan önce yer ekibine sinyal verin.\"",
+        "Altı iniş: Rain, Nova, Mend, Bitter, Beam ve Bash. Altı tanesi Crown'de kaldı. Nova, Manylight'tan geri dönüşe rehberlik ederken diğerleri yukarıdaki mekanizmayı serbest bırakmalıdır; hiçbir grup kurtarmayı tek başına tamamlayamaz.\n\nNova: “İki ucundan da açıyoruz.”"
+      ],
+      "title": "Bir Gülümsemeye Bedel Olan Kaçış"
+    },
+    "vi": {
+      "captions": [
+        "Null đến cầu chuyển và quay bộ thu của nó về phía Nova. Lối thoát hiểm nằm ngoài cổng giữa nhưng cửa vào có ranh giới rõ ràng cho nhóm. Beam quay lại trong khi Rain di chuyển Nova về phía đoạn đường nối được bảo vệ.\n\nRain: \"Nova, phía sau cổng. Bash đã mở khoang.\"",
+        "Beam chuyển hướng bộ thu khỏi Nova bằng cách trở thành mục tiêu sáng hơn, gần hơn. Cửa hút tương tự tiêu thụ ánh sáng tại lễ hội giờ đây đã thể hiện được nét đặc trưng của Beam. Chiếc khiên mua một khoảnh khắc, nhưng nó không thể chế ngự được người sưu tầm.\n\nBeam: “Di chuyển khi nó đang nhìn tôi!”",
+        "Rain và Mend bắt được cơ thể trống rỗng của Beam. Biểu hiện vàng bị đánh cắp được lưu trữ nguyên vẹn trong một cuộn phim có thể nhìn thấy được, vì vậy vẫn có thể trả lại. Họ phải bảo vệ thân thể ở đây và hình mẫu ban đầu ở trên; không thể thay thế cho cái khác.\n\nRain: \"Cuộn quay còn nguyên vẹn. Hãy giữ Beam bên mình.\"",
+        "Bitter bảo vệ Beam trong khoang chờ trong khi Bash giữ lộ trình lên máy bay. Cơ thể cần được chăm sóc trước khi bất cứ ai có thể cố gắng phục hồi. Vẽ một nụ cười lên đó sẽ không mang lại vẻ mặt bị đánh cắp.\n\nBitter: \"Kiềm an toàn. Tấm che mặt luôn gắn liền với cơ thể.\"",
+        "Phải có ai đó ở lại để mở cơ chế hoàn trả của Crown. Quiver chọn ở lại với Flare thay vì rời đi với Mend. Mend chấp nhận sự lựa chọn; sự quan tâm không giống như giữ mọi người bạn trong tầm tay.\n\nQuiver: \"Hạ chúng xuống. Chúng tôi sẽ mở cửa trở lại.\"\nMend: “Hãy tự mình tìm đường quay lại.”",
+        "Quest, Hush, Vex và Pop xác định công việc của họ trong khi Flare và Quiver đảm bảo phương pháp tiếp cận. Sáu người này sẽ bảo vệ kho lưu trữ, giải phóng chốt phía sau và trang bị cho đường vòng. Họ cũng giữ cho tuyến đường đến bến tàu ban đầu được thông thoáng.\n\nQuest: \"Trước tiên hãy bảo vệ các cuộn phim. Hãy báo hiệu cho đội mặt đất trước khi chúng tôi tung ra bất cứ thứ gì.\"",
+        "Sáu dòng xuống: Rain, Nova, Mend, Bitter, Beam và Bash. Sáu chiếc vẫn còn trong Crown. Nova phải hướng dẫn quay trở lại từ Manylight trong khi những người khác giải phóng cơ chế trên; không nhóm nào có thể hoàn thành cuộc giải cứu một mình.\n\nNova: “Chúng tôi mở nó từ cả hai đầu.”"
+      ],
+      "title": "Cuộc trốn thoát phải trả giá bằng một nụ cười"
+    },
+    "zh": {
+      "captions": [
+        "Null 到达传输桥并将其集电极转向 Nova。逃生路线位于中门之外，但入口与队伍有清晰的界限。 Beam 折返，同时 Rain 将 Nova 移向受保护的坡道。\n\nRain：“Nova，在门后面。Bash 的吊舱已打开。”",
+        "Beam 通过成为更亮、更近的目标来将收集器从 Nova 上移开。在音乐节上消耗光线的同一摄入量现在捕捉到了 Beam 自己的表情。盾牌可以赢得时间，但它无法压倒收藏家。\n\nBeam：“在它看着我的时候移动！”",
+        "Rain和Mend抓住Beam的毛坯体。被盗的金色表情完好无损地存储在可见的卷轴中，因此仍然可以归还。他们必须保护这里的身体和上面的原始图案；两者都不能替代对方。\n\nRain：“卷轴完好无损。请保留Beam。”",
+        "Bitter 将 Beam 固定在候机舱中，而 Bash 则保持登机路线。在任何人尝试恢复之前，身体都需要护理。在上面画一个微笑并不能恢复被盗的表情。\n\nBitter：“约束牢固。面罩与身体保持在一起。”",
+        "必须有人留下来打开Crown的返回机制。 Quiver选择留在Flare，而不是和Mend离开。 Mend接受选择；关心并不等于让每个朋友都触手可及。\n\nQuiver：“把它们拿下来。我们将打开退货。”\nMend：“给你们留一条回去的路。”",
+        "Quest、Hush、Vex 和 Pop 确定其工作，而 Flare 和 Quiver 则确保进场安全。这六个人将保护档案、释放后部锁扣并武装旁路。他们还保持通往原始吊舱泊位的路线畅通。\n\nQuest：“首先保护卷轴。在我们释放任何东西之前向地面团队发出信号。”",
+        "六下降：Rain、Nova、Mend、Bitter、Beam 和 Bash。 Crown 中还剩下六架。 Nova必须引导Manylight返回，而其他人则释放上述机制；任何一个小组都无法单独完成救援。\n\nNova：“我们从两端打开它。”"
+      ],
+      "title": "微笑的逃脱"
+    }
+  },
+  "number": 118,
+  "panels": [
+    {
+      "altText": "Null advances from the north gallery entrance with the central collector shutter open toward Nova. Rain stands beside Nova on the southward ramp, directing the exit.",
+      "bytes": 1877253,
+      "image": "s118_p01.png",
+      "sha256": "19593f20af91d857ee0e22af69d572321d3a01be2d76c20e2b0cd6eb879afbab"
+    },
+    {
+      "altText": "Beam sends one broad shield of light between Null’s open intake and the escaping team outside the crop. The collector locks onto that brighter nearby source, drawing the sheet inward.",
+      "bytes": 1875397,
+      "image": "s118_p02.png",
+      "sha256": "206e4acc45ebbde57b1a2e4987378c55452c6eb4ada60e5bc718beaab4511837"
+    },
+    {
+      "altText": "Rain and Mend support one completely featureless golden Beam as the final smile-shaped ribbon enters the overhead inlet. The notched ivory visor remains on Beam’s body.",
+      "bytes": 1924917,
+      "image": "s118_p03.png",
+      "sha256": "e360fe1609e176170c17ed94281ca9cd6cae2b7c02c39060c3c9b09299743ac3"
+    },
+    {
+      "altText": "Bash stands at the pod doorway keeping the ramp level and unobstructed. Bitter secures the portable padded sling around blank Beam in the front-row seat; the existing restraint closes around the pad rather than across the visor.",
+      "bytes": 1734535,
+      "image": "s118_p04.png",
+      "sha256": "b8de7654240e8024a17efe37ed9fc309fa7aad67cc184e4c49f1bcdcf3a969ea"
+    },
+    {
+      "altText": "Flare braces the midpoint gate’s old counterweight handle against its fixed stop, holding a safe opening. Quiver stands on the Crown side beside the west maintenance rail, tether clipped to its ring.",
+      "bytes": 1802821,
+      "image": "s118_p05.png",
+      "sha256": "e31e653f41a49fe51a1d7a4d82ab036bb4fbcf994928d311fba5b7aeb4286b0e"
+    },
+    {
+      "altText": "Quest spreads Hush’s cloth copy on the fixed service shelf. Hush points to the actual three-shutter signaling unit connected to the waste-return pipe.",
+      "bytes": 1785520,
+      "image": "s118_p06.png",
+      "sha256": "dc34cfd7161274dbc5778ed0b9704b091875730df5a54b83428cbc80ea32e76f"
+    },
+    {
+      "altText": "Rain and Nova sit beside restrained blank Beam. Nova wears the chipped pin; Rain holds the dotted moth briefly above the lap, not against a control.",
+      "bytes": 1729196,
+      "image": "s118_p07.png",
+      "sha256": "1e3e6027888367d179c3b118b234aa1cdb23cc719a73b97f2fc27421e4d526bb"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "adventure",
+    "friendship",
+    "rescue",
+    "superhero"
+  ],
+  "version": 1
+}

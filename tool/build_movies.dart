@@ -133,6 +133,7 @@ Future<Map<String, Object?>> _buildEpisode(
 
   final publishedFolder = Directory('${root.path}/movies/$movieId/episodes/$id')
     ..createSync(recursive: true);
+  Map<String, Object?>? backdrop;
   final publishedPanels = <Map<String, Object?>>[];
   var totalBytes = 0;
   final panels = episode['panels']! as List<Object?>;
@@ -167,6 +168,9 @@ Future<Map<String, Object?>> _buildEpisode(
     await File(
       '${publishedFolder.path}/$expectedName',
     ).writeAsBytes(bytes, flush: true);
+    if (index == 0) {
+      backdrop = _buildBackdrop(id, resized, episode['artworkHeightFraction']);
+    }
     totalBytes += bytes.length;
     publishedPanels.add(<String, Object?>{
       'altText': altTexts[index],
@@ -199,7 +203,10 @@ Future<Map<String, Object?>> _buildEpisode(
   }
 
   final localizations = _object(episode['localizations'], '$id localizations');
+  if (backdrop == null) throw FormatException('$id has no backdrop source.');
   return <String, Object?>{
+    'artworkHeightFraction': episode['artworkHeightFraction'] ?? 1,
+    'backdrop': backdrop,
     'bytes': totalBytes,
     'cover': '$movieId/episodes/$id/${id}_p01.png',
     'id': id,
@@ -211,9 +218,47 @@ Future<Map<String, Object?>> _buildEpisode(
     },
     'number': episode['number'],
     'path': '$movieId/episodes/$id/episode.json',
+    'releaseDate': episode['releaseDate'],
     'sha256': sha256.convert(episodeBytes).toString(),
     'tags': episode['tags'],
     'version': episode['version'],
+  };
+}
+
+Map<String, Object?> _buildBackdrop(
+  String id,
+  image.Image source,
+  Object? rawFraction,
+) {
+  final fraction = rawFraction is num ? rawFraction.toDouble() : 1;
+  final artworkHeight = (source.height * fraction).round().clamp(
+    1,
+    source.height,
+  );
+  final wideHeight = (source.width * 9 / 16).round();
+  final cropHeight = artworkHeight < wideHeight ? artworkHeight : wideHeight;
+  final cropTop = ((artworkHeight - cropHeight) / 2).round();
+  final crop = image.copyCrop(
+    source,
+    height: cropHeight,
+    width: source.width,
+    x: 0,
+    y: cropTop,
+  );
+  final resized = image.copyResize(
+    crop,
+    height: 135,
+    interpolation: image.Interpolation.cubic,
+    width: 240,
+  );
+  final bytes = Uint8List.fromList(image.encodeJpg(resized, quality: 44));
+  if (bytes.length > 64 * 1024) {
+    throw FormatException('$id backdrop exceeds 64 KiB.');
+  }
+  return <String, Object?>{
+    'bytes': bytes.length,
+    'data': base64Encode(bytes),
+    'sha256': sha256.convert(bytes).toString(),
   };
 }
 
@@ -240,6 +285,20 @@ String _text(Map<String, Object?> object, String key) {
 }
 
 void _validateEpisode(String id, Map<String, Object?> episode) {
+  final fraction = episode['artworkHeightFraction'] ?? 1;
+  if (fraction is! num ||
+      !fraction.isFinite ||
+      fraction < 0.5 ||
+      fraction > 1) {
+    throw FormatException('$id has an invalid artwork height fraction.');
+  }
+  final release = _text(episode, 'releaseDate');
+  final date = DateTime.tryParse(release);
+  if (!RegExp(r'^\d{4}-\d{2}-\d{2}$').hasMatch(release) ||
+      date == null ||
+      date.toIso8601String().split('T').first != release) {
+    throw FormatException('$id needs a valid releaseDate (YYYY-MM-DD).');
+  }
   if (episode['schema'] != 1 ||
       episode['version'] is! int ||
       (episode['version']! as int) < 1 ||

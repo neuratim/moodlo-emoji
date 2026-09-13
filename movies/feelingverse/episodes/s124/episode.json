@@ -1,0 +1,274 @@
+{
+  "id": "s124",
+  "localizations": {
+    "ar": {
+      "captions": [
+        "يتم تثبيت المزلاج بعد أن يترك Vex. لا ينبغي لأحد أن يبقى في الخلف ممسكًا بالرافعة. يقوم Quest بفحص آخر بكرات الفك أثناء تغطية محرك لوحة التوجيه المنسوخة وفصله. تظل شارة الوصول القديمة الخاصة بـ Vex مكسورة داخل الممر الجانبي.\n\nQuest: \"يظل ثابتًا عند نقطة التوقف. استمر في التحرك فقط بعد تصفية البكرات.\"",
+        "النسخ الأصلية تمر عبر المحطة البحرية في قناة الضباب. يحافظ كل من Wail وAdore على محاذاة مساراتهما. ولم تُسرق تعابيرهم أبدًا؛ مساهمتهم ترسل أنماط الآخرين إلى الأمام دون إصلاح الحديقة المكسورة بالخارج.\n\nAdore: \"المسارات منفصلة. احتفظ بها بهذه الطريقة.\"",
+        "العودة الأولى تصل إلى مقيم محمي. يبدأ تعبير القلق في الظهور من جديد، وليس ابتسامة إلزامية. Bloom، Puff وFizz تحافظ على ثبات الشخص والمسار واضحًا. فرق الوجوه هو ما تنقذه الإنقاذ.\n\nBloom: \"ابق بجانب السكة الحديدية. ليست هناك حاجة للابتسام بالنسبة لنا.\"",
+        "وصل النمط الذهبي الخاص بـ Beam أخيرًا إلى مقاعد البدلاء. تحافظ Rain وNova على ثبات المسار بينما يبدأ الوجه المألوف في العودة. يتطابق الجسم والواقي والتسجيل مع نفس الصديق الذي تم نقله من Crown.\n\nRain: \"هذه هي بكرة Beam. دعها تكمل المسار.\"",
+        "أصبح وجه Beam كاملاً مرة أخرى، لكن الرد الأول لم يكن مزحة أو عرضًا للسعادة. يبقى Rain بجانب نفس الصديق الذي كان مهمًا حتى عندما كان الوجه فارغًا. لا يتطلب التعافي إخفاء ما شعرت به من محنة.\n\nBeam: \"لم أستطع أن أبتسم.\"\nRain: \"كنت لا تزال أنت.\"",
+        "بعد التحقق من مسح الأرشيف، يصعد جميع المسافرين الستة من Crown إلى الكبسولة التي تم إرجاعها. يقوم Hush بتأمين الباب ويقوم Quiver بفحص الفرامل اليدوية. يظل Null معزولًا بالأعلى لإجراء عملية نقل تحت الإشراف لاحقًا؛ ولا يتم ترك أحد بهدوء لإبقاء النظام مفتوحًا.\n\nQuiver: \"على متنها ستة أشخاص. تم فحص الفرامل. يمكننا النزول.\"",
+        "تصل آخر الأنماط المخزنة إلى أصحابها، وتمتلئ شوارع Mosaic بوجوه مختلفة مرة أخرى. تبقى أذرع المجمع مظلمة. لا يزال الجسر متضررا، لكن التهديد بالاختطاف والمحو القسري قد انتهى؛ إعادة البناء هي نوع مختلف من العمل.\n\nStill: \"اكتملت العودة. أبقِ الملاجئ مفتوحة لأي شخص يحتاج إليها.\""
+      ],
+      "title": "الجميع، ليس نفس الشيء"
+    },
+    "bn": {
+      "captions": [
+        "Vex চলে যাওয়ার পরে ল্যাচটি ধরে থাকে। লিভার আঁকড়ে ধরার পেছনে কাউকে থাকতে হবে না। Quest কপি করা রাউটিং প্লেটের ড্রাইভ আবৃত এবং সংযোগ বিচ্ছিন্ন করার সময় শেষ আনওয়াইন্ডিং রিলগুলি পরীক্ষা করে। Vex এর পুরানো অ্যাক্সেস ব্যাজ বাইপাসের ভিতরে ভাঙা থাকে।\n\nQuest: \"এটি স্টপে ধরে আছে। রিল পরিষ্কার হওয়ার পরেই চলতে থাকুন।\"",
+        "মূলগুলি মিস্ট চ্যানেলে সমুদ্র স্টেশনের মধ্য দিয়ে যায়। Wail এবং Adore তাদের পথ সারিবদ্ধ রাখে। তাদের নিজস্ব অভিব্যক্তি চুরি করা হয়নি; তাদের অবদান বাইরের ভাঙা বাগান মেরামত না করেই অন্য লোকেদের নিদর্শনকে এগিয়ে দেয়।\n\nAdore: \"পথগুলি আলাদা। সেগুলিকে সেভাবেই রাখুন।\"",
+        "প্রথম প্রত্যাবর্তন আশ্রয়প্রাপ্ত বাসিন্দার কাছে পৌঁছায়। একটি উদ্বিগ্ন অভিব্যক্তি পুনরায় আবির্ভূত হতে শুরু করে, বাধ্যতামূলক হাসি নয়। Bloom, Puff এবং Fizz ব্যক্তিকে স্থির রাখে এবং পথ পরিষ্কার করে। মুখের মধ্যে পার্থক্য উদ্ধার কি সংরক্ষণ করা হয়.\n\nBloom: \"রেলের পাশে থাকুন। আমাদের জন্য হাসির দরকার নেই।\"",
+        "Beam এর নিজস্ব সোনালী প্যাটার্ন অবশেষে বেঞ্চে পৌঁছেছে। Rain এবং Nova চেনা মুখ ফিরে আসতে শুরু করার সাথে সাথে পথকে স্থির রাখে। Crown থেকে বডি, ভিসার এবং রেকর্ডিং একই বন্ধুর সাথে মিলে যায়।\n\nRain: \"এটি Beam এর রিল। এটিকে পথ শেষ করতে দিন।\"",
+        "Beam এর মুখ আবার পুরো, কিন্তু প্রথম প্রতিক্রিয়া একটি রসিকতা বা আনন্দের অভিনয় নয়। Rain একই বন্ধুর পাশে থাকে যিনি মুখ ফাঁকা থাকলেও গুরুত্বপূর্ণ। পুনরুদ্ধারের জন্য অগ্নিপরীক্ষা কেমন লাগলো তা লুকানোর প্রয়োজন নেই।\n\nBeam: \"আমি হাসতে পারিনি।\"\nRain: \"আপনি এখনও আপনি ছিলেন।\"",
+        "সংরক্ষণাগারটি সাফ হয়েছে তা পরীক্ষা করার পরে, সমস্ত ছয়টি Crown ভ্রমণকারী ফিরে আসা পডে চড়ে। Hush দরজাকে সুরক্ষিত করে এবং Quiver ম্যানুয়াল ব্রেক চেক করে। Null পরবর্তী তত্ত্বাবধানে স্থানান্তরের জন্য উপরে বিচ্ছিন্ন থাকে; কেউ শান্তভাবে সিস্টেম খোলা রাখা পিছনে বাকি আছে.\n\nQuiver: \"ছয়জন জাহাজে। ব্রেক চেক করা হয়েছে। আমরা নিচে যেতে পারি।\"",
+        "শেষ সঞ্চিত নিদর্শনগুলি তাদের মালিকদের কাছে পৌঁছেছে এবং Mosaic এর রাস্তাগুলি আবার বিভিন্ন মুখ দিয়ে পূর্ণ হয়ে গেছে। কালেক্টর অস্ত্র অন্ধকার থাকে. সেতুটি এখনও ক্ষতিগ্রস্ত, কিন্তু অপহরণ এবং জোরপূর্বক মুছে ফেলার হুমকি শেষ হয়েছে; পুনর্নির্মাণ একটি ভিন্ন ধরনের কাজ।\n\nStill: \"ফেরত সম্পূর্ণ হয়েছে। যাদের প্রয়োজন তাদের জন্য আশ্রয়কেন্দ্র খোলা রাখুন।\""
+      ],
+      "title": "সবাই, একই নয়"
+    },
+    "cs": {
+      "captions": [
+        "Po uvolnění Vex západka drží. Nikdo nemusí zůstávat za pákou. Quest kontroluje poslední odvíjecí cívky, zatímco je pohon kopírované směrovací desky zakrytý a odpojený. Starý přístupový odznak Vex zůstává rozbitý uvnitř bypassu.\n\nQuest: \"Drží na dorazu. Pokračujte v pohybu až poté, co se válce uvolní.\"",
+        "Originály procházejí námořní stanicí v mlžném kanálu. Wail a Adore udržují své cesty vyrovnané. Jejich vlastní výrazy nebyly nikdy ukradeny; jejich příspěvek posílá vzory jiných lidí kupředu, aniž by opravovali rozbitou zahradu venku.\n\nAdore: \"Cesty jsou oddělené. Nechte je tak.\"",
+        "První návrat se dostane k chráněnému obyvateli. Znovu se začíná objevovat ustaraný výraz, nikoli obligátní úsměv. Bloom, Puff a Fizz udržují osobu v klidu a cestu volnou. Rozdíl mezi tvářemi je v tom, co záchrana zachraňuje.\n\nBloom: \"Zůstaňte u zábradlí. Není třeba se kvůli nám usmívat.\"",
+        "Vlastní zlatý vzor Beam se konečně dostává na lavici. Rain a Nova udržují cestu stabilní, když se známá tvář začíná vracet. Tělo, hledí a nahrávka se shodují se stejným přítelem, který byl sejmut z Crown.\n\nRain: \"To je naviják Beam. Ať dokončí cestu.\"",
+        "Tvář Beam je opět celistvá, ale první odpovědí není vtip nebo představení štěstí. Rain zůstane vedle stejného přítele, na kterém záleželo, i když byl obličej prázdný. Zotavení nevyžaduje skrývání toho, jak to utrpení vypadalo.\n\nBeam: \"Nemohl jsem se usmát.\"\nRain: \"Stále jsi to byl ty.\"",
+        "Po kontrole, že se archiv vyčistil, všech šest cestujících Crown nastoupí do vráceného modulu. Hush zajišťuje dveře a Quiver kontroluje ruční brzdu. Null zůstane izolován výše pro pozdější přenos pod dohledem; nikdo nezůstane tiše pozadu, aby udržoval systém otevřený.\n\nQuiver: \"Šest na palubě. Brzda zkontrolována. Můžeme jít dolů.\"",
+        "Poslední uložené vzory se dostanou ke svým majitelům a ulice Mosaic se opět zaplní různými tvářemi. Kolektorová ramena zůstávají tmavá. Most je stále poškozen, ale hrozba únosu a nuceného vymazání skončila; přestavba je jiný druh práce.\n\nStill: \"Návrat je dokončen. Nechejte úkryty otevřené pro každého, kdo je potřebuje.\""
+      ],
+      "title": "Všichni, ne stejní"
+    },
+    "de": {
+      "captions": [
+        "Der Riegel hält, nachdem der Vex losgelassen wurde. Niemand muss zurückbleiben und einen Hebel umklammern. Der Quest prüft die letzten Abwickelrollen, während der Antrieb der kopierten Routingplatte abgedeckt und abgeklemmt ist. Der alte Zugangsausweis von Vex bleibt innerhalb der Umgehungsstraße kaputt.\n\nQuest: „Es hält den Anschlag. Bewegen Sie sich erst weiter, wenn die Walzen frei sind.“",
+        "Die Originale passieren die Seestation im Nebelkanal. Wail und Adore halten ihre Pfade aufeinander abgestimmt. Ihre eigenen Gesichtsausdrücke wurden nie gestohlen; Ihr Beitrag führt die Muster anderer Menschen weiter, ohne den kaputten Garten draußen zu reparieren.\n\nAdore: „Die Pfade sind getrennt. Das soll so bleiben.“",
+        "Die erste Rückkehr erreicht einen betreuten Bewohner. Ein besorgter Gesichtsausdruck taucht wieder auf, kein obligatorisches Lächeln. Bloom, Puff und Fizz halten die Person stabil und den Weg frei. Der Unterschied zwischen den Gesichtern besteht darin, was die Rettung rettet.\n\nBloom: „Bleiben Sie an der Schiene. Für uns gibt es keinen Grund zu lächeln.“",
+        "Das goldene Muster von Beam erreicht endlich die Bank. Rain und Nova halten den Weg stabil, während das bekannte Gesicht zurückkehrt. Das Gehäuse, das Visier und die Aufnahme entsprechen denen des Crown.\n\nRain: „Das ist die Rolle von Beam. Lass sie den Weg beenden.“",
+        "Das Gesicht von Beam ist wieder ganz, aber die erste Reaktion ist kein Scherz oder eine Darstellung der Freude. Rain bleibt an der Seite desselben Freundes, der wichtig war, auch wenn das Gesicht ausdruckslos war. Genesung erfordert nicht, dass man verheimlicht, wie sich die Tortur angefühlt hat.\n\nBeam: „Ich konnte nicht lächeln.“\nRain: „Du warst immer noch du selbst.“",
+        "Nachdem überprüft wurde, dass das Archiv geleert wurde, besteigen alle sechs Crown-Reisenden die zurückgegebene Kapsel. Hush sichert die Tür und Quiver prüft die Handbremse. Null bleibt oben für eine spätere überwachte Übertragung isoliert; Niemand wird stillschweigend zurückgelassen, um das System offen zu halten.\n\nQuiver: „Sechs an Bord. Bremse überprüft. Wir können absteigen.“",
+        "Die letzten gespeicherten Muster erreichen ihre Besitzer, und Mosaics Straßen füllen sich wieder mit verschiedenen Gesichtern. Die Kollektoren bleiben dunkel. Die Brücke ist noch beschädigt, doch Entführung und Zwangslöschung sind beendet; der Wiederaufbau ist eine andere Arbeit.\n\nStill: „Die Rückkehr ist abgeschlossen. Haltet die Notunterkünfte für alle offen, die sie brauchen.“"
+      ],
+      "title": "Jeder, nicht gleich"
+    },
+    "en": {
+      "captions": [
+        "The latch holds after Vex lets go. Nobody has to remain behind gripping a lever. Quest checks the last unwinding reels while the copied routing plate’s drive is covered and disconnected. Vex’s old access badge stays broken inside the bypass.\n\nQuest: “It holds on the stop. Keep moving only after the reels clear.”",
+        "The originals pass through the sea station in the mist channel. Wail and Adore keep their paths aligned. Their own expressions were never stolen; their contribution sends other people’s patterns onward without repairing the broken garden outside.\n\nAdore: “The paths are separate. Keep them that way.”",
+        "The first return reaches a sheltered resident. A worried expression begins to reappear, not an obligatory smile. Bloom, Puff and Fizz keep the person steady and the path clear. The difference between faces is what the rescue is saving.\n\nBloom: “Stay by the rail. There is no need to smile for us.”",
+        "Beam’s own golden pattern finally reaches the bench. Rain and Nova keep the path steady as the familiar face begins to return. The body, visor and recording match the same friend carried down from the Crown.\n\nRain: “That is Beam’s reel. Let it finish the path.”",
+        "Beam’s face is whole again, but the first response is not a joke or a performance of happiness. Rain stays beside the same friend who mattered even when the face was blank. Recovery does not require hiding what the ordeal felt like.\n\nBeam: “I could not smile.”\nRain: “You were still you.”",
+        "After checking that the archive has cleared, all six Crown travelers board the returned pod. Hush secures the door and Quiver checks the manual brake. Null stays isolated above for a later supervised transfer; nobody is quietly left behind to hold the system open.\n\nQuiver: “Six aboard. Brake checked. We can go down.”",
+        "The last stored patterns reach their owners, and Mosaic’s streets fill with different faces again. The collector arms stay dark. The bridge is still damaged, but the kidnapping and forced-erasure threat have ended; rebuilding is a different kind of work.\n\nStill: “The return is complete. Keep the shelters open for anyone who needs them.”"
+      ],
+      "title": "Everyone, Not the Same"
+    },
+    "es": {
+      "captions": [
+        "El pestillo aguanta cuando Vex lo suelta. Nadie debe quedarse sujetando una palanca. Quest revisa los últimos carretes mientras el accionamiento de la placa de rutas copiada queda cubierto y desconectado. La vieja credencial de Vex sigue rota dentro del desvío.\n\nQuest: «Aguanta en el tope. Avancen solo cuando los carretes estén libres.»",
+        "Los originales pasan por la estación marítima en el canal de niebla. Wail y Adore mantienen alineados sus caminos. Sus propias expresiones nunca fueron robadas; su contribución hace avanzar los patrones de otras personas sin reparar el jardín roto del exterior.\n\nAdore: \"Los caminos están separados. Mantenlos así\".",
+        "El primer regreso llega a un residente protegido. Una expresión de preocupación comienza a reaparecer, no una sonrisa obligatoria. Bloom, Puff y Fizz mantienen a la persona estable y el camino despejado. La diferencia entre rostros es lo que está salvando el rescate.\n\nBloom: \"Quédense junto a la barandilla. No hay necesidad de sonreírnos\".",
+        "El patrón dorado del propio Beam finalmente llega al banquillo. Rain y Nova mantienen el camino firme mientras la cara familiar comienza a regresar. El cuerpo, la visera y la grabación coinciden con el mismo amigo que bajó del Crown.\n\nRain: \"Ese es el carrete de Beam. Que termine el camino\".",
+        "El rostro de Beam vuelve a estar completo, pero la primera respuesta no es una broma ni una manifestación de felicidad. Rain permanece al lado del mismo amigo que importaba incluso cuando la cara estaba en blanco. La recuperación no requiere ocultar cómo se sintió la terrible experiencia.\n\nBeam: “No podía sonreír”.\nRain: “Aún eras tú”.",
+        "Después de comprobar que el archivo se ha borrado, los seis viajeros Crown abordan la cápsula devuelta. Hush asegura la puerta y Quiver comprueba el freno manual. Null permanece aislado arriba para una transferencia supervisada posterior; nadie se queda atrás para mantener abierto el sistema.\n\nQuiver: \"Seis a bordo. Frenos revisados. Podemos bajar\".",
+        "Los últimos patrones almacenados llegan a sus dueños y las calles de Mosaic vuelven a llenarse de caras diferentes. Los brazos colectores permanecen oscuros. El puente todavía está dañado, pero la amenaza de secuestro y borrado forzoso ha terminado; La reconstrucción es un tipo de trabajo diferente.\n\nStill: \"El regreso está completo. Mantengan los refugios abiertos para quien los necesite\"."
+      ],
+      "title": "Todos, no iguales"
+    },
+    "fr": {
+      "captions": [
+        "Le loquet tient quand Vex le lâche. Personne ne doit rester à serrer un levier. Quest vérifie les dernières bobines tandis que l’entraînement de la plaque de routage copiée est couvert et débranché. L’ancien badge de Vex reste brisé dans la dérivation.\n\nQuest : «Il tient sur la butée. N’avancez qu’une fois les bobines dégagées.»",
+        "Les originaux transitent par la station maritime dans le canal de brume. Wail et Adore gardent leurs trajectoires alignées. Leurs propres expressions n’ont jamais été volées ; leur contribution fait avancer les schémas des autres sans réparer le jardin brisé à l’extérieur.\n\nAdore : \"Les chemins sont séparés. Gardez-les ainsi.\"",
+        "Le premier retour atteint un résident hébergé. Une expression inquiète commence à réapparaître, pas un sourire obligé. Les Bloom, Puff et Fizz maintiennent la personne stable et le chemin dégagé. La différence entre les visages est ce que le sauvetage sauve.\n\nBloom : \"Restez près du rail. Nous n'avons pas besoin de sourire.\"",
+        "Le motif doré de Beam atteint enfin le banc. Les Rain et Nova maintiennent le chemin stable alors que le visage familier commence à revenir. Le corps, la visière et l'enregistrement correspondent au même ami ramené du Crown.\n\nRain : \"C'est la bobine de Beam. Laissez-la terminer le chemin.\"",
+        "Le visage de Beam est à nouveau entier, mais la première réponse n’est ni une blague ni une performance de bonheur. Rain reste aux côtés du même ami qui comptait même lorsque le visage était vide. Le rétablissement ne nécessite pas de cacher ce à quoi ressemble l’épreuve.\n\nBeam : « Je ne pouvais pas sourire. »\nRain : \"Tu étais toujours toi.\"",
+        "Après avoir vérifié que les archives ont été effacées, les six voyageurs Crown montent à bord du pod renvoyé. Le Hush sécurise la porte et le Quiver vérifie le frein manuel. Null reste isolé ci-dessus pour un transfert supervisé ultérieur ; personne n’est laissé pour compte pour maintenir le système ouvert.\n\nQuiver : \"Six à bord. Freins vérifiés. Nous pouvons descendre.\"",
+        "Les derniers motifs stockés rejoignent leurs propriétaires, et les rues de Mosaic retrouvent des visages différents. Les collecteurs restent éteints. Le pont demeure endommagé, mais enlèvements et effacement forcé ont cessé; la reconstruction est un autre travail.\n\nStill : «Le retour est terminé. Gardez les refuges ouverts à tous ceux qui en ont besoin.»"
+      ],
+      "title": "Tout le monde, pas pareil"
+    },
+    "hi": {
+      "captions": [
+        "Vex के जाने के बाद कुंडी लगी रहती है। लीवर पकड़कर किसी को पीछे नहीं रहना है. Quest अंतिम अनवाइंडिंग रीलों की जांच करता है जबकि कॉपी की गई रूटिंग प्लेट की ड्राइव को कवर और डिस्कनेक्ट किया जाता है। Vex का पुराना एक्सेस बैज बाईपास के अंदर टूटा हुआ रहता है।\n\nQuest: \"यह स्टॉप पर है। रीलों के साफ़ होने के बाद ही आगे बढ़ते रहें।\"",
+        "मूल प्रतियाँ धुंध चैनल में समुद्री स्टेशन से होकर गुजरती हैं। Wail और Adore अपने पथ संरेखित रखते हैं। उनकी अपनी अभिव्यक्तियाँ कभी चोरी नहीं हुईं; उनका योगदान बाहर के टूटे हुए बगीचे की मरम्मत किए बिना अन्य लोगों के पैटर्न को आगे बढ़ाता है।\n\nAdore: \"रास्ते अलग-अलग हैं। उन्हें ऐसे ही रखें।\"",
+        "पहली वापसी आश्रय प्राप्त निवासी तक पहुँचती है। एक अनिवार्य मुस्कान नहीं, बल्कि एक चिंतित अभिव्यक्ति फिर से प्रकट होने लगती है। Bloom, Puff और Fizz व्यक्ति को स्थिर और रास्ता साफ रखते हैं। चेहरों के बीच का अंतर ही बचाव है।\n\nBloom: \"रेल के पास रहो। हमारे लिए मुस्कुराने की कोई जरूरत नहीं है।\"",
+        "Beam का अपना सुनहरा पैटर्न आखिरकार बेंच तक पहुंच गया। Rain और Nova रास्ता स्थिर रखते हैं क्योंकि परिचित चेहरा वापस लौटने लगता है। बॉडी, वाइज़र और रिकॉर्डिंग Crown से लाए गए उसी मित्र से मेल खाते हैं।\n\nRain: \"यह Beam की रील है। इसे रास्ता खत्म करने दो।\"",
+        "Beam का चेहरा फिर से पूरा हो गया है, लेकिन पहली प्रतिक्रिया कोई मजाक या खुशी का प्रदर्शन नहीं है। Rain उसी दोस्त के साथ रहता है जो चेहरा खाली होने पर भी मायने रखता था। पुनर्प्राप्ति के लिए यह छिपाने की आवश्यकता नहीं है कि कठिन परीक्षा कैसी महसूस हुई।\n\nBeam: \"मैं मुस्कुरा नहीं सका।\"\nRain: \"आप अभी भी आप थे।\"",
+        "यह जाँचने के बाद कि संग्रह साफ़ हो गया है, सभी छह Crown यात्री लौटे हुए पॉड में सवार हो जाते हैं। Hush दरवाजे को सुरक्षित करता है और Quiver मैनुअल ब्रेक की जाँच करता है। Null बाद में पर्यवेक्षित स्थानांतरण के लिए ऊपर अलग रहता है; सिस्टम को खुला रखने के लिए किसी को चुपचाप पीछे नहीं छोड़ा गया है।\n\nQuiver: \"छह लोग सवार हैं। ब्रेक की जाँच की गई। हम नीचे जा सकते हैं।\"",
+        "अंतिम संग्रहीत पैटर्न उनके मालिकों तक पहुंचते हैं, और Mosaic की सड़कें फिर से अलग-अलग चेहरों से भर जाती हैं। संग्राहक भुजाएँ अँधेरी रहती हैं। पुल अभी भी क्षतिग्रस्त है, लेकिन अपहरण और जबरन उन्मूलन का खतरा समाप्त हो गया है; पुनर्निर्माण एक अलग तरह का काम है.\n\nStill: \"वापसी पूरी हो गई है। किसी भी जरूरतमंद के लिए आश्रयों को खुला रखें।\""
+      ],
+      "title": "हर कोई, एक जैसा नहीं"
+    },
+    "id": {
+      "captions": [
+        "Kaitnya ditahan setelah Vex dilepaskan. Tidak seorang pun harus tetap berada di belakang sambil memegang tuas. Quest memeriksa gulungan pelepasan terakhir saat drive pelat perutean yang disalin ditutupi dan diputuskan sambungannya. Lencana akses lama Vex tetap rusak di dalam bypass.\n\nQuest: \"Ini bertahan saat berhenti. Terus bergerak hanya setelah gulungannya bersih.\"",
+        "Dokumen asli melewati stasiun laut di saluran kabut. Wail dan Adore menjaga jalurnya tetap selaras. Ekspresi mereka tidak pernah dicuri; kontribusi mereka meneruskan pola orang lain tanpa memperbaiki taman yang rusak di luar.\n\nAdore: \"Jalurnya terpisah. Jaga agar tetap seperti itu.\"",
+        "Pengembalian pertama mencapai penduduk yang dilindungi. Ekspresi khawatir mulai muncul kembali, bukan senyuman wajib. Bloom, Puff, dan Fizz menjaga kestabilan orang dan jalur yang jelas. Perbedaan antar wajah adalah apa yang diselamatkan oleh penyelamatan.\n\nBloom: \"Tetaplah di dekat rel. Tidak perlu tersenyum untuk kami.\"",
+        "Pola emas Beam sendiri akhirnya mencapai bangku cadangan. Rain dan Nova menjaga jalur tetap stabil saat wajah familiar mulai kembali. Bodi, visor, dan rekamannya cocok dengan teman yang sama yang dibawa dari Crown.\n\nRain: \"Itu adalah reel Beam. Biarkan ia menyelesaikan jalannya.\"",
+        "Wajah Beam kembali utuh, namun respon pertama bukanlah lelucon atau pertunjukan kebahagiaan. Rain tetap berada di samping teman yang sama yang berarti bahkan ketika wajahnya kosong. Pemulihan tidak perlu menyembunyikan seperti apa cobaan itu.\n\nBeam: “Saya tidak bisa tersenyum.”\nRain: “Kamu tetaplah kamu.”",
+        "Setelah memeriksa apakah arsip telah dibersihkan, keenam penumpang Crown menaiki pod yang dikembalikan. Hush mengamankan pintu dan Quiver memeriksa rem manual. Null tetap terisolasi di atas untuk transfer yang diawasi nanti; tidak ada seorang pun yang diam-diam tertinggal untuk menjaga sistem tetap terbuka.\n\nQuiver: \"Enam orang di kapal. Rem sudah diperiksa. Kita bisa turun.\"",
+        "Pola tersimpan terakhir kembali kepada pemiliknya, dan jalan Mosaic dipenuhi wajah yang berbeda lagi. Lengan kolektor tetap gelap. Jembatan masih rusak, tetapi ancaman penculikan dan penghapusan paksa telah berakhir; pembangunan kembali adalah pekerjaan lain.\n\nStill: “Pengembalian selesai. Biarkan tempat perlindungan terbuka bagi siapa pun yang membutuhkannya.”"
+      ],
+      "title": "Semuanya, Tidak Sama"
+    },
+    "it": {
+      "captions": [
+        "Il fermo regge quando Vex lo lascia. Nessuno deve restare a tenere una leva. Quest controlla le ultime bobine mentre l’azionamento della piastra di instradamento copiata è coperto e scollegato. Il vecchio badge di Vex resta rotto nel bypass.\n\nQuest: «Regge sul fermo. Muovetevi solo quando le bobine sono libere.»",
+        "Gli originali passano attraverso la stazione marittima nel canale di nebbia. Wail e Adore mantengono i loro percorsi allineati. Le loro stesse espressioni non sono mai state rubate; il loro contributo manda avanti i modelli di altre persone senza riparare il giardino esterno distrutto.\n\nAdore: \"I percorsi sono separati. Mantienili così.\"",
+        "Il primo ritorno raggiunge un residente protetto. Comincia a riapparire un'espressione preoccupata, non un sorriso obbligatorio. Bloom, Puff e Fizz mantengono la persona ferma e il percorso sgombro. La differenza tra i volti è ciò che il salvataggio sta salvando.\n\nBloom: \"Resta vicino al parapetto. Non c'è bisogno di sorridere per noi. \"",
+        "Il motivo dorato di Beam raggiunge finalmente la panchina. Rain e Nova mantengono il percorso stabile mentre il volto familiare inizia a ritornare. Il corpo, la visiera e la registrazione corrispondono allo stesso amico portato dallo Crown.\n\nRain: \"Quello è il rullo di Beam. Lascia che finisca il percorso.\"",
+        "Il volto di Beam è di nuovo integro, ma la prima risposta non è uno scherzo o un'esibizione di felicità. Rain resta accanto allo stesso amico che contava anche quando il suo volto era vuoto. Il recupero non richiede di nascondere come si è sentita la dura prova.\n\nBeam: \"Non potevo sorridere.\"\nRain: “Eri ancora tu.”",
+        "Dopo aver verificato che l'archivio sia stato cancellato, tutti e sei i viaggiatori Crown salgono a bordo del pod restituito. Hush protegge la porta e Quiver controlla il freno manuale. Null rimane isolato in alto per un successivo trasferimento supervisionato; nessuno viene tranquillamente lasciato indietro a tenere aperto il sistema.\n\nQuiver: \"Sei a bordo. Freni controllati. Possiamo scendere.\"",
+        "Gli ultimi modelli memorizzati raggiungono i rispettivi proprietari e le strade di Mosaic si riempiono nuovamente di volti diversi. I bracci del collettore rimangono scuri. Il ponte è ancora danneggiato, ma la minaccia di rapimento e di cancellazione forzata è cessata; ricostruire è un lavoro diverso.\n\nStill: \"Il ritorno è completo. Tenete aperti i rifugi per chiunque ne abbia bisogno.\""
+      ],
+      "title": "Tutti, non uguali"
+    },
+    "ja": {
+      "captions": [
+        "Vex が手を放した後もラッチは保持されます。誰もレバーを握り続ける必要はありません。 Quest は、コピーされたルーティング プレートのドライブがカバーされて切断されている間に、最後の巻き戻しリールをチェックします。 Vex の古いアクセス バッジはバイパス内で壊れたままです。\n\nQuest: 「停止したままです。リールが空になった後にのみ動き続けてください。」",
+        "オリジナルは霧の水路の海の駅を通過します。 Wail と Adore はパスを揃えたままにします。彼ら自身の表現は決して盗まれませんでした。彼らの貢献は、外の壊れた庭を修復することなく、他の人々のパターンをさらに前進させます。\n\nAdore: 「パスは別々です。そのままにしておいてください。」",
+        "最初の帰還は保護された居住者に届きます。義務的な笑顔ではなく、不安そうな表情が再び現れ始めます。 Bloom、Puff、Fizz は人を安定させ、道を空けておきます。顔の違いが、救助が救えるものなのです。\n\nBloom: 「レールから離れないでください。私たちのために微笑む必要はありません。」",
+        "Beam独自の黄金パターンがついにベンチに到達。 Rain と Nova は、おなじみの顔が戻り始めても、軌道を安定させます。ボディ、バイザー、録音はCrownから継承されたものと同じです。\n\nRain: 「それは Beam のリールです。パスを完成させましょう。」",
+        "Beam の顔は再び完全になりましたが、最初の反応は冗談でも幸せの演出でもありません。 Rainは、たとえ顔が真っ白でも、大切な友人のそばにいます。回復するためには、その試練がどのようなものであったかを隠す必要はありません。\n\nBeam: 「笑えませんでした。」\nRain: 「あなたは相変わらずあなたでした。」",
+        "アーカイブがクリアされたことを確認した後、Crown の 6 人の旅行者全員が返却されたポッドに乗り込みます。 Hush はドアを固定し、Quiver は手動ブレーキをチェックします。 Null は、後の監視付き転送のために上で隔離されたままになります。システムを開いたままにしておくために静かに取り残される人は誰もいません。\n\nQuiver: 「6名が乗車しています。ブレーキはチェックされました。下山できます。」",
+        "最後に保存されたパターンが所有者に届き、Mosaic の街は再びさまざまな顔で埋め尽くされます。コレクターアームは暗いままです。橋はまだ損傷していますが、誘拐と強制消去の脅威は終わりました。再建は別の種類の仕事です。\n\nStill: 「帰還は完了しました。避難所を必要とする人のために開いたままにしてください。」"
+      ],
+      "title": "みんな同じではない"
+    },
+    "ko": {
+      "captions": [
+        "Vex가 놓아진 후에도 래치가 유지됩니다. 누구도 레버를 잡고 뒤에 남아 있을 필요가 없습니다. Quest는 복사된 라우팅 플레이트의 드라이브가 덮여 있고 연결이 끊어진 동안 마지막 풀린 릴을 확인합니다. Vex의 기존 액세스 배지는 우회 내부에서 손상된 상태로 유지됩니다.\n\nQuest: \"정지 상태를 유지합니다. 릴이 사라진 후에만 계속 이동하세요.\"",
+        "원본은 안개 수로의 바다 역을 통과합니다. Wail 및 Adore는 경로 정렬을 유지합니다. 그들의 표현은 결코 도난당하지 않았습니다. 그들의 기여는 외부의 부서진 정원을 수리하지 않고도 다른 사람들의 패턴을 앞으로 보냅니다.\n\nAdore: \"경로는 분리되어 있습니다. 그대로 유지하세요.\"",
+        "첫 번째 귀환은 보호받는 거주자에게 전달됩니다. 의무적인 미소가 아닌 걱정스러운 표정이 다시 나타나기 시작한다. Bloom, Puff 및 Fizz는 ​​사람을 안정시키고 경로를 깨끗하게 유지합니다. 얼굴의 차이는 구조가 구하는 것입니다.\n\nBloom: \"기차 옆에 있어 주세요. 우리를 위해 웃을 필요는 없습니다.\"",
+        "Beam만의 황금 패턴이 마침내 벤치에 도달했습니다. Rain 및 Nova는 친숙한 얼굴이 돌아오기 시작하더라도 경로를 안정적으로 유지합니다. 본체, 바이저 및 녹음은 Crown에서 가져온 동일한 친구와 일치합니다.\n\nRain: \"저것이 Beam의 릴입니다. 경로를 마무리하게 하세요.\"",
+        "Beam의 얼굴은 다시 온전해졌지만 첫 반응은 농담도 아니고 행복한 퍼포먼스도 아니다. Rain는 얼굴이 멍한 순간에도 소중한 친구 옆에 머물러 있습니다. 회복을 위해서는 시련이 어떤 느낌인지 숨길 필요가 없습니다.\n\nBeam: “웃을 수가 없었어요.”\nRain: “당신은 여전히 ​​당신이었습니다.”",
+        "아카이브가 지워진 것을 확인한 후 Crown 여행자 6명 모두 반환된 포드에 탑승합니다. Hush는 도어를 고정하고 Quiver는 수동 브레이크를 확인합니다. Null는 ​​나중에 감독되는 전송을 위해 위에서 격리된 상태를 유지합니다. 시스템을 열어두기 위해 조용히 뒤에 남겨진 사람은 아무도 없습니다.\n\nQuiver: \"6명이 탑승했습니다. 브레이크가 점검되었습니다. 내려갈 수 있습니다.\"",
+        "마지막으로 저장된 패턴이 소유자에게 전달되고 Mosaic의 거리는 다시 다른 얼굴로 채워집니다. 컬렉터 암은 어두운 상태를 유지합니다. 다리는 여전히 손상되었지만 납치와 강제 삭제 위협은 끝났습니다. 재건은 다른 종류의 작업이다.\n\nStill: \"반환이 완료되었습니다. 필요한 사람을 위해 대피소를 열어두세요.\""
+      ],
+      "title": "모두가 같지는 않다"
+    },
+    "pl": {
+      "captions": [
+        "Zatrzask utrzymuje się po puszczeniu Vex. Nikt nie musi pozostać z tyłu, trzymając dźwignię. Quest sprawdza ostatnie rolki odwijające, gdy napęd skopiowanej płyty frezującej jest zakryty i odłączony. Stara plakietka dostępu Vex pozostaje uszkodzona wewnątrz obejścia.\n\nQuest: \"Trzyma się na ograniczniku. Kontynuuj ruch dopiero po zwolnieniu szpul. \"",
+        "Oryginały przechodzą przez stację morską w kanale mgły. Wail i Adore utrzymują swoje ścieżki w jednej linii. Ich własne wyrazy twarzy nigdy nie zostały skradzione; ich wkład posyła wzorce innych ludzi dalej, bez naprawiania zepsutego ogrodu na zewnątrz.\n\nAdore: \"Ścieżki są oddzielne. Zachowaj je w ten sposób.\"",
+        "Pierwszy powrót dociera do mieszkańca chronionego. Zmartwiony wyraz twarzy zaczyna się pojawiać, a nie obowiązkowy uśmiech. Bloom, Puff i Fizz zapewniają stabilność osoby i wolną drogę. Różnica między twarzami jest tym, co ratuje akcja ratownicza.\n\nBloom: \"Trzymajcie się kolei. Nie ma powodu się do nas uśmiechać.\"",
+        "Złoty wzór Beam w końcu trafia na ławkę. Rain i Nova utrzymują stabilną ścieżkę, gdy znajoma twarz zaczyna powracać. Korpus, wizjer i nagranie pasują do tego samego przyjaciela przeniesionego z Crown.\n\nRain: \"To jest szpula Beam. Niech dokończy ścieżkę. \"",
+        "Twarz Beam znów jest cała, ale pierwsza reakcja nie jest żartem ani przejawem szczęścia. Rain pozostaje u boku tego samego przyjaciela, który był ważny, nawet gdy jego twarz była pusta. Powrót do zdrowia nie wymaga ukrywania tego, jak wyglądała ta ciężka próba.\n\nBeam: „Nie mogłem się uśmiechać.”\nRain: „Nadal byłeś sobą.”",
+        "Po sprawdzeniu, że archiwum jest puste, cała szóstka podróżników Crown wchodzi do odzyskanej kapsuły. Hush zabezpiecza drzwi, a Quiver sprawdza hamulec ręczny. Null pozostaje odizolowany na górze do późniejszego, nadzorowanego transportu; nikt nie zostaje, by trzymać system otwarty.\n\nQuiver: „Sześć osób na pokładzie. Hamulce sprawdzone. Możemy zjechać.”",
+        "Ostatnie zapisane wzory docierają do swoich właścicieli, a ulice Mosaic znów wypełniają się różnymi twarzami. Ramiona kolektora pozostają ciemne. Most jest nadal uszkodzony, ale zagrożenie porwaniem i wymuszonym usunięciem minęło; odbudowa to inny rodzaj pracy.\n\nStill: \"Powrót zakończony. Niech schrony będą otwarte dla każdego, kto ich potrzebuje. \""
+      ],
+      "title": "Wszyscy, nie tacy sami"
+    },
+    "pt": {
+      "captions": [
+        "A trava é mantida após o Vex ser solto. Ninguém precisa ficar para trás segurando uma alavanca. Quest verifica as últimas bobinas desenroladas enquanto o acionamento da placa rotativa copiada está coberto e desconectado. O antigo crachá de acesso do Vex permanece quebrado dentro do bypass.\n\nQuest: \"Ele permanece parado. Continue se movendo somente depois que os rolos forem liberados.\"",
+        "Os originais passam pela estação marítima no canal de névoa. Wail e Adore mantêm seus caminhos alinhados. Suas próprias expressões nunca foram roubadas; sua contribuição envia os padrões de outras pessoas sem reparar o jardim quebrado lá fora.\n\nAdore: \"Os caminhos são separados. Mantenha-os assim.\"",
+        "O primeiro retorno chega a um morador abrigado. Uma expressão preocupada começa a reaparecer, e não um sorriso obrigatório. Bloom, Puff e Fizz mantêm a pessoa firme e o caminho livre. A diferença entre os rostos é o que o resgate está salvando.\n\nBloom: \"Fique perto do trilho. Não há necessidade de sorrir para nós.\"",
+        "O padrão dourado do próprio Beam finalmente chega à bancada. Rain e Nova mantêm o caminho estável enquanto o rosto familiar começa a retornar. O corpo, viseira e gravação correspondem ao mesmo amigo transportado do Crown.\n\nRain: \"Esse é o rolo do Beam. Deixe-o terminar o caminho.\"",
+        "O rosto de Beam está inteiro novamente, mas a primeira resposta não é uma piada ou uma performance de felicidade. Rain permanece ao lado do mesmo amigo que importava mesmo quando o rosto estava em branco. A recuperação não exige esconder como foi a provação.\n\nBeam: “Não consegui sorrir.”\nRain: “Você ainda era você.”",
+        "Depois de verificar se o arquivo foi limpo, todos os seis viajantes Crown embarcam no pod devolvido. Hush protege a porta e Quiver verifica o freio manual. Null permanece isolado acima para posterior transferência supervisionada; ninguém é deixado para trás silenciosamente para manter o sistema aberto.\n\nQuiver: “Seis a bordo. Freio verificado. Podemos descer.”",
+        "Os últimos padrões armazenados chegam aos seus proprietários e as ruas de Mosaic voltam a encher-se de rostos diferentes. Os braços coletores permanecem escuros. A ponte ainda está danificada, mas a ameaça de sequestro e de apagamento forçado terminou; reconstruir é um tipo diferente de trabalho.\n\nStill: \"O retorno está completo. Mantenham os abrigos abertos para quem precisar deles.\""
+      ],
+      "title": "Todos, não são iguais"
+    },
+    "ru": {
+      "captions": [
+        "Защелка удерживается после отпускания Vex. Никто не должен оставаться позади, сжимая рычаг. Quest проверяет последние размоточные бобины, пока привод скопированной фрезерной пластины закрыт и отключен. Старый значок доступа Vex остается сломанным внутри байпаса.\n\nQuest: \"Он держится на упоре. Продолжайте движение только после того, как барабаны очистятся\".",
+        "Оригиналы проходят через морскую станцию в туманном канале. Wail и Adore сохраняют выравнивание своих путей. Их собственные выражения никогда не были украдены; их вклад направляет шаблоны других людей вперед, не восстанавливая разрушенный сад снаружи.\n\nAdore: \"Пути разделены. Держите их такими же.\"",
+        "Первое возвращение достигает приютившего жителя. На лице снова появляется обеспокоенное выражение вместо обязательной улыбки. Bloom, Puff и Fizz сохраняют устойчивость человека и расчищают путь. Разница между лицами – это то, что спасает спасение.\n\nBloom: \"Оставайтесь у рельса. Не надо нам улыбаться.\"",
+        "Золотой узор Beam наконец-то добрался до скамейки запасных. Rain и Nova сохраняют устойчивость, когда знакомое лицо начинает возвращаться. Корпус, козырек и запись соответствуют тому же другу, перенесенному с Crown.\n\nRain: \"Это катушка Beam. Пусть она завершит путь\".",
+        "Лицо Beam снова стало целым, но первая реакция — это не шутка или представление счастья. Rain остается рядом с тем же другом, который имел значение, даже когда лицо было пустым. Выздоровление не требует скрытия того, на что было похоже это испытание.\n\nBeam: «Я не мог улыбнуться».\nRain: «Ты все еще был собой».",
+        "Убедившись, что архив очищен, все шесть путешественников Crown садятся в возвращенную капсулу. Hush фиксирует дверь, а Quiver проверяет ручной тормоз. Null остается изолированным выше для последующей контролируемой передачи; никто не остается в стороне, чтобы держать систему открытой.\n\nQuiver: \"Шестеро на борту. Тормоза проверены. Мы можем снижаться\".",
+        "Последние сохраненные шаблоны доходят до своих владельцев, и улицы Mosaic снова наполняются разными лицами. Рукава коллектора остаются темными. Мост все еще поврежден, но угроза похищения и насильственного стирания исчезла; восстановление - это другой вид работы.\n\nStill: \"Возвращение завершено. Держите убежища открытыми для всех, кто в них нуждается\"."
+      ],
+      "title": "Все, не то же самое"
+    },
+    "tr": {
+      "captions": [
+        "Vex serbest bırakıldıktan sonra mandal basılı kalır. Hiç kimsenin bir kolu tutarak geride kalmasına gerek yok. Quest, kopyalanan yönlendirme plakasının tahriki kapatılıp bağlantısı kesilirken son çözme makaralarını kontrol eder. Vex'nin eski erişim kartı baypasın içinde bozuk durumda.\n\nQuest: \"Durmaya devam ediyor. Yalnızca makaralar temizlendikten sonra hareket etmeye devam edin.\"",
+        "Orijinaller sis kanalındaki deniz istasyonundan geçiyor. Wail ve Adore yollarını aynı hizada tutar. Kendi ifadeleri asla çalınmadı; onların katkıları, dışarıdaki bozuk bahçeyi onarmadan diğer insanların desenlerini ileriye doğru gönderiyor.\n\nAdore: \"Yollar ayrı. Onları öyle tutun.\"",
+        "İlk dönüş korunaklı bir sakine ulaşıyor. Zorunlu bir gülümseme değil, endişeli bir ifade yeniden ortaya çıkmaya başlar. Bloom, Puff ve Fizz kişiyi sabit ve yolu açık tutar. Yüzler arasındaki fark, kurtarma ekibinin kurtardığı şeydir.\n\nBloom: \"Demiryolunun yanında kalın. Bizim için gülümsemenize gerek yok.\"",
+        "Beam'nin kendi altın deseni sonunda tezgaha ulaşıyor. Rain ve Nova, tanıdık yüz geri dönmeye başlarken yolu sabit tutuyor. Gövde, vizör ve kayıt, Crown'den taşınan arkadaşın aynısıyla eşleşiyor.\n\nRain: \"Bu Beam'nin makarası. Bırakın yolu bitirsin.\"",
+        "Beam'nin yüzü yeniden bütünleşti ama ilk tepkisi bir şaka ya da mutluluk gösterisi değildi. Rain, yüz boşken bile önemli olan aynı arkadaşın yanında kalır. İyileşme, çetin sınavın nasıl hissettirdiğini saklamayı gerektirmez.\n\nBeam: “Gülümseyemedim.”\nRain: \"Sen hâlâ sendin.\"",
+        "Arşivin temizlendiğini kontrol ettikten sonra altı Crown yolcunun tümü geri dönen bölmeye biner. Hush kapıyı sabitler ve Quiver manuel freni kontrol eder. Null daha sonra denetlenen bir aktarım için yukarıda izole edilmiş halde kalır; sistemi açık tutacak kimse sessizce geride bırakılmıyor.\n\nQuiver: \"Altı kişi var. Fren kontrol edildi. Aşağı inebiliriz.\"",
+        "Son saklanan desenler sahiplerine ulaşır ve Mosaic'nin sokakları yeniden farklı yüzlerle dolar. Kollektör kolları karanlık kalır. Köprü hâlâ hasarlı ama adam kaçırma ve zorla silme tehdidi sona erdi; yeniden inşa etmek farklı bir iştir.\n\nStill: \"Geri dönüş tamamlandı. Barınakları ihtiyacı olan herkese açık tutun.\""
+      ],
+      "title": "Herkes Aynı Değil"
+    },
+    "vi": {
+      "captions": [
+        "Chốt giữ sau khi Vex buông ra. Không ai phải ở lại phía sau nắm chặt đòn bẩy. Quest kiểm tra các cuộn tháo cuộn cuối cùng trong khi ổ đĩa của tấm định tuyến được sao chép bị che và ngắt kết nối. Huy hiệu truy cập cũ của Vex vẫn bị hỏng bên trong đường tránh.\n\nQuest: \"Nó giữ nguyên điểm dừng. Chỉ tiếp tục di chuyển sau khi guồng quay trống.\"",
+        "Bản gốc đi qua trạm biển trong kênh sương mù. Wail và Adore giữ đường dẫn của chúng thẳng hàng. Biểu hiện của chính họ không bao giờ bị đánh cắp; sự đóng góp của họ sẽ gửi đi những khuôn mẫu của người khác mà không cần sửa chữa khu vườn bị hỏng bên ngoài.\n\nAdore: \"Các đường đi riêng biệt. Hãy giữ nguyên như vậy.\"",
+        "Chuyến trở về đầu tiên đến tay một cư dân được che chở. Vẻ mặt lo lắng bắt đầu xuất hiện trở lại, không phải nụ cười bắt buộc. Bloom, Puff và Fizz giữ cho người đứng vững và đường đi thông thoáng. Sự khác biệt giữa các khuôn mặt là điều mà cuộc giải cứu đang tiết kiệm.\n\nBloom: \"Hãy ở bên đường ray. Không cần phải mỉm cười với chúng tôi.\"",
+        "Mẫu vàng của riêng Beam cuối cùng cũng đã đến được băng ghế dự bị. Rain và Nova giữ vững đường đi khi gương mặt quen thuộc bắt đầu quay trở lại. Thân máy, tấm che mặt và bản ghi khớp với cùng một người bạn được mang xuống từ Crown.\n\nRain: \"Đó là guồng quay của Beam. Hãy để nó đi hết con đường.\"",
+        "Khuôn mặt của Beam đã trở lại nguyên vẹn nhưng phản ứng đầu tiên không phải là một trò đùa hay một biểu hiện vui vẻ. Rain vẫn ở bên cạnh người bạn quan trọng ngay cả khi khuôn mặt trống rỗng. Quá trình phục hồi không đòi hỏi phải che giấu cảm giác của thử thách.\n\nBeam: “Tôi không thể cười được.”\nRain: “Bạn vẫn là bạn.”",
+        "Sau khi kiểm tra xem kho lưu trữ đã được xóa chưa, tất cả sáu khách du lịch Crown đều lên tàu đã trả lại. Hush đóng chặt cửa và Quiver kiểm tra phanh tay. Null vẫn bị cô lập ở trên để truyền có giám sát sau này; không ai lặng lẽ bị bỏ lại phía sau để giữ cho hệ thống luôn mở.\n\nQuiver: \"Sáu người trên tàu. Đã kiểm tra phanh. Chúng ta có thể đi xuống.\"",
+        "Các mẫu được lưu trữ cuối cùng sẽ đến tay chủ nhân của chúng và các đường phố của Mosaic lại tràn ngập những khuôn mặt khác nhau. Cánh tay thu gom vẫn tối. Cây cầu vẫn bị hư hại, nhưng mối đe dọa bắt cóc và cưỡng bức xóa bỏ đã chấm dứt; xây dựng lại là một loại công việc khác.\n\nStill: \"Việc hoàn trả đã hoàn tất. Hãy mở cửa nơi trú ẩn cho bất kỳ ai cần chúng.\""
+      ],
+      "title": "Mọi người, không giống nhau"
+    },
+    "zh": {
+      "captions": [
+        "Vex 松开后闩锁保持。没有人必须留在后面抓住杠杆。当复制的路由板的驱动器被覆盖并断开连接时，Quest 检查最后一个放卷轴。 Vex 的旧访问徽章在旁路内仍然损坏。\n\nQuest：“它保持在停止状态。只有在卷轴清除后才继续移动。”",
+        "原著在迷雾通道中穿过海站。 Wail 和 Adore 保持其路径对齐。他们自己的表情从未被窃取；他们的贡献推动了其他人的模式的发展，但没有修复外面破损的花园。\n\nAdore：“路径是分开的。保持这样。”",
+        "第一批返还者到达了受庇护的居民。忧虑的表情开始重新出现，而不是强制性的微笑。 Bloom、Puff 和 Fizz 保持人员稳定和路径畅通。面孔之间的差异就是救援所拯救的东西。\n\nBloom：“留在铁轨上。不需要对我们微笑。”",
+        "Beam自己的黄金图案终于登上了替补席。当熟悉的面孔开始回归时，Rain 和 Nova 保持路径稳定。机身、面罩和录音与 Crown 上携带的同一个朋友匹配。\n\nRain：“那是Beam的卷轴。让它走完这条路。”",
+        "Beam的脸又完整了，但第一反应不是玩笑，也不是幸福的表现。即使面无表情，Rain 仍留在那个重要的朋友身边。康复并不需要隐藏痛苦的感受。\n\nBeam：“我笑不出来。”\nRain：“你还是你。”",
+        "检查档案已清除后，所有六名 Crown 旅客登上了返回的吊舱。 Hush 固定门，Quiver 检查手动制动器。 Null 在上面保持隔离，以便稍后进行监督转移；没有人会默默地被抛在后面以保持系统的开放。\n\nQuiver：“船上有六人。刹车已检查。我们可以下去了。”",
+        "最后存储的图案到达了它们的主人手中，Mosaic 的街道上再次充满了不同的面孔。收集器臂保持黑暗。桥梁仍然受损，但绑架和强制删除威胁已经结束；重建是一种不同的工作。\n\nStill：“归还已完成。请保持避难所对任何有需要的人开放。”"
+      ],
+      "title": "每个人，都不一样"
+    }
+  },
+  "number": 124,
+  "panels": [
+    {
+      "altText": "Vex has removed both mittens from the lever, which remains fixed at its stop by the mechanical latch. The broken square key is trapped in the jaws; Vex’s chest-front badge clip is empty.",
+      "bytes": 1818870,
+      "image": "s124_p01.png",
+      "sha256": "8214a1cb5ec1afdabcb9a5652ab038f873dd1f653a3d4ebd0b76be98478fb1cf"
+    },
+    {
+      "altText": "Several distinct, continuous echo ribbons pass through the guarded mist channel and reflected return panes. Wail holds the outlet wheel at its latched open stop while Adore maintains the tile’s angle.",
+      "bytes": 1914361,
+      "image": "s124_p02.png",
+      "sha256": "f9370d55be24f88efd2f5f798c9db44ad2c403b6f1def8054b513a546e977c43"
+    },
+    {
+      "altText": "One unnamed blanked resident, still wearing its original gray apron, stands supported by the fixed shelter rail. A returning ribbon from the nearest lamp socket reaches the resident through a short visible mist path.",
+      "bytes": 1817704,
+      "image": "s124_p03.png",
+      "sha256": "d91363c2f8b90b7609c91af93353f5f43f3ebb798cac29eaa80429f64add8a41"
+    },
+    {
+      "altText": "The golden original ribbon arrives through the Manylight return outlet and moist diffuser at Beam’s face. Freeze halfway: one familiar crescent eye and part of the smile have returned, while the other eye area and mouth section remain smooth.",
+      "bytes": 1812475,
+      "image": "s124_p04.png",
+      "sha256": "944a8aaa75a7190f155d83ecd4cf101b0f3bface09990564a91de40e41ab2e34"
+    },
+    {
+      "altText": "Beam’s complete familiar face is restored, with both crescent eyes and the whole smile motif. The expression is tired and unsteady; one ordinary new tear rests below an eye without changing Beam into Rain.",
+      "bytes": 1809998,
+      "image": "s124_p05.png",
+      "sha256": "932195e346a5b28fe17114191deb4fea304c62448449247c55e086637772d487"
+    },
+    {
+      "altText": "The original copper pod is latched at the lower berth. Quiver checks the familiar manual brake from the front seat; Hush stands at the door latch; Flare, Pop, Quest and Vex take the next four seats, each once.",
+      "bytes": 1856849,
+      "image": "s124_p06.png",
+      "sha256": "c7d7a95076ec8e5c7e565cb3a93cc3a037e4f90bfff85703b08da5e07f957bf3"
+    },
+    {
+      "altText": "Nova, Rain, restored Beam and neutral Still stand behind the Manylight balcony rail. Below, residents with varied expressions return along the west promenade; the one damaged bridge retains its bracing and repair scaffold.",
+      "bytes": 1854666,
+      "image": "s124_p07.png",
+      "sha256": "e5fb59bc46a4739ee103fd75138b7cb98261ac888631263e5c69e4b4079b97bc"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "adventure",
+    "friendship",
+    "rescue",
+    "superhero"
+  ],
+  "version": 1
+}

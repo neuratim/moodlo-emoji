@@ -1,0 +1,274 @@
+{
+  "id": "s107",
+  "localizations": {
+    "ar": {
+      "captions": [
+        "يقوم Phew بمطابقة الخريطة مع اقتران المحطة البحرية. يمكن لـ Patch العبور إلى تلك المحطة، لكن لا يمكنه تسلق طريق القمة المحمل بأمان عبر العاصفة. الرافعة الداخلية القديمة هي طريقهم فوقها.\n\nPhew: \"محطة العودة بها هذا المقبس. يمكن لـ Patch الوصول إليه.\"",
+        "طيارو Bash Patch، زورق إنقاذ صغير يمكنه الطيران والقيام بالغوص المحكم. اثنا عشر مقعدًا تمنح مساحة الحفلة لـ Bash وNova المفقودة. حجمها المتواضع يعني أيضًا أن الأضرار والإمدادات ستكون مهمة.\n\nBash: \"عشرة على متن السفينة الآن. نحن نحتفظ بمقعد لـ Nova.\"",
+        "Bash يكره أن تتم مراقبته ولكنه طيار قادر. يقوم Quiver بالتحقق من كيفية حمل الهيكل للاهتزاز عبر حاجز الأدوات. يمكنهم استخدام ردود الفعل هذه في العاصفة دون التظاهر بمعرفة المستقبل.\n\nBash: \"أستطيع الطيران. أنا فقط أكره جزء المشاهدة.\"\nBeam: \"ثم سأراقب الطريق.\"",
+        "يقوم Phew بفحص ختم المظلة ومضخة الإرساء. يقوم Bitter باختبار منظف الميناء القياسي مقابل عينة الطلاء، ثم يقوم بتغطية الإمداد المقاس في الأنبوب الثاني. يبقى الأنبوب الملوث منفصلاً عن مياه الصابورة النظيفة.\n\nPhew: \"قبة مغلقة، ياقة محكمة الغلق، ثم أفرغ القفل. لا تخطي هذا الأمر أبدًا.\"",
+        "قبل الإقلاع، تتحقق Rain من هدية Hope ودبوس Nova المكسور. كلاهما سافر هنا في نفس الجيب. إنها ليست أدوات سحرية. يذكرون الطاقم بأن شخصًا حقيقيًا ينتظر العودة إلى المنزل.\n\nBash: \"سنحملها بأمان. وسنفسح المجال لمالكها.\"",
+        "يلتقط Phew آخر خط إرساء متصل. ينتظر Bash بينما يقوم Mend بإصداره. إن المغادرة بأمان تعتمد على الانتهاء من الفحص، وليس على مدى الارتياح الذي يشعر به الجميع عند تشغيل المحرك.\n\nPhew: \"لا يزال هناك سطر واحد قيد التشغيل.\"\nBash: \"إذاً، نحن لم نغادر بعد.\"",
+        "Patch تغادر الميناء وعلى متنها عشرة مسافرين. تعبر المحطة التالية ممر العاصفة قبل الغوص. خلفهم، يبقى Phew مع معدات الميناء التي قد تحتاجها شبكة العودة.\n\nBash: \"مجموعة الأحزمة. نعبر معًا.\""
+      ],
+      "title": "ميناء فوق العاصفة"
+    },
+    "bn": {
+      "captions": [
+        "Phew মানচিত্রের সাথে সমুদ্র-স্টেশন কাপলিং এর সাথে মিলে যায়। Patch সেই স্টেশনে যেতে পারে, কিন্তু ঝড়ের মধ্য দিয়ে লোড করা শিখর পথে নিরাপদে আরোহণ করতে পারে না। পুরানো অভ্যন্তরীণ উত্তোলন এটির উপরে তাদের পথ।\n\nPhew: \"রিটার্ন স্টেশনে এই সকেট আছে। Patch এটিতে পৌঁছাতে পারে।\"",
+        "Bash পাইলট Patch, একটি ছোট রেসকিউ স্কিফ যা উড়তে পারে এবং একটি সিলড ডাইভ করতে পারে। বারোটি আসন Bash এবং অনুপস্থিত Nova-এর জন্য পার্টি রুম দেয়। এর পরিমিত আকারের অর্থ ক্ষতি এবং সরবরাহ গুরুত্বপূর্ণ।\n\nBash: \"এখন আরো দশজন। আমরা Nova-এর জন্য একটি আসন সংরক্ষণ করছি।\"",
+        "Bash ঘৃণা করে কিন্তু একজন দক্ষ পাইলট। Quiver ইন্সট্রুমেন্ট রেলের মাধ্যমে হুল কীভাবে কম্পন বহন করে তা পরীক্ষা করে। তারা ভবিষ্যৎ জানার ভান না করে ঝড়ের মধ্যে সেই প্রতিক্রিয়াটি ব্যবহার করতে পারে।\n\nBash: \"আমি উড়তে পারি। আমি শুধু দেখার অংশকে ঘৃণা করি।\"\nBeam: \"তারপর আমি রুট দেখব।\"",
+        "Phew ক্যানোপি সীল এবং ডকিং পাম্প পরীক্ষা করে। Bitter বার্ণিশের নমুনার বিরুদ্ধে একটি স্ট্যান্ডার্ড হারবার ক্লিনার পরীক্ষা করে, তারপরে দ্বিতীয় টিউবে একটি পরিমাপ করা সরবরাহ ক্যাপ করে। দূষিত টিউব পরিষ্কার ব্যালাস্ট জল থেকে আলাদা থাকে।\n\nPhew: \"বন্ধ গম্বুজ, সিল করা কলার, তারপর লকটি ড্রেন করুন। এই অর্ডারটি কখনই এড়িয়ে যাবেন না।\"",
+        "টেকঅফের আগে, Rain Hope এর উপহার এবং Nova এর চিপড পিন চেক করে। দুজনেই একই পকেটে এখানে ভ্রমণ করেছেন। তারা জাদুর হাতিয়ার নয়; তারা ক্রুদের মনে করিয়ে দেয় যে একজন প্রকৃত ব্যক্তি বাড়িতে আসার জন্য অপেক্ষা করছে।\n\nBash: \"আমরা তাদের নিরাপদে বহন করব। এবং আমরা তাদের মালিকের জন্য জায়গা করে দেব।\"",
+        "Phew একটি শেষ সংযুক্ত মুরিং লাইন ধরে। Bash অপেক্ষা করে যখন Mend এটি প্রকাশ করে। নিরাপদে চলে যাওয়া চেক শেষ করার উপর নির্ভর করে, ইঞ্জিন শুরু হলে সবাই কতটা স্বস্তি অনুভব করে তার উপর নয়।\n\nPhew: \"এখনও একটি লাইন চালু আছে।\"\nBash: \"তাহলে আমরা এখনও ছাড়ছি না।\"",
+        "Patch দশজন যাত্রী নিয়ে বন্দর ছেড়েছে। পরের পা ডুব দেওয়ার আগে একটি ঝড়ের করিডোর অতিক্রম করে। তাদের পিছনে, Phew হারবার সরঞ্জামের সাথে থাকে যা রিটার্ন নেটওয়ার্কের প্রয়োজন হতে পারে।\n\nBash: \"হার্নেস সেট। আমরা একসাথে ক্রস করি।\""
+      ],
+      "title": "ঝড়ের উপরে একটি হারবার"
+    },
+    "cs": {
+      "captions": [
+        "Phew odpovídá mapě spojení námořní stanice. Patch může přejít k této stanici, ale nemůže bezpečně vylézt naloženou vrcholovou trasu přes bouři. Starý vnitřní výtah je jejich cesta nad ním.\n\nPhew: \"Návratová stanice má tuto zásuvku. Patch ji může dosáhnout.\"",
+        "Piloti Bash Patch, malý záchranný skif, který dokáže létat a provádět uzavřený ponor. Dvanáct míst dává večírku prostor pro Bash a chybějící Nova. Jeho skromná velikost také znamená poškození a bude záležet na zásobách.\n\nBash: \"Teď deset na palubě. Šetříme místo pro Nova.\"",
+        "Bash nesnáší být sledován, ale je schopný pilot. Quiver kontroluje, jak trup přenáší vibrace přes přístrojovou lištu. Tuto zpětnou vazbu mohou využít v bouři, aniž by předstírali, že znají budoucnost.\n\nBash: \"Umím létat. Jen nenávidím tu část sledování.\"\nBeam: \"Pak budu sledovat trasu.\"",
+        "Phew kontroluje těsnění kabiny a dokovací čerpadlo. Bitter testuje standardní čistič přístavů proti vzorku laku a poté uzavře odměřenou zásobu ve druhé zkumavce. Kontaminovaná trubice zůstává oddělena od čisté balastní vody.\n\nPhew: \"Uzavřená kopule, utěsněný límec, pak vypusťte zámek. Nikdy tento příkaz nepřeskakujte.\"",
+        "Před vzletem Rain zkontroluje dar Hope a vyštípnutý kolík Nova. Oba sem cestovali ve stejné kapse. Nejsou to magické nástroje; připomínají posádce, že skutečná osoba čeká na návrat domů.\n\nBash: \"Budeme je přepravovat bezpečně. A uděláme místo pro jejich majitele.\"",
+        "Phew zachytí poslední připojené uvazovací lano. Bash čeká, dokud jej Mend neuvolní. Bezpečný odjezd závisí na dokončení kontroly, nikoli na tom, jak se každému uleví, když motor naskočí.\n\nPhew: \"Jeden řádek stále zapnutý.\"\nBash: \"Pak ještě neodjíždíme.\"",
+        "Patch opouští přístav s deseti cestujícími na palubě. Další úsek protíná bouřkový koridor před ponorem. Za nimi Phew zůstává s přístavním zařízením, které může návratová síť potřebovat.\n\nBash: \"Postroje nastaveny. Křížíme se společně.\""
+      ],
+      "title": "Přístav nad bouří"
+    },
+    "de": {
+      "captions": [
+        "Phew ordnet die Karte der See-Station-Kopplung zu. Patch kann zu dieser Station überqueren, aber die belastete Gipfelroute durch den Sturm nicht sicher erklimmen. Der alte interne Aufzug befindet sich darüber.\n\nPhew: „Die Rückgabestation hat diese Buchse. Patch kann sie erreichen.“",
+        "Bash-Piloten Patch, ein kleines Rettungsboot, das fliegen und einen versiegelten Tauchgang durchführen kann. Zwölf Sitzplätze geben der Party Raum für Bash und den fehlenden Nova. Seine bescheidene Größe bedeutet auch, dass Schaden und Vorräte eine Rolle spielen.\n\nBash: „Jetzt sind zehn an Bord. Wir reservieren einen Sitzplatz für Nova.“",
+        "Bash hasst es, beobachtet zu werden, ist aber ein fähiger Pilot. Quiver prüft, wie der Rumpf Vibrationen über die Instrumentenschiene überträgt. Sie können dieses Feedback im Sturm nutzen, ohne vorzugeben, die Zukunft zu kennen.\n\nBash: „Ich kann fliegen. Ich hasse es einfach, zuzuschauen.“\nBeam: „Dann werde ich mir die Route ansehen.“",
+        "Phew prüft die Haubendichtung und die Andockpumpe. Bitter testet einen Standard-Hafenreiniger mit der Lackprobe und verschließt dann einen abgemessenen Vorrat im zweiten Röhrchen. Das kontaminierte Rohr bleibt vom sauberen Ballastwasser getrennt.\n\nPhew: „Geschlossene Kuppel, versiegelter Kragen, dann das Schloss entleeren. Überspringen Sie diese Reihenfolge niemals.“",
+        "Vor dem Start überprüft Rain das Geschenk von Hope und den abgebrochenen Stift von Nova. Beide reisten in derselben Tasche hierher. Sie sind keine magischen Werkzeuge; Sie erinnern die Crew daran, dass eine echte Person darauf wartet, nach Hause zu kommen.\n\nBash: „Wir werden sie sicher transportieren. Und wir werden Platz für ihren Besitzer schaffen.“",
+        "Phew fängt eine letzte befestigte Festmacherleine. Bash wartet, während Mend es freigibt. Das sichere Verlassen des Fahrzeugs hängt davon ab, ob die Kontrolle bestanden wird, und nicht davon, wie erleichtert alle sind, wenn der Motor anspringt.\n\nPhew: „Eine Leitung ist noch aktiv.“\nBash: „Dann gehen wir noch nicht.“",
+        "Patch verlässt den Hafen mit zehn Reisenden an Bord. Die nächste Etappe durchquert vor dem Tauchgang einen Sturmkorridor. Dahinter verbleibt Phew bei der Hafenausrüstung, die das Rückführungsnetz möglicherweise benötigt.\n\nBash: „Geschirr angelegt. Wir kreuzen gemeinsam.“"
+      ],
+      "title": "Ein Hafen über dem Sturm"
+    },
+    "en": {
+      "captions": [
+        "Phew matches the map to the sea-station coupling. Patch can cross to that station, but cannot safely climb the loaded summit route through the storm. The old internal hoist is their way above it.\n\nPhew: “The return station has this socket. Patch can reach it.”",
+        "Bash pilots Patch, a small rescue skiff that can fly and make a sealed dive. Twelve seats give the party room for Bash and the missing Nova. Its modest size also means damage and supplies will matter.\n\nBash: “Ten aboard now. We are saving a seat for Nova.”",
+        "Bash hates being watched but is a capable pilot. Quiver checks how the hull carries vibration through the instrument rail. They can use that feedback in the storm without pretending to know the future.\n\nBash: “I can fly. I just hate the watching part.”\nBeam: “Then I will watch the route.”",
+        "Phew checks the canopy seal and docking pump. Bitter tests a standard harbor cleaner against the lacquer sample, then caps a measured supply in the second tube. The contaminated tube stays separate from clean ballast water.\n\nPhew: “Closed dome, sealed collar, then drain the lock. Never skip that order.”",
+        "Before takeoff, Rain checks Hope’s gift and Nova’s chipped pin. Both traveled here in the same pocket. They are not magic tools; they remind the crew that a real person is waiting to come home.\n\nBash: “We will carry those safely. And we will make room for their owner.”",
+        "Phew catches one last attached mooring line. Bash waits while Mend releases it. Leaving safely depends on finishing the check, not on how relieved everyone feels when the engine starts.\n\nPhew: “One line still on.”\nBash: “Then we are not leaving yet.”",
+        "Patch leaves the harbor with ten travelers aboard. The next leg crosses a storm corridor before the dive. Behind them, Phew stays with the harbor equipment the return network may need.\n\nBash: “Harnesses set. We cross together.”"
+      ],
+      "title": "A Harbor Above the Storm"
+    },
+    "es": {
+      "captions": [
+        "Phew relaciona el mapa con el acoplamiento de la estación marítima. Patch puede cruzar a esa estación, pero no puede escalar con seguridad la ruta de la cumbre cargada a través de la tormenta. El viejo elevador interno está por encima.\n\nPhew: \"La estación de retorno tiene este enchufe. Patch puede alcanzarlo\".",
+        "Bash pilota el Patch, un pequeño bote de rescate que puede volar y realizar una inmersión sellada. Doce asientos dan espacio para la fiesta del Bash y del desaparecido Nova. Su tamaño modesto también significa que los daños y los suministros serán importantes.\n\nBash: \"Diez a bordo ahora. Estamos reservando un asiento para Nova\".",
+        "Bash odia que lo observen, pero es un piloto capaz. Quiver comprueba cómo el casco transmite las vibraciones a través del riel de instrumentos. Pueden utilizar esa retroalimentación en la tormenta sin pretender conocer el futuro.\n\nBash: \"Puedo volar. Simplemente odio la parte de mirar\".\nBeam: “Entonces observaré la ruta”.",
+        "Phew revisa el sello de la cubierta y la bomba de atraque. Bitter prueba un limpiador portuario estándar con la muestra de laca y luego tapa un suministro medido en el segundo tubo. El tubo contaminado permanece separado del agua de lastre limpia.\n\nPhew: \"Cúpula cerrada, collar sellado y luego drenaje de la cerradura. Nunca omita ese orden\".",
+        "Antes del despegue, Rain comprueba el regalo de Hope y el pin desconchado de Nova. Ambos viajaron hasta aquí en el mismo bolsillo. No son herramientas mágicas; le recuerdan a la tripulación que una persona real está esperando regresar a casa.\n\nBash: \"Los transportaremos de forma segura. Y haremos espacio para su dueño\".",
+        "Phew atrapa una última línea de amarre atada. Bash espera mientras Mend lo libera. Salir con seguridad depende de terminar la revisión, no de lo aliviados que se sientan todos cuando arranca el motor.\n\nPhew: \"Aún hay una línea activa\".\nBash: \"Entonces no nos vamos todavía\".",
+        "El Patch sale del puerto con diez viajeros a bordo. El siguiente tramo cruza un corredor de tormentas antes de la inmersión. Detrás de ellos, el Phew se queda con el equipamiento portuario que la red de retorno pueda necesitar.\n\nBash: \"Arneses puestos. Cruzamos juntos\"."
+      ],
+      "title": "Un puerto por encima de la tormenta"
+    },
+    "fr": {
+      "captions": [
+        "Phew fait correspondre la carte au couplage station maritime. Patch peut traverser jusqu'à cette station, mais ne peut pas gravir en toute sécurité la route du sommet chargée à travers la tempête. Le vieux palan interne se trouve au-dessus.\n\nPhew : \"La station de retour a cette prise. Patch peut l'atteindre.\"",
+        "Le Bash pilote le Patch, un petit skiff de sauvetage capable de voler et d'effectuer une plongée étanche. Douze sièges donnent la place à la fête pour Bash et le Nova manquant. Sa taille modeste signifie également que les dégâts et les fournitures seront importants.\n\nBash : \"Dix à bord maintenant. Nous réservons un siège pour Nova.\"",
+        "Bash déteste être surveillé mais est un pilote compétent. Le Quiver vérifie comment la coque transmet les vibrations à travers le rail d'instrument. Ils peuvent utiliser ces informations dans la tempête sans prétendre connaître l’avenir.\n\nBash : \"Je peux voler. Je déteste juste le fait de regarder.\"\nBeam : \"Alors je surveillerai l'itinéraire.\"",
+        "Le Phew vérifie le joint de l'auvent et la pompe d'amarrage. Bitter teste un nettoyant portuaire standard par rapport à l'échantillon de laque, puis bouche une réserve mesurée dans le deuxième tube. Le tube contaminé reste séparé de l’eau de ballast propre.\n\nPhew : \"Dôme fermé, collier scellé, puis vidanger la serrure. Ne sautez jamais cet ordre.\"",
+        "Avant le décollage, Rain vérifie le cadeau de Hope et la broche ébréchée de Nova. Tous deux ont voyagé ici dans la même poche. Ce ne sont pas des outils magiques ; ils rappellent à l'équipage qu'une vraie personne attend de rentrer à la maison.\n\nBash : \"Nous les transporterons en toute sécurité. Et nous ferons de la place pour leur propriétaire.\"",
+        "Le Phew attrape une dernière ligne d'amarrage attachée. Bash attend pendant que Mend le libère. Partir en toute sécurité dépend de la fin du contrôle, et non du soulagement que chacun ressent lorsque le moteur démarre.\n\nPhew : \"Une ligne toujours active.\"\nBash : \"Alors nous ne partons pas encore.\"",
+        "Le Patch quitte le port avec dix voyageurs à son bord. L'étape suivante traverse un couloir de tempête avant la plongée. Derrière eux, le Phew reste avec les équipements portuaires dont le réseau de retour pourrait avoir besoin.\n\nBash : \"Ensemble de harnais. Nous traversons ensemble.\""
+      ],
+      "title": "Un port au-dessus de la tempête"
+    },
+    "hi": {
+      "captions": [
+        "Phew मानचित्र को सी-स्टेशन युग्मन से मेल खाता है। Patch उस स्टेशन को पार कर सकता है, लेकिन तूफान के माध्यम से लोडेड शिखर मार्ग पर सुरक्षित रूप से नहीं चढ़ सकता। पुराना आंतरिक लहरा इसके ऊपर है।\n\nPhew: \"रिटर्न स्टेशन में यह सॉकेट है। Patch इस तक पहुंच सकता है।\"",
+        "Bash पायलट Patch, एक छोटी बचाव नाव जो उड़ सकती है और सीलबंद गोता लगा सकती है। बारह सीटें Bash और गायब Nova के लिए पार्टी की जगह देती हैं। इसके मामूली आकार का मतलब नुकसान भी है और आपूर्ति भी मायने रखेगी।\n\nBash: \"अभी दस सवार हैं। हम Nova के लिए एक सीट बचा रहे हैं।\"",
+        "Bash को देखे जाने से नफरत है लेकिन वह एक सक्षम पायलट है। Quiver यह जाँचता है कि उपकरण रेल के माध्यम से पतवार कैसे कंपन करती है। वे भविष्य जानने का दिखावा किए बिना तूफान में उस फीडबैक का उपयोग कर सकते हैं।\n\nBash: \"मैं उड़ सकता हूं। मुझे सिर्फ देखने वाला हिस्सा पसंद नहीं है।\"\nBeam: \"फिर मैं रास्ता देखूंगा।\"",
+        "Phew कैनोपी सील और डॉकिंग पंप की जाँच करता है। Bitter लाह के नमूने के विरुद्ध एक मानक हार्बर क्लीनर का परीक्षण करता है, फिर दूसरी ट्यूब में मापी गई आपूर्ति को कैप करता है। दूषित ट्यूब साफ गिट्टी के पानी से अलग रहती है।\n\nPhew: \"बंद गुंबद, सीलबंद कॉलर, फिर ताला हटा दें। उस ऑर्डर को कभी न छोड़ें।\"",
+        "टेकऑफ़ से पहले, Rain, Hope के उपहार और Nova के चिपके हुए पिन की जाँच करता है। दोनों ने एक ही जेब में यहां यात्रा की। वे जादुई उपकरण नहीं हैं; वे दल को याद दिलाते हैं कि एक वास्तविक व्यक्ति घर आने का इंतज़ार कर रहा है।\n\nBash: \"हम उन्हें सुरक्षित रूप से ले जाएंगे। और हम उनके मालिक के लिए जगह बनाएंगे।\"",
+        "Phew एक आखिरी संलग्न मूरिंग लाइन को पकड़ता है। Bash प्रतीक्षा करता है जबकि Mend इसे रिलीज़ करता है। सुरक्षित रूप से निकलना जांच पूरी करने पर निर्भर करता है, न कि इस पर कि इंजन चालू होने पर हर कोई कितना राहत महसूस करता है।\n\nPhew: \"एक लाइन अभी भी चालू है।\"\nBash: \"तो फिर हम अभी नहीं जा रहे हैं।\"",
+        "Patch दस यात्रियों के साथ बंदरगाह छोड़ता है। गोता लगाने से पहले अगला पैर एक तूफान गलियारे को पार करता है। उनके पीछे, Phew बंदरगाह उपकरण के साथ रहता है जिसकी रिटर्न नेटवर्क को आवश्यकता हो सकती है।\n\nBash: \"हार्नेस सेट। हम एक साथ पार करते हैं।\""
+      ],
+      "title": "तूफ़ान के ऊपर एक बंदरगाह"
+    },
+    "id": {
+      "captions": [
+        "Phew mencocokkan peta dengan sambungan stasiun laut. Patch dapat menyeberang ke stasiun itu, tetapi tidak dapat dengan aman mendaki rute puncak yang penuh muatan melewati badai. Kerekan internal yang lama berada jauh di atasnya.\n\nPhew: \"Stasiun kembali memiliki soket ini. Patch dapat menjangkaunya.\"",
+        "Bash pilot Patch, perahu penyelamat kecil yang dapat terbang dan melakukan penyelaman tertutup. Dua belas kursi memberikan ruang pesta untuk Bash dan Nova yang hilang. Ukurannya yang sederhana juga berarti kerusakan dan persediaan akan menjadi masalah.\n\nBash: \"Sepuluh penumpang sekarang. Kami sedang menyiapkan kursi untuk Nova.\"",
+        "Bash benci diawasi tetapi merupakan pilot yang cakap. Quiver memeriksa bagaimana lambung membawa getaran melalui rel instrumen. Mereka dapat menggunakan umpan balik tersebut di tengah badai tanpa berpura-pura mengetahui masa depan.\n\nBash: \"Saya bisa terbang. Saya hanya benci bagian menontonnya.\"\nBeam: “Kalau begitu saya akan perhatikan rutenya.”",
+        "Phew memeriksa segel kanopi dan pompa docking. Bitter menguji pembersih pelabuhan standar terhadap sampel pernis, lalu menutup persediaan terukur di tabung kedua. Tabung yang terkontaminasi tetap terpisah dari air pemberat bersih.\n\nPhew: \"Kubah tertutup, kerah tersegel, lalu tiriskan kuncinya. Jangan pernah melewatkan perintah itu.\"",
+        "Sebelum lepas landas, Rain memeriksa hadiah Hope dan pin Nova yang terkelupas. Keduanya bepergian ke sini dengan kantong yang sama. Itu bukanlah alat ajaib; mereka mengingatkan kru bahwa ada orang sungguhan yang menunggu untuk pulang.\n\nBash: \"Kami akan membawanya dengan aman. Dan kami akan memberikan ruang bagi pemiliknya.\"",
+        "Phew menangkap satu tali tambatan terakhir yang terpasang. Bash menunggu sementara Mend merilisnya. Berangkat dengan selamat bergantung pada penyelesaian pemeriksaan, bukan pada seberapa lega perasaan setiap orang saat mesin dihidupkan.\n\nPhew: “Satu saluran masih aktif.”\nBash: “Kalau begitu kita belum berangkat.”",
+        "Patch meninggalkan pelabuhan dengan sepuluh penumpang di dalamnya. Tahap selanjutnya melintasi koridor badai sebelum menyelam. Di belakangnya, Phew tetap dilengkapi dengan peralatan pelabuhan yang mungkin dibutuhkan jaringan kembali.\n\nBash: \"Harness sudah terpasang. Kita bersilangan bersama.\""
+      ],
+      "title": "Pelabuhan Di Atas Badai"
+    },
+    "it": {
+      "captions": [
+        "Phew abbina la mappa all'accoppiamento della stazione marittima. Patch può raggiungere quella stazione, ma non può scalare in sicurezza il percorso in vetta carico durante la tempesta. Il vecchio montacarichi interno è sopra di esso.\n\nPhew: \"La stazione di restituzione ha questa presa. Patch può raggiungerla.\"",
+        "Bash pilota Patch, un piccolo skiff di salvataggio in grado di volare ed effettuare un'immersione sigillata. Dodici posti a sedere danno spazio alle feste per Bash e lo Nova scomparso. Le sue dimensioni modeste significano anche che i danni e i rifornimenti saranno importanti.\n\nBash: \"Dieci a bordo adesso. Stiamo riservando un posto per Nova.\"",
+        "Bash odia essere osservato ma è un pilota capace. Quiver controlla il modo in cui lo scafo trasporta le vibrazioni attraverso la guida dello strumento. Possono usare quel feedback nella tempesta senza pretendere di conoscere il futuro.\n\nBash: \"So volare. È solo che odio la parte del guardare.\"\nBeam: \"Allora guarderò il percorso.\"",
+        "Phew controlla la tenuta del tettuccio e la pompa di attracco. Bitter testa un detergente portuale standard confrontandolo con il campione di lacca, quindi tappa una fornitura misurata nel secondo tubo. Il tubo contaminato rimane separato dall'acqua di zavorra pulita.\n\nPhew: \"Cupola chiusa, collare sigillato, quindi drenaggio della serratura. Non saltare mai quest'ordine.\"",
+        "Prima del decollo, Rain controlla il regalo dello Hope e la spilla scheggiata dello Nova. Entrambi sono arrivati ​​qui nella stessa tasca. Non sono strumenti magici; ricordano all'equipaggio che una persona reale sta aspettando di tornare a casa.\n\nBash: \"Li trasporteremo in sicurezza. E faremo spazio al loro proprietario.\"",
+        "Phew cattura un'ultima cima di ormeggio attaccata. Bash attende mentre Mend lo rilascia. Partire in sicurezza dipende dal completamento del controllo, non dal sollievo che tutti si sentono quando il motore si avvia.\n\nPhew: \"Una linea ancora attiva.\"\nBash: “Allora non partiamo ancora”.",
+        "Patch lascia il porto con dieci viaggiatori a bordo. La tappa successiva attraversa un corridoio di tempesta prima dell'immersione. Dietro di loro, Phew resta con le attrezzature portuali di cui la rete di ritorno potrebbe aver bisogno.\n\nBash: \"Set di imbracature. Attraversiamo insieme.\""
+      ],
+      "title": "Un porto sopra la tempesta"
+    },
+    "ja": {
+      "captions": [
+        "Phew は、マップを海とステーションの結合に一致させます。 Patch はそのステーションまで渡ることはできますが、嵐の中を安全に負荷の多い山頂ルートを登ることはできません。古い内部ホイストはそのはるか上にあります。\n\nPhew: 「リターン ステーションにはこのソケットがあります。Patch はそこに到達できます。」",
+        "Bash は、飛行および密閉潜水が可能な小型救助船 Patch を操縦しています。 12 席あると、Bash と不足している Nova のためのパーティー ルームが得られます。規模が小さいということは、ダメージと補給が重要であることも意味します。\n\nBash: 「現在 10 名が搭乗しています。Nova の座席を確保しています。」",
+        "Bash は注目されるのが嫌いですが、有能なパイロットです。 Quiver は、船体が計器レールを介して振動をどのように伝えるかをチェックします。彼らは、未来を知っているふりをすることなく、嵐の中でもそのフィードバックを活用することができます。\n\nBash: 「私は飛べます。ただ、見るのが嫌いなんです。」\nBeam: 「それではルートを見守ります。」",
+        "Phew はキャノピーシールとドッキングポンプをチェックします。 Bitter は、ラッカーサンプルに対して標準的なハーバークリーナーをテストし、測定された供給量を 2 番目のチューブにキャップします。汚染されたチューブは、きれいなバラスト水から隔離されたままになります。\n\nPhew: 「ドームを閉じ、カラーを密閉し、次にロックを排水します。この順序を決して飛ばさないでください。」",
+        "離陸前に、Rain は Hope のギフトと Nova の欠けたピンをチェックします。二人とも同じポケットに入れてここを旅した。これらは魔法の道具ではありません。彼らは乗組員に、本物の人間が帰宅を待っていることを思い出させます。\n\nBash: 「私たちはそれらを安全に運びます。そして、彼らの所有者のためのスペースを確保します。」",
+        "Phew は最後に取り付けられた係留索を 1 本捉えます。 Bash は、Mend が解放する間待機します。安全に出発できるかどうかは、エンジンが始動したときに全員がどれだけ安心するかではなく、点検を完了するかどうかにかかっています。\n\nPhew: 「1 回線がまだ続いています。」\nBash: 「では、まだ出発しません。」",
+        "Patchは10人の旅行者を乗せて港を出港します。次の行程は、ダイビングの前に嵐の回廊を横切ります。その後ろでは、Phew がリターン ネットワークに必要な港湾設備を備えています。\n\nBash: 「ハーネスをセットしました。一緒に渡ります。」"
+      ],
+      "title": "嵐の上の港"
+    },
+    "ko": {
+      "captions": [
+        "Phew는 지도를 해상 스테이션 커플링과 일치시킵니다. Patch는 해당 역까지 건널 수 있지만 폭풍을 뚫고 적재된 정상 경로를 안전하게 오를 수는 없습니다. 오래된 내부 호이스트가 그 위에 있습니다.\n\nPhew: \"반환 스테이션에는 이 소켓이 있습니다. Patch가 여기에 도달할 수 있습니다.\"",
+        "Bash는 비행 및 밀봉 다이빙이 가능한 소형 구조 편주인 Patch를 조종합니다. 12개의 좌석은 Bash와 누락된 Nova를 위한 파티 공간을 제공합니다. 적당한 크기는 손상을 의미하며 소모품도 중요합니다.\n\nBash: \"현재 10명이 탑승했습니다. Nova를 위한 좌석을 확보하고 있습니다.\"",
+        "Bash는 감시받는 것을 싫어하지만 유능한 조종사입니다. Quiver는 선체가 계기 레일을 통해 진동을 전달하는 방법을 확인합니다. 그들은 미래를 아는 척하지 않고도 폭풍우 속에서 그 피드백을 사용할 수 있습니다.\n\nBash: \"나는 날 수 있어요. 그냥 보는 부분이 싫거든요.\"\nBeam: “그럼 경로를 지켜보겠습니다.”",
+        "Phew는 캐노피 씰과 도킹 펌프를 확인합니다. Bitter는 래커 샘플에 대해 표준 하버 클리너를 테스트한 다음 두 번째 튜브에 측정된 공급 장치를 캡핑합니다. 오염된 튜브는 깨끗한 평형수와 분리되어 있습니다.\n\nPhew: \"돔을 닫고 칼라를 밀봉한 다음 자물쇠를 빼내세요. 그 순서를 절대 건너뛰지 마세요.\"",
+        "이륙 전 Rain는 Hope의 선물과 Nova의 깨진 핀을 확인합니다. 둘 다 같은 주머니에 여기에 여행했습니다. 그것은 마법의 도구가 아닙니다. 그들은 실제 사람이 집에 오기를 기다리고 있다는 것을 승무원에게 상기시킵니다.\n\nBash: \"우리는 그것들을 안전하게 운반할 것입니다. 그리고 그것들의 주인을 위한 공간을 마련할 것입니다.\"",
+        "Phew는 마지막으로 부착된 계류줄 하나를 잡습니다. Bash는 Mend가 릴리스하는 동안 기다립니다. 안전하게 출발하는 것은 엔진 시동을 걸었을 때 모든 사람이 얼마나 안도감을 느끼는지에 달려 있는 것이 아니라 점검을 완료하는 데 달려 있습니다.\n\nPhew: \"한 줄이 아직 켜져 있습니다.\"\nBash: \"그럼 우리는 아직 떠나지 않는군요.\"",
+        "Patch는 10명의 여행자를 태우고 항구를 떠납니다. 다음 다리는 다이빙 전에 폭풍우 통로를 건너갑니다. 그 뒤에는 Phew가 귀환 네트워크에 필요할 수 있는 항만 장비를 유지합니다.\n\nBash: \"마구 세트. 우리는 함께 교차합니다.\""
+      ],
+      "title": "폭풍 위의 항구"
+    },
+    "pl": {
+      "captions": [
+        "Phew dopasowuje mapę do złącza stacji morskiej. Patch może dotrzeć do tej stacji, ale nie może bezpiecznie wspiąć się na załadowaną trasę szczytową przez burzę. Stary, wewnętrzny podnośnik znajduje się nad nim.\n\nPhew: \"Stacja zwrotna ma to gniazdo. Patch może do niego dotrzeć.\"",
+        "Piloci Bash Patch, mała łódź ratownicza, która potrafi latać i nurkować w zapieczętowaniu. Dwanaście miejsc zapewnia miejsce na imprezę dla Bash i brakującego Nova. Jego skromny rozmiar oznacza również, że obrażenia i zapasy będą miały znaczenie.\n\nBash: \"Teraz dziesięciu na pokładzie. Rezerwujemy miejsce dla Nova.\"",
+        "Bash nie lubi być obserwowany, ale jest zdolnym pilotem. Quiver sprawdza, jak kadłub przenosi drgania poprzez szynę przyrządów. Mogą wykorzystać tę informację zwrotną podczas burzy, nie udając, że znają przyszłość.\n\nBash: \"Umiem latać. Po prostu nienawidzę tej części, w której obserwuję.\"\nBeam: „W takim razie obejrzę trasę.”",
+        "Phew sprawdza uszczelkę osłony i pompę dokującą. Bitter testuje standardowy środek do czyszczenia portów na próbce lakieru, a następnie zamyka odmierzoną ilość w drugiej tubie. Zanieczyszczona rura pozostaje oddzielona od czystej wody balastowej.\n\nPhew: \"Zamknięta kopuła, uszczelniony kołnierz, a następnie opróżnij zamek. Nigdy nie pomijaj tej kolejności. \"",
+        "Przed startem Rain sprawdza prezent Hope i wyszczerbioną szpilkę Nova. Obaj podróżowali tutaj z tą samą kieszenią. To nie są magiczne narzędzia; przypominają załodze, że na powrót do domu czeka prawdziwa osoba.\n\nBash: \"Będziemy je bezpiecznie przenosić. I zrobimy miejsce dla ich właściciela.\"",
+        "Phew łapie ostatnią przyczepioną linę cumowniczą. Bash czeka, aż Mend go wypuści. Bezpieczne opuszczenie pojazdu zależy od zakończenia kontroli, a nie od ulgi, jaką wszyscy poczują, gdy silnik się uruchomi.\n\nPhew: „Jeden wiersz jest nadal włączony.”\nBash: „W takim razie jeszcze nie wyjeżdżamy.”",
+        "Patch opuszcza port z dziesięcioma podróżnymi na pokładzie. Następny etap przed nurkowaniem przecina korytarz burzowy. Za nimi Phew pozostaje ze sprzętem portowym, którego może potrzebować sieć powrotna.\n\nBash: \"Uprzęże ustawione. Przechodzimy razem.\""
+      ],
+      "title": "Port nad burzą"
+    },
+    "pt": {
+      "captions": [
+        "Phew combina o mapa com o acoplamento da estação marítima. Patch pode cruzar para essa estação, mas não pode subir com segurança a rota carregada do cume durante a tempestade. A velha talha interna está bem acima dela.\n\nPhew: \"A estação de retorno tem este soquete. Patch pode alcançá-lo.\"",
+        "Bash pilota o Patch, um pequeno barco de resgate que pode voar e fazer um mergulho selado. Doze assentos dão o salão de festas para Bash e o Nova desaparecido. Seu tamanho modesto também significa que danos e suprimentos serão importantes.\n\nBash: \"Dez a bordo agora. Estamos reservando um assento para Nova.\"",
+        "Bash odeia ser observado, mas é um piloto competente. Quiver verifica como o casco transmite vibração através do trilho de instrumentos. Eles podem usar esse feedback durante a tempestade sem fingir que conhecem o futuro.\n\nBash: \"Eu posso voar. Só odeio a parte de assistir.\"\nBeam: “Então observarei a rota.”",
+        "Phew verifica a vedação da capota e a bomba de acoplamento. O Bitter testa um limpador de porto padrão contra a amostra de laca e, em seguida, tampa um suprimento medido no segundo tubo. O tubo contaminado permanece separado da água de lastro limpa.\n\nPhew: \"Cúpula fechada, colar selado e depois drenar a fechadura. Nunca pule essa ordem.\"",
+        "Antes da decolagem, Rain verifica o presente de Hope e o pino lascado de Nova. Ambos viajaram para cá no mesmo bolso. Não são ferramentas mágicas; eles lembram à tripulação que uma pessoa real está esperando para voltar para casa.\n\nBash: \"Vamos carregá-los com segurança. E abriremos espaço para seu dono.\"",
+        "Phew pega um último cabo de amarração anexado. Bash espera enquanto Mend o libera. Sair com segurança depende de terminar a verificação, não de quão aliviados todos se sentem quando o motor liga.\n\nPhew: “Uma linha ainda ativa.”\nBash: “Então não vamos embora ainda.”",
+        "Patch sai do porto com dez viajantes a bordo. A próxima etapa atravessa um corredor de tempestade antes do mergulho. Atrás deles, Phew fica com o equipamento portuário que a rede de retorno pode precisar.\n\nBash: \"Conjunto de arneses. Cruzamos juntos.\""
+      ],
+      "title": "Um porto acima da tempestade"
+    },
+    "ru": {
+      "captions": [
+        "Phew сопоставляет карту с муфтой морской станции. Patch может добраться до этой станции, но не может безопасно подняться по загруженному маршруту на вершину во время шторма. Старый внутренний подъемник находится над ним.\n\nPhew: \"На станции возврата есть этот разъем. Patch может добраться до него.\"",
+        "Bash пилотирует Patch, небольшой спасательный катер, который может летать и совершать закрытые погружения. Двенадцать мест дают место для вечеринки Bash и отсутствующему Nova. Его скромные размеры также означают, что ущерб будет нанесен, а запасы будут иметь значение.\n\nBash: \"Сейчас на борту десять человек. Мы оставляем место для Nova\".",
+        "Bash ненавидит, когда за ним наблюдают, но он способный пилот. Quiver проверяет, как корпус передает вибрацию через приборную рейку. Они могут использовать эту обратную связь во время шторма, не притворяясь, что знают будущее.\n\nBash: \"Я умею летать. Я просто ненавижу наблюдать за происходящим\".\nBeam: «Тогда я посмотрю маршрут».",
+        "Phew проверяет уплотнение фонаря и стыковочный насос. Bitter тестирует стандартный очиститель портов на образце лака, а затем закрывает отмеренную порцию во второй пробирке. Загрязненная труба остается отдельно от чистой балластной воды.\n\nPhew: \"Закрытый купол, запечатанный воротник, затем осушить шлюз. Никогда не пропускайте этот приказ\".",
+        "Перед взлетом Rain проверяет подарок Hope и сколотый значок Nova. Оба путешествовали сюда в одном кармане. Это не волшебные инструменты; они напоминают команде, что домой ждет настоящий человек.\n\nBash: \"Мы перенесем их в целости и сохранности и освободим место для их владельца\".",
+        "Phew ловит последний прикрепленный швартовный трос. Bash ждет, пока Mend его освободит. Безопасный выезд зависит от завершения проверки, а не от того, какое облегчение почувствуют все, когда запустится двигатель.\n\nPhew: «Одна линия еще включена».\nBash: «Тогда мы еще не уходим».",
+        "Patch покидает гавань с десятью путешественниками на борту. Следующий этап перед погружением пересекает штормовой коридор. За ними стоит Phew с портовым оборудованием, которое может понадобиться обратной сети.\n\nBash: \"Привязи установлены. Перекрещиваемся вместе\"."
+      ],
+      "title": "Гавань над бурей"
+    },
+    "tr": {
+      "captions": [
+        "Phew, haritayı deniz istasyonu bağlantısıyla eşleştirir. Patch bu istasyona geçebilir ancak fırtınanın içinden yüklü zirve rotasına güvenli bir şekilde tırmanamaz. Eski iç vinç onların çok üstünde.\n\nPhew: \"Geri dönüş istasyonunda bu soket var. Patch ona ulaşabilir.\"",
+        "Bash, uçabilen ve kapalı dalış yapabilen küçük bir kurtarma botu olan Patch'yi kullanıyor. On iki koltuk, Bash ve eksik Nova için parti odası sağlıyor. Mütevazı boyutu aynı zamanda hasar ve sarf malzemelerinin de önemli olacağı anlamına gelir.\n\nBash: \"Şu anda gemide on kişi var. Nova için yer ayırıyoruz.\"",
+        "Bash izlenmekten nefret ediyor ama yetenekli bir pilot. Quiver, gövdenin titreşimi gösterge rayından nasıl taşıdığını kontrol eder. Geleceği biliyormuş gibi davranmadan fırtınada bu geri bildirimi kullanabilirler.\n\nBash: \"Uçabiliyorum. Sadece izleme kısmından nefret ediyorum.\"\nBeam: \"O zaman rotayı izleyeceğim.\"",
+        "Phew kanopi contasını ve yerleştirme pompasını kontrol eder. Bitter, standart bir liman temizleyicisini lake numunesine karşı test eder, ardından ikinci tüpte ölçülen bir kaynağı kapatır. Kirlenmiş tüp temiz balast suyundan ayrı kalır.\n\nPhew: \"Kapalı kubbe, kapalı yaka, ardından kilidi boşaltın. Bu sırayı asla atlamayın.\"",
+        "Kalkıştan önce Rain, Hope'nin hediyesini ve Nova'nin yontulmuş pinini kontrol eder. Her ikisi de buraya aynı cepte seyahat etti. Onlar sihirli araçlar değil; mürettebata gerçek bir kişinin eve dönmeyi beklediğini hatırlatıyorlar.\n\nBash: \"Bunları güvenle taşıyacağız ve sahiplerine yer açacağız.\"",
+        "Phew son bir bağlama halatını yakaladı. Bash, Mend onu serbest bırakırken bekler. Güvenli bir şekilde ayrılmak, kontrolün tamamlanmasına bağlıdır, motor çalıştırıldığında herkesin ne kadar rahatladığına değil.\n\nPhew: “Bir hat hâlâ açık.”\nBash: \"O halde henüz ayrılmıyoruz.\"",
+        "Patch, on yolcuyla birlikte limandan ayrılıyor. Bir sonraki etap dalıştan önce bir fırtına koridorunu geçiyor. Arkalarında Phew, dönüş ağının ihtiyaç duyabileceği liman ekipmanıyla birlikte kalır.\n\nBash: \"Koşumlar hazır. Birlikte karşıya geçiyoruz.\""
+      ],
+      "title": "Fırtınanın Ötesinde Bir Liman"
+    },
+    "vi": {
+      "captions": [
+        "Phew khớp bản đồ với khớp nối trạm biển. Patch có thể đi qua trạm đó nhưng không thể leo lên tuyến đường đỉnh đã chất đầy hàng hóa qua cơn bão một cách an toàn. Palăng nội bộ cũ nằm ở phía trên nó.\n\nPhew: \"Trạm quay lại có ổ cắm này. Patch có thể tiếp cận được.\"",
+        "Bash điều khiển Patch, một chiếc xuồng cứu hộ nhỏ có thể bay và lặn kín. Mười hai chỗ ngồi cung cấp phòng tiệc cho Bash và Nova còn thiếu. Kích thước khiêm tốn của nó cũng có nghĩa là thiệt hại và nguồn cung cấp sẽ có vấn đề.\n\nBash: \"Bây giờ có 10 người. Chúng tôi đang để dành một chỗ cho Nova.\"",
+        "Bash ghét bị theo dõi nhưng là một phi công có năng lực. Quiver kiểm tra cách thân tàu truyền rung động qua thanh ray thiết bị. Họ có thể sử dụng phản hồi đó trong cơn bão mà không cần giả vờ biết trước tương lai.\n\nBash: \"Tôi có thể bay. Tôi chỉ ghét phần xem thôi.\"\nBeam: “Vậy tôi sẽ xem lộ trình.”",
+        "Phew kiểm tra phốt tán và bơm lắp ghép. Bitter kiểm tra chất tẩy rửa bến cảng tiêu chuẩn dựa trên mẫu sơn mài, sau đó đóng nắp nguồn cung cấp đã đo trong ống thứ hai. Ống bị ô nhiễm được tách biệt khỏi nước dằn sạch.\n\nPhew: \"Đóng vòm, bịt kín cổ áo, sau đó xả khóa. Đừng bao giờ bỏ qua thứ tự đó.\"",
+        "Trước khi cất cánh, Rain kiểm tra quà tặng của Hope và chiếc ghim bị sứt mẻ của Nova. Cả hai đến đây cùng một túi. Chúng không phải là công cụ ma thuật; họ nhắc nhở phi hành đoàn rằng một người thực sự đang đợi để về nhà.\n\nBash: \"Chúng tôi sẽ vận chuyển chúng an toàn. Và chúng tôi sẽ nhường chỗ cho chủ nhân của chúng.\"",
+        "Phew bắt được dây neo cuối cùng được gắn vào. Bash chờ trong khi Mend phát hành nó. Việc rời đi an toàn phụ thuộc vào việc hoàn thành việc kiểm tra chứ không phụ thuộc vào việc mọi người cảm thấy nhẹ nhõm như thế nào khi động cơ khởi động.\n\nPhew: “Vẫn còn một dòng.”\nBash: “Vậy thì chúng ta vẫn chưa rời đi.”",
+        "Patch rời bến cảng với mười du khách trên tàu. Chặng tiếp theo băng qua hành lang bão trước khi lặn. Đằng sau họ, Phew vẫn tiếp tục trang bị thiết bị bến cảng mà mạng lưới hồi hương có thể cần.\n\nBash: \"Đã thắt dây. Chúng ta cùng nhau vượt qua.\""
+      ],
+      "title": "Một bến cảng phía trên cơn bão"
+    },
+    "zh": {
+      "captions": [
+        "Phew 将地图与海站耦合相匹配。 Patch可以穿越到该站，但无法在风暴中安全攀登满载的山顶路线。旧的内部提升机就在他们的上方。\n\nPhew：“回程站有这个插座，Patch可以到达。”",
+        "Bash驾驶的是Patch，这是一艘可以飞行和密封潜水的小型救援艇。十二个座位为 Bash 和失踪的 Nova 提供了聚会空间。它的规模不大，也意味着损坏和补给很重要。\n\nBash：“现在船上有十个人。我们正在为Nova留一个座位。”",
+        "Bash 讨厌被监视，但却是一名有能力的飞行员。 Quiver 检查船体如何通过仪表导轨传递振动。他们可以在风暴中利用这些反馈，而无需假装知道未来。\n\nBash：“我会飞。我只是讨厌看比赛。”\nBeam：“那我看路线。”",
+        "Phew 检查顶盖密封件和对接泵。 Bitter 针对漆样品测试标准港口清洁剂，然后将测量的供应量盖在第二根管中。受污染的管子与干净的压载水分开。\n\nPhew：“闭合圆顶，密封套环，然后排空锁。永远不要跳过该命令。”",
+        "起飞前，Rain 检查 Hope 的礼物和 Nova 的缺口针。两人都是同一个口袋来到这里的。它们不是魔法工具，而是魔法工具。他们提醒船员，有一个真正的人正在等待回家。\n\nBash：“我们会安全地搬运它们。我们会为它们的主人腾出空间。”",
+        "Phew 抓住最后一根系泊线。 Bash 等待，而 Mend 释放它。安全离开取决于检查是否完成，而不是发动机启动时每个人是否感到轻松。\n\nPhew：“还有一条线路。”\nBash：“那我们还不走。”",
+        "Patch 载有 10 名旅客离开港口。下一段航程在潜水前穿过风暴走廊。在他们后面，Phew 留在返回网络可能需要的港口设备上。\n\nBash：“安全带已准备好。我们一起穿越。”"
+      ],
+      "title": "风暴之上的港口"
+    }
+  },
+  "number": 107,
+  "panels": [
+    {
+      "altText": "Phew stands at a bolted workbench on the stone terrace and places a wave-shaped docking fitting beside Quest’s open disk. Rain faces both objects.",
+      "bytes": 1866378,
+      "image": "s107_p01.png",
+      "sha256": "90e967159a6820511caab6f6b7035e0caad0b90a18345c35cdf4f32530d3697c"
+    },
+    {
+      "altText": "Patch rests in a steel cradle bolted to the terrace. Show the copper seedpod hull, clear hinged dome, one vane and one outrigger on each side, and exactly three rows of four restrained seats.",
+      "bytes": 2017515,
+      "image": "s107_p02.png",
+      "sha256": "adecb6848b5b588bcf6eeff1f23642620541104dc37262bedeb5c974ede278ac"
+    },
+    {
+      "altText": "Bash’s blush patches and long plum aviator ribbon remain clear while Beam waits outside the boarding ramp. Quiver, in the front row, holds the three-chime belt near a fixed vibration rail without removing any chime.",
+      "bytes": 1938387,
+      "image": "s107_p03.png",
+      "sha256": "daae931b11ea0dc3698befd0dc3ca7fcbe87dad58b04abb4494cfd3cb0d6b8c7"
+    },
+    {
+      "altText": "Phew compresses the rubber canopy gasket against its metal seat beside the visibly connected collar pump. Bitter caps the second tube after testing an ordinary harbor cleaner on a tiny lacquer-coated scrap in a shallow dish; one lifted film edge remains on that test scrap.",
+      "bytes": 1894014,
+      "image": "s107_p04.png",
+      "sha256": "def4150572a646872180c7931a4af0c9bbd1f371b5f224b5ffa995234820aca6"
+    },
+    {
+      "altText": "Rain briefly opens the collar pocket to check the single blue-dotted moth received from Hope. The chipped star pin sits in a separate stitched inner sleeve of that pocket.",
+      "bytes": 1705633,
+      "image": "s107_p05.png",
+      "sha256": "b017efe0dc331ae21c1b753350cbec9586cde38e866bf0ef4925b3457010f7a9"
+    },
+    {
+      "altText": "Patch sits with its weight still in the cradle, drive at idle. Bash holds the yoke neutral inside the open cabin.",
+      "bytes": 1933423,
+      "image": "s107_p06.png",
+      "sha256": "3dc12c09a58721285159ba68eb3f0443574e86fb278f6ea5983e3ee0d1a5c9e6"
+    },
+    {
+      "altText": "Patch is airborne on the established compact drive, dome shut and vanes extended symmetrically. Through the canopy, Bash is in the front-left pilot seat; Rain and Quiver are visibly strapped into neighboring seats.",
+      "bytes": 1941001,
+      "image": "s107_p07.png",
+      "sha256": "dc1cb9f58da031663d42d66eb3a65eea79fc334da52d39f95ffbb99200c35b21"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "adventure",
+    "friendship",
+    "rescue",
+    "superhero"
+  ],
+  "version": 1
+}

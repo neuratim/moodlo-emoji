@@ -1,0 +1,274 @@
+{
+  "id": "s113",
+  "localizations": {
+    "ar": {
+      "captions": [
+        "يرى الجمهور الآلية: قامت Vex برسم نسخة من Nova وعرضها من خلال زجاج الفحص. تحتوي الصورة على شارة نجمة سليمة لأن Vex لا يعرف أن Rain يحمل الدبوس الحقيقي المقطوع.\n\nVex (هادئًا جانبًا): \"وجه واحد مألوف. سيختارونه بدلاً من التحذير.\"",
+        "Rain يقارن الدبوس الحقيقي بالشارة الموجودة في الصورة. Nova أعطى هذا الشيء أثناء الاختطاف؛ الشكل الموجود خلف الزجاج لا يمكن أن يرتديه. يتوقف Beam قبل الدخول في الفخ.\n\nRain: \"Nova أعطاني هذا الدبوس. الدبوس الموجود على الزجاج مطلي.\"",
+        "Hush يرصد Vex من خلال جزء جانبي مكشوف. يقوم Quest بفحص باب الخدمة الحقيقي بدلاً من مطاردة الرقم الزائف. مكشوفًا، يسحب Vex ذراع مشبك الإرساء ويحول الخدعة الفاشلة إلى عملية تخريب.\n\nHush [توقيع]: \"Vex في المقصورة. انتبه للرافعة.\"",
+        "يقوم المشبك بثني الدعامة اليمنى لـ Patch ويكسر حافة المظلة. تؤدي الهزة أيضًا إلى إتلاف مفصل قرص مسار Quest. المركبة متوقفة على الأرض: فحتى عملية الإنقاذ الناجحة ستحتاج الآن إلى طريق آخر للنزول من المدار.\n\nBash: \"انطلق! لا أحد يركب حتى يتم إصلاح تلك المظلة.\"",
+        "يؤدي الإغلاق عن بعد لـ Null إلى سحب منصة الوصول إلى الكابينة مع بقاء Vex عليها. الملازم الآن معرض للخطر من قبل النظام الذي يخدمه. ترى Quiver يدًا يمكن الوصول إليها، لكن المساعدة ستظل مخيفة.\n\nVex: \"المنصة — Null أغلقتها مرة أخرى!\"",
+        "Mend تثبت Quiver قبل الوصول. Quiver يمسك Vex، ويسقط العاكس في شبكة الأمان. إنهم ينقذون الشخص الذي ألحق بهم الأذى دون الخلط بين هذا الاختيار والمغفرة.\n\nQuiver: \"خذ بيدي. يمكننا مناقشة الباقي عند الهبوط.\"",
+        "تقدم Vex رفع الخدمة الحقيقي. يحتفظ Bitter بالعاكس ويفحص المسار المقترح؛ تحافظ Quest على الخريطة التالفة لفترة كافية لاستخدام التتبع المتبقي. قد يساعد Vex، لكنه لن يحصل على وصول غير خاضع للرقابة.\n\nBitter: \"اتجاه، وليس وعد. نحن نتحقق من كل باب.\""
+      ],
+      "title": "الطريقة المثالية في"
+    },
+    "bn": {
+      "captions": [
+        "শ্রোতারা প্রক্রিয়াটি দেখেন: Vex Nova-এর একটি অনুলিপি এঁকেছে এবং এটি পরিদর্শন কাচের মাধ্যমে প্রজেক্ট করেছে। ছবিতে একটি অক্ষত তারকা ব্যাজ রয়েছে কারণ Vex জানে না Rain আসল, চিপড পিন বহন করে৷\n\nVex [একপাশে শান্ত]: \"একটি পরিচিত মুখ। তারা এটিকে একটি সতর্কতার জন্য বেছে নেবে।\"",
+        "Rain ছবির ব্যাজের সাথে আসল পিনের তুলনা করে। Nova অপহরণের সময় এই বস্তুটি দিয়েছিল; কাচের পিছনের চিত্র এটি পরা যাবে না। Beam ফাঁদে প্রবেশ করার আগে থামে।\n\nRain: \"Nova আমাকে সেই পিনটি দিয়েছে। কাচের মধ্যে একটি আঁকা হয়েছে।\"",
+        "Hush একটি অনাবৃত পার্শ্ব ফলকের মাধ্যমে Vex দাগ করে। Quest মিথ্যা চিত্রটি তাড়া করার পরিবর্তে আসল পরিষেবা দরজা পরীক্ষা করে। উন্মুক্ত, Vex ডকিং-ক্ল্যাম্প লিভার টানে এবং ব্যর্থ কৌশলটিকে নাশকতায় পরিণত করে।\n\nHush [স্বাক্ষর করা]: \"Vex বুথে আছে। লিভারটি দেখুন।\"",
+        "ক্ল্যাম্প Patch এর স্টারবোর্ড আউটরিগারকে বাঁকিয়ে দেয় এবং ক্যানোপির প্রান্তে ফাটল ধরে। ঝাঁকুনি Quest এর রুট ডিস্কের কব্জাকেও ক্ষতিগ্রস্ত করে। ক্রাফটটি গ্রাউন্ডেড: এমনকি একটি সফল উদ্ধারের জন্যও এখন কক্ষপথ থেকে নিচে নামতে হবে।\n\nBash: \"চালিয়ে যাও! ছাউনি মেরামত না হওয়া পর্যন্ত কেউ বোর্ড করবে না।\"",
+        "Null-এর দূরবর্তী লকডাউন বুথ অ্যাক্সেস প্ল্যাটফর্মটিকে ফিরিয়ে নেয় এবং Vex এখনও এটিতে রয়েছে। লেফটেন্যান্ট এখন পরিবেশিত সিস্টেম দ্বারা বিপন্ন. Quiver একটি পৌঁছানো হাত দেখতে পায়, কিন্তু সাহায্য করা এখনও ভীতিজনক হবে।\n\nVex: “প্ল্যাটফর্ম—Null এটিকে আবার লক করে দিয়েছে!”",
+        "Mend নাগালের আগেই Quiver অ্যাঙ্কর করে। Quiver Vex ক্যাচ, এবং প্রতিফলক নিরাপত্তা জালে পড়ে। তারা ক্ষমার সাথে সেই পছন্দকে বিভ্রান্ত না করে যে তাদের ক্ষতি করেছে তাকে রক্ষা করে।\n\nQuiver: \"আমার হাত ধরুন। আমরা অবতরণের সময় বাকিটা নিয়ে আলোচনা করতে পারি।\"",
+        "Vex আসল পরিষেবা লিফট অফার করে। Bitter প্রতিফলক রাখে এবং প্রস্তাবিত রুট পরীক্ষা করে; Quest ক্ষতিগ্রস্থ মানচিত্রটিকে তার বেঁচে থাকা ট্রেসিং ব্যবহার করার জন্য যথেষ্ট দীর্ঘ রাখে। Vex সাহায্য করতে পারে, কিন্তু তত্ত্বাবধান ছাড়া অ্যাক্সেস পাবে না।\n\nBitter: \"একটি দিকনির্দেশনা, প্রতিশ্রুতি নয়। আমরা প্রতিটি দরজা পরীক্ষা করে দেখছি।\""
+      ],
+      "title": "নিখুঁত উপায় ইন"
+    },
+    "cs": {
+      "captions": [
+        "Publikum vidí mechanismus: Vex namaloval kopii Nova a promítl ji přes kontrolní sklo. Obrázek má neporušený odznak hvězdy, protože Vex neví, že Rain nese skutečný, vyštípaný kolík.\n\nVex [tiše stranou]: \"Jedna známá tvář. Vyberou si ji před varováním.\"",
+        "Rain porovnává skutečný kolík s odznakem na obrázku. Nova dal tento předmět pryč během únosu; postava za sklem ho nemůže nosit. Beam se zastaví před vstupem do pasti.\n\nRain: \"Nova mi dal ten špendlík. Ten ve skle je malovaný.\"",
+        "Hush zaznamená Vex přes nekryté boční sklo. Quest kontroluje skutečné servisní dveře místo toho, aby pronásledoval falešné číslo. Odkrytý Vex zatáhne za páku dokovací svorky a promění neúspěšný trik v sabotáž.\n\nHush [podpis]: \"Vex je v kabině. Sledujte páku.\"",
+        "Svorka ohne pravoboční podpěru Patch a popraská hranu vrchlíku. Otřes také poškodí pant směrovacího disku Quest. Plavidlo je uzemněno: i úspěšná záchrana bude nyní potřebovat jinou cestu dolů z oběžné dráhy.\n\nBash: \"Vyrazte! Nikdo nenastoupí, dokud nebude opravena kabina.\"",
+        "Dálkové zamykání Null stahuje přístupovou platformu ke stánku, na které je stále Vex. Poručík je nyní ohrožen obsluhovaným systémem. Quiver vidí dosažitelnou ruku, ale pomoc bude stále děsivá.\n\nVex: „Platforma – Null ji zablokoval!“",
+        "Mend kotví Quiver před dosahem. Quiver zachytí Vex a reflektor spadne do ochranné sítě. Zachraňují osobu, která jim ublížila, aniž by si tuto volbu spletli s odpuštěním.\n\nQuiver: \"Vezmi mě za ruku. Zbytek můžeme probrat na přistání.\"",
+        "Vex nabízí skutečný nákladní výtah. Bitter drží reflektor a kontroluje navrženou trasu; Quest uchovává poškozenou mapu dostatečně dlouho, aby bylo možné použít její přežívající trasování. Vex může pomoci, ale nebude mít přístup bez dozoru.\n\nBitter: \"Směr, ne slib. Kontrolujeme každé dveře.\""
+      ],
+      "title": "Perfektní cesta dovnitř"
+    },
+    "de": {
+      "captions": [
+        "Das Publikum sieht den Mechanismus: Vex hat eine Kopie von Nova gemalt und durch das Schauglas projiziert. Das Bild hat ein intaktes Sternabzeichen, da Vex nicht weiß, dass Rain den echten, abgebrochenen Stift trägt.\n\nVex [ruhig beiseite]: „Ein bekanntes Gesicht. Sie werden es einer Warnung vorziehen.“",
+        "Rain vergleicht den echten Pin mit dem Badge auf dem Bild. Nova hat diesen Gegenstand während der Entführung verschenkt; Die Figur hinter dem Glas kann es nicht tragen. Beam stoppt, bevor es in die Falle gelangt.\n\nRain: „Nova hat mir diesen Stift gegeben. Der im Glas ist bemalt.“",
+        "Hush erkennt Vex durch eine nicht abgedeckte Seitenscheibe. Quest überprüft die echte Servicetür, anstatt der falschen Zahl nachzujagen. Enthüllt zieht Vex den Hebel der Andockklemme und verwandelt den fehlgeschlagenen Trick in Sabotage.\n\nHush [signiert]: „Vex ist in der Kabine. Achten Sie auf den Hebel.“",
+        "Die Klemme verbiegt den Steuerbordausleger des Patch und bricht an der Kanzelkante. Der Stoß beschädigt auch das Scharnier der Routenscheibe des Quest. Das Raumschiff ist am Boden: Auch für eine erfolgreiche Rettung ist nun ein weiterer Abstieg aus dem Orbit erforderlich.\n\nBash: „Fahren Sie los! Niemand steigt ein, bis die Kabinenhaube repariert ist.“",
+        "Durch die Fernverriegelung des Null wird die Zugangsplattform zum Stand eingefahren, während sich der Vex noch darauf befindet. Der Leutnant ist nun durch das bediente System gefährdet. Quiver sieht eine erreichbare Hand, aber Helfen wird trotzdem beängstigend sein.\n\nVex: „Die Plattform – Null hat es wieder gesperrt!“",
+        "Mend verankert Quiver vor der Reichweite. Quiver fängt Vex ein und der Reflektor fällt in das Sicherheitsnetz. Sie retten die Person, die ihnen Schaden zugefügt hat, ohne diese Entscheidung mit Vergebung zu verwechseln.\n\nQuiver: „Nimm meine Hand. Den Rest können wir auf dem Treppenabsatz besprechen.“",
+        "Vex bietet den echten Service-Lift. Bitter behält den Reflektor und prüft die vorgeschlagene Route; Quest behält die beschädigte Karte lange genug, um die verbleibende Nachzeichnung zu verwenden. Vex kann hilfreich sein, erhält jedoch keinen unbeaufsichtigten Zugriff.\n\nBitter: „Eine Richtung, kein Versprechen. Wir überprüfen jede Tür.“"
+      ],
+      "title": "Der perfekte Weg hinein"
+    },
+    "en": {
+      "captions": [
+        "The audience sees the mechanism: Vex has painted a copy of Nova and projected it through the inspection glass. The image has an intact star badge because Vex does not know Rain carries the real, chipped pin.\n\nVex [quiet aside]: “One familiar face. They will choose it over a warning.”",
+        "Rain compares the real pin with the badge on the image. Nova gave this object away during the kidnapping; the figure behind the glass cannot be wearing it. Beam stops before entering the trap.\n\nRain: “Nova gave me that pin. The one in the glass is painted.”",
+        "Hush spots Vex through an uncovered side pane. Quest checks the real service door instead of chasing the false figure. Exposed, Vex pulls the docking-clamp lever and turns the failed trick into sabotage.\n\nHush [signing]: “Vex is in the booth. Watch the lever.”",
+        "The clamp bends Patch’s starboard outrigger and cracks the canopy edge. The jolt also damages the hinge of Quest’s route disk. The craft is grounded: even a successful rescue will now need another way down from orbit.\n\nBash: “Drive off! Nobody boards until that canopy is repaired.”",
+        "Null’s remote lockdown retracts the booth access platform with Vex still on it. The lieutenant is now endangered by the system being served. Quiver sees a reachable hand, but helping will still be frightening.\n\nVex: “The platform—Null has locked it back!”",
+        "Mend anchors Quiver before the reach. Quiver catches Vex, and the reflector falls into the safety net. They save the person who harmed them without confusing that choice with forgiveness.\n\nQuiver: “Take my hand. We can discuss the rest on the landing.”",
+        "Vex offers the real service lift. Bitter keeps the reflector and checks the proposed route; Quest keeps the damaged map long enough to use its surviving tracing. Vex may help, but will not receive unsupervised access.\n\nBitter: “A direction, not a promise. We check every door.”"
+      ],
+      "title": "The Perfect Way In"
+    },
+    "es": {
+      "captions": [
+        "El público ve el mecanismo: Vex pintó una copia de Nova y la proyectó a través de la mirilla. La imagen tiene una insignia de estrella intacta porque Vex no sabe que Rain lleva el pin real desconchado.\n\nVex [aparte en silencio]: \"Una cara familiar. La elegirán antes que una advertencia\".",
+        "Rain compara el pin real con la insignia de la imagen. Nova regaló este objeto durante el secuestro; la figura detrás del cristal no puede llevarlo puesto. Beam se detiene antes de entrar en la trampa.\n\nRain: \"Nova me dio ese pin. El que está en el cristal está pintado\".",
+        "Hush detecta Vex a través de un panel lateral descubierto. Quest comprueba la puerta de servicio real en lugar de perseguir la figura falsa. Expuesto, Vex tira de la palanca de la abrazadera de acoplamiento y convierte el truco fallido en sabotaje.\n\nHush [firmando]: \"Vex está en la cabina. Cuidado con la palanca\".",
+        "La abrazadera dobla el estabilizador de estribor de la Patch y agrieta el borde de la cubierta. La sacudida también daña la bisagra del disco de ruta de la Quest. La nave está en tierra: incluso un rescate exitoso necesitará ahora otra forma de descender desde la órbita.\n\nBash: \"¡Vete! Nadie sube hasta que se repare ese dosel\".",
+        "El bloqueo remoto del Null retrae la plataforma de acceso al stand con el Vex todavía en él. El teniente ahora está en peligro por el sistema al que se sirve. Quiver ve una mano accesible, pero ayudar seguirá siendo aterrador.\n\nVex: \"La plataforma: ¡Null la ha vuelto a bloquear!\"",
+        "Mend ancla Quiver antes del alcance. Quiver atrapa a Vex y el reflector cae en la red de seguridad. Salvan a la persona que les hizo daño sin confundir esa elección con el perdón.\n\nQuiver: \"Toma mi mano. Podemos discutir el resto en el rellano\".",
+        "Vex ofrece el verdadero elevador de servicio. Bitter mantiene el reflector y verifica la ruta propuesta; Quest conserva el mapa dañado el tiempo suficiente para utilizar el rastreo superviviente. Vex puede ayudar, pero no recibirá acceso sin supervisión.\n\nBitter: \"Una dirección, no una promesa. Revisamos cada puerta\"."
+      ],
+      "title": "La manera perfecta de entrar"
+    },
+    "fr": {
+      "captions": [
+        "Le public voit le mécanisme : Vex a peint une copie de Nova et l'a projetée à travers la vitre d'inspection. L'image comporte un badge étoile intact car le Vex ne sait pas que le Rain porte la véritable épingle ébréchée.\n\nVex [calme à part] : \"Un visage familier. Ils le choisiront plutôt qu'un avertissement.\"",
+        "Rain compare le vrai pin avec le badge sur l'image. Nova a donné cet objet lors du kidnapping ; la silhouette derrière la vitre ne peut pas la porter. Beam s'arrête avant d'entrer dans le piège.\n\nRain : \"Nova m'a donné cette épingle. Celle dans le verre est peinte.\"",
+        "Hush repère Vex à travers un panneau latéral découvert. Quest vérifie la vraie porte de service au lieu de courir après le faux chiffre. Exposé, le Vex tire le levier de la pince d'accueil et transforme l'astuce ratée en sabotage.\n\nHush [signature] : \"Vex est dans la cabine. Surveillez le levier.\"",
+        "La pince plie le stabilisateur tribord du Patch et fissure le bord de la verrière. La secousse endommage également la charnière du disque de route du Quest. L'engin est cloué au sol : même un sauvetage réussi nécessitera désormais un autre chemin pour descendre de l'orbite.\n\nBash : \"Partez ! Personne ne monte à bord tant que la verrière n'est pas réparée.\"",
+        "Le verrouillage à distance du Null rétracte la plate-forme d'accès au stand avec le Vex toujours dessus. Le lieutenant est désormais mis en danger par le système desservi. Quiver voit une main à portée de main, mais aider sera toujours effrayant.\n\nVex : « La plate-forme – Null l'a verrouillée ! »",
+        "Mend ancre Quiver avant le bief. Le Quiver attrape le Vex et le réflecteur tombe dans le filet de sécurité. Ils sauvent la personne qui leur a fait du mal sans confondre ce choix avec le pardon.\n\nQuiver : \"Prends ma main. Nous pourrons discuter du reste sur le palier.\"",
+        "Vex offre le véritable ascenseur de service. Bitter conserve le réflecteur et vérifie l'itinéraire proposé ; Quest conserve la carte endommagée suffisamment longtemps pour utiliser son traçage survivant. Vex peut aider, mais ne bénéficiera pas d'un accès non supervisé.\n\nBitter : \"Une direction, pas une promesse. Nous vérifions chaque porte.\""
+      ],
+      "title": "La manière parfaite d'entrer"
+    },
+    "hi": {
+      "captions": [
+        "दर्शक तंत्र को देखते हैं: Vex ने Nova की एक प्रति चित्रित की है और इसे निरीक्षण ग्लास के माध्यम से प्रक्षेपित किया है। छवि में एक अक्षुण्ण सितारा बैज है क्योंकि Vex को नहीं पता है कि Rain में असली, चिपका हुआ पिन है।\n\nVex [शांत एक तरफ]: \"एक परिचित चेहरा। वे चेतावनी के बजाय इसे चुनेंगे।\"",
+        "Rain छवि पर बैज के साथ वास्तविक पिन की तुलना करता है। अपहरण के दौरान Nova ने यह वस्तु दे दी; कांच के पीछे की आकृति इसे नहीं पहन सकती। Beam जाल में प्रवेश करने से पहले रुक जाता है।\n\nRain: \"Nova ने मुझे वह पिन दिया। ग्लास में जो पिन है वह पेंट किया हुआ है।\"",
+        "Hush एक खुले साइड फलक के माध्यम से Vex को देखता है। Quest झूठे आंकड़े का पीछा करने के बजाय वास्तविक सेवा द्वार की जांच करता है। उजागर, Vex डॉकिंग-क्लैंप लीवर को खींचता है और असफल चाल को तोड़फोड़ में बदल देता है।\n\nHush [हस्ताक्षर करते हुए]: \"Vex बूथ में है। लीवर पर ध्यान दें।\"",
+        "क्लैंप Patch के स्टारबोर्ड आउटरिगर को मोड़ देता है और कैनोपी किनारे को तोड़ देता है। झटका Quest के रूट डिस्क के हिंज को भी नुकसान पहुंचाता है। यान को जमींदोज कर दिया गया है: यहां तक ​​कि एक सफल बचाव के लिए भी अब कक्षा से नीचे जाने के लिए दूसरे रास्ते की आवश्यकता होगी।\n\nBash: \"चला जाओ! जब तक उस छतरी की मरम्मत नहीं हो जाती, तब तक कोई उसमें नहीं चढ़ सकता।\"",
+        "Null का रिमोट लॉकडाउन Vex के साथ बूथ एक्सेस प्लेटफॉर्म को वापस ले लेता है। सिस्टम द्वारा दी जा रही सेवा से लेफ्टिनेंट अब खतरे में है। Quiver को एक पहुंच योग्य हाथ दिख रहा है, लेकिन मदद करना अभी भी डरावना होगा।\n\nVex: \"प्लेटफ़ॉर्म-Null ने इसे वापस लॉक कर दिया है!\"",
+        "Mend पहुंच से पहले Quiver को एंकर करता है। Quiver Vex को पकड़ लेता है, और रिफ्लेक्टर सुरक्षा जाल में आ जाता है। वे उस व्यक्ति को बचाते हैं जिसने उन्हें नुकसान पहुँचाया है, उस विकल्प को क्षमा के साथ भ्रमित किए बिना।\n\nQuiver: \"मेरा हाथ पकड़ो। हम लैंडिंग पर बाकी चर्चा कर सकते हैं।\"",
+        "Vex वास्तविक सेवा लिफ्ट प्रदान करता है। Bitter रिफ्लेक्टर रखता है और प्रस्तावित मार्ग की जाँच करता है; Quest क्षतिग्रस्त मानचित्र को उसके जीवित अनुरेखण का उपयोग करने के लिए पर्याप्त समय तक रखता है। Vex मदद कर सकता है, लेकिन बिना पर्यवेक्षित पहुंच प्राप्त नहीं करेगा।\n\nBitter: \"एक दिशा, कोई वादा नहीं। हम हर दरवाजे की जांच करते हैं।\""
+      ],
+      "title": "बिल्कुल सही तरीका"
+    },
+    "id": {
+      "captions": [
+        "Penonton melihat mekanismenya: Vex telah melukis salinan Nova dan memproyeksikannya melalui kaca inspeksi. Gambar tersebut memiliki lencana bintang yang utuh karena Vex tidak mengetahui bahwa Rain membawa pin asli yang terkelupas.\n\nVex [di samping diam]: \"Satu wajah yang familier. Mereka akan memilihnya daripada peringatan.\"",
+        "Rain membandingkan pin asli dengan lencana pada gambar. Nova memberikan benda ini selama penculikan; sosok di balik kaca tidak mungkin memakainya. Beam berhenti sebelum memasuki jebakan.\n\nRain: \"Nova memberi saya pin itu. Pin yang ada di kaca itu dicat.\"",
+        "Hush melihat Vex melalui panel samping yang terbuka. Quest memeriksa pintu servis sebenarnya alih-alih mengejar figur palsu. Terkena, Vex menarik tuas penjepit dok dan mengubah trik gagal menjadi sabotase.\n\nHush [penandatanganan]: \"Vex ada di dalam bilik. Perhatikan tuasnya.\"",
+        "Penjepit tersebut membengkokkan cadik kanan Patch dan memecahkan tepi kanopi. Guncangan tersebut juga merusak engsel disk rute Quest. Pesawat itu dilarang terbang: bahkan penyelamatan yang berhasil kini memerlukan cara lain untuk turun dari orbit.\n\nBash: \"Pergi! Tidak ada yang naik sampai kanopi itu diperbaiki.\"",
+        "Penguncian jarak jauh Null mencabut platform akses stan dengan Vex masih ada di dalamnya. Letnan sekarang terancam oleh sistem yang dilayani. Quiver melihat ada tangan yang bisa dijangkau, namun membantu tetap saja menakutkan.\n\nVex: “Platform—Null telah menguncinya kembali!”",
+        "Mend berlabuh Quiver sebelum jangkauan. Quiver menangkap Vex, dan reflektor jatuh ke jaring pengaman. Mereka menyelamatkan orang yang menyakiti mereka tanpa mengacaukan pilihan itu dengan pengampunan.\n\nQuiver: \"Pegang tanganku. Kita bisa mendiskusikan sisanya di tangga.\"",
+        "Vex menawarkan peningkatan layanan sesungguhnya. Bitter menyimpan reflektor dan memeriksa rute yang diusulkan; Quest menyimpan peta yang rusak cukup lama untuk menggunakan penelusuran yang masih ada. Vex mungkin membantu, tetapi tidak akan menerima akses tanpa pengawasan.\n\nBitter: \"Sebuah arahan, bukan sebuah janji. Kami memeriksa setiap pintu.\""
+      ],
+      "title": "Cara Sempurna Masuk"
+    },
+    "it": {
+      "captions": [
+        "Il pubblico vede il meccanismo: Vex ha dipinto una copia di Nova e l'ha proiettata attraverso il vetro di ispezione. L'immagine ha una stella intatta perché Vex non sa che Rain porta la vera spilla scheggiata.\n\nVex [tranquillo a parte]: \"Un volto familiare. Lo sceglieranno invece di un avvertimento.\"",
+        "Rain confronta la spilla reale con il badge sull'immagine. Nova ha regalato questo oggetto durante il rapimento; la figura dietro il vetro non può indossarlo. Beam si ferma prima di entrare nella trappola.\n\nRain: \"Nova mi ha dato quella spilla. Quella nel vetro è dipinta.\"",
+        "Hush rileva Vex attraverso un pannello laterale scoperto. Quest controlla la vera porta di servizio invece di inseguire la falsa figura. Esposto, Vex tira la leva del morsetto di attracco e trasforma il trucco fallito in sabotaggio.\n\nHush [firma]: \"Vex è nella cabina. Attento alla leva.\"",
+        "Il morsetto piega lo stabilizzatore di tribordo dello Patch e rompe il bordo della vela. La scossa danneggia anche la cerniera del disco di percorso dello Quest. Il velivolo è a terra: anche un salvataggio riuscito avrà ora bisogno di un altro modo per scendere dall'orbita.\n\nBash: \"Via! Nessuno sale finché il tettuccio non viene riparato.\"",
+        "Il blocco remoto dello Null ritrae la piattaforma di accesso allo stand su cui è ancora presente lo Vex. Il tenente è ora messo in pericolo dal sistema servito. Quiver vede una mano raggiungibile, ma aiutare sarà comunque spaventoso.\n\nVex: \"La piattaforma: Null l'ha bloccata!\"",
+        "Mend ancora Quiver prima del tratto. Quiver cattura Vex e il riflettore cade nella rete di sicurezza. Salvano la persona che ha fatto loro del male senza confondere quella scelta con il perdono.\n\nQuiver: \"Prendimi la mano. Del resto ne parleremo sul pianerottolo.\"",
+        "Vex offre il vero ascensore di servizio. Bitter mantiene il catarifrangente e controlla il percorso proposto; Quest conserva la mappa danneggiata abbastanza a lungo da poter utilizzare il tracciato sopravvissuto. Vex può aiutare, ma non riceverà accesso senza supervisione.\n\nBitter: \"Un'indicazione, non una promessa. Controlliamo ogni porta.\""
+      ],
+      "title": "Il modo perfetto per entrare"
+    },
+    "ja": {
+      "captions": [
+        "観客はメカニズムを見ます。Vex が Nova のコピーをペイントし、それを検査ガラスを通して投影しました。 Vex は Rain が実際の欠けたピンを搭載していることを知らないため、画像には無傷の星型バッジが表示されます。\n\nVex [静かに脇に]: 「おなじみの顔が 1 人。彼らは警告よりもそれを選ぶでしょう。」",
+        "Rain は、実際のピンと画像上のバッジを比較します。 Nova は誘拐中にこの物体を譲りました。ガラスの向こうの人物はそれを着用できません。 Beam はトラップに入る前に停止します。\n\nRain: 「Nova がそのピンをくれました。ガラスの中のピンはペイントされています。」",
+        "Hush は、覆われていない側面ガラスを通して Vex を検出します。 Quest は、偽の数字を追うのではなく、実際のサービスドアをチェックします。露出した Vex はドッキング クランプ レバーを引き、失敗したトリックを妨害行為に変えます。\n\nHush [署名]: 「Vex はブースにいます。レバーに注目してください。」",
+        "クランプが Patch の右舷アウトリガーを曲げ、キャノピーの端に亀裂を入れます。この衝撃により、Quest のルートディスクのヒンジも損傷します。宇宙船は座礁しています。救助が成功したとしても、軌道から別の方法で降下する必要があります。\n\nBash: 「出て行け! そのキャノピーが修理されるまでは誰も乗らないでください。」",
+        "Null のリモート ロックダウンにより、Vex が搭載されたままのブース アクセス プラットフォームが撤回されます。中尉は現在、配下の星系によって危険にさらされている。 Quiver には手が届きそうですが、助けるのはやはり怖いでしょう。\n\nVex: 「プラットフォーム、Null がロックバックしました!」",
+        "Mend はリーチ前に Quiver を固定します。 Quiver が Vex をキャッチし、リフレクターがセーフティネットに落ちます。彼らは、その選択を許しと混同することなく、自分たちを傷つけた人を救います。\n\nQuiver: 「手をとってください。残りのことは踊り場で話し合えます。」",
+        "Vex は、実際のサービスリフトを提供します。 Bitter はリフレクターを保持し、提案されたルートを確認します。 Quest は、残っているトレースを使用するのに十分な期間、破損したマップを保持します。 Vex は役立つかもしれませんが、監視されていないアクセスは受信できません。\n\nBitter: 「方向性であり、約束ではありません。私たちはすべてのドアをチェックします。」"
+      ],
+      "title": "完璧な入り方"
+    },
+    "ko": {
+      "captions": [
+        "청중은 메커니즘을 봅니다. Vex는 Nova의 사본을 칠하고 검사 유리를 통해 투사했습니다. Vex는 Rain가 실제 깨진 핀을 가지고 있다는 것을 모르기 때문에 이미지에는 온전한 별표 배지가 있습니다.\n\nVex [조용히 옆으로]: \"익숙한 얼굴 하나. 그들은 경고 대신 그것을 선택할 것입니다.\"",
+        "Rain는 실제 핀과 이미지의 배지를 비교합니다. Nova는 납치 당시 이 물건을 다른 사람에게 주었습니다. 유리 뒤에 있는 인물은 그것을 착용할 수 없습니다. Beam는 함정에 들어가기 전에 멈춥니다.\n\nRain: \"Nova가 나에게 그 핀을 주었습니다. 유리에 있는 핀은 페인트로 칠해져 있습니다.\"",
+        "Hush는 노출된 측면 창을 통해 Vex를 발견합니다. Quest는 허위 수치를 쫓는 대신 실제 서비스 도어를 확인합니다. 노출된 Vex는 도킹 클램프 레버를 당기고 실패한 트릭을 방해 행위로 바꿉니다.\n\nHush [서명]: \"Vex가 부스에 있습니다. 레버를 조심하세요.\"",
+        "클램프는 Patch의 우현 아우트리거를 구부리고 캐노피 가장자리를 깨뜨립니다. 충격으로 인해 Quest의 루트 디스크 힌지도 손상됩니다. 우주선은 접지되어 있습니다. 구조가 성공적이더라도 이제 궤도에서 내려오는 다른 방법이 필요합니다.\n\nBash: \"차를 몰고 가세요! 캐노피가 수리될 때까지 아무도 탑승하지 않습니다.\"",
+        "Null의 원격 잠금 기능은 Vex가 그대로 있는 부스 액세스 플랫폼을 축소합니다. 중위는 이제 복무 중인 시스템으로 인해 위험에 처해 있습니다. Quiver는 손이 닿을 수 있는 손길을 보았지만 도움을 주는 것은 여전히 ​​두려운 일입니다.\n\nVex: \"플랫폼—Null가 다시 잠겼습니다!\"",
+        "Mend는 도달 전에 Quiver를 고정합니다. Quiver가 Vex를 잡아 반사경이 안전망에 빠지게 됩니다. 그들은 그 선택을 용서와 혼동하지 않고 자신에게 해를 끼친 사람을 구합니다.\n\nQuiver: \"내 손을 잡으세요. 나머지 문제는 착륙 시 논의하겠습니다.\"",
+        "Vex는 실제 서비스 리프트를 제공합니다. Bitter는 반사판을 유지하고 제안된 경로를 확인합니다. Quest는 살아남은 추적을 사용할 수 있을 만큼 오랫동안 손상된 지도를 유지합니다. Vex가 도움이 될 수 있지만 감독되지 않은 액세스는 수신되지 않습니다.\n\nBitter: \"약속이 아니라 방향입니다. 우리는 모든 문을 확인합니다.\""
+      ],
+      "title": "완벽한 길"
+    },
+    "pl": {
+      "captions": [
+        "Widzowie widzą mechanizm: Vex namalował kopię Nova i wyświetlił ją przez wziernik. Obraz ma nienaruszoną plakietkę z gwiazdą, ponieważ Vex nie wie, że Rain ma prawdziwą, wyszczerbioną szpilkę.\n\nVex [cisza na bok]: „Jedna znajoma twarz. Wybiorą ją zamiast ostrzeżenia.”",
+        "Rain porównuje prawdziwy pin z plakietką na obrazku. Nova oddał ten przedmiot podczas porwania; postać za szybą nie może go nosić. Beam zatrzymuje się przed wejściem do pułapki.\n\nRain: \"Nova dał mi tę szpilkę. Ta w szkle jest pomalowana.\"",
+        "Hush dostrzega Vex przez odkrytą boczną szybę. Quest sprawdza prawdziwe drzwi serwisowe, zamiast gonić za fałszywą liczbą. Odsłonięty Vex pociąga za dźwignię zacisku dokującego i zamienia nieudaną sztuczkę w sabotaż.\n\nHush [podpis]: \"Vex jest w kabinie. Uważaj na dźwignię.\"",
+        "Zacisk wygina prawą podporę Patch i pęka krawędź czaszy. Wstrząs uszkadza również zawias dysku trasującego Quest. Statek jest uziemiony: nawet udana akcja ratownicza będzie teraz wymagać innej drogi z orbity.\n\nBash: \"Odjedź! Nikt nie wsiada, dopóki zadaszenie nie zostanie naprawione.\"",
+        "Zdalna blokada Null powoduje wycofanie platformy dostępu do kabiny, na której nadal znajduje się Vex. Porucznik jest teraz zagrożony przez obsługiwany system. Quiver widzi wyciągnięcie ręki, ale pomaganie nadal będzie przerażające.\n\nVex: „Platforma — Null ją zablokowała!”",
+        "Mend kotwiczy Quiver przed zasięgiem. Quiver łapie Vex, a reflektor wpada do siatki zabezpieczającej. Ratują osobę, która ich skrzywdziła, nie myląc tego wyboru z przebaczeniem.\n\nQuiver: \"Weź mnie za rękę. Resztę omówimy na podeście.\"",
+        "Vex oferuje prawdziwą windę serwisową. Bitter utrzymuje reflektor i sprawdza proponowaną trasę; Quest utrzymuje uszkodzoną mapę wystarczająco długo, aby wykorzystać jej pozostałości. Vex może pomóc, ale nie uzyska dostępu bez nadzoru.\n\nBitter: \"Wskazówka, nie obietnica. Sprawdzamy każde drzwi.\""
+      ],
+      "title": "Idealne wejście"
+    },
+    "pt": {
+      "captions": [
+        "O público vê o mecanismo: Vex pintou uma cópia do Nova e projetou-a através do vidro de inspeção. A imagem tem um emblema de estrela intacto porque Vex não sabe que Rain carrega o pino lascado real.\n\nVex [calado à parte]: \"Um rosto familiar. Eles o escolherão em vez de um aviso.\"",
+        "Rain compara o pin real com o emblema na imagem. Nova doou este objeto durante o sequestro; a figura atrás do vidro não pode usá-lo. Beam para antes de entrar na armadilha.\n\nRain: \"Nova me deu aquele alfinete. O que está no vidro é pintado.\"",
+        "Hush localiza Vex através de um painel lateral descoberto. Quest verifica a porta de serviço real em vez de perseguir a figura falsa. Exposto, Vex puxa a alavanca do grampo de acoplamento e transforma o truque fracassado em sabotagem.\n\nHush [assinatura]: \"Vex está no estande. Cuidado com a alavanca.\"",
+        "A braçadeira dobra o estabilizador de estibordo do Patch e quebra a borda do velame. O choque também danifica a dobradiça do disco de rota do Quest. A nave está aterrada: mesmo um resgate bem-sucedido precisará agora de outro caminho para sair da órbita.\n\nBash: \"Parta! Ninguém embarca até que o velame seja consertado.\"",
+        "O bloqueio remoto do Null retrai a plataforma de acesso ao estande com o Vex ainda nele. O tenente agora está ameaçado pelo sistema que está sendo servido. Quiver vê uma mão acessível, mas ajudar ainda será assustador.\n\nVex: “A plataforma – Null a bloqueou!”",
+        "Mend ancora Quiver antes do alcance. Quiver pega Vex e o refletor cai na rede de segurança. Eles salvam a pessoa que os feriu sem confundir essa escolha com perdão.\n\nQuiver: \"Segure minha mão. Podemos discutir o resto no patamar.\"",
+        "Vex oferece o verdadeiro elevador de serviço. Bitter mantém o refletor e verifica a rota proposta; Quest mantém o mapa danificado por tempo suficiente para usar seu rastreamento sobrevivente. Vex pode ajudar, mas não receberá acesso não supervisionado.\n\nBitter: \"Uma direção, não uma promessa. Verificamos todas as portas.\""
+      ],
+      "title": "A maneira perfeita de entrar"
+    },
+    "ru": {
+      "captions": [
+        "Зрители видят механизм: Vex нарисовал копию Nova и проецировал ее через смотровое стекло. На изображении присутствует неповрежденный значок звезды, поскольку Vex не знает, что Rain имеет настоящий сколотый значок.\n\nVex [тихо в стороне]: \"Одно знакомое лицо. Они предпочтут его предупреждению\".",
+        "Rain сравнивает настоящий значок со значком на изображении. Nova отдал этот объект во время похищения; фигура за стеклом не может его носить. Beam останавливается перед входом в ловушку.\n\nRain: \"Nova дал мне эту булавку. Та, что в стекле, покрашена\".",
+        "Hush замечает Vex через открытую боковую панель. Quest проверяет настоящую служебную дверь вместо того, чтобы гоняться за ложной фигурой. Обнаруженный, Vex тянет рычаг стыковочного зажима и превращает неудачный трюк в саботаж.\n\nHush [подпись]: \"Vex в кабинке. Следите за рычагом\".",
+        "Зажим сгибает выносную опору правого борта Patch и трескает кромку фонаря. В результате толчка также повреждается шарнир маршрутного диска Quest. Корабль остановлен: даже для успешного спасения теперь потребуется другой путь вниз с орбиты.\n\nBash: \"Уезжайте! Никто не сядет на борт, пока купол не будет отремонтирован\".",
+        "Дистанционная блокировка Null убирает платформу доступа к стенду, на которой все еще находится Vex. Лейтенанту теперь угрожает обслуживаемая система. Quiver видит протянутую руку, но помощь все равно будет пугать.\n\nVex: «Платформа — Null заблокировала ее!»",
+        "Mend закрепляет Quiver перед вылетом. Quiver ловит Vex, и отражатель попадает в сетку безопасности. Они спасают человека, причинившего им вред, не путая этот выбор с прощением.\n\nQuiver: \"Возьми меня за руку. Остальное мы обсудим на лестничной площадке\".",
+        "Vex предлагает настоящий сервисный лифт. Bitter держит отражатель и проверяет предложенный маршрут; Quest хранит поврежденную карту достаточно долго, чтобы можно было использовать ее сохранившуюся трассировку. Vex может помочь, но не получит неконтролируемого доступа.\n\nBitter: \"Направление, а не обещание. Мы проверяем каждую дверь\"."
+      ],
+      "title": "Идеальный путь внутрь"
+    },
+    "tr": {
+      "captions": [
+        "İzleyici mekanizmayı görüyor: Vex, Nova'nin bir kopyasını boyamış ve bunu gözetleme camından yansıtmış. Vex, Rain'nin gerçek, yontulmuş pimi taşıdığını bilmediği için görüntüde sağlam bir yıldız rozeti var.\n\nVex [sessizce]: \"Tanıdık bir yüz. Bir uyarı yerine onu seçecekler.\"",
+        "Rain, gerçek pini görüntüdeki rozetle karşılaştırır. Nova bu nesneyi kaçırma sırasında başkasına verdi; camın arkasındaki figür onu giyemez. Beam tuzağa girmeden önce durur.\n\nRain: \"Nova bana o iğneyi verdi. Camdaki boyalı.\"",
+        "Hush, üstü açık bir yan panelden Vex'yi görüyor. Quest, sahte rakamı takip etmek yerine gerçek servis kapısını kontrol eder. Açığa çıkan Vex kenetleme kelepçe kolunu çeker ve başarısız numarayı sabotaj haline getirir.\n\nHush [imzalıyor]: \"Vex kabinde. Kolu izleyin.\"",
+        "Kelepçe, Patch'nin sancak tarafındaki destek ayağını büküyor ve kanopi kenarını kırıyor. Sarsıntı ayrıca Quest'nin rota diskinin menteşesine de zarar verir. Araç karaya oturdu: Başarılı bir kurtarma için bile artık yörüngeden başka bir yola ihtiyaç duyulacak.\n\nBash: \"Devam edin! Tente tamir edilene kadar kimse binemez.\"",
+        "Null'nin uzaktan kilitleme özelliği, Vex'nin hala üzerinde olduğu kabin erişim platformunu geri çeker. Teğmen artık hizmet verilen sistem nedeniyle tehlike altında. Quiver ulaşılabilir bir el görüyor ancak yardım etmek yine de korkutucu olacak.\n\nVex: \"Platform—Null onu geri kilitledi!\"",
+        "Mend, erişimden önce Quiver'yi sabitler. Quiver, Vex'yi yakalar ve reflektör güvenlik ağına düşer. Bu seçimi affetmekle karıştırmadan, kendilerine zarar veren kişiyi kurtarırlar.\n\nQuiver: \"Elimi tut. Gerisini sahanlıkta tartışabiliriz.\"",
+        "Vex gerçek servis asansörünü sunar. Bitter reflektörü tutar ve önerilen rotayı kontrol eder; Quest, hasarlı haritayı hayatta kalan izlemeyi kullanacak kadar uzun süre tutar. Vex yardımcı olabilir ancak denetimsiz erişim almayacaktır.\n\nBitter: \"Bir söz değil, bir yönlendirme. Her kapıyı kontrol ediyoruz.\""
+      ],
+      "title": "Mükemmel Yol"
+    },
+    "vi": {
+      "captions": [
+        "Khán giả nhìn thấy cơ chế: Vex đã vẽ một bản sao của Nova và chiếu nó qua kính kiểm tra. Hình ảnh có huy hiệu ngôi sao còn nguyên do Vex không biết Rain mang pin thật, sứt mẻ.\n\nVex [im lặng sang một bên]: \"Một gương mặt quen thuộc. Họ sẽ chọn nó thay vì cảnh báo.\"",
+        "Rain so sánh ghim thật với huy hiệu trên hình ảnh. Nova đã đưa vật này đi trong vụ bắt cóc; hình người đằng sau tấm kính không thể đeo nó. Beam dừng lại trước khi vào bẫy.\n\nRain: \"Nova đưa cho tôi chiếc ghim đó. Cái trên kính đã được sơn rồi.\"",
+        "Hush phát hiện Vex thông qua một khung bên không được che chắn. Quest kiểm tra cửa dịch vụ thực thay vì đuổi theo hình giả. Bị lộ, Vex kéo cần kẹp đế và biến thủ đoạn thất bại thành phá hoại.\n\nHush [ký]: \"Vex đang ở trong gian hàng. Hãy chú ý cần gạt.\"",
+        "Chiếc kẹp làm cong phần nhô ra bên phải của Patch và làm nứt mép tán. Cú sốc cũng làm hỏng bản lề của đĩa định tuyến của Quest. Con tàu đã được hạ cánh: ngay cả một cuộc giải cứu thành công giờ đây cũng sẽ cần một con đường khác để đi xuống quỹ đạo.\n\nBash: \"Lái xe đi! Không ai lên xe cho đến khi mái che được sửa xong.\"",
+        "Chức năng khóa từ xa của Null sẽ thu lại nền tảng truy cập gian hàng với Vex vẫn ở trên đó. Trung úy hiện đang gặp nguy hiểm bởi hệ thống đang được phục vụ. Quiver nhìn thấy một bàn tay có thể tiếp cận được, nhưng việc giúp đỡ vẫn sẽ rất đáng sợ.\n\nVex: “Nền tảng—Null đã khóa lại!”",
+        "Mend neo Quiver trước tầm với. Quiver bắt Vex và tấm phản xạ rơi vào lưới an toàn. Họ cứu người đã làm hại họ mà không nhầm lẫn giữa lựa chọn đó với sự tha thứ.\n\nQuiver: \"Nắm lấy tay tôi. Chúng ta có thể thảo luận phần còn lại khi hạ cánh.\"",
+        "Vex cung cấp thang máy dịch vụ thực sự. Bitter giữ tấm phản xạ và kiểm tra tuyến đường đề xuất; Quest giữ bản đồ bị hư hỏng đủ lâu để sử dụng dấu vết còn sót lại của nó. Vex có thể trợ giúp nhưng sẽ không nhận được quyền truy cập không được giám sát.\n\nBitter: \"Một hướng đi, không phải một lời hứa. Chúng tôi kiểm tra mọi cánh cửa.\""
+      ],
+      "title": "Con đường hoàn hảo"
+    },
+    "zh": {
+      "captions": [
+        "观众看到的机制是：Vex 绘制了 Nova 的复制品，并通过观察玻璃将其投影。该图像具有完整的星形徽章，因为 Vex 不知道 Rain 带有真实的、有缺口的引脚。\n\nVex[安静]：“一张熟悉的面孔。他们会选择它而不是警告。”",
+        "Rain 将真实引脚与图像上的徽章进行比较。 Nova在绑架过程中将此物品送出；玻璃后面的人物无法佩戴它。 Beam 在进入陷阱之前停止。\n\nRain：“Nova给了我那个别针。玻璃里的那个是涂漆的。”",
+        "Hush 通过未覆盖的侧窗发现了 Vex。 Quest检查真实的服务门而不是追逐虚假的数字。 Vex 暴露后，拉动对接夹杆，将失败的伎俩变成了破坏。\n\nHush [签名]：“Vex 在展位内。注意控制杆。”",
+        "夹具使 Patch 的右舷支腿弯曲并使座舱盖边缘破裂。颠簸还会损坏 Quest 路线盘的铰链。飞船已经停飞：即使是一次成功的救援，现在也需要从轨道上走另一条路。\n\nBash：“开走！在顶篷修好之前没有人上车。”",
+        "Null 的远程锁定可收回展位通道平台，而 Vex 仍在其上。中尉现在正受到所服务系统的威胁。 Quiver 看到一只触手可及的手，但帮助仍然会令人恐惧。\n\nVex：“平台——Null已锁定！”",
+        "Mend 在到达前锚定 Quiver。 Quiver抓住Vex，反射器落入安全网。他们拯救伤害他们的人，而不会将这种选择与宽恕混淆。\n\nQuiver：“牵着我的手，剩下的我们在楼梯平台上讨论。”",
+        "Vex 提供真正的服务电梯。 Bitter保持反射器并检查建议的路线； Quest 将损坏的地图保留足够长的时间以使用其幸存的追踪。 Vex 可能会有所帮助，但不会收到不受监督的访问。\n\nBitter：“是方向，不是承诺。我们检查每一扇门。”"
+      ],
+      "title": "完美的进入方式"
+    }
+  },
+  "number": 113,
+  "panels": [
+    {
+      "altText": "Vex angles the fold-out reflector toward a flat painted standee of Nova, mounted on two wooden feet. The standee bears a painted violet scarf and an intact painted star badge.",
+      "bytes": 1712379,
+      "image": "s113_p01.png",
+      "sha256": "24363249b6dd49305e5748463e6ea87155ea26448d7fb7ec8ecb229987df14bd"
+    },
+    {
+      "altText": "Rain holds the single chipped pin beside Beam’s lowered visor. Through the upper glass in the background, the standee image shows an intact painted badge and a fixed smile.",
+      "bytes": 1793431,
+      "image": "s113_p02.png",
+      "sha256": "c7673b4568b6a31325aa298d20c695fc38575bc7436bf8ca92d6d79678a7797c"
+    },
+    {
+      "altText": "Hush points toward Vex’s real white badge visible through an uncovered side pane, not through an impossible reflection. Quest turns toward the mapped maintenance door with the disk open.",
+      "bytes": 1820509,
+      "image": "s113_p03.png",
+      "sha256": "9db39c7fe1b8d9a2958cef474ba3211a133048158ef54eb6b0704b6a5f715a72"
+    },
+    {
+      "altText": "The faulty clamp strikes Patch’s starboard outrigger, bending it against the cradle and cracking only the canopy’s starboard lower edge. Bash stands clear at the stopped control post.",
+      "bytes": 1873136,
+      "image": "s113_p04.png",
+      "sha256": "e2880db6a33382b6a137a598b7b436a386282660b9a9ef9b7a05e7efd1bdd739"
+    },
+    {
+      "altText": "Vex hangs from the booth’s fixed handrail after the short access platform retracts beneath it. A white command indicator at the platform actuator shows the newer control system engaged.",
+      "bytes": 1776370,
+      "image": "s113_p05.png",
+      "sha256": "037c04bbf7eba58f3849a153983e80ae71cf9e68a40ab2c2080658dddc1a82be"
+    },
+    {
+      "altText": "Mend holds a rose line through a fixed landing ring and around Quiver’s safety harness. Quiver kneels with both feet braced on the stable landing and catches Vex’s wrist across the short gap.",
+      "bytes": 1739792,
+      "image": "s113_p06.png",
+      "sha256": "1856d1165e012726c90cdb211a596ce779754c1d5434db15b916237d7ffd0f47"
+    },
+    {
+      "altText": "Vex stands safely between Bitter and the closed service-lift door, pointing to its old mechanical keyway. Bitter holds the retrieved reflector folded shut, its identity unchanged, before placing it in the dock’s lockable equipment drawer.",
+      "bytes": 1854287,
+      "image": "s113_p07.png",
+      "sha256": "a49803b9afa44e3dfd761ed8b4aecca546cf502f7d91b5ebe946024ab13b2a81"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "adventure",
+    "friendship",
+    "rescue",
+    "superhero"
+  ],
+  "version": 1
+}
