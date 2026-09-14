@@ -1,0 +1,274 @@
+{
+  "id": "N00E22",
+  "localizations": {
+    "ar": {
+      "captions": [
+        "الشبكة الأرضية جاهزة، والكبسولة الفارغة في طريق عودتها. يؤكد Quest أن الرافعة الأمامية لا تزال مثبتة بواسطة ماسك أمان خلفي. قد يؤدي فرض المقبض إلى كسر الجزء الخطأ قبل أن يكون للأرشيف مسار إرجاع.\n\nQuest: \"نحتاج إلى ماسك خلف هذه اللوحة. لا تضغط على الرافعة بالقوة.\"",
+        "لاحظت Quiver اهتزازًا لا يتناسب مع المشط الثقيل. Hush يكشف علامة الصيانة بجانبه. تقوم المرحلات الجاهزة بتحريك آلية الإشارة القديمة أسفل الأرضية، مما يكشف عن ممر خدمة حقيقي نحو المقبض الخلفي.\n\nQuiver: \"هذا الإيقاع مختلف. فهو يسير خلف الرافعة.\"",
+        "Null يضغط بقوة أكبر في المرحلة النهائية. تعمل Quest على حماية البكرات بدلاً من مطاردة الشرير عبر الغرفة. لا يزال الواقي صامدًا، لكن المزيد من القوة على الآلية تجعل الهامش أصغر.\n\nNull: \"سوف تحافظ على كل الأذى.\"\nQuest: \"نحن نحتفظ بخياراتهم.\"",
+        "يدخل Quiver ممر الخدمة الخلفي بينما يحافظ Hush على ثبات الخط. المساحة ضيقة ولكنها مصممة لعمال الصيانة بحجمهم. يظل Quiver خائفًا ويتحرك بحذر على أي حال.\n\nQuiver [راديو البدلة]: \"أنا خائف. احتفظ بالخط حيث أستطيع أن أشعر به.\"",
+        "يقوم Flare بفك طوق المغزل بينما ينتظر Pop إشارة التحرير. مهد الإزالة موجود بالفعل في مكانه. يجب أن يفصل هذا الفاصل جهاز الأمر عن الجهاز دون حدوث صدى واحد مخزن.\n\nFlare: \"بدون ياقة. انتظر ثلاثة أضواء قبل الدبوس.\"",
+        "يقوم Quiver بتحرير المصيد الخلفي. يقوم Vex بمفتاح المجازة الأمامية ويرى أن السحب الكامل سيؤدي إلى قطع شارة الخدمة داخل الفكين. إن الاحتفاظ برمز الوصول هذا أقل أهمية من فتح الإرجاع، ولكن لا يزال يتعين على الرافعة انتظار التنسيق.\n\nVex: \"يمكنها الاحتفاظ بالشارة. أخبرني متى يجب أن أسحبها.\"",
+        "يجيب Hush على الفريق الأرضي بضوءين: آلية Crown جاهزة أيضًا. يؤكد Quest أن الكبسولة الأصلية قد عادت إلى رصيفها. كلا الطرفين جاهزان، وينتظر الجميع إشارة إطلاق Nova ثلاثية الأضواء.\n\nQuest: \"اثنان هنا، واثنان أدناه. انتظر ثلاثة.\""
+      ],
+      "title": "تم العثور على خوف الباب"
+    },
+    "bn": {
+      "captions": [
+        "গ্রাউন্ড নেটওয়ার্ক প্রস্তুত, এবং খালি পড তার পথে ফিরে আসছে. Quest নিশ্চিত করে যে সামনের লিভারটি এখনও একটি পিছনের নিরাপত্তা ক্যাচ দ্বারা আটকে আছে। আর্কাইভ ফেরত যাওয়ার আগে হ্যান্ডেল জোর করে ভুল অংশ ভেঙ্গে ফেলবে।\n\nQuest: \"আমাদের এই প্লেটের পিছনে ক্যাচ দরকার। লিভার জোর করবেন না।\"",
+        "Quiver একটি কম্পন লক্ষ্য করে যা ভারী চিরুনির সাথে মেলে না। Hush এটির পাশে রক্ষণাবেক্ষণ চিহ্ন উন্মোচন করে। প্রস্তুত রিলেগুলি মেঝের নীচে পুরানো সংকেত প্রক্রিয়াটিকে সরিয়ে দিচ্ছে, পিছনের ক্যাচের দিকে একটি বাস্তব পরিষেবা উত্তরণ প্রকাশ করছে।\n\nQuiver: \"এই ছন্দটি আলাদা। এটি লিভারের পিছনে যায়।\"",
+        "Null চূড়ান্ত পর্যায়ের বিরুদ্ধে আরও জোরে চাপ দেয়। Quest ঘর জুড়ে ভিলেনকে তাড়া করার পরিবর্তে রিলগুলিকে রক্ষা করে। গার্ড এখনও ধরে আছে, কিন্তু প্রক্রিয়ার উপর আরো বল মার্জিন ছোট করে তোলে।\n\nNull: \"আপনি প্রতিটি আঘাত বজায় রাখবেন।\"\nQuest: \"আমরা তাদের পছন্দ রাখছি।\"",
+        "Quiver পিছনের সার্ভিস প্যাসেজে প্রবেশ করে যখন Hush লাইনটি স্থির রাখে। স্থান সংকীর্ণ কিন্তু তাদের আকার রক্ষণাবেক্ষণ কর্মীদের জন্য নির্মিত. Quiver ভীত থাকে এবং যাইহোক সাবধানে যায়।\n\nQuiver [স্যুট রেডিও]: \"আমি ভয় পাচ্ছি। লাইনটি যেখানে আমি অনুভব করতে পারি সেখানে রাখুন।\"",
+        "Flare স্পিন্ডেল কলারটি আলগা করে যখন Pop রিলিজ সিগন্যালের জন্য অপেক্ষা করে। অপসারণ দোলনা ইতিমধ্যে জায়গায় আছে. এই বিরতি একটি একক সঞ্চিত প্রতিধ্বনি আঘাত না করে মেশিন থেকে কমান্ড হার্ডওয়্যারকে আলাদা করতে হবে।\n\nFlare: \"কলার ফ্রি। পিনের আগে তিনটি আলোর জন্য অপেক্ষা করুন।\"",
+        "Quiver রিয়ার ক্যাচ ছেড়ে দেয়। Vex সামনের বাইপাসটি চাবি করে এবং দেখে যে একটি পূর্ণ টান চোয়ালের ভিতরে পরিষেবা ব্যাজ ছিঁড়ে ফেলবে। সেই অ্যাক্সেস টোকেনটি রাখা রিটার্ন খোলার চেয়ে কম গুরুত্বপূর্ণ, তবে লিভারকে এখনও সমন্বয়ের জন্য অপেক্ষা করতে হবে।\n\nVex: \"এটি ব্যাজ রাখতে পারে। কখন টানতে হবে তা আমাকে বলুন।\"",
+        "Hush দুটি আলো দিয়ে গ্রাউন্ড টিমকে উত্তর দেয়: Crown মেকানিজমও প্রস্তুত। Quest নিশ্চিত করে যে আসল পডটি তার বার্থে ফিরে এসেছে। উভয় প্রান্ত প্রস্তুত, এবং সবাই Nova এর তিন-আলো রিলিজ সংকেতের জন্য অপেক্ষা করছে।\n\nQuest: \"দুজন এখানে, দুটি নীচে। তিনজনের জন্য অপেক্ষা করুন।\""
+      ],
+      "title": "দরজা ভয় পাওয়া গেছে"
+    },
+    "cs": {
+      "captions": [
+        "Pozemní síť je připravena a prázdný modul je na cestě zpět. Quest potvrzuje, že přední páku stále drží zadní pojistka. Vynucení rukojeti by zlomilo nesprávnou část dříve, než bude mít archiv zpáteční cestu.\n\nQuest: \"Potřebujeme západku za touto deskou. Netlačte na páku silou.\"",
+        "Quiver zaznamená vibrace, které neodpovídají těžkému hřebenu. Hush vedle sebe odkryje značku údržby. Připravená relé pohybují starým signálním mechanismem pod podlahou a odhalují skutečný servisní průchod směrem k zadní západce.\n\nQuiver: \"Tento rytmus je jiný. Jde za pákou.\"",
+        "Null silněji tlačí na koncový stupeň. Quest spíše chrání kotouče, než aby pronásledoval padoucha přes místnost. Záštita stále drží, ale větší síla působící na mechanismus zmenšuje okraj.\n\nNull: \"Každé zranění si necháš.\"\nQuest: \"Zachováváme jejich volby.\"",
+        "Quiver vstupuje do zadního servisního průchodu, zatímco Hush udržuje linii stabilní. Prostor je úzký, ale stavěný pro údržbáře jejich velikosti. Quiver se bojí a stejně jede opatrně.\n\nQuiver [vysílačka v obleku]: \"Bojím se. Udržuj linii tam, kde ji cítím.\"",
+        "Flare uvolní objímku vřetena, zatímco Pop čeká na signál uvolnění. Vyjímací kolébka je již na svém místě. Toto přerušení musí oddělit povelový hardware od stroje, aniž by zasáhlo jedinou uloženou ozvěnu.\n\nFlare: \"Obojek volný. Počkejte na tři světla, než připnete.\"",
+        "Quiver uvolní zadní západku. Vex zatlačí přední bypass a vidí, že plné zatažení uřízne servisní odznak uvnitř čelistí. Udržení tohoto přístupového žetonu je méně důležité než otevření návratu, ale páka musí stále čekat na koordinaci.\n\nVex: \"Může to udržet odznak. Řekněte mi, kdy mám vytáhnout.\"",
+        "Hush odpovídá pozemnímu týmu dvěma světly: mechanismus Crown je také připraven. Quest potvrzuje, že se původní modul vrátil do svého kotviště. Oba konce jsou připraveny a všichni čekají na třísvětelný signál uvolnění Nova.\n\nQuest: \"Dva tady, dva dole. Počkejte na tři.\""
+      ],
+      "title": "Strach dveří nalezen"
+    },
+    "de": {
+      "captions": [
+        "Das Bodennetzwerk ist bereit und die leere Kapsel ist auf dem Rückweg. Quest bestätigt, dass der vordere Hebel immer noch von einer hinteren Sicherung gehalten wird. Das Erzwingen des Handles würde den falschen Teil zerstören, bevor das Archiv einen Rückpfad hat.\n\nQuest: „Wir brauchen den Riegel hinter dieser Platte. Drücken Sie den Hebel nicht mit Gewalt.“",
+        "Der Quiver bemerkt eine Vibration, die nicht zum schweren Kamm passt. Hush deckt das Wartungszeichen daneben auf. Die Bereitschaftsrelais bewegen den alten Signalmechanismus unter den Boden und geben einen echten Wartungsdurchgang in Richtung des hinteren Riegels frei.\n\nQuiver: „Dieser Rhythmus ist anders. Er geht hinter den Hebel.“",
+        "Null drückt stärker gegen die Endstufe. Quest schützt die Walzen, anstatt den Bösewicht durch den Raum zu jagen. Der Schutz hält immer noch, aber mehr Kraft auf den Mechanismus verringert den Spielraum.\n\nNull: „Du würdest jeden Schmerz behalten.“\nQuest: „Wir behalten ihre Entscheidungen.“",
+        "Quiver betritt den hinteren Servicegang, während Hush die Linie stabil hält. Der Raum ist eng, aber für Wartungsarbeiter ihrer Größe ausgelegt. Quiver bleibt ängstlich und geht trotzdem vorsichtig vor.\n\nQuiver [Anzugradio]: „Ich habe Angst. Halten Sie die Linie dort, wo ich sie spüren kann.“",
+        "Flare löst den Spindelkranz, während Pop auf das Freigabesignal wartet. Der Entnahmeschlitten ist bereits montiert. Diese Unterbrechung muss die Befehlshardware von der Maschine trennen, ohne dass ein einziges gespeichertes Echo auftritt.\n\nFlare: „Halsband frei. Warten Sie, bis drei Lichter vor der Stecknadel aufleuchten.“",
+        "Quiver gibt die hintere Verriegelung frei. Der Vex verriegelt den vorderen Bypass und stellt fest, dass ein vollständiger Zug das Serviceabzeichen in den Backen abschneidet. Das Behalten dieses Zugangs-Tokens ist weniger wichtig als das Öffnen der Rückgabe, aber der Hebel muss noch auf die Koordination warten.\n\nVex: „Es kann das Abzeichen behalten. Sag mir, wann ich ziehen soll.“",
+        "Hush antwortet dem Bodenteam mit zwei Lichtern: Auch der Crown-Mechanismus ist bereit. Quest bestätigt, dass die ursprüngliche Kapsel an ihren Liegeplatz zurückgekehrt ist. Beide Enden sind vorbereitet und alle warten auf das Drei-Licht-Freigabesignal des Nova.\n\nQuest: „Zwei hier, zwei unten. Warte auf drei.“"
+      ],
+      "title": "Die Türangst gefunden"
+    },
+    "en": {
+      "captions": [
+        "The ground network is ready, and the empty pod is on its way back. Quest confirms that the front lever is still held by a rear safety catch. Forcing the handle would break the wrong part before the archive has a return path.\n\nQuest: “We need the catch behind this plate. Do not force the lever.”",
+        "Quiver notices a vibration that does not match the heavy comb. Hush uncovers the maintenance mark beside it. The ready relays are moving the old signal mechanism below the floor, revealing a real service passage toward the rear catch.\n\nQuiver: “This rhythm is different. It goes behind the lever.”",
+        "Null presses harder against the final stage. Quest protects the reels rather than chasing the villain across the room. The guard is still holding, but more force on the mechanism makes the margin smaller.\n\nNull: “You would keep every hurt.”\nQuest: “We are keeping their choices.”",
+        "Quiver enters the rear service passage while Hush keeps the line steady. The space is narrow but built for maintenance workers of their size. Quiver remains afraid and goes carefully anyway.\n\nQuiver [suit radio]: “I am scared. Keep the line where I can feel it.”",
+        "Flare loosens the spindle collar while Pop waits for the release signal. The removal cradle is already in place. This break must separate the command hardware from the machine without striking a single stored echo.\n\nFlare: “Collar free. Wait for three lights before the pin.”",
+        "Quiver releases the rear catch. Vex keys the front bypass and sees that a full pull will shear the service badge inside the jaws. Keeping that access token matters less than opening the return, but the lever must still wait for coordination.\n\nVex: “It can keep the badge. Tell me when to pull.”",
+        "Hush answers the ground team with two lights: the Crown mechanism is ready too. Quest confirms the original pod has returned to its berth. Both ends are prepared, and everyone waits for Nova’s three-light release signal.\n\nQuest: “Two here, two below. Wait for three.”"
+      ],
+      "title": "The Door Fear Found"
+    },
+    "es": {
+      "captions": [
+        "La red terrestre está lista y la cápsula vacía está de regreso. Quest confirma que la palanca delantera todavía está sujeta por un pestillo de seguridad trasero. Forzar el identificador rompería la parte equivocada antes de que el archivo tenga una ruta de retorno.\n\nQuest: \"Necesitamos el pestillo detrás de esta placa. No fuerces la palanca\".",
+        "Quiver nota una vibración que no coincide con el pesado peine. Hush descubre la marca de mantenimiento al lado. Los relés listos mueven el antiguo mecanismo de señales debajo del piso, revelando un verdadero pasaje de servicio hacia el pestillo trasero.\n\nQuiver: \"Este ritmo es diferente. Va detrás de la palanca\".",
+        "Null aprieta con más fuerza en el tramo final. Quest protege los carretes en lugar de perseguir al villano por la habitación. El protector todavía se mantiene firme, pero más fuerza sobre el mecanismo hace que el margen sea menor.\n\nNull: “Guardarías cada herida”.\nQuest: “Mantenemos sus opciones”.",
+        "Quiver ingresa al pasaje de servicio trasero mientras Hush mantiene la línea estable. El espacio es estrecho pero está diseñado para trabajadores de mantenimiento de su tamaño. Quiver sigue teniendo miedo y de todos modos va con cuidado.\n\nQuiver [radio del traje]: \"Tengo miedo. Mantén la línea donde pueda sentirla\".",
+        "Flare afloja el collar del husillo mientras Pop espera la señal de liberación. El soporte de extracción ya está colocado. Esta ruptura debe separar el hardware de comando de la máquina sin generar un solo eco almacenado.\n\nFlare: \"Sin collar. Espere tres luces antes del pin\".",
+        "Quiver suelta el pestillo trasero. Vex manipula el bypass frontal y ve que un tirón completo cortará la insignia de servicio dentro de las mandíbulas. Mantener ese token de acceso importa menos que abrir la devolución, pero la palanca aún debe esperar la coordinación.\n\nVex: \"Puede conservar la insignia. Dime cuándo tirar\".",
+        "Hush responde al equipo de tierra con dos luces: el mecanismo Crown también está listo. Quest confirma que la cápsula original ha regresado a su lugar de atraque. Ambos extremos están preparados y todos esperan la señal de liberación de tres luces del Nova.\n\nQuest: \"Dos aquí, dos abajo. Espera tres\"."
+      ],
+      "title": "La puerta encontrada por el miedo"
+    },
+    "fr": {
+      "captions": [
+        "Le réseau terrestre est prêt et le pod vide est sur le chemin du retour. Quest confirme que le levier avant est toujours retenu par un verrou de sécurité arrière. Forcer le handle casserait la mauvaise partie avant que l'archive n'ait un chemin de retour.\n\nQuest : \"Nous avons besoin du loquet derrière cette plaque. Ne forcez pas sur le levier.\"",
+        "Le Quiver remarque une vibration qui ne correspond pas au peigne lourd. Hush découvre la marque de maintenance à côté. Les relais prêts déplacent l'ancien mécanisme de signalisation sous le plancher, révélant un véritable passage de service vers le loquet arrière.\n\nQuiver : \"Ce rythme est différent. Il passe derrière le levier.\"",
+        "Null appuie plus fort contre la dernière étape. Quest protège les rouleaux plutôt que de poursuivre le méchant à travers la pièce. La protection tient toujours, mais une plus grande force sur le mécanisme réduit la marge.\n\nNull : « Vous garderiez chaque blessure. »\nQuest : « Nous conservons leurs choix. »",
+        "Le Quiver entre dans le passage de service arrière tandis que le Hush maintient la ligne stable. L'espace est étroit mais construit pour les ouvriers d'entretien de leur taille. Quiver reste effrayé et avance quand même prudemment.\n\nQuiver [radio de combinaison] : \"J'ai peur. Gardez la ligne là où je peux la sentir.\"",
+        "Le Flare desserre le collier de broche tandis que le Pop attend le signal de déverrouillage. Le berceau de déménagement est déjà en place. Cette coupure doit séparer le matériel de commande de la machine sans heurter un seul écho stocké.\n\nFlare : \"Col libre. Attendez trois lumières avant l'épingle.\"",
+        "Le Quiver libère le loquet arrière. Le Vex actionne le bypass avant et constate qu'une traction complète coupera le badge de service à l'intérieur des mâchoires. Conserver ce jeton d’accès compte moins que d’ouvrir le retour, mais le levier doit encore attendre la coordination.\n\nVex : \"Il peut conserver le badge. Dites-moi quand tirer.\"",
+        "Hush répond à l'équipe au sol avec deux lumières : le mécanisme Crown est également prêt. Quest confirme que le pod d'origine est revenu à son poste d'amarrage. Les deux extrémités sont préparées et tout le monde attend le signal de déclenchement à trois lumières du Nova.\n\nQuest : \"Deux ici, deux en bas. Attendez trois.\""
+      ],
+      "title": "La peur de la porte trouvée"
+    },
+    "hi": {
+      "captions": [
+        "ग्राउंड नेटवर्क तैयार है, और खाली पॉड वापस आ रहा है। Quest पुष्टि करता है कि फ्रंट लीवर अभी भी रियर सेफ्टी कैच द्वारा पकड़ा हुआ है। संग्रह में वापसी पथ आने से पहले हैंडल को जबरदस्ती दबाने से गलत हिस्सा टूट जाएगा।\n\nQuest: \"हमें इस प्लेट के पीछे कैच की जरूरत है। लीवर पर जोर न डालें।\"",
+        "Quiver एक कंपन नोटिस करता है जो भारी कंघी से मेल नहीं खाता है। Hush इसके बगल में रखरखाव चिह्न को उजागर करता है। तैयार रिले पुराने सिग्नल तंत्र को फर्श के नीचे ले जा रहे हैं, जिससे रियर कैच की ओर एक वास्तविक सेवा मार्ग का पता चलता है।\n\nQuiver: \"यह लय अलग है। यह लीवर के पीछे जाती है।\"",
+        "Null अंतिम चरण के विरुद्ध अधिक जोर लगाता है। Quest पूरे कमरे में खलनायक का पीछा करने के बजाय रीलों की सुरक्षा करता है। गार्ड अभी भी पकड़ में है, लेकिन तंत्र पर अधिक बल मार्जिन को छोटा कर देता है।\n\nNull: \"आप हर चोट सह लेंगे।\"\nQuest: \"हम उनकी पसंद रख रहे हैं।\"",
+        "Quiver पीछे के सर्विस मार्ग में प्रवेश करता है जबकि Hush लाइन को स्थिर रखता है। स्थान संकीर्ण है लेकिन उनके आकार के रखरखाव श्रमिकों के लिए बनाया गया है। Quiver डरा हुआ रहता है और वैसे भी सावधानी से चलता है।\n\nQuiver [सूट रेडियो]: \"मुझे डर लग रहा है। लाइन वहीं रखें जहां मैं इसे महसूस कर सकूं।\"",
+        "Flare स्पिंडल कॉलर को ढीला करता है जबकि Pop रिलीज़ सिग्नल की प्रतीक्षा करता है। निष्कासन पालना पहले से ही मौजूद है। इस ब्रेक को एक भी संग्रहीत प्रतिध्वनि को प्रभावित किए बिना कमांड हार्डवेयर को मशीन से अलग करना होगा।\n\nFlare: \"कॉलर मुक्त। पिन से पहले तीन लाइटों की प्रतीक्षा करें।\"",
+        "Quiver पिछला कैच जारी करता है। Vex कुंजी को सामने से बायपास करता है और देखता है कि एक पूर्ण खिंचाव जबड़े के अंदर सर्विस बैज को काट देगा। उस एक्सेस टोकन को रखना रिटर्न खोलने से कम मायने रखता है, लेकिन लीवर को समन्वय के लिए अभी भी इंतजार करना होगा।\n\nVex: \"यह बैज रख सकता है। मुझे बताएं कि कब खींचना है।\"",
+        "Hush दो लाइटों के साथ ग्राउंड टीम को जवाब देता है: Crown तंत्र भी तैयार है। Quest पुष्टि करता है कि मूल पॉड अपनी बर्थ पर वापस आ गया है। दोनों सिरे तैयार हैं, और हर कोई Nova के तीन-प्रकाश रिलीज सिग्नल का इंतजार कर रहा है।\n\nQuest: \"दो यहाँ, दो नीचे। तीन की प्रतीक्षा करें।\""
+      ],
+      "title": "डर का दरवाज़ा मिला"
+    },
+    "id": {
+      "captions": [
+        "Jaringan ground sudah siap, dan pod kosong sedang dalam perjalanan kembali. Quest menegaskan tuas depan masih tertahan oleh kait pengaman belakang. Memaksa pegangan akan merusak bagian yang salah sebelum arsip memiliki jalur kembali.\n\nQuest: \"Kita perlu pengait di belakang pelat ini. Jangan paksa tuasnya.\"",
+        "Quiver merasakan getaran yang tidak sesuai dengan sisir yang berat. Hush mengungkap tanda pemeliharaan di sampingnya. Relai yang siap menggerakkan mekanisme sinyal lama di bawah lantai, memperlihatkan jalur servis nyata menuju tangkapan belakang.\n\nQuiver: \"Irama ini berbeda. Ia berada di belakang tuas.\"",
+        "Null menekan lebih keras pada tahap akhir. Quest melindungi gulungan daripada mengejar penjahat di seberang ruangan. Pertahanannya masih bertahan, namun kekuatan yang lebih besar pada mekanisme membuat marginnya lebih kecil.\n\nNull: “Kamu akan menyimpan setiap luka.”\nQuest: “Kami menjaga pilihan mereka.”",
+        "Quiver memasuki jalur servis belakang sementara Hush menjaga jalur tetap stabil. Ruangannya sempit tapi dibangun untuk pekerja pemeliharaan sebesar mereka. Quiver tetap takut dan tetap berjalan hati-hati.\n\nQuiver [suit radio]: \"Saya takut. Pertahankan garis di tempat yang bisa saya rasakan.\"",
+        "Flare mengendurkan kerah spindel sementara Pop menunggu sinyal pelepasan. Tempat pelepasan sudah terpasang. Istirahat ini harus memisahkan perangkat keras perintah dari mesin tanpa menimbulkan satu pun gema yang tersimpan.\n\nFlare: \"Bebas kerah. Tunggu tiga lampu sebelum pin.\"",
+        "Quiver melepaskan penahan belakang. Vex mengunci bypass depan dan melihat bahwa tarikan penuh akan menghilangkan lencana servis di dalam rahangnya. Mempertahankan token akses tersebut kurang penting dibandingkan membuka kembalinya, namun tuasnya masih harus menunggu koordinasi.\n\nVex: \"Ini dapat menyimpan lencana. Beri tahu saya kapan harus menariknya.\"",
+        "Hush menjawab tim darat dengan dua lampu: mekanisme Crown juga siap. Quest mengonfirmasi pod asli telah kembali ke tempatnya. Kedua ujungnya telah disiapkan, dan semua orang menunggu sinyal pelepasan tiga cahaya Nova.\n\nQuest: \"Dua di sini, dua di bawah. Tunggu tiga.\""
+      ],
+      "title": "Ketakutan Pintu Ditemukan"
+    },
+    "it": {
+      "captions": [
+        "La rete di terra è pronta e la capsula vuota sta tornando. Quest conferma che la leva anteriore è ancora trattenuta da un fermo di sicurezza posteriore. Forzare l'handle romperebbe la parte sbagliata prima che l'archivio abbia un percorso di ritorno.\n\nQuest: \"Abbiamo bisogno del fermo dietro questa piastra. Non forzare la leva.\"",
+        "Quiver nota una vibrazione che non corrisponde al pettine pesante. Hush scopre il segno di manutenzione accanto ad esso. I relè di pronto stanno spostando il vecchio meccanismo di segnalazione sotto il pavimento, rivelando un vero e proprio passaggio di servizio verso il fermo posteriore.\n\nQuiver: \"Questo ritmo è diverso. Va dietro la leva.\"",
+        "Null preme di più nella fase finale. Quest protegge i rulli invece di inseguire il cattivo attraverso la stanza. La guardia continua a resistere, ma una maggiore forza sul meccanismo riduce il margine.\n\nNull: \"Manterresti ogni ferita.\"\nQuest: “Manteniamo le loro scelte”.",
+        "Quiver entra nel passaggio di servizio posteriore mentre Hush mantiene la linea stabile. Lo spazio è stretto ma costruito per addetti alla manutenzione della loro taglia. Quiver resta impaurito e procede comunque con cautela.\n\nQuiver [radio in tuta]: \"Ho paura. Mantieni la linea dove posso sentirla. \"",
+        "Flare allenta il collare del mandrino mentre Pop attende il segnale di rilascio. Il supporto per la rimozione è già installato. Questa interruzione deve separare l'hardware di comando dalla macchina senza colpire un solo eco memorizzato.\n\nFlare: \"Colletto libero. Attendi tre luci prima della spilla.\"",
+        "Quiver rilascia il fermo posteriore. Vex digita il bypass anteriore e vede che una trazione completa taglierà il badge di servizio all'interno delle mascelle. Conservare quel token di accesso conta meno che aprire la restituzione, ma la leva deve comunque attendere il coordinamento.\n\nVex: \"Può tenere il badge. Dimmi quando tirare.\"",
+        "Hush risponde alla squadra di terra con due luci: anche il meccanismo Crown è pronto. Quest conferma che la capsula originale è tornata al suo ormeggio. Entrambe le estremità sono preparate e tutti aspettano il segnale di rilascio delle tre luci dello Nova.\n\nQuest: \"Due qui, due sotto. Aspetta il tre.\""
+      ],
+      "title": "La paura della porta trovata"
+    },
+    "ja": {
+      "captions": [
+        "地上ネットワークの準備が整い、空のポッドが帰還中です。 Quest は、前部のレバーが後部の安全キャッチによって保持されていることを確認します。ハンドルを強制的に操作すると、アーカイブにリターン パスができる前に間違った部分が壊れてしまいます。\n\nQuest: 「このプレートの後ろにキャッチが必要です。レバーを無理に操作しないでください。」",
+        "Quiverは重い櫛に似合わない振動に気づきます。 Hush の横にメンテナンスマークが表示されます。準備ができたリレーは古い信号機構を床の下に移動し、リアキャッチに向かう実際のサービス通路を明らかにします。\n\nQuiver: 「このリズムは違います。レバーの後ろに進みます。」",
+        "終盤はNullがさらに追い込む。 Quest は、部屋中の悪者を追いかけるのではなく、リールを保護します。ガードはまだ保持していますが、機構にさらに力がかかるとマージンが小さくなります。\n\nNull: 「あなたはどんな傷も負わないでしょう。」\nQuest: 「私たちは彼らの選択を守ります。」",
+        "Quiver は後部サービス通路に入り、Hush はラインを安定させます。スペースは狭いですが、自分のサイズのメンテナンス作業員のために作られています。 Quiver は怖がりのままで、とにかく慎重に進みます。\n\nQuiver [スーツ無線]: 「怖いです。感じるところから離れてください。」",
+        "Flare はスピンドルカラーを緩め、Pop はリリース信号を待ちます。取り外しクレードルはすでに設置されています。このブレークは、保存された単一のエコーを発生させることなく、コマンド ハードウェアをマシンから分離する必要があります。\n\nFlare: 「首輪は自由です。ピンの手前で 3 つ点灯するまで待ちます。」",
+        "Quiverはリアキャッチを解除します。 Vex はフロント バイパスのキーを押し、完全に引くとジョーの内側のサービス バッジが切断されることを確認します。アクセス トークンを保持することは、リターンを開くことほど重要ではありませんが、それでもレバーは調整を待つ必要があります。\n\nVex: 「バッジを保持できます。いつ引くかを教えてください。」",
+        "Hush は 2 つのライトで地上チームに答えます。Crown メカニズムも準備ができています。 Quest は、元のポッドが停泊地に戻ったことを確認します。両端の準備が整い、全員がNovaの3灯解除信号を待ちます。\n\nQuest: 「ここに 2 つ、下に 2 つ。3 つ待ちます。」"
+      ],
+      "title": "ドアの恐怖が見つかりました"
+    },
+    "ko": {
+      "captions": [
+        "지상 네트워크가 준비되었으며, 빈 포드가 돌아오는 중입니다. Quest는 전면 레버가 여전히 후면 안전 장치에 의해 고정되어 있음을 확인합니다. 핸들을 강제로 적용하면 아카이브에 반환 경로가 생기기 전에 잘못된 부분이 손상됩니다.\n\nQuest: \"이 판 뒤에 걸쇠가 필요합니다. 레버에 힘을 가하지 마세요.\"",
+        "Quiver는 무거운 빗과 어울리지 않는 진동을 감지합니다. Hush 옆에 유지 관리 표시가 표시되어 있습니다. 준비된 릴레이는 기존 신호 메커니즘을 바닥 아래로 이동시켜 후면 캐치 쪽으로 실제 서비스 통로를 드러냅니다.\n\nQuiver: \"이 리듬은 다릅니다. 레버 뒤에 갑니다.\"",
+        "Null는 마지막 스테이지를 향해 더 세게 압박합니다. Quest는 방을 가로질러 악당을 쫓는 대신 릴을 보호합니다. 가드는 여전히 고정되어 있지만 메커니즘에 더 많은 힘을 가하면 여백이 작아집니다.\n\nNull: \"당신은 모든 상처를 간직할 것입니다.\"\nQuest: “우리는 그들의 선택을 지키고 있습니다.”",
+        "Quiver는 후방 서비스 통로로 들어가고 Hush는 라인을 안정적으로 유지합니다. 공간은 좁지만 같은 규모의 유지보수 작업자를 위해 만들어졌습니다. Quiver는 여전히 두려워하며 조심스럽게 움직입니다.\n\nQuiver [슈트 무전기]: \"무서워요. 느낄 수 있는 곳에 줄을 서세요.\"",
+        "Flare는 스핀들 칼라를 느슨하게 하고 Pop는 해제 신호를 기다립니다. 제거 크래들이 이미 제자리에 있습니다. 이 중단은 저장된 단일 에코를 발생시키지 않고 기계에서 명령 하드웨어를 분리해야 합니다.\n\nFlare: \"칼라 프리. 핀 앞에 조명 세 개가 나올 때까지 기다리세요.\"",
+        "Quiver는 후면 캐치를 해제합니다. Vex는 전면 우회 키를 누르고 완전히 당기면 조 내부의 서비스 배지가 찢어지는 것을 확인합니다. 해당 액세스 토큰을 유지하는 것은 반환을 여는 것보다 중요하지 않지만 레버는 여전히 조정을 기다려야 합니다.\n\nVex: \"배지를 보관할 수 있습니다. 언제 꺼내야 하는지 알려주세요.\"",
+        "Hush는 두 개의 조명으로 지상 팀에 응답합니다. Crown 메커니즘도 준비되었습니다. Quest는 원래 포드가 정박지로 돌아왔음을 확인합니다. 양쪽 끝이 준비되고 모두가 Nova의 3등 해제 신호를 기다립니다.\n\nQuest: \"여기에 2개, 아래에 2개. 3개를 기다리세요.\""
+      ],
+      "title": "문 공포 발견"
+    },
+    "pl": {
+      "captions": [
+        "Sieć naziemna jest gotowa, a pusta kapsuła jest w drodze powrotnej. Quest potwierdza, że ​​przednia dźwignia jest nadal przytrzymywana przez tylny zatrzask zabezpieczający. Wymuszenie uchwytu spowodowałoby uszkodzenie niewłaściwej części, zanim archiwum otrzyma ścieżkę powrotną.\n\nQuest: \"Potrzebujemy zaczepu za tą płytką. Nie naciskaj dźwigni. \"",
+        "Quiver zauważa wibracje, które nie pasują do ciężkiego grzebienia. Hush odkrywa obok siebie znak konserwacji. Gotowe przekaźniki przesuwają stary mechanizm sygnalizacyjny pod podłogę, odsłaniając prawdziwe przejście serwisowe w stronę tylnego zaczepu.\n\nQuiver: \"Ten rytm jest inny. To idzie za dźwignią.\"",
+        "Null mocniej naciska na ostatni etap. Quest chroni bębny, zamiast gonić złoczyńcę po pokoju. Osłona nadal się trzyma, ale większa siła działająca na mechanizm powoduje zmniejszenie marginesu.\n\nNull: „Zatrzymałbyś każdy ból”.\nQuest: „Podtrzymujemy ich wybory”.",
+        "Quiver wchodzi do tylnego przejścia serwisowego, podczas gdy Hush utrzymuje stabilną linię. Przestrzeń jest wąska, ale zbudowana dla pracowników utrzymania ruchu tej samej wielkości. Quiver nadal się boi i mimo to postępuje ostrożnie.\n\nQuiver [radio garniturowe]: \"Boję się. Trzymaj linię tam, gdzie ją czuję.\"",
+        "Flare rozluźnia kołnierz wrzeciona, natomiast Pop czeka na sygnał zwolnienia. Kołyska do wyjmowania jest już na swoim miejscu. Ta przerwa musi oddzielić sprzęt dowodzenia od maszyny, nie uderzając w ani jedno zapisane echo.\n\nFlare: \"Obroża wolna. Poczekaj, aż trzy światła przed szpilką. \"",
+        "Quiver zwalnia tylny zaczep. Vex naciska przedni obejście i widzi, że pełne pociągnięcie spowoduje przecięcie plakietki serwisowej wewnątrz szczęk. Utrzymanie tego tokena dostępu ma mniejsze znaczenie niż otwarcie powrotu, ale dźwignia nadal musi poczekać na koordynację.\n\nVex: \"Może zatrzymać plakietkę. Powiedz mi, kiedy ciągnąć.\"",
+        "Hush odpowiada zespołowi naziemnemu dwoma światłami: mechanizm Crown również jest gotowy. Quest potwierdza, że ​​oryginalna kapsuła wróciła na swoje miejsce. Obydwa końce są przygotowane i wszyscy czekają na trzylampkowy sygnał zwolnienia Nova.\n\nQuest: \"Dwa tutaj, dwa poniżej. Poczekaj na trzy.\""
+      ],
+      "title": "Znaleziono strach przed drzwiami"
+    },
+    "pt": {
+      "captions": [
+        "A rede terrestre está pronta e o casulo vazio está voltando. Quest confirma que a alavanca dianteira ainda está presa por uma trava de segurança traseira. Forçar o identificador quebraria a parte errada antes que o arquivo tivesse um caminho de retorno.\n\nQuest: \"Precisamos da trava atrás desta placa. Não force a alavanca.\"",
+        "Quiver percebe uma vibração que não combina com o pente pesado. Hush revela a marca de manutenção ao lado. Os relés prontos estão movendo o antigo mecanismo de sinalização abaixo do piso, revelando uma verdadeira passagem de serviço em direção à trava traseira.\n\nQuiver: \"Esse ritmo é diferente. Vai atrás da alavanca.\"",
+        "Null pressiona com mais força o estágio final. Quest protege os rolos em vez de perseguir o vilão pela sala. A proteção ainda está segurando, mas mais força no mecanismo diminui a margem.\n\nNull: “Você ficaria com todas as mágoas.”\nQuest: “Estamos mantendo suas escolhas.”",
+        "Quiver entra na passagem de serviço traseira enquanto Hush mantém a linha estável. O espaço é estreito, mas construído para trabalhadores de manutenção do seu porte. Quiver continua com medo e segue com cuidado mesmo assim.\n\nQuiver [rádio de terno]: \"Estou com medo. Mantenha a linha onde eu possa sentir.\"",
+        "Flare afrouxa o colar do fuso enquanto Pop aguarda o sinal de liberação. O berço de remoção já está instalado. Esta quebra deve separar o hardware de comando da máquina sem atingir um único eco armazenado.\n\nFlare: \"Colar livre. Espere três luzes antes do alfinete.\"",
+        "Quiver libera a trava traseira. Vex chaveia o bypass frontal e vê que uma puxada completa cortará o crachá de serviço dentro das mandíbulas. Manter esse token de acesso é menos importante do que abrir o retorno, mas a alavanca ainda deve aguardar a coordenação.\n\nVex: \"Ele pode manter o distintivo. Diga-me quando puxar.\"",
+        "Hush responde à equipe de solo com duas luzes: o mecanismo Crown também está pronto. Quest confirma que o pod original retornou ao seu cais. Ambas as extremidades estão preparadas e todos aguardam o sinal de liberação de três luzes do Nova.\n\nQuest: \"Dois aqui, dois abaixo. Espere por três.\""
+      ],
+      "title": "O medo da porta encontrado"
+    },
+    "ru": {
+      "captions": [
+        "Наземная сеть готова, и пустая капсула возвращается обратно. Quest подтверждает, что передний рычаг все еще удерживается задним предохранителем. Принудительное использование дескриптора приведет к поломке не той части, прежде чем у архива появится обратный путь.\n\nQuest: \"Нам нужен фиксатор за этой пластиной. Не давите на рычаг.\"",
+        "Quiver замечает вибрацию, не соответствующую тяжелой гребенке. Hush обнаруживает рядом с собой знак обслуживания. Готовые реле перемещают старый сигнальный механизм под пол, открывая настоящий служебный проход к задней защелке.\n\nQuiver: \"Этот ритм другой. Он идет за рычагом\".",
+        "Null сильнее прессингует на заключительном этапе. Quest защищает барабаны, а не гонится за злодеем по комнате. Предохранитель все еще держится, но большее усилие на механизме уменьшает запас.\n\nNull: «Ты сохранишь все обиды».\nQuest: «Мы сохраняем их выбор».",
+        "Quiver входит в задний служебный проход, а Hush удерживает линию на месте. Помещение узкое, но создано для обслуживающего персонала их роста. Quiver по-прежнему боится и все равно идет осторожно.\n\nQuiver [радиостанция костюма]: \"Мне страшно. Держите линию так, чтобы я мог это почувствовать\".",
+        "Flare ослабляет буртик шпинделя, пока Pop ожидает сигнала освобождения. Подставка для снятия уже установлена. Этот разрыв должен отделить командное оборудование от машины, не вызывая ни единого сохраненного эха.\n\nFlare: \"Ошейник свободен. Подождите, пока три светофора перед булавкой\".",
+        "Quiver освобождает заднюю защелку. Vex включает передний байпас и видит, что полное нажатие приведет к срезанию сервисного значка внутри зажимов. Сохранение этого токена доступа имеет меньшее значение, чем открытие возврата, но рычаг все равно должен ждать координации.\n\nVex: \"Он может сохранить значок. Скажи мне, когда потянуть\".",
+        "Hush отвечает наземной команде двумя огнями: механизм Crown тоже готов. Quest подтверждает, что исходная капсула вернулась на свое место. Оба конца готовы, и все ждут трехсветового сигнала Nova.\n\nQuest: \"Двое здесь, двое внизу. Подождите три.\""
+      ],
+      "title": "Дверь страха найдена"
+    },
+    "tr": {
+      "captions": [
+        "Kara ağı hazır ve boş kapsül geri dönüş yolunda. Quest, ön kolun hala arka emniyet mandalı tarafından tutulduğunu doğrular. Tutamağı zorlamak, arşivin dönüş yoluna sahip olmadan yanlış parçanın kırılmasına neden olur.\n\nQuest: \"Bu plakanın arkasındaki mandala ihtiyacımız var. Kolu zorlamayın.\"",
+        "Quiver, ağır tarakla eşleşmeyen bir titreşim fark ediyor. Hush, yanındaki bakım işaretini ortaya çıkarır. Hazır röleler eski sinyal mekanizmasını zeminin altına hareket ettirerek arka tutucuya doğru gerçek bir servis geçişini ortaya çıkarıyor.\n\nQuiver: \"Bu ritim farklı. Kolun arkasına gidiyor.\"",
+        "Null son aşamada daha sıkı baskı yapıyor. Quest, kötü adamı odanın diğer ucunda kovalamak yerine makaraları korur. Koruma hâlâ tutuyor ama mekanizmaya uygulanan daha fazla kuvvet marjı küçültüyor.\n\nNull: \"Her acıyı sen saklayacaksın.\"\nQuest: “Onların tercihlerini koruyoruz.”",
+        "Quiver arka servis geçişine girerken Hush hattı sabit tutar. Alan dardır ancak bu büyüklükteki bakım çalışanları için inşa edilmiştir. Quiver hâlâ korkuyor ve yine de dikkatli gidiyor.\n\nQuiver [elbise radyosu]: \"Korkuyorum. Çizgiyi hissedebileceğim bir yerde tutun.\"",
+        "Flare iş mili bileziğini gevşetirken Pop serbest bırakma sinyalini bekler. Çıkarma beşiği zaten yerinde. Bu kesinti, depolanan tek bir yankıya bile çarpmadan komut donanımını makineden ayırmalıdır.\n\nFlare: \"Yakasız. İğnenin önünde üç ışık bekleyin.\"",
+        "Quiver arka mandalı serbest bırakır. Vex ön bypass'ı anahtarlıyor ve tam çekmenin çenelerin içindeki servis rozetini keseceğini görüyor. Bu erişim jetonunu tutmak, dönüşü açmaktan daha az önemlidir, ancak kaldıracın yine de koordinasyonu beklemesi gerekir.\n\nVex: \"Rozeti koruyabilir. Bana ne zaman çekeceğimi söyle.\"",
+        "Hush yer ekibine iki ışıkla yanıt verir: Crown mekanizması da hazırdır. Quest, orijinal kapsülün yerine geri döndüğünü doğruladı. Her iki uç da hazırlandı ve herkes Nova'nin üç ışıklı serbest bırakma sinyalini bekliyor.\n\nQuest: \"İki burada, iki aşağıda. Üçü bekleyin.\""
+      ],
+      "title": "Kapı Korkusu Bulundu"
+    },
+    "vi": {
+      "captions": [
+        "Mạng mặt đất đã sẵn sàng và khoang trống đang trên đường quay trở lại. Quest xác nhận cần gạt phía trước vẫn được giữ bằng chốt an toàn phía sau. Việc buộc xử lý sẽ phá vỡ phần sai trước khi kho lưu trữ có đường dẫn quay lại.\n\nQuest: \"Chúng ta cần chốt phía sau tấm này. Đừng ép cần gạt.\"",
+        "Quiver nhận thấy độ rung không tương ứng với chiếc lược nặng. Hush để lộ dấu bảo trì bên cạnh. Các rơle sẵn sàng đang di chuyển cơ chế tín hiệu cũ xuống dưới sàn, để lộ một lối đi thực sự về phía chốt phía sau.\n\nQuiver: \"Nhịp điệu này khác. Nó đi sau cần gạt.\"",
+        "Null ép mạnh hơn vào giai đoạn cuối. Quest bảo vệ các cuộn phim thay vì đuổi theo kẻ ác khắp phòng. Bộ phận bảo vệ vẫn được giữ, nhưng lực tác dụng lên cơ cấu lớn hơn khiến lề nhỏ hơn.\n\nNull: “Bạn sẽ giữ mọi tổn thương.”\nQuest: “Chúng tôi đang giữ sự lựa chọn của họ.”",
+        "Quiver đi vào lối dịch vụ phía sau trong khi Hush giữ cho đường ổn định. Không gian hẹp nhưng được xây dựng dành cho những công nhân bảo trì tầm cỡ như họ. Quiver vẫn sợ hãi và đi cẩn thận.\n\nQuiver [bộ đàm phù hợp]: \"Tôi sợ. Hãy giữ nguyên hàng ở nơi tôi có thể cảm nhận được.\"",
+        "Flare nới lỏng vòng trục trục trong khi Pop chờ tín hiệu nhả. Giá đỡ tháo đã được đặt sẵn. Việc ngắt này phải tách phần cứng lệnh khỏi máy mà không gây ra một tiếng vang nào được lưu trữ.\n\nFlare: \"Không có cổ áo. Đợi ba đèn trước khi ghim.\"",
+        "Quiver nhả chốt sau. Vex khóa đường vòng phía trước và thấy rằng một cú kéo hoàn toàn sẽ cắt huy hiệu dịch vụ bên trong hàm. Việc giữ mã thông báo truy cập đó ít quan trọng hơn việc mở tiền lãi, nhưng cần gạt vẫn phải chờ phối hợp.\n\nVex: \"Nó có thể giữ huy hiệu. Hãy cho tôi biết khi nào nên kéo.\"",
+        "Hush trả lời đội mặt đất bằng hai đèn: cơ chế Crown cũng đã sẵn sàng. Quest xác nhận nhóm ban đầu đã quay trở lại bến của nó. Cả hai đầu đều đã được chuẩn bị sẵn sàng và mọi người đều chờ tín hiệu nhả ba đèn của Nova.\n\nQuest: \"Hai ở đây, hai ở dưới. Đợi ba.\""
+      ],
+      "title": "Cửa sợ hãi được tìm thấy"
+    },
+    "zh": {
+      "captions": [
+        "地面网络已准备就绪，空吊舱正在返回途中。 Quest 确认前杆仍由后安全锁扣住。强制句柄会在存档有返回路径之前破坏错误的部分。\n\nQuest：“我们需要这个板后面的锁扣。不要用力拉杠杆。”",
+        "Quiver 注意到与重梳子不匹配的振动。 Hush揭开旁边的维修标记。准备就绪的继电器正在将旧的信号装置移至地板下方，露出一条通往后门的真正服务通道。\n\nQuiver：“这个节奏不一样。它在杠杆后面。”",
+        "Null在最后阶段更加努力。 Quest 保护卷轴，而不是在房间里追赶恶棍。防护装置仍保持不动，但机构上的作用力越大，间隙就越小。\n\nNull：“你会保留所有的伤害。”\nQuest：“我们保留他们的选择。”",
+        "Quiver进入后服务通道，而Hush则保持线路稳定。空间虽然狭窄，但专为像他们这样身材的维修工人而建。 Quiver仍然害怕，但还是小心翼翼地走着。\n\nQuiver [西装收音机]：“我很害怕。把绳子放在我能感觉到的地方。”",
+        "Flare 松开主轴套，同时 Pop 等待释放信号。拆卸支架已就位。这种中断必须将命令硬件与机器分开，而不会产生任何存储的回声。\n\nFlare：“项圈空闲。等三盏灯亮后再扣针。”",
+        "Quiver 释放后卡扣。 Vex 按下前旁路键，看到完全拉动将剪断钳口内的服务徽章。保留访问令牌比打开退货更重要，但杠杆仍必须等待协调。\n\nVex：“它可以保留徽章。告诉我什么时候拉。”",
+        "Hush 用两个灯回应地面团队：Crown 机构也已准备就绪。 Quest 确认原来的吊舱已返回其泊位。两端都准备好了，大家等待Nova的三灯释放信号。\n\nQuest：“这里两个，下面两个。等三个。”"
+      ],
+      "title": "发现恐惧之门"
+    }
+  },
+  "number": 22,
+  "panels": [
+    {
+      "altText": "Quest checks the cloth copy against the actual front lever assembly, empty disk strap prominent. Vex points to the rear catch indicated behind its backplate.",
+      "bytes": 1841125,
+      "image": "N00E22P01.png",
+      "sha256": "24f20ebdec9a3feaf70424bf7333900f6cce389608bea519a04dc98b2081b739"
+    },
+    {
+      "altText": "Quiver places one mitten on a vibrating grate while watching the three brass chimes respond to its transmitted motion. Hush clears dust from a small open-hand maintenance pictogram on the grate’s frame.",
+      "bytes": 1742819,
+      "image": "N00E22P02.png",
+      "sha256": "28d026cbf4355c97e00ecd40d5468e53870e37f30ba3156b9d2d6632451a29ef"
+    },
+    {
+      "altText": "Null drives the master control downward inside the north command bay. The final open stage aperture narrows but retains a visible slit.",
+      "bytes": 1712860,
+      "image": "N00E22P03.png",
+      "sha256": "1d08854ef1d5bf1707f565cc83876812c6c9839e8c2c520ef9fd53ce39366feb"
+    },
+    {
+      "altText": "The hinged grate has been lifted and secured open. Quiver crawls through the accessible opening onto the passage’s solid bottom, tether clipped to a fixed rail.",
+      "bytes": 1739222,
+      "image": "N00E22P04.png",
+      "sha256": "a7cc919b0fc1d28de88e63cfa39e6c92dd6a6ff7d7112c72303429cc3b4de607"
+    },
+    {
+      "altText": "Flare warms only the rusted collar around the spindle’s retaining pin. Pop stands beside the pin with palms apart, waiting rather than clapping.",
+      "bytes": 1837933,
+      "image": "N00E22P05.png",
+      "sha256": "d1ef3df6efff6af4bf9d390b1fef66c1f95d424896e56cb6c066483e46100d0b"
+    },
+    {
+      "altText": "At the rear, Quiver holds the safety catch clear with one mitten, body supported inside the passage. At the front, Vex inserts the intact square badge fully into the old keyway and grips the lever without pulling it to the stop.",
+      "bytes": 1789003,
+      "image": "N00E22P06.png",
+      "sha256": "8ea09bf74307cceafa833fc12c9996e37bb0a420d688954ca09a72c3e7e2f6f1"
+    },
+    {
+      "altText": "Hush opens the left and right shutters only, sending two READY glints toward Manylight. Quest checks the incoming receiver, also showing two outer glints, then gives the armed lever team an open waiting hand.",
+      "bytes": 1705423,
+      "image": "N00E22P07.png",
+      "sha256": "5a3027cb6115664c1b218d6711d9cedef42a187293ad281df4c4ab94d2a6e01e"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "adventure",
+    "friendship",
+    "rescue",
+    "superhero"
+  ],
+  "version": 1
+}

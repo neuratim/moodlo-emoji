@@ -1,0 +1,274 @@
+{
+  "id": "N00E16",
+  "localizations": {
+    "ar": {
+      "captions": [
+        "يلاحظ Hush مصباح الفحص قبل أن يعبر الآخرون مساره. يتوقف Rain وQuiver خلف رصيف بحري حقيقي. إن التحرك بعناية عبر Crown ليس هدية تُمنح للشخصيات التي لا تحتوي على كلمات؛ إنها مهارة يشاركها Hush مع الفريق.\n\nHush [توقيع]: \"توقف. انتظر حتى يمر المصباح.\"",
+        "ضوء Crown الجميل مسروق من الأحياء. يقوم Bitter بتظليل Beam قبل أن يصل التوهج إلى جامع آخر. يجب على كل بكرة أن تنجو من عملية الإنقاذ، بما في ذلك تلك التي لم يلتق الفريق بمالكيها مطلقًا.\n\nBitter [همس]: \"الإضاءة الخافتة. هذه هي النسخ الأصلية، وليست الزخارف.\"",
+        "يؤدي مخطط القماش إلى باب وصول قديم أسفل القفل الأحدث لـ Null. يفتح المفتاح ذو الشكل Vex تلك الآلية المحلية بينما يظل المشبك العلوي مغلقًا. لقد حصلوا على مدخل واحد تم التحقق منه، وليس السيطرة على القلعة.\n\nQuest [همس]: \"المفصلة السفلية متطابقة. اترك المشبك العلوي بمفرده.\"",
+        "ومن شأن الاختراق الدراماتيكي أن يرسل أجزاء إلى الأرشيف. يشير Quest إلى المفصلة التي يمكن الوصول إليها، ويتوقف Flare وPop عن التحضير للهجوم. الإنقاذ أبطأ لأن سجلات الناس ليست مشهدًا مستهلكًا.\n\nQuest [همس]: \"البكرات خلف هذا الجدار. استخدم المفصلة.\"",
+        "هذه المرة ترى Rain Nova الحقيقية: استجابة مؤثرة، ووشاح مجعد، والمكان الفارغ الذي ينتمي إليه الدبوس. لا يزال نظام التقييد مغلقًا، والعائق النحاسي الصغير الموجود أسفله هو شيء لم تره Rain من قبل.\n\nRain [همس]: \"Nova؟ انظر نحو يدي.\"",
+        "يجيب Nova عن طريق تقسيم ضوء المصباح كما في المهرجان. تكشف Rain عن هدية Hope، والاعتراف متبادل. لقد وجدوا بعضهم البعض. لا يزال يتعين عليهم فتح الحزام بأمان.\n\nNova [همس]: \"لقد احتفظت بفكرة الجناح الرطب.\"\nRain [همس]: \"و Hope أرسل لك هذا.\"",
+        "يبدأ قسم فحص منطقة التحكم دورة الأمان العادية. يوقف Hush المجموعة ويحدد Quiver الممر الغربي القديم المحيط بها. Mend يضع علامة على هذا المسار بخط؛ لا أحد منهم يحاول رفع القسم الثقيل بالخيط.\n\nQuiver [همس]: \"يبقى الممر الغربي خارج الزجاج. يمكننا الالتفاف حوله.\""
+      ],
+      "title": "القصر ذو النافذة الواحدة"
+    },
+    "bn": {
+      "captions": [
+        "Hush অন্যরা তার পথ অতিক্রম করার আগে পরিদর্শন বাতিটি লক্ষ্য করে। Rain এবং Quiver একটি আসল পিয়ারের পিছনে থামে। Crown এর মাধ্যমে সাবধানে চলাফেরা করা শব্দহীন অক্ষরদের দেওয়া উপহার নয়; এটি একটি দক্ষতা Hush দলের সাথে শেয়ার করে।\n\nHush [স্বাক্ষর করা]: \"থামুন। প্রদীপ কেটে না যাওয়া পর্যন্ত অপেক্ষা করুন।\"",
+        "Crown এর সুন্দর আলো জীবিত মানুষের কাছ থেকে চুরি করা হয়েছে। Bitter আলো অন্য সংগ্রাহকের কাছে পৌঁছানোর আগে Beam শেড করে। প্রতিটি রিলকে উদ্ধার থেকে বাঁচতে হবে, যার মালিকদের দল কখনও দেখা করেনি।\n\nBitter [ফিসফিস করে]: \"কম আলো। এগুলো আসল, সাজসজ্জা নয়।\"",
+        "কাপড়ের চিত্রটি Null এর নতুন লকের নীচে একটি পুরানো অ্যাক্সেস দরজার দিকে নিয়ে যায়। Vex-এর আকৃতির কী উপরের ক্ল্যাম্পটি বন্ধ থাকা অবস্থায় স্থানীয় প্রক্রিয়াটিকে খোলে। তারা দুর্গের নিয়ন্ত্রণ নয়, একটি যাচাইকৃত দরজা লাভ করে।\n\nQuest [ফিসফিস করে]: \"নিম্ন কব্জা মেলে। উপরের ক্ল্যাম্পটি একা ছেড়ে দিন।\"",
+        "একটি নাটকীয় লঙ্ঘন সংরক্ষণাগার মধ্যে টুকরা পাঠাতে হবে. Quest অ্যাক্সেসযোগ্য কব্জাকে নির্দেশ করে এবং Flare এবং Pop আক্রমণের প্রস্তুতি বন্ধ করে দেয়। উদ্ধার কাজ ধীর কারণ মানুষের রেকর্ড ব্যয়যোগ্য দৃশ্য নয়।\n\nQuest [ফিসফিস করে]: \"রিলগুলি সেই দেয়ালের পিছনে। কবজা ব্যবহার করুন।\"",
+        "এবার Rain আসল Nova দেখতে পাচ্ছে: একটি চলমান প্রতিক্রিয়া, একটি ঝাঁঝালো স্কার্ফ এবং খালি জায়গা যেখানে পিনটি ছিল। সংযম এখনও বন্ধ আছে, এবং এর নীচে ছোট পিতলের বাধা এমন কিছু যা Rain আগে দেখেনি।\n\nRain [ফিসফিস করে]: \"Nova? আমার হাতের দিকে তাকান।\"",
+        "Nova উত্সবের মতো প্রদীপের আলোকে ভাগ করে উত্তর দেয়। Rain Hope এর উপহার প্রকাশ করে, এবং স্বীকৃতিটি পারস্পরিক। তারা একে অপরকে খুঁজে পেয়েছে; তাদের এখনও নিরাপদে জোতা খুলতে হবে।\n\nNova [ফিসফিস করে]: \"আপনি ভেজা উইং আইডিয়া রেখেছিলেন।\"\nRain [ফিসফিস করে]: \"এবং Hope আপনাকে এটি পাঠিয়েছে।\"",
+        "কন্ট্রোল বে এর পরিদর্শন পার্টিশন তার স্বাভাবিক নিরাপত্তা চক্র শুরু করে। Hush গ্রুপটিকে থামিয়ে দেয় এবং Quiver এর চারপাশে পুরানো পশ্চিম ওয়াকওয়ে চিহ্নিত করে। Mend সেই পথটিকে একটি লাইন দিয়ে চিহ্নিত করে; তাদের কেউই থ্রেড দিয়ে ভারী পার্টিশন তোলার চেষ্টা করে না।\n\nQuiver [ফিসফিস করে]: \"পশ্চিম ওয়াকওয়ে কাঁচের বাইরে থাকে। আমরা এটির চারপাশে যেতে পারি।\""
+      ],
+      "title": "এক জানালার সাথে প্রাসাদ"
+    },
+    "cs": {
+      "captions": [
+        "Hush si všimne kontrolní svítilny dříve, než jí ostatní zkříží cestu. Rain a Quiver zastavují za skutečným molem. Opatrné procházení Crown není darem uděleným postavám beze slov; je to dovednost, kterou Hush sdílí s týmem.\n\nHush [podpis]: \"Stop. Počkejte, dokud lampa neprojde.\"",
+        "Krásné světlo Crown je ukradeno živým lidem. Bitter odstíní Beam dříve, než záře dosáhne dalšího kolektoru. Záchranu musí přežít každý kotouč, včetně těch, jejichž majitele tým nikdy nepotkal.\n\nBitter [zašeptal]: \"Nízké světlo. Toto jsou originály, ne dekorace.\"",
+        "Schéma látky vede ke starším přístupovým dveřím pod novějším zámkem Null. Tvarovaný klíč Vex otevírá tento místní mechanismus, zatímco horní svorka zůstává zavřená. Získají jeden ověřený vchod, nikoli kontrolu nad pevností.\n\nQuest [zašeptal]: \"Spodní závěs se shoduje. Horní svorku nechte být.\"",
+        "Dramatický průlom by poslal fragmenty do archivu. Quest ukazuje na přístupný pant a Flare a Pop přestávají připravovat útok. Záchrana je pomalejší, protože záznamy lidí nejsou postradatelnou scenérií.\n\nQuest [zašeptal]: \"Cívky jsou za tou zdí. Použijte pant.\"",
+        "Tentokrát Rain vidí skutečný Nova: pohyblivou odezvu, zmuchlaný šátek a prázdné místo, kam špendlík patřil. Zábrana je stále zavřená a malá mosazná překážka pod ní je něco, co Rain ještě neviděl.\n\nRain [zašeptal]: \"Nova? Podívejte se na mou ruku.\"",
+        "Nova odpovídá dělením světla lampy jako na festivalu. Rain rozvíjí dar Hope a uznání je vzájemné. Našli se navzájem; ještě musí bezpečně otevřít postroj.\n\nNova [zašeptal]: \"Zachoval jsi myšlenku mokrého křídla.\"\nRain [zašeptal]: \"A Hope ti to poslal.\"",
+        "Inspekční oddíl řídicí jednotky zahájí svůj normální cyklus zabezpečení. Hush zastaví skupinu a Quiver identifikuje starý západní chodník kolem ní. Mend označí tuto trasu čárou; žádný z nich se nepokouší zvednout těžký oddíl nití.\n\nQuiver [zašeptal]: \"Západní chodník zůstává mimo sklo. Můžeme ho obejít.\""
+      ],
+      "title": "Palác s jedním oknem"
+    },
+    "de": {
+      "captions": [
+        "Hush bemerkt die Inspektionslampe, bevor die anderen seinen Weg kreuzen. Rain und Quiver halten hinter einem echten Pier. Sich vorsichtig durch den Crown zu bewegen, ist keine Gabe, die wortlosen Charakteren gewährt wird; Es ist eine Fähigkeit, die Hush mit dem Team teilt.\n\nHush [Signatur]: „Stopp. Warten Sie, bis die Lampe durchgeht.“",
+        "Das wunderschöne Licht des Crown wird lebenden Menschen gestohlen. Bitter schattiert Beam, bevor das Leuchten einen anderen Kollektor erreicht. Jede Rolle muss die Rettung überstehen, auch die, deren Besitzer das Team noch nie getroffen hat.\n\nBitter [flüsterte]: „Wenig Licht. Das sind die Originale, keine Dekorationen.“",
+        "Das Stoffdiagramm führt zu einer älteren Zugangstür unter dem neueren Schloss des Null. Der geformte Schlüssel des Vex öffnet diesen lokalen Mechanismus, während die obere Klemme geschlossen bleibt. Sie erhalten einen verifizierten Eingang, jedoch keine Kontrolle über die Festung.\n\nQuest [geflüstert]: „Das untere Scharnier passt. Lassen Sie die obere Klemme in Ruhe.“",
+        "Bei einem dramatischen Einbruch würden Fragmente in das Archiv gelangen. Quest weist auf das zugängliche Scharnier hin, und Flare und Pop bereiten keinen Angriff mehr vor. Die Rettung geht langsamer vonstatten, weil die Aufzeichnungen der Menschen keine entbehrliche Kulisse sind.\n\nQuest [flüsterte]: „Die Rollen sind hinter dieser Wand. Benutze das Scharnier.“",
+        "Dieses Mal sieht Rain den echten Nova: eine bewegende Reaktion, einen zerknitterten Schal und die leere Stelle, wo der Pin hingehörte. Die Rückhaltevorrichtung ist noch geschlossen und das kleine Messinghindernis darunter hat Rain noch nie gesehen.\n\nRain [flüsterte]: „Nova? Schauen Sie auf meine Hand.“",
+        "Nova antwortet mit der Aufteilung des Lampenlichts wie beim Festival. Rain entfaltet die Gabe von Hope und die Anerkennung beruht auf Gegenseitigkeit. Sie haben einander gefunden; Sie müssen den Gurt trotzdem sicher öffnen.\n\nNova [flüsterte]: „Du hast die Idee des Nassflügels beibehalten.“\nRain [flüsterte]: „Und Hope hat dir das geschickt.“",
+        "Der Inspektionsbereich des Kontrollbereichs beginnt mit seinem normalen Sicherheitszyklus. Hush stoppt die Gruppe und Quiver identifiziert den alten Westgang um sie herum. Mend markiert diese Route mit einer Linie; Keiner von ihnen versucht, die schwere Trennwand mit einem Faden anzuheben.\n\nQuiver [geflüstert]: „Der Westgang bleibt außerhalb der Glasscheibe. Wir können ihn umgehen.“"
+      ],
+      "title": "Der Palast mit einem Fenster"
+    },
+    "en": {
+      "captions": [
+        "Hush notices the inspection lamp before the others cross its path. Rain and Quiver stop behind a real pier. Moving carefully through the Crown is not a gift granted to wordless characters; it is a skill Hush shares with the team.\n\nHush [signing]: “Stop. Wait until the lamp passes.”",
+        "The Crown’s beautiful light is stolen from living people. Bitter shades Beam before the glow reaches another collector. Every reel has to survive the rescue, including the ones whose owners the team has never met.\n\nBitter [whispered]: “Low light. These are the originals, not decorations.”",
+        "The cloth diagram leads to an older access door below Null’s newer lock. Vex’s shaped key opens that local mechanism while the upper clamp stays shut. They gain one verified doorway, not control of the fortress.\n\nQuest [whispered]: “The lower hinge matches. Leave the upper clamp alone.”",
+        "A dramatic breach would send fragments into the archive. Quest points out the accessible hinge, and Flare and Pop stop preparing an attack. The rescue is slower because the people’s records are not expendable scenery.\n\nQuest [whispered]: “The reels are behind that wall. Use the hinge.”",
+        "This time Rain sees the real Nova: a moving response, a rumpled scarf and the empty place where the pin belonged. The restraint is still closed, and the small brass obstruction beneath it is something Rain has not seen before.\n\nRain [whispered]: “Nova? Look toward my hand.”",
+        "Nova answers by dividing the lamp light as at the festival. Rain unfolds Hope’s gift, and the recognition is mutual. They have found each other; they still have to open the harness safely.\n\nNova [whispered]: “You kept the wet-wing idea.”\nRain [whispered]: “And Hope sent you this.”",
+        "The control bay’s inspection partition begins its normal security cycle. Hush stops the group and Quiver identifies the old west walkway around it. Mend marks that route with a line; none of them tries to lift the heavy partition with thread.\n\nQuiver [whispered]: “The west walkway stays outside the glass. We can go around it.”"
+      ],
+      "title": "The Palace with One Window"
+    },
+    "es": {
+      "captions": [
+        "Hush nota la lámpara de inspección antes de que los demás se crucen en su camino. Rain y Quiver paran detrás de un muelle real. Moverse con cuidado por el Crown no es un regalo concedido a personajes sin palabras; es una habilidad que Hush comparte con el equipo.\n\nHush [firmando]: \"Para. Espera hasta que pase la lámpara\".",
+        "La hermosa luz del Crown es robada a personas vivas. Bitter sombrea Beam antes de que el brillo llegue a otro coleccionista. Cada carrete tiene que sobrevivir al rescate, incluidos aquellos cuyos dueños el equipo nunca ha conocido.\n\nBitter [susurró]: \"Poca luz. Estos son los originales, no decoraciones\".",
+        "El diagrama de tela conduce a una puerta de acceso más antigua debajo de la cerradura más nueva del Null. La llave con forma del Vex abre ese mecanismo local mientras la abrazadera superior permanece cerrada. Obtienen una entrada verificada, no el control de la fortaleza.\n\nQuest [susurró]: \"La bisagra inferior coincide. Deje la abrazadera superior en paz\".",
+        "Una brecha dramática enviaría fragmentos al archivo. Quest señala la bisagra accesible, y Flare y Pop dejan de preparar un ataque. El rescate es más lento porque los antecedentes del pueblo no son un escenario prescindible.\n\nQuest [susurró]: \"Los carretes están detrás de esa pared. Usa la bisagra\".",
+        "Esta vez Rain ve el verdadero Nova: una respuesta conmovedora, una bufanda arrugada y el lugar vacío donde pertenecía el alfiler. La restricción todavía está cerrada y la pequeña obstrucción de latón debajo es algo que Rain no ha visto antes.\n\nRain [susurró]: \"¿Nova? Mira hacia mi mano\".",
+        "Nova responde dividiendo la luz de la lámpara como en el festival. Rain muestra el regalo de Hope y el reconocimiento es mutuo. Se han encontrado; todavía tienen que abrir el arnés de forma segura.\n\nNova [susurró]: “Mantuviste la idea del ala mojada”.\nRain [susurró]: “Y Hope te envió esto”.",
+        "La partición de inspección de la bahía de control comienza su ciclo de seguridad normal. Hush detiene al grupo y Quiver identifica la antigua pasarela del oeste que lo rodea. Mend marca esa ruta con una línea; Ninguno de ellos intenta levantar el pesado tabique con hilo.\n\nQuiver [susurró]: \"La pasarela oeste queda fuera del cristal. Podemos rodearla\"."
+      ],
+      "title": "El palacio de la ventana"
+    },
+    "fr": {
+      "captions": [
+        "Hush remarque la lampe d'inspection avant que les autres ne croisent son chemin. Les Rain et Quiver s'arrêtent derrière une vraie jetée. Se déplacer prudemment dans le Crown n'est pas un cadeau accordé aux personnages sans paroles ; c'est une compétence que Hush partage avec l'équipe.\n\nHush [signature] : \"Arrêtez. Attendez que la lampe passe.\"",
+        "La belle lumière du Crown est volée à des personnes vivantes. Bitter ombre Beam avant que la lueur n'atteigne un autre collecteur. Chaque moulinet doit survivre au sauvetage, y compris ceux dont l'équipe n'a jamais rencontré les propriétaires.\n\nBitter [chuchoté] : \"Faible luminosité. Ce sont les originaux, pas des décorations.\"",
+        "Le schéma en tissu mène à une ancienne porte d’accès située sous la nouvelle serrure du Null. La clé en forme du Vex ouvre ce mécanisme local tandis que la pince supérieure reste fermée. Ils obtiennent une porte vérifiée, mais pas le contrôle de la forteresse.\n\nQuest [chuchoté] : \"La charnière inférieure correspond. Laissez la pince supérieure tranquille.\"",
+        "Une violation dramatique enverrait des fragments dans les archives. Quest signale la charnière accessible, et Flare et Pop arrêtent de préparer une attaque. Le sauvetage est plus lent car les archives des personnes ne sont pas un décor remplaçable.\n\nQuest [chuchoté] : \"Les bobines sont derrière ce mur. Utilisez la charnière.\"",
+        "Cette fois, Rain voit le vrai Nova : une réponse émouvante, une écharpe froissée et l'endroit vide auquel appartenait l'épingle. Le dispositif de retenue est toujours fermé et la petite obstruction en laiton en dessous est quelque chose que Rain n'a jamais vu auparavant.\n\nRain [chuchoté] : \"Nova ? Regarde vers ma main.\"",
+        "Nova répond en divisant la lumière de la lampe comme au festival. Rain dévoile le don de Hope et la reconnaissance est mutuelle. Ils se sont retrouvés ; ils doivent encore ouvrir le harnais en toute sécurité.\n\nNova [chuchoté] : \"Vous avez gardé l'idée de l'aile mouillée.\"\nRain [chuchoté] : \"Et Hope vous a envoyé ça.\"",
+        "La cloison d’inspection de la baie de contrôle commence son cycle de sécurité normal. Hush arrête le groupe et Quiver identifie l'ancienne passerelle ouest qui l'entoure. Mend marque cet itinéraire avec une ligne ; aucun d’eux n’essaye de soulever la lourde cloison avec du fil.\n\nQuiver [chuchoté] : \"La passerelle ouest reste à l'extérieur de la vitre. Nous pouvons la contourner.\""
+      ],
+      "title": "Le palais avec une seule fenêtre"
+    },
+    "hi": {
+      "captions": [
+        "Hush दूसरों के रास्ता पार करने से पहले निरीक्षण लैंप को नोटिस करता है। Rain और Quiver एक वास्तविक घाट के पीछे रुकते हैं। Crown के माध्यम से सावधानी से आगे बढ़ना शब्दहीन पात्रों को दिया गया उपहार नहीं है; यह एक कौशल है जिसे Hush टीम के साथ साझा करता है।\n\nHush [हस्ताक्षर करते हुए]: \"रुको। दीपक के गुजरने तक प्रतीक्षा करो।\"",
+        "Crown की खूबसूरत रोशनी जीवित लोगों से चुराई गई है। चमक दूसरे संग्राहक तक पहुँचने से पहले Bitter Beam को शेड करता है। प्रत्येक रील को बचाव से बचना होगा, जिसमें वे लोग भी शामिल हैं जिनके मालिकों से टीम कभी नहीं मिली है।\n\nBitter [फुसफुसाते हुए]: \"कम रोशनी। ये असली हैं, सजावट नहीं।\"",
+        "कपड़ा आरेख Null के नए लॉक के नीचे एक पुराने प्रवेश द्वार की ओर ले जाता है। Vex की आकार की कुंजी उस स्थानीय तंत्र को खोलती है जबकि ऊपरी क्लैंप बंद रहता है। उन्हें किले पर नियंत्रण नहीं, बल्कि एक सत्यापित द्वार प्राप्त होता है।\n\nQuest [फुसफुसाए]: \"निचला काज मेल खाता है। ऊपरी क्लैंप को अकेला छोड़ दें।\"",
+        "एक नाटकीय उल्लंघन संग्रह में टुकड़े भेज देगा। Quest सुलभ हिंज की ओर इशारा करता है, और Flare और Pop हमले की तैयारी करना बंद कर देते हैं। बचाव धीमा है क्योंकि लोगों के रिकॉर्ड व्यय योग्य दृश्य नहीं हैं।\n\nQuest [फुसफुसाए]: \"रीलें उस दीवार के पीछे हैं। काज का प्रयोग करें।\"",
+        "इस बार Rain असली Nova देखता है: एक गतिशील प्रतिक्रिया, एक झुका हुआ दुपट्टा और वह खाली जगह जहां पिन थी। संयम अभी भी बंद है, और इसके नीचे छोटा पीतल का अवरोध कुछ ऐसा है जिसे Rain ने पहले नहीं देखा है।\n\nRain [फुसफुसाते हुए]: \"Nova? मेरे हाथ की ओर देखो।\"",
+        "Nova त्योहार की तरह दीपक की रोशनी को विभाजित करके उत्तर देता है। Rain ने Hope के उपहार को उजागर किया, और मान्यता पारस्परिक है। उन्होंने एक दूसरे को पा लिया है; उन्हें अभी भी हार्नेस को सुरक्षित रूप से खोलना होगा।\n\nNova [फुसफुसाए]: \"आपने वेट-विंग विचार रखा।\"\nRain [फुसफुसाए]: \"और Hope ने आपको यह भेजा है।\"",
+        "नियंत्रण बे का निरीक्षण विभाजन अपना सामान्य सुरक्षा चक्र शुरू करता है। Hush समूह को रोकता है और Quiver इसके चारों ओर पुराने पश्चिमी रास्ते की पहचान करता है। Mend उस मार्ग को एक रेखा से चिह्नित करता है; उनमें से कोई भी भारी विभाजन को धागे से उठाने की कोशिश नहीं करता।\n\nQuiver [फुसफुसाए]: \"पश्चिमी रास्ता कांच के बाहर रहता है। हम इसके चारों ओर जा सकते हैं।\""
+      ],
+      "title": "एक खिड़की वाला महल"
+    },
+    "id": {
+      "captions": [
+        "Hush memperhatikan lampu inspeksi sebelum lampu lain melintasi jalurnya. Rain dan Quiver berhenti di belakang dermaga sungguhan. Bergerak dengan hati-hati melalui Crown bukanlah hadiah yang diberikan kepada karakter tanpa kata; itu adalah keterampilan yang Hush bagikan dengan tim.\n\nHush [penandatanganan]: \"Berhenti. Tunggu sampai lampu lewat.\"",
+        "Cahaya indah Crown dicuri dari orang yang masih hidup. Bitter menaungi Beam sebelum cahaya mencapai kolektor lain. Setiap gulungan harus selamat dari penyelamatan, termasuk gulungan yang pemiliknya belum pernah ditemui tim.\n\nBitter [berbisik]: \"Cahaya redup. Ini yang asli, bukan dekorasi.\"",
+        "Diagram kain mengarah ke pintu akses lama di bawah kunci Null yang lebih baru. Kunci berbentuk Vex membuka mekanisme lokal tersebut sementara penjepit atas tetap tertutup. Mereka mendapatkan satu pintu masuk yang terverifikasi, bukan kendali atas benteng.\n\nQuest [berbisik]: \"Engsel bawah cocok. Biarkan penjepit atas saja.\"",
+        "Pelanggaran yang parah akan mengirimkan fragmen ke dalam arsip. Quest menunjukkan engsel yang dapat diakses, dan Flare serta Pop berhenti mempersiapkan serangan. Penyelamatan lebih lambat karena catatan masyarakat bukanlah pemandangan yang bisa dibuang.\n\nQuest [berbisik]: \"Gulungannya ada di balik dinding itu. Gunakan engselnya.\"",
+        "Kali ini Rain melihat Nova yang sebenarnya: respons bergerak, syal kusut, dan tempat kosong di mana pin berada. Pengekangnya masih tertutup, dan penghalang kuningan kecil di bawahnya adalah sesuatu yang belum pernah dilihat Rain sebelumnya.\n\nRain [berbisik]: \"Nova? Lihat ke arah tanganku.\"",
+        "Nova menjawab dengan membagi cahaya lampu seperti di festival. Rain mengungkap hadiah Hope, dan pengakuannya bersifat timbal balik. Mereka telah menemukan satu sama lain; mereka masih harus membuka tali pengaman dengan aman.\n\nNova [berbisik]: “Kamu tetap mempertahankan ide sayap basah.”\nRain [berbisik]: “Dan Hope mengirimimu ini.”",
+        "Partisi pemeriksaan ruang kontrol memulai siklus keamanan normalnya. Hush menghentikan grup dan Quiver mengidentifikasi jalan barat lama di sekitarnya. Mend menandai rute itu dengan sebuah garis; tak satu pun dari mereka yang mencoba mengangkat partisi berat itu dengan benang.\n\nQuiver [berbisik]: \"Jalan barat tetap berada di luar kaca. Kita bisa mengitarinya.\""
+      ],
+      "title": "Istana dengan Satu Jendela"
+    },
+    "it": {
+      "captions": [
+        "Hush nota la lampada di ispezione prima che le altre incrocino il suo percorso. Rain e Quiver si fermano dietro un vero molo. Muoversi con cautela nello Crown non è un dono concesso ai personaggi senza parole; è un'abilità che Hush condivide con la squadra.\n\nHush [firma]: \"Fermati. Aspetta che passi la lampada.\"",
+        "La meravigliosa luce dello Crown è rubata alle persone viventi. Bitter ombreggia Beam prima che il bagliore raggiunga un altro collezionista. Ogni bobina deve sopravvivere al salvataggio, compresi quelli i cui proprietari la squadra non ha mai incontrato.\n\nBitter [sussurrò]: \"Luce scarsa. Questi sono gli originali, non le decorazioni.\"",
+        "Il diagramma del tessuto conduce a una vecchia porta di accesso sotto la nuova serratura di Null. La chiave sagomata dello Vex apre il meccanismo locale mentre il morsetto superiore rimane chiuso. Ottengono una porta verificata, non il controllo della fortezza.\n\nQuest [sottovoce]: \"La cerniera inferiore combacia. Lascia stare il morsetto superiore.\"",
+        "Una violazione drammatica manderebbe frammenti nell'archivio. Quest indica la cerniera accessibile e Flare e Pop smettono di preparare un attacco. Il salvataggio è più lento perché i registri delle persone non sono uno scenario sacrificabile.\n\nQuest [sussurrò]: \"I rulli sono dietro quel muro. Usa la cerniera.\"",
+        "Questa volta Rain vede il vero Nova: una risposta commovente, una sciarpa spiegazzata e il posto vuoto a cui apparteneva la spilla. Il sistema di ritenuta è ancora chiuso e la piccola ostruzione di ottone sotto di essa è qualcosa che Rain non ha mai visto prima.\n\nRain [sussurrò]: \"Nova? Guarda verso la mia mano.\"",
+        "Nova risponde dividendo la luce della lampada come al festival. Rain svela il dono di Hope e il riconoscimento è reciproco. Si sono ritrovati; devono ancora aprire l'imbracatura in sicurezza.\n\nNova [sottovoce]: “Hai mantenuto l’idea dell’ala bagnata”.\nRain [sussurrò]: \"E Hope ti ha mandato questo.\"",
+        "La partizione di ispezione della sala di controllo inizia il suo normale ciclo di sicurezza. Hush ferma il gruppo e Quiver identifica la vecchia passerella ovest attorno ad esso. Mend segna quel percorso con una linea; nessuno di loro tenta di sollevare con lo spago il pesante tramezzo.\n\nQuiver [sottovoce]: \"La passerella ovest resta fuori dal vetro. Possiamo girarci intorno.\""
+      ],
+      "title": "Il palazzo con una finestra"
+    },
+    "ja": {
+      "captions": [
+        "Hush は、他のランプがその道を横切る前に検査ランプに気づきます。 RainとQuiverは本物の桟橋の後ろに止まります。 Crown を慎重に移動することは、言葉のないキャラクターに与えられた才能ではありません。それは Hush がチームと共有しているスキルです。\n\nHush [署名]: 「停止してください。ランプが通過するまでお待ちください。」",
+        "Crownの美しい光は生きている人間から奪われます。輝きが別のコレクターに届く前に、Bitter が Beam をシェーディングします。チームが一度も会ったことがない所有者のリールも含め、すべてのリールが救助から生き延びなければなりません。\n\nBitter [ささやき声]: 「暗い場所で。これらはオリジナルであり、装飾ではありません。」",
+        "クロス図は、Null の新しいロックの下にある古いアクセス ドアにつながります。 Vex の形状キーは、上部クランプが閉じたままの状態で、そのローカル機構を開きます。彼らは要塞の制御ではなく、確認された出入り口を1つ獲得します。\n\nQuest [小声]: 「下のヒンジは一致します。上のクランプは放っておいてください。」",
+        "劇的な侵害が発生すると、断片がアーカイブに送信される可能性があります。 Quest はアクセス可能なヒンジを示し、Flare と Pop は攻撃の準備を停止します。人々の記録は使い捨ての風景ではないため、救助は遅くなります。\n\nQuest [ささやき声]: 「リールはその壁の後ろにあります。ヒンジを使用してください。」",
+        "今回、Rain は本物の Nova を目にします。動きのある反応、しわくちゃのスカーフ、そしてピンがあった空の場所です。拘束具はまだ閉じており、その下の小さな真鍮の障害物は、Rain がこれまで見たことがないものです。\n\nRain [ささやき声]: 「Nova? 私の手のほうを見てください。」",
+        "Novaはお祭りのようにランプの光を分割して答えます。 Rain は Hope の贈り物を展開し、相互に認識します。彼らはお互いを見つけました。まだハーネスを安全に開かなければなりません。\n\nNova [ささやき声]: 「ウェットウィングのアイデアを維持しましたね。」\nRain [ささやき声]: 「そして、Hope がこれをあなたに送りました。」",
+        "コントロール ベイの検査パーティションは、通常のセキュリティ サイクルを開始します。 Hush はグループを停止し、Quiver はその周囲の古い西側歩道を特定します。 Mend はそのルートを線でマークします。誰も糸で重いパーティションを持ち上げようとはしません。\n\nQuiver [ささやき声]: 「西側の通路はガラスの外に残っています。私たちはその周りを回れます。」"
+      ],
+      "title": "窓が一つの宮殿"
+    },
+    "ko": {
+      "captions": [
+        "Hush는 다른 램프가 지나가기 전에 검사 램프를 알아차립니다. Rain 및 Quiver는 실제 부두 뒤에 정차합니다. Crown를 통해 조심스럽게 움직이는 것은 말없는 캐릭터에게 부여되는 선물이 아닙니다. Hush가 팀과 공유하는 기술입니다.\n\nHush [서명]: \"중지하세요. 램프가 지나갈 때까지 기다리세요.\"",
+        "Crown의 아름다운 빛은 살아있는 사람들로부터 도난당했습니다. Bitter는 광선이 다른 컬렉터에 도달하기 전에 Beam를 음영 처리합니다. 팀이 한 번도 만난 적이 없는 소유자를 포함하여 모든 릴은 구조에서 살아남아야 합니다.\n\nBitter [속삭임]: \"어두운 조명. 이것은 장식이 아니라 원본입니다.\"",
+        "천 다이어그램은 Null의 최신 잠금 장치 아래에 있는 오래된 액세스 도어로 연결됩니다. Vex의 모양 키는 상단 클램프가 닫혀 있는 동안 해당 로컬 메커니즘을 엽니다. 그들은 요새에 대한 통제권이 아닌 검증된 출입구 하나를 얻습니다.\n\nQuest [속삭임]: \"하부 경첩이 일치합니다. 상단 클램프는 그대로 두세요.\"",
+        "심각한 위반이 발생하면 조각이 아카이브로 전송됩니다. Quest는 접근 가능한 힌지를 가리키고, Flare와 Pop는 공격 준비를 멈춥니다. 사람들의 기록은 소모적인 풍경이 아니기 때문에 구조가 더디다.\n\nQuest [속삭임]: \"릴은 저 벽 뒤에 있습니다. 경첩을 사용하세요.\"",
+        "이번에 Rain는 움직이는 반응, 구겨진 스카프, 핀이 있던 빈 공간 등 실제 Nova를 봅니다. 구속 장치는 여전히 닫혀 있고 그 아래에 있는 작은 황동 장애물은 Rain가 이전에 본 적이 없는 것입니다.\n\nRain [속삭임]: \"Nova? 내 손을 바라보세요.\"",
+        "Nova는 축제 때와 마찬가지로 램프 빛을 나누어 응답합니다. Rain는 Hope의 선물을 펼치며 상호 인정을 받습니다. 그들은 서로를 찾았습니다. 여전히 하네스를 안전하게 열어야 합니다.\n\nNova [속삭임]: \"당신은 젖은 날개 아이디어를 유지했습니다.\"\nRain [속삭임]: \"그리고 Hope가 당신에게 이것을 보냈습니다.\"",
+        "컨트롤 베이의 검사 파티션이 정상적인 보안 주기를 시작합니다. Hush는 그룹을 중지하고 Quiver는 그룹 주변의 오래된 서쪽 통로를 식별합니다. Mend는 해당 경로를 선으로 표시합니다. 그들 중 누구도 실로 무거운 칸막이를 들어 올리려고 하지 않습니다.\n\nQuiver [속삭임]: \"서쪽 통로는 유리 밖에 있습니다. 우리는 그곳을 돌아다닐 수 있습니다.\""
+      ],
+      "title": "창문이 하나인 궁전"
+    },
+    "pl": {
+      "captions": [
+        "Hush zauważa lampę inspekcyjną, zanim inne pojawią się na jej drodze. Rain i Quiver zatrzymują się za prawdziwym molo. Ostrożne poruszanie się po Crown nie jest darem przyznawanym postaciom bez słów; jest to umiejętność, którą Hush dzieli się z zespołem.\n\nHush [podpis]: „Zatrzymaj się. Poczekaj, aż lampa przeminie.”",
+        "Piękne światło Crown zostało skradzione żywym ludziom. Bitter przyciemnia Beam zanim blask dotrze do innego kolektora. Akcję ratunkową musi przetrwać każdy kołowrotek, także ten, którego właścicieli zespół nigdy nie spotkał.\n\nBitter [szepnął]: „Słabe oświetlenie. To oryginały, a nie dekoracje.”",
+        "Schemat tkaniny prowadzi do starszych drzwi dostępowych poniżej nowszego zamka Null. Kształtowy klucz Vex otwiera ten lokalny mechanizm, podczas gdy górny zacisk pozostaje zamknięty. Zyskują jedno zweryfikowane wejście, a nie kontrolę nad fortecą.\n\nQuest [szepnął]: \"Dolny zawias pasuje. Górny zacisk zostaw w spokoju.\"",
+        "Dramatyczne naruszenie spowodowałoby wysłanie fragmentów do archiwum. Quest wskazuje dostępny zawias, a Flare i Pop przestają przygotowywać atak. Akcja ratunkowa jest wolniejsza, ponieważ zapisy ludzi nie są zbędną scenerią.\n\nQuest [szepnął]: \"Bębny są za tą ścianą. Użyj zawiasu.\"",
+        "Tym razem Rain widzi prawdziwego Nova: poruszającą reakcję, wymięty szalik i puste miejsce na przypinkę. Blokada jest nadal zamknięta, a niewielka mosiężna przeszkoda pod nią to coś, czego Rain jeszcze nie widziała.\n\nRain [szepnął]: „Nova? Spójrz na moją rękę.”",
+        "Nova odpowiada, dzieląc światło lampy jak na festiwalu. Rain rozwija dar Hope, a uznanie jest wzajemne. Odnaleźli się; nadal muszą bezpiecznie otworzyć uprząż.\n\nNova [szepnął]: „Podtrzymałeś pomysł mokrego skrzydła”.\nRain [szepnął]: „A Hope przysłał ci to.”",
+        "Przegroda inspekcyjna pola kontrolnego rozpoczyna swój normalny cykl bezpieczeństwa. Hush zatrzymuje grupę, a Quiver identyfikuje wokół niej stary zachodni chodnik. Mend zaznacza tę trasę linią; żaden z nich nie próbuje podnieść ciężkiej przegrody za pomocą nici.\n\nQuiver [szepnął]: \"Zachodni chodnik pozostaje za szybą. Możemy go ominąć.\""
+      ],
+      "title": "Pałac z jednym oknem"
+    },
+    "pt": {
+      "captions": [
+        "Hush percebe a lâmpada de inspeção antes que as outras cruzem seu caminho. Rain e Quiver param atrás de um cais real. Mover-se cuidadosamente pelo Crown não é um presente concedido a personagens sem palavras; é uma habilidade que Hush compartilha com a equipe.\n\nHush [assinatura]: \"Pare. Espere até a lâmpada passar.\"",
+        "A bela luz do Crown é roubada de pessoas vivas. Bitter sombreia Beam antes que o brilho alcance outro coletor. Cada carretel tem que sobreviver ao resgate, inclusive aqueles cujos proprietários a equipe nunca conheceu.\n\nBitter [sussurrou]: \"Pouca luz. Estes são os originais, não as decorações.\"",
+        "O diagrama de tecido leva a uma porta de acesso mais antiga abaixo da fechadura mais recente do Null. A chave moldada do Vex abre esse mecanismo local enquanto a braçadeira superior permanece fechada. Eles ganham uma porta verificada, não o controle da fortaleza.\n\nQuest [sussurrou]: \"A dobradiça inferior combina. Deixe a braçadeira superior em paz.\"",
+        "Uma violação dramática enviaria fragmentos para o arquivo. Quest aponta a dobradiça acessível e Flare e Pop param de preparar um ataque. O resgate é mais lento porque os registros das pessoas não são um cenário dispensável.\n\nQuest [sussurrou]: \"As bobinas estão atrás daquela parede. Use a dobradiça.\"",
+        "Desta vez, Rain vê o verdadeiro Nova: uma resposta comovente, um lenço amarrotado e o lugar vazio ao qual o alfinete pertencia. A restrição ainda está fechada e a pequena obstrução de latão abaixo dela é algo que Rain nunca viu antes.\n\nRain [sussurrou]: \"Nova? Olhe para minha mão.\"",
+        "Nova responde dividindo a luz da lâmpada como no festival. Rain revela o presente de Hope e o reconhecimento é mútuo. Eles se encontraram; eles ainda precisam abrir o arnês com segurança.\n\nNova [sussurrou]: “Você manteve a ideia da asa molhada.”\nRain [sussurrou]: “E Hope enviou isso para você.”",
+        "A partição de inspeção do painel de controle inicia seu ciclo normal de segurança. Hush para o grupo e Quiver identifica a antiga passarela oeste ao seu redor. Mend marca essa rota com uma linha; nenhum deles tenta levantar a pesada divisória com linha.\n\nQuiver [sussurrou]: \"A passarela oeste fica fora do vidro. Podemos contorná-la.\""
+      ],
+      "title": "O palácio com uma janela"
+    },
+    "ru": {
+      "captions": [
+        "Hush замечает контрольную лампу раньше, чем остальные перейдут ему дорогу. Rain и Quiver останавливаются за настоящим пирсом. Осторожное перемещение по Crown — это не дар, дарованный бессловесным персонажам; это навык, которым Hush делится с командой.\n\nHush [подпись]: \"Стоп. Подожди, пока лампа не погаснет\".",
+        "Красивый свет Crown украден у живых людей. Bitter затемняет Beam до того, как сияние достигнет другого коллекционера. Спасение предстоит пережить каждой катушке, включая те, владельцев которых команда так и не встретила.\n\nBitter [шепотом]: \"Слабое освещение. Это оригиналы, а не украшения\".",
+        "Схема ткани ведет к старой входной двери под новым замком Null. Фигурный ключ Vex открывает этот местный механизм, в то время как верхний зажим остается закрытым. Они получают один проверенный дверной проем, а не контроль над крепостью.\n\nQuest [шепотом]: \"Нижняя петля совпадает. Оставьте верхний зажим в покое.\"",
+        "Серьезное нарушение приведет к отправке фрагментов в архив. Quest указывает на доступный шарнир, а Flare и Pop прекращают подготовку атаки. Спасение идет медленнее, потому что записи людей не являются расходным материалом.\n\nQuest [шепотом]: \"Барабанчики находятся за этой стеной. Используйте шарнир\".",
+        "На этот раз Rain видит настоящего Nova: движущийся ответ, помятый шарф и пустое место, где должна была быть булавка. Ограждение все еще закрыто, и маленькое латунное препятствие под ним — это то, чего Rain раньше не видел.\n\nRain [шепотом]: \"Nova? Посмотри на мою руку.\"",
+        "Nova отвечает, разделив свет лампы, как на фестивале. Rain раскрывает дар Hope, и это признание взаимно. Они нашли друг друга; им все равно придется безопасно открыть ремень безопасности.\n\nNova [шепотом]: «Вы сохранили идею с мокрым крылом».\nRain [шепотом]: «И Hope прислал тебе это».",
+        "Инспекционный раздел отсека управления начинает свой обычный цикл безопасности. Hush останавливает группу, а Quiver определяет старую западную дорожку вокруг нее. Mend отмечает этот маршрут линией; никто из них не пытается поднять тяжелую перегородку с помощью нити.\n\nQuiver [шепотом]: \"Западный проход остается за стеклом. Мы можем обойти его\"."
+      ],
+      "title": "Дворец с одним окном"
+    },
+    "tr": {
+      "captions": [
+        "Hush, diğerleri yoluna çıkmadan önce muayene lambasını fark eder. Rain ve Quiver gerçek bir iskelenin arkasında durur. Crown'de dikkatli bir şekilde hareket etmek, sözsüz karakterlere bahşedilmiş bir hediye değildir; bu, Hush'nin ekiple paylaştığı bir beceridir.\n\nHush [imzalıyor]: \"Dur. Lamba geçinceye kadar bekle.\"",
+        "Crown'nin güzel ışığı yaşayan insanlardan çalınıyor. Parıltı başka bir toplayıcıya ulaşmadan önce Bitter, Beam'yi gölgelendirir. Ekibin sahipleriyle hiç tanışmadığı makaralar da dahil olmak üzere her makara, kurtarma işleminden sağ çıkmalıdır.\n\nBitter [fısıldadı]: \"Düşük ışık. Bunlar orijinaller, dekorasyon değil.\"",
+        "Kumaş diyagramı, Null'nin yeni kilidinin altındaki eski erişim kapısına yönlendiriyor. Vex'nin şekilli anahtarı bu yerel mekanizmayı açarken üst kelepçe kapalı kalır. Kalenin kontrolünü değil, doğrulanmış bir giriş kapısını kazanırlar.\n\nQuest [fısıldadı]: \"Alt menteşe eşleşiyor. Üst kelepçeyi rahat bırakın.\"",
+        "Dramatik bir ihlal arşive parçalar gönderir. Quest erişilebilir menteşeyi işaret ediyor ve Flare ve Pop bir saldırı hazırlamayı bırakıyor. Kurtarma daha yavaştır çünkü insanların kayıtları gözden çıkarılabilir manzaralar değildir.\n\nQuest [fısıldadı]: \"Makaralar şu duvarın arkasında. Menteşeyi kullan.\"",
+        "Bu sefer Rain gerçek Nova'yi görüyor: hareketli bir tepki, buruşuk bir eşarp ve iğnenin ait olduğu boş yer. Tutucu hâlâ kapalı ve altındaki küçük pirinç engel, Rain'nin daha önce görmediği bir şey.\n\nRain [fısıldadı]: \"Nova? Elime doğru bak.\"",
+        "Nova, festivaldeki gibi lamba ışığını bölerek yanıt veriyor. Rain, Hope'nin armağanını ortaya çıkarır ve takdir karşılıklıdır. Birbirlerini buldular; hala emniyet kemerini güvenli bir şekilde açmaları gerekiyor.\n\nNova [fısıldadı]: \"Islak kanat fikrini korudun.\"\nRain [fısıldadı]: \"Ve Hope sana bunu gönderdi.\"",
+        "Kontrol bölmesinin inceleme bölümü normal güvenlik döngüsüne başlar. Hush grubu durdurur ve Quiver, grubun etrafındaki eski batı yürüyüş yolunu tanımlar. Mend bu rotayı bir çizgiyle işaretler; hiçbiri ağır bölmeyi iple kaldırmaya çalışmıyor.\n\nQuiver [fısıldadı]: \"Batı geçidi camın dışında kalıyor. Etrafından dolaşabiliriz.\""
+      ],
+      "title": "Tek Pencereli Saray"
+    },
+    "vi": {
+      "captions": [
+        "Hush chú ý đến đèn kiểm tra trước khi các đèn khác đi qua đường đi của nó. Rain và Quiver dừng lại phía sau một bến tàu thực sự. Di chuyển cẩn thận qua Crown không phải là một món quà dành cho những nhân vật không lời; đó là kỹ năng mà Hush chia sẻ với nhóm.\n\nHush [ký]: \"Dừng lại. Đợi đèn tắt.\"",
+        "Ánh sáng đẹp đẽ của Crown bị đánh cắp từ người sống. Bitter tạo bóng cho Beam trước khi ánh sáng chiếu tới bộ thu khác. Mọi cuộn phim đều phải sống sót sau cuộc giải cứu, kể cả những cuộn phim mà đội chưa từng gặp chủ sở hữu.\n\nBitter [thì thầm]: \"Ánh sáng yếu. Đây là bản gốc, không phải đồ trang trí.\"",
+        "Sơ đồ vải dẫn đến cửa ra vào cũ hơn bên dưới khóa mới hơn của Null. Phím hình của Vex mở cơ chế cục bộ đó trong khi kẹp phía trên vẫn đóng. Họ có được một ô cửa đã được xác minh chứ không phải quyền kiểm soát pháo đài.\n\nQuest [thì thầm]: \"Bản lề dưới khớp. Để nguyên kẹp trên.\"",
+        "Một vi phạm nghiêm trọng sẽ gửi các mảnh vỡ vào kho lưu trữ. Quest chỉ ra bản lề có thể truy cập được và Flare và Pop ngừng chuẩn bị tấn công. Việc giải cứu chậm hơn vì hồ sơ của người dân không phải là cảnh vật có thể tiêu hao được.\n\nQuest [thì thầm]: \"Các cuộn phim ở phía sau bức tường đó. Hãy sử dụng bản lề.\"",
+        "Lần này Rain nhìn thấy Nova thực sự: một phản ứng cảm động, một chiếc khăn nhàu nát và chỗ trống nơi ghim thuộc về. Thanh chắn vẫn được đóng và vật cản nhỏ bằng đồng bên dưới là thứ Rain chưa từng thấy trước đây.\n\nRain [thì thầm]: \"Nova? Nhìn về phía tay tôi.\"",
+        "Nova trả lời bằng cách chia đèn chiếu sáng như ở lễ hội. Rain mở ra món quà của Hope và sự công nhận lẫn nhau. Họ đã tìm thấy nhau; họ vẫn phải mở dây nịt một cách an toàn.\n\nNova [thì thầm]: “Anh vẫn giữ nguyên ý tưởng cánh ướt.”\nRain [thì thầm]: “Và Hope đã gửi cho bạn cái này.”",
+        "Phân vùng kiểm tra của khoang điều khiển bắt đầu chu kỳ bảo mật thông thường. Hush dừng nhóm và Quiver xác định lối đi phía tây cũ xung quanh nó. Mend đánh dấu tuyến đường đó bằng một đường kẻ; không ai trong số họ cố gắng nâng phân vùng nặng nề bằng sợi chỉ.\n\nQuiver [thì thầm]: \"Lối đi phía tây nằm ngoài kính. Chúng ta có thể đi vòng qua nó.\""
+      ],
+      "title": "Cung điện một cửa sổ"
+    },
+    "zh": {
+      "captions": [
+        "Hush 在其他灯穿过其路径之前注意到检查灯。 Rain和Quiver停在真正的码头后面。在 Crown 中小心移动并不是授予无言角色的天赋；这是Hush与团队分享的技能。\n\nHush[签名]：“停，等灯过去。”",
+        "Crown美丽的光芒是从活人身上偷来的。在辉光到达另一个收集器之前，Bitter 遮蔽 Beam。每个卷轴都必须在救援中幸存下来，包括那些团队从未见过其主人的卷轴。\n\nBitter[小声]：“光线较暗。这些是原物，不是装饰品。”",
+        "布料图通向 Null 较新锁下方的旧检修门。 Vex 的异型钥匙可打开本地机构，同时上部夹具保持关闭状态。他们获得了一个经过验证的门口，而不是对要塞的控制权。\n\nQuest [低声]：“下部铰链匹配。不要管上部夹子。”",
+        "严重的破坏会将碎片发送到档案中。 Quest指出可触及的铰链，Flare和Pop停止准备攻击。救援速度较慢，因为人们的记录不是可消耗的风景。\n\nQuest [低声]：“卷轴在墙后面。使用铰链。”",
+        "这次，Rain 看到了真正的 Nova：一个动人的反应，一条皱巴巴的围巾，还有别针所在的空地方。约束装置仍然关闭，其下方的小黄铜障碍物是 Rain 以前从未见过的。\n\nRain[小声]：“Nova？看我的手。”",
+        "Nova以节日时的分灯响应。 Rain展现Hope的礼物，认可是相互的。他们找到了彼此；他们仍然必须安全地打开安全带。\n\nNova [小声]：“你保留了湿翼的想法。”\nRain [小声]：“Hope 给你发了这个。”",
+        "控制室的检查分区开始其正常的安全周期。 Hush 阻止了这群人，Quiver 识别出了周围的旧西走道。 Mend 用线标记该路线；他们没有人试图用线抬起沉重的隔板。\n\nQuiver[小声]：“西边走道在玻璃外面，我们可以绕过它。”"
+      ],
+      "title": "一扇窗户的宫殿"
+    }
+  },
+  "number": 16,
+  "panels": [
+    {
+      "altText": "Hush raises one clear stop hand with turquoise wrist ribbons while Rain and Quiver pause behind the same pier. A rail-mounted inspection lamp sweeps the unobstructed central aisle; its beam ends on the opposite wall and does not pass through stone.",
+      "bytes": 1713033,
+      "image": "N00E16P01.png",
+      "sha256": "bdfc4ec2a03cb149a273b05017ddff133fee8a16cc557f02530cbf6d4564b594"
+    },
+    {
+      "altText": "Beam’s low glow reaches the nearest transparent reel rack. Bitter places a hinged opaque lamp shade between that glow and an exposed collector lens, without touching Beam’s face.",
+      "bytes": 1849710,
+      "image": "N00E16P02.png",
+      "sha256": "e4833e67bdb0f10b2ae842a70543937b0b5a4cb700cb6742bbbd6cdde0823773"
+    },
+    {
+      "altText": "Hush holds the cloth copy beside the old door’s hinge mark. Quest, with the empty disk strap visible, checks the actual pipe junction.",
+      "bytes": 1798912,
+      "image": "N00E16P03.png",
+      "sha256": "d1744a034441e385b02a53cbb41e818ae981f3f4975758e1d172ade20b384bf4"
+    },
+    {
+      "altText": "Flare has raised one cuff toward the partition but stops before heating it. Through an adjacent inspection window, fragile reels are bolted directly behind the wall.",
+      "bytes": 1805223,
+      "image": "N00E16P04.png",
+      "sha256": "039406371d71ec4759cb9b760e4c35526cacba340752000ff7e3b8c7256d4225"
+    },
+    {
+      "altText": "Rain crouches on the corridor side of the opened hinge gap. Beyond it, the actual Nova sits in the bolted harness with a rumpled violet scarf and no pin.",
+      "bytes": 1769675,
+      "image": "N00E16P05.png",
+      "sha256": "66eb3c866e6cc3660f8842c439ccb3360138cececde9da9117d1299569122896"
+    },
+    {
+      "altText": "Nova angles an existing harness prism so the lamp produces three small branches across Rain’s open mitten. Rain holds Hope’s blue-dotted moth in the other hand, outside the beam’s hottest center.",
+      "bytes": 1825349,
+      "image": "N00E16P06.png",
+      "sha256": "a46e071c1495e8f81aea3be1422f3a7b7131df87eb22769368448bbb58c04aff"
+    },
+    {
+      "altText": "At the north command bay, one automatic glass inspection partition begins descending on visible vertical rails. Hush raises a stop signal at the west corridor mouth.",
+      "bytes": 1906308,
+      "image": "N00E16P07.png",
+      "sha256": "bf3156517f10efde4c1540d8603b5ac5dbd14c3df67e65f78c45b91d09d27771"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "adventure",
+    "friendship",
+    "rescue",
+    "superhero"
+  ],
+  "version": 1
+}

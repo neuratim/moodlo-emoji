@@ -1,0 +1,274 @@
+{
+  "id": "N00E21",
+  "localizations": {
+    "ar": {
+      "captions": [
+        "ضوء واحد يصل إلى Manylight: استعد. يستخدم Nova مصباح المنارة الخاص بينما يقوم Rain بتجهيز الناشر الخاص به ويقوم Still بفتح فروع إشارة التتابع. إنهم يجمعون طريقًا للأصول، ولا يخلقون مشاعر بديلة من الضوء.\n\nNova: \"لا يوجد ضوء أكبر. في كل طريق العودة.\"",
+        "عند النهر، يفتح Sigh القناة التي تم تطهيرها أثناء إنقاذ Tangle. يمكن للضباب الآن المرور عبر أداة التوصيل القديمة. يجيب ضوءان من الوحدة المحلية: التتابع النهري جاهز، وبكرة Tangle الفارغة تظل بأمان على رفها.\n\nSigh: \"قناة النهر واضحة. جاهزة.\"",
+        "تقوم Sideeye بمحاذاة المرآة الحقيقية غير الكاملة مع أداة التوصيل الراجعة. الشارع الكبير المطلي عديم الفائدة للإنقاذ. لا أحد يراقب أداء الدليل، لكن المسار المنعكس الصحيح يسمح للوادي بالرد باستخدام مصباحين جاهزين.\n\nSideeye: \"المسار الحقيقي. أبقِه على المسار الحقيقي.\"",
+        "في الميناء، يقوم Phew بمحاذاة مصباح الترحيل بينما يقوم Grit بتثبيت الغالق ويؤكد Alarm الفحص المحلي. ردهم ذو الضوءين ينضم إلى السلسلة. العاصفة لا تزال موجودة. المعدات تعمل داخله.\n\nPhew: \"المصباح محاذٍ. أمسك الغالق عند تلك المحطة.\"",
+        "تجيب المحطة البحرية بعد ذلك. يتحكم Wail في الضباب، ويحتفظ Adore بالمسار المنعكس ويتحقق Wit من المخرج. الحديقة بالخارج لا تزال مكسورة. مساعدتهم تعيد تعبيرات الآخرين؛ ولا يمحو خسائرهم.\n\nWit: \"الضباب واضح، مجموعة المرآة. مرحل البحر جاهز.\"",
+        "يجهز \"لول\" التتابع الجبلي. يستخدم Doze محرك الأقراص المستقل لإرسال الكبسولة الأصلية فارغة للأشخاص الستة الذين ما زالوا في Crown. يتم التحضير لخروجهم قبل أن يحتاجوا إلى الترشح لذلك.\n\nغفوة: \"الكبسولة فارغة وتتجه للأعلى. أبقِ الرصيف خاليًا بالأعلى.\"",
+        "النهر والوادي والميناء والبحر والجبل جاهزة. يجيب Manylight على Crown بمصباحين. تحافظ Rain وNova وMend على ثبات الشبكة، لكن النسخ الأصلية لا يمكنها العودة حتى يقوم الستة أعلاه بتحرير الالتفافية المحمية.\n\nNova: \"أضاء اثنان. نحن جاهزون؛ والآن ننتظر أضاءتهم.\""
+      ],
+      "title": "أكثر من طريقة للتألق"
+    },
+    "bn": {
+      "captions": [
+        "একটি আলো অনেক আলোতে পৌঁছায়: প্রস্তুত করুন। Nova বাতিঘরের নিজস্ব বাতি ব্যবহার করে যখন Rain তার ডিফিউজার প্রস্তুত করে এবং Still রিলে সংকেত শাখাগুলি খোলে। তারা মূলের জন্য একটি রুট একত্রিত করছে, আলো থেকে প্রতিস্থাপনের আবেগ তৈরি করছে না।\n\nNova: \"একটি বড় আলো নয়। সব পথে ফিরে।\"",
+        "নদীতে, Sigh Tangle উদ্ধারের সময় পরিষ্কার করা চ্যানেলটি খুলে দেয়। কুয়াশা এখন পুরানো কাপলিং দিয়ে যেতে পারে। স্থানীয় ইউনিট থেকে দুটি আলোর উত্তর: নদীর রিলে প্রস্তুত, এবং Tangle এর খালি রিল নিরাপদে তার শেলফে থাকে।\n\nSigh: \"নদীর চ্যানেল পরিষ্কার। প্রস্তুত।\"",
+        "Sideeye অপূর্ণ বাস্তব আয়নাকে রিটার্ন কাপলিং এর সাথে সারিবদ্ধ করে। আঁকা গ্র্যান্ড এভিনিউ উদ্ধারের জন্য অকেজো. গাইডের পারফর্ম কেউ দেখছে না, কিন্তু সঠিক প্রতিফলিত পথ দুটি প্রস্তুত আলো দিয়ে ক্যানিয়নকে উত্তর দিতে দেয়।\n\nSideeye: \"আসল পথ। এটিকে আসল পথে রাখুন।\"",
+        "বন্দরে, Phew রিলে বাতি সারিবদ্ধ করে যখন Grit শাটারকে স্থিতিশীল করে এবং Alarm স্থানীয় চেক নিশ্চিত করে। তাদের দুই-হালকা উত্তর চেইনে যোগ দেয়। ঝড় এখনো আছে; যন্ত্রপাতি তার মধ্যে কাজ করে।\n\nPhew: \"বাতি সারিবদ্ধ। সেই স্টপে শাটার ধরুন।\"",
+        "সমুদ্র স্টেশন পরবর্তী উত্তর দেয়। Wail কুয়াশা নিয়ন্ত্রণ করে, Adore প্রতিফলিত পথ ধরে রাখে এবং Wit আউটলেট পরীক্ষা করে। বাইরের বাগান ভাঙা রয়ে গেছে। তাদের সাহায্য অন্য মানুষের অভিব্যক্তি ফিরিয়ে দেয়; এটা তাদের নিজেদের ক্ষতি মুছে ফেলা হয় না.\n\nWit: \"কুয়াশা পরিষ্কার, আয়না সেট। সমুদ্রের রিলে প্রস্তুত।\"",
+        "লুল পাহাড়ের রিলে প্রস্তুত করে। Doze স্বাধীন ড্রাইভ ব্যবহার করে আসল পডটি এখনও Crown-এ থাকা ছয়জনের জন্য খালি ব্যাক আপ পাঠাতে। তাদের জন্য দৌড়ানোর আগে তাদের প্রস্থান প্রস্তুত করা হচ্ছে।\n\nঘুম: \"পোড খালি এবং উপরে যাচ্ছে। উপরে বার্থটি পরিষ্কার রাখুন।\"",
+        "নদী, গিরিখাত, পোতাশ্রয়, সমুদ্র এবং পর্বত প্রস্তুত। মেনিলাইট দুটি আলো দিয়ে Crown উত্তর দেয়। Rain, Nova এবং Mend নেটওয়ার্ক স্থির রাখে, কিন্তু উপরের ছয়টি সুরক্ষিত বাইপাস প্রকাশ না করা পর্যন্ত আসলগুলি ফিরে আসতে পারে না।\n\nNova: \"দুটি আলো জ্বলছে। আমরা প্রস্তুত; এখন আমরা তাদের জন্য অপেক্ষা করছি।\""
+      ],
+      "title": "চকমক করার একেরও বেশি উপায়"
+    },
+    "cs": {
+      "captions": [
+        "Jedno světlo dosáhne Manylight: připravte se. Nova používá vlastní lampu majáku, zatímco Rain připravuje svůj difuzér a Still otevírá větve reléového signálu. Sestavují cestu pro originály, nevytvářejí náhradní emoce ze světla.\n\nNova: \"Ne jedno větší světlo. Každou cestu zpět.\"",
+        "Na řece Sigh otevírá kanál vyčištěný během záchrany Tangle. Starou spojkou nyní může procházet mlha. Z místní jednotky odpovídají dvě kontrolky: říční relé je připraveno a prázdná cívka Tangle zůstává bezpečně na polici.\n\nSigh: \"Řeční kanál čistý. Připraveno.\"",
+        "Sideeye vyrovnává nedokonalé skutečné zrcadlo se zpětnou spojkou. Malovaná velká třída je pro záchranu k ničemu. Nikdo se nedívá na průvodce, ale správná odražená cesta umožňuje kaňonu odpovědět dvěma připravenými světly.\n\nSideeye: \"Skutečná cesta. Udržujte ji na skutečné cestě.\"",
+        "V přístavu Phew vyrovná kontrolku relé, zatímco Grit stabilizuje závěrku a Alarm potvrdí místní kontrolu. Jejich odpověď dvěma světly se připojí k řetězu. Bouře je stále tam; zařízení v něm funguje.\n\nPhew: \"Lampa zarovnána. Držte závěrku na této zarážce.\"",
+        "Námořní stanice odpovídá jako další. Wail řídí mlhu, Adore drží odraženou dráhu a Wit kontroluje výstup. Zahrada venku zůstává rozbitá. Jejich pomoc vrací výrazy ostatních lidí; nesmaže jejich vlastní ztráty.\n\nWit: \"Mlha čistá, zrcadlo nastaveno. Mořské relé připraveno.\"",
+        "Lull připravuje horskou štafetu. Doze používá nezávislý pohon k odeslání původního modulu zpět prázdný pro šest lidí, kteří jsou stále v Crown. Jejich odchod se připravuje, než k němu budou muset běžet.\n\nZdřímnout: \"Modul je prázdný a jde nahoru. Udržujte lůžko volné nahoře.\"",
+        "Řeka, kaňon, přístav, moře a hory jsou připraveny. Manylight odpovídá Crown dvěma světly. Rain, Nova a Mend udržují síť stabilní, ale originály se nemohou vrátit, dokud šest výše neuvolní chráněný bypass.\n\nNova: \"Svítí dvě světla. Jsme připraveni, teď čekáme na jejich.\""
+      ],
+      "title": "Více než jeden způsob, jak zazářit"
+    },
+    "de": {
+      "captions": [
+        "Ein Licht erreicht Manylight: Bereite dich vor. Nova verwendet die eigene Lampe des Leuchtturms, während Rain seinen Diffusor vorbereitet und Still die Relaissignalzweige öffnet. Sie stellen eine Route für die Originale zusammen und erzeugen keine Ersatzemotionen aus Licht.\n\nNova: „Kein einziges größeres Licht. Jeden Weg zurück.“",
+        "Am Fluss öffnet Sigh den Kanal, der während der Rettung von Tangle geräumt wurde. Nun kann Nebel durch die alte Kupplung dringen. Zwei Lichter antworten von der örtlichen Einheit: Das Flussrelais ist bereit und die leere Rolle des Tangle bleibt sicher auf ihrem Regal.\n\nSigh: „Flusskanal frei. Bereit.“",
+        "Sideeye richtet den unvollkommenen realen Spiegel auf die Rückkopplung aus. Die bemalte Grand Avenue ist zur Rettung nutzlos. Niemand schaut dem Führer zu, aber der korrekte reflektierte Weg lässt die Schlucht mit zwei Bereitschaftslichtern antworten.\n\nSideeye: „Der wahre Weg. Bleiben Sie auf dem wahren Weg.“",
+        "Im Hafen richtet Phew die Relaislampe aus, während Grit den Verschluss stabilisiert und Alarm die lokale Prüfung bestätigt. Ihre zweiflammige Antwort schließt sich der Kette an. Der Sturm ist immer noch da; Die Ausrüstung funktioniert darin.\n\nPhew: „Lampe ausgerichtet. Halten Sie den Verschluss an diesem Anschlag.“",
+        "Als nächstes antwortet die Seestation. Wail steuert den Nebel, Adore hält den reflektierten Pfad und Wit prüft den Auslass. Der Garten draußen bleibt kaputt. Ihre Hilfe erwidert den Gesichtsausdruck anderer Menschen; es löscht nicht ihre eigenen Verluste.\n\nWit: „Nebel klar, Spiegel eingestellt. Seerelais bereit.“",
+        "Lull bereitet die Bergstaffel vor. Doze nutzt den unabhängigen Antrieb, um den ursprünglichen Pod leer für die sechs Personen zurückzugeben, die sich noch im Crown befinden. Ihr Abgang wird vorbereitet, bevor sie dafür kandidieren müssen.\n\nDoze: „Die Kapsel ist leer und geht nach oben. Halten Sie den Liegeplatz oben frei.“",
+        "Fluss, Schlucht, Hafen, Meer und Berg sind bereit. Manylight antwortet dem Crown mit zwei Lichtern. Rain, Nova und Mend halten das Netzwerk stabil, aber die Originale können nicht zurückkehren, bis die sechs oben genannten die geschützte Umgehung freigeben.\n\nNova: „Zwei Lichter leuchten auf. Wir sind bereit; jetzt warten wir auf ihre.“"
+      ],
+      "title": "Mehr als eine Möglichkeit zu glänzen"
+    },
+    "en": {
+      "captions": [
+        "One light reaches Manylight: prepare. Nova uses the lighthouse’s own lamp while Rain readies its diffuser and Still opens the relay signal branches. They are assembling a route for the originals, not creating replacement emotions from light.\n\nNova: “Not one bigger light. Every way back.”",
+        "At the river, Sigh opens the channel cleared during Tangle’s rescue. Mist can now pass through the old coupling. Two lights answer from the local unit: the river relay is ready, and Tangle’s empty reel remains safely on its shelf.\n\nSigh: “River channel clear. Ready.”",
+        "Sideeye aligns the imperfect real mirror with the return coupling. The painted grand avenue is useless to the rescue. Nobody is watching the guide perform, but the correct reflected path lets the canyon answer with two ready lights.\n\nSideeye: “The real path. Keep it on the real path.”",
+        "At the harbor, Phew aligns the relay lamp while Grit stabilizes the shutter and Alarm confirms the local check. Their two-light reply joins the chain. The storm is still there; the equipment works within it.\n\nPhew: “Lamp aligned. Hold the shutter at that stop.”",
+        "The sea station answers next. Wail controls the mist, Adore holds the reflected path and Wit checks the outlet. The garden outside remains broken. Their help returns other people’s expressions; it does not erase their own losses.\n\nWit: “Mist clear, mirror set. Sea relay ready.”",
+        "Lull readies the mountain relay. Doze uses the independent drive to send the original pod back up empty for the six people still in the Crown. Their exit is being prepared before they need to run for it.\n\nDoze: “The pod is empty and going up. Keep the berth clear above.”",
+        "River, canyon, harbor, sea and mountain are ready. Manylight answers the Crown with two lights. Rain, Nova and Mend hold the network steady, but the originals cannot return until the six above release the protected bypass.\n\nNova: “Two lights up. We are ready; now we wait for theirs.”"
+      ],
+      "title": "More Than One Way to Shine"
+    },
+    "es": {
+      "captions": [
+        "Una luz llega a Manylight: prepárate. Nova utiliza la lámpara propia del faro mientras Rain prepara su difusor y Still abre las ramas de señal del relé. Están armando una ruta para los originales, no creando emociones de reemplazo a partir de la luz.\n\nNova: \"Ni una luz más grande. En todos los sentidos\".",
+        "En el río, Sigh abre el canal despejado durante el rescate de Tangle. La niebla ahora puede pasar a través del acoplamiento antiguo. Dos luces responden desde la unidad local: el relé del río está listo y el carrete vacío del Tangle permanece seguro en su estante.\n\nSigh: \"Canal del río despejado. Listo\".",
+        "Sideeye alinea el espejo real imperfecto con el acoplamiento de retorno. La gran avenida pintada es inútil para el rescate. Nadie está observando la actuación del guía, pero el camino reflejado correcto permite que el cañón responda con dos luces listas.\n\nSideeye: \"El camino real. Mantenlo en el camino real\".",
+        "En el puerto, Phew alinea la lámpara del relé mientras Grit estabiliza la persiana y Alarm confirma la verificación local. Su respuesta de dos luces se une a la cadena. La tormenta sigue ahí; el equipo funciona dentro de él.\n\nPhew: \"Lámpara alineada. Mantenga el obturador en ese tope\".",
+        "La estación marítima responde a continuación. Wail controla la niebla, Adore mantiene el camino reflejado y Wit comprueba la salida. El jardín exterior sigue roto. Su ayuda devuelve las expresiones de otras personas; no borra sus propias pérdidas.\n\nWit: \"Niebla despejada, espejo configurado. Relé de mar listo\".",
+        "Llull prepara el relevo de montaña. Doze utiliza la unidad independiente para enviar la cápsula original vacía para las seis personas que aún están en el Crown. Se está preparando su salida antes de que tengan que huir.\n\nDoze: \"La cápsula está vacía y subiendo. Mantenga el atracadero despejado arriba\".",
+        "Río, cañón, puerto, mar y montaña están listos. Manylight responde al Crown con dos luces. Rain, Nova y Mend mantienen estable la red, pero los originales no pueden regresar hasta que los seis anteriores liberen el bypass protegido.\n\nNova: \"Se encienden dos luces. Estamos listos, ahora esperamos el de ellos\"."
+      ],
+      "title": "Más de una forma de brillar"
+    },
+    "fr": {
+      "captions": [
+        "Une lumière atteint Manylight : préparez-vous. Le Nova utilise la propre lampe du phare tandis que le Rain prépare son diffuseur et le Still ouvre les branches du signal relais. Ils construisent un itinéraire pour les originaux, sans créer d'émotions de remplacement à partir de la lumière.\n\nNova : \"Pas une plus grande lumière. Chaque chemin de retour.\"",
+        "Au bord de la rivière, Sigh ouvre le chenal dégagé lors du sauvetage de Tangle. La brume peut désormais passer à travers l'ancien couplage. Deux voyants lumineux répondent depuis l'unité locale : le relais fluvial est prêt, et la bobine vide du Tangle reste en sécurité sur son étagère.\n\nSigh : \"Canal de rivière dégagé. Prêt.\"",
+        "Sideeye aligne le miroir réel imparfait avec le couplage de retour. La grande avenue peinte ne sert à rien à notre secours. Personne ne regarde le guide jouer, mais le chemin réfléchi correct permet au canyon de répondre avec deux lumières prêtes.\n\nSideeye : \"Le vrai chemin. Gardez-le sur le vrai chemin.\"",
+        "Au port, Phew aligne la lampe relais tandis que Grit stabilise le volet et Alarm confirme le contrôle local. Leur réponse à deux lumières rejoint la chaîne. La tempête est toujours là ; l'équipement fonctionne à l'intérieur.\n\nPhew : \"Lampe alignée. Maintenez l'obturateur à cette butée. \"",
+        "La station maritime répond ensuite. Wail contrôle la brume, Adore détient le chemin réfléchi et Wit vérifie la sortie. Le jardin extérieur reste détruit. Leur aide renvoie les expressions des autres ; cela n’efface pas leurs propres pertes.\n\nWit : \"Brouillard clair, miroir réglé. Relais maritime prêt.\"",
+        "Lull prépare le relais de montagne. Doze utilise le lecteur indépendant pour renvoyer le pod d'origine vide pour les six personnes encore dans le Crown. Leur sortie est en cours de préparation avant qu’ils n’aient besoin de se présenter.\n\nSomnolent : \"La nacelle est vide et monte. Gardez la couchette dégagée au-dessus.\"",
+        "Rivière, canyon, port, mer et montagne sont prêts. Manylight répond au Crown avec deux lumières. Rain, Nova et Mend maintiennent le réseau stable, mais les originaux ne peuvent pas revenir tant que les six ci-dessus n'ont pas libéré le contournement protégé.\n\nNova : \"Deux lumières s'allument. Nous sommes prêts ; maintenant nous attendons la leur.\""
+      ],
+      "title": "Plus d'une façon de briller"
+    },
+    "hi": {
+      "captions": [
+        "एक प्रकाश मैनीलाइट तक पहुंचता है: तैयार हो जाओ। Nova लाइटहाउस के स्वयं के लैंप का उपयोग करता है जबकि Rain अपने विसारक को तैयार करता है और Still रिले सिग्नल शाखाओं को खोलता है। वे मूल के लिए एक मार्ग तैयार कर रहे हैं, न कि प्रकाश से प्रतिस्थापन भावनाएं पैदा कर रहे हैं।\n\nNova: \"एक भी बड़ी रोशनी नहीं। हर तरह से पीछे।\"",
+        "नदी पर, Sigh, Tangle के बचाव के दौरान साफ किए गए चैनल को खोलता है। धुंध अब पुराने कपलिंग से होकर गुजर सकती है। स्थानीय इकाई से दो लाइटें उत्तर देती हैं: नदी रिले तैयार है, और Tangle की खाली रील उसके शेल्फ पर सुरक्षित रूप से बनी हुई है।\n\nSigh: \"नदी चैनल साफ़। तैयार।\"",
+        "Sideeye रिटर्न कपलिंग के साथ अपूर्ण वास्तविक दर्पण को संरेखित करता है। चित्रित ग्रांड एवेन्यू बचाव के लिए बेकार है। कोई भी गाइड को प्रदर्शन करते हुए नहीं देख रहा है, लेकिन सही प्रतिबिंबित पथ घाटी को दो तैयार रोशनी के साथ उत्तर देता है।\n\nSideeye: \"वास्तविक पथ। इसे वास्तविक पथ पर रखें।\"",
+        "बंदरगाह पर, Phew रिले लैंप को संरेखित करता है जबकि Grit शटर को स्थिर करता है और Alarm स्थानीय जांच की पुष्टि करता है। उनका दो-रोशनी वाला उत्तर श्रृंखला में जुड़ जाता है। तूफ़ान अब भी है; उपकरण इसके भीतर काम करता है।\n\nPhew: \"लैंप संरेखित। शटर को उस स्टॉप पर पकड़ें।\"",
+        "समुद्री स्टेशन अगला उत्तर देता है। Wail धुंध को नियंत्रित करता है, Adore प्रतिबिंबित पथ रखता है और Wit आउटलेट की जांच करता है। बाहर का बगीचा टूटा हुआ रहता है. उनकी मदद से दूसरे लोगों के भाव लौट आते हैं; इससे उनका अपना नुकसान नहीं मिटता।\n\nWit: \"धुंध साफ़, दर्पण सेट। समुद्री रिले तैयार।\"",
+        "लुल माउंटेन रिले तैयार करता है। डोज़ Crown में अभी भी मौजूद छह लोगों के लिए मूल पॉड को खाली भेजने के लिए स्वतंत्र ड्राइव का उपयोग करता है। इससे पहले कि उन्हें इसके लिए दौड़ना पड़े, उनके निकास की तैयारी की जा रही है।\n\nडोज़: \"पॉड खाली है और ऊपर जा रहा है। ऊपर बर्थ साफ़ रखें।\"",
+        "नदी, घाटी, बंदरगाह, समुद्र और पहाड़ तैयार हैं। मैनीलाइट Crown को दो लाइटों के साथ उत्तर देता है। Rain, Nova और Mend नेटवर्क को स्थिर रखते हैं, लेकिन मूल तब तक वापस नहीं आ सकते जब तक कि उपरोक्त छह संरक्षित बाईपास जारी नहीं करते।\n\nNova: \"दो बत्तियाँ जलती हैं। हम तैयार हैं; अब हम उनकी प्रतीक्षा करते हैं।\""
+      ],
+      "title": "चमकने के एक से अधिक तरीके"
+    },
+    "id": {
+      "captions": [
+        "Satu cahaya mencapai Manylight: bersiaplah. Nova menggunakan lampu mercusuar sendiri sementara Rain menyiapkan diffusernya dan Still membuka cabang sinyal relai. Mereka menyusun rute untuk aslinya, bukan menciptakan emosi pengganti dari cahaya.\n\nNova: \"Tidak ada lampu yang lebih besar. Setiap jalan pulang.\"",
+        "Di sungai, Sigh membuka saluran yang dibersihkan selama penyelamatan Tangle. Kabut sekarang dapat melewati kopling lama. Dua lampu menjawab dari unit lokal: estafet sungai telah siap, dan reel kosong Tangle tetap aman di raknya.\n\nSigh: “Saluran sungai bersih. Siap.”",
+        "Sideeye menyelaraskan cermin asli yang tidak sempurna dengan kopling balik. Jalan besar yang dicat tidak berguna untuk penyelamatan. Tidak ada seorang pun yang menyaksikan pertunjukan pemandu, tetapi jalur pantulan yang benar memungkinkan ngarai menjawab dengan dua lampu yang siap digunakan.\n\nSideeye: \"Jalan yang sebenarnya. Pertahankan di jalur yang sebenarnya.\"",
+        "Di pelabuhan, Phew menyelaraskan lampu relai sementara Grit menstabilkan rana dan Alarm mengonfirmasi pemeriksaan lokal. Balasan dua ringan mereka bergabung dalam rantai. Badai masih ada; peralatan bekerja di dalamnya.\n\nPhew: \"Lampu sejajar. Tahan rana pada titik itu.\"",
+        "Stasiun laut menjawab selanjutnya. Wail mengontrol kabut, Adore menahan jalur pantulan dan Wit memeriksa saluran keluar. Taman di luar masih rusak. Bantuan mereka mengembalikan ekspresi orang lain; itu tidak menghapus kerugian mereka sendiri.\n\nWit: \"Mist clear, mirror set. Relai laut siap.\"",
+        "Jeda menyiapkan estafet gunung. Istirahatkan menggunakan drive independen untuk mengirim kembali pod asli dalam keadaan kosong untuk enam orang yang masih berada di Crown. Jalan keluar mereka sedang dipersiapkan sebelum mereka perlu mencalonkan diri.\n\nIstirahatkan: \"Podnya kosong dan sedang naik. Jaga agar tempat berlabuh tetap bersih di atas.\"",
+        "Sungai, ngarai, pelabuhan, laut dan gunung sudah siap. Manylight menjawab Crown dengan dua lampu. Rain, Nova dan Mend menjaga jaringan tetap stabil, namun dokumen asli tidak dapat kembali sampai enam di atas melepaskan bypass yang dilindungi.\n\nNova: \"Dua lampu menyala. Kami siap; sekarang kami menunggu lampu mereka.\""
+      ],
+      "title": "Lebih dari Satu Cara untuk Bersinar"
+    },
+    "it": {
+      "captions": [
+        "Una luce raggiunge Molteluce: preparati. Nova utilizza la lampada del faro mentre Rain prepara il suo diffusore e Still apre i rami del segnale del relè. Stanno assemblando un percorso per gli originali, non creando emozioni sostitutive dalla luce.\n\nNova: \"Nessuna luce più grande. Al ritorno.\"",
+        "Al fiume, Sigh apre il canale liberato durante il salvataggio di Tangle. La nebbia ora può passare attraverso il vecchio accoppiamento. Due luci rispondono dall’unità locale: il relè fluviale è pronto e la bobina vuota di Tangle rimane al sicuro sul suo scaffale.\n\nSigh: \"Canale del fiume libero. Pronto.\"",
+        "Sideeye allinea lo specchio reale imperfetto con l'accoppiamento di ritorno. Il grande viale dipinto è inutile in soccorso. Nessuno osserva l'esibizione della guida, ma il corretto percorso riflesso fa sì che il canyon risponda con due luci pronte.\n\nSideeye: \"Il vero percorso. Mantieniti sul vero percorso.\"",
+        "Al porto, Phew allinea la lampada del relè mentre Grit stabilizza la tapparella e Alarm conferma il controllo locale. La loro risposta a due luci si unisce alla catena. La tempesta è ancora lì; l'apparecchiatura funziona al suo interno.\n\nPhew: \"Lampada allineata. Tenere l'otturatore a quel punto.\"",
+        "Poi risponde la stazione marittima. Wail controlla la nebbia, Adore mantiene il percorso riflesso e Wit controlla l'uscita. Il giardino esterno rimane rotto. Il loro aiuto restituisce le espressioni degli altri; non cancella le proprie perdite.\n\nWit: \"Nebbia limpida, specchio impostato. Relè marino pronto.\"",
+        "Lull prepara la staffetta di montagna. Doze utilizza la propulsione indipendente per rispedire vuota la capsula originale per le sei persone ancora nello Crown. La loro uscita viene preparata prima che debbano scappare.\n\nDoze: \"La capsula è vuota e sta salendo. Mantieni la cuccetta libera sopra.\"",
+        "Il fiume, il canyon, il porto, il mare e la montagna sono pronti. Manylight risponde allo Crown con due luci. Rain, Nova e Mend mantengono stabile la rete, ma gli originali non possono tornare finché i sei sopra non rilasciano il bypass protetto.\n\nNova: \"Due luci accese. Noi siamo pronti, ora aspettiamo la loro.\""
+      ],
+      "title": "Più di un modo per brillare"
+    },
+    "ja": {
+      "captions": [
+        "一つの光がメニーライトに届く：準備を。 Nova は灯台独自のランプを使用し、Rain はディフューザーを準備し、Still はリレー信号分岐を開きます。彼らはオリジナルのルートを組み立てているのであって、光から代替の感情を作り出しているわけではありません。\n\nNova: 「大きなライトは一つもありません。ずっと戻ってきました。」",
+        "川では、Sigh が Tangle の救助中に開けられた水路を開きます。ミストが古いカップリングを通過できるようになりました。 2 つのライトがローカル ユニットからの応答です。河川リレーの準備が完了し、Tangle の空のリールが安全に棚に残っています。\n\nSigh: 「川の水路はきれいです。準備完了です。」",
+        "Sideeye は、不完全な本物のミラーをリターンカップリングと位置合わせします。ペイントされた大通りは何の役にも立ちません。ガイドのパフォーマンスを誰も見ていませんが、正しい反射経路により、渓谷は 2 つの準備ができたライトで応答します。\n\nSideeye: 「本当のパスです。本当のパス上に置いてください。」",
+        "港では、Phewでリレーランプの位置を調整し、Gritでシャッターを安定させ、Alarmで現地確認を行います。彼らの 2 つの光の応答が連鎖に加わります。嵐はまだそこにあります。機器はその中で動作します。\n\nPhew: 「ランプの位置が調整されました。その位置でシャッターを押し続けてください。」",
+        "次に海の駅が答えます。 Wail はミストを制御し、Adore は反射経路を保持し、Wit は出口をチェックします。外の庭は壊れたままです。彼らの助けは他の人々の表現を返します。自分自身の損失が消えるわけではありません。\n\nWit: 「ミストクリア、ミラーセット。海上中継準備完了。」",
+        "ルルは山岳リレーの準備をします。 Doze は独立したドライブを使用して、Crown に残っている 6 人のために元のポッドを空にバックアップします。彼らは逃げ出す前に出口の準備をしている。\n\n居眠り: 「ポッドは空で、上昇中です。上の寝台には何も置かないでください。」",
+        "川、峡谷、港、海、山が準備ができています。 Manylight は Crown に 2 つのライトで答えます。 Rain、Nova、および Mend はネットワークを安定に保ちますが、上記の 6 つが保護されたバイパスを解放するまで、元の状態に戻ることはできません。\n\nNova: 「2 つのライトが点灯します。準備は完了しました。今は彼らのライトを待ちます。」"
+      ],
+      "title": "輝くための複数の方法"
+    },
+    "ko": {
+      "captions": [
+        "하나의 빛이 Manylight에 도달합니다. 준비하세요. Nova는 등대 자체 램프를 사용하고 Rain는 디퓨저를 준비하며 Still는 ​​릴레이 신호 분기를 엽니다. 그들은 빛으로 대체적인 감정을 만들어내는 것이 아니라, 원본을 위한 루트를 조립하고 있는 것이다.\n\nNova: \"더 큰 빛이 하나도 없습니다. 모든 방향으로 돌아갑니다.\"",
+        "강에서 Sigh는 Tangle를 구조하는 동안 지워진 수로를 엽니다. 이제 미스트가 기존 커플링을 통과할 수 있습니다. 두 개의 조명이 로컬 장치에서 응답합니다. 리버 릴레이가 준비되었으며 Tangle의 빈 릴은 선반에 안전하게 남아 있습니다.\n\nSigh: \"강 채널이 비어 있습니다. 준비되었습니다.\"",
+        "Sideeye는 불완전한 실제 거울을 리턴 커플링과 정렬합니다. 그려진 그랜드 애비뉴는 구조에 쓸모가 없습니다. 아무도 가이드의 공연을 지켜보고 있지 않지만 올바른 반사 경로를 통해 협곡은 두 개의 준비된 조명으로 응답할 수 있습니다.\n\nSideeye: \"실제 경로. 실제 경로를 유지하세요.\"",
+        "항구에서는 Phew가 릴레이 램프를 정렬하고 Grit는 셔터를 안정화하고 Alarm는 로컬 점검을 확인합니다. 그들의 두 빛 응답이 체인에 합류합니다. 폭풍은 여전히 ​​존재합니다. 장비는 그 안에서 작동합니다.\n\nPhew: \"램프가 정렬되었습니다. 그 지점에서 셔터를 누르십시오.\"",
+        "다음은 바다 스테이션이 대답합니다. Wail는 미스트를 제어하고, Adore는 반사 경로를 유지하며, Wit는 배출구를 확인합니다. 바깥 정원은 부서진 채로 남아있습니다. 그들의 도움은 다른 사람들의 표현을 돌려줍니다. 그것은 자신의 손실을 지우지 않습니다.\n\nWit: \"안개가 맑고 거울이 설정되어 있습니다. 해상 중계 준비가 완료되었습니다.\"",
+        "Lull은 산악 릴레이를 준비합니다. Doze는 독립 드라이브를 사용하여 아직 Crown에 있는 6명의 사람들을 위해 원래 포드 백업을 비어 있도록 보냅니다. 그들의 출구는 그들이 달려가기 전에 준비되고 있습니다.\n\n잠자기: \"포드가 비어 있고 위로 올라가고 있습니다. 위에 있는 정박지를 깨끗하게 유지하세요.\"",
+        "강, 협곡, 항구, 바다, 산이 준비되어 있습니다. Manylight는 두 개의 조명으로 Crown에 응답합니다. Rain, Nova 및 Mend는 네트워크를 안정적으로 유지하지만 위의 6개가 보호된 우회를 해제할 때까지 원본은 반환될 수 없습니다.\n\nNova: \"두 개의 조명이 켜졌습니다. 우리는 준비가 되었습니다. 이제 우리는 그들의 것을 기다립니다.\""
+      ],
+      "title": "빛을 발하는 여러 가지 방법"
+    },
+    "pl": {
+      "captions": [
+        "Jedno światło dociera do Manylight: przygotuj się. Nova wykorzystuje własną lampę latarni morskiej, Rain przygotowuje dyfuzor, a Still otwiera gałęzie sygnałowe przekaźnika. Układają trasę dla oryginałów, a nie tworzą zastępcze emocje ze światła.\n\nNova: \"Ani jednego większego światła. W każdą stronę.\"",
+        "Na rzece Sigh otwiera kanał oczyszczony podczas akcji ratunkowej Tangle. Mgła może teraz przejść przez stare złącze. Z jednostki lokalnej odpowiadają dwie lampki: przekaźnik rzeczny jest gotowy, a pusta szpula Tangle pozostaje bezpiecznie na półce.\n\nSigh: „Kanał rzeki czysty. Gotowy.”",
+        "Sideeye wyrównuje niedoskonałe lustro rzeczywiste ze sprzęgłem powrotnym. Malowana wielka aleja nie jest już na ratunek. Nikt nie obserwuje występów przewodnika, ale prawidłowo odbita ścieżka pozwala kanionowi odpowiedzieć dwoma gotowymi światłami.\n\nSideeye: \"Prawdziwa ścieżka. Trzymaj ją na prawdziwej ścieżce. \"",
+        "W porcie Phew ustawia lampę przekaźnikową, Grit stabilizuje migawkę, a Alarm potwierdza kontrolę lokalną. Ich odpowiedź zawierająca dwa światła dołącza do łańcucha. Burza nadal trwa; sprzęt w nim pracuje.\n\nPhew: \"Lampa ustawiona. Przytrzymaj migawkę w tym miejscu. \"",
+        "Stacja morska odpowiada jako następna. Wail kontroluje mgłę, Adore utrzymuje odbitą ścieżkę, a Wit sprawdza wylot. Ogród na zewnątrz pozostaje zepsuty. Ich pomoc przywraca wyraz twarzy innych ludzi; nie wymazuje własnych strat.\n\nWit: \"Mgła czysta, lustro ustawione. Przekaźnik morski gotowy.\"",
+        "Lull przygotowuje sztafetę górską. Doze korzysta z niezależnego napędu, aby wysłać oryginalną kapsułę z powrotem pustą dla sześciu osób znajdujących się nadal w Crown. Ich wyjście jest przygotowywane, zanim będą musieli uciekać.\n\nDoze: \"Kapsuła jest pusta i płynie w górę. Trzymaj miejsce do cumowania na górze. \"",
+        "Rzeka, kanion, port, morze i góry są gotowe. Manylight odpowiada Crown dwoma światłami. Rain, Nova i Mend utrzymują sieć stabilnie, ale oryginały nie mogą powrócić, dopóki sześć powyższych nie zwolni chronionego obejścia.\n\nNova: \"Świecą dwie lampki. Jesteśmy gotowi, teraz czekamy na ich.\""
+      ],
+      "title": "Więcej niż jeden sposób, aby zabłysnąć"
+    },
+    "pt": {
+      "captions": [
+        "Uma luz chega a Manylight: prepare-se. Nova usa a própria lâmpada do farol enquanto Rain prepara seu difusor e Still abre os ramos de sinal do relé. Eles estão montando uma rota para os originais, não criando emoções substitutas a partir da luz.\n\nNova: \"Nenhuma luz maior. Em todo caminho de volta.\"",
+        "No rio, Sigh abre o canal liberado durante o resgate de Tangle. A névoa agora pode passar pelo acoplamento antigo. Duas luzes respondem da unidade local: o relé do rio está pronto e a bobina vazia do Tangle permanece segura em sua prateleira.\n\nSigh: \"Canal do rio limpo. Pronto.\"",
+        "Sideeye alinha o espelho real imperfeito com o acoplamento de retorno. A grande avenida pintada é inútil para o resgate. Ninguém está observando a atuação do guia, mas o caminho refletido correto permite que o cânion responda com duas luzes prontas.\n\nSideeye: \"O caminho real. Mantenha-o no caminho real.\"",
+        "No porto, Phew alinha a lâmpada relé enquanto Grit estabiliza o obturador e Alarm confirma a verificação local. A resposta de duas luzes junta-se à corrente. A tempestade ainda está aí; o equipamento funciona dentro dele.\n\nPhew: \"Lâmpada alinhada. Segure o obturador nesse ponto.\"",
+        "A estação marítima responde em seguida. Wail controla a névoa, Adore mantém o caminho refletido e Wit verifica a saída. O jardim lá fora continua quebrado. A ajuda deles retorna as expressões de outras pessoas; não apaga suas próprias perdas.\n\nWit: \"Névoa limpa, espelho definido. Relé marítimo pronto.\"",
+        "Lull prepara o revezamento na montanha. Doze usa o drive independente para enviar o pod original vazio para as seis pessoas que ainda estão no Crown. A saída deles está sendo preparada antes que eles precisem correr.\n\nSoneca: \"A cápsula está vazia e subindo. Mantenha o cais vazio acima.\"",
+        "Rio, canyon, porto, mar e montanha estão prontos. Manylight responde ao Crown com duas luzes. Rain, Nova e Mend mantêm a rede estável, mas os originais não podem retornar até que os seis acima liberem o desvio protegido.\n\nNova: \"Duas luzes acesas. Estamos prontos; agora esperamos pela deles.\""
+      ],
+      "title": "Mais de uma maneira de brilhar"
+    },
+    "ru": {
+      "captions": [
+        "Один свет достигает многих светов: приготовьтесь. Nova использует собственную лампу маяка, Rain готовит свой рассеиватель, а Still открывает ветви сигнала реле. Они собирают маршрут по оригиналам, а не создают замены эмоций из света.\n\nNova: \"Ни одного большего света. В обратном направлении.\"",
+        "У реки Sigh открывает канал, расчищенный во время спасения Tangle. Теперь туман может проходить через старую муфту. От местного блока отвечают два огонька: речное реле готово, а пустая катушка Tangle благополучно остается на полке.\n\nSigh: \"Русло реки чисто. Готово.\"",
+        "Sideeye совмещает несовершенное реальное зеркало с обратной муфтой. Разрисованный большой проспект бесполезен. Никто не наблюдает за выступлением гида, но правильный отраженный путь позволяет каньону ответить двумя готовыми огнями.\n\nSideeye: \"Настоящий путь. Держитесь настоящего пути\".",
+        "В гавани Phew выравнивает лампу реле, Grit стабилизирует затвор, а Alarm подтверждает местную проверку. Их ответный сигнал двумя светами присоединяется к цепочке. Шторм все еще здесь; оборудование работает внутри него.\n\nPhew: \"Лампа выровнена. Удерживайте затвор на этом упоре\".",
+        "Дальше отвечает морская станция. Wail контролирует туман, Adore удерживает отраженный путь, а Wit проверяет выходное отверстие. Сад снаружи остается разрушенным. Их помощь возвращает выражения эмоций других людей; оно не компенсирует их собственных потерь.\n\nWit: \"Туман рассеялся, зеркало установлено. Морское реле готово\".",
+        "Луллий готовит горную эстафету. Doze использует независимый диск, чтобы отправить исходную капсулу пустой для шести человек, все еще находящихся в Crown. Их выход готовится еще до того, как им придется бежать за ним.\n\nДремлет: \"Капсула пуста и поднимается вверх. Держите койку наверху свободной\".",
+        "Река, каньон, гавань, море и гора готовы. Manylight отвечает Crown двумя лампами. Rain, Nova и Mend удерживают сеть устойчиво, но оригиналы не могут вернуться, пока шестеро выше не отключат защищенный обход.\n\nNova: \"Загораются два фонаря. Мы готовы, теперь ждем их\"."
+      ],
+      "title": "Больше, чем один способ сиять"
+    },
+    "tr": {
+      "captions": [
+        "Manylight'a bir ışık ulaşıyor: hazırlanın. Nova deniz fenerinin kendi lambasını kullanırken Rain difüzörünü hazırlar ve Still röle sinyal dallarını açar. Işıktan ikame duygular yaratmak değil, orijinallere rota çiziyorlar.\n\nNova: \"Daha büyük bir ışık yok. Her yol geri.\"",
+        "Nehirde, Sigh, Tangle'nin kurtarılması sırasında temizlenen kanalı açar. Artık sis eski bağlantıdan geçebilir. Yerel üniteden iki ışık yanıyor: nehir rölesi hazır ve Tangle'nin boş makarası güvenli bir şekilde rafında duruyor.\n\nSigh: \"Nehir kanalı temiz. Hazır.\"",
+        "Sideeye kusurlu gerçek aynayı dönüş bağlantısıyla hizalar. Boyalı büyük caddenin kurtarmaya faydası yok. Kimse rehberin gösterisini izlemiyor ama doğru yansıtılan yol, kanyonun iki hazır ışıkla yanıt vermesini sağlıyor.\n\nSideeye: \"Gerçek yol. Onu gerçek yolda tutun.\"",
+        "Limanda, Phew röle lambasını hizalarken, Grit deklanşörü dengeler ve Alarm yerel kontrolü onaylar. İki ışıklı cevapları zincire katılıyor. Fırtına hâlâ orada; ekipman onun içinde çalışır.\n\nPhew: \"Lamba hizalandı. Deklanşörü bu noktada tutun.\"",
+        "Daha sonra deniz istasyonu cevap verir. Wail buğuyu kontrol eder, Adore yansıyan yolu tutar ve Wit çıkışı kontrol eder. Dışarıdaki bahçe bozuk durumda. Onların yardımları diğer insanların ifadelerine karşılık verir; kendi kayıplarını silmez.\n\nWit: \"Sis temizlendi, ayna seti. Deniz rölesi hazır.\"",
+        "Lull dağ bayrak yarışını hazırlıyor. Doze, orijinal bölmeyi hala Crown'de bulunan altı kişiye boş olarak göndermek için bağımsız sürücüyü kullanıyor. Kaçmaları gerekmeden önce çıkışları hazırlanıyor.\n\nDoze: \"Kapsül boş ve yukarı çıkıyor. Yukarıda yatağı boş tutun.\"",
+        "Nehir, kanyon, liman, deniz ve dağ hazır. Manylight, Crown'ye iki ışıkla yanıt verir. Rain, Nova ve Mend ağı sabit tutar, ancak yukarıdaki altısı korumalı bypass'ı serbest bırakana kadar orijinaller geri dönemez.\n\nNova: \"İki ışık yanıyor. Biz hazırız; şimdi onlarınkini bekliyoruz.\""
+      ],
+      "title": "Parlamanın Birden Fazla Yolu"
+    },
+    "vi": {
+      "captions": [
+        "Một ánh sáng chạm tới Nhiều ánh sáng: chuẩn bị. Nova sử dụng đèn riêng của ngọn hải đăng trong khi Rain chuẩn bị sẵn bộ khuếch tán và Still mở các nhánh tín hiệu chuyển tiếp. Họ đang lắp ráp một lộ trình cho bản gốc chứ không tạo ra những cảm xúc thay thế từ ánh sáng.\n\nNova: \"Không một ngọn đèn nào lớn hơn. Khắp nơi trở về.\"",
+        "Tại sông, Sigh mở kênh đã được thông suốt trong cuộc giải cứu Tangle. Sương mù bây giờ có thể đi qua khớp nối cũ. Hai đèn phản hồi từ đơn vị cục bộ: rơle sông đã sẵn sàng và cuộn trống của Tangle vẫn an toàn trên kệ của nó.\n\nSigh: \"Kênh sông thông thoáng. Sẵn sàng.\"",
+        "Sideeye căn chỉnh gương thật không hoàn hảo với khớp nối phản hồi. Đại lộ lớn được sơn vẽ là vô dụng để giải cứu. Không ai đang xem người hướng dẫn biểu diễn, nhưng con đường phản chiếu chính xác sẽ giúp hẻm núi trả lời bằng hai ngọn đèn sẵn sàng.\n\nSideeye: \"Con đường thật. Hãy giữ nó trên con đường thật.\"",
+        "Tại bến cảng, Phew căn chỉnh đèn chuyển tiếp trong khi Grit ổn định màn trập và Alarm xác nhận kiểm tra cục bộ. Câu trả lời hai ánh sáng của họ tham gia vào chuỗi. Cơn bão vẫn còn đó; thiết bị hoạt động bên trong nó.\n\nPhew: \"Đèn được căn chỉnh. Giữ cửa trập ở điểm dừng đó.\"",
+        "Trạm biển trả lời tiếp theo. Wail kiểm soát sương mù, Adore giữ đường đi phản ánh và Wit kiểm tra ổ cắm. Khu vườn bên ngoài vẫn còn bị phá vỡ. Sự giúp đỡ của họ đáp lại biểu hiện của người khác; nó không xóa đi những mất mát của chính họ.\n\nWit: \"Sương mù rõ ràng, bộ gương. Rơle biển sẵn sàng.\"",
+        "Lull sẵn sàng cho cuộc chạy tiếp sức trên núi. Ngủ sâu sử dụng ổ đĩa độc lập để gửi bản sao lưu nhóm trống cho sáu người vẫn còn trong Crown. Lối thoát của họ đang được chuẩn bị trước khi họ cần phải chạy trốn.\n\nNgủ gật: \"Khoang trống và đang đi lên. Giữ cho giường ở phía trên trống trải.\"",
+        "Sông, hẻm núi, bến cảng, biển và núi đã sẵn sàng. Manylight đáp ứng Crown bằng hai đèn. Rain, Nova và Mend giữ mạng ổn định, nhưng các bản gốc không thể quay trở lại cho đến khi sáu thiết bị trên giải phóng đường vòng được bảo vệ.\n\nNova: \"Hai đèn sáng lên. Chúng tôi đã sẵn sàng; bây giờ chúng tôi chờ đèn của họ.\""
+      ],
+      "title": "Nhiều hơn một cách để tỏa sáng"
+    },
+    "zh": {
+      "captions": [
+        "一盏灯到达多重光：准备。 Nova 使用灯塔自带的灯，而 Rain 准备其扩散器，Still 打开中继信号分支。他们正在为原作组装一条路线，而不是用光创造替代情感。\n\nNova：“没有一盏更大的灯。一路回来。”",
+        "在河边，Sigh打开了Tangle救援期间清理的通道。雾气现在可以穿过旧联轴器。本地单元发出两盏灯应答：河流中继已准备就绪，Tangle 的空卷轴安全地留在架子上。\n\nSigh：“河道畅通。准备就绪。”",
+        "Sideeye 将不完美的实镜与返回耦合对准。粉刷过的大道对救援毫无用处。没有人在观看导游的表演，但正确的反射路径让峡谷用两盏准备好的灯来回答。\n\nSideeye：“真实的道路。保持在真实的道路上。”",
+        "在港口，Phew 对准中继灯，同时 Grit 稳定快门，Alarm 确认本地检查。他们的两盏灯回复加入了链条。风暴依然存在；设备在其中工作。\n\nPhew：“灯已对准。将快门保持在该位置。”",
+        "接下来是海洋站应答。 Wail控制雾气，Adore控制反射路径，Wit检查出口。外面的花园仍然残破不堪。他们的帮助回报别人的表情；它并不能消除他们自己的损失。\n\nWit：“雾气清晰，镜子已设置。海上中继准备就绪。”",
+        "纳尔准备山地接力。 Doze 使用独立驱动器将原来的吊舱送回空的位置，供仍在 Crown 中的六人使用。他们的退出在他们需要奔跑之前就已经做好了准备。\n\n瞌睡：“吊舱是空的，正在上升。保持上面的泊位畅通无阻。”",
+        "河流、峡谷、港口、海洋、山脉都已准备就绪。 Manylight 用两个灯来回答 Crown。 Rain、Nova 和 Mend 保持网络稳定，但在上述六个释放受保护的旁路之前，原始数据无法返回。\n\nNova：“两个亮了。我们准备好了；现在等待他们的。”"
+      ],
+      "title": "不止一种发光方式"
+    }
+  },
+  "number": 21,
+  "panels": [
+    {
+      "altText": "Nova watches the three-window receiver show only its left shutter open: the incoming PREPARE signal. Rain moistens the fixed diffusing pane beside the lighthouse’s own lamp.",
+      "bytes": 1926050,
+      "image": "N00E21P01.png",
+      "sha256": "05a14a96fe901d1e2236d8ea779adfa37401b2b9884b6aa7fbd2763e4c40966a"
+    },
+    {
+      "altText": "Sigh locks the cleaned transfer cup’s outlet into the copper river relay coupling while the ferry is secured at its home berth. The empty spool from Tangle’s rescue remains on the shelf behind the cup.",
+      "bytes": 1855359,
+      "image": "N00E21P02.png",
+      "sha256": "4ec8d9ffbff01db9d2c90cdf3a9e23f2844eaea81d2eff3561eba7bc9e0e55d3"
+    },
+    {
+      "altText": "Sideeye turns the real scratched mirror in its bolted pivot frame so two signal glints land on the copper relay’s receiving pane. The mirror reflects the actual pipe outlet facing it, with correct left-right orientation and no invented city beyond.",
+      "bytes": 1864265,
+      "image": "N00E21P03.png",
+      "sha256": "40867433c928f4e711ba366960fd69b54de8e86ce3abaefe2c1bc6635b21e163"
+    },
+    {
+      "altText": "Phew secures a lamp in the wave-marked relay fitting introduced at the harbor. Grit holds the wind-shutter winch against its locking stop while Alarm makes one local readiness bell strike.",
+      "bytes": 1878353,
+      "image": "N00E21P04.png",
+      "sha256": "f911dafcca424bb17a68cba9c740a975941dc23cb42a8ee6bb505a4c0aa2c09d"
+    },
+    {
+      "altText": "Wail opens the clean mist-channel wheel. Adore tilts the saved rectangular tile in its existing wall holder.",
+      "bytes": 1866413,
+      "image": "N00E21P05.png",
+      "sha256": "a56a13a9541b31f7a3fbc7b1cc5f96fee083eca02ec28634424eb3caad755a34"
+    },
+    {
+      "altText": "Lull aligns the old relay lamp and opens its left and right reply shutters only. Doze turns the independent winch connected to the tether’s actual drive.",
+      "bytes": 1793235,
+      "image": "N00E21P06.png",
+      "sha256": "ab70fed138f26d88a247fefc5d34f36fd6135940035b9dab234aac3485bf487e"
+    },
+    {
+      "altText": "The five remote station receivers each show the agreed two-light readiness state. Nova sets the local outgoing signal unit to two outer shutters open, center closed, reporting the ground network READY to the Crown.",
+      "bytes": 1806432,
+      "image": "N00E21P07.png",
+      "sha256": "058b4f94b18ba60bb37d3c529926e83da237fc112b0aa35e923c9eddddb163a0"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "adventure",
+    "friendship",
+    "rescue",
+    "superhero"
+  ],
+  "version": 1
+}

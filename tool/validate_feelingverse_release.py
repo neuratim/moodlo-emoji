@@ -42,16 +42,25 @@ def _sha256(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def _validate_episode(root, catalogue_episode, number):
-    episode_id = f"s{number}"
-    production = root / "movies/production/feelingverse" / episode_id
-    source = root / "movies/source/feelingverse" / episode_id
-    delivery = root / "movies/feelingverse/episodes" / episode_id
-    source_metadata = _load(source / "episode.json")
-    delivery_metadata = _load(delivery / "episode.json")
+def _validate_episode(
+    root,
+    catalogue_episode,
+    catalogue_revision,
+    narrative_id,
+    narrative_number,
+    number,
+):
+    episode_number = number - 100
+    episode_id = f"N{narrative_number:02}E{episode_number:02}"
+    episode_folder = f"E{episode_number:02}"
+    production = root / "feelingverse/production" / narrative_id / episode_folder
+    source = root / "feelingverse/source" / narrative_id / episode_folder
+    delivery = root / "feelingverse" / narrative_id / "episodes" / episode_folder
+    source_metadata = _load(source / f"{episode_id}.json")
+    delivery_metadata = _load(delivery / f"{episode_id}.json")
     script = _load(production / "script.json")
     typesetting = _load(production / "typesetting.json")
-    expected_names = [f"{episode_id}_p{index:02}.png" for index in range(1, 8)]
+    expected_names = [f"{episode_id}P{index:02}.png" for index in range(1, 8)]
 
     assert source_metadata["id"] == episode_id
     assert source_metadata["version"] == 1
@@ -105,7 +114,7 @@ def _validate_episode(root, catalogue_episode, number):
     assert catalogue_episode["id"] == episode_id
     assert catalogue_episode["version"] == 1
     evidence = {
-        "catalogueRevision": 5,
+        "catalogueRevision": catalogue_revision,
         "downloadSize": [1024, 1280],
         "episodeBytes": episode_bytes,
         "episodeVersion": 1,
@@ -125,22 +134,31 @@ def _validate_episode(root, catalogue_episode, number):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--end", default=110, type=int)
-    parser.add_argument("--start", default=102, type=int)
+    parser.add_argument("--end", default=125, type=int)
+    parser.add_argument("--narrative-id", default="00-the-stolen-wonder")
+    parser.add_argument("--narrative-number", default=0, type=int)
+    parser.add_argument("--start", default=101, type=int)
     args = parser.parse_args()
-    if not 102 <= args.start <= args.end <= 125:
-        parser.error("episode range must satisfy 102 <= start <= end <= 125")
+    if not 101 <= args.start <= args.end <= 125:
+        parser.error("episode range must satisfy 101 <= start <= end <= 125")
 
     root = Path(__file__).resolve().parents[1]
-    catalogue = _load(root / "movies/catalogue.json")
-    assert catalogue["revision"] == 5
-    movie = next(
-        movie for movie in catalogue["movies"] if movie["id"] == "feelingverse"
+    catalogue = _load(root / "feelingverse/catalogue.json")
+    narrative = next(
+        narrative
+        for narrative in catalogue["narratives"]
+        if narrative["id"] == args.narrative_id
     )
-    assert movie["version"] == 3
-    episodes = {episode["id"]: episode for episode in movie["episodes"]}
+    episodes = {episode["id"]: episode for episode in narrative["episodes"]}
     for number in range(args.start, args.end + 1):
-        _validate_episode(root, episodes[f"s{number}"], number)
+        _validate_episode(
+            root,
+            episodes[f"N{args.narrative_number:02}E{number - 100:02}"],
+            catalogue["revision"],
+            args.narrative_id,
+            args.narrative_number,
+            number,
+        )
 
 
 if __name__ == "__main__":

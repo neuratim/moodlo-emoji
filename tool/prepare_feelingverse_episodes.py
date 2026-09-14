@@ -1,6 +1,6 @@
 """Prepare Feelingverse episode metadata and localized captions.
 
-Run from the emoji repository after ``compose_movie_cards.py --prepare`` has
+Run from the emoji repository after ``compose_feelingverse_cards.py --prepare`` has
 extracted the assignment's authoritative English script and render packets.
 Translations are cached in production so reruns remain deterministic.
 """
@@ -231,14 +231,14 @@ def _caption(scene):
 
 def _chapter(assignment_text, number):
     match = re.search(
-        rf"^## Assignment {number} — (?P<title>.+?)\s*$",
+        rf"^## Assignment {number}(?: / Episode \d+)?\s+—\s+(?P<title>.+?)\s*$",
         assignment_text,
         re.MULTILINE,
     )
     if match is None:
         raise ValueError(f"Assignment {number} heading is missing")
     next_match = re.search(
-        rf"^## Assignment {number + 1} — .+?$",
+        rf"^## Assignment {number + 1}(?: / Episode \d+)?\s+—\s+.+?$",
         assignment_text[match.end() :],
         re.MULTILINE,
     )
@@ -246,7 +246,7 @@ def _chapter(assignment_text, number):
     return match.group("title").strip(), assignment_text[match.end() : end]
 
 
-def _alt_texts(chapter, number):
+def _alt_texts(chapter, narrative_number, number):
     results = []
     sections = chapter.split("### Image ")[1:]
     for index, section in enumerate(sections, 1):
@@ -260,10 +260,16 @@ def _alt_texts(chapter, number):
         if len(alt_text) > 400:
             alt_text = sentences[0]
         if not alt_text or len(alt_text) > 400:
-            raise ValueError(f"s{number}_p{index:02}: invalid generated alt text")
+            raise ValueError(
+                f"N{narrative_number:02}E{number - 100:02}P{index:02}: "
+                "invalid generated alt text"
+            )
         results.append(alt_text)
     if len(results) != 7:
-        raise ValueError(f"s{number}: expected seven alt texts, found {len(results)}")
+        raise ValueError(
+            f"N{narrative_number:02}E{number - 100:02}: expected seven alt "
+            f"texts, found {len(results)}"
+        )
     return results
 
 
@@ -362,23 +368,25 @@ def _write_json(path, value):
     )
 
 
-def _write_records(root, number, title, alt_texts):
-    episode_id = f"s{number}"
-    production = root / "movies/production/feelingverse" / episode_id
+def _write_records(root, narrative_id, narrative_number, number, title, alt_texts):
+    episode_number = number - 100
+    episode_id = f"N{narrative_number:02}E{episode_number:02}"
+    episode_folder = f"E{episode_number:02}"
+    production = root / "feelingverse/production" / narrative_id / episode_folder
     (production / "prompts" / "render-prefix.txt").write_text(
         RENDER_PREFIX, encoding="utf-8"
     )
     prompts = "\n".join(
-        f"- `prompts/{episode_id}_p{index:02}.txt`" for index in range(1, 8)
+        f"- `prompts/{episode_id}P{index:02}.txt`" for index in range(1, 8)
     )
     production.joinpath("PROMPTS.md").write_text(
         f"""# Feelingverse {number}: {title}
 
 The authority is Assignment {number} in
-`movies/feelingverse_movie_assignments_101_125_v2_precise.md`.
+the assignment document supplied for narrative `{narrative_id}`.
 
 Each actual initial render request combined the exact common request in
-`movies/production/feelingverse/{episode_id}/prompts/render-prefix.txt` with one
+`feelingverse/production/{narrative_id}/{episode_folder}/prompts/render-prefix.txt` with one
 complete authoritative scene packet:
 
 {prompts}
@@ -453,31 +461,50 @@ written after packaging and records delivery dimensions, hashes and byte limits.
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--end", default=110, type=int)
-    parser.add_argument("--start", default=102, type=int)
+    parser.add_argument(
+        "--assignment",
+        default="../assets/00-the_stolen_wonder.md",
+        type=Path,
+    )
+    parser.add_argument("--end", default=125, type=int)
+    parser.add_argument("--narrative-id", default="00-the-stolen-wonder")
+    parser.add_argument("--narrative-number", default=0, type=int)
+    parser.add_argument("--start", default=101, type=int)
     args = parser.parse_args()
-    if not 102 <= args.start <= args.end <= 125:
-        parser.error("episode range must satisfy 102 <= start <= end <= 125")
+    if not 101 <= args.start <= args.end <= 125:
+        parser.error("episode range must satisfy 101 <= start <= end <= 125")
 
     root = Path(__file__).resolve().parents[1]
-    assignment_path = (
-        root / "movies/feelingverse_movie_assignments_101_125_v2_precise.md"
-    )
+    assignment_path = (root / args.assignment).resolve()
     assignment_text = assignment_path.read_text(encoding="utf-8")
     episodes = []
     all_values = []
     for number in range(args.start, args.end + 1):
-        episode_id = f"s{number}"
-        production = root / "movies/production/feelingverse" / episode_id
+        episode_id = f"N{args.narrative_number:02}E{number - 100:02}"
+        production = (
+            root
+            / "feelingverse/production"
+            / args.narrative_id
+            / f"E{number - 100:02}"
+        )
         script = json.loads((production / "script.json").read_text(encoding="utf-8"))
         title, chapter = _chapter(assignment_text, number)
         captions = [_caption(scene) for scene in script]
-        episodes.append((number, title, captions, _alt_texts(chapter, number)))
+        episodes.append(
+            (
+                number,
+                title,
+                captions,
+                _alt_texts(chapter, args.narrative_number, number),
+            )
+        )
         all_values.extend((title, *captions))
-    if args.start <= 110 <= args.end:
+    if args.narrative_number == 0 and args.start <= 110 <= args.end:
         all_values.append(COMPACT_110_6)
 
-    cache_path = root / "movies/production/feelingverse/translations.json"
+    cache_path = (
+        root / "feelingverse/production" / args.narrative_id / "translations.json"
+    )
     cache = (
         json.loads(cache_path.read_text(encoding="utf-8"))
         if cache_path.exists()
@@ -488,7 +515,8 @@ def main():
 
     base_release_date = date(2026, 9, 13)
     for number, title, captions, alt_texts in episodes:
-        episode_id = f"s{number}"
+        episode_number = number - 100
+        episode_id = f"N{args.narrative_number:02}E{episode_number:02}"
         localizations = {}
         for locale in LOCALES:
             localized_title = title if locale == "en" else cache[f"{locale}\0{title}"]
@@ -498,10 +526,14 @@ def main():
                 else [cache[f"{locale}\0{caption}"] for caption in captions]
             )
             for index in range(len(localized_captions)):
-                compact = COMPACT_CAPTIONS.get((number, locale, index + 1))
+                compact = (
+                    COMPACT_CAPTIONS.get((number, locale, index + 1))
+                    if args.narrative_number == 0
+                    else None
+                )
                 if compact is not None:
                     localized_captions[index] = compact
-            if number == 110 and locale != "en":
+            if args.narrative_number == 0 and number == 110 and locale != "en":
                 localized_captions[5] = cache[f"{locale}\0{COMPACT_110_6}"]
             too_long = [
                 index + 1
@@ -521,9 +553,9 @@ def main():
             "artworkHeightFraction": 0.72,
             "id": episode_id,
             "localizations": localizations,
-            "number": number,
+            "number": episode_number,
             "panels": [
-                {"image": f"{episode_id}_p{index:02}.png"} for index in range(1, 8)
+                {"image": f"{episode_id}P{index:02}.png"} for index in range(1, 8)
             ],
             "releaseDate": (
                 base_release_date + timedelta(days=number - 101)
@@ -532,9 +564,22 @@ def main():
             "tags": list(TAGS),
             "version": 1,
         }
-        output = root / "movies/source/feelingverse" / episode_id / "episode.json"
+        output = (
+            root
+            / "feelingverse/source"
+            / args.narrative_id
+            / f"E{episode_number:02}"
+            / f"{episode_id}.json"
+        )
         _write_json(output, episode)
-        _write_records(root, number, title, alt_texts)
+        _write_records(
+            root,
+            args.narrative_id,
+            args.narrative_number,
+            number,
+            title,
+            alt_texts,
+        )
         print(f"Prepared {episode_id}: {title}")
 
 

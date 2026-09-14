@@ -1,0 +1,274 @@
+{
+  "id": "N00E04",
+  "localizations": {
+    "ar": {
+      "captions": [
+        "أسفل المهرجان، يعثر Rain وQuest على خط شحن يحمل تعبيرات مسروقة باتجاه Crown. Nova ليس الضحية الوحيدة. تحتوي البكرات على ما تم أخذه من الأشخاص الذين ما زالوا على قيد الحياة في الأسفل.\n\nQuest: \"هذه بكرات تخزين. شخص ما يجمع المدينة.\"",
+        "Hush، الساعي الذي يتواصل بدون كلام، لا يزال لديه عينان. تمت سرقة وجه Tangle بالكامل. يشير Hush إلى البكرة بجانب العربة: إنها تحمل التعبير الأصلي لـ Tangle، وليس شخصًا بديلاً.\n\nHush [توقيع]: \"هذه البكرة تنتمي إلى Tangle.\"",
+        "ثلاثة مساعدين تقطعت بهم السبل يعرفون إيقاع المستودع. يقوم Guff بإحصاء الآلات المتحركة، ويراقب Flip من الأسفل، ويحدد فريت الفجوة. لقد حددوا فترة زمنية آمنة يمكن خلالها فتح باب القفص دون الاصطدام بعربة عابرة.\n\nGuff: \"بعد العجلة الثالثة. وذلك عندما يصبح الممشى خاليًا.\"",
+        "أثناء الفجوة، يقوم Flare بفك دعامة القفص ويقوم Pop بتحرير دبوس المفصلة العالقة. يمكن الآن لـ Hush الخروج. يعمل نبض Pop على حل مشكلة ميكانيكية صغيرة ويتطلب توقفًا مؤقتًا قبل مشكلة أخرى.\n\nPop: \"مفصلة واحدة، تصفيق واحد.\"",
+        "تعرف Hush أن خط العودة القديم يصل إلى عبّارة Sigh. يجب أن تبقى البكرة مع جسم Tangle الباقي؛ فقدان أي منهما سيجعل عملية الاستعادة مستحيلة. يؤكد Quest أن العبارة تقع أيضًا على الطريق المؤدي إلى الجبل.\n\nHush [توقيع]: \"خذ الجسد والبكرة معًا.\"",
+        "يقوم الفريق بتحريك Tangle أسفل منحدر الشحن تحت السيطرة. يدير Quiver الفرامل بينما يحافظ Mend على تثبيت الخط الثاني. العجلة لا تلغي الحاجة إلى حماية الجسم والبكرة الهشة.\n\nQuiver: \"الفرامل معطلة. انزل الخط معنا.\"",
+        "Sigh، حارس العبارة الكابلية، يتعرف على البكرة المطابقة. لا تزال العبارة تحتوي على كوب قديم لنقل الصدى. إذا نجحت هذه المعدات، فيمكنهم محاولة العودة بعناية قبل حمل Tangle لمسافة أبعد.\n\nSigh: \"لقد أحضرت الجزء الذي أخذوه. فلنحافظ عليه آمنًا.\""
+      ],
+      "title": "تحت التصفيق"
+    },
+    "bn": {
+      "captions": [
+        "উত্সবের নীচে, Rain এবং Quest একটি মালবাহী লাইন খুঁজে পায় যা Crown এর দিকে চুরি করা অভিব্যক্তি বহন করে। Nova একমাত্র শিকার নয়। রিলগুলিতে এমন লোকেদের কাছ থেকে নেওয়া হয়েছে যা এখনও নীচে বেঁচে আছে৷\n\nQuest: \"এগুলি স্টোরেজ রিল। কেউ শহর সংগ্রহ করছে।\"",
+        "Hush, একটি কুরিয়ার যিনি বক্তৃতা ছাড়াই যোগাযোগ করেন, এখনও দুটি চোখ আছে। Tangle এর পুরো মুখ চুরি হয়ে গেছে। Hush ট্রলির পাশের রিলের দিকে নির্দেশ করে: এটি Tangle এর আসল অভিব্যক্তি ধারণ করে, প্রতিস্থাপনকারী ব্যক্তি নয়।\n\nHush [স্বাক্ষর করা]: \"ওই রিল Tangle এর অন্তর্গত।\"",
+        "আটকা পড়া তিনজন সাহায্যকারী ডিপোর ছন্দ জানেন। Guff চলমান যন্ত্রপাতি গণনা করে, Flip নিচ থেকে ঘড়ি, এবং ফ্রেট ব্যবধান চিহ্নিত করে। তারা একটি নিরাপদ ব্যবধান শনাক্ত করে যেখানে খাঁচার দরজাটি কোনো পাশ দিয়ে যাওয়া গাড়িতে আঘাত না করেই খুলতে পারে।\n\nGuff: \"তৃতীয় চাকার পরে। যখন হাঁটার পথ পরিষ্কার হয়।\"",
+        "ফাঁকের সময়, Flare খাঁচার প্রধান অংশটি আলগা করে এবং Pop আটকে থাকা কব্জা পিনটিকে মুক্ত করে। Hush এখন বের হতে পারে। Pop এর পালস একটি ছোট যান্ত্রিক সমস্যার সমাধান করে এবং অন্যটির আগে একটি বিরতি প্রয়োজন।\n\nPop: \"একটি কব্জা। একটি তালি।\"",
+        "Hush জানে পুরনো রিটার্ন লাইন Sigh এর ফেরিতে পৌঁছেছে। স্পুলটিকে অবশ্যই Tangle এর জীবিত দেহের সাথে থাকতে হবে; হয় হারানো পুনরুদ্ধার অসম্ভব করে তুলবে। Quest নিশ্চিত করে যে ফেরিটি পাহাড়ের দিকে যাওয়ার পথেও রয়েছে।\n\nHush [স্বাক্ষর করা]: \"শরীর এবং রিল একসাথে নিন।\"",
+        "দলটি Tangle নিয়ন্ত্রণে মালবাহী র‌্যাম্পের নিচে নিয়ে যায়। Quiver ব্রেক পরিচালনা করে যখন Mend একটি দ্বিতীয় লাইন নোঙর করে। তাড়াহুড়ো শরীর এবং ভঙ্গুর রিলকে রক্ষা করার প্রয়োজনীয়তা দূর করে না।\n\nQuiver: \"ব্রেক রাখা হয়েছে। আমাদের সাথে লাইন নামিয়ে আনুন।\"",
+        "Sigh, ক্যাবল ফেরির রক্ষক, মিলে যাওয়া রিলটিকে চিনতে পারে৷ ফেরিতে এখনও একটি পুরানো ইকো-ট্রান্সফার কাপ রয়েছে। যদি সেই সরঞ্জামগুলি কাজ করে, তাহলে তারা Tangle আরও দূরে নিয়ে যাওয়ার আগে সাবধানে ফিরে আসার চেষ্টা করতে পারে।\n\nSigh: \"তারা যে অংশটি নিয়েছে তা আপনি নিয়ে এসেছেন। আসুন আমরা এটিকে নিরাপদ রাখি।\""
+      ],
+      "title": "করতালির নিচে"
+    },
+    "cs": {
+      "captions": [
+        "Pod festivalem Rain a Quest najdou nákladní linku s odcizenými výrazy směrem k Crown. Nova není jedinou obětí. Kotouče obsahují to, co bylo odebráno lidem, kteří jsou stále naživu.\n\nQuest: \"Toto jsou skladovací kotouče. Někdo sbírá město.\"",
+        "Hush, kurýr, který komunikuje bez řeči, má stále dvě oči. Celá tvář Tangle byla ukradena. Hush ukazuje na cívku vedle vozíku: nese původní výraz Tangle, nikoli náhradní osobu.\n\nHush [podpis]: \"Ta cívka patří Tangle.\"",
+        "Tři uvízlí pomocníci znají rytmus depa. Guff počítá pohybující se stroje, Flip sleduje zespodu a Fret označuje mezeru. Identifikují bezpečný interval, ve kterém se mohou dvířka klece otevřít, aniž by narazila na projíždějící vozík.\n\nGuff: \"Po třetím kole. Tehdy je chodník volný.\"",
+        "Během mezery Flare uvolní sponu klece a Pop uvolní zaseknutý čep závěsu. Hush se nyní může dostat ven. Puls Pop řeší jeden malý mechanický problém a před dalším vyžaduje pauzu.\n\nPop: \"Jeden pant. Jedno klapnutí.\"",
+        "Hush ví, že stará zpáteční linka dosáhne trajektu Sigh. Cívka musí zůstat s přeživším tělem Tangle; ztráta obou by znemožnila obnovu. Quest potvrzuje, že trajekt také leží na trase směrem k hoře.\n\nHush [podpis]: \"Vezměte tělo a cívku dohromady.\"",
+        "Tým pohybuje Tangle po nákladní rampě pod kontrolou. Quiver řídí brzdu, zatímco Mend udržuje ukotvené druhé vedení. Spěch neodstraňuje potřebu chránit tělo a křehký naviják.\n\nQuiver: \"Brzda zadržena. Přiveďte šňůru dolů s námi.\"",
+        "Sigh, správce lanovky, rozpozná odpovídající cívku. Na trajektu je stále starý echo-přenosový pohár. Pokud toto zařízení funguje, mohou se pokusit o opatrný návrat, než přenesou Tangle dále.\n\nSigh: \"Přinesl jsi část, kterou vzali. Nechejme to v bezpečí.\""
+      ],
+      "title": "Za potlesku"
+    },
+    "de": {
+      "captions": [
+        "Unterhalb des Festivals finden Rain und Quest eine Frachtlinie, die gestohlene Ausdrücke in Richtung Crown transportiert. Nova ist nicht das einzige Opfer. Die Rollen enthalten das, was unten noch lebenden Menschen entnommen wurde.\n\nQuest: „Das sind Lagerrollen. Jemand sammelt die Stadt ein.“",
+        "Hush, ein Kurier, der ohne Sprache kommuniziert, hat immer noch zwei Augen. Das ganze Gesicht von Tangle wurde gestohlen. Hush zeigt auf die Rolle neben dem Wagen: Sie zeigt den Originalausdruck von Tangle, keine Ersatzperson.\n\nHush [signiert]: „Diese Rolle gehört Tangle.“",
+        "Drei gestrandete Helfer kennen den Rhythmus des Depots. Guff zählt die sich bewegenden Maschinen, Flip schaut von unten zu und Fret markiert die Lücke. Sie legen einen sicheren Zeitraum fest, in dem sich die Käfigtür öffnen kann, ohne einen vorbeifahrenden Wagen zu treffen.\n\nGuff: „Nach dem dritten Rad. Dann ist der Gehweg frei.“",
+        "Während der Lücke löst Flare die Käfigklammer und Pop schlägt den festsitzenden Scharnierstift frei. Hush kann jetzt raus. Der Puls des Pop löst ein kleines mechanisches Problem und erfordert eine Pause vor dem nächsten.\n\nPop: „Ein Scharnier. Eine Klappe.“",
+        "Hush weiß, dass die alte Rückleitung die Fähre von Sigh erreicht. Die Spule muss am verbleibenden Körper des Tangle verbleiben; Der Verlust von beidem würde eine Wiederherstellung unmöglich machen. Quest bestätigt, dass die Fähre auch auf der Route zum Berg liegt.\n\nHush [gebärdend]: „Nehmen Sie den Körper und die Rolle zusammen.“",
+        "Das Team bewegt den Tangle kontrolliert die Frachtrampe hinunter. Quiver übernimmt die Bremse, während Mend eine zweite Leine verankert. Die Eile macht es nicht überflüssig, den Körper und die zerbrechliche Rolle zu schützen.\n\nQuiver: „Bremse gehalten. Bringen Sie die Leine mit uns nach unten.“",
+        "Sigh, Halter der Seilfähre, erkennt die passende Rolle. Auf der Fähre gibt es noch einen alten Echo-Transferbecher. Wenn das Gerät funktioniert, können sie versuchen, es vorsichtig zurückzugeben, bevor sie den Tangle weiter transportieren.\n\nSigh: „Du hast den Teil mitgebracht, den sie genommen haben. Lasst uns ihn sicher aufbewahren.“"
+      ],
+      "title": "Unter dem Applaus"
+    },
+    "en": {
+      "captions": [
+        "Beneath the festival, Rain and Quest find a freight line carrying stolen expressions toward the Crown. Nova is not the only victim. The reels contain what was taken from people who are still alive below.\n\nQuest: “These are storage reels. Someone is collecting the city.”",
+        "Hush, a courier who communicates without speech, still has two eyes. Tangle’s whole face has been stolen. Hush points to the reel beside the trolley: it holds Tangle’s original expression, not a replacement person.\n\nHush [signing]: “That reel belongs to Tangle.”",
+        "Three stranded helpers know the depot’s rhythm. Guff counts the moving machinery, Flip watches from below, and Fret marks the gap. They identify a safe interval in which the cage door can open without striking a passing carriage.\n\nGuff: “After the third wheel. That is when the walkway is clear.”",
+        "During the gap, Flare loosens the cage staple and Pop knocks the stuck hinge pin free. Hush can now get out. Pop’s pulse solves one small mechanical problem and requires a pause before another.\n\nPop: “One hinge. One clap.”",
+        "Hush knows the old return line reaches Sigh’s ferry. The spool must stay with Tangle’s surviving body; losing either would make restoration impossible. Quest confirms that the ferry also lies on the route toward the mountain.\n\nHush [signing]: “Take the body and the reel together.”",
+        "The team moves Tangle down the freight ramp under control. Quiver manages the brake while Mend keeps a second line anchored. The hurry does not remove the need to protect the body and the fragile reel.\n\nQuiver: “Brake held. Bring the line down with us.”",
+        "Sigh, keeper of the cable ferry, recognizes the matching reel. The ferry still has an old echo-transfer cup. If that equipment works, they can attempt a careful return before carrying Tangle farther.\n\nSigh: “You brought the part they took. Let us keep it safe.”"
+      ],
+      "title": "Under the Applause"
+    },
+    "es": {
+      "captions": [
+        "Debajo del festival, Rain y Quest encuentran una línea de carga que lleva expresiones robadas hacia el Crown. Nova no es la única víctima. Los carretes contienen lo que les fue quitado a las personas que todavía están vivas debajo.\n\nQuest: \"Estos son carretes de almacenamiento. Alguien está recogiendo la ciudad\".",
+        "Hush, un mensajero que se comunica sin hablar, todavía tiene dos ojos. Le han robado toda la cara a Tangle. Hush señala el carrete al lado del carro: contiene la expresión original de Tangle, no una persona de reemplazo.\n\nHush [firma]: “Ese carrete pertenece a Tangle”.",
+        "Tres ayudantes varados conocen el ritmo del depósito. Guff cuenta la maquinaria en movimiento, Flip observa desde abajo y Fret marca el espacio. Identifican un intervalo seguro en el que la puerta de la jaula puede abrirse sin chocar con un carro que pasa.\n\nGuff: \"Después de la tercera rueda. Ahí es cuando el camino está despejado\".",
+        "Durante el espacio, Flare afloja la grapa de la jaula y Pop libera el pasador de la bisagra atascado. Hush ahora puede salir. El pulso del Pop soluciona un pequeño problema mecánico y requiere una pausa antes de otro.\n\nPop: \"Una bisagra. Un aplauso\".",
+        "Hush sabe que la antigua línea de retorno llega al ferry de Sigh. El carrete debe permanecer con el cuerpo sobreviviente de Tangle; perder cualquiera de los dos haría imposible la restauración. Quest confirma que el ferry también se encuentra en la ruta hacia la montaña.\n\nHush [firma]: “Toma el cuerpo y el carrete juntos”.",
+        "El equipo mueve el Tangle por la rampa de carga bajo control. Quiver gestiona el freno mientras que Mend mantiene anclada una segunda línea. La prisa no elimina la necesidad de proteger el cuerpo y el frágil carrete.\n\nQuiver: \"Freno detenido. Baja la línea con nosotros\".",
+        "Sigh, el encargado del teleférico, reconoce el carrete correspondiente. El ferry todavía conserva una vieja copa de transferencia de eco. Si ese equipo funciona, pueden intentar un regreso cuidadoso antes de llevar el Tangle más lejos.\n\nSigh: \"Tú trajiste la pieza que se llevaron. Mantengámosla a salvo\"."
+      ],
+      "title": "Bajo los aplausos"
+    },
+    "fr": {
+      "captions": [
+        "Sous le festival, Rain et Quest trouvent une ligne de fret transportant des expressions volées vers le Crown. Nova n'est pas la seule victime. Les bobines contiennent ce qui a été pris sur des personnes encore en vie en dessous.\n\nQuest : \"Ce sont des bobines de stockage. Quelqu'un récupère la ville.\"",
+        "Hush, un coursier qui communique sans parler, a encore deux yeux. Le visage entier de Tangle a été volé. Hush montre la bobine à côté du chariot : elle contient l'expression originale de Tangle, pas une personne de remplacement.\n\nHush [signature] : \"Cette bobine appartient à Tangle.\"",
+        "Trois assistants bloqués connaissent le rythme du dépôt. Guff compte les machines en mouvement, Flip surveille d'en bas et Fret marque l'écart. Ils identifient un intervalle de sécurité pendant lequel la porte de la cage peut s'ouvrir sans heurter un chariot qui passe.\n\nGuff : \"Après la troisième roue. C'est à ce moment-là que la passerelle est dégagée.\"",
+        "Pendant l'espace, le Flare desserre l'agrafe de la cage et le Pop libère l'axe de charnière coincé. Hush peut désormais sortir. L'impulsion du Pop résout un petit problème mécanique et nécessite une pause avant un autre.\n\nPop : \"Une charnière. Un coup.\"",
+        "Hush sait que l’ancienne ligne de retour atteint le ferry de Sigh. La bobine doit rester avec le corps survivant du Tangle ; perdre l’un ou l’autre rendrait la restauration impossible. Quest confirme que le ferry se trouve également sur la route vers la montagne.\n\nHush [signature] : « Prenez le corps et le moulinet ensemble. »",
+        "L'équipe déplace le Tangle sur la rampe de fret sous contrôle. Le Quiver gère le freinage tandis que le Mend maintient une deuxième ligne ancrée. La précipitation ne supprime pas la nécessité de protéger le corps et le fragile moulinet.\n\nQuiver : \"Frein maintenu. Faites descendre la ligne avec nous.\"",
+        "Sigh, gardien du bac à câble, reconnaît la bobine correspondante. Le ferry possède encore une vieille coupelle de transfert d'écho. Si cet équipement fonctionne, ils peuvent tenter un retour prudent avant de transporter le Tangle plus loin.\n\nSigh : \"Vous avez apporté la pièce qu'ils ont prise. Gardons-la en sécurité.\""
+      ],
+      "title": "Sous les applaudissements"
+    },
+    "hi": {
+      "captions": [
+        "त्योहार के नीचे, Rain और Quest को Crown की ओर चोरी के भाव ले जाने वाली एक मालवाहक लाइन मिलती है। Nova एकमात्र शिकार नहीं है. रीलों में वह सब शामिल है जो उन लोगों से लिया गया था जो अभी भी नीचे जीवित हैं।\n\nQuest: \"ये स्टोरेज रील हैं। कोई शहर इकट्ठा कर रहा है।\"",
+        "Hush, एक कूरियर जो बिना बोले संचार करता है, के पास अभी भी दो आंखें हैं। Tangle का पूरा चेहरा चोरी हो गया है। Hush ट्रॉली के बगल में रील की ओर इशारा करता है: इसमें Tangle की मूल अभिव्यक्ति है, कोई प्रतिस्थापन व्यक्ति नहीं।\n\nHush [हस्ताक्षर करते हुए]: \"वह रील Tangle की है।\"",
+        "तीन फंसे हुए सहायक डिपो की लय जानते हैं। Guff चलती मशीनरी को गिनता है, Flip नीचे से देखता है, और फ्रेट अंतर को चिह्नित करता है। वे एक सुरक्षित अंतराल की पहचान करते हैं जिसमें पिंजरे का दरवाजा गुजरती हुई गाड़ी से टकराए बिना खुल सकता है।\n\nGuff: \"तीसरे पहिये के बाद। तभी रास्ता साफ़ होता है।\"",
+        "अंतराल के दौरान, Flare पिंजरे के स्टेपल को ढीला कर देता है और Pop फंसे हुए काज पिन को मुक्त कर देता है। Hush अब बाहर निकल सकता है। Pop की पल्स एक छोटी यांत्रिक समस्या का समाधान करती है और दूसरी से पहले एक विराम की आवश्यकता होती है।\n\nPop: \"एक काज। एक ताली।\"",
+        "Hush को पता है कि पुरानी रिटर्न लाइन Sigh की फ़ेरी तक पहुँचती है। स्पूल को Tangle के जीवित शरीर के साथ रहना चाहिए; दोनों में से किसी एक को खोने से बहाली असंभव हो जाएगी। Quest पुष्टि करता है कि नौका भी पहाड़ की ओर जाने वाले मार्ग पर स्थित है।\n\nHush [हस्ताक्षर करते हुए]: \"बॉडी और रील को एक साथ ले जाएं।\"",
+        "टीम नियंत्रण में Tangle को माल ढुलाई रैंप से नीचे ले जाती है। Quiver ब्रेक को प्रबंधित करता है जबकि Mend दूसरी लाइन को स्थिर रखता है। जल्दबाजी शरीर और नाजुक रील की रक्षा करने की आवश्यकता को समाप्त नहीं करती है।\n\nQuiver: \"ब्रेक रुका। हमारे साथ लाइन नीचे लाओ।\"",
+        "केबल फ़ेरी का रखवाला Sigh, मेल खाने वाली रील को पहचानता है। नौका में अभी भी एक पुराना इको-ट्रांसफर कप है। यदि वह उपकरण काम करता है, तो वे Tangle को आगे ले जाने से पहले सावधानीपूर्वक वापसी का प्रयास कर सकते हैं।\n\nSigh: \"आप वह हिस्सा ले आए जो उन्होंने लिया था। आइए हम इसे सुरक्षित रखें।\""
+      ],
+      "title": "तालियों के तहत"
+    },
+    "id": {
+      "captions": [
+        "Di bawah festival, Rain dan Quest menemukan jalur barang yang membawa ekspresi curian menuju Crown. Nova bukan satu-satunya korban. Gulungan tersebut berisi apa yang diambil dari orang-orang yang masih hidup di bawah.\n\nQuest: \"Ini adalah gulungan penyimpanan. Seseorang sedang mengumpulkan kota.\"",
+        "Hush, kurir yang berkomunikasi tanpa bicara, masih memiliki dua mata. Seluruh wajah Tangle telah dicuri. Hush menunjuk ke gulungan di samping troli: ia memegang ekspresi asli Tangle, bukan orang pengganti.\n\nHush [penandatanganan]: “Reel itu milik Tangle.”",
+        "Tiga orang pembantu yang terdampar mengetahui ritme depo. Guff menghitung mesin yang bergerak, Flip mengamati dari bawah, dan Fret menandai celahnya. Mereka mengidentifikasi interval aman di mana pintu kandang dapat terbuka tanpa menabrak kereta yang lewat.\n\nGuff: \"Setelah roda ketiga. Saat itulah jalan sudah bersih.\"",
+        "Selama jeda, Flare mengendurkan staples sangkar dan Pop melepaskan pin engsel yang tersangkut. Hush sekarang bisa keluar. Denyut nadi Pop memecahkan satu masalah mekanis kecil dan memerlukan jeda sebelum masalah lainnya.\n\nPop: “Satu engsel. Satu tepukan.”",
+        "Hush mengetahui jalur pulang lama mencapai feri Sigh. Gulungan harus tetap berada pada tubuh Tangle yang masih hidup; kehilangan keduanya akan membuat pemulihan menjadi tidak mungkin. Quest membenarkan bahwa kapal feri tersebut juga terletak pada jalur menuju gunung.\n\nHush [penandatanganan]: “Satukan badan dan gulungannya.”",
+        "Tim memindahkan Tangle ke jalur pengangkutan dengan terkendali. Quiver mengatur rem sementara Mend mempertahankan baris kedua. Terburu-buru tidak menghilangkan kebutuhan untuk melindungi tubuh dan gulungan yang rapuh.\n\nQuiver: \"Rem ditahan. Turunkan talinya bersama kami.\"",
+        "Sigh, penjaga kapal feri kabel, mengenali gulungan yang cocok. Kapal feri tersebut masih memiliki cangkir transfer gema yang lama. Jika peralatan tersebut berfungsi, mereka dapat mencoba kembali dengan hati-hati sebelum membawa Tangle lebih jauh.\n\nSigh: \"Anda membawa bagian yang mereka ambil. Mari kita simpan dengan aman.\""
+      ],
+      "title": "Di bawah Tepuk Tangan"
+    },
+    "it": {
+      "captions": [
+        "Sotto il festival, Rain e Quest trovano una linea merci che trasporta espressioni rubate verso lo Crown. Nova non è l'unica vittima. I rulli contengono ciò che è stato prelevato dalle persone ancora vive di sotto.\n\nQuest: \"Queste sono bobine di stoccaggio. Qualcuno sta raccogliendo la città.\"",
+        "Hush, un corriere che comunica senza parlare, ha ancora due occhi. L'intero volto di Tangle è stato rubato. Hush indica la bobina accanto al carrello: contiene l'espressione originale di Tangle, non una persona sostitutiva.\n\nHush [firma]: \"Quella bobina appartiene a Tangle.\"",
+        "Tre aiutanti a terra conoscono il ritmo del deposito. Guff conta i macchinari in movimento, Flip osserva dal basso e Fret segna il divario. Identificano un intervallo sicuro in cui la porta della gabbia può aprirsi senza colpire una carrozza di passaggio.\n\nGuff: \"Dopo la terza ruota. È allora che la passerella è libera.\"",
+        "Durante l'intervallo, Flare allenta la graffetta della gabbia e Pop libera il perno della cerniera bloccato. Hush ora può uscire. L'impulso di Pop risolve un piccolo problema meccanico e richiede una pausa prima di un altro.\n\nPop: \"Una cerniera. Un applauso.\"",
+        "Hush sa che la vecchia linea di ritorno raggiunge il traghetto di Sigh. La bobina deve rimanere con il corpo sopravvissuto di Tangle; perdere uno dei due renderebbe impossibile il restauro. Quest conferma che anche il traghetto si trova sulla rotta verso la montagna.\n\nHush [firmando]: “Prendi insieme il corpo e la bobina”.",
+        "La squadra sposta Tangle sotto controllo lungo la rampa merci. Quiver gestisce il freno mentre Mend mantiene ancorata una seconda linea. La fretta non elimina la necessità di proteggere il corpo e il fragile mulinello.\n\nQuiver: \"Freno tenuto. Porta giù la linea con noi.\"",
+        "Sigh, custode del traghetto a fune, riconosce la bobina corrispondente. Il traghetto ha ancora una vecchia tazza per il trasferimento dell'eco. Se l'attrezzatura funziona, possono tentare un ritorno prudente prima di trasportare Tangle più lontano.\n\nSigh: \"Hai portato la parte che loro hanno preso. Teniamola al sicuro.\""
+      ],
+      "title": "Sotto gli applausi"
+    },
+    "ja": {
+      "captions": [
+        "フェスティバルの下で、Rain と Quest は、盗難された表現を Crown に向けて運ぶ貨物船を見つけます。被害者はNovaだけではありません。リールには、下でまだ生きている人々から採取されたものが含まれています。\n\nQuest: 「これらは保管リールです。誰かが街を収集しています。」",
+        "Hush は言葉を使わずにコミュニケーションをとる配達員ですが、まだ 2 つの目を持っています。 Tangle の顔全体が盗まれました。 Hush はトロリーの横にあるリールを指します。これには、代替人物ではなく、Tangle の元の表現が含まれています。\n\nHush [署名]: 「そのリールは Tangle のものです。」",
+        "立ち往生した 3 人のヘルパーは、倉庫のリズムを知っています。 Guff は動く機械を数え、Flip は下から監視し、フレットはギャップをマークします。彼らは、通過する馬車にぶつからずにケージのドアが開くことができる安全な間隔を特定します。\n\nGuff: 「3 番目の車輪の後。歩道が空いているときです。」",
+        "ギャップ中に、Flare がケージのステープルを緩め、Pop が固着したヒンジ ピンをノックして解放します。 Hush が出られるようになりました。 Pop のパルスは 1 つの小さな機械的問題を解決しますが、別の小さな問題を解決する前に一時停止する必要があります。\n\nPop: 「ヒンジが 1 つ。拍手が 1 つ。」",
+        "Hush は、古い戻りラインが Sigh のフェリーに到達していることを知っています。スプールは Tangle の生き残った本体に留まる必要があります。どちらかを失うと復元が不可能になります。 Quest は、フェリーも山に向かうルート上にあることを確認します。\n\nHush [サイン]: 「本体とリールを一緒にしてください。」",
+        "チームは Tangle を制御下で貨物ランプに移動させます。 Quiver はブレーキを管理し、Mend は 2 番目のラインを固定したままにします。急いでも、本体と壊れやすいリールを保護する必要性がなくなるわけではありません。\n\nQuiver: 「ブレーキがかかっています。ラインを下ろしてください。」",
+        "ケーブル フェリーの管理者である Sigh は、一致するリールを認識します。フェリーには古いエコー伝達カップがまだ残っています。その装置が機能すれば、Tangle をさらに遠くに運ぶ前に、慎重に帰還を試みることができます。\n\nSigh: 「彼らが奪った分をあなたは持ってきました。私たちが安全に保管しましょう。」"
+      ],
+      "title": "拍手の下で"
+    },
+    "ko": {
+      "captions": [
+        "축제 아래에서 Rain와 Quest는 Crown를 향해 훔친 표정을 실은 화물선을 발견합니다. Nova만이 유일한 피해자는 아닙니다. 릴에는 아래에 아직 살아있는 사람들에게서 가져온 것이 포함되어 있습니다.\n\nQuest: \"이것들은 저장 릴입니다. 누군가가 도시를 수집하고 있습니다.\"",
+        "말없이 소통하는 택배기사 Hush는 여전히 두 눈을 갖고 있다. Tangle의 얼굴 전체가 도난당했습니다. Hush는 트롤리 옆에 있는 릴을 가리킵니다. 대체 인물이 아닌 Tangle의 원래 표정이 담겨 있습니다.\n\nHush [서명]: \"그 릴은 Tangle의 것입니다.\"",
+        "고립된 세 명의 도우미는 창고의 리듬을 알고 있습니다. Guff는 움직이는 기계의 수를 세고, Flip는 아래에서 지켜보고, Fret는 그 간격을 표시합니다. 그들은 지나가는 마차에 부딪히지 않고 케이지 문이 열릴 수 있는 안전한 간격을 식별합니다.\n\nGuff: \"세 번째 바퀴를 지나면 통로가 깨끗해집니다.\"",
+        "틈이 있는 동안 Flare는 케이지 스테이플을 풀고 Pop는 붙어 있는 힌지 핀을 두드려서 풀어줍니다. Hush는 이제 나갈 수 있습니다. Pop의 펄스는 하나의 작은 기계적 문제를 해결하고 다른 문제를 해결하기 전에 일시 중지가 필요합니다.\n\nPop: \"힌지 하나, 박수 한번.\"",
+        "Hush는 기존 반환 노선이 Sigh의 페리에 도달한다는 것을 알고 있습니다. 스풀은 Tangle의 생존 몸체와 함께 있어야 합니다. 둘 중 하나를 잃으면 복원이 불가능해집니다. Quest는 페리가 산으로 향하는 경로에도 있음을 확인합니다.\n\nHush [서명]: \"본체와 릴을 함께 가져가세요.\"",
+        "팀은 Tangle를 통제된 화물 램프 아래로 이동합니다. Quiver는 브레이크를 관리하고 Mend는 두 번째 라인을 고정시킵니다. 서두르더라도 본체와 깨지기 쉬운 릴을 보호할 필요성이 없어지지는 않습니다.\n\nQuiver: \"브레이크가 잡혔습니다. 우리와 함께 라인을 내려오세요.\"",
+        "케이블 페리의 키퍼 Sigh는 일치하는 릴을 인식합니다. 페리에는 여전히 오래된 에코 전송 컵이 있습니다. 해당 장비가 작동하면 Tangle를 더 멀리 운반하기 전에 조심스럽게 복귀를 시도할 수 있습니다.\n\nSigh: \"그들이 빼앗은 부품을 당신이 가져왔습니다. 안전하게 보관합시다.\""
+      ],
+      "title": "박수갈채 아래"
+    },
+    "pl": {
+      "captions": [
+        "Pod festiwalem Rain i Quest znajdują linię towarową przewożącą skradzione wyrażenia w kierunku Crown. Nova nie jest jedyną ofiarą. Bębny zawierają to, co zostało zabrane ludziom, którzy wciąż żyją poniżej.\n\nQuest: \"To są szpule do przechowywania. Ktoś zbiera miasto. \"",
+        "Hush, kurier porozumiewający się bez słów, nadal ma dwoje oczu. Cała twarz Tangle została skradziona. Hush wskazuje na szpulę obok wózka: zawiera oryginalny wyraz Tangle, a nie osobę zastępczą.\n\nHush [podpis]: „Ta rolka należy do Tangle.”",
+        "Trzej osieroceni pomocnicy znają rytm magazynu. Guff liczy poruszającą się maszynerię, Flip obserwuje od dołu, a Fret zaznacza lukę. Określają bezpieczny odstęp, w którym drzwi klatki mogą się otworzyć bez uderzenia w przejeżdżający wózek.\n\nGuff: „Po trzecim kole. Wtedy chodnik jest wolny.”",
+        "Podczas przerwy Flare rozluźnia zszywkę klatki, a Pop wybija zablokowany sworzeń zawiasu. Hush może teraz wyjść. Impuls Pop rozwiązuje jeden mały problem mechaniczny i wymaga przerwy przed kolejnym.\n\nPop: „Jeden zawias. Jedno klapnięcie.”",
+        "Hush wie, że stara linia powrotna dociera do promu Sigh. Szpula musi pozostać w ocalałym korpusie Tangle; utrata któregokolwiek z nich uniemożliwiłaby przywrócenie. Quest potwierdza, że ​​prom również leży na trasie w stronę góry.\n\nHush [podpis]: „Weź korpus i szpulę razem”.",
+        "Zespół pod kontrolą przesuwa Tangle w dół rampy towarowej. Quiver zarządza hamulcem, podczas gdy Mend utrzymuje zakotwiczoną drugą linkę. Pośpiech nie eliminuje konieczności ochrony ciała i delikatnego szpuli.\n\nQuiver: \"Hamulec wciśnięty. Zjedź z nami linkę.\"",
+        "Sigh, opiekun promu linowego, rozpoznaje pasującą szpulę. Na promie nadal znajduje się stary kubek do przenoszenia echa. Jeśli ten sprzęt zadziała, będą mogli podjąć próbę ostrożnego powrotu, zanim zabiorą Tangle dalej.\n\nSigh: \"Przyniosłeś część, którą zabrali. Zadbajmy o to. \""
+      ],
+      "title": "Pod oklaskami"
+    },
+    "pt": {
+      "captions": [
+        "Abaixo do festival, Rain e Quest encontram uma linha de carga transportando expressões roubadas em direção ao Crown. Nova não é a única vítima. As bobinas contêm o que foi tirado de pessoas que ainda estão vivas abaixo.\n\nQuest: \"Estas são bobinas de armazenamento. Alguém está coletando a cidade.\"",
+        "Hush, um mensageiro que se comunica sem falar, ainda tem dois olhos. Todo o rosto de Tangle foi roubado. Hush aponta para o carretel ao lado do carrinho: ele contém a expressão original de Tangle, não uma pessoa substituta.\n\nHush [assinatura]: “Essa bobina pertence a Tangle.”",
+        "Três ajudantes presos conhecem o ritmo do depósito. Guff conta o maquinário em movimento, Flip observa de baixo e Fret marca a lacuna. Eles identificam um intervalo seguro no qual a porta da gaiola pode abrir sem atingir o vagão que passa.\n\nGuff: \"Depois da terceira roda. É quando a passagem está livre.\"",
+        "Durante a lacuna, Flare afrouxa o grampo da gaiola e Pop libera o pino da dobradiça preso. Hush agora pode sair. O pulso do Pop resolve um pequeno problema mecânico e requer uma pausa antes de outro.\n\nPop: “Uma dobradiça. Uma batida de palmas.”",
+        "Hush sabe que a antiga linha de retorno chega à balsa de Sigh. O carretel deve ficar com o corpo sobrevivente de Tangle; perder qualquer um deles tornaria a restauração impossível. Quest confirma que a balsa também está na rota em direção à montanha.\n\nHush [assinatura]: “Pegue o corpo e a bobina juntos.”",
+        "A equipe move Tangle pela rampa de carga sob controle. Quiver gerencia o freio enquanto Mend mantém uma segunda linha ancorada. A pressa não elimina a necessidade de proteger o corpo e a frágil bobina.\n\nQuiver: \"Freio travado. Desça a linha conosco.\"",
+        "Sigh, detentor do teleférico, reconhece o carretel correspondente. A balsa ainda tem um antigo copo de transferência de eco. Se esse equipamento funcionar, eles podem tentar um retorno cuidadoso antes de levar o Tangle mais longe.\n\nSigh: \"Você trouxe a parte que eles levaram. Vamos mantê-la segura.\""
+      ],
+      "title": "Sob aplausos"
+    },
+    "ru": {
+      "captions": [
+        "Под фестивалем Rain и Quest находят грузовую линию, везущую украденные выражения в сторону Crown. Nova — не единственная жертва. На барабанах записано то, что было отобрано у людей, которые еще живы внизу.\n\nQuest: \"Это катушки хранения. Кто-то собирает город\".",
+        "Hush, курьер, который общается без речи, все еще имеет два глаза. Все лицо Tangle было украдено. Hush указывает на катушку рядом с тележкой: на ней изображено оригинальное выражение Tangle, а не заменяющий его человек.\n\nHush [подпись]: «Эта катушка принадлежит Tangle».",
+        "Трое застрявших помощников знают ритм депо. Guff считает движущуюся технику, Flip наблюдает снизу, а Фрет отмечает пробел. Они определяют безопасный интервал, в течение которого дверь клетки может открыться, не ударив проезжающую повозку.\n\nGuff: \"После третьего колеса. Это когда проход свободен\".",
+        "Во время зазора Flare ослабляет скобу клетки, а Pop выбивает застрявший шарнирный штифт. Hush теперь может выйти. Импульс Pop решает одну небольшую механическую проблему и требует паузы перед другой.\n\nPop: \"Одна петля. Один хлопок\".",
+        "Hush знает, что старая обратная линия доходит до парома Sigh. Катушка должна остаться с уцелевшим телом Tangle; потеря любого из них сделает восстановление невозможным. Quest подтверждает, что паром также находится на пути к горе.\n\nHush [подпись]: «Соберите корпус и катушку вместе».",
+        "Команда под контролем перемещает Tangle по грузовому пандусу. Quiver управляет тормозом, а Mend удерживает вторую линию на якоре. Спешка не избавляет от необходимости беречь корпус и хрупкую катушку.\n\nQuiver: \"Тормоз удержан. Опустите трос вместе с нами\".",
+        "Sigh, хранитель кабельной переправы, распознает подходящую катушку. На пароме до сих пор хранится старая чашка для передачи эха. Если это оборудование работает, они могут попытаться осторожно вернуться, прежде чем нести Tangle дальше.\n\nSigh: \"Вы принесли часть, которую они забрали. Давайте сохраним ее\"."
+      ],
+      "title": "Под аплодисменты"
+    },
+    "tr": {
+      "captions": [
+        "Festivalin altında Rain ve Quest, çalıntı ifadeleri Crown'ye taşıyan bir yük hattı buluyor. Nova tek kurban değil. Makaralar, aşağıda hala hayatta olan insanlardan alınanları içeriyor.\n\nQuest: \"Bunlar depolama makaraları. Birisi şehri topluyor.\"",
+        "Konuşmadan iletişim kurabilen kurye Hush'nin hâlâ iki gözü var. Tangle'nin tüm yüzü çalındı. Hush, arabanın yanındaki makarayı işaret eder: Tangle'nin orijinal ifadesini taşır, yedek kişiyi değil.\n\nHush [imzalıyor]: \"Bu makara Tangle'ye ait.\"",
+        "Zor durumda kalan üç yardımcı deponun ritmini biliyor. Guff hareket eden makineleri sayıyor, Flip aşağıdan izliyor ve Fret boşluğu işaretliyor. Kafes kapısının yoldan geçen bir arabaya çarpmadan açılabileceği güvenli bir aralık belirlerler.\n\nGuff: \"Üçüncü tekerlekten sonra. Bu, kaldırımın boş olduğu zamandır.\"",
+        "Boşluk sırasında Flare kafes zımbasını gevşetir ve Pop sıkışmış menteşe pimini serbest bırakır. Hush artık dışarı çıkabilir. Pop'nin darbesi küçük bir mekanik sorunu çözer ve diğerinden önce bir duraklama gerektirir.\n\nPop: \"Tek menteşe. Tek alkış.\"",
+        "Hush, eski dönüş hattının Sigh'nin feribotuna ulaştığını biliyor. Makara, Tangle'nin hayatta kalan gövdesiyle kalmalıdır; ikisini de kaybetmek restorasyonu imkansız hale getirir. Quest, feribotun da dağa giden rota üzerinde bulunduğunu doğruluyor.\n\nHush [imzalayarak]: \"Gövdeyi ve makarayı birlikte alın.\"",
+        "Ekip, Tangle'yi kontrol altında yük rampasından aşağı doğru hareket ettiriyor. Quiver freni yönetirken, Mend ikinci bir hattı sabit tutuyor. Acele, vücudu ve kırılgan makarayı koruma ihtiyacını ortadan kaldırmaz.\n\nQuiver: \"Fren tutuldu. Hattı bizimle birlikte indirin.\"",
+        "Kablolu feribotun bekçisi Sigh eşleşen makarayı tanıyor. Feribotta hâlâ eski bir yankı aktarma kabı var. Eğer bu ekipman çalışırsa, Tangle'yi daha uzağa taşımadan önce dikkatli bir şekilde geri dönmeyi deneyebilirler.\n\nSigh: \"Aldıkları kısmı getirdin. Bırakın onu güvende tutalım.\""
+      ],
+      "title": "Alkışlar Altında"
+    },
+    "vi": {
+      "captions": [
+        "Bên dưới lễ hội, Rain và Quest tìm thấy một tuyến hàng hóa chở các biểu thức bị đánh cắp hướng tới Crown. Nova không phải là nạn nhân duy nhất. Các cuộn phim chứa những gì được lấy từ những người vẫn còn sống bên dưới.\n\nQuest: \"Đây là những cuộn phim lưu trữ. Ai đó đang thu thập thành phố.\"",
+        "Hush, người chuyển phát nhanh không nói được, vẫn còn hai mắt. Toàn bộ khuôn mặt của Tangle đã bị đánh cắp. Hush chỉ vào cuộn phim bên cạnh xe đẩy: nó chứa biểu hiện ban đầu của Tangle chứ không phải người thay thế.\n\nHush [ký]: “Cuộn phim đó thuộc về Tangle.”",
+        "Ba người giúp việc bị mắc kẹt biết nhịp điệu của kho hàng. Guff đếm máy móc đang chuyển động, Flip quan sát từ bên dưới và Fret đánh dấu khoảng trống. Họ xác định một khoảng thời gian an toàn trong đó cửa lồng có thể mở mà không va vào xe ngựa đi qua.\n\nGuff: \"Sau bánh xe thứ ba. Đó là lúc lối đi thông thoáng.\"",
+        "Trong khoảng trống, Flare nới lỏng chốt lồng và Pop đánh bật chốt bản lề bị kẹt ra. Hush bây giờ có thể thoát ra được. Xung của Pop giải quyết một vấn đề cơ học nhỏ và yêu cầu tạm dừng trước một vấn đề khác.\n\nPop: \"Một bản lề. Một tiếng vỗ tay.\"",
+        "Hush biết đường về cũ đến bến phà của Sigh. Ống chỉ phải ở cùng với cơ thể còn sống của Tangle; mất một trong hai sẽ làm cho việc khôi phục không thể thực hiện được. Quest xác nhận phà cũng nằm trên lộ trình hướng lên núi.\n\nHush [ký tên]: “Lấy thân máy và cuộn dây lại với nhau.”",
+        "Nhóm di chuyển Tangle xuống đoạn đường vận chuyển hàng hóa trong tầm kiểm soát. Quiver quản lý phanh trong khi Mend giữ cố định dây thứ hai. Sự vội vàng không loại bỏ được nhu cầu bảo vệ cơ thể và guồng quay mỏng manh.\n\nQuiver: \"Đã giữ phanh. Hãy kéo dây xuống cùng với chúng tôi.\"",
+        "Sigh, người giữ phà cáp, nhận ra cuộn dây phù hợp. Chiếc phà còn chiếc cốc truyền vọng cũ. Nếu thiết bị đó hoạt động, họ có thể cố gắng quay trở lại cẩn thận trước khi mang Tangle đi xa hơn.\n\nSigh: \"Bạn đã mang phần họ lấy đi. Hãy để chúng tôi giữ nó an toàn.\""
+      ],
+      "title": "Dưới sự vỗ tay"
+    },
+    "zh": {
+      "captions": [
+        "在节日下方，Rain 和 Quest 发现一条货运线路，载着被盗的表情前往 Crown。 Nova并不是唯一的受害者。这些卷轴包含从下面仍然活着的人身上获取的东西。\n\nQuest：“这些是存储卷轴。有人正在收集城市。”",
+        "Hush，一个不说话的快递员，仍然有两只眼睛。 Tangle的整张脸都被盗了。 Hush指着手推车旁边的卷轴：上面有Tangle的原始表情，而不是替代者。\n\nHush [签名]：“该卷轴属于 Tangle。”",
+        "三个被困的帮手熟悉车站的节奏。 Guff 计数移动的机械，Flip 从下方观察，Fret 标记间隙。他们确定了一个安全间隔，在这个间隔内笼门可以打开，而不会撞到经过的车厢。\n\nGuff：“第三个轮子之后。那时人行道就畅通无阻了。”",
+        "在间隙期间，Flare 松开保持架订书钉，Pop 将卡住的铰链销敲松。 Hush 现在可以出去了。 Pop 的脉冲解决了一个小机械问题，需要在解决另一个问题之前暂停。\n\nPop：“一个铰链。一个拍手。”",
+        "Hush知道旧回程线路到达Sigh的渡轮。线轴必须与Tangle的幸存本体保持在一起；失去其中任何一个都将导致恢复变得不可能。 Quest证实渡轮也在通往山区的路线上。\n\nHush[签名]：“把本体和卷轴一起拿走。”",
+        "团队在控制下将 Tangle 移下货运坡道。 Quiver 管理制动，而 Mend 保持第二条线锚定。匆忙并不能消除保护身体和脆弱的卷轴的需要。\n\nQuiver：“刹车已拉住。跟我们一起把绳子拉下来。”",
+        "电缆渡轮的管理员 Sigh 识别出匹配的卷轴。渡轮上仍然有一个旧的回声传递杯。如果该设备有效，他们可以在携带 Tangle 走得更远之前尝试小心返回。\n\nSigh：“你把他们拿走的那部分带来了，让我们保管好。”"
+      ],
+      "title": "掌声下"
+    }
+  },
+  "number": 4,
+  "panels": [
+    {
+      "altText": "Rain and Quest stand behind a waist-high railing at lower-left, looking up at one passing freight tram. Its transparent containers hold tightly wound luminous patterns on physical clear reels, each seated in a rack; no miniature people inhabit them.",
+      "bytes": 1891356,
+      "image": "N00E04P01.png",
+      "sha256": "7af8448ccdbd9a222e00641995e904bc6e5b540f5f12fb2d0e89f8f985931637"
+    },
+    {
+      "altText": "Hush stands behind a barred maintenance cage on the left, with two visible eyes and the naturally absent mouth. Hush points to Tangle on a padded trolley at right.",
+      "bytes": 1737321,
+      "image": "N00E04P02.png",
+      "sha256": "ccb6a4ad7978d98789a576a5208f47d1b06d3667063617d701ad832812ba93ad"
+    },
+    {
+      "altText": "Guff crouches at the safe side of a railing, watching a track-mounted inspection shoe pass a fixed marker. Flip hangs inverted from a secured exercise loop clipped to the gantry, both ankle bells attached; the inverted facial motif remains anatomically consistent.",
+      "bytes": 1665092,
+      "image": "N00E04P03.png",
+      "sha256": "886710bb640a81a88f0c9c91ad579775a81702dcd002580d333547ff64cddc71"
+    },
+    {
+      "altText": "The tram has passed out of the door’s clearance zone. Flare holds a warmed, loosened staple with one cuff while Pop’s two mittens have just met in one small pressure clap aimed at the damaged hinge pin.",
+      "bytes": 1672780,
+      "image": "N00E04P04.png",
+      "sha256": "78900d6838217aba167b3c5c63e98092199deb7da5aa5570b1d06e2779861d93"
+    },
+    {
+      "altText": "Hush, now outside the cage, holds the single full spool directly above its trolley bracket while pointing a wrist ribbon along the wave-marked pipe. Rain steadies Tangle’s padded trolley by its handle.",
+      "bytes": 1873521,
+      "image": "N00E04P05.png",
+      "sha256": "1461e17db0bb017b4099d5a5fd18f59e2a7c216f2621266611234b8d55b35f8a"
+    },
+    {
+      "altText": "Quiver walks behind the trolley holding its mechanical brake handle. Mend stands downhill at the side of the ramp and manages a safety line through two wall-mounted guide rings.",
+      "bytes": 1778276,
+      "image": "N00E04P06.png",
+      "sha256": "6609a16453d6b06faeece79023677300a3a21ebb667e9406eefb14cea3b6d449"
+    },
+    {
+      "altText": "Sigh stands on a rectangular cable ferry at screen-right, holding the docking latch open. Rain rolls the same trolley over a short level gangplank from screen-left; Hush supports the spool in its bracket.",
+      "bytes": 1714532,
+      "image": "N00E04P07.png",
+      "sha256": "1998f76d2c3524b5ccecd8b4d99e10cb9e0429501bfa8cf9ab0ae492a206c336"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "adventure",
+    "friendship",
+    "rescue",
+    "superhero"
+  ],
+  "version": 1
+}

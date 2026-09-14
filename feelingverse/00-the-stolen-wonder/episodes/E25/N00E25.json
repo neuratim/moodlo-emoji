@@ -1,0 +1,274 @@
+{
+  "id": "N00E25",
+  "localizations": {
+    "ar": {
+      "captions": [
+        "وبعد عدة أيام، عاد المسافرون والطواقم المحلية إلى Mosaic. يساعد Flare في إصلاح الدعامة التالفة أثناء الهجوم الفاشل الأول. يقوم Quiver بفحصه، ويختبر Tangle المفتاح، ويستخدم Mend حبل إصلاح عادي بدلاً من بكرة معاد تعبئتها بشكل غامض.\n\nFlare: \"هذه المرة نتحقق من الحمولة قبل عبور أي شخص.\"",
+        "سافر Phew من الميناء لتفقد Patch باستخدام Bash. تحمل Swagger الأدوات بدلاً من البحث عن مكان مثير للإعجاب للوقوف. ولا يزال القارب الذي تم إصلاحه متضررًا بشكل واضح، ويستحق الاهتمام به.\n\nBash: \"أبقِ الرقعة مرئية حتى يتم تركيب الشراع الجديد فعليًا.\"",
+        "قام حامل الشحن الخاضع للحراسة بإسقاط Null للأسفل لإجراء صيانة آمنة، مع قفل عمود الدوران الخاص به بشكل منفصل. يعمل Vex تحت الإشراف ولا يتلقى أي شارة وصول جديدة. يستخدم Quest مخطط القماش المحفوظ؛ القرص النحاسي المفقود لم يعد.\n\nWit: \"أبق وصلة الإرجاع مفتوحة. لا يوجد رابط تحكم في هذه العلبة.\"",
+        "ترحب حديقة Still الهادئة بالحزن والحياد والراحة دون محاولة إزالتها. لقد نزل Lull وDoze من الجبل، ويمكن لـ Sigh وWail الجلوس دون ترفيه أي شخص. تبقى المخارج في متناول اليد.\n\nلول: \"ابق طالما اخترت، فالطريق واضح\".",
+        "في الخطوة الأصلية، يترك Rain القليل من الماء على جناح ورقي جديد. Beam يحافظ على الضوء لطيفًا، وNova يقسمه. يعمل الترتيب المألوف دون أن يطلب من أي منهم أن يصبح نفس الشخص.\n\nBeam: \"مثل هذا؟\"\nRain: \"اترك مجالًا للمطر.\"",
+        "يقوم Hope بتعليم Puff الطية التي قام بتدريسها Nova ذات مرة. تشارك Hush الحركة بدون كلام، بينما تقوم Bloom وAdore وBitter بإعداد المواد. تقوم الشخصيات الأصغر بالاحتفال التالي، وليس مجرد التصفيق للأبطال الذين عادوا.\n\nHope: \"اصنع الطية هنا. لا يزال من الممكن فتح الجناح بعد ذلك.\"",
+        "ترتفع فراشة ورق واحدة إلى شجرة الفانوس فوق مدينة غير مكتملة ولكنها حية. الغضب والحزن والخوف والفرح وكل المشاعر الهادئة لا تزال تنتمي إلى هنا. عاد Nova إلى المنزل، وتم إرجاع النسخ الأصلية المسروقة، ولا يتعين على أحد أن يبتسم ليحصل على مكان.\n\nNova: \"انظر. هناك مساحة لكل ضوء.\""
+      ],
+      "title": "مكان لكل طقس"
+    },
+    "bn": {
+      "captions": [
+        "বেশ কিছু দিন পরে, ভ্রমণকারী এবং স্থানীয় ক্রুরা Mosaic-এ ফিরে এসেছে। Flare প্রথম ব্যর্থ আক্রমণের সময় ক্ষতিগ্রস্ত বন্ধনী মেরামত করতে সাহায্য করে। Quiver এটি পরীক্ষা করে, Tangle সুইচটি পরীক্ষা করে এবং Mend একটি রহস্যজনকভাবে রিফিল করা স্পুলের পরিবর্তে সাধারণ মেরামতের দড়ি ব্যবহার করে।\n\nFlare: \"এবার আমরা কেউ অতিক্রম করার আগে লোড পরীক্ষা করি।\"",
+        "Phew Bash-এর সাথে Patch পরিদর্শন করতে বন্দর থেকে ভ্রমণ করেছে। Swagger দাঁড়ানোর জন্য একটি চিত্তাকর্ষক জায়গা খোঁজার পরিবর্তে টুলগুলি ধরে রাখে। তাদের মেরামত করা স্কিফটি স্বীকৃতভাবে ক্ষতিগ্রস্থ-এবং যত্নের যোগ্য।\n\nBash: \"নতুন পাল আসলে ফিট না হওয়া পর্যন্ত প্যাচটি দৃশ্যমান রাখুন।\"",
+        "সুরক্ষিত রক্ষণাবেক্ষণের জন্য একটি রক্ষিত মালবাহী ক্র্যাডেল Null নামিয়েছে, এর টাকু আলাদাভাবে লক করা আছে। Vex তত্ত্বাবধানে কাজ করে এবং কোনো নতুন অ্যাক্সেস ব্যাজ পায় না। Quest সংরক্ষিত কাপড়ের চিত্র ব্যবহার করে; হারিয়ে যাওয়া পিতলের ডিস্ক ফিরে আসেনি।\n\nWit: \"রিটার্ন কাপলিং খোলা রাখুন। সেই ঘেরের কোন নিয়ন্ত্রণ লিঙ্ক নেই।\"",
+        "Still এর শান্ত বাগান দুঃখ, নিরপেক্ষতা এবং বিশ্রামকে তাদের অপসারণের চেষ্টা না করেই স্বাগত জানায়। লুল এবং ডোজ পাহাড় থেকে নেমে এসেছে, এবং Sigh এবং Wail কাউকে বিনোদন না দিয়ে বসতে পারে। প্রস্থানগুলি নাগালের মধ্যে থাকে।\n\nলুল: \"যতক্ষণ আপনি পছন্দ করেন ততক্ষণ থাকুন। পরিত্রাণের পথ পরিষ্কার।\"",
+        "আসল ধাপে, Rain একটি নতুন কাগজের ডানার উপর সামান্য জল ছেড়ে দেয়। Beam আলোকে মৃদু রাখে এবং Nova এটিকে ভাগ করে। পরিচিত ব্যবস্থা তাদের কাউকে একই ব্যক্তি হয়ে উঠতে না বলে কাজ করে।\n\nBeam: \"এরকম?\"\nRain: \"বৃষ্টির জন্য জায়গা ছেড়ে দিন।\"",
+        "Hope একবার শেখানো Puff ভাঁজ Nova শেখায়। Hush বক্তৃতা ছাড়া আন্দোলন শেয়ার করে, যখন Bloom, Adore এবং Bitter উপকরণ প্রস্তুত করে। ছোট চরিত্রগুলি পরবর্তী উদযাপন করছে, শুধুমাত্র ফিরে আসা নায়কদের প্রশংসা করছে না।\n\nHope: \"এখানে ক্রিজ তৈরি করুন। উইংটি পরেও খুলতে পারে।\"",
+        "একটি কাগজের মথ একটি অসমাপ্ত কিন্তু জীবন্ত শহরের উপরে লণ্ঠন গাছে উঠে। রাগ, দুঃখ, ভয়, আনন্দ এবং সমস্ত শান্ত অনুভূতি এখনও এখানে রয়েছে। Nova বাড়িতে, চুরি করা আসলগুলি ফেরত দেওয়া হয়, এবং জায়গা অর্জনের জন্য কাউকে হাসতে হয় না।\n\nNova: \"দেখুন। প্রতিটি আলোর জন্য জায়গা আছে।\""
+      ],
+      "title": "প্রতিটি আবহাওয়ার জন্য একটি জায়গা"
+    },
+    "cs": {
+      "captions": [
+        "O několik dní později jsou cestovatelé a místní posádky zpět v Mosaic. Flare pomáhá opravit držák poškozený během prvního neúspěšného útoku. Quiver to zkontroluje, Tangle otestuje spínač a Mend použije spíše obyčejné opravárenské lano než záhadně naplněnou cívku.\n\nFlare: \"Tentokrát zkontrolujeme náklad, než někdo překročí.\"",
+        "Phew odcestoval z přístavu na kontrolu Patch s Bash. Swagger drží nářadí místo toho, aby hledal působivé místo ke stání. Jejich opravený skif zůstává viditelně poškozený – a stojí za to se o něj postarat.\n\nBash: \"Nechte nášivku viditelnou, dokud nebude nová plachta skutečně nasazena.\"",
+        "Chráněná nákladní kolébka srazila Null dolů pro bezpečnou údržbu, přičemž její vřeteno je zablokované samostatně. Vex pracuje pod dohledem a nedostává žádný nový přístupový odznak. Quest používá uložené schéma tkaniny; ztracený mosazný kotouč se nevrátil.\n\nWit: \"Nechte vratnou spojku otevřenou. Žádné ovládací spojení k tomuto krytu.\"",
+        "Tichá zahrada Still vítá smutek, neutralitu a odpočinek, aniž by se je snažil odstranit. Lull a Doze sestoupili z hory a Sigh a Wail mohou sedět, aniž by někoho bavily. Východy zůstávají na dosah.\n\nLull: \"Zůstaň, jak dlouho chceš. Cesta ven je jasná.\"",
+        "Na původním schodu zanechává Rain trochu vody na novém papírovém křídle. Beam udržuje světlo jemné a Nova jej rozděluje. Známé uspořádání funguje, aniž by kdokoli z nich požadoval, aby se stal stejnou osobou.\n\nBeam: \"Takhle?\"\nRain: \"Nechte místo dešti.\"",
+        "Hope učí Puff fold Nova, jakmile se učil. Hush sdílí pohyb bez řeči, zatímco Bloom, Adore a Bitter připravují materiály. Menší postavy pořádají další oslavu, nejen tleskají hrdinům, kteří se vrátili.\n\nHope: \"Tady udělejte záhyb. Křídlo se může otevřít i poté.\"",
+        "Jedna papírová můra stoupá do lucerny nad nedokončeným, ale živým městem. Stále sem patří vztek, smutek, strach, radost a všechny ty tišší pocity. Nova je doma, ukradené originály jsou vráceny a nikdo se nemusí usmívat, aby získal místo.\n\nNova: \"Podívej. Pro každé světlo je místo.\""
+      ],
+      "title": "Místo pro každé počasí"
+    },
+    "de": {
+      "captions": [
+        "Einige Tage später sind Reisende und örtliche Teams zurück in Mosaic. Flare repariert die beim ersten gescheiterten Angriff beschädigte Halterung. Quiver prüft sie, Tangle testet den Schalter, und Mend nutzt gewöhnliches Reparaturseil statt einer rätselhaft aufgefüllten Spule.\n\nFlare: „Diesmal prüfen wir die Last, bevor jemand hinübergeht.“",
+        "Phew ist vom Hafen angereist, um Patch mit Bash zu inspizieren. Swagger hält die Werkzeuge bereit, anstatt nach einem beeindruckenden Standplatz zu suchen. Ihr repariertes Boot bleibt erkennbar beschädigt – und es lohnt sich, darauf zu achten.\n\nBash: „Lassen Sie den Flicken sichtbar, bis das neue Segel tatsächlich angebracht wird.“",
+        "Eine geschützte Frachtwiege hat den Null zur sicheren Wartung heruntergefahren, wobei die Spindel separat verriegelt war. Vex arbeitet unter Aufsicht und erhält keinen neuen Zugangsausweis. Quest verwendet das gespeicherte Stoffdiagramm; die verlorene Messingscheibe ist nicht zurückgekehrt.\n\nWit: „Halten Sie die Rücklaufkupplung offen. Keine Steuerverbindung zu diesem Gehäuse.“",
+        "Der ruhige Garten von Still heißt Trauer, Neutralität und Ruhe willkommen, ohne zu versuchen, sie zu beseitigen. Lull und Doze sind vom Berg heruntergekommen, und Sigh und Wail können sitzen, ohne jemanden zu unterhalten. Die Ausgänge bleiben in Reichweite.\n\nLull: „Bleiben Sie so lange Sie wollen. Der Ausweg ist klar.“",
+        "Auf der ursprünglichen Stufe hinterlässt Rain etwas Wasser auf einem neuen Papierflügel. Beam hält das Licht sanft und Nova teilt es. Die vertraute Vereinbarung funktioniert, ohne dass einer von beiden dieselbe Person werden muss.\n\nBeam: „So?“\nRain: „Lassen Sie Platz für den Regen.“",
+        "Hope lehrt Puff die einmal gelernte Falte Nova. Hush teilt die Bewegung ohne Sprache, während Bloom, Adore und Bitter die Materialien vorbereiten. Die kleineren Charaktere feiern die nächste Feier und applaudieren nicht nur den zurückgekehrten Helden.\n\nHope: „Machen Sie hier die Falte. Der Flügel kann sich danach noch öffnen.“",
+        "Eine Papiermotte erhebt sich im Laternenbaum über einer unvollendeten, aber lebendigen Stadt. Wut, Trauer, Angst, Freude und all die ruhigeren Gefühle gehören immer noch hierher. Nova ist zu Hause, die gestohlenen Originale werden zurückgegeben und niemand muss lächeln, um sich einen Platz zu verdienen.\n\nNova: „Sehen Sie, es gibt Platz für jedes Licht.“"
+      ],
+      "title": "Ein Ort für jedes Wetter"
+    },
+    "en": {
+      "captions": [
+        "Several days later, the travelers and local crews are back in Mosaic. Flare helps repair the bracket damaged during the first failed attack. Quiver checks it, Tangle tests the switch, and Mend uses ordinary repair rope rather than a mysteriously refilled spool.\n\nFlare: “This time we check the load before anyone crosses.”",
+        "Phew has traveled from the harbor to inspect Patch with Bash. Swagger holds the tools instead of searching for an impressive place to stand. Their repaired skiff remains recognizably damaged—and worth caring for.\n\nBash: “Keep the patch visible until the new sail is actually fitted.”",
+        "A guarded freight cradle has brought Null down for secure maintenance, with its spindle locked separately. Vex works under supervision and receives no new access badge. Quest uses the saved cloth diagram; the lost brass disk has not returned.\n\nWit: “Keep the return coupling open. No control link to that enclosure.”",
+        "Still’s quiet garden welcomes grief, neutrality and rest without trying to remove them. Lull and Doze have come down from the mountain, and Sigh and Wail can sit without entertaining anyone. The exits stay within reach.\n\nLull: “Stay as long as you choose. The way out is clear.”",
+        "On the original step, Rain leaves a little water on a new paper wing. Beam keeps the light gentle, and Nova divides it. The familiar arrangement works without asking any of them to become the same person.\n\nBeam: “Like this?”\nRain: “Leave room for the rain.”",
+        "Hope teaches Puff the fold Nova once taught. Hush shares the movement without speech, while Bloom, Adore and Bitter prepare the materials. The smaller characters are making the next celebration, not merely applauding the heroes who returned.\n\nHope: “Make the crease here. The wing can still open afterward.”",
+        "One paper moth rises into the lantern tree above an unfinished but living city. Anger, sadness, fear, joy and all the quieter feelings still belong here. Nova is home, the stolen originals are returned, and nobody has to smile to earn a place.\n\nNova: “Look. There is room for every light.”"
+      ],
+      "title": "A Place for Every Weather"
+    },
+    "es": {
+      "captions": [
+        "Varios días después, los viajeros y las tripulaciones locales están de regreso en Mosaic. Flare ayuda a reparar el soporte dañado durante el primer ataque fallido. Quiver lo comprueba, Tangle prueba el interruptor y Mend utiliza una cuerda de reparación normal en lugar de un carrete misteriosamente rellenado.\n\nFlare: “Esta vez comprobamos la carga antes de que alguien cruce”.",
+        "Phew ha viajado desde el puerto para inspeccionar Patch con Bash. Swagger sostiene las herramientas en lugar de buscar un lugar impresionante donde pararse. Su esquife reparado sigue claramente dañado y vale la pena cuidarlo.\n\nBash: \"Mantenga el parche visible hasta que la nueva vela esté realmente instalada\".",
+        "Para un mantenimiento seguro se ha bajado la Null mediante un soporte de carga vigilado, con el eje bloqueado por separado. Vex trabaja bajo supervisión y no recibe ninguna nueva tarjeta de acceso. Quest utiliza el diagrama de tela guardado; el disco de latón perdido no ha regresado.\n\nWit: \"Mantenga abierto el acoplamiento de retorno. No hay enlace de control a ese gabinete\".",
+        "El tranquilo jardín de Still acoge el dolor, la neutralidad y el descanso sin intentar eliminarlos. Lull y Doze han bajado de la montaña, y Sigh y Wail pueden sentarse sin entretener a nadie. Las salidas permanecen al alcance.\n\nLull: \"Quédate todo el tiempo que quieras. La salida está clara\".",
+        "En el paso original, Rain deja un poco de agua en una ala de papel nueva. Beam mantiene la luz suave y Nova la divide. El arreglo familiar funciona sin pedirles a ninguno de ellos que se convierta en la misma persona.\n\nBeam: “¿Así?”\nRain: “Deja espacio para la lluvia”.",
+        "Hope enseña a Puff el pliegue de Nova una vez enseñado. Hush comparte el movimiento sin palabra, mientras Bloom, Adore y Bitter preparan los materiales. Los personajes más pequeños están haciendo la próxima celebración, no simplemente aplaudiendo a los héroes que regresaron.\n\nHope: \"Haz el pliegue aquí. El ala aún se puede abrir después\".",
+        "Una polilla de papel se eleva hacia el árbol de la linterna sobre una ciudad inacabada pero viva. La ira, la tristeza, el miedo, la alegría y todos los sentimientos más tranquilos todavía pertenecen aquí. Nova está en casa, los originales robados son devueltos y nadie tiene que sonreír para ganarse un lugar.\n\nNova: “Mira, hay lugar para cada luz”."
+      ],
+      "title": "Un lugar para cada clima"
+    },
+    "fr": {
+      "captions": [
+        "Quelques jours plus tard, les voyageurs et les équipages locaux sont de retour à Mosaic. Flare aide à réparer le support endommagé lors de la première attaque ratée. Quiver le vérifie, Tangle teste l'interrupteur et Mend utilise une corde de réparation ordinaire plutôt qu'une bobine mystérieusement rechargée.\n\nFlare : « Cette fois, nous vérifions le chargement avant que quiconque ne traverse. »",
+        "Phew a quitté le port pour inspecter le Patch avec Bash. Le Swagger contient les outils au lieu de chercher un endroit impressionnant où se tenir. Leur yole réparée reste visiblement endommagée et mérite d'être entretenue.\n\nBash : \"Gardez le patch visible jusqu'à ce que la nouvelle voile soit réellement installée.\"",
+        "Un berceau de fret gardé a descendu le Null pour une maintenance sécurisée, avec sa broche verrouillée séparément. Vex travaille sous surveillance et ne reçoit aucun nouveau badge d'accès. Quest utilise le diagramme de tissu enregistré ; le disque de laiton perdu n'est pas revenu.\n\nWit : \"Gardez le couplage de retour ouvert. Aucun lien de commande vers ce boîtier.\"",
+        "Le jardin tranquille du Still accueille le chagrin, la neutralité et le repos sans chercher à les supprimer. Lull et Doze sont descendus de la montagne, et les Sigh et Wail peuvent s'asseoir sans divertir personne. Les sorties restent à portée de main.\n\nAccalmie : \"Restez aussi longtemps que vous le souhaitez. La sortie est claire.\"",
+        "Sur la marche d'origine, le Rain laisse un peu d'eau sur une nouvelle aile en papier. Beam garde la lumière douce et Nova la divise. L’arrangement familier fonctionne sans demander à aucun d’entre eux de devenir la même personne.\n\nBeam : « Comme ça ? »\nRain : « Laissez de la place à la pluie. »",
+        "Hope enseigne à Puff le pli Nova une fois enseigné. Hush partage le mouvement sans parole, tandis que Bloom, Adore et Bitter préparent le matériel. Les plus petits personnages participent à la prochaine célébration, et ne se contentent pas d'applaudir les héros qui reviennent.\n\nHope : \"Faites le pli ici. L'aile peut encore s'ouvrir par la suite.\"",
+        "Un papillon de nuit s'élève dans l'arbre à lanternes au-dessus d'une ville inachevée mais vivante. La colère, la tristesse, la peur, la joie et tous les sentiments les plus calmes ont toujours leur place ici. Nova est à la maison, les originaux volés sont restitués et personne n'a besoin de sourire pour gagner une place.\n\nNova : \"Regardez. Il y a de la place pour chaque lumière.\""
+      ],
+      "title": "Un endroit pour chaque temps"
+    },
+    "hi": {
+      "captions": [
+        "कई दिनों के बाद, यात्री और स्थानीय दल Mosaic में वापस आ गए हैं। Flare पहले असफल हमले के दौरान क्षतिग्रस्त ब्रैकेट की मरम्मत में मदद करता है। Quiver इसकी जाँच करता है, Tangle स्विच का परीक्षण करता है, और Mend रहस्यमय तरीके से भरे गए स्पूल के बजाय साधारण मरम्मत रस्सी का उपयोग करता है।\n\nFlare: \"इस बार हम किसी के भी पार करने से पहले लोड की जांच करते हैं।\"",
+        "Phew ने Bash के साथ Patch का निरीक्षण करने के लिए बंदरगाह से यात्रा की है। Swagger खड़े होने के लिए एक प्रभावशाली जगह की तलाश करने के बजाय उपकरण रखता है। उनकी मरम्मत की गई नाव अब भी काफ़ी क्षतिग्रस्त है—और देखभाल के लायक है।\n\nBash: \"पैच को तब तक दृश्यमान रखें जब तक कि नया पाल वास्तव में फिट न हो जाए।\"",
+        "एक संरक्षित मालवाहक पालने को सुरक्षित रखरखाव के लिए Null को नीचे लाया गया है, इसके स्पिंडल को अलग से लॉक किया गया है। Vex पर्यवेक्षण के तहत काम करता है और उसे कोई नया एक्सेस बैज नहीं मिलता है। Quest सहेजे गए कपड़ा आरेख का उपयोग करता है; खोई हुई पीतल की डिस्क वापस नहीं आई है.\n\nWit: \"रिटर्न कपलिंग को खुला रखें। उस बाड़े से कोई नियंत्रण लिंक नहीं है।\"",
+        "Still का शांत उद्यान दुःख, तटस्थता और उन्हें दूर करने की कोशिश किए बिना आराम का स्वागत करता है। लुल और डोज़ पहाड़ से नीचे आ गए हैं, और Sigh और Wail किसी का मनोरंजन किए बिना बैठ सकते हैं। निकास पहुंच के भीतर रहते हैं।\n\nलुल: \"जब तक आप चाहें तब तक रहें। बाहर निकलने का रास्ता स्पष्ट है।\"",
+        "मूल चरण पर, Rain एक नए पेपर विंग पर थोड़ा पानी छोड़ता है। Beam प्रकाश को कोमल रखता है, और Nova इसे विभाजित करता है। परिचित व्यवस्था उनमें से किसी से भी एक ही व्यक्ति बनने के लिए कहे बिना काम करती है।\n\nBeam: \"यह पसंद है?\"\nRain: \"बारिश के लिए जगह छोड़ें।\"",
+        "Hope Puff को एक बार सिखाया गया गुना Nova सिखाता है। Hush बिना भाषण के आंदोलन साझा करता है, जबकि Bloom, Adore और Bitter सामग्री तैयार करते हैं। छोटे पात्र अगला जश्न मना रहे हैं, न कि केवल वापस आए नायकों की सराहना कर रहे हैं।\n\nHope: \"यहां क्रीज बनाएं। विंग इसके बाद भी खुल सकता है।\"",
+        "एक कागज़ का कीड़ा एक अधूरे लेकिन जीवित शहर के ऊपर लालटेन के पेड़ में उगता है। क्रोध, उदासी, भय, खुशी और सभी शांत भावनाएँ अभी भी यहाँ हैं। Nova घर है, चुराई गई मूल प्रतियाँ वापस कर दी जाती हैं, और जगह पाने के लिए किसी को भी मुस्कुराने की ज़रूरत नहीं है।\n\nNova: \"देखो। हर रोशनी के लिए जगह है।\""
+      ],
+      "title": "हर मौसम के लिए एक जगह"
+    },
+    "id": {
+      "captions": [
+        "Beberapa hari kemudian, para pelancong dan kru lokal kembali ke Mosaic. Flare membantu memperbaiki braket yang rusak pada serangan pertama yang gagal. Quiver memeriksanya, Tangle menguji sakelar, dan Mend menggunakan tali perbaikan biasa daripada kumparan isi ulang secara misterius.\n\nFlare: “Kali ini kami memeriksa muatannya sebelum ada yang menyeberang.”",
+        "Phew telah melakukan perjalanan dari pelabuhan untuk memeriksa Patch dengan Bash. Swagger memegang peralatan alih-alih mencari tempat yang mengesankan untuk berdiri. Perahu mereka yang sudah diperbaiki masih terlihat rusak—dan layak dirawat.\n\nBash: “Jaga agar tambalan tetap terlihat sampai layar baru benar-benar dipasang.”",
+        "Tempat pengangkutan yang dijaga telah menurunkan Null untuk pemeliharaan yang aman, dengan porosnya dikunci secara terpisah. Vex bekerja di bawah pengawasan dan tidak menerima lencana akses baru. Quest menggunakan diagram kain yang disimpan; piringan kuningan yang hilang belum kembali.\n\nWit: \"Biarkan kopling balik tetap terbuka. Tidak ada tautan kontrol ke enklosur itu.\"",
+        "Taman Still yang tenang menyambut kesedihan, kenetralan, dan istirahat tanpa berusaha menghilangkannya. Lull dan Doze telah turun dari gunung, dan Sigh dan Wail bisa duduk tanpa menghibur siapa pun. Pintu keluar tetap dalam jangkauan.\n\nLull: \"Tetaplah di sini selama yang kamu pilih. Jalan keluarnya sudah jelas.\"",
+        "Pada langkah awal, Rain menyisakan sedikit air pada sayap kertas baru. Beam menjaga cahaya tetap lembut, dan Nova membaginya. Pengaturan yang akrab ini berhasil tanpa meminta salah satu dari mereka menjadi orang yang sama.\n\nBeam: “Seperti ini?”\nRain: “Berikan ruang untuk hujan.”",
+        "Hope mengajarkan Puff lipatan yang pernah diajarkan Nova. Hush membagikan gerakan tanpa bicara, sedangkan Bloom, Adore dan Bitter menyiapkan materi. Karakter-karakter yang lebih kecil membuat perayaan berikutnya, tidak hanya sekedar bertepuk tangan untuk para pahlawan yang kembali.\n\nHope: \"Buat lipatan di sini. Sayapnya masih bisa terbuka setelahnya.\"",
+        "Seekor ngengat kertas muncul di pohon lentera di atas kota yang belum selesai namun masih hidup. Kemarahan, kesedihan, ketakutan, kegembiraan dan segala perasaan yang lebih tenang masih ada di sini. Nova sudah pulang, dokumen asli yang dicuri dikembalikan, dan tak seorang pun perlu tersenyum untuk mendapatkan tempat.\n\nNova: \"Lihat. Ada ruang untuk setiap lampu.\""
+      ],
+      "title": "Tempat untuk Segala Cuaca"
+    },
+    "it": {
+      "captions": [
+        "Diversi giorni dopo, i viaggiatori e gli equipaggi locali sono tornati a Mosaic. Flare aiuta a riparare la staffa danneggiata durante il primo attacco fallito. Quiver lo controlla, Tangle testa l'interruttore e Mend utilizza una normale corda di riparazione anziché una bobina misteriosamente ricaricata.\n\nFlare: \"Questa volta controlliamo il carico prima che qualcuno attraversi.\"",
+        "Phew ha viaggiato dal porto per ispezionare Patch con Bash. Swagger tiene gli strumenti invece di cercare un posto impressionante dove stare. La loro barca riparata rimane visibilmente danneggiata e vale la pena prendersene cura.\n\nBash: \"Mantieni la toppa visibile finché la nuova vela non sarà effettivamente montata.\"",
+        "Un supporto merci protetto ha portato giù lo Null per una manutenzione sicura, con il mandrino bloccato separatamente. Vex funziona sotto supervisione e non riceve alcun nuovo badge di accesso. Quest utilizza il diagramma del tessuto salvato; il disco di ottone perduto non è stato restituito.\n\nWit: \"Mantieni aperto il raccordo di ritorno. Nessun collegamento di controllo a quella custodia. \"",
+        "Il tranquillo giardino di Still accoglie il dolore, la neutralità e il riposo senza cercare di rimuoverli. Lull e Doze sono scesi dalla montagna e Sigh e Wail possono sedersi senza intrattenere nessuno. Le uscite restano a portata di mano.\n\nLull: \"Resta finché vuoi. La via d'uscita è chiara.\"",
+        "Nel passaggio originale, Rain lascia un po' d'acqua su una nuova ala di carta. Beam mantiene la luce delicata e Nova la divide. L'accordo familiare funziona senza chiedere a nessuno di loro di diventare la stessa persona.\n\nBeam: \"Così?\"\nRain: “Lascia spazio alla pioggia”.",
+        "Hope insegna a Puff la piega Nova una volta insegnata. Hush condivide il movimento senza parlare, mentre Bloom, Adore e Bitter preparano i materiali. I personaggi più piccoli stanno celebrando la prossima celebrazione, non semplicemente applaudendo gli eroi che sono tornati.\n\nHope: \"Fai la piega qui. L'ala può ancora aprirsi dopo.\"",
+        "Una falena di carta si alza sull'albero della lanterna sopra una città incompiuta ma viva. La rabbia, la tristezza, la paura, la gioia e tutti i sentimenti più tranquilli appartengono ancora a questo posto. Nova è a casa, gli originali rubati vengono restituiti e nessuno deve sorridere per guadagnarsi un posto.\n\nNova: \"Guarda. C'è spazio per ogni luce.\""
+      ],
+      "title": "Un posto per ogni condizione atmosferica"
+    },
+    "ja": {
+      "captions": [
+        "数日後、旅行者と地元乗組員は Mosaic に戻ってきました。 Flare は、最初の攻撃失敗時に破損したブラケットの修復に役立ちます。 Quiver はそれをチェックし、Tangle はスイッチをテストし、Mend は不思議なことに補充されたスプールではなく、通常の修理ロープを使用します。\n\nFlare: 「今回は誰かが渡る前に荷重をチェックします。」",
+        "Phew は Bash とともに Patch を検査するために港からやって来ました。 Swagger は、印象的な立ち場所を探すのではなく、ツールを保持します。修理された小船は目に見えて損傷したままですが、手入れする価値があります。\n\nBash: 「新しい帆が実際に取り付けられるまで、パッチは見える状態にしておいてください。」",
+        "安全なメンテナンスのために、ガードされた貨物クレードルが Null を停止させ、スピンドルは個別にロックされました。 Vex は監視下で動作し、新しいアクセス バッジは受け取りません。 Quest は保存されたクロス ダイアグラムを使用します。失われた真鍮のディスクは戻ってきません。\n\nWit: 「リターンカップリングを開いたままにしてください。そのエンクロージャへの制御リンクはありません。」",
+        "Still の静かな庭園は、悲しみ、中立性、休息を、それらを取り除こうとすることなく歓迎します。 Lull と Doze が山から下りてきたので、Sigh と Wail は誰にも楽しませることなく座ることができます。出口は手の届くところにあります。\n\nルル：「好きなだけ滞在してください。出口は明らかです。」",
+        "元のステップでは、Rain は新しいペーパー ウィングに少量の水を残します。 Beamは光を優しく保ち、Novaは光を分割します。このおなじみの配置は、誰にも同じ人物になることを要求することなく機能します。\n\nBeam: 「こんな感じ？」\nRain: 「雨が降っても大丈夫です。」",
+        "Hope は、かつて Nova が教えた倍数を Puff に教えます。 Hush は無言で動きを共有し、Bloom、Adore、Bitter は素材を準備します。小さなキャラクターたちは、戻ってきた英雄たちをただ称賛するだけでなく、次の祝賀会を開催します。\n\nHope: 「ここに折り目をつけてください。翼は後からでも開くことができます。」",
+        "未完成だが生きている都市の上にあるランタンの木に一匹の紙蛾が昇る。怒り、悲しみ、恐怖、喜び、その他すべての静かな感情は依然としてここに属します。 Nova は家に帰り、盗まれた原本は戻ってきます。誰も笑顔で場所を獲得する必要はありません。\n\nNova: 「見てください。あらゆる光が入る余地があります。」"
+      ],
+      "title": "あらゆる天候に対応できる場所"
+    },
+    "ko": {
+      "captions": [
+        "며칠 후 여행자와 현지 승무원이 Mosaic로 돌아왔습니다. Flare는 첫 번째 공격 실패 시 손상된 브래킷을 수리하는 데 도움을 줍니다. Quiver는 그것을 확인하고, Tangle는 스위치를 테스트하고, Mend는 신비롭게 리필된 스풀 대신 일반 수리 로프를 사용합니다.\n\nFlare: \"이번에는 누군가가 건너기 전에 하중을 확인합니다.\"",
+        "Phew는 Bash로 Patch를 검사하기 위해 항구에서 출발했습니다. Swagger는 인상적인 서 있는 장소를 찾는 대신 도구를 보유합니다. 수리된 배는 눈에 띄게 손상된 상태로 남아 있으므로 관리할 가치가 있습니다.\n\nBash: \"새 돛이 실제로 장착될 때까지 패치가 보이도록 유지하세요.\"",
+        "보호된 화물 크래들은 안전한 유지 관리를 위해 Null를 내려놓았으며 스핀들은 별도로 잠겨 있습니다. Vex는 감독하에 작동하며 새로운 액세스 배지를 받지 않습니다. Quest는 저장된 천 다이어그램을 사용합니다. 잃어버린 황동 디스크가 돌아오지 않았습니다.\n\nWit: \"리턴 커플링을 열어두세요. 해당 엔클로저에 대한 제어 링크가 없습니다.\"",
+        "Still의 조용한 정원은 슬픔, 중립, 휴식을 제거하지 않고도 환영합니다. Lull과 Doze는 산에서 내려왔고, Sigh와 Wail는 누구도 즐겁게 하지 않고 앉아 있을 수 있습니다. 출구는 손이 닿는 곳에 있습니다.\n\nLull: \"원하는 만큼 오래 머무르세요. 나가는 길은 분명합니다.\"",
+        "원래 단계에서 Rain는 새 종이 날개에 약간의 물을 남깁니다. Beam는 빛을 은은하게 유지하고, Nova는 빛을 나눕니다. 익숙한 배열은 그들 중 누구도 같은 사람이 되도록 요구하지 않고 작동합니다.\n\nBeam: “이렇게요?”\nRain: \"비가 올 수 있도록 공간을 남겨두세요.\"",
+        "Hope는 Puff에게 한 번 티칭한 Nova 접기를 가르칩니다. Hush는 말없이 움직임을 공유하고, Bloom, Adore 및 Bitter는 자료를 준비합니다. 작은 캐릭터들은 돌아온 영웅들에게 단순히 박수를 보내는 것이 아니라 다음 축하를 만들고 있습니다.\n\nHope: \"여기에 주름을 만드세요. 날개는 나중에 열릴 수 있습니다.\"",
+        "미완성이지만 살아 있는 도시 위의 등불나무 위로 종이나방 한 마리가 올라옵니다. 분노, 슬픔, 두려움, 기쁨 및 모든 조용한 감정은 여전히 ​​여기에 속합니다. Nova가 집에 왔습니다. 도난당한 원본이 반환되었으며, 자리를 얻기 위해 웃을 필요가 없습니다.\n\nNova: \"보세요. 모든 조명을 위한 공간이 있습니다.\""
+      ],
+      "title": "모든 날씨에 적합한 장소"
+    },
+    "pl": {
+      "captions": [
+        "Kilka dni później podróżnicy i lokalne załogi wracają do Mosaic. Flare pomaga naprawić wspornik uszkodzony podczas pierwszego nieudanego ataku. Quiver to sprawdza, Tangle testuje przełącznik, a Mend używa zwykłej liny naprawczej zamiast tajemniczo napełnianej szpuli.\n\nFlare: „Tym razem sprawdzamy ładunek, zanim ktokolwiek przejdzie.”",
+        "Phew udał się z portu, aby sprawdzić Patch wraz z Bash. Swagger trzyma narzędzia, zamiast szukać imponującego miejsca do stania. Naprawiona łódź pozostaje w widoczny sposób uszkodzona i warto o nią dbać.\n\nBash: „Utrzymuj łatkę w widocznym miejscu do czasu faktycznego zamontowania nowego żagla.”",
+        "Chroniona platforma towarowa opuściła Null w celu bezpiecznej konserwacji, z oddzielnie zablokowanym wrzecionem. Vex pracuje pod nadzorem i nie otrzymuje nowej karty dostępu. Quest wykorzystuje zapisany schemat tkaniny; zagubiony mosiężny dysk nie wrócił.\n\nWit: \"Trzymaj otwarte złącze powrotne. Brak połączenia sterującego z tą obudową. \"",
+        "Cichy ogród Still wita smutek, neutralność i odpoczynek, nie próbując ich usuwać. Lull i Doze zeszły z góry, a Sigh i Wail mogą usiąść, nie zabawiając nikogo. Wyjścia pozostają w zasięgu ręki.\n\nLull: \"Zostań tak długo, jak chcesz. Wyjście jest jasne.\"",
+        "Na pierwotnym stopniu Rain pozostawia trochę wody na nowym papierowym skrzydle. Beam zapewnia delikatne światło, a Nova je dzieli. Znajomy układ działa bez proszenia któregokolwiek z nich, aby stał się tą samą osobą.\n\nBeam: „W ten sposób?”\nRain: „Zostaw miejsce na deszcz”.",
+        "Hope uczy Puff składania Nova, którego kiedyś nauczono. Hush dzieli się ruchem bez mowy, natomiast Bloom, Adore i Bitter przygotowują materiały. Mniejsze postacie świętują kolejną rocznicę, nie tylko oklaskując bohaterów, którzy powrócili.\n\nHope: \"Zrób tutaj zagięcie. Skrzydło może być później nadal otwarte.\"",
+        "Jedna ćma papierowa wznosi się na latarnię nad niedokończonym, ale żywym miastem. Złość, smutek, strach, radość i wszystkie cichsze uczucia nadal tu należą. Nova jest w domu, skradzione oryginały zostają zwrócone i nikt nie musi się uśmiechać, żeby zarobić na miejsce.\n\nNova: \"Spójrz. Jest miejsce na każde światło.\""
+      ],
+      "title": "Miejsce na każdą pogodę"
+    },
+    "pt": {
+      "captions": [
+        "Vários dias depois, os viajantes e as tripulações locais estão de volta a Mosaic. Flare ajuda a reparar o suporte danificado durante o primeiro ataque fracassado. Quiver verifica, Tangle testa a chave e Mend usa corda de reparo comum em vez de um carretel misteriosamente recarregado.\n\nFlare: “Desta vez verificamos a carga antes que alguém atravesse.”",
+        "Phew viajou do porto para inspecionar Patch com Bash. Swagger segura as ferramentas em vez de procurar um lugar impressionante para ficar. O esquife reparado permanece reconhecidamente danificado – e vale a pena cuidar dele.\n\nBash: “Mantenha o remendo visível até que a nova vela seja realmente instalada.”",
+        "Um berço de carga protegido desceu o Null para manutenção segura, com seu eixo travado separadamente. Vex funciona sob supervisão e não recebe nenhum novo crachá de acesso. Quest usa o diagrama de tecido salvo; o disco de latão perdido não retornou.\n\nWit: \"Mantenha o acoplamento de retorno aberto. Não há link de controle para esse gabinete.\"",
+        "O jardim tranquilo de Still acolhe a dor, a neutralidade e o descanso sem tentar removê-los. Lull e Doze desceram da montanha e Sigh e Wail podem sentar-se sem entreter ninguém. As saídas permanecem ao seu alcance.\n\nLull: \"Fique o tempo que quiser. A saída é clara.\"",
+        "Na etapa original, Rain deixa um pouco de água em uma nova asa de papel. Beam mantém a luz suave e Nova a divide. O arranjo familiar funciona sem pedir que nenhum deles se torne a mesma pessoa.\n\nBeam: “Assim?”\nRain: “Deixe espaço para a chuva.”",
+        "Hope ensina Puff a dobra Nova uma vez ensinada. Hush compartilha o movimento sem fala, enquanto Bloom, Adore e Bitter preparam os materiais. Os personagens menores estão fazendo a próxima celebração, e não apenas aplaudindo os heróis que retornaram.\n\nHope: \"Faça o vinco aqui. A asa ainda pode abrir depois.\"",
+        "Uma mariposa de papel sobe na árvore-lanterna acima de uma cidade inacabada, mas viva. Raiva, tristeza, medo, alegria e todos os sentimentos mais tranquilos ainda pertencem aqui. Nova está em casa, os originais roubados são devolvidos e ninguém precisa sorrir para ganhar um lugar.\n\nNova: \"Olha. Há espaço para todas as luzes.\""
+      ],
+      "title": "Um lugar para todos os climas"
+    },
+    "ru": {
+      "captions": [
+        "Несколько дней спустя путешественники и местные экипажи вернулись в Mosaic. Flare помогает восстановить кронштейн, поврежденный во время первой неудачной атаки. Quiver проверяет его, Tangle проверяет переключатель, а Mend использует обычную ремонтную веревку, а не таинственно заправленную катушку.\n\nFlare: «На этот раз мы проверяем груз, прежде чем кто-нибудь пересечет дорогу».",
+        "Phew отправился из гавани, чтобы осмотреть Patch вместе с Bash. Swagger держит инструменты вместо того, чтобы искать впечатляющее место для стоянки. Их отремонтированный катер остается заметно поврежденным и заслуживает ухода.\n\nBash: «Держите нашивку на виду, пока новый парус не будет установлен».",
+        "Охраняемая грузовая платформа опускает Null для безопасного обслуживания, шпиндель которого блокируется отдельно. Vex работает под наблюдением и не получает новых пропусков. Quest использует сохраненную схему ткани; потерянный латунный диск не вернулся.\n\nWit: \"Держите обратную муфту открытой. Нет связи управления с этим корпусом\".",
+        "Тихий сад Still приветствует горе, нейтральность и покой, не пытаясь их устранить. Луллий и Дозе спустились с горы, а Sigh и Wail могут сидеть, никого не развлекая. Выходы остаются в пределах досягаемости.\n\nЛулл: \"Оставайся столько, сколько захочешь. Выход ясен\".",
+        "На исходном этапе Rain оставляет немного воды на новом бумажном крыле. Beam сохраняет свет мягким, а Nova разделяет его. Знакомая договоренность работает, не требуя от кого-либо из них стать одним и тем же человеком.\n\nBeam: «Вот так?»\nRain: «Оставьте место для дождя».",
+        "Hope обучает Puff складке, которой когда-то научил Nova. Hush без слов делится движением, а Bloom, Adore и Bitter готовят материалы. Меньшие персонажи устраивают очередной праздник, а не просто аплодируют вернувшимся героям.\n\nHope: \"Сделайте складку здесь. После этого крыло еще можно открыть\".",
+        "Один бумажный мотылек поднимается на фонарное дерево над недостроенным, но живым городом. Гнев, печаль, страх, радость и все более спокойные чувства по-прежнему принадлежат сюда. Nova дома, украденные оригиналы возвращены, и никому не нужно улыбаться, чтобы заработать место.\n\nNova: \"Смотрите. Здесь есть место для каждого источника света.\""
+      ],
+      "title": "Место для любой погоды"
+    },
+    "tr": {
+      "captions": [
+        "Birkaç gün sonra gezginler ve yerel ekipler Mosaic'ye geri döndü. Flare, ilk başarısız saldırı sırasında hasar gören desteğin onarılmasına yardımcı olur. Quiver bunu kontrol ediyor, Tangle anahtarı test ediyor ve Mend, gizemli bir şekilde yeniden doldurulmuş bir makara yerine sıradan onarım ipi kullanıyor.\n\nFlare: \"Bu sefer kimse karşıya geçmeden yükü kontrol ediyoruz.\"",
+        "Phew, Bash ile Patch'yi incelemek için limandan seyahat etti. Swagger, duracak etkileyici bir yer aramak yerine araçları tutar. Onarılan tekneleri fark edilir derecede hasar görmüş durumda ve bakıma değer.\n\nBash: \"Yeni yelken takılana kadar yamayı görünür tutun.\"",
+        "Korumalı bir yük beşiği, iş mili ayrı olarak kilitlenerek Null'yi güvenli bakım için aşağı indirdi. Vex gözetim altında çalışır ve yeni erişim kartı almaz. Quest kaydedilen kumaş şemasını kullanır; kayıp pirinç disk geri dönmedi.\n\nWit: \"Geri dönüş bağlantısını açık tutun. Bu muhafazaya kontrol bağlantısı yok.\"",
+        "Still'nin sessiz bahçesi kederi, tarafsızlığı ve dinlenmeyi ortadan kaldırmaya çalışmadan memnuniyetle karşılıyor. Lull ve Doze dağdan indiler ve Sigh ve Wail kimseyi eğlendirmeden oturabilirler. Çıkışlar ulaşılabilir durumda.\n\nLull: \"İstediğiniz kadar kalın. Çıkış yolu açık.\"",
+        "Orijinal adımda Rain yeni kağıt kanadın üzerine biraz su bırakıyor. Beam ışığı yumuşak tutar ve Nova onu böler. Tanıdık düzenleme, hiçbirinin aynı kişi olmasını istemeden işliyor.\n\nBeam: “Bunun gibi mi?”\nRain: \"Yağmur için yer bırakın.\"",
+        "Hope, Puff'ye Nova'nin bir kez öğretildiği katlamayı öğretir. Hush hareketi konuşmadan paylaşırken, Bloom, Adore ve Bitter malzemeleri hazırlıyor. Küçük karakterler, yalnızca geri dönen kahramanları alkışlamakla kalmıyor, bir sonraki kutlamayı da yapıyor.\n\nHope: \"Burada kıvrımı yapın. Kanat daha sonra da açılabilir.\"",
+        "Bitmemiş ama yaşayan bir şehrin üzerindeki fener ağacına bir kağıt güvesi yükseliyor. Öfke, üzüntü, korku, neşe ve tüm sessiz duygular hâlâ buraya ait. Nova evde, çalınan orijinaller iade ediliyor ve kimsenin bir yer kazanmak için gülümsemesine gerek yok.\n\nNova: \"Bak. Her ışığa yer var.\""
+      ],
+      "title": "Her Hava Durumuna Uygun Bir Yer"
+    },
+    "vi": {
+      "captions": [
+        "Vài ngày sau, các du khách và phi hành đoàn địa phương đã quay trở lại Mosaic. Flare giúp sửa chữa giá đỡ bị hư hỏng trong lần tấn công thất bại đầu tiên. Quiver kiểm tra nó, Tangle kiểm tra công tắc và Mend sử dụng dây sửa chữa thông thường thay vì một ống cuộn được nạp lại một cách bí ẩn.\n\nFlare: “Lần này chúng tôi kiểm tra tải trước khi có người vượt qua.”",
+        "Phew đã đi từ bến cảng để kiểm tra Patch bằng Bash. Swagger nắm giữ các công cụ thay vì tìm kiếm một chỗ đứng ấn tượng. Chiếc thuyền nhỏ đã được sửa chữa của họ vẫn bị hư hỏng rõ ràng và đáng được chăm sóc.\n\nBash: “Giữ miếng vá hiển thị cho đến khi cánh buồm mới thực sự được lắp vào.”",
+        "Một giá đỡ vận chuyển hàng hóa được bảo vệ đã đưa Null xuống để bảo trì an toàn với trục xoay được khóa riêng. Vex hoạt động dưới sự giám sát và không nhận được huy hiệu truy cập mới. Quest sử dụng sơ đồ vải đã lưu; chiếc đĩa đồng bị mất vẫn chưa quay trở lại.\n\nWit: \"Giữ khớp nối quay trở lại mở. Không có liên kết điều khiển đến vỏ đó.\"",
+        "Khu vườn yên tĩnh của Still chào đón sự đau buồn, sự trung lập và sự nghỉ ngơi mà không cần cố gắng loại bỏ chúng. Lull và Doze đã từ trên núi xuống, Sigh và Wail có thể ngồi mà không tiếp đãi ai. Các lối ra vẫn trong tầm tay.\n\nLull: \"Ở lại bao lâu tùy thích. Lối thoát đã rõ ràng.\"",
+        "Ở bước ban đầu, Rain để lại một ít nước trên cánh giấy mới. Beam giữ ánh sáng dịu nhẹ và Nova phân chia nó. Sự sắp xếp quen thuộc có hiệu quả mà không yêu cầu bất kỳ ai trong số họ trở thành cùng một người.\n\nBeam: “Như thế này à?”\nRain: “Hãy chừa chỗ cho mưa.”",
+        "Hope dạy Puff theo cách Nova đã từng dạy. Hush chia sẻ chuyển động không lời, trong khi Bloom, Adore và Bitter chuẩn bị nguyên liệu. Những nhân vật nhỏ hơn đang làm lễ kỷ niệm tiếp theo chứ không chỉ đơn thuần là vỗ tay cho những anh hùng đã trở lại.\n\nHope: \"Tạo nếp gấp ở đây. Cánh vẫn có thể mở ra sau đó.\"",
+        "Một con bướm giấy bay lên cây đèn lồng phía trên một thành phố còn dang dở nhưng đang sống động. Giận dữ, buồn bã, sợ hãi, niềm vui và tất cả những cảm giác êm đềm hơn vẫn thuộc về nơi đây. Nova là nhà, bản gốc bị đánh cắp được trả lại và không ai phải mỉm cười để kiếm được một chỗ.\n\nNova: \"Nhìn này. Có chỗ cho mọi ánh sáng.\""
+      ],
+      "title": "Một nơi cho mọi thời tiết"
+    },
+    "zh": {
+      "captions": [
+        "几天后，旅客和当地工作人员回到了Mosaic。 Flare 帮助修复在第一次失败的攻击中损坏的支架。 Quiver 检查它，Tangle 测试开关，Mend 使用普通的修复绳，而不是神秘地重新填充的线轴。\n\nFlare：“这次我们在任何人穿越之前检查负载。”",
+        "Phew已从港口出发，与Bash一起检查Patch。 Swagger 拿着工具而不是寻找令人印象深刻的地方站立。他们修复后的小船仍然受到明显损坏，值得保养。\n\nBash：“在新帆实际安装之前，请保持补丁可见。”",
+        "一个受保护的货运吊架已将 Null 放下以进行安全维护，其主轴单独锁定。 Vex 在监督下工作，不会收到新的访问徽章。 Quest使用保存的布图；丢失的铜盘尚未归还。\n\nWit：“保持返回耦合打开。该外壳没有控制链路。”",
+        "Still安静的花园欢迎悲伤、中立和休息，而不试图消除它们。 Lull和Doze已经从山上下来了，Sigh和Wail可以坐下来不招待任何人。出口就在触手可及的地方。\n\n纳尔：“想留多久就留多久。出路是明确的。”",
+        "在原来的步骤上，Rain在新的纸翼上留下了一点水。 Beam保持光线柔和，Nova则将光线分开。这种熟悉的安排有效，不需要他们中的任何一个人成为同一个人。\n\nBeam：“这样？”\nRain：“留点空间，防雨。”",
+        "Hope 教 Puff 曾经教过的折叠 Nova。 Hush在没有发言的情况下分享动作，而Bloom、Adore和Bitter准备材料。小人物正在进行下一次庆祝活动，而不仅仅是为归来的英雄鼓掌。\n\nHope：“在这里做折痕，之后机翼仍然可以打开。”",
+        "一只纸蛾飞入一座未完工但充满活力的城市上方的灯笼树上。愤怒、悲伤、恐惧、喜悦和所有更安静的感觉仍然属于这里。 Nova 回家了，被盗的原件被归还，没有人必须微笑才能赢得一席之地。\n\nNova：“看，每个灯都有空间。”"
+      ],
+      "title": "适合各种天气的地方"
+    }
+  },
+  "number": 25,
+  "panels": [
+    {
+      "altText": "Flare tightens bolts on a visible replacement bracket beside the original bowed seam. Quiver checks the joint with all three belt chimes still attached.",
+      "bytes": 1903033,
+      "image": "N00E25P01.png",
+      "sha256": "a73f846f249ead7efc367a043d101f072a82d933de59efa7c7a5d41be69a80eb"
+    },
+    {
+      "altText": "Patch rests in a dry cradle on one anchored repair pontoon. Phew checks the copper starboard splint while Bash inspects the opaque canopy reinforcement.",
+      "bytes": 1851971,
+      "image": "N00E25P02.png",
+      "sha256": "66fbbd00c4d15927445bf2f03fd0ba73c0d2454c095e66e85aa3e947a6809150"
+    },
+    {
+      "altText": "Vex replaces a damaged bronze relay coupling using ordinary tools while Sideeye holds it in a vise. Wit supervises the connection and Quest consults the same cloth copy saved by Hush; Quest’s disk attachment remains empty.",
+      "bytes": 1809541,
+      "image": "N00E25P03.png",
+      "sha256": "9e0cb36a5fb5e242635be21931f0cb2f58ec63fc9ad57a1c6a2e00d385cbfc5a"
+    },
+    {
+      "altText": "Still sits neutrally on the main bench. Lull adjusts a cloth shade fixed to two posts; Doze rests in an open booth with its curtain tied back and no floating letters.",
+      "bytes": 1821323,
+      "image": "N00E25P04.png",
+      "sha256": "2ea4b18da231eb68fbfbc1de15b54e66acfa636fc6e3117900dffabc48495d71"
+    },
+    {
+      "altText": "Rain holds a newly folded ordinary unmarked moth with a damp wing; it is not a replacement for the blue-dotted gift, which remains safe on the hall shelf. Restored Beam supplies a modest, soft light.",
+      "bytes": 1822386,
+      "image": "N00E25P05.png",
+      "sha256": "18658fb3a537c2ddc993b354bca59cf7cfc3cf716630644b33d975c4aa483d2f"
+    },
+    {
+      "altText": "Hope demonstrates a paper fold at the front of a long table while Puff copies it on a separate plain sheet. Hush demonstrates the same crease with ribboned hands, two eyes and no mouth.",
+      "bytes": 1766557,
+      "image": "N00E25P06.png",
+      "sha256": "7d18a6d825908d14a3df2e6eaf014a8264c77ab87e5fd25253dcce74329f594e"
+    },
+    {
+      "altText": "A single plain ivory moth rises on an ordinary gentle updraft just above the nearby folding table, immediately after release. No extra releasing hand is needed in frame.",
+      "bytes": 1889997,
+      "image": "N00E25P07.png",
+      "sha256": "777b35c40483beb100c852a2aa6298ce6f8a59fa0fc1af82a89e7c6b59b6e1bf"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "adventure",
+    "friendship",
+    "rescue",
+    "superhero"
+  ],
+  "version": 1
+}

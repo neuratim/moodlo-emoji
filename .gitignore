@@ -1,6 +1,6 @@
 *.pyc
 .dart_tool/
 __pycache__/
-/movies/production/
-/movies/source/
+/feelingverse/production/
+/feelingverse/source/
 pubspec.lock

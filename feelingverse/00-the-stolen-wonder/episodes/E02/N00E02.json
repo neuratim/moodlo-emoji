@@ -1,0 +1,274 @@
+{
+  "id": "N00E02",
+  "localizations": {
+    "ar": {
+      "captions": [
+        "Vex، ملازم Null، يغلق شبكة مرآة عبر الرصيف. يتدخل Nova لمسح Puff. تم بناء المصيدة من أجل Wonder، وقد استخدمت Vex المهرجان المزدحم لجعل Nova في متناول اليد.\n\nNova: \"Puff، عد إلى الجسر. انطلق!\"",
+        "يهرب Puff، لكن شبكة المرآة تطوى حول Nova. تقوم المصيدة بإرسال ضوء Nova المتفرع مرة أخرى إلى عدساتها الخاصة. Vex لديه الآن الملاح الحي الذي يحتاجه Null.\n\nVex: \"Null يحتاج إلى مساراتك، يا عجب. وليس إذنك.\"",
+        "Nova يرسل Rain دبوس النجمة من الوشاح. رقائق نقطة واحدة مقابل إطار الالتقاط قبل أن يلتقطه Rain. الدبوس هو القطعة الوحيدة من Nova التي يمكن لـ Rain حملها أثناء البحث.\n\nNova: \"ابحث عن طريقة لم تُغلق.\"",
+        "يحاول Beam إيقاف عملية الاختطاف باستخدام دفقة أقوى من الضوء. يمتصه المجمع ويغذي محرك الرفع. القوة الموجهة مباشرة إلى معدات Null تجعل الماكينة أقوى.\n\nBeam: \"إنها تستخدم نوري لرفعها!\"",
+        "لقد أصبحت عملية الإنقاذ بالفعل وظيفتين. بينما يتم نقل Nova بعيدًا، فإن Mend وBloom يبقيان الجمهور يتحرك. Puff، الذي تم إنقاذه للتو، يساعد شخصًا آخر في الوصول إلى النهاية الآمنة للجسر.\n\nMend: \"اتبع الخط. هناك مكان للجميع في البنك.\"",
+        "Vex يأخذ Nova إلى أعلى الخط السريع المختوم باتجاه Crown. يتم إغلاق المدخل العام خلف الكبسولة. لا يمكن لفريق Rain أن يتبع نفس المصعد ببساطة، ولا يستطيع Nova فتحه من داخل نظام التقييد.\n\nNova: \"لقد أغلقت الباب. ولم تغلق كل الطرق.\"",
+        "يُظهر قرص المسار القديم لـ Quest خط صيانة أسفل المدينة. إنها أطول، ولا أحد يعرف ما إذا كان كل قسم لا يزال يعمل أم لا. اختار Rain عدم اليقين هذا بشأن هجوم آخر على البوابة المغلقة.\n\nRain: \"نحن نعيد Nova إلى المنزل.\"\nQuest: \"ثم نبدأ من تحتنا، وليس من فوق.\""
+      ],
+      "title": "النجم مأخوذ"
+    },
+    "bn": {
+      "captions": [
+        "Vex, Null-এর লেফটেন্যান্ট, ওয়ে জুড়ে একটি মিরর নেট বন্ধ করে। Nova Puff পরিষ্কার পেতে পদক্ষেপ নিন। ফাঁদটি ওয়ান্ডারের জন্য তৈরি করা হয়েছিল, এবং Vex ভিড়ের উত্সব ব্যবহার করেছে Nova নাগালের মধ্যে আঁকার জন্য।\n\nNova: \"Puff, সেতুতে ফিরে যান। যান!\"",
+        "Puff পালিয়ে যায়, কিন্তু মিরর জাল Nova এর চারপাশে ভাঁজ করে। ফাঁদটি Nova এর ব্রাঞ্চিং লাইটকে তার নিজস্ব লেন্সে ফেরত পাঠায়। Vex-এর এখন জীবন্ত নেভিগেটর Null প্রয়োজন।\n\nVex: \"Null আপনার রুট প্রয়োজন, আশ্চর্য। আপনার অনুমতি নয়।\"",
+        "Nova স্কার্ফ থেকে Rain স্টার পিন পাঠায়। Rain ধরা পড়ার আগে ক্যাপচার ফ্রেমের বিপরীতে এক পয়েন্ট চিপ। পিন হল Nova এর একটি অংশ যা Rain অনুসন্ধানে বহন করতে পারে৷\n\nNova: \"একটি উপায় খুঁজুন যে তারা বন্ধ করেনি।\"",
+        "Beam আলোর একটি শক্তিশালী বিস্ফোরণ দিয়ে অপহরণ বন্ধ করার চেষ্টা করে৷ সংগ্রাহক এটি শোষণ করে এবং লিফট মোটরকে খাওয়ায়। সরাসরি Null-এর সরঞ্জামগুলিতে লক্ষ্য করা শক্তি যন্ত্রপাতিটিকে আরও শক্তিশালী করে তোলে।\n\nBeam: \"এটি তাকে তুলতে আমার আলো ব্যবহার করছে!\"",
+        "উদ্ধার ইতিমধ্যে দুটি কাজ হয়ে গেছে. Nova দূরে নিয়ে যাওয়ার সময়, Mend এবং Bloom ভিড়কে গতিশীল রাখে। Puff, এইমাত্র উদ্ধার করা হয়েছে, অন্য কাউকে সেতুর নিরাপদ প্রান্তে পৌঁছাতে সাহায্য করে।\n\nMend: \"লাইনটি অনুসরণ করুন। ব্যাঙ্কে সবার জন্য জায়গা আছে।\"",
+        "Vex Nova সিল করা এক্সপ্রেস লাইনকে Crown এর দিকে নিয়ে যায়। ক্যাপসুলের পিছনে পাবলিক প্রবেশদ্বার তালা। Rain-এর দল কেবল একই লিফট অনুসরণ করতে পারে না, এবং Nova সংযমের ভিতরে থেকে এটি খুলতে পারে না।\n\nNova: \"আপনি দরজা বন্ধ করে দিয়েছেন। আপনি প্রতিটি রুট বন্ধ করেননি।\"",
+        "Quest এর পুরানো রুট ডিস্ক শহরের নীচে একটি রক্ষণাবেক্ষণ লাইন দেখায়। এটি দীর্ঘ, এবং কেউ জানে না যে প্রতিটি বিভাগ এখনও কাজ করে কিনা। Rain সিল করা গেটে আরেকটি আক্রমণের জন্য সেই অনিশ্চয়তা বেছে নেয়।\n\nRain: \"আমরা Nova বাড়িতে নিয়ে আসছি।\"\nQuest: \"তারপর আমরা আমাদের নীচে শুরু করি, উপরে নয়।\""
+      ],
+      "title": "দ্য স্টার নেওয়া হয়েছে"
+    },
+    "cs": {
+      "captions": [
+        "Vex, poručík Null, uzavírá zrcadlovou síť přes nábřeží. Nova zakročí, aby byl Puff čistý. Past byla postavena pro Wondera a Vex využil přeplněného festivalu, aby přitáhl Nova na dosah.\n\nNova: \"Puff, zpátky na můstek. Běž!\"",
+        "Puff unikne, ale zrcadlová síť se složí kolem Nova. Past posílá rozvětvené světlo Nova zpět do vlastních čoček. Vex má nyní živý navigátor, který Null potřebuje.\n\nVex: \"Null potřebuje vaše trasy, Wonder. Ne vaše svolení.\"",
+        "Nova posílá Rain hvězdicový kolík ze šátku. Jeden bod se otře o snímek, než jej Rain zachytí. Pin je jeden kus Nova, který může Rain přenést do hledání.\n\nNova: \"Najděte způsob, jak se nezavřeli.\"",
+        "Beam se pokusí zastavit únos silnějším zábleskem světla. Sběrač jej absorbuje a napájí motor výtahu. Síla namířená přímo do zařízení Null činí stroj silnější.\n\nBeam: \"Používá mé světlo, abych ji zvedl!\"",
+        "Ze záchrany se staly již dvě práce. Zatímco Nova je unesen, Mend a Bloom udržují dav v pohybu. Puff, právě zachráněný, pomáhá někomu jinému dosáhnout bezpečného konce mostu.\n\nMend: \"Následujte linii. V bance je místo pro každého.\"",
+        "Vex vede Nova po utěsněné expresní lince směrem k Crown. Veřejný vchod se za kapslí zamyká. Tým Rain nemůže jednoduše sledovat stejný výtah a Nova jej nemůže otevřít zevnitř zádržného systému.\n\nNova: \"Zavřeli jste dveře. Nezavřeli jste všechny cesty.\"",
+        "Starý disk trasy Quest ukazuje linku údržby pod městem. Je delší a nikdo neví, zda každá sekce ještě funguje. Rain volí tuto nejistotu před dalším útokem na zapečetěnou bránu.\n\nRain: \"Přinášíme Nova domů.\"\nQuest: \"Pak začneme pod námi, ne nad námi.\""
+      ],
+      "title": "Hvězda přijata"
+    },
+    "de": {
+      "captions": [
+        "Vex, der Leutnant von Null, schließt ein Spiegelnetz über dem Kai. Nova greift ein, um Puff freizubekommen. Die Falle wurde für Wonder gebaut und Vex hat das überfüllte Festival genutzt, um Nova in greifbare Nähe zu locken.\n\nNova: „Puff, zurück zur Brücke. Los!“",
+        "Puff entkommt, aber das Spiegelnetz faltet sich um Nova. Die Falle sendet das verzweigte Licht des Nova zurück in seine eigenen Linsen. Der Vex verfügt jetzt über den lebenden Navigator, den der Null benötigt.\n\nVex: „Null braucht deine Routen, Wonder. Nicht deine Erlaubnis.“",
+        "Nova sendet Rain den Stern-Pin vom Schal. Ein Punkt springt gegen den Capture-Frame, bevor Rain ihn fängt. Der Stift ist das einzige Stück von Nova, das Rain in die Suche mitnehmen kann.\n\nNova: „Finden Sie einen Weg, den sie nicht geschlossen haben.“",
+        "Beam versucht die Entführung mit einem stärkeren Lichtblitz zu stoppen. Der Kollektor nimmt es auf und speist den Hubmotor. Die direkt in die Ausrüstung des Null eingespeiste Kraft macht die Maschine stärker.\n\nBeam: „Es benutzt mein Licht, um sie hochzuheben!“",
+        "Aus der Rettung sind bereits zwei Jobs geworden. Während Nova mitreißt, halten Mend und Bloom die Menge in Bewegung. Der gerade gerettete Puff hilft jemand anderem, das sichere Ende der Brücke zu erreichen.\n\nMend: „Folgen Sie der Linie. Am Ufer ist Platz für alle.“",
+        "Vex bringt Nova die versiegelte Expresslinie hinauf in Richtung Crown. Der öffentliche Eingang ist hinter der Kapsel verschlossen. Das Team von Rain kann nicht einfach demselben Aufzug folgen, und Nova kann ihn nicht aus der Rückhaltevorrichtung heraus öffnen.\n\nNova: „Sie haben die Tür geschlossen. Sie haben nicht jede Route geschlossen.“",
+        "Die alte Routenscheibe von Quest zeigt eine Wartungslinie unter der Stadt. Es ist länger und niemand weiß, ob jeder Abschnitt noch funktioniert. Rain zieht diese Unsicherheit einem weiteren Angriff auf das versiegelte Tor vor.\n\nRain: „Wir bringen Nova nach Hause.“\nQuest: „Dann fangen wir unten an, nicht oben.“"
+      ],
+      "title": "Der Stern genommen"
+    },
+    "en": {
+      "captions": [
+        "Vex, Null’s lieutenant, closes a mirror net across the quay. Nova steps in to get Puff clear. The trap was built for Wonder, and Vex has used the crowded festival to draw Nova within reach.\n\nNova: “Puff, back to the bridge. Go!”",
+        "Puff escapes, but the mirror mesh folds around Nova. The trap sends Nova’s branching light back into its own lenses. Vex now has the living navigator Null needs.\n\nVex: “Null needs your routes, Wonder. Not your permission.”",
+        "Nova sends Rain the star pin from the scarf. One point chips against the capture frame before Rain catches it. The pin is the one piece of Nova that Rain can carry into the search.\n\nNova: “Find a way they have not closed.”",
+        "Beam tries to stop the kidnapping with a stronger burst of light. The collector absorbs it and feeds the lift motor. Power aimed straight into Null’s equipment makes the machinery stronger.\n\nBeam: “It is using my light to lift her!”",
+        "The rescue has already become two jobs. While Nova is carried away, Mend and Bloom keep the crowd moving. Puff, just rescued, helps someone else reach the safe end of the bridge.\n\nMend: “Follow the line. There is room for everyone on the bank.”",
+        "Vex takes Nova up the sealed express line toward the Crown. The public entrance locks behind the capsule. Rain’s team cannot simply follow the same lift, and Nova cannot open it from inside the restraint.\n\nNova: “You have closed the door. You have not closed every route.”",
+        "Quest’s old route disk shows a maintenance line beneath the city. It is longer, and nobody knows whether every section still works. Rain chooses that uncertainty over another attack on the sealed gate.\n\nRain: “We are bringing Nova home.”\nQuest: “Then we start below us, not above.”"
+      ],
+      "title": "The Star Taken"
+    },
+    "es": {
+      "captions": [
+        "Vex, el lugarteniente de Null, cierra una red de espejos a lo largo del muelle. Nova interviene para aclarar a Puff. La trampa fue construida para Wonder, y Vex ha aprovechado el festival lleno de gente para poner a Nova a su alcance.\n\nNova: \"Puff, de vuelta al puente. ¡Vamos!\"",
+        "Puff se escapa, pero la malla del espejo se pliega alrededor de Nova. La trampa envía la luz ramificada del Nova de regreso a sus propias lentes. Vex ahora tiene el navegador vivo que necesita Null.\n\nVex: \"Null necesita tus rutas, Wonder. No tu permiso\".",
+        "Nova envía a Rain el alfiler de estrella de la bufanda. Un punto choca contra el marco de captura antes de que Rain lo atrape. El pin es la única pieza de Nova que Rain puede llevar a la búsqueda.\n\nNova: “Encuentra una manera que no hayan cerrado”.",
+        "Beam intenta detener el secuestro con un estallido de luz más fuerte. El colector lo absorbe y alimenta el motor de elevación. La energía dirigida directamente al equipo de la Null fortalece la maquinaria.\n\nBeam: \"¡Está usando mi luz para levantarla!\"",
+        "El rescate ya se ha convertido en dos puestos de trabajo. Mientras Nova se deja llevar, Mend y Bloom mantienen a la multitud en movimiento. Puff, recién rescatado, ayuda a otra persona a llegar al final seguro del puente.\n\nMend: \"Sigue la línea. Hay lugar para todos en el banco\".",
+        "Vex lleva a Nova por la línea rápida sellada hacia Crown. La entrada pública se cierra detrás de la cápsula. El equipo de Rain no puede simplemente seguir el mismo elevador y Nova no puede abrirlo desde el interior del sistema de retención.\n\nNova: \"Has cerrado la puerta. No has cerrado todas las rutas\".",
+        "El antiguo disco de ruta del Quest muestra una línea de mantenimiento debajo de la ciudad. Es más largo y nadie sabe si todas las secciones siguen funcionando. Rain elige esa incertidumbre en lugar de otro ataque a la puerta sellada.\n\nRain: “Llevamos el Nova a casa”.\nQuest: “Entonces empezamos por debajo de nosotros, no por encima”."
+      ],
+      "title": "La estrella tomada"
+    },
+    "fr": {
+      "captions": [
+        "Vex, le lieutenant de Null, ferme un filet miroir sur le quai. Nova intervient pour éliminer Puff. Le piège a été construit pour Wonder, et Vex a profité du festival bondé pour attirer Nova à sa portée.\n\nNova : \"Puff, retour au pont. Allez-y !\"",
+        "Puff s'échappe, mais le maillage du miroir se replie autour de Nova. Le piège renvoie la lumière ramifiée du Nova dans ses propres lentilles. Le Vex dispose désormais du navigateur vivant dont le Null a besoin.\n\nVex : \"Null a besoin de vos itinéraires, Wonder. Pas de votre permission.\"",
+        "Nova envoie à Rain l'épingle étoile de l'écharpe. Un point s'écrase contre le cadre de capture avant que Rain ne l'attrape. La broche est la seule pièce du Nova que le Rain peut emporter lors de la recherche.\n\nNova : \"Trouvez un moyen qu'ils n'ont pas fermé.\"",
+        "Beam tente d'arrêter l'enlèvement avec un éclat de lumière plus fort. Le collecteur l'absorbe et alimente le moteur de levage. La puissance dirigée directement vers l’équipement de la Null rend les machines plus solides.\n\nBeam : « Il utilise ma lumière pour la soulever ! »",
+        "Le sauvetage est déjà devenu deux tâches. Pendant que les Nova s'emballent, les Mend et les Bloom font bouger la foule. Puff, qui vient d'être secouru, aide quelqu'un d'autre à atteindre l'extrémité sûre du pont.\n\nMend : \"Suivez la file. Il y a de la place pour tout le monde sur la berge.\"",
+        "Le Vex emmène le Nova sur la ligne express scellée vers le Crown. L'entrée publique se verrouille derrière la capsule. L’équipe du Rain ne peut pas simplement suivre le même ascenseur, et le Nova ne peut pas l’ouvrir depuis l’intérieur du dispositif de retenue.\n\nNova : \"Vous avez fermé la porte. Vous n'avez pas fermé toutes les routes.\"",
+        "L'ancien disque d'itinéraire du Quest montre une ligne de maintenance sous la ville. C'est plus long et personne ne sait si chaque section fonctionne encore. Rain choisit cette incertitude plutôt que une autre attaque contre la porte scellée.\n\nRain : « Nous ramenons le Nova à la maison. »\nQuest : « Ensuite, nous commençons en dessous de nous, pas au-dessus. »"
+      ],
+      "title": "L'étoile prise"
+    },
+    "hi": {
+      "captions": [
+        "Vex, Null के लेफ्टिनेंट, घाट पर एक दर्पण जाल बंद कर देते हैं। Puff को स्पष्ट करने के लिए Nova कदम उठाता है। जाल वंडर के लिए बनाया गया था, और Vex ने भीड़ भरे त्योहार का उपयोग Nova को अपनी पहुंच में लाने के लिए किया है।\n\nNova: \"Puff, पुल पर वापस। जाओ!\"",
+        "Puff बच जाता है, लेकिन दर्पण की जाली Nova के चारों ओर मुड़ जाती है। जाल Nova की शाखाओं वाली रोशनी को वापस अपने लेंस में भेजता है। Vex के पास अब जीवित नेविगेटर Null की आवश्यकता है।\n\nVex: \"Null को आपके मार्गों की आवश्यकता है, आश्चर्य। आपकी अनुमति नहीं।\"",
+        "Nova, Rain को स्कार्फ से स्टार पिन भेजता है। Rain द्वारा इसे पकड़ने से पहले कैप्चर फ़्रेम के विरुद्ध एक बिंदु चिप्स। पिन Nova का एक टुकड़ा है जिसे Rain खोज में ले जा सकता है।\n\nNova: \"ऐसा रास्ता खोजें जो उन्होंने बंद न किया हो।\"",
+        "Beam तेज़ रोशनी के साथ अपहरण को रोकने की कोशिश करता है। कलेक्टर इसे अवशोषित करता है और लिफ्ट मोटर को फीड करता है। Null के उपकरण में सीधे लक्षित शक्ति मशीनरी को मजबूत बनाती है।\n\nBeam: \"यह उसे उठाने के लिए मेरी रोशनी का उपयोग कर रहा है!\"",
+        "बचाव पहले से ही दो काम बन गया है। जबकि Nova को दूर ले जाया जाता है, Mend और Bloom भीड़ को आगे बढ़ाते रहते हैं। Puff, जिसे अभी बचाया गया है, किसी और को पुल के सुरक्षित अंत तक पहुंचने में मदद करता है।\n\nMend: \"लाइन का पालन करें। बैंक में सभी के लिए जगह है।\"",
+        "Vex Nova को सीलबंद एक्सप्रेस लाइन पर Crown की ओर ले जाता है। सार्वजनिक प्रवेश द्वार कैप्सूल के पीछे बंद है। Rain की टीम बस उसी लिफ्ट का अनुसरण नहीं कर सकती है, और Nova इसे रेस्ट्रेंट के अंदर से नहीं खोल सकता है।\n\nNova: \"आपने दरवाज़ा बंद कर दिया है। आपने हर रास्ता बंद नहीं किया है।\"",
+        "Quest की पुरानी रूट डिस्क शहर के नीचे एक रखरखाव लाइन दिखाती है। यह लंबा है, और कोई नहीं जानता कि हर अनुभाग अभी भी काम करता है या नहीं। Rain सीलबंद गेट पर एक और हमले के बजाय उस अनिश्चितता को चुनता है।\n\nRain: \"हम Nova को घर ला रहे हैं।\"\nQuest: \"फिर हम अपने नीचे से शुरू करते हैं, ऊपर से नहीं।\""
+      ],
+      "title": "द स्टार टेकन"
+    },
+    "id": {
+      "captions": [
+        "Vex, letnan Null, menutup jaring cermin di seberang dermaga. Nova turun tangan untuk memperjelas Puff. Perangkap ini dibuat untuk Wonder, dan Vex telah memanfaatkan festival yang ramai untuk menarik Nova dalam jangkauannya.\n\nNova: “Puff, kembali ke jembatan. Ayo!”",
+        "Puff lolos, tetapi jaring cermin terlipat di sekitar Nova. Perangkap tersebut mengirimkan cahaya bercabang Nova kembali ke lensanya sendiri. Vex kini memiliki navigator hidup yang dibutuhkan Null.\n\nVex: \"Null membutuhkan rute Anda, Heran. Bukan izin Anda.\"",
+        "Nova mengirimkan Rain pin bintang dari syal. Satu titik chip pada bingkai pengambilan sebelum Rain menangkapnya. Pin tersebut adalah satu bagian dari Nova yang dapat dibawa Rain ke dalam pencarian.\n\nNova: “Temukan cara yang belum ditutup.”",
+        "Beam mencoba menghentikan penculikan dengan semburan cahaya yang lebih kuat. Kolektor menyerapnya dan memberi daya pada motor pengangkat. Tenaga yang diarahkan langsung ke peralatan Null menjadikan mesin lebih kuat.\n\nBeam: “Ia menggunakan cahayaku untuk mengangkatnya!”",
+        "Penyelamatan sudah menjadi dua pekerjaan. Saat Nova terbawa suasana, Mend dan Bloom membuat penonton terus bergerak. Puff, baru saja diselamatkan, membantu orang lain mencapai ujung jembatan yang aman.\n\nMend: \"Ikuti garis. Ada ruang untuk semua orang di bank.\"",
+        "Vex membawa Nova menaiki jalur ekspres tertutup menuju Crown. Pintu masuk umum terkunci di belakang kapsul. Tim Rain tidak bisa begitu saja mengikuti lift yang sama, dan Nova tidak bisa membukanya dari dalam penahan.\n\nNova: \"Anda telah menutup pintu. Anda belum menutup semua rute.\"",
+        "Disk rute lama Quest menunjukkan jalur pemeliharaan di bawah kota. Ini lebih panjang, dan tidak ada yang tahu apakah setiap bagian masih berfungsi. Rain memilih ketidakpastian itu daripada serangan lain di gerbang yang tersegel.\n\nRain: “Kami membawa pulang Nova.”\nQuest: “Kalau begitu kita mulai dari bawah, bukan di atas.”"
+      ],
+      "title": "Bintang Diambil"
+    },
+    "it": {
+      "captions": [
+        "Vex, il luogotenente di Null, chiude una rete di specchi sulla banchina. Nova interviene per liberare Puff. La trappola è stata costruita per Wonder e Vex ha sfruttato l'affollato festival per attirare Nova a portata di mano.\n\nNova: \"Puff, torna al ponte. Vai!\"",
+        "Puff scappa, ma la rete dello specchio si piega attorno a Nova. La trappola rimanda la luce ramificata di Nova verso le proprie lenti. Vex ora ha il navigatore vivente di cui Null ha bisogno.\n\nVex: \"Null ha bisogno dei tuoi percorsi, Wonder. Non del tuo permesso.\"",
+        "Nova invia a Rain la spilla a stella dalla sciarpa. Un punto si scheggia contro il fotogramma di cattura prima che Rain lo catturi. Il perno è l'unico pezzo di Nova che Rain può portare nella ricerca.\n\nNova: \"Trova un modo in cui non hanno chiuso.\"",
+        "Beam cerca di fermare il rapimento con un'esplosione di luce più forte. Il collettore lo assorbe e alimenta il motore di sollevamento. La potenza indirizzata direttamente all'attrezzatura dello Null rende la macchina più potente.\n\nBeam: \"Sta usando la mia luce per sollevarla!\"",
+        "Il salvataggio è già diventato due lavori. Mentre Nova si lascia trasportare, Mend e Bloom tengono in movimento la folla. Puff, appena salvato, aiuta qualcun altro a raggiungere l'estremità sicura del ponte.\n\nMend: \"Segui la linea. In riva c'è posto per tutti.\"",
+        "Vex porta Nova lungo la linea espressa sigillata verso lo Crown. L'ingresso pubblico si chiude dietro la capsula. La squadra di Rain non può semplicemente seguire lo stesso ascensore e Nova non può aprirlo dall'interno del sistema di ritenuta.\n\nNova: \"Hai chiuso la porta. Non hai chiuso ogni percorso.\"",
+        "Il vecchio disco del percorso di Quest mostra una linea di manutenzione sotto la città. È più lungo e nessuno sa se ogni sezione funziona ancora. Rain sceglie quell'incertezza rispetto a un altro attacco al cancello sigillato.\n\nRain: \"Stiamo riportando a casa Nova.\"\nQuest: “Allora cominciamo sotto di noi, non sopra.”"
+      ],
+      "title": "La stella presa"
+    },
+    "ja": {
+      "captions": [
+        "Null の副官である Vex が岸壁のミラー ネットを閉じます。 Nova が介入して Puff をクリアします。罠はワンダーのために作られ、Vexは混雑したフェスティバルを利用してNovaを手の届く範囲に引き寄せました。\n\nNova: 「Puff、橋に戻ります。行きます!」",
+        "Puff は逃げますが、ミラー メッシュは Nova の周りに折り畳まれます。トラップは、Nova の分岐光を独自のレンズに送り返します。 VexにはNullに必要なリビングナビが搭載されました。\n\nVex: 「Null にはあなたのルートが必要です、不思議です。あなたの許可はありません。」",
+        "Nova はスカーフからスターピンを Rain に送信します。 Rain がキャッチする前に、キャプチャ フレームに対して 1 点がチップします。ピンは、Rain が検索に持ち込める Nova の 1 つのピースです。\n\nNova: 「彼らが閉鎖していない方法を見つけてください。」",
+        "Beam はより強力な光のバーストで誘拐を止めようとします。コレクタはそれを吸収し、リフトモーターに電力を供給します。 Nullの機器に直接向けられたパワーが機械をより強力にします。\n\nBeam: 「私の光を使って彼女を持ち上げています!」",
+        "救助はすでに2つの仕事になっています。 Nova が夢中になる一方で、Mend と Bloom は観客を動かし続けます。救助されたばかりのPuffは、誰かが橋の安全な端に到達するのを手伝う。\n\nMend: 「列に従ってください。銀行には全員が入れるスペースがあります。」",
+        "Vex は Nova を Crown に向けて密閉された急行線を上ります。一般の入り口はカ​​プセルの後ろに施錠されます。 Rain のチームは同じリフトに単純に従うことはできず、Nova は拘束具の内側からリフトを開けることはできません。\n\nNova: 「ドアを閉めました。すべてのルートを閉めたわけではありません。」",
+        "Quest の旧ルートディスクには、都市の地下に保守線が示されています。それはさらに長く、すべてのセクションがまだ機能するかどうかは誰も知りません。 Rain は、封印されたゲートへの新たな攻撃よりも、その不確実性を選択します。\n\nRain: 「Nova を家に連れて帰ります。」\nQuest: 「では、上ではなく下から始めます。」"
+      ],
+      "title": "奪われた星"
+    },
+    "ko": {
+      "captions": [
+        "Null의 중위인 Vex는 부두 건너편에 거울망을 닫습니다. Nova가 Puff를 클리어하기 위해 개입합니다. 함정은 Wonder를 위해 만들어졌고, Vex는 혼잡한 축제를 이용하여 Nova를 손이 닿는 곳으로 끌어당겼습니다.\n\nNova: \"Puff, 다리로 돌아가세요. 가세요!\"",
+        "Puff는 탈출하지만 미러 메시는 Nova 주위로 접힙니다. 트랩은 Nova의 분기광을 자체 렌즈로 다시 보냅니다. Vex에는 이제 Null에 필요한 살아있는 내비게이터가 있습니다.\n\nVex: \"Null에는 당신의 경로가 필요합니다, Wonder. 당신의 허락은 아닙니다.\"",
+        "Nova는 Rain에 스카프의 별핀을 보냅니다. Rain가 캡처 프레임을 잡기 전에 캡처 프레임에 대한 1포인트 칩입니다. 핀은 Rain가 검색에 사용할 수 있는 Nova의 한 조각입니다.\n\nNova: \"그들이 닫히지 않은 길을 찾아보세요.\"",
+        "Beam는 더 강력한 빛의 폭발로 납치를 막으려고 합니다. 수집기는 이를 흡수하여 리프트 모터에 공급합니다. Null의 장비에 직접적으로 겨냥된 힘은 기계를 더욱 강하게 만듭니다.\n\nBeam: \"그녀를 들어올리기 위해 내 빛을 사용하고 있어요!\"",
+        "구조는 이미 두 가지 직업이 되었습니다. Nova가 쫓겨나는 동안 Mend와 Bloom는 군중을 계속 움직입니다. 방금 구조된 Puff는 다른 사람이 다리의 안전한 끝에 도달하도록 돕습니다.\n\nMend: \"선을 따라가세요. 은행에는 모두를 위한 공간이 있습니다.\"",
+        "Vex는 Nova를 Crown 방향으로 봉인된 급행 노선 위로 데려갑니다. 공용 출입구는 캡슐 뒤에 잠겨 있습니다. Rain의 팀은 동일한 리프트를 단순히 따라갈 수 없으며 Nova는 구속 장치 내부에서 리프트를 열 수 없습니다.\n\nNova: \"문을 닫았습니다. 모든 경로를 닫지 않았습니다.\"",
+        "Quest의 기존 경로 디스크에는 도시 아래에 유지 관리 라인이 표시됩니다. 더 길고 모든 섹션이 여전히 작동하는지 아무도 알 수 없습니다. Rain는 봉인된 게이트에 대한 또 다른 공격보다 불확실성을 선택합니다.\n\nRain: “우리는 Nova를 집으로 가져갈 예정입니다.”\nQuest: \"그럼 우리는 위가 아닌 아래에서 시작합니다.\""
+      ],
+      "title": "더 스타 테이큰(The Star Taken)"
+    },
+    "pl": {
+      "captions": [
+        "Vex, porucznik Null, zamyka lustrzaną sieć w poprzek nabrzeża. Nova wkracza, aby oczyścić Puff. Pułapkę zbudowano dla Wondera, a Vex wykorzystał zatłoczony festiwal, aby przyciągnąć Nova w zasięgu ręki.\n\nNova: \"Puff, z powrotem na mostek. Idź!\"",
+        "Puff ucieka, ale lustrzana siatka składa się wokół Nova. Pułapka wysyła rozgałęzione światło Nova z powrotem do jego własnych soczewek. Vex ma teraz żywy nawigator, jakiego potrzebuje Null.\n\nVex: \"Null potrzebuje twoich tras, Wonder. Nie twojej zgody.\"",
+        "Nova wysyła Rain przypinkę w kształcie gwiazdy z szalika. Jeden punkt uderza w ramkę przechwytywania, zanim Rain ją złapie. Sworzeń to jedyny element Nova, który Rain może zabrać ze sobą podczas poszukiwań.\n\nNova: „Znajdź sposób, w jaki nie zamknęli się”.",
+        "Beam próbuje powstrzymać porwanie silniejszym wybuchem światła. Kolektor pochłania go i zasila silnik windy. Moc skierowana bezpośrednio na sprzęt Null sprawia, że ​​maszyna jest silniejsza.\n\nBeam: „Używa mojego światła, żeby ją podnieść!”",
+        "Akcja ratunkowa stała się już dwoma miejscami pracy. Podczas gdy Nova porywa, Mend i Bloom utrzymują tłum w ruchu. Właśnie uratowany Puff pomaga komuś innemu dotrzeć do bezpiecznego końca mostu.\n\nMend: \"Podążaj za linią. Na brzegu jest miejsce dla każdego.\"",
+        "Vex przenosi Nova uszczelnioną linią ekspresową w stronę Crown. Wejście publiczne zamyka się za kapsułą. Zespół Rain nie może po prostu jechać tą samą windą, a Nova nie może jej otworzyć od środka.\n\nNova: \"Zamknąłeś drzwi. Nie zamknąłeś wszystkich tras. \"",
+        "Stary dysk z trasą Quest pokazuje linię konserwacyjną pod miastem. Jest dłuższy i nikt nie wie, czy wszystkie odcinki nadal działają. Rain wybiera tę niepewność zamiast kolejnego ataku na zapieczętowaną bramę.\n\nRain: „Wprowadzamy Nova do domu.”\nQuest: „W takim razie zaczniemy pod nami, a nie nad”."
+      ],
+      "title": "Gwiazda zabrana"
+    },
+    "pt": {
+      "captions": [
+        "Vex, tenente de Null, fecha uma rede de espelhos no cais. Nova intervém para limpar Puff. A armadilha foi construída para Wonder, e Vex aproveitou o festival lotado para trazer Nova ao seu alcance.\n\nNova: \"Puff, de volta à ponte. Vá!\"",
+        "Puff escapa, mas a malha espelhada se dobra em torno de Nova. A armadilha envia a luz ramificada do Nova de volta para suas próprias lentes. O Vex agora tem o navegador vivo que o Null precisa.\n\nVex: \"Null precisa de suas rotas, Wonder. Não de sua permissão.\"",
+        "Nova envia a Rain o alfinete estrela do lenço. Um ponto se conecta ao quadro de captura antes que Rain o capture. O pino é a única peça do Nova que o Rain pode carregar para a pesquisa.\n\nNova: “Encontre uma maneira de eles não terem fechado.”",
+        "Beam tenta impedir o sequestro com uma explosão de luz mais forte. O coletor absorve e alimenta o motor de elevação. A energia direcionada diretamente para o equipamento Null torna o maquinário mais forte.\n\nBeam: “Ele está usando minha luz para levantá-la!”",
+        "O resgate já virou dois trabalhos. Enquanto Nova se deixa levar, Mend e Bloom mantêm a multidão em movimento. Puff, recém resgatado, ajuda outra pessoa a chegar ao fim seguro da ponte.\n\nMend: \"Siga a linha. Há espaço para todos no banco.\"",
+        "Vex leva Nova pela linha expressa selada em direção ao Crown. A entrada pública fica trancada atrás da cápsula. A equipe de Rain não pode simplesmente seguir a mesma sustentação e Nova não pode abri-la de dentro da restrição.\n\nNova: \"Você fechou a porta. Você não fechou todas as rotas.\"",
+        "O antigo disco de rota de Quest mostra uma linha de manutenção abaixo da cidade. É mais longo e ninguém sabe se todas as seções ainda funcionam. Rain escolhe essa incerteza em vez de outro ataque ao portão selado.\n\nRain: “Estamos trazendo Nova para casa.”\nQuest: “Então começamos abaixo de nós, não acima.”"
+      ],
+      "title": "A estrela levada"
+    },
+    "ru": {
+      "captions": [
+        "Vex, лейтенант Null, закрывает зеркальную сетку на причале. Nova вмешивается, чтобы очистить Puff. Ловушка была построена для Чуда, и Vex использовал переполненный фестиваль, чтобы привлечь Nova к себе.\n\nNova: \"Puff, обратно на мостик. Иди!\"",
+        "Puff убегает, но зеркальная сетка складывается вокруг Nova. Ловушка отправляет ветвящийся свет Nova обратно в свои линзы. Vex теперь имеет живой навигатор, необходимый Null.\n\nVex: \"Null нужны твои маршруты, Уандер. Не твое разрешение.\"",
+        "Nova отправляет Rain значок звезды с шарфа. Одна точка сбивается с кадра захвата до того, как Rain его поймает. Штифт — это одна часть Nova, которую Rain может взять с собой в поиск.\n\nNova: «Найди путь, который они не закрыли».",
+        "Beam пытается остановить похищение более сильной вспышкой света. Коллектор поглощает его и питает подъемный двигатель. Мощность, направленная непосредственно на оборудование Null, делает его сильнее.\n\nBeam: «Он использует мой свет, чтобы поднять ее!»",
+        "Спасение уже превратилось в две работы. Пока Nova увлекается, Mend и Bloom заставляют толпу двигаться. Puff, только что спасенный, помогает кому-то добраться до безопасного конца моста.\n\nMend: \"Следуйте за линией. На берегу места хватит всем\".",
+        "Vex ведет Nova по герметичной экспресс-линии к Crown. Общественный вход закрывается за капсулой. Команда Rain не может просто следовать за тем же подъемником, а Nova не может открыть его изнутри удерживающего устройства.\n\nNova: \"Вы закрыли дверь. Вы не закрыли все маршруты\".",
+        "На старом маршрутном диске Quest показана линия технического обслуживания под городом. Он длиннее, и никто не знает, работают ли все разделы. Rain предпочитает эту неопределенность очередной атаке на запечатанные врата.\n\nRain: «Мы везём Nova домой».\nQuest: «Тогда мы начнём снизу, а не сверху»."
+      ],
+      "title": "Звезда взята"
+    },
+    "tr": {
+      "captions": [
+        "Null'nin teğmeni Vex, rıhtımın karşısındaki aynalı ağı kapatıyor. Nova, Puff'yi netleştirmek için devreye giriyor. Tuzak Wonder için yapıldı ve Vex, Nova'yi ulaşılabilir bir noktaya çekmek için kalabalık festivali kullandı.\n\nNova: \"Puff, köprüye geri dön. Git!\"",
+        "Puff kaçar, ancak ayna ağı Nova'nin etrafına katlanır. Tuzak, Nova'nin dallanan ışığını kendi lenslerine geri gönderir. Vex artık Null'nin ihtiyaç duyduğu canlı navigatöre sahip.\n\nVex: \"Null'nin rotalarınıza ihtiyacı var Wonder. İzninize değil.\"",
+        "Nova, Rain'ye eşarptaki yıldız rozeti gönderir. Rain yakalamadan önce yakalama çerçevesine bir nokta çip takar. Pim, Rain'nin aramaya taşıyabileceği tek Nova parçasıdır.\n\nNova: \"Kapanmamış olmalarının bir yolunu bulun.\"",
+        "Beam daha güçlü bir ışık patlamasıyla kaçırma olayını durdurmaya çalışıyor. Kolektör bunu emer ve kaldırma motorunu besler. Doğrudan Null'nin ekipmanına yönlendirilen güç, makineyi daha güçlü kılar.\n\nBeam: \"Onu kaldırmak için ışığımı kullanıyor!\"",
+        "Kurtarma zaten iki iş haline geldi. Nova kendini kaptırırken, Mend ve Bloom kalabalığın hareket etmesini sağlıyor. Az önce kurtarılan Puff, başka birinin köprünün güvenli ucuna ulaşmasına yardımcı olur.\n\nMend: \"Çizgiyi takip edin. Bankada herkese yer var.\"",
+        "Vex, Nova'yi kapalı ekspres hattından Crown'ye doğru götürüyor. Halka açık giriş kapsülün arkasında kilitleniyor. Rain'nin ekibi aynı asansörü takip edemez ve Nova onu tutucunun içinden açamaz.\n\nNova: \"Kapıyı kapattınız. Her rotayı kapatmadınız.\"",
+        "Quest'nin eski rota diski şehrin altındaki bir bakım hattını gösteriyor. Daha uzun ve hiç kimse her bölümün hala çalışıp çalışmadığını bilmiyor. Rain, mühürlü kapıya yapılacak başka bir saldırı yerine bu belirsizliği seçiyor.\n\nRain: \"Nova'yi eve getiriyoruz.\"\nQuest: \"O zaman yukarıdan değil, altımızdan başlarız.\""
+      ],
+      "title": "Alınan Yıldız"
+    },
+    "vi": {
+      "captions": [
+        "Vex, trung úy của Null, đóng lưới gương khắp bến cảng. Nova bước vào để xóa Puff. Cái bẫy được tạo ra cho Wonder và Vex đã tận dụng lễ hội đông đúc để thu hút Nova trong tầm tay.\n\nNova: \"Puff, quay lại cầu. Đi!\"",
+        "Puff trốn thoát, nhưng lưới gương bao quanh Nova. Cái bẫy gửi ánh sáng phân nhánh của Nova trở lại thấu kính của chính nó. Vex hiện có bộ điều hướng sống động mà Null cần.\n\nVex: \"Null cần các tuyến đường của bạn, Wonder. Không phải sự cho phép của bạn.\"",
+        "Nova gửi Rain ghim hình ngôi sao từ chiếc khăn quàng cổ. Một điểm chạm vào khung chụp trước khi Rain bắt được nó. Ghim là một phần của Nova mà Rain có thể mang vào tìm kiếm.\n\nNova: “Tìm cách mà họ chưa đóng cửa.”",
+        "Beam cố gắng ngăn chặn vụ bắt cóc bằng một luồng ánh sáng mạnh hơn. Bộ thu hấp thụ nó và cung cấp năng lượng cho động cơ nâng. Nguồn điện hướng thẳng vào thiết bị của Null khiến bộ máy trở nên mạnh mẽ hơn.\n\nBeam: “Nó đang dùng ánh sáng của tôi để nâng cô ấy lên!”",
+        "Việc giải cứu đã trở thành hai công việc. Trong khi Nova được cuốn hút thì Mend và Bloom khiến đám đông luôn di chuyển. Puff vừa được giải cứu đã giúp người khác đến cuối cầu an toàn.\n\nMend: \"Hãy đi theo hàng. Có chỗ cho tất cả mọi người trong ngân hàng.\"",
+        "Vex đưa Nova lên đường cao tốc kín về phía Crown. Lối vào công cộng khóa phía sau viên nang. Đội của Rain không thể đơn giản đi theo cùng một thang máy và Nova không thể mở nó từ bên trong dây an toàn.\n\nNova: \"Bạn đã đóng cửa. Bạn chưa đóng mọi con đường.\"",
+        "Đĩa lộ trình cũ của Quest hiển thị đường dây bảo trì bên dưới thành phố. Nó dài hơn và không ai biết liệu mọi phần có còn hoạt động hay không. Rain chọn sự không chắc chắn đó thay vì một cuộc tấn công khác vào cánh cổng bị phong ấn.\n\nRain: “Chúng tôi đang mang Nova về nhà.”\nQuest: “Vậy thì chúng ta bắt đầu ở bên dưới, không phải ở trên.”"
+      ],
+      "title": "Ngôi sao đã bị đánh cắp"
+    },
+    "zh": {
+      "captions": [
+        "Vex，Null的副官，关闭了码头上的镜网。 Nova介入以清除Puff。这个陷阱是为Wonder而设的，Vex利用拥挤的节日，将Nova吸引到了触手可及的地方。\n\nNova：“Puff，回舰桥，走！”",
+        "Puff 逃脱，但镜网折叠在 Nova 周围。陷阱将 Nova 的分支光发送回其自己的透镜。 Vex现在已经具备了生活导航仪Null的需求。\n\nVex：“Null需要你的路线，Wonder。没有你的许可。”",
+        "Nova从围巾上送Rain星形别针。在 Rain 捕捉到捕捉帧之前，有一个点切入捕捉帧。该引脚是Nova中Rain可以带入搜索的一个引脚。\n\nNova：“想办法他们还没关门。”",
+        "Beam 试图用更强的光爆发来阻止绑架。收集器将其吸收并供给提升电机。动力直达Null的设备，使机械更加强大。\n\nBeam：“它是用我的光来举起她的！”",
+        "救援已经变成了两项工作。当 Nova 令人着迷时，Mend 和 Bloom 则让人群继续前进。刚刚获救的 Puff 帮助其他人到达桥的安全末端。\n\nMend：“沿着线走。银行里的每个人都有空间。”",
+        "Vex带着Nova沿着密封快线前往Crown。公共入口锁在胶囊后面。 Rain 的团队不能简单地跟随相同的升降机，并且 Nova 无法从约束内部打开它。\n\nNova：“你关上了门。你还没有关闭所有的路线。”",
+        "Quest的旧路线盘显示了城市下方的一条维修线。它更长了，没有人知道每个部分是否仍然有效。 Rain 选择这种不确定性而不是对密封门进行另一次攻击。\n\nRain：“我们要把Nova带回家。”\nQuest：“那么我们从下面开始，而不是上面。”"
+      ],
+      "title": "被夺走的星星"
+    }
+  },
+  "number": 2,
+  "panels": [
+    {
+      "altText": "Vex stands on the moored barge at screen-right operating one lever. Two articulated net arms reach across the quay from the barge, their feet and pivots visible.",
+      "bytes": 1862021,
+      "image": "N00E02P01.png",
+      "sha256": "5a2f681418de13cadbdcae1590b1e685a50f41310535210aed8ed763d1af5266"
+    },
+    {
+      "altText": "The net has closed around Nova alone inside a rounded metal capture frame on the barge deck. Nova’s feet still touch the deck; the mesh limits the arms without cutting them.",
+      "bytes": 1851512,
+      "image": "N00E02P02.png",
+      "sha256": "451d25fa1e77b773815a4eb04235eb505bc218dd689200ad30b407ff0398631c"
+    },
+    {
+      "altText": "Nova reaches through one accessible mesh opening from screen-right, having detached the brass star pin. Rain’s open mitten is screen-left above the stone quay.",
+      "bytes": 1842421,
+      "image": "N00E02P03.png",
+      "sha256": "d66d32e6d1d65353f996898062395d1c2ea686fb970e00cb72dc5699fb983054"
+    },
+    {
+      "altText": "Beam stands on the quay and directs one bright beam at the collector hood, intending to stop the lift. The hood’s four rigid petals are open; light visibly enters the central lens and continues along a glass conduit to the capsule carriage motor.",
+      "bytes": 1849227,
+      "image": "N00E02P04.png",
+      "sha256": "c683b9eb0a1a251e3885a7fec931311f05b643cc8ccfff3ce9ed53df5b0a29e1"
+    },
+    {
+      "altText": "Mend stands on the safe bank side holding thread looped through two fixed quay rings. The line runs at hand height along the intact path away from the barge.",
+      "bytes": 1752753,
+      "image": "N00E02P05.png",
+      "sha256": "0af1a27927f9c317cdc6efe9977c615863ef1ac5282d9703f261885a9c680dc6"
+    },
+    {
+      "altText": "One sealed copper express capsule climbs the rail inside the glazed tube leading from Mosaic toward the mountain transfer station. Nova remains restrained in a seat behind its window; Vex occupies the operator seat inside the same pressurized capsule.",
+      "bytes": 1788077,
+      "image": "N00E02P06.png",
+      "sha256": "ebf8dd367af4be012930574ce2158d9f03aee3bea4876737570433f656765702"
+    },
+    {
+      "altText": "Rain stands left with the chipped pin secured in the open collar pocket. Quest opens the brass disk on the gate’s waist-high service ledge.",
+      "bytes": 1697047,
+      "image": "N00E02P07.png",
+      "sha256": "52a7a7c37bbda8134bc0a461a56bcdb677668bc637380d749ba9adc61af78cb0"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "adventure",
+    "friendship",
+    "rescue",
+    "superhero"
+  ],
+  "version": 1
+}
