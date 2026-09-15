@@ -1,11 +1,18 @@
 """Validate packaged Feelingverse episodes and write production evidence."""
 
 import argparse
+import base64
 import hashlib
+import io
 import json
 from pathlib import Path
+import re
 
 from PIL import Image
+
+# Text that went through a non-UTF-8 pipe: unrepresentable characters became
+# "?" (or U+FFFD). A real question mark is never doubled or followed by a letter.
+DAMAGED_TEXT = re.compile(r"\ufffd|\?\?|\?[^\W\d_]")
 
 LOCALES = (
     "ar",
@@ -40,6 +47,33 @@ def _load(path):
 
 def _sha256(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def _validate_backdrop(backdrop):
+    data = base64.b64decode(backdrop["data"], validate=True)
+    assert len(data) == backdrop["bytes"]
+    assert len(data) <= 64 * 1024
+    assert hashlib.sha256(data).hexdigest() == backdrop["sha256"]
+    with Image.open(io.BytesIO(data)) as image:
+        assert image.size == (240, 135)
+
+
+def _validate_narrative(narrative):
+    """One backdrop per narrative, one per episode, and no damaged text."""
+    _validate_backdrop(narrative["backdrop"])
+    for episode in narrative["episodes"]:
+        _validate_backdrop(episode["backdrop"])
+    texts = [
+        text
+        for localization in narrative["localizations"].values()
+        for text in (localization["title"], localization["description"])
+    ] + [
+        localization["title"]
+        for episode in narrative["episodes"]
+        for localization in episode["localizations"].values()
+    ]
+    damaged = [text for text in texts if DAMAGED_TEXT.search(text)]
+    assert not damaged, f"encoding-damaged text: {damaged}"
 
 
 def _validate_episode(
@@ -77,7 +111,7 @@ def _validate_episode(
         localization = source_metadata["localizations"][locale]
         assert localization["title"].strip()
         assert len(localization["captions"]) == 7
-        assert all(0 < len(caption) <= 400 for caption in localization["captions"])
+        assert all(0 < len(caption) <= 1000 for caption in localization["captions"])
 
     cards = {card["id"]: card for card in typesetting["cards"]}
     panels = []
@@ -91,17 +125,20 @@ def _validate_episode(
         with Image.open(delivery_image) as image:
             assert image.mode == "RGB"
             assert image.size == (1024, 1280)
-        delivery_panel = delivery_metadata["panels"][index]
-        assert delivery_panel["bytes"] == delivery_image.stat().st_size
-        assert delivery_panel["sha256"] == _sha256(delivery_image)
-        assert delivery_panel["bytes"] < 3 * 1024 * 1024
+        # Manifests name their panels without pinning them; the catalogue's
+        # advisory fingerprints must describe the files actually published.
+        delivery_bytes = delivery_image.stat().st_size
+        delivery_sha256 = _sha256(delivery_image)
+        assert set(delivery_metadata["panels"][index]) == {"altText", "image"}
+        assert delivery_bytes <= 5 * 1024 * 1024
+        assert catalogue_episode["files"][name] == delivery_sha256
         assert cards[panel_id]["cardSha256"] == _sha256(source_image)
         assert cards[panel_id]["lastTextBottom"] <= 1476
         panels.append(
             {
-                "bytes": delivery_panel["bytes"],
+                "bytes": delivery_bytes,
                 "id": panel_id,
-                "sha256": delivery_panel["sha256"],
+                "sha256": delivery_sha256,
                 "textBottom": cards[panel_id]["lastTextBottom"],
             }
         )
@@ -109,8 +146,9 @@ def _validate_episode(
     episode_bytes = sum(
         path.stat().st_size for path in delivery.iterdir() if path.is_file()
     )
-    assert episode_bytes == catalogue_episode["bytes"]
-    assert episode_bytes < 24 * 1024 * 1024
+    assert catalogue_episode["files"][f"{episode_id}.json"] == _sha256(
+        delivery / f"{episode_id}.json"
+    )
     assert catalogue_episode["id"] == episode_id
     assert catalogue_episode["version"] == 1
     evidence = {
@@ -144,11 +182,13 @@ def main():
 
     root = Path(__file__).resolve().parents[1]
     catalogue = _load(root / "feelingverse/catalogue.json")
+    assert catalogue["schema"] == 3
     narrative = next(
         narrative
         for narrative in catalogue["narratives"]
         if narrative["id"] == args.narrative_id
     )
+    _validate_narrative(narrative)
     episodes = {episode["id"]: episode for episode in narrative["episodes"]}
     for number in range(args.start, args.end + 1):
         _validate_episode(

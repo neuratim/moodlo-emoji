@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Quest checks the cloth copy against the actual front lever assembly, empty disk strap prominent. Vex points to the rear catch indicated behind its backplate.",
-      "bytes": 1841125,
-      "image": "N00E22P01.png",
-      "sha256": "24f20ebdec9a3feaf70424bf7333900f6cce389608bea519a04dc98b2081b739"
+      "image": "N00E22P01.png"
     },
     {
       "altText": "Quiver places one mitten on a vibrating grate while watching the three brass chimes respond to its transmitted motion. Hush clears dust from a small open-hand maintenance pictogram on the grate’s frame.",
-      "bytes": 1742819,
-      "image": "N00E22P02.png",
-      "sha256": "28d026cbf4355c97e00ecd40d5468e53870e37f30ba3156b9d2d6632451a29ef"
+      "image": "N00E22P02.png"
     },
     {
       "altText": "Null drives the master control downward inside the north command bay. The final open stage aperture narrows but retains a visible slit.",
-      "bytes": 1712860,
-      "image": "N00E22P03.png",
-      "sha256": "1d08854ef1d5bf1707f565cc83876812c6c9839e8c2c520ef9fd53ce39366feb"
+      "image": "N00E22P03.png"
     },
     {
       "altText": "The hinged grate has been lifted and secured open. Quiver crawls through the accessible opening onto the passage’s solid bottom, tether clipped to a fixed rail.",
-      "bytes": 1739222,
-      "image": "N00E22P04.png",
-      "sha256": "a7cc919b0fc1d28de88e63cfa39e6c92dd6a6ff7d7112c72303429cc3b4de607"
+      "image": "N00E22P04.png"
     },
     {
       "altText": "Flare warms only the rusted collar around the spindle’s retaining pin. Pop stands beside the pin with palms apart, waiting rather than clapping.",
-      "bytes": 1837933,
-      "image": "N00E22P05.png",
-      "sha256": "d1ef3df6efff6af4bf9d390b1fef66c1f95d424896e56cb6c066483e46100d0b"
+      "image": "N00E22P05.png"
     },
     {
       "altText": "At the rear, Quiver holds the safety catch clear with one mitten, body supported inside the passage. At the front, Vex inserts the intact square badge fully into the old keyway and grips the lever without pulling it to the stop.",
-      "bytes": 1789003,
-      "image": "N00E22P06.png",
-      "sha256": "8ea09bf74307cceafa833fc12c9996e37bb0a420d688954ca09a72c3e7e2f6f1"
+      "image": "N00E22P06.png"
     },
     {
       "altText": "Hush opens the left and right shutters only, sending two READY glints toward Manylight. Quest checks the incoming receiver, also showing two outer glints, then gives the armed lever team an open waiting hand.",
-      "bytes": 1705423,
-      "image": "N00E22P07.png",
-      "sha256": "5a3027cb6115664c1b218d6711d9cedef42a187293ad281df4c4ab94d2a6e01e"
+      "image": "N00E22P07.png"
     }
   ],
   "schema": 1,

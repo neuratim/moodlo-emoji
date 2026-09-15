@@ -1,0 +1,47 @@
+# Keeps feelingverse/catalogue.json in step with the published episodes.
+#
+# An edited N<NN>E<EE>.json or a replaced panel downloads correctly the moment it
+# is pushed: the app checks structure, not pinned hashes. What the catalogue
+# copies from the episodes — titles, tags, versions, card backdrops and the
+# fingerprints that tell offline copies to update — is refreshed here, and a
+# broken episode fails this run with a message naming the file and the field.
+name: Feelingverse catalogue
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "feelingverse/**"
+      - "tool/build_feelingverse.dart"
+  workflow_dispatch:
+
+concurrency:
+  cancel-in-progress: false
+  group: feelingverse-catalogue
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: 3.13.3
+      - run: dart pub get
+      - run: dart run tool/build_feelingverse.dart --sync
+      # A push made with GITHUB_TOKEN does not start another workflow run.
+      - name: Commit the refreshed catalogue
+        run: |
+          if git diff --quiet -- feelingverse/catalogue.json; then
+            echo "The catalogue already matches the published episodes."
+            exit 0
+          fi
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add feelingverse/catalogue.json
+          git commit -m "Sync Feelingverse catalogue"
+          git pull --rebase origin main
+          git push origin HEAD:main

@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Null advances from the north gallery entrance with the central collector shutter open toward Nova. Rain stands beside Nova on the southward ramp, directing the exit.",
-      "bytes": 1877253,
-      "image": "N00E18P01.png",
-      "sha256": "19593f20af91d857ee0e22af69d572321d3a01be2d76c20e2b0cd6eb879afbab"
+      "image": "N00E18P01.png"
     },
     {
       "altText": "Beam sends one broad shield of light between Null’s open intake and the escaping team outside the crop. The collector locks onto that brighter nearby source, drawing the sheet inward.",
-      "bytes": 1875397,
-      "image": "N00E18P02.png",
-      "sha256": "206e4acc45ebbde57b1a2e4987378c55452c6eb4ada60e5bc718beaab4511837"
+      "image": "N00E18P02.png"
     },
     {
       "altText": "Rain and Mend support one completely featureless golden Beam as the final smile-shaped ribbon enters the overhead inlet. The notched ivory visor remains on Beam’s body.",
-      "bytes": 1924917,
-      "image": "N00E18P03.png",
-      "sha256": "e360fe1609e176170c17ed94281ca9cd6cae2b7c02c39060c3c9b09299743ac3"
+      "image": "N00E18P03.png"
     },
     {
       "altText": "Bash stands at the pod doorway keeping the ramp level and unobstructed. Bitter secures the portable padded sling around blank Beam in the front-row seat; the existing restraint closes around the pad rather than across the visor.",
-      "bytes": 1734535,
-      "image": "N00E18P04.png",
-      "sha256": "b8de7654240e8024a17efe37ed9fc309fa7aad67cc184e4c49f1bcdcf3a969ea"
+      "image": "N00E18P04.png"
     },
     {
       "altText": "Flare braces the midpoint gate’s old counterweight handle against its fixed stop, holding a safe opening. Quiver stands on the Crown side beside the west maintenance rail, tether clipped to its ring.",
-      "bytes": 1802821,
-      "image": "N00E18P05.png",
-      "sha256": "e31e653f41a49fe51a1d7a4d82ab036bb4fbcf994928d311fba5b7aeb4286b0e"
+      "image": "N00E18P05.png"
     },
     {
       "altText": "Quest spreads Hush’s cloth copy on the fixed service shelf. Hush points to the actual three-shutter signaling unit connected to the waste-return pipe.",
-      "bytes": 1785520,
-      "image": "N00E18P06.png",
-      "sha256": "dc34cfd7161274dbc5778ed0b9704b091875730df5a54b83428cbc80ea32e76f"
+      "image": "N00E18P06.png"
     },
     {
       "altText": "Rain and Nova sit beside restrained blank Beam. Nova wears the chipped pin; Rain holds the dotted moth briefly above the lap, not against a control.",
-      "bytes": 1729196,
-      "image": "N00E18P07.png",
-      "sha256": "1e3e6027888367d179c3b118b234aa1cdb23cc719a73b97f2fc27421e4d526bb"
+      "image": "N00E18P07.png"
     }
   ],
   "schema": 1,

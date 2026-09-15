@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Bash closes the pressure shell around Quiver’s whole body and checks the small mechanical seal tab at the collar. The shell’s transparent sleeves and boots cover all limbs; Quiver’s collar, face and three chimes remain visible within it.",
-      "bytes": 1771817,
-      "image": "N00E14P01.png",
-      "sha256": "57c0002a5947b4a801539c69d4d63463bf4fb7ff02dd0100d009568d427b8aaa"
+      "image": "N00E14P01.png"
     },
     {
       "altText": "Vex removes the one square ceramic badge from its chest-front clip and inserts it into the matching old keyway. Hush checks the door’s hinge pictogram while Bitter watches Vex’s operating hand.",
-      "bytes": 1766900,
-      "image": "N00E14P02.png",
-      "sha256": "a0cbe120a716976c78a3a8923457cc77325305bcba5ce4a6f62f35fa6b5b0820"
+      "image": "N00E14P02.png"
     },
     {
       "altText": "Bash occupies the front-left control seat of the sealed copper pod. Rain and Beam are restrained beside the forward window, their normal faces and accessories visible.",
-      "bytes": 1792376,
-      "image": "N00E14P03.png",
-      "sha256": "e10b9f279370b01a58300a50136fa8b5277aa8c3da3a0c95747319e9fc856a10"
+      "image": "N00E14P03.png"
     },
     {
       "altText": "Quest holds the cracked disk beside the exposed manual brake-and-return coupling. Bash briefly holds the powered drive neutral and engages the separate mechanical handle, which grips a visible brake shoe against the tether carriage.",
-      "bytes": 1822149,
-      "image": "N00E14P04.png",
-      "sha256": "0a2518d2ca169a8ff30a12edddad93700ca1ad769eb6f51298fe24380501f33a"
+      "image": "N00E14P04.png"
     },
     {
       "altText": "Rain and Mend sit in restrained seats facing the planet’s curved horizon. A few white collector routes are visible as infrastructure glints over the dark continent, not as ropes holding the planet.",
-      "bytes": 1737248,
-      "image": "N00E14P05.png",
-      "sha256": "034a2cdb5f0e784c9150219624a3f9e4f30b3212cbae4371c46a502c1a10a1de"
+      "image": "N00E14P05.png"
     },
     {
       "altText": "Null pushes a physical control bar that drives the newer upper arrival clamp across the passenger doorway. The mechanical linkage is visible beside the bar.",
-      "bytes": 1795488,
-      "image": "N00E14P06.png",
-      "sha256": "76387f358b3ca9d39dad1f054f9e22806deb65cca0fe538a1b806a53ea9008c2"
+      "image": "N00E14P06.png"
     },
     {
       "altText": "The pod is latched into a fixed berth beneath the arrival clamp. Quest, Hush and Vex stand within its open outer lock in fully sealed pressure shells; the remaining eight wait behind them.",
-      "bytes": 1998569,
-      "image": "N00E14P07.png",
-      "sha256": "6ba3e7d2bb34b1b2cdf77f9f0cc325b603eddf6554c4c22e43540e9e3cdd94e5"
+      "image": "N00E14P07.png"
     }
   ],
   "schema": 1,

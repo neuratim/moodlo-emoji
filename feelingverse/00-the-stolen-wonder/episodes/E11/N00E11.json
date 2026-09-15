@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Patch sits on the cargo cradle after the surrounding lock has drained, damp hull supported at three visible padded points. Wail stands at the dry control landing and opens the north gate onto a vertical shaft with guide rails and a cable-driven platform.",
-      "bytes": 1935369,
-      "image": "N00E11P01.png",
-      "sha256": "0798a35e62c4acba4bcb85cea6f11cc8975a128c37cfc33564fb546d25a5d0ca"
+      "image": "N00E11P01.png"
     },
     {
       "altText": "The hoist platform carries Patch upward on two taut lifting cables and four guide wheels engaged with rails bolted to the rock wall. Vanes remain folded, including the ivory-patched starboard vane.",
-      "bytes": 1919586,
-      "image": "N00E11P02.png",
-      "sha256": "50810e04ca7ff6e0996957e7376eedcc9936881bbb24585b193a3f6d173bbbc8"
+      "image": "N00E11P02.png"
     },
     {
       "altText": "The hoist is locked to a dry intermediate landing. Flare and Bitter stand on its continuous maintenance floor beside a stuck gate handwheel.",
-      "bytes": 1841502,
-      "image": "N00E11P03.png",
-      "sha256": "0c2df010aacabc70fa85a529946908cbc5c523340a0205a31d8765461424564a"
+      "image": "N00E11P03.png"
     },
     {
       "altText": "Mend holds a short rose-thread brace through two fixed eyelets on the gate frame, keeping its loose latch plate aligned. Pop has just made one local pressure clap that seats the displaced locking pin into its housing.",
-      "bytes": 1807697,
-      "image": "N00E11P04.png",
-      "sha256": "276898d549e2f6439814224bb40a16622ef4cbe0dcdfe42249a072688c4c2476"
+      "image": "N00E11P04.png"
     },
     {
       "altText": "Patch is resealed and riding the next hoist segment. Rain notices three branching glints repeating behind the glass cover of a waste-return light pipe bolted to the shaft wall.",
-      "bytes": 1707338,
-      "image": "N00E11P05.png",
-      "sha256": "0a146a40666125814a5ff88cbea62642c02667df2f7a4363772dc44814c440f4"
+      "image": "N00E11P05.png"
     },
     {
       "altText": "The hoist cradle has reached a dry summit receiving hall and rests on its locking stops. Beyond the open outer air-dock doors are clouds and a short flight corridor to the observatory berth.",
-      "bytes": 1904295,
-      "image": "N00E11P06.png",
-      "sha256": "b7a193e8fc2494ae1d1d83c0309052cbb22e031f299f5d7af7b1843da18bc9c9"
+      "image": "N00E11P06.png"
     },
     {
       "altText": "Patch flies level on its established drive toward one observatory fortress built around a geothermal vent on a single basalt ridge. Stone buttresses descend into the ridge; a separate service tower anchors the taut tether rising toward the distant Crown.",
-      "bytes": 1855566,
-      "image": "N00E11P07.png",
-      "sha256": "48a6324e4cfd10cb8c73434b5cec5a6daf6c815159dc688954e9a6703176b6a6"
+      "image": "N00E11P07.png"
     }
   ],
   "schema": 1,

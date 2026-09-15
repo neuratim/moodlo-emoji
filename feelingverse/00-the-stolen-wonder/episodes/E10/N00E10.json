@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Wit stands beside two old demonstration booths on the workbench. The original model has an open door and a reachable interior latch; a newer retrofit model has a physical clamp across its exit.",
-      "bytes": 1724377,
-      "image": "N00E10P01.png",
-      "sha256": "289b1d53f0667d8517a9a8c7a8d906be8402d40926b30987b956352ff9b1579a"
+      "image": "N00E10P01.png"
     },
     {
       "altText": "Wit moves a small toothed comb toward an empty training reel holding inert clear test film. The film crumples visibly beneath one tooth, with no face pattern or person inside.",
-      "bytes": 1705241,
-      "image": "N00E10P02.png",
-      "sha256": "f4f2ad3a92dc670f7f1d34b2de295507dc7d54a6bdf20e4a56bad186df8f7475"
+      "image": "N00E10P02.png"
     },
     {
       "altText": "Quest points to a short command spindle attached to a one-way drive clutch. Hush copies the separate open-hand return lever and rear safety catch onto a cloth strip using simple pictograms.",
-      "bytes": 1807679,
-      "image": "N00E10P03.png",
-      "sha256": "8bc13e53f359e169106ca7d6e6575824b14986a111fdf22db69bc2e22f4d2f6d"
+      "image": "N00E10P03.png"
     },
     {
       "altText": "Nova sits in one five-sided mirror harness bolted to the floor. The violet scarf is rumpled and has no pin.",
-      "bytes": 1764000,
-      "image": "N00E10P04.png",
-      "sha256": "2c3930c1ad47f3db0270c08a4003a6b63b4ecce395f5ffd677714eeb742cac95"
+      "image": "N00E10P04.png"
     },
     {
       "altText": "Nova slides the loose brass shim from the service ledge beneath the clamp’s lower lip. Freeze the shim seated at an angle that stops the last few millimeters of travel.",
-      "bytes": 1566923,
-      "image": "N00E10P05.png",
-      "sha256": "66eb280b652525906f3f7bd433d99ea8e9e1a640c74512450659c974b5b59434"
+      "image": "N00E10P05.png"
     },
     {
       "altText": "Null points one black mechanical hand toward the mountain-service lift while the other stays beside the partly recorded plate, which remains mounted in its cradle. Vex stands at the doorway with the square badge still attached and the folded reflector at the side.",
-      "bytes": 1773223,
-      "image": "N00E10P06.png",
-      "sha256": "2b1c866ceafb5c8010317ab0c9fa94c539b75badce0043854b38e0671ae027b5"
+      "image": "N00E10P06.png"
     },
     {
       "altText": "Nova angles an existing spare prism within the harness so a faint three-branch pattern enters the open mouth of a wall-mounted optical waste-return pipe. The source lamp remains connected.",
-      "bytes": 1730178,
-      "image": "N00E10P07.png",
-      "sha256": "f262a506cafaf01446254f2ad92f493cb6106611c7c0da71ba2b1a7993dbacd1"
+      "image": "N00E10P07.png"
     }
   ],
   "schema": 1,

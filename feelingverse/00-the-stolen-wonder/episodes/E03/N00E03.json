@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Flare’s anatomical right cuff has just struck the public iris. A white collector lens above the iris absorbs the emitted flare.",
-      "bytes": 1865760,
-      "image": "N00E03P01.png",
-      "sha256": "0f4fea3e4cc0d505a4bd762cf9cd92e73a5eb677cce102034fd374a14fd94dc9"
+      "image": "N00E03P01.png"
     },
     {
       "altText": "Flare braces the bowed bracket with both cuffs against a temporary timber already stored on the shelf. Mend threads a safety line through the bridge’s fixed ring and around the loose handrail, not around the whole masonry span.",
-      "bytes": 1956500,
-      "image": "N00E03P02.png",
-      "sha256": "35bcae472f0b637395929d48d27eb982ee105128b8e7d024afc0a1ff06df57de"
+      "image": "N00E03P02.png"
     },
     {
       "altText": "Rain holds the chipped pin flat in one palm at chest-front height. Beam faces it with lowered posture and a dim glow; the notched visor remains unchanged.",
-      "bytes": 1794932,
-      "image": "N00E03P03.png",
-      "sha256": "e506e3ebde50da58c34d113ad2599a8d784be9e53c7625e0cfe40395d938a027"
+      "image": "N00E03P03.png"
     },
     {
       "altText": "Still points to a curved maintenance seam below the main gate, clearly separate from it. Bitter collects one tiny bead of lacquer with a capped brush-tube, avoiding direct contact.",
-      "bytes": 1766945,
-      "image": "N00E03P04.png",
-      "sha256": "d4274e488c16d98aa51cb0a295ba313ee32a58521fcfdc80fc68f145f0b917c5"
+      "image": "N00E03P04.png"
     },
     {
       "altText": "Rain touches a damp mitten to a hand-width strip of the lacquered wall. Condensation beads along the old colored route stripe beneath the thin film, making the stripe optically visible without dissolving the whole coating.",
-      "bytes": 1811915,
-      "image": "N00E03P05.png",
-      "sha256": "d497b75f93d4123a504fcd94f256da86c24d2ee4353e6aeb3e1bdcf001827d67"
+      "image": "N00E03P05.png"
     },
     {
       "altText": "Flare warms one corroded bolt through a cuff held close to the metal. Still turns the freed hatch handle; the door swings outward into clear landing space on its visible hinge.",
-      "bytes": 1811801,
-      "image": "N00E03P06.png",
-      "sha256": "9fb60864c2ebadb0309a7d5c98f232f90b9c338668b1aef89568e0b13c74222a"
+      "image": "N00E03P06.png"
     },
     {
       "altText": "Rain pauses at the top landing while Hope, still on the city side of the threshold, places the blue-dotted moth into Rain’s free mitten. Rain’s pin is already tucked in the collar pocket.",
-      "bytes": 1886974,
-      "image": "N00E03P07.png",
-      "sha256": "117d3ded7e4875ddfb0133018c1993fe952a2fad9b398b220abea082e6110f64"
+      "image": "N00E03P07.png"
     }
   ],
   "schema": 1,

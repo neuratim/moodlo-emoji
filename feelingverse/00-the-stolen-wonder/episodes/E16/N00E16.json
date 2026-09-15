@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Hush raises one clear stop hand with turquoise wrist ribbons while Rain and Quiver pause behind the same pier. A rail-mounted inspection lamp sweeps the unobstructed central aisle; its beam ends on the opposite wall and does not pass through stone.",
-      "bytes": 1713033,
-      "image": "N00E16P01.png",
-      "sha256": "bdfc4ec2a03cb149a273b05017ddff133fee8a16cc557f02530cbf6d4564b594"
+      "image": "N00E16P01.png"
     },
     {
       "altText": "Beam’s low glow reaches the nearest transparent reel rack. Bitter places a hinged opaque lamp shade between that glow and an exposed collector lens, without touching Beam’s face.",
-      "bytes": 1849710,
-      "image": "N00E16P02.png",
-      "sha256": "e4833e67bdb0f10b2ae842a70543937b0b5a4cb700cb6742bbbd6cdde0823773"
+      "image": "N00E16P02.png"
     },
     {
       "altText": "Hush holds the cloth copy beside the old door’s hinge mark. Quest, with the empty disk strap visible, checks the actual pipe junction.",
-      "bytes": 1798912,
-      "image": "N00E16P03.png",
-      "sha256": "d1744a034441e385b02a53cbb41e818ae981f3f4975758e1d172ade20b384bf4"
+      "image": "N00E16P03.png"
     },
     {
       "altText": "Flare has raised one cuff toward the partition but stops before heating it. Through an adjacent inspection window, fragile reels are bolted directly behind the wall.",
-      "bytes": 1805223,
-      "image": "N00E16P04.png",
-      "sha256": "039406371d71ec4759cb9b760e4c35526cacba340752000ff7e3b8c7256d4225"
+      "image": "N00E16P04.png"
     },
     {
       "altText": "Rain crouches on the corridor side of the opened hinge gap. Beyond it, the actual Nova sits in the bolted harness with a rumpled violet scarf and no pin.",
-      "bytes": 1769675,
-      "image": "N00E16P05.png",
-      "sha256": "66eb3c866e6cc3660f8842c439ccb3360138cececde9da9117d1299569122896"
+      "image": "N00E16P05.png"
     },
     {
       "altText": "Nova angles an existing harness prism so the lamp produces three small branches across Rain’s open mitten. Rain holds Hope’s blue-dotted moth in the other hand, outside the beam’s hottest center.",
-      "bytes": 1825349,
-      "image": "N00E16P06.png",
-      "sha256": "a46e071c1495e8f81aea3be1422f3a7b7131df87eb22769368448bbb58c04aff"
+      "image": "N00E16P06.png"
     },
     {
       "altText": "At the north command bay, one automatic glass inspection partition begins descending on visible vertical rails. Hush raises a stop signal at the west corridor mouth.",
-      "bytes": 1906308,
-      "image": "N00E16P07.png",
-      "sha256": "bf3156517f10efde4c1540d8603b5ac5dbd14c3df67e65f78c45b91d09d27771"
+      "image": "N00E16P07.png"
     }
   ],
   "schema": 1,

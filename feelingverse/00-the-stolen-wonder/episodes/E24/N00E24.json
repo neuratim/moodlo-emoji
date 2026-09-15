@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Vex has removed both mittens from the lever, which remains fixed at its stop by the mechanical latch. The broken square key is trapped in the jaws; Vex’s chest-front badge clip is empty.",
-      "bytes": 1818870,
-      "image": "N00E24P01.png",
-      "sha256": "8214a1cb5ec1afdabcb9a5652ab038f873dd1f653a3d4ebd0b76be98478fb1cf"
+      "image": "N00E24P01.png"
     },
     {
       "altText": "Several distinct, continuous echo ribbons pass through the guarded mist channel and reflected return panes. Wail holds the outlet wheel at its latched open stop while Adore maintains the tile’s angle.",
-      "bytes": 1914361,
-      "image": "N00E24P02.png",
-      "sha256": "f9370d55be24f88efd2f5f798c9db44ad2c403b6f1def8054b513a546e977c43"
+      "image": "N00E24P02.png"
     },
     {
       "altText": "One unnamed blanked resident, still wearing its original gray apron, stands supported by the fixed shelter rail. A returning ribbon from the nearest lamp socket reaches the resident through a short visible mist path.",
-      "bytes": 1817704,
-      "image": "N00E24P03.png",
-      "sha256": "d91363c2f8b90b7609c91af93353f5f43f3ebb798cac29eaa80429f64add8a41"
+      "image": "N00E24P03.png"
     },
     {
       "altText": "The golden original ribbon arrives through the Manylight return outlet and moist diffuser at Beam’s face. Freeze halfway: one familiar crescent eye and part of the smile have returned, while the other eye area and mouth section remain smooth.",
-      "bytes": 1812475,
-      "image": "N00E24P04.png",
-      "sha256": "944a8aaa75a7190f155d83ecd4cf101b0f3bface09990564a91de40e41ab2e34"
+      "image": "N00E24P04.png"
     },
     {
       "altText": "Beam’s complete familiar face is restored, with both crescent eyes and the whole smile motif. The expression is tired and unsteady; one ordinary new tear rests below an eye without changing Beam into Rain.",
-      "bytes": 1809998,
-      "image": "N00E24P05.png",
-      "sha256": "932195e346a5b28fe17114191deb4fea304c62448449247c55e086637772d487"
+      "image": "N00E24P05.png"
     },
     {
       "altText": "The original copper pod is latched at the lower berth. Quiver checks the familiar manual brake from the front seat; Hush stands at the door latch; Flare, Pop, Quest and Vex take the next four seats, each once.",
-      "bytes": 1856849,
-      "image": "N00E24P06.png",
-      "sha256": "c7d7a95076ec8e5c7e565cb3a93cc3a037e4f90bfff85703b08da5e07f957bf3"
+      "image": "N00E24P06.png"
     },
     {
       "altText": "Nova, Rain, restored Beam and neutral Still stand behind the Manylight balcony rail. Below, residents with varied expressions return along the west promenade; the one damaged bridge retains its bracing and repair scaffold.",
-      "bytes": 1854666,
-      "image": "N00E24P07.png",
-      "sha256": "e5fb59bc46a4739ee103fd75138b7cb98261ac888631263e5c69e4b4079b97bc"
+      "image": "N00E24P07.png"
     }
   ],
   "schema": 1,

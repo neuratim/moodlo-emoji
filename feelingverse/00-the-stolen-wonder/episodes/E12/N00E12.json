@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Lull stands beside the doorway and gives Rain room to enter. Doze rests in a side alcove with its curtain tied back, nightcap tassel square and no floating letters.",
-      "bytes": 1920717,
-      "image": "N00E12P01.png",
-      "sha256": "3edd72033b99220cc2468aeb0db3b4e466cfebf3f0e8c078fec8fe05c9152c6a"
+      "image": "N00E12P01.png"
     },
     {
       "altText": "Quiver sits on a fixed bench and holds the complete three-chime belt against the lap. Mend places a cup on the small side table rather than forcing it into Quiver’s hands.",
-      "bytes": 1745981,
-      "image": "N00E12P02.png",
-      "sha256": "18dfd0f9dcf64b4d935b4f78159471f2d6f581a32103c8694c3d171f0d9fd64f"
+      "image": "N00E12P02.png"
     },
     {
       "altText": "Doze points to the old return winch’s isolated hand-drive coupling. A new white command clamp has stopped the powered return branch, but an independent manual wheel remains accessible.",
-      "bytes": 1879951,
-      "image": "N00E12P03.png",
-      "sha256": "f6565e52d2a3fc9e95ad777d201fe7a56dde026ae9cdcbed6afcb40fc995c342"
+      "image": "N00E12P03.png"
     },
     {
       "altText": "Lull shows a transparent full-body pressure shell with sealed sleeves, boots, collar fittings and a small radio module. Bash checks its mechanical pressure tab while Hush demonstrates how to clip the safety tether.",
-      "bytes": 1896558,
-      "image": "N00E12P04.png",
-      "sha256": "1a2663fcecfb32448bb5faa6e5ade7182da82ce5c19cc33d3b193bf2cc129efd"
+      "image": "N00E12P04.png"
     },
     {
       "altText": "Bash examines the ivory stitch line without removing it. Flare holds the cooled cuff away from the blackened vane edge.",
-      "bytes": 1910214,
-      "image": "N00E12P05.png",
-      "sha256": "877231dc15ffb174bfb5fa7d479129a0c42dffd0e6932771fdc51915028c5345"
+      "image": "N00E12P05.png"
     },
     {
       "altText": "A faint repeated three-branch pattern appears on the lamp pane from its connected pipe. Rain watches with the blue-dotted moth still folded in the pocket and the chipped pin tucked separately.",
-      "bytes": 1766836,
-      "image": "N00E12P06.png",
-      "sha256": "510086439d4f909d354e1fa43aded28226cfb6870924c575108b733bc592a067"
+      "image": "N00E12P06.png"
     },
     {
       "altText": "Rain and Quest stand at the foot of the docking stair. Behind the upper vestibule’s glass appears an indistinct, apparently star-eyed figure with a violet scarf shape.",
-      "bytes": 1812249,
-      "image": "N00E12P07.png",
-      "sha256": "852f9075faab5258ed22c38f924bcb25b754014fe7938be8872ed8feed337769"
+      "image": "N00E12P07.png"
     }
   ],
   "schema": 1,

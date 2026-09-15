@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Rain, Quest and Hush lead the near foreground in sealed full-body pressure shells, each tether clipped to the same continuous rail. Eight other travelers follow in single file at proper scale.",
-      "bytes": 2042708,
-      "image": "N00E15P01.png",
-      "sha256": "776b93c9299e9d8baccbd847a2bc502f1f6db7690f80b8937c57056f869f920f"
+      "image": "N00E15P01.png"
     },
     {
       "altText": "A large retired service ring still rotates slowly on its powered inspection spindle, temporarily blocking the catwalk opening. Quiver watches its physical shadow approach the rail marker.",
-      "bytes": 1819878,
-      "image": "N00E15P02.png",
-      "sha256": "11c0740d9f26a4c4c7e3dc43638719cc74c3c7ac2d5bf999292352647d747474"
+      "image": "N00E15P02.png"
     },
     {
       "altText": "Flare holds a small warmed brake shoe against the spindle housing to free its stiff seat, keeping heat away from shell seals. Pop presses the ordinary locking pin fully into the aligned hole using both sealed mittens.",
-      "bytes": 1923234,
-      "image": "N00E15P03.png",
-      "sha256": "bdacd42343c8ae73786fc383931cf32330a521852c16899cebea031b666aac01"
+      "image": "N00E15P03.png"
     },
     {
       "altText": "Quest’s damaged hinge finally parts as the disk is opened for inspection; the single brass disk falls below the rail toward the enclosed catch basin. At the same instant, Quiver’s foot slips at the grate edge and the safety tether catches.",
-      "bytes": 1872426,
-      "image": "N00E15P04.png",
-      "sha256": "b22af343e404868fcb4ae9a596b794b520e158e246e9be7eef6779195d05c6aa"
+      "image": "N00E15P04.png"
     },
     {
       "altText": "Quest stands beside the tray with the empty disk attachment prominent. Hush lays the retained cloth copy flat under four mechanical corner clips so it cannot float or fold in vacuum.",
-      "bytes": 1934894,
-      "image": "N00E15P05.png",
-      "sha256": "19f71b5e5faeff3d66a254ccc10d545d9e07ff54275939db886dbeded28e088b"
+      "image": "N00E15P05.png"
     },
     {
       "altText": "Vex uses the intact badge to open the old outer service hatch. Bitter watches from a tethered position on the catwalk, while Hush confirms the wave-and-hinge pictogram.",
-      "bytes": 1880275,
-      "image": "N00E15P06.png",
-      "sha256": "235d6d6d482a1d875bdc142f54d218a2754549d35606ffcf0f43c6620f4540d6"
+      "image": "N00E15P06.png"
     },
     {
       "altText": "Rain and Beam stand on the corridor floor after the airlock cycle, full pressure shells now folded into their packs. The inner door has closed behind them.",
-      "bytes": 1864799,
-      "image": "N00E15P07.png",
-      "sha256": "66fd7a89a9cb75af78335b9af78695978ecf19653cad58f5036c358cf137cc50"
+      "image": "N00E15P07.png"
     }
   ],
   "schema": 1,

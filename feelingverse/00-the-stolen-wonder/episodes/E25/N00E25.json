@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Flare tightens bolts on a visible replacement bracket beside the original bowed seam. Quiver checks the joint with all three belt chimes still attached.",
-      "bytes": 1903033,
-      "image": "N00E25P01.png",
-      "sha256": "a73f846f249ead7efc367a043d101f072a82d933de59efa7c7a5d41be69a80eb"
+      "image": "N00E25P01.png"
     },
     {
       "altText": "Patch rests in a dry cradle on one anchored repair pontoon. Phew checks the copper starboard splint while Bash inspects the opaque canopy reinforcement.",
-      "bytes": 1851971,
-      "image": "N00E25P02.png",
-      "sha256": "66fbbd00c4d15927445bf2f03fd0ba73c0d2454c095e66e85aa3e947a6809150"
+      "image": "N00E25P02.png"
     },
     {
       "altText": "Vex replaces a damaged bronze relay coupling using ordinary tools while Sideeye holds it in a vise. Wit supervises the connection and Quest consults the same cloth copy saved by Hush; Quest’s disk attachment remains empty.",
-      "bytes": 1809541,
-      "image": "N00E25P03.png",
-      "sha256": "9e0cb36a5fb5e242635be21931f0cb2f58ec63fc9ad57a1c6a2e00d385cbfc5a"
+      "image": "N00E25P03.png"
     },
     {
       "altText": "Still sits neutrally on the main bench. Lull adjusts a cloth shade fixed to two posts; Doze rests in an open booth with its curtain tied back and no floating letters.",
-      "bytes": 1821323,
-      "image": "N00E25P04.png",
-      "sha256": "2ea4b18da231eb68fbfbc1de15b54e66acfa636fc6e3117900dffabc48495d71"
+      "image": "N00E25P04.png"
     },
     {
       "altText": "Rain holds a newly folded ordinary unmarked moth with a damp wing; it is not a replacement for the blue-dotted gift, which remains safe on the hall shelf. Restored Beam supplies a modest, soft light.",
-      "bytes": 1822386,
-      "image": "N00E25P05.png",
-      "sha256": "18658fb3a537c2ddc993b354bca59cf7cfc3cf716630644b33d975c4aa483d2f"
+      "image": "N00E25P05.png"
     },
     {
       "altText": "Hope demonstrates a paper fold at the front of a long table while Puff copies it on a separate plain sheet. Hush demonstrates the same crease with ribboned hands, two eyes and no mouth.",
-      "bytes": 1766557,
-      "image": "N00E25P06.png",
-      "sha256": "7d18a6d825908d14a3df2e6eaf014a8264c77ab87e5fd25253dcce74329f594e"
+      "image": "N00E25P06.png"
     },
     {
       "altText": "A single plain ivory moth rises on an ordinary gentle updraft just above the nearby folding table, immediately after release. No extra releasing hand is needed in frame.",
-      "bytes": 1889997,
-      "image": "N00E25P07.png",
-      "sha256": "777b35c40483beb100c852a2aa6298ce6f8a59fa0fc1af82a89e7c6b59b6e1bf"
+      "image": "N00E25P07.png"
     }
   ],
   "schema": 1,

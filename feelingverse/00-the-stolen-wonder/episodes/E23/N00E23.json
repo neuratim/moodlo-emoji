@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Null stands at the master control, one black mechanical hand pushing downward. The model of a quiet booth with a locked exit sits on the shelf beside it, unchanged since the origin scene.",
-      "bytes": 1783399,
-      "image": "N00E23P01.png",
-      "sha256": "2febdb84d7a1bf0dc1a5160dbf05a98352bf856655bbce84d789e6491a9831c8"
+      "image": "N00E23P01.png"
     },
     {
       "altText": "Rain dampens Hope’s blue-dotted paper moth and holds it over the cool, protected edge of the lighthouse’s diffuser, reproducing the opening’s soft scattering on a small scale. The lamp is enclosed behind heat-resistant glass; the paper does not touch flame or hot metal.",
-      "bytes": 1812320,
-      "image": "N00E23P02.png",
-      "sha256": "49692fa543fd4ad5c1511642f2547ca489ef6d0b1fa42f5714a0cbcccf5e9a02"
+      "image": "N00E23P02.png"
     },
     {
       "altText": "Two real prism panes already sit at their marked stops. Nova adjusts the third pane with one mitten while the other rests on the opened signal lever, so the lighthouse’s softened output branches into the established return routes.",
-      "bytes": 1897652,
-      "image": "N00E23P03.png",
-      "sha256": "e790263bc70a4a045db688b7290e353d8bc1c37b5f82fe76fccbc83af58ceec9"
+      "image": "N00E23P03.png"
     },
     {
       "altText": "The receiver at the backplate shows three steady open windows. Hush gives the agreed release gesture from the west side.",
-      "bytes": 1774316,
-      "image": "N00E23P04.png",
-      "sha256": "4add8c4167c17b09898a997f6b67dc8ba00e884a0083fca2adafa71d01b7a26e"
+      "image": "N00E23P04.png"
     },
     {
       "altText": "Pop’s one short pressure pulse has just ejected the loosened retaining pin into its attached catch cup. Flare pulls the now-free command spindle halfway out of its socket toward the padded cradle immediately beside it.",
-      "bytes": 1813768,
-      "image": "N00E23P05.png",
-      "sha256": "d8dc93db6b2e2f2757bec9b9c797df5a5aa116aaa90314e2ee2d1235a41004d4"
+      "image": "N00E23P05.png"
     },
     {
       "altText": "Null remains inside the north command bay and reaches toward the disconnected control socket. Hush, on the south safe side, pulls the existing manual latch handle at the west post.",
-      "bytes": 1809275,
-      "image": "N00E23P06.png",
-      "sha256": "1767a8cb76a5e1c91ed78f3ad21f5fc6663cc5535b2a2b2e57ac979d0490600f"
+      "image": "N00E23P06.png"
     },
     {
       "altText": "The bypass’s counterweight lifts the comb clear of the steel guard, leaving the original reels intact. Quest and Quiver stand beside the large return outlet as the first continuous echo ribbon enters its protected mouth.",
-      "bytes": 1803274,
-      "image": "N00E23P07.png",
-      "sha256": "9e181dc00218f06d303a0315288bacc3b0373d92db511d0349d08a01d2b6eec4"
+      "image": "N00E23P07.png"
     }
   ],
   "schema": 1,

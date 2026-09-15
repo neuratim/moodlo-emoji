@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Vex stands on the moored barge at screen-right operating one lever. Two articulated net arms reach across the quay from the barge, their feet and pivots visible.",
-      "bytes": 1862021,
-      "image": "N00E02P01.png",
-      "sha256": "5a2f681418de13cadbdcae1590b1e685a50f41310535210aed8ed763d1af5266"
+      "image": "N00E02P01.png"
     },
     {
       "altText": "The net has closed around Nova alone inside a rounded metal capture frame on the barge deck. Nova’s feet still touch the deck; the mesh limits the arms without cutting them.",
-      "bytes": 1851512,
-      "image": "N00E02P02.png",
-      "sha256": "451d25fa1e77b773815a4eb04235eb505bc218dd689200ad30b407ff0398631c"
+      "image": "N00E02P02.png"
     },
     {
       "altText": "Nova reaches through one accessible mesh opening from screen-right, having detached the brass star pin. Rain’s open mitten is screen-left above the stone quay.",
-      "bytes": 1842421,
-      "image": "N00E02P03.png",
-      "sha256": "d66d32e6d1d65353f996898062395d1c2ea686fb970e00cb72dc5699fb983054"
+      "image": "N00E02P03.png"
     },
     {
       "altText": "Beam stands on the quay and directs one bright beam at the collector hood, intending to stop the lift. The hood’s four rigid petals are open; light visibly enters the central lens and continues along a glass conduit to the capsule carriage motor.",
-      "bytes": 1849227,
-      "image": "N00E02P04.png",
-      "sha256": "c683b9eb0a1a251e3885a7fec931311f05b643cc8ccfff3ce9ed53df5b0a29e1"
+      "image": "N00E02P04.png"
     },
     {
       "altText": "Mend stands on the safe bank side holding thread looped through two fixed quay rings. The line runs at hand height along the intact path away from the barge.",
-      "bytes": 1752753,
-      "image": "N00E02P05.png",
-      "sha256": "0af1a27927f9c317cdc6efe9977c615863ef1ac5282d9703f261885a9c680dc6"
+      "image": "N00E02P05.png"
     },
     {
       "altText": "One sealed copper express capsule climbs the rail inside the glazed tube leading from Mosaic toward the mountain transfer station. Nova remains restrained in a seat behind its window; Vex occupies the operator seat inside the same pressurized capsule.",
-      "bytes": 1788077,
-      "image": "N00E02P06.png",
-      "sha256": "ebf8dd367af4be012930574ce2158d9f03aee3bea4876737570433f656765702"
+      "image": "N00E02P06.png"
     },
     {
       "altText": "Rain stands left with the chipped pin secured in the open collar pocket. Quest opens the brass disk on the gate’s waist-high service ledge.",
-      "bytes": 1697047,
-      "image": "N00E02P07.png",
-      "sha256": "52a7a7c37bbda8134bc0a461a56bcdb677668bc637380d749ba9adc61af78cb0"
+      "image": "N00E02P07.png"
     }
   ],
   "schema": 1,

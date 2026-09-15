@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Vex angles the fold-out reflector toward a flat painted standee of Nova, mounted on two wooden feet. The standee bears a painted violet scarf and an intact painted star badge.",
-      "bytes": 1712379,
-      "image": "N00E13P01.png",
-      "sha256": "24363249b6dd49305e5748463e6ea87155ea26448d7fb7ec8ecb229987df14bd"
+      "image": "N00E13P01.png"
     },
     {
       "altText": "Rain holds the single chipped pin beside Beam’s lowered visor. Through the upper glass in the background, the standee image shows an intact painted badge and a fixed smile.",
-      "bytes": 1793431,
-      "image": "N00E13P02.png",
-      "sha256": "c7673b4568b6a31325aa298d20c695fc38575bc7436bf8ca92d6d79678a7797c"
+      "image": "N00E13P02.png"
     },
     {
       "altText": "Hush points toward Vex’s real white badge visible through an uncovered side pane, not through an impossible reflection. Quest turns toward the mapped maintenance door with the disk open.",
-      "bytes": 1820509,
-      "image": "N00E13P03.png",
-      "sha256": "9db39c7fe1b8d9a2958cef474ba3211a133048158ef54eb6b0704b6a5f715a72"
+      "image": "N00E13P03.png"
     },
     {
       "altText": "The faulty clamp strikes Patch’s starboard outrigger, bending it against the cradle and cracking only the canopy’s starboard lower edge. Bash stands clear at the stopped control post.",
-      "bytes": 1873136,
-      "image": "N00E13P04.png",
-      "sha256": "e2880db6a33382b6a137a598b7b436a386282660b9a9ef9b7a05e7efd1bdd739"
+      "image": "N00E13P04.png"
     },
     {
       "altText": "Vex hangs from the booth’s fixed handrail after the short access platform retracts beneath it. A white command indicator at the platform actuator shows the newer control system engaged.",
-      "bytes": 1776370,
-      "image": "N00E13P05.png",
-      "sha256": "037c04bbf7eba58f3849a153983e80ae71cf9e68a40ab2c2080658dddc1a82be"
+      "image": "N00E13P05.png"
     },
     {
       "altText": "Mend holds a rose line through a fixed landing ring and around Quiver’s safety harness. Quiver kneels with both feet braced on the stable landing and catches Vex’s wrist across the short gap.",
-      "bytes": 1739792,
-      "image": "N00E13P06.png",
-      "sha256": "1856d1165e012726c90cdb211a596ce779754c1d5434db15b916237d7ffd0f47"
+      "image": "N00E13P06.png"
     },
     {
       "altText": "Vex stands safely between Bitter and the closed service-lift door, pointing to its old mechanical keyway. Bitter holds the retrieved reflector folded shut, its identity unchanged, before placing it in the dock’s lockable equipment drawer.",
-      "bytes": 1854287,
-      "image": "N00E13P07.png",
-      "sha256": "a49803b9afa44e3dfd761ed8b4aecca546cf502f7d91b5ebe946024ab13b2a81"
+      "image": "N00E13P07.png"
     }
   ],
   "schema": 1,

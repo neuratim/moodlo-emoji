@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Nova watches the three-window receiver show only its left shutter open: the incoming PREPARE signal. Rain moistens the fixed diffusing pane beside the lighthouse’s own lamp.",
-      "bytes": 1926050,
-      "image": "N00E21P01.png",
-      "sha256": "05a14a96fe901d1e2236d8ea779adfa37401b2b9884b6aa7fbd2763e4c40966a"
+      "image": "N00E21P01.png"
     },
     {
       "altText": "Sigh locks the cleaned transfer cup’s outlet into the copper river relay coupling while the ferry is secured at its home berth. The empty spool from Tangle’s rescue remains on the shelf behind the cup.",
-      "bytes": 1855359,
-      "image": "N00E21P02.png",
-      "sha256": "4ec8d9ffbff01db9d2c90cdf3a9e23f2844eaea81d2eff3561eba7bc9e0e55d3"
+      "image": "N00E21P02.png"
     },
     {
       "altText": "Sideeye turns the real scratched mirror in its bolted pivot frame so two signal glints land on the copper relay’s receiving pane. The mirror reflects the actual pipe outlet facing it, with correct left-right orientation and no invented city beyond.",
-      "bytes": 1864265,
-      "image": "N00E21P03.png",
-      "sha256": "40867433c928f4e711ba366960fd69b54de8e86ce3abaefe2c1bc6635b21e163"
+      "image": "N00E21P03.png"
     },
     {
       "altText": "Phew secures a lamp in the wave-marked relay fitting introduced at the harbor. Grit holds the wind-shutter winch against its locking stop while Alarm makes one local readiness bell strike.",
-      "bytes": 1878353,
-      "image": "N00E21P04.png",
-      "sha256": "f911dafcca424bb17a68cba9c740a975941dc23cb42a8ee6bb505a4c0aa2c09d"
+      "image": "N00E21P04.png"
     },
     {
       "altText": "Wail opens the clean mist-channel wheel. Adore tilts the saved rectangular tile in its existing wall holder.",
-      "bytes": 1866413,
-      "image": "N00E21P05.png",
-      "sha256": "a56a13a9541b31f7a3fbc7b1cc5f96fee083eca02ec28634424eb3caad755a34"
+      "image": "N00E21P05.png"
     },
     {
       "altText": "Lull aligns the old relay lamp and opens its left and right reply shutters only. Doze turns the independent winch connected to the tether’s actual drive.",
-      "bytes": 1793235,
-      "image": "N00E21P06.png",
-      "sha256": "ab70fed138f26d88a247fefc5d34f36fd6135940035b9dab234aac3485bf487e"
+      "image": "N00E21P06.png"
     },
     {
       "altText": "The five remote station receivers each show the agreed two-light readiness state. Nova sets the local outgoing signal unit to two outer shutters open, center closed, reporting the ground network READY to the Crown.",
-      "bytes": 1806432,
-      "image": "N00E21P07.png",
-      "sha256": "058b4f94b18ba60bb37d3c529926e83da237fc112b0aa35e923c9eddddb163a0"
+      "image": "N00E21P07.png"
     }
   ],
   "schema": 1,

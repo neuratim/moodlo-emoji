@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Rain sets the chipped brass pin on the clean floor just inside the threshold, point missing toward the camera. Nova reaches one restrained mitten toward it, but the harness is still closed.",
-      "bytes": 1697371,
-      "image": "N00E17P01.png",
-      "sha256": "898ee8c9f8d6950418c04d3f273a853210b025f16e391e60c30732f33a4c4ed5"
+      "image": "N00E17P01.png"
     },
     {
       "altText": "Nova points to the shim wedged under the clamp while Flare studies the exposed release jaw without touching the captive. The pin lies on the floor below, still unclaimed.",
-      "bytes": 1835951,
-      "image": "N00E17P02.png",
-      "sha256": "e0860ba971f5a00574ee651693df3dc8d783e1deb72cdb646a85611c80fe3e75"
+      "image": "N00E17P02.png"
     },
     {
       "altText": "Flare holds the release jaw open with local mechanical force from both cuffs; no radiant heat spreads toward the plate. Pop presses the ordinary retaining pin into its safe recess using one mitten, choosing not to clap beside fragile glass.",
-      "bytes": 1829394,
-      "image": "N00E17P03.png",
-      "sha256": "5b82fab6c0bf60936d1db0893e299279e9be4bd13ef5488d36ba86dbe61b6fe0"
+      "image": "N00E17P03.png"
     },
     {
       "altText": "Nova stands free on the same floor and fastens the one chipped pin onto the violet scarf knot. Rain supports the loose scarf end with one mitten, leaving the pin and its missing point unobstructed.",
-      "bytes": 1763810,
-      "image": "N00E17P04.png",
-      "sha256": "144037a243f1327072ee597c5f7d2d31165757416a458d774515ecae6c38f1e7"
+      "image": "N00E17P04.png"
     },
     {
       "altText": "In the adjoining control bay, Null locks the completed glass routing plate into the independent drive slot. The plate is one physical object transferred from the optical table, its full branching pattern visible.",
-      "bytes": 1923663,
-      "image": "N00E17P05.png",
-      "sha256": "9e82339e6ac6998a1f13d58f325f92be918a4b0dec8abdf1472b9e5db5f81d63"
+      "image": "N00E17P05.png"
     },
     {
       "altText": "Nova stands beside Rain at the gallery rail, looking toward occupied echo racks. Beam points toward the marked service exit leading back to the pod.",
-      "bytes": 1926258,
-      "image": "N00E17P06.png",
-      "sha256": "f5bf08acd85f4bd3045b33dcaa9273359f796e9b6e10a990ae6a47ec0a36c4c5"
+      "image": "N00E17P06.png"
     },
     {
       "altText": "Quest lays the cloth copy on the junction’s flat service shelf; the empty disk strap remains visible. Rain stands on the exit side and Nova on the return-pipe side, chipped pin in place.",
-      "bytes": 1907228,
-      "image": "N00E17P07.png",
-      "sha256": "f4576f3ac9df993bd6dc1c71ab3b0299472ee65ecb144e41396af86b548c6313"
+      "image": "N00E17P07.png"
     }
   ],
   "schema": 1,

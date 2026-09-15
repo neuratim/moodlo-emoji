@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "The original copper pod travels down the same continuous tether, guide housing still engaged. Inside, Rain keeps one mitten near Beam’s restraint while Nova looks toward the dark continent below.",
-      "bytes": 1807458,
-      "image": "N00E19P01.png",
-      "sha256": "7afdd60d24b9bb8d1056fc9d4ee3d6f4579af111e99c021cc96a2af686d86bf2"
+      "image": "N00E19P01.png"
     },
     {
       "altText": "The powered drive indicator has gone white and its normal control lever has locked. Bash grips the separate tested manual brake-and-return handle.",
-      "bytes": 1875134,
-      "image": "N00E19P02.png",
-      "sha256": "5ad36a63b97ab5f5f3365c7b93cdb133d91b43535179db51f905762a36c99eb0"
+      "image": "N00E19P02.png"
     },
     {
       "altText": "Bash examines the now-bolted copper splint on the bent starboard outrigger. Doze checks the last fastener while Lull holds the inspection lamp.",
-      "bytes": 1873808,
-      "image": "N00E19P03.png",
-      "sha256": "440ba1a7f5b41edac8d27b89be29bc45bff36e8b8aeb540378202710e749bd3f"
+      "image": "N00E19P03.png"
     },
     {
       "altText": "Mend and Lull hold opposite handles of Beam’s portable padded sling above the aligned Patch seat restraint. Beam remains a single golden body with no facial marks, visor in place.",
-      "bytes": 1812695,
-      "image": "N00E19P04.png",
-      "sha256": "d37ac9e8e972c45512846e44226d6086e7e7b4d81ca32293572787f0542e445c"
+      "image": "N00E19P04.png"
     },
     {
       "altText": "Patch glides below the ridge on the established drive and vanes, using altitude gained by the hoist rather than climbing through the summit storm. The repaired starboard splint, opaque canopy strip and ivory sail patch are visible.",
-      "bytes": 1906802,
-      "image": "N00E19P05.png",
-      "sha256": "3ed29d50de1757773eb0279e3e5f7e663cbc337addd2e12e17ad6f10bb98e67c"
+      "image": "N00E19P05.png"
     },
     {
       "altText": "Still stands beside a clearly open shelter entrance, retaining two eyes and a straight mouth. Bloom guides one featureless unnamed resident by an offered hand while Puff carries a folded blanket.",
-      "bytes": 1909072,
-      "image": "N00E19P06.png",
-      "sha256": "e84809b9081832a1d8087de871c28789cabb8fec303396556f0b5b20700ad3f6"
+      "image": "N00E19P06.png"
     },
     {
       "altText": "Blank Beam rests in the portable pad secured on a low bench beneath the Manylight lamp platform. Rain sets the blue-dotted moth on the dry shelf beside that bench.",
-      "bytes": 1862242,
-      "image": "N00E19P07.png",
-      "sha256": "5cc4f74c2438b1d082453bdafba58b1adcfd3bb99e399152eb414d18fc17eac5"
+      "image": "N00E19P07.png"
     }
   ],
   "schema": 1,

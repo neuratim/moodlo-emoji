@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Patch descends with its dome shut, vanes folded and ballast lights modest. Bash and Quest are visible only through the glass, seated.",
-      "bytes": 1949292,
-      "image": "N00E09P01.png",
-      "sha256": "b4b63b84827f27f42ccc73ac1288105efb754b35d236317cc1e9dd08133510e4"
+      "image": "N00E09P01.png"
     },
     {
       "altText": "Wail braces the closed inner garden hatch with its existing locking wheel, remaining on the dry side. Adore stands beside a fixed emergency lamp and tilts one rectangular glass tile to flash toward Patch outside the window.",
-      "bytes": 1781465,
-      "image": "N00E09P02.png",
-      "sha256": "b8123387a38e7a753380f0344cdd56e88a3957cf9b1bdd70285124121e72b660"
+      "image": "N00E09P02.png"
     },
     {
       "altText": "Bitter studies white oily strands fouling the station’s docking ring while Rain points specifically at that mechanical surface. Wail is visible behind the separate refuge window beyond the ring, tear channels intact.",
-      "bytes": 1904055,
-      "image": "N00E09P03.png",
-      "sha256": "336e8f09e39122717586b5088e256d9ba9240df5472b93a5f0ff9cec0b5a984d"
+      "image": "N00E09P03.png"
     },
     {
       "altText": "Patch’s docking ring is mechanically clamped to the station socket. The small collar chamber has already been pumped dry, with its drain outlet shut.",
-      "bytes": 1872905,
-      "image": "N00E09P04.png",
-      "sha256": "8c1a97e67bf0f587de6bfd20cbdff3b690824e4104f24aa57819d33867e87fc8"
+      "image": "N00E09P04.png"
     },
     {
       "altText": "The refuge-to-core door is open and the damaged outer-garden hatch remains shut behind it. Mend stands in the station core holding a line through fixed rings along the corridor.",
-      "bytes": 1833494,
-      "image": "N00E09P05.png",
-      "sha256": "c46560f8bf21738e1c551a8dcb4500774c0319505ddd0fd7e04c6b739680affa"
+      "image": "N00E09P05.png"
     },
     {
       "altText": "Wail takes the single small coral-seed jar from its shelf and holds it with both mittens. Rain waits beside the return-station wheel rather than pulling Wail away.",
-      "bytes": 1785094,
-      "image": "N00E09P06.png",
-      "sha256": "98fb248ea536821584ed0c0b7bf7a6b42155df69e2feb623bd7c503f505e38e6"
+      "image": "N00E09P06.png"
     },
     {
       "altText": "Adore fits the saved rectangular tile into the old return lamp’s square holder on the west wall. Wail sets the seed jar in a protected niche and turns the lower-records door wheel.",
-      "bytes": 1826190,
-      "image": "N00E09P07.png",
-      "sha256": "9f346f90ee037e6b4e7a30863db5a591d16750f3388247f2838ffeec0aca05c4"
+      "image": "N00E09P07.png"
     }
   ],
   "schema": 1,

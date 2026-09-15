@@ -3,264 +3,250 @@
   "localizations": {
     "ar": {
       "captions": [
-        "يرى Alarm كابل خدمة ممزقًا يعبر طريق المغادرة ويقرع جرس التحذير. Grit يحافظ على ثبات مصراع الرياح. يقوم Bash بإحضار Patch إلى مهد صيانة الصرح بدلاً من إجباره على العبور.\n\nAlarm: \"الكابل عبر الطريق! تمسك بالمهد!\"",
-        "لاحظت Quiver فترة هدوء قصيرة في اهتزاز الهيكل. إنها ملاحظة وليست ضمانة. تحافظ Bash على دعم Patch بينما يقوم الطاقم بفحص الكابل المحصور حول ذراع الامتداد اليمنى.\n\nQuiver: \"هناك فجوة في العواصف. أولاً نقوم بإزالة هذا الكابل.\"",
-        "تعمل Flare على تسخين العوائق ولكنها تعمل بالقرب من الشراع المطوي. يحرق الكابل الساخن ريشة الميمنة في Patch. يزيل الاختصار عائقًا واحدًا ويخلق مشكلة أخرى لا يمكن للفريق تجاهلها.\n\nFlare: \"لقد قمت بتسخينه بالقرب من الشراع.\"",
-        "يقوم Mend بتصحيح الشراع المحترق بقطعة قماش الطوارئ. يقوم كل من Bash وFlare بدعم الركيزة قبل محاولة العبور مرة أخرى. سيسمح لهم الإصلاح بالاستمرار، لكن الحرق سيظل مرئيًا.\n\nBash: \"رقعة، وليس شراعًا جديدًا. نحن نطير ضمن ما يمكن أن يحمله.\"",
-        "مع مسح الكابل وفحص التصحيح، تلاحظ Quiver هدوءًا آخر. تلتزم Bash بفتح البوابة الحالية بينما تقوم Grit بسحب الغالق. إنهم لا يريدون أن تختفي العاصفة، بل مجرد معبر صالح للاستخدام.\n\nQuiver: \"هناك. الآن - وليس إلى الأبد. الآن.\"",
-        "يقوم Grit بقفل البوابة المفتوحة حتى يقوم Patch بمسح كلا الركائز. يقوم Alarm بإيقاف التحذير بمجرد أن يصبح الطريق آمنًا خلفهم. يغير عملهم النتيجة دون أن يغادر أي من المساعدين الصرح.\n\nGrit: \"كلا الركائز خالية. أبقِها مقفلة حتى تتجاوز الصاري.\"",
-        "يصل Patch إلى هواء أكثر هدوءًا فوق البحر. لا يستطيع Flare إزالة الحرق عن طريق الاعتراف به، ولكن يمكنه التوقف عن إنكار التكلفة. يستمع Rain دون تحويل الاعتذار إلى عفو فوري.\n\nFlare: \"هذا الضرر ملكي للمساعدة في إصلاحه.\"\nRain: \"ثم تذكر ذلك عند الاختيار الصعب التالي.\""
+        "يعلو رنين جرس Alarm: كابل مقطوع يعترض الطريق! تبقى البوابة الثقيلة ثابتة بفضل قبضة Grit على مقبض الرافعة. وبدلًا من شق الطريق بالقوة، تتجه السفينة الطائرة Patch بقيادة Bash نحو منصة الصيانة عند البرج.\n\nAlarm: «كابل أمامكم! توقفوا عند منصة الصيانة!»",
+        "تستقر Patch على منصة الصيانة، ويد Bash ثابتة على المكبح. ومع خفوت اهتزاز السفينة، يلفت انتباه Quiver هدوء الريح للحظات. لكن الكابل ما زال ملتفًا حول ذراع الدعم اليمنى، ولا يمكن مواصلة الرحلة قبل فكّه.\n\nQuiver: «الريح تهدأ، لكن علينا فك هذا الكابل أولًا.»",
+        "تسخّن أساور Flare الكابل العالق لفكّه، لكن ذلك يحدث قريبًا جدًا من الشراع. يلامس الطرف المتوهج القماش، فيحرقه ويُحدث فيه ثقبًا. يتحرر الكابل، لكن التسرع يوقع Patch في مشكلة جديدة.\n\nFlare: «قريب جدًا! الكابل أحرق الشراع. هذا خطئي.»",
+        "بغرز Mend المتقنة، تُثبَّت قطعة قماش احتياطية فوق الثقب. وتُضاف دعامة للذراع بجهود Bash وFlare. تغطي الرقعة الفاتحة موضع الضرر، لكن الحافة المتفحمة تظل ظاهرة. خطة Bash هي العبور بثبات، بلا مناورات مفاجئة.\n\nBash: «هذه مجرد رقعة. لا انعطافات حادة؛ نحتاج إلى أن تصمد.»",
+        "الجميع على متن السفينة. تهدأ الريح من جديد للحظات، وترتفع يد Quiver لتشير إلى الأمام. مع فتح Grit للبوابة الثقيلة، تتجه Patch نحو الفتحة بقيادة Bash. العاصفة لم تنتهِ؛ لا بد من اغتنام هذه الفرصة القصيرة للعبور.\n\nQuiver: «هذه فرصتنا! الآن، قبل أن تشتد الريح من جديد!»",
+        "مع قفل Grit للرافعة، تبقى البوابة مفتوحة على مصراعيها بينما تمر Patch بين البرجين. وما إن تتجاوز ذراعا الدعم البوابة بأمان حتى يصمت جرس Alarm. ويستمر عمل Alarm وGrit من موقعيهما، بينما تبتعد السفينة فوق البحر الهائج.\n\nGrit: «عبروا! ستبقى البوابة مفتوحة حتى يبتعدوا تمامًا.»",
+        "تبتعد Patch عن البرجين، لكن المطر ما زال ينساب على نوافذها. في الداخل، Flare وRain جنبًا إلى جنب؛ لا تزال الدموع في عيني Rain، وأثر الخوف لم يزُل بعد. خارج النافذة، تبقى الرقعة والشراع المتفحم تذكيرًا بما حدث. عبور البوابة لم يجعل كل شيء على ما يرام.\n\nFlare: «أعتذر. هذا الضرر بسببي. سأساعد في إصلاحه كما يجب.»\nRain: «في المرة القادمة، أرجوك، سلامتنا أهم من أي حل متسرع.»"
       ],
-      "title": "العاصفة التي لن يتم لكمها"
+      "title": "عاصفة لا توقفها اللكمات"
     },
     "bn": {
       "captions": [
-        "Alarm একটি ছেঁড়া পরিষেবা তারের প্রস্থান রুট অতিক্রম করতে দেখে এবং সতর্কতা ঘণ্টা বাজায়। Grit উইন্ড শাটার স্থির রাখে। Bash জোর করে ক্রসিং করার পরিবর্তে Patch পাইলনের রক্ষণাবেক্ষণ ক্র্যাডেল নিয়ে আসে।\n\nAlarm: \"রুট জুড়ে কেবল! দোলনায় ধরুন!\"",
-        "Quiver হুলের কম্পনে একটি সংক্ষিপ্ত নিস্তব্ধতা লক্ষ্য করে। এটি একটি পর্যবেক্ষণ, গ্যারান্টি নয়। Bash Patch সমর্থিত রাখে যখন ক্রুরা স্টারবোর্ড আউটরিগারের চারপাশে আটকে থাকা কেবলটি পরীক্ষা করে।\n\nQuiver: \"ঝোড়ো বাতাসের ফাঁক আছে। প্রথমে আমরা সেই তারটি পরিষ্কার করি।\"",
-        "Flare স্নাগ মুক্ত গরম করে কিন্তু ভাঁজ করা পালটির খুব কাছাকাছি কাজ করে। হট কেবল Patch এর স্টারবোর্ড ভ্যানকে পুড়িয়ে দেয়। শর্টকাট একটি বাধা দূর করে এবং আরেকটি সমস্যা তৈরি করে যা দল উপেক্ষা করতে পারে না।\n\nFlare: \"আমি এটিকে পালের খুব কাছাকাছি গরম করেছি।\"",
-        "Mend জরুরী কাপড় দিয়ে পোড়া পালকে প্যাচ করে। Bash এবং Flare আবার ক্রসিং চেষ্টা করার আগে আউটরিগার বন্ধন করুন। মেরামত তাদের চালিয়ে যেতে দেবে, কিন্তু পোড়া দৃশ্যমান থাকবে।\n\nBash: \"একটি প্যাচ, একটি নতুন পাল নয়। আমরা যা ধরে রাখতে পারি তার মধ্যেই উড়ে যাই।\"",
-        "তারের পরিষ্কার এবং প্যাচ চেক করার সাথে সাথে, Quiver আরেকটি নিরবতা দেখায়। Bash বিদ্যমান গেট খোলার প্রতিশ্রুতি দেয় যখন Grit শাটারটি প্রত্যাহার করে। তাদের অদৃশ্য হওয়ার জন্য ঝড়ের প্রয়োজন নেই - শুধুমাত্র একটি ব্যবহারযোগ্য ক্রসিং।\n\nQuiver: \"সেখানে। এখন-চিরকাল নয়। এখন।\"",
-        "Grit খোলা গেট লক করে যতক্ষণ না Patch উভয় আউটরিগার পরিষ্কার করে। Alarm তাদের পিছনে রুট নিরাপদ হলে সতর্কতা বন্ধ করে দেয়। তাদের কাজ কোন সাহায্যকারী ছাড়াই ফলাফল পরিবর্তন করে।\n\nGrit: \"উভয় আউটরিগারই পরিষ্কার। যতক্ষণ না তারা মাস্তুল অতিক্রম করছে ততক্ষণ এটিকে লক করে রাখুন।\"",
-        "Patch সমুদ্রের উপরে শান্ত বাতাসে পৌঁছায়। Flare এটা স্বীকার করে বার্ন অপসারণ করতে পারবেন না, কিন্তু খরচ অস্বীকার করা বন্ধ করতে পারেন. Rain ক্ষমা প্রার্থনাকে তাত্ক্ষণিক ক্ষমাতে পরিণত না করেই শোনে।\n\nFlare: \"সেই ক্ষতি মেরামত করতে সাহায্য করার জন্য আমার।\"\nRain: \"তাহলে পরবর্তী কঠিন পছন্দে এটি মনে রাখবেন।\""
+        "Alarm সতর্কতার ঘণ্টা বাজায়—ইস্পাতের একটা ছেঁড়া তার সামনে পথ আটকে আছে। Grit কপিকলের হাতল শক্ত করে ধরে, যাতে ভারী ফটকটা নড়ে না যায়। জোর করে পার হওয়ার বদলে Bash উড়ন্ত জাহাজ Patch-কে টাওয়ারের পাশের মেরামতের প্ল্যাটফর্মের দিকে নিয়ে যায়।\n\nAlarm: “সামনে তার! মেরামতের প্ল্যাটফর্মে থামো!”",
+        "Patch মেরামতের প্ল্যাটফর্মে স্থির হয়ে আছে, আর Bash ব্রেক ধরে রাখে। জাহাজের কাঁপুনি কমতেই Quiver খেয়াল করে, বাতাস কিছুক্ষণের জন্য শান্ত হয়েছে। কিন্তু তারটা এখনও ডান পাশের সহায়ক দণ্ডে জড়িয়ে আছে। ওটা না ছাড়িয়ে যাত্রা শুরু করা যাবে না।\n\nQuiver: “বাতাস কমছে, কিন্তু আগে ওই তারটা ছাড়াতে হবে।”",
+        "Flare কবজির গরম বালা দিয়ে আটকে থাকা তারটা ঢিলে করার চেষ্টা করে, কিন্তু পালের খুব কাছেই কাজটা করে। তারের গনগনে মাথা কাপড়ে লেগে সেটা পুড়িয়ে ফুটো করে দেয়। তারটা খুলে যায় বটে, কিন্তু তাড়াহুড়োর জন্য Patch-এর নতুন বিপদ তৈরি হয়।\n\nFlare: “বড্ড কাছে! তারটা পাল পুড়িয়ে দিল। ভুলটা আমারই।”",
+        "Mend ফুটোর ওপর বাড়তি কাপড়ের একটা টুকরো সেলাই করে দেয়, আর Bash ও Flare সহায়ক দণ্ডে আরেকটি ঠেকনা বসায়। হালকা রঙের তালি ক্ষতিটা ঢাকে, কিন্তু পোড়া ধার এখনও দেখা যায়। Bash ঠিক করে, হঠাৎ দিক না বদলে স্থিরভাবে ফটক পেরোতে হবে।\n\nBash: “এটা শুধু তালি। হঠাৎ বাঁক নেওয়া চলবে না, সেলাইটা টিকিয়ে রাখতে হবে।”",
+        "সবাই জাহাজে উঠে পড়েছে। বাতাস আবার কিছুক্ষণের জন্য কমতেই Quiver সামনে দেখায়। Grit ভারী ফটক খুলে দেয়, আর Bash খোলা পথের দিকে Patch-কে নিয়ে যায়। ঝড় থামেনি; পার হতে হলে এই অল্প সময়ের সুযোগটাই কাজে লাগাতে হবে।\n\nQuiver: “এই তো সুযোগ! এখনই যাও, দমকা হাওয়া ফিরে আসার আগে!”",
+        "Patch দুই টাওয়ারের মাঝ দিয়ে উড়ে যাওয়ার সময় Grit কপিকলের লক লাগিয়ে ফটকটা পুরো খোলা রাখে। দু’পাশের সহায়ক দণ্ড নিরাপদে ফটক পেরিয়ে গেলে Alarm ঘণ্টা বাজানো থামায়। Grit আর Alarm নিজেদের জায়গায় থাকে, আর জাহাজ উত্তাল সমুদ্রের ওপর দিয়ে দূরে উড়ে যায়।\n\nGrit: “ওরা পেরিয়েছে! বেশ খানিকটা দূরে না যাওয়া পর্যন্ত ফটক খোলাই থাকবে।”",
+        "টাওয়ারগুলো পেছনে পড়ে গেছে, কিন্তু Patch-এর জানালা বেয়ে এখনও বৃষ্টির জল গড়াচ্ছে। Flare আর Rain পাশাপাশি বসে আছে। Rain-এর চোখে এখনও জল, ভয়টাও কাটেনি। জানালার বাইরে তালি আর পোড়া পাল মনে করিয়ে দেয় কী ঘটেছিল। ফটক পেরিয়েছে বলেই সব ঠিক হয়ে যায়নি।\n\nFlare: “আমাকে মাফ করো। ক্ষতিটা আমার জন্যই হয়েছে। ঠিকমতো সারিয়ে তুলতে আমিও হাত লাগাব।”\nRain: “পরের বার কিছু করতে ঝাঁপিয়ে পড়ার আগে আমাদের কথাটাও একটু ভেবো।”"
       ],
-      "title": "ঝড় যে ঘুষি হবে না"
+      "title": "ঘুষি মেরে ঝড় থামানো যায় না"
     },
     "cs": {
       "captions": [
-        "Alarm vidí přetržené servisní lanko křižující odjezdovou trasu a zazvoní na výstražný zvonek. Grit drží větrnou clonu pevně. Bash přivádí Patch do kolébky pro údržbu pylonu, místo aby vynucoval křížení.\n\nAlarm: \"Kabel přes cestu! Drž se u kolébky!\"",
-        "Quiver si všimne krátkého klidu ve vibracích trupu. Je to pozorování, nikoli záruka. Bash udržuje Patch podepřenou, zatímco posádka zkoumá lano zachycené kolem pravoboku.\n\nQuiver: \"Poryvy mají mezeru. Nejprve vyčistíme ten kabel.\"",
-        "Flare ohřívá zádrhel, ale pracuje příliš blízko složené plachty. Žhavý kabel sežehne pravou lopatku Patch. Zkratka odstraňuje jednu překážku a vytváří další problém, který tým nemůže ignorovat.\n\nFlare: \"Zahříval jsem to příliš blízko plachty.\"",
-        "Mend záplatuje spálenou plachtu záchrannou látkou. Bash a Flare vyztuží podpěru před dalším pokusem o přejezd. Oprava je nechá pokračovat, ale popálenina zůstane viditelná.\n\nBash: \"Náplast, ne nová plachta. Létáme v rámci toho, co pojme.\"",
-        "Když je kabel čistý a záplata zkontrolována, Quiver zaznamená další klid. Bash se zavazuje k otevření stávající brány, zatímco Grit stahuje závěrku. Nepotřebují, aby bouře zmizela – pouze použitelný přechod.\n\nQuiver: \"Tam. Teď - ne navždy. Teď.\"",
-        "Grit uzamkne otevřenou bránu, dokud Patch neuvolní obě podpěry. Alarm zastaví varování, jakmile je trasa za nimi bezpečná. Jejich práce změní výsledek, aniž by jeden z pomocníků opustil pylon.\n\nGrit: \"Obě podpěry volné. Nechte je zamčené, dokud nepřejdou za stěžeň.\"",
-        "Patch dosahuje klidnějšího vzduchu nad mořem. Flare nemůže odstranit popáleninu tím, že ji přizná, ale může přestat popírat náklady. Rain naslouchá, aniž by omluvu proměnil v okamžitou milost.\n\nFlare: \"To poškození je moje, abych ho pomohl opravit.\"\nRain: \"Tak si to zapamatujte při další obtížné volbě.\""
+        "Alarm zvoní na poplach: cestu vpřed blokuje přetržené ocelové lano. Grit pevně svírá kliku navijáku a drží těžkou bránu na místě. Místo riskantního průletu Bash raději zamíří s létající lodí Patch k opravárenské plošině u věže.\n\nAlarm: „Před vámi je lano! Zastavte na opravárenské plošině!“",
+        "Loď Patch spočívá na opravárenské plošině a Bash drží brzdu. Otřesy trupu slábnou a Quiver si všimne, že vítr na chvíli polevuje. Jenže kolem pravého podpěrného ramena je pořád omotané lano. Dokud ho neuvolní, nemohou odletět.\n\nQuiver: „Vítr slábne, ale nejdřív musíme sundat to lano.“",
+        "Flare pomocí rozpálených náramků uvolňuje zachycené lano, ale pracuje příliš blízko plachty. Rozžhavený konec se dotkne látky a propálí v ní díru. Lano je sice volné, ale kvůli tomu spěchu má loď Patch nový problém.\n\nFlare: „Moc blízko! Lano propálilo plachtu. To je moje chyba.“",
+        "Mend přišívá přes díru kus náhradní látky, zatímco Bash a Flare zpevňují podpěrné rameno výztuhou. Světlá záplata zakrývá poškozené místo, ale ohořelý okraj je stále vidět. Bash proto plánuje klidný průlet branou bez prudkých manévrů.\n\nBash: „Je to jen záplata. Žádné prudké zatáčky, ať nám vydrží.“",
+        "Všichni jsou na palubě. Vítr znovu na chvíli polevuje a Quiver ukazuje před sebe. Grit otevírá těžkou bránu a Bash k ní navádí loď Patch. Bouře neskončila; na průlet mají jen krátkou chvíli.\n\nQuiver: „To je naše šance! Teď, než se vrátí poryvy!“",
+        "Grit zajistí naviják, aby brána zůstala dokořán, zatímco loď Patch prolétá mezi věžemi. Jakmile jsou obě podpěrná ramena bezpečně za bránou, Alarm přestane zvonit. Grit i Alarm dál zůstávají na svých stanovištích a loď se vzdaluje nad rozbouřeným mořem.\n\nGrit: „Jsou venku! Brána zůstane otevřená, dokud nebudou dost daleko.“",
+        "Věže zůstávají za zádí lodi Patch, ale po oknech dál stéká déšť. Flare a Rain sedí vedle sebe; Rain má stále slzy v očích a pořád se nemůže uklidnit. Záplata a ohořelá plachta za oknem připomínají, co se stalo. Průlet branou ještě neznamená, že je všechno v pořádku.\n\nFlare: „Promiň. Tohle je moje vina. Pomůžu to pořádně opravit.“\nRain: „Příště prosím mysli i na nás, než se do něčeho bezhlavě vrhneš.“"
       ],
-      "title": "Bouře, která by nebyla proražena"
+      "title": "Bouře, na kterou pěsti nestačí"
     },
     "de": {
       "captions": [
-        "Alarm sieht ein gerissenes Versorgungskabel, das die Abflugroute kreuzt, und läutet die Warnglocke. Grit hält den Windladen stabil. Bash bringt Patch in die Wartungsstation des Pylons, anstatt die Überquerung zu erzwingen.\n\nAlarm: „Kabel über die Strecke! An der Wiege festhalten!“",
-        "Quiver bemerkt eine kurze Pause in der Vibration des Rumpfes. Es handelt sich um eine Beobachtung, nicht um eine Garantie. Bash unterstützt Patch, während die Besatzung das um den Steuerbordausleger eingeklemmte Kabel untersucht.\n\nQuiver: „Die Böen haben eine Lücke. Zuerst räumen wir das Kabel frei.“",
-        "Flare heizt den Haken frei, arbeitet aber zu nah am gefalteten Segel. Das heiße Kabel versengt die Steuerbordschaufel der Patch. Die Abkürzung beseitigt ein Hindernis und schafft ein weiteres Problem, das das Team nicht ignorieren kann.\n\nFlare: „Ich habe es zu nah am Segel erhitzt.“",
-        "Mend flickt das verbrannte Segel mit dem Notfalltuch. Bash und Flare stützen den Ausleger ab, bevor sie die Überquerung erneut versuchen. Die Reparatur lässt sie weitermachen, aber der Brand bleibt sichtbar.\n\nBash: „Ein Flicken, kein neues Segel. Wir fliegen innerhalb dessen, was es fassen kann.“",
-        "Nachdem das Kabel entfernt und der Patch überprüft wurde, stellt Quiver eine weitere Flaute fest. Bash übernimmt die bestehende Toröffnung, während Grit den Verschluss zurückzieht. Sie brauchen nicht, dass der Sturm verschwindet – nur eine nutzbare Überfahrt.\n\nQuiver: „Da. Jetzt – nicht für immer. Jetzt.“",
-        "Grit verriegelt das offene Tor, bis Patch beide Stützen freigibt. Alarm stoppt die Warnung, sobald die Route hinter ihnen sicher ist. Ihre Arbeit verändert das Ergebnis, ohne dass einer der Helfer den Mast verlässt.\n\nGrit: „Beide Ausleger frei. Halten Sie sie verriegelt, bis sie den Mast passiert haben.“",
-        "Patch erreicht ruhigere Luft über dem Meer. Flare kann den Schaden nicht beseitigen, indem er ihn zugibt, kann aber aufhören, die Kosten zu leugnen. Rain hört zu, ohne die Entschuldigung sofort in eine Begnadigung umzuwandeln.\n\nFlare: „Dieser Schaden liegt bei mir, um bei der Reparatur zu helfen.“\nRain: „Dann denken Sie bei der nächsten schwierigen Entscheidung daran.“"
+        "Alarm läutet die Warnglocke: Ein gerissenes Stahlseil versperrt den Weg. Grit hält die Kurbel der Seilwinde fest, damit sich das schwere Tor nicht bewegt. Statt den Durchflug zu erzwingen, steuert Bash das Flugschiff Patch zur Reparaturplattform am Turm.\n\nAlarm: „Ein Seil im Weg! Haltet an der Reparaturplattform!“",
+        "Patch ruht auf der Reparaturplattform, während Bash die Bremse festhält. Als das Schiff weniger stark zittert, bemerkt Quiver, dass der Wind kurz nachlässt. Doch das Seil ist noch immer um den rechten Stützarm gewickelt. Bevor es entfernt ist, können sie nicht weiterfliegen.\n\nQuiver: „Der Wind lässt nach. Aber erst muss das Seil weg.“",
+        "Flare erhitzt das eingeklemmte Seil mit den heißen Armmanschetten, um es zu lösen, arbeitet dabei aber zu dicht am Segel. Das glühende Ende berührt den Stoff und brennt ein Loch hinein. Das Seil ist frei, aber wegen der Eile hat Patch nun ein neues Problem.\n\nFlare: „Zu nah! Das Seil hat ein Loch ins Segel gebrannt. Das ist meine Schuld.“",
+        "Mend näht ein Stück Ersatzstoff über das Loch, während Bash und Flare den Stützarm mit einer Strebe verstärken. Der helle Flicken bedeckt die beschädigte Stelle, doch der verkohlte Rand bleibt sichtbar. Bash will deshalb ruhig und ohne ruckartige Manöver durch das Tor fliegen.\n\nBash: „Das ist nur ein Flicken. Keine scharfen Kurven – er muss halten.“",
+        "Alle sind an Bord, als der Wind erneut kurz nachlässt und Quiver nach vorn zeigt. Grit öffnet das schwere Tor, und Bash steuert Patch auf die Öffnung zu. Der Sturm ist nicht vorbei; sie müssen diese kurze Gelegenheit zum Durchflug nutzen.\n\nQuiver: „Das ist unsere Chance! Jetzt, bevor die Böen zurückkommen!“",
+        "Grit arretiert die Seilwinde, damit das Tor weit offen bleibt, während Patch zwischen den Türmen hindurchfliegt. Sobald beide Stützarme sicher hindurch sind, hört Alarm auf, die Glocke zu läuten. Die beiden bleiben auf ihren Posten, während das Schiff über das aufgewühlte Meer davonfliegt.\n\nGrit: „Sie sind durch! Das Tor bleibt offen, bis sie weit genug weg sind.“",
+        "Auch jenseits der Türme peitscht der Regen gegen Patchs Fenster. Flare und Rain sitzen nebeneinander. Rain hat noch Tränen in den Augen und ist vom Schrecken gezeichnet. Draußen erinnern der Flicken und das angesengte Segel an das Geschehene. Nur weil sie das Tor hinter sich haben, ist noch nicht alles wieder gut.\n\nFlare: „Es tut mir leid. Ich habe den Schaden angerichtet. Ich helfe, ihn richtig zu reparieren.“\nRain: „Denk beim nächsten Mal bitte an uns, bevor du einfach losstürmst.“"
       ],
-      "title": "Der Sturm, der nicht geschlagen werden wollte"
+      "title": "Gegen diesen Sturm helfen keine Fäuste"
     },
     "en": {
       "captions": [
-        "Alarm sees a torn service cable crossing the departure route and rings the warning bell. Grit holds the wind shutter steady. Bash brings Patch into the pylon’s maintenance cradle rather than forcing the crossing.\n\nAlarm: “Cable across the route! Hold at the cradle!”",
-        "Quiver notices a brief lull in the hull’s vibration. It is an observation, not a guarantee. Bash keeps Patch supported while the crew examines the cable trapped around the starboard outrigger.\n\nQuiver: “The gusts have a gap. First we clear that cable.”",
-        "Flare heats the snag free but works too close to the folded sail. The hot cable scorches Patch’s starboard vane. The shortcut clears one obstruction and creates another problem the team cannot ignore.\n\nFlare: “I heated it too close to the sail.”",
-        "Mend patches the burned sail with the emergency cloth. Bash and Flare brace the outrigger before trying the crossing again. The repair will let them continue, but the burn will remain visible.\n\nBash: “A patch, not a new sail. We fly within what it can hold.”",
-        "With the cable clear and the patch checked, Quiver spots another lull. Bash commits to the existing gate opening while Grit retracts the shutter. They do not need the storm to disappear—only a usable crossing.\n\nQuiver: “There. Now—not forever. Now.”",
-        "Grit locks the open gate until Patch clears both outriggers. Alarm stops the warning once the route is safe behind them. Their work changes the outcome without either helper leaving the pylon.\n\nGrit: “Both outriggers clear. Keep it locked until they are past the mast.”",
-        "Patch reaches calmer air above the sea. Flare cannot remove the burn by admitting it, but can stop denying the cost. Rain listens without turning the apology into an instant pardon.\n\nFlare: “That damage is mine to help repair.”\nRain: “Then remember it on the next difficult choice.”"
+        "Alarm rings the warning bell: a broken cable is blocking the way ahead. Grit grips the winch to keep the heavy gate steady. Rather than force a way through, Bash steers the flying ship Patch toward the tower’s repair platform.\n\nAlarm: “Cable ahead! Stop at the repair platform!”",
+        "Patch rests on the repair platform while Bash holds the brake. As the ship’s shaking eases, Quiver notices a brief lull in the wind. But the cable is still tangled around the right-hand support arm. They cannot leave until the cable is removed.\n\nQuiver: “The wind’s easing—but that cable has to come off first.”",
+        "Flare uses the heated cuffs to loosen the trapped cable, but works too close to the sail. The glowing end catches the fabric and burns a hole in it. The cable comes free, but rushing has left Patch with a new problem.\n\nFlare: “Too close! The cable burned the sail. That’s my fault.”",
+        "Mend stitches spare cloth over the hole while Bash and Flare brace the support arm. The pale patch covers the damage, but the scorched edge still shows. Bash plans a steady flight through the gate, with no sudden moves.\n\nBash: “This is only a patch. No sharp turns—we need it to hold.”",
+        "With everyone aboard, Quiver points ahead as the wind briefly eases again. Grit opens the heavy gate, and Bash guides Patch toward the gap. The storm has not stopped; they need to use this brief chance to get through.\n\nQuiver: “There’s our chance! Go now, before the gusts come back!”",
+        "Grit locks the winch to hold the gate wide open while Patch passes between the towers. Once both support arms are safely clear, Alarm stops ringing the bell. The two helpers stay at their posts as the ship flies out over the rough sea.\n\nGrit: “They’re through! The gate stays open until they’re well clear.”",
+        "Beyond the towers, rain still streaks Patch’s windows. Flare sits beside Rain, who is still tearful and shaken. Outside, the patch and scorched sail are a reminder of what happened. Getting through the gate has not made everything right.\n\nFlare: “I’m sorry. I caused that damage. I’ll help fix it properly.”\nRain: “Next time, please think of us before you rush in.”"
       ],
-      "title": "The Storm That Would Not Be Punched"
+      "title": "A Storm You Can’t Punch Away"
     },
     "es": {
       "captions": [
-        "Alarm ve un cable de servicio roto que cruza la ruta de salida y toca la campana de advertencia. Grit mantiene firme la persiana contra el viento. Bash lleva a Patch al soporte de mantenimiento del pilón en lugar de forzar el cruce.\n\nAlarm: \"¡Cable a lo largo de la ruta! ¡Sujétese del soporte!\"",
-        "Quiver nota una breve pausa en la vibración del casco. Es una observación, no una garantía. Bash mantiene apoyado al Patch mientras la tripulación examina el cable atrapado alrededor del estabilizador de estribor.\n\nQuiver: \"Las ráfagas tienen un hueco. Primero limpiamos ese cable\".",
-        "Flare calienta el enganche pero trabaja demasiado cerca de la vela plegada. El cable caliente quema la paleta de estribor del Patch. El atajo elimina una obstrucción y crea otro problema que el equipo no puede ignorar.\n\nFlare: “Lo calenté demasiado cerca de la vela”.",
-        "Mend parchea la vela quemada con la tela de emergencia. Bash y Flare apuntalan el estabilizador antes de intentar cruzar nuevamente. La reparación les permitirá continuar, pero la quemadura seguirá siendo visible.\n\nBash: \"Un parche, no una vela nueva. Volamos dentro de lo que puede contener\".",
-        "Con el cable limpio y el parche comprobado, Quiver detecta otra pausa. Bash se compromete a abrir la puerta existente mientras que Grit retrae la persiana. No necesitan que la tormenta desaparezca, sólo un cruce utilizable.\n\nQuiver: \"Ahí. Ahora, no para siempre. Ahora\".",
-        "Grit bloquea la puerta abierta hasta que Patch despeja ambos estabilizadores. Alarm detiene la advertencia una vez que la ruta es segura detrás de ellos. Su trabajo cambia el resultado sin que ninguno de los ayudantes abandone el pilón.\n\nGrit: \"Ambos estabilizadores despejados. Manténgalo bloqueado hasta que pasen el mástil\".",
-        "Patch alcanza aire más tranquilo sobre el mar. Flare no puede eliminar la quemadura admitiéndola, pero puede dejar de negar el costo. Rain escucha sin convertir la disculpa en un perdón instantáneo.\n\nFlare: “Ese daño es mío para ayudar a repararlo”.\nRain: “Entonces recuérdalo en la próxima elección difícil”."
+        "Alarm hace sonar la campana de aviso: un cable roto bloquea el camino. Grit sujeta la manivela del cabrestante para mantener quieta la pesada compuerta. En lugar de forzar el paso, Bash dirige la nave voladora Patch hacia la plataforma de mantenimiento de la torre.\n\nAlarm: «¡Un cable por delante! ¡Deténganse en la plataforma de mantenimiento!»",
+        "Patch descansa sobre la plataforma de mantenimiento mientras Bash mantiene el freno accionado. Al notar que la nave se sacude menos, Quiver se da cuenta de que el viento amaina por un momento. Pero el cable sigue enredado en el brazo de apoyo derecho. No pueden partir hasta soltarlo.\n\nQuiver: «El viento está amainando, pero primero hay que quitar ese cable».",
+        "Flare usa los brazaletes calientes para soltar el cable atascado, pero trabaja demasiado cerca de la vela. El extremo al rojo vivo roza la tela y la quema hasta abrir un agujero. El cable queda libre, pero las prisas han creado un nuevo problema para Patch.\n\nFlare: «¡Demasiado cerca! El cable ha quemado la vela. Es culpa mía».",
+        "Mend cose un trozo de tela de repuesto sobre el agujero mientras Bash y Flare fijan un refuerzo al brazo de apoyo. El remiendo claro cubre el daño, pero todavía se ve el borde chamuscado. Bash prepara un vuelo estable a través de la compuerta, sin maniobras bruscas.\n\nBash: «Es solo un remiendo. Nada de giros bruscos: tiene que aguantar».",
+        "Con todo el equipo a bordo, Quiver señala hacia delante cuando el viento vuelve a amainar por un instante. Grit abre la pesada compuerta y Bash guía la nave Patch hacia el hueco. La tormenta no ha terminado; tienen que aprovechar esta breve oportunidad para pasar.\n\nQuiver: «¡Es nuestra oportunidad! ¡Ahora, antes de que vuelvan las ráfagas!»",
+        "Grit bloquea el cabrestante para mantener la compuerta completamente abierta mientras Patch pasa entre las torres. Cuando los dos brazos de apoyo quedan a salvo al otro lado, Alarm deja de tocar la campana. Grit y Alarm permanecen en sus puestos mientras la nave se aleja sobre el mar embravecido.\n\nGrit: «¡Ya han pasado! La compuerta seguirá abierta hasta que estén bien lejos».",
+        "Las torres ya quedan atrás, pero la lluvia sigue resbalando por las ventanas de Patch. Flare se sienta junto a Rain, que todavía tiene lágrimas en los ojos y no se ha recuperado del susto. Fuera, el remiendo y la vela chamuscada recuerdan lo ocurrido. Haber pasado la compuerta no lo ha arreglado todo.\n\nFlare: «Lo siento. Yo causé ese daño. Ayudaré a repararlo como es debido».\nRain: «La próxima vez, por favor, piensa en nosotros antes de precipitarte»."
       ],
-      "title": "La tormenta que no sería golpeada"
+      "title": "Una tormenta que no se vence a puñetazos"
     },
     "fr": {
       "captions": [
-        "Alarm aperçoit un câble de service déchiré traversant l'itinéraire de départ et sonne la sonnette d'alarme. Grit maintient le volet anti-vent stable. Le Bash amène le Patch dans le berceau de maintenance du pylône plutôt que de forcer le passage.\n\nAlarm : \"Câble sur toute la route ! Tenez-vous au berceau !\"",
-        "Le Quiver remarque une brève accalmie dans les vibrations de la coque. C'est une observation, pas une garantie. Le Bash maintient le Patch soutenu pendant que l'équipage examine le câble coincé autour du stabilisateur tribord.\n\nQuiver : \"Les rafales ont un écart. Commençons par dégager ce câble.\"",
-        "Flare chauffe sans accroc mais fonctionne trop près de la voile pliée. Le câble chaud brûle la girouette tribord du Patch. Le raccourci élimine un obstacle et crée un autre problème que l’équipe ne peut ignorer.\n\nFlare : « Je l'ai chauffé trop près de la voile. »",
-        "Mend répare la voile brûlée avec le chiffon d'urgence. Les Bash et Flare calent le stabilisateur avant de tenter à nouveau la traversée. La réparation leur permettra de continuer, mais la brûlure restera visible.\n\nBash : \"Un patch, pas une nouvelle voile. Nous volons dans ce qu'elle peut contenir.\"",
-        "Une fois le câble dégagé et le patch vérifié, le Quiver repère une autre accalmie. Le Bash s'engage sur l'ouverture du portail existant tandis que le Grit rétracte le volet. Ils n’ont pas besoin que la tempête disparaisse, mais seulement d’un passage utilisable.\n\nQuiver : \"Là. Maintenant, pas pour toujours. Maintenant.\"",
-        "Le Grit verrouille la porte ouverte jusqu'à ce que le Patch dégage les deux stabilisateurs. Alarm arrête l'avertissement une fois que l'itinéraire est sûr derrière eux. Leur travail change le résultat sans qu’aucun des assistants ne quitte le pylône.\n\nGrit : \"Les deux stabilisateurs sont dégagés. Gardez-les verrouillés jusqu'à ce qu'ils dépassent le mât.\"",
-        "Le Patch atteint un air plus calme au-dessus de la mer. Flare ne peut pas supprimer la brûlure en l'admettant, mais peut cesser d'en nier le coût. Rain écoute sans transformer les excuses en pardon instantané.\n\nFlare : \"Ces dégâts, c'est à moi que je dois aider à les réparer.\"\nRain : \"Alors souvenez-vous-en lors du prochain choix difficile.\""
+        "Alarm fait sonner la cloche d’alerte : un câble rompu barre le passage. Grit tient fermement la manivelle du treuil pour empêcher la lourde porte de bouger. Plutôt que de forcer le passage, Bash dirige le vaisseau volant Patch vers la plateforme de réparation de la tour.\n\nAlarm : « Un câble devant vous ! Arrêtez-vous sur la plateforme de réparation ! »",
+        "Patch repose sur la plateforme de réparation, tandis que Bash maintient le frein serré. Les secousses du vaisseau s’atténuent : Quiver remarque que le vent se calme un instant. Mais le câble reste enroulé autour du bras stabilisateur droit. Impossible de repartir avant de l’avoir dégagé.\n\nQuiver : « Le vent se calme, mais il faut d’abord enlever ce câble. »",
+        "Flare utilise les bracelets chauffants pour dégager le câble coincé, mais travaille trop près de la voile. Le bout incandescent touche la toile et la brûle jusqu’à la percer. Le câble est libre, mais cette précipitation a causé de nouveaux dégâts à Patch.\n\nFlare : « Trop près ! Le câble a brûlé la voile. C’est ma faute. »",
+        "Mend coud un morceau de tissu de réserve sur le trou pendant que Bash et Flare consolident le bras stabilisateur avec un renfort. Le tissu clair recouvre la zone abîmée, mais le bord noirci reste visible. Bash prévoit donc de franchir la porte en douceur, sans manœuvre brusque.\n\nBash : « Ce n’est qu’un raccommodage. Pas de virages brusques : il faut que ça tienne. »",
+        "Tout le monde est à bord lorsque le vent faiblit de nouveau un instant. Quiver montre le passage. Grit ouvre la lourde porte et Bash dirige Patch vers l’ouverture. La tempête n’est pas finie : il faut profiter de cette brève accalmie pour passer.\n\nQuiver : « C’est notre chance ! Maintenant, avant le retour des rafales ! »",
+        "Grit bloque le treuil pour garder la porte grande ouverte pendant que Patch passe entre les tours. Une fois les deux bras stabilisateurs passés sans encombre, Alarm cesse de sonner la cloche. Tous deux restent à leur poste tandis que le vaisseau s’éloigne au-dessus de la mer déchaînée.\n\nGrit : « Ils sont passés ! La porte reste ouverte jusqu’à ce qu’ils soient bien loin. »",
+        "Au-delà des tours, la pluie ruisselle toujours sur les vitres de Patch. Flare s’assoit à côté de Rain, qui a encore les larmes aux yeux et reste sous le choc. Dehors, la pièce de tissu et la voile noircie rappellent ce qui s’est passé. Franchir la porte n’a pas tout arrangé.\n\nFlare : « Pardon. C’est moi qui ai causé ces dégâts. J’aiderai à les réparer comme il faut. »\nRain : « La prochaine fois, pense à nous avant de foncer, s’il te plaît. »"
       ],
-      "title": "La tempête qui ne voulait pas être frappée"
+      "title": "Une tempête qu’on ne chasse pas à coups de poing"
     },
     "hi": {
       "captions": [
-        "Alarm एक फटी हुई सर्विस केबल को प्रस्थान मार्ग पार करते हुए देखता है और चेतावनी की घंटी बजाता है। Grit विंड शटर को स्थिर रखता है। Bash क्रॉसिंग को मजबूर करने के बजाय Patch को तोरण के रखरखाव पालने में लाता है।\n\nAlarm: \"पूरे रास्ते में केबल! पालने को पकड़ो!\"",
-        "Quiver पतवार के कंपन में एक संक्षिप्त शांति को नोटिस करता है। यह एक अवलोकन है, कोई गारंटी नहीं। Bash Patch को समर्थित रखता है जबकि चालक दल स्टारबोर्ड आउटरिगर के आसपास फंसे केबल की जांच करता है।\n\nQuiver: \"आवेगों में एक गैप है। पहले हम उस केबल को साफ़ करते हैं।\"",
-        "Flare स्नैग फ्री को गर्म करता है लेकिन मुड़े हुए पाल के बहुत करीब काम करता है। गर्म केबल Patch के स्टारबोर्ड वेन को झुलसा देती है। शॉर्टकट एक रुकावट को दूर करता है और दूसरी समस्या पैदा करता है जिसे टीम नज़रअंदाज नहीं कर सकती।\n\nFlare: \"मैंने इसे पाल के बहुत करीब गर्म किया।\"",
-        "Mend जले हुए पाल को आपातकालीन कपड़े से ठीक करता है। Bash और Flare दोबारा क्रॉसिंग का प्रयास करने से पहले आउटरिगर को पकड़ लेते हैं। मरम्मत उन्हें जारी रहने देगी, लेकिन जलन दिखाई देती रहेगी।\n\nBash: \"एक पैच, कोई नई पाल नहीं। यह जितना पकड़ सकता है हम उसी के भीतर उड़ते हैं।\"",
-        "केबल साफ़ होने और पैच की जाँच होने पर, Quiver को एक और शांति का पता चलता है। Bash मौजूदा गेट खोलने के लिए प्रतिबद्ध है जबकि Grit शटर को पीछे हटाता है। उन्हें तूफान के गायब होने की जरूरत नहीं है - केवल एक उपयोगी क्रॉसिंग की।\n\nQuiver: \"वहां। अभी—हमेशा के लिए नहीं। अभी।\"",
-        "Grit खुले गेट को तब तक बंद कर देता है जब तक Patch दोनों आउटरिगर को साफ़ नहीं कर देता। एक बार मार्ग उनके पीछे सुरक्षित हो जाने पर Alarm चेतावनी बंद कर देता है। उनका काम बिना किसी सहायक के तोरण छोड़े परिणाम बदल देता है।\n\nGrit: \"दोनों आउटरिगर साफ हो जाते हैं। इसे तब तक बंद रखें जब तक वे मस्तूल से आगे न निकल जाएं।\"",
-        "Patch समुद्र के ऊपर शांत हवा तक पहुंचता है। Flare इसे स्वीकार करके जलन को दूर नहीं कर सकता, लेकिन लागत से इनकार करना बंद कर सकता है। Rain माफी को तत्काल क्षमा में बदले बिना सुनता है।\n\nFlare: \"वह क्षति मरम्मत में सहायता के लिए मेरी है।\"\nRain: \"फिर इसे अगले कठिन विकल्प पर याद रखें।\""
+        "Alarm ने चेतावनी की घंटी बजाई—एक मोटा तार टूटकर आगे का रास्ता रोक रहा था। Grit ने चरखी का हत्था मज़बूती से थामकर भारी फाटक को हिलने से रोका। ज़बरदस्ती रास्ता बनाने के बजाय Bash ने उड़ने वाले जहाज़ Patch को मीनार के पास बने मरम्मत वाले प्लेटफ़ॉर्म की ओर मोड़ दिया।\n\nAlarm: “आगे तार है! मरम्मत के प्लेटफ़ॉर्म पर रुक जाओ!”",
+        "Patch मरम्मत के प्लेटफ़ॉर्म पर टिका था और Bash ने ब्रेक लगाए रखा। जहाज़ के झटके कम हुए तो Quiver को महसूस हुआ कि हवा कुछ पल के लिए धीमी पड़ गई थी। लेकिन तार अब भी दाईं ओर के सहायक ढाँचे में उलझा था। उसे निकाले बिना आगे बढ़ना संभव नहीं था।\n\nQuiver: “हवा धीमी पड़ रही है, लेकिन पहले यह तार निकालना होगा।”",
+        "Flare ने कलाइयों के गर्म कड़ों से फँसे हुए तार को ढीला करने की कोशिश की, मगर यह काम पाल के बहुत पास हो रहा था। तार के तपते सिरे ने कपड़े को छुआ और उसे जलाकर उसमें छेद कर दिया। तार तो निकल गया, लेकिन इस जल्दबाज़ी से Patch के लिए नई मुसीबत खड़ी हो गई।\n\nFlare: “बहुत पास! तार से पाल जल गया। ग़लती मेरी है।”",
+        "Mend ने रखे हुए कपड़े में से एक टुकड़ा छेद पर सिल दिया। उसी समय Bash और Flare ने सहायक ढाँचे में एक अतिरिक्त टेक लगा दी। हल्के रंग के पैबंद ने छेद ढक दिया था, लेकिन जला हुआ किनारा अब भी दिख रहा था। Bash ने फाटक से सँभलकर उड़ने और अचानक मोड़ न लेने का फ़ैसला किया।\n\nBash: “यह सिर्फ़ पैबंद है। कोई तीखा मोड़ नहीं—इसे टिकाए रखना ज़रूरी है।”",
+        "सब लोग जहाज़ पर लौट चुके थे। हवा फिर कुछ पल के लिए धीमी हुई तो Quiver ने आगे की ओर इशारा किया। Grit ने भारी फाटक खोला और Bash ने Patch को खुले रास्ते की ओर मोड़ा। तूफ़ान थमा नहीं था; निकलने के लिए इसी छोटे से मौके का फ़ायदा उठाना था।\n\nQuiver: “यही मौका है! अभी चलो, इससे पहले कि तेज़ झोंके फिर लौट आएँ!”",
+        "Grit ने चरखी को लॉक कर दिया, ताकि फाटक पूरी तरह खुला रहे और Patch मीनारों के बीच से निकल सके। जैसे ही दोनों तरफ़ के सहायक ढाँचे बिना अटके फाटक से निकल गए, Alarm ने घंटी बजाना बंद कर दिया। Grit और Alarm ने अपनी-अपनी जगह नहीं छोड़ी, जबकि जहाज़ उफनते समुद्र के ऊपर दूर निकल गया।\n\nGrit: “जहाज़ पार हो गया! उसके दूर निकल जाने तक फाटक खुला रहेगा।”",
+        "मीनारें पीछे छूट गई थीं, लेकिन बारिश की बूँदें अब भी Patch की खिड़कियों पर फिसल रही थीं। Flare और Rain ने अगल-बगल की सीटों पर जगह ले ली थी। Rain की आँखें अब भी नम थीं और डर कम नहीं हुआ था। खिड़की के बाहर का पैबंद और जला हुआ पाल उस हादसे की याद दिला रहे थे। फाटक पार कर लेने से सब कुछ ठीक नहीं हो गया था।\n\nFlare: “माफ़ करना। यह नुकसान मेरी वजह से हुआ है। अब इसकी पूरी मरम्मत में हाथ बँटाना मेरी ज़िम्मेदारी है।”\nRain: “अगली बार जल्दबाज़ी करने से पहले ज़रा हम सबके बारे में भी सोचना।”"
       ],
-      "title": "वह तूफ़ान जो मुक्का नहीं मारेगा"
+      "title": "मुक्कों से नहीं थमता तूफ़ान"
     },
     "id": {
       "captions": [
-        "Alarm melihat kabel layanan robek melintasi rute keberangkatan dan membunyikan bel peringatan. Grit menjaga penutup angin tetap stabil. Bash membawa Patch ke dalam dudukan pemeliharaan tiang daripada memaksa penyeberangan.\n\nAlarm: \"Kabel melintasi rute! Tunggu di dudukannya!\"",
-        "Quiver menyadari adanya jeda singkat pada getaran lambung kapal. Ini hanya observasi, bukan jaminan. Bash tetap menopang Patch sementara kru memeriksa kabel yang tersangkut di sekitar cadik kanan.\n\nQuiver: \"Hembusan anginnya ada celahnya. Pertama-tama kita bersihkan kabelnya.\"",
-        "Flare memanaskan layar tanpa hambatan tetapi bekerja terlalu dekat dengan layar yang terlipat. Kabel panas menghanguskan baling-baling kanan Patch. Jalan pintas tersebut menghilangkan satu penghalang dan menciptakan masalah lain yang tidak dapat diabaikan oleh tim.\n\nFlare: “Saya memanaskannya terlalu dekat dengan layar.”",
-        "Mend menambal layar yang terbakar dengan kain darurat. Bash dan Flare menguatkan cadik sebelum mencoba menyeberang lagi. Perbaikan akan terus berlanjut, namun luka bakar akan tetap terlihat.\n\nBash: \"Sebuah tambalan, bukan layar baru. Kami terbang sesuai dengan kemampuan yang dapat ditampungnya.\"",
-        "Dengan kabel yang bersih dan patchnya diperiksa, Quiver menemukan jeda lainnya. Bash berkomitmen pada pembukaan gerbang yang ada sementara Grit menarik kembali rana. Mereka tidak membutuhkan badai untuk menghilang—hanya sebuah penyeberangan yang bisa digunakan.\n\nQuiver: \"Nah. Sekarang—tidak selamanya. Sekarang.\"",
-        "Grit mengunci gerbang yang terbuka hingga Patch membersihkan kedua cadik. Alarm menghentikan peringatan setelah rute di belakangnya aman. Pekerjaan mereka mengubah hasil tanpa ada penolong yang meninggalkan tiang.\n\nGrit: \"Kedua cadik aman. Jaga agar tetap terkunci sampai melewati tiang.\"",
-        "Patch menjangkau udara yang lebih tenang di atas laut. Flare tidak dapat menghilangkan luka bakar dengan mengakuinya, namun dapat berhenti menyangkal biayanya. Rain mendengarkan tanpa mengubah permintaan maaf menjadi pengampunan instan.\n\nFlare: “Kerusakan itu milik saya untuk membantu memperbaikinya.”\nRain: “Kalau begitu ingatlah itu pada pilihan sulit berikutnya.”"
+        "Alarm membunyikan lonceng peringatan: seutas kabel baja yang putus menghalangi jalan. Grit memegang erat engkol kerekan agar gerbang berat itu tidak bergerak. Alih-alih memaksa lewat, Bash mengarahkan kapal udara Patch ke landasan perbaikan di menara.\n\nAlarm: “Ada kabel di depan! Berhenti di landasan perbaikan!”",
+        "Patch bertumpu di landasan perbaikan sementara Bash menahan tuas rem. Saat guncangan kapal berkurang, Quiver menyadari bahwa angin mereda sejenak. Namun, kabel masih melilit lengan penyangga kanan. Mereka belum bisa berangkat sebelum kabel itu dilepaskan.\n\nQuiver: “Anginnya mereda, tapi kabel itu harus dilepas dulu.”",
+        "Flare menggunakan gelang panasnya untuk melonggarkan kabel yang tersangkut, tetapi bekerja terlalu dekat dengan layar. Ujung kabel yang membara menyentuh kain dan membakarnya hingga berlubang. Kabelnya memang lepas, tetapi tindakan yang terburu-buru itu justru menimbulkan masalah baru bagi Patch.\n\nFlare: “Terlalu dekat! Kabelnya membakar layar. Ini salahku.”",
+        "Mend menjahitkan kain cadangan untuk menutupi lubang, sementara Bash dan Flare memasang penopang tambahan pada lengan penyangga. Tambalan berwarna terang menutupi kerusakan, tetapi tepi yang hangus masih terlihat. Bash bersiap terbang melewati gerbang dengan stabil, tanpa gerakan mendadak.\n\nBash: “Ini cuma tambalan. Jangan berbelok tajam; jangan sampai tambalannya lepas.”",
+        "Semua sudah berada di kapal ketika angin kembali mereda sejenak dan Quiver menunjuk ke depan. Grit membuka gerbang berat itu, lalu Bash mengarahkan Patch ke celahnya. Badai belum berakhir; mereka harus memanfaatkan kesempatan singkat ini untuk lewat.\n\nQuiver: “Ini kesempatan kita! Sekarang, sebelum anginnya kencang lagi!”",
+        "Grit mengunci kerekan agar gerbang tetap terbuka lebar saat Patch melintas di antara menara. Setelah kedua lengan penyangga lolos dengan aman, Alarm berhenti membunyikan lonceng. Grit dan Alarm tetap di pos masing-masing sementara kapal terbang menjauh di atas laut yang bergelora.\n\nGrit: “Mereka sudah lewat! Gerbang tetap terbuka sampai mereka benar-benar jauh.”",
+        "Menara sudah tertinggal di belakang, tetapi air hujan masih mengalir di kaca jendela Patch. Flare dan Rain duduk berdampingan. Mata Rain masih berkaca-kaca, dan rasa takutnya belum reda. Di luar jendela, tambalan dan layar yang hangus mengingatkan mereka pada kejadian tadi. Berhasil melewati gerbang bukan berarti semuanya sudah beres.\n\nFlare: “Maaf. Aku yang menyebabkan kerusakan itu. Aku akan ikut memperbaikinya sampai tuntas.”\nRain: “Lain kali, tolong pikirkan kami sebelum bertindak terburu-buru.”"
       ],
-      "title": "Badai yang Tidak Akan Dihantam"
+      "title": "Badai Tak Bisa Dilawan dengan Tinju"
     },
     "it": {
       "captions": [
-        "Alarm vede un cavo di servizio strappato che attraversa il percorso di partenza e suona il campanello d'allarme. Grit mantiene ferma la serranda antivento. Bash porta Patch nella culla di manutenzione del traliccio invece di forzarne l'attraversamento.\n\nAlarm: \"Cavo attraverso il percorso! Tieni la culla!\"",
-        "Quiver nota una breve pausa nelle vibrazioni dello scafo. È un'osservazione, non una garanzia. Bash mantiene Patch supportato mentre l'equipaggio esamina il cavo intrappolato attorno allo stabilizzatore di tribordo.\n\nQuiver: \"Le raffiche hanno un varco. Per prima cosa liberiamo quel cavo. \"",
-        "Flare riscalda senza intoppi ma lavora troppo vicino alla vela ripiegata. Il cavo caldo brucia la banderuola di tribordo dello Patch. La scorciatoia elimina un ostacolo e crea un altro problema che la squadra non può ignorare.\n\nFlare: \"L'ho riscaldato troppo vicino alla vela.\"",
-        "Mend rattoppa la vela bruciata con il telo di emergenza. Bash e Flare rinforzano lo stabilizzatore prima di riprovare la traversata. La riparazione consentirà loro di continuare, ma l'ustione rimarrà visibile.\n\nBash: \"Una toppa, non una nuova vela. Voliamo entro ciò che può contenere.\"",
-        "Con il cavo pulito e la patch selezionata, Quiver rileva un'altra pausa. Bash si impegna all'apertura del cancello esistente mentre Grit ritrae la serranda. Non hanno bisogno che la tempesta scompaia, ma solo una traversata utilizzabile.\n\nQuiver: \"Ecco. Ora, non per sempre. Ora.\"",
-        "Grit blocca il cancello aperto finché Patch non libera entrambi gli stabilizzatori. Alarm interrompe l'avviso una volta che il percorso è sicuro dietro di loro. Il loro lavoro cambia il risultato senza che nessuno degli aiutanti lasci il pilone.\n\nGrit: \"Entrambi gli stabilizzatori sono liberi. Tienilo bloccato finché non hanno oltrepassato l'albero.\"",
-        "Patch raggiunge aria più calma sopra il mare. Flare non può rimuovere l'ustione ammettendola, ma può smettere di negarne il costo. Rain ascolta senza trasformare le scuse in un perdono immediato.\n\nFlare: \"Quel danno è mio e posso aiutarlo a ripararlo.\"\nRain: \"Allora ricordatelo alla prossima scelta difficile.\""
+        "Alarm suona la campana d’allarme: un cavo spezzato sbarra la strada. Grit stringe la manovella dell’argano per tenere fermo il pesante portone. Invece di forzare il passaggio, Bash guida la nave volante Patch verso la piattaforma per le riparazioni accanto alla torre.\n\nAlarm: «Un cavo davanti a voi! Fermatevi sulla piattaforma per le riparazioni!»",
+        "Patch è appoggiata sulla piattaforma per le riparazioni e Bash tiene tirato il freno. Quando gli scossoni della nave si attenuano, Quiver si accorge che il vento cala per un momento. Ma il cavo è ancora avvolto attorno al braccio di sostegno destro. Non possono ripartire prima di averlo liberato.\n\nQuiver: «Il vento sta calando, ma prima dobbiamo togliere quel cavo».",
+        "Flare usa i bracciali riscaldati per liberare il cavo incastrato, ma lavora troppo vicino alla vela. L’estremità incandescente tocca la stoffa e la brucia fino a bucarla. Il cavo è libero, ma la fretta ha creato un nuovo problema per Patch.\n\nFlare: «Troppo vicino! Il cavo ha bruciato la vela. È colpa mia».",
+        "Mend cuce un pezzo di stoffa di scorta sul buco, mentre Bash e Flare fissano un rinforzo al braccio di sostegno. La toppa chiara copre il danno, ma il bordo annerito si vede ancora. Bash decide di attraversare il portone con cautela, senza manovre brusche.\n\nBash: «È solo una toppa. Niente virate brusche: deve reggere».",
+        "Con tutto l’equipaggio a bordo, Quiver indica la strada quando il vento cala di nuovo per un istante. Grit apre il pesante portone e Bash dirige Patch verso il varco. La tempesta non è finita: devono sfruttare questa breve occasione per passare.\n\nQuiver: «È la nostra occasione! Adesso, prima che tornino le raffiche!»",
+        "Grit blocca l’argano per tenere il portone spalancato mentre Patch passa tra le torri. Quando entrambi i bracci di sostegno sono oltre il portone, al sicuro, Alarm smette di suonare la campana. Grit e Alarm restano ai loro posti mentre la nave si allontana in volo sul mare in burrasca.\n\nGrit: «Sono passati! Il portone resta aperto finché non saranno ben lontani».",
+        "Oltre le torri, la pioggia continua a rigare i finestrini di Patch. Flare siede accanto a Rain, che ha ancora gli occhi pieni di lacrime e non riesce a calmarsi. Fuori, la toppa e la vela annerita ricordano ciò che è successo. Superare il portone non ha rimesso tutto a posto.\n\nFlare: «Scusa. Questo danno è colpa mia. Aiuterò a ripararlo come si deve».\nRain: «La prossima volta, per favore, pensa a noi prima di buttarti a capofitto»."
       ],
-      "title": "La tempesta che non sarebbe stata colpita"
+      "title": "Una tempesta non si ferma con i pugni"
     },
     "ja": {
       "captions": [
-        "Alarm は、出発ルートを横切る引き裂かれた引込ケーブルを発見し、警告ベルを鳴らしました。 Gritはウィンドシャッターをしっかりと保持します。 Bash は、横断を強制するのではなく、Patch をパイロンのメンテナンス クレードルに持ち込みます。\n\nAlarm: 「ケーブルでルートを横切ってください! クレードルにつかまってください!」",
-        "Quiver は、船体の振動が一時的に収まったことに気づきました。これは観察であり、保証するものではありません。乗組員が右舷アウトリガーの周りに引っかかっているケーブルを検査している間、Bash は Patch をサポートし続けます。\n\nQuiver: 「突風には隙間があります。まずそのケーブルを取り除きます。」",
-        "Flare は引っかかりをなくしますが、折りたたまれたセイルに近すぎると機能します。熱くなったケーブルが Patch の右舷ベーンを焦がします。ショートカットによって障害が 1 つ解消されますが、チームが無視できない別の問題が生じます。\n\nFlare: 「帆に近づけすぎて加熱してしまいました。」",
-        "Mend は焼けた帆に応急布を当てます。 Bash と Flare は再度横断を試みる前にアウトリガーを固定します。修理により作業は続行できますが、焼け跡は目立ちます。\n\nBash: 「新しい帆ではなく、パッチです。私たちはそれが保持できる範囲内で飛行します。」",
-        "ケーブルをクリアし、パッチをチェックすると、Quiver は再び小康状態を見つけます。 Bash は既存のゲート開口部をコミットし、Grit はシャッターを格納します。嵐が消える必要はありません。ただ使える交差点があればいいのです。\n\nQuiver: 「そこです。今、永遠ではありません。今です。」",
-        "Grit は、Patch が両方のアウトリガーをクリアするまで、開いたゲートをロックします。 Alarm は、背後のルートが安全になると警告を停止します。どちらのヘルパーもパイロンから離れることなく、彼らの仕事が結果を変えます。\n\nGrit: 「両方のアウトリガーが外れます。マストを通過するまでロックしたままにしてください。」",
-        "Patch は海上の穏やかな空気に到達します。 Flare は、それを認めても火傷を取り除くことはできませんが、コストを否定するのをやめることができます。 Rain は謝罪を即座の許しに変えずに耳を傾けます。\n\nFlare: 「その損傷は私が修復するのに役立ちます。」\nRain: 「それでは、次の難しい選択でそれを思い出してください。」"
+        "Alarmが警告の鐘を鳴らす。切れたワイヤーが行く手をふさいでいるのだ。Gritはウインチのハンドルを握りしめ、重い門が動かないように支える。Bashは無理に突破せず、空飛ぶ船Patchを塔の修理用デッキへ向ける。\n\nAlarm：「前にワイヤーがある！ 修理用デッキで止まって！」",
+        "Patchは修理用デッキに収まり、Bashはブレーキをかけたままにしている。船の揺れが弱まると、Quiverは風が一瞬だけおさまったことに気づく。けれど、ワイヤーはまだ右側に張り出したアームに絡まっている。これを外すまでは出発できない。\n\nQuiver：「風が弱まってる。でも、まずはあのワイヤーを外さなきゃ。」",
+        "Flareは熱くなった腕輪を使って、引っかかったワイヤーを外そうとする。けれど、帆に近すぎた。赤く光る先端が布に触れ、帆が焼けて穴が開いてしまう。ワイヤーは外れたものの、急いだせいでPatchには新たな傷ができてしまった。\n\nFlare：「近すぎた！ ワイヤーで帆を焼いてしまった。これは自分のせいだ。」",
+        "Mendは予備の布を穴に当てて縫いつけ、その間にBashとFlareがアームに補強用の支えを取り付ける。淡い色の当て布が穴を覆うが、焦げた縁はまだ見えている。Bashは急な操作を避け、安定した飛行で門を抜けるつもりだ。\n\nBash：「応急処置だから、急旋回はなしだ。修理したところに無理をかけずに飛ぼう。」",
+        "みんなが乗り込んだところで、風がまた一瞬だけ弱まる。Quiverが前を指さす。Gritが重い門を開き、BashはPatchを開いた通路へ導く。嵐が去ったわけではない。この短い隙に通り抜けなければならない。\n\nQuiver：「チャンスは今！ 突風が戻る前に行こう！」",
+        "Gritはウインチを固定し、門を大きく開けたままにする。その間にPatchは二つの塔の間を通り抜ける。左右のアームまで無事に門を抜けたのを見て、Alarmは鐘を鳴らすのをやめる。二人は持ち場に残り、船は荒れる海の上を飛び去っていく。\n\nGrit：「通り抜けた！ 十分に離れるまで、門は開けておく！」",
+        "塔を越えても、雨はまだPatchの窓を伝っている。FlareはRainの隣に座る。Rainの目にはまだ涙が浮かび、不安も消えていない。窓の外の当て布と焦げた帆が、何が起きたのかを物語っている。門を抜けたからといって、すべてが元どおりになるわけではない。\n\nFlare：「ごめん。帆を傷つけてしまった。ちゃんと直すのを手伝うよ。」\nRain：「次は、勢いで動く前に、みんなのことも考えてね。」"
       ],
-      "title": "殴られない嵐"
+      "title": "こぶしでは追い払えない嵐"
     },
     "ko": {
       "captions": [
-        "Alarm는 출발 경로를 가로지르는 찢어진 서비스 케이블을 발견하고 경고 벨을 울립니다. Grit는 윈드 셔터를 안정적으로 유지합니다. Bash는 교차를 강제하는 대신 Patch를 철탑의 유지 관리 크래들로 가져옵니다.\n\nAlarm: \"경로를 가로지르는 케이블! 요람을 붙잡으세요!\"",
-        "Quiver는 선체 진동이 잠시 멈춘 것을 알아차렸습니다. 이는 관찰일 뿐 보장은 아닙니다. 승무원이 우현 아우트리거 주위에 갇힌 케이블을 검사하는 동안 Bash는 Patch를 지지 상태로 유지합니다.\n\nQuiver: \"돌풍에는 틈이 있습니다. 먼저 케이블을 제거합니다.\"",
-        "Flare는 걸림돌을 자유롭게 가열하지만 접힌 돛에 너무 가깝게 작동합니다. 핫 케이블은 Patch의 우현 날개를 태웁니다. 지름길은 한 가지 장애물을 제거하고 팀이 무시할 수 없는 또 다른 문제를 만듭니다.\n\nFlare: \"돛에 너무 가깝게 가열했습니다.\"",
-        "Mend는 비상 천으로 불에 탄 돛을 패치합니다. Bash 및 Flare는 교차를 다시 시도하기 전에 아우트리거를 버팀목으로 지탱합니다. 수리를 하면 계속 진행할 수 있지만 화상은 계속 눈에 띄게 유지됩니다.\n\nBash: \"새로운 돛이 아닌 패치입니다. 우리는 그것이 수용할 수 있는 범위 내에서 비행합니다.\"",
-        "케이블이 깨끗해지고 패치가 확인되자 Quiver는 또 다른 소강 상태를 발견했습니다. Bash는 기존 게이트 열기를 실행하고 Grit는 셔터를 축소합니다. 폭풍이 사라지는 데는 필요하지 않습니다. 단지 건널목만 있으면 됩니다.\n\nQuiver: \"거기요. 지금이요. 영원히는 아니죠. 지금.\"",
-        "Grit는 Patch가 두 아우트리거를 모두 지울 때까지 열린 게이트를 잠급니다. Alarm는 경로가 안전해지면 경고를 중지합니다. 그들의 작업은 도우미가 철탑을 떠나지 않고도 결과를 바꿉니다.\n\nGrit: \"두 아우트리거 모두 깨끗합니다. 마스트를 지나갈 때까지 잠긴 상태로 유지하세요.\"",
-        "Patch는 바다 위의 잔잔한 공기에 도달합니다. Flare는 이를 인정함으로써 화상을 제거할 수는 없지만 비용을 부정하는 것을 멈출 수 있습니다. Rain는 사과를 즉각적인 사면으로 바꾸지 않고 경청합니다.\n\nFlare: \"그 손상은 내가 수리하는 데 도움이 됩니다.\"\nRain: “그럼 다음 어려운 선택에서 그것을 기억하세요.”"
+        "Alarm이 경고 종을 울린다. 끊어진 강철 케이블이 앞길을 가로막고 있다. Grit은 윈치 손잡이를 꽉 잡아 무거운 성문이 움직이지 않도록 버틴다. Bash는 억지로 통과하려 하지 않고, 하늘을 나는 배 Patch를 탑 옆 수리대 쪽으로 몬다.\n\nAlarm: “앞에 케이블이 있어! 수리대에서 멈춰!”",
+        "Patch는 수리대에 놓여 있고, Bash는 브레이크를 잡고 있다. 배의 흔들림이 줄어들자 Quiver는 바람이 잠깐 잦아든 것을 알아챈다. 하지만 케이블은 여전히 오른쪽 지지대에 감겨 있다. 케이블을 풀기 전에는 출발할 수 없다.\n\nQuiver: “바람이 약해지고 있어. 그래도 저 케이블부터 풀어야 해.”",
+        "Flare는 달아오른 손목 보호대의 열로 끼인 케이블을 풀려 하지만, 돛과 너무 가까운 곳에서 작업하고 있다. 붉게 달아오른 케이블 끝이 천을 태워 구멍을 낸다. 케이블은 풀렸지만, 서두른 탓에 Patch에 새 문제가 생기고 만다.\n\nFlare: “너무 가까웠어! 케이블 때문에 돛에 구멍이 났어. 내 잘못이야.”",
+        "Mend는 여분의 천을 구멍 위에 대고 꿰매고, Bash와 Flare는 지지대에 보강용 버팀대를 댄다. 밝은색 천이 손상된 곳을 덮지만, 까맣게 탄 가장자리는 아직 보인다. Bash는 성문을 지날 때 갑자기 방향을 바꾸지 않고 부드럽게 날기로 한다.\n\nBash: “천을 덧대 놓은 것뿐이야. 급하게 꺾지 말고, 수리한 곳에 무리가 가지 않게 날자.”",
+        "모두 배에 탄 뒤, 바람이 다시 잠깐 잦아들자 Quiver가 앞을 가리킨다. Grit이 무거운 성문을 열고, Bash는 Patch를 열린 통로 쪽으로 몬다. 폭풍이 끝난 것은 아니다. 이 짧은 기회를 놓치지 말고 통과해야 한다.\n\nQuiver: “지금이 기회야! 바람이 다시 거세지기 전에 가자!”",
+        "Grit은 윈치를 잠가 활짝 열린 성문이 닫히지 않게 한다. 그사이 Patch가 두 탑 사이를 통과한다. 양쪽 지지대까지 무사히 문을 빠져나오자 Alarm은 종을 치던 손을 멈춘다. Grit과 Alarm은 각자의 자리를 지키고, 배는 거친 바다 위로 멀어져 간다.\n\nGrit: “통과했어! 충분히 멀어질 때까지 문은 열어 둘 거야.”",
+        "탑을 지나왔지만 빗물은 여전히 Patch의 창문을 타고 흐른다. Flare와 Rain은 나란히 앉아 있다. Rain은 아직 마음을 진정시키지 못한 채 눈물을 글썽인다. 창밖의 덧댄 천과 그을린 돛은 조금 전 일을 떠올리게 한다. 성문을 통과했다고 해서 모든 일이 괜찮아진 것은 아니다.\n\nFlare: “미안해. 내가 돛을 망가뜨렸어. 제대로 고치는 데 힘을 보탤게.”\nRain: “다음에는 성급하게 나서기 전에 우리도 생각해 줘.”"
       ],
-      "title": "펀치되지 않는 폭풍"
+      "title": "주먹으로는 막을 수 없는 폭풍"
     },
     "pl": {
       "captions": [
-        "Alarm widzi podarty kabel serwisowy przecinający trasę odlotu i dzwoni dzwonkiem ostrzegawczym. Grit utrzymuje roletę wiatrową stabilnie. Bash przenosi Patch do podstawy konserwacyjnej pylonu, zamiast forsować przejście.\n\nAlarm: \"Kabel w poprzek trasy! Trzymaj się uchwytu!\"",
-        "Quiver zauważa krótką przerwę w wibracjach kadłuba. To obserwacja, a nie gwarancja. Bash podtrzymuje Patch, podczas gdy załoga sprawdza kabel uwięziony wokół prawej wysięgnika.\n\nQuiver: \"Podmuchy mają lukę. Najpierw oczyszczamy ten kabel.\"",
-        "Flare rozgrzewa zaczepy, ale działa zbyt blisko złożonego żagla. Gorący kabel przypala prawą łopatkę Patch. Skrót usuwa jedną przeszkodę i stwarza kolejny problem, którego zespół nie może zignorować.\n\nFlare: „Ogrzałem go zbyt blisko żagla.”",
-        "Mend łata spalony żagiel tkaniną awaryjną. Bash i Flare podpierają podporę przed ponowną próbą przeprawy. Naprawa pozwoli je kontynuować, ale oparzenie pozostanie widoczne.\n\nBash: \"Łatka, a nie nowy żagiel. Latamy w granicach tego, co może pomieścić. \"",
-        "Po oczyszczeniu kabla i sprawdzeniu łatki Quiver zauważa kolejną ciszę. Bash blokuje istniejące otwarcie bramy, natomiast Grit cofa żaluzję. Nie potrzebują, aby burza zniknęła – wystarczy użyteczna przeprawa.\n\nQuiver: \"Tam. Teraz - nie na zawsze. Teraz.\"",
-        "Grit blokuje otwartą bramę, dopóki Patch nie opuści obu podpór. Alarm zatrzymuje ostrzeżenie, gdy trasa za nimi będzie bezpieczna. Ich praca zmienia wynik bez opuszczania pylonu przez żadnego z pomocników.\n\nGrit: \"Obie podpory wolne. Trzymaj je zamknięte, dopóki nie miną masztu.\"",
-        "Patch dociera do spokojniejszego powietrza nad morzem. Flare nie może usunąć oparzenia, przyznając się do niego, ale może przestać zaprzeczać kosztom. Rain słucha, nie zamieniając przeprosin w natychmiastowe ułaskawienie.\n\nFlare: „To uszkodzenie jest moje i pomagam je naprawić.”\nRain: „Więc pamiętaj o tym przy następnym trudnym wyborze.”"
+        "Alarm bije w dzwon: zerwana stalowa lina zagradza drogę. Grit mocno trzyma korbę wciągarki, żeby ciężka brama pozostała nieruchoma. Zamiast ryzykować przelot, Bash kieruje latający statek Patch ku platformie naprawczej przy wieży.\n\nAlarm: „Lina na drodze! Zatrzymajcie się na platformie naprawczej!”",
+        "Patch spoczywa na platformie naprawczej, a Bash trzyma hamulec. Gdy wstrząsy kadłuba słabną, Quiver zauważa, że wiatr na chwilę cichnie. Ale lina nadal jest owinięta wokół prawego wysięgnika. Dopóki jej nie zdejmą, nie mogą odlecieć.\n\nQuiver: „Wiatr słabnie, ale najpierw trzeba zdjąć tę linę”.",
+        "Flare próbuje uwolnić zakleszczoną linę rozgrzanymi bransoletami, ale pracuje zbyt blisko żagla. Rozżarzona końcówka dotyka tkaniny i wypala w niej dziurę. Lina jest wolna, lecz przez ten pośpiech statek Patch ma nowy problem.\n\nFlare: „Za blisko! Lina przepaliła żagiel. To moja wina”.",
+        "Mend naszywa na dziurę kawałek zapasowego materiału, a Bash i Flare wzmacniają wysięgnik dodatkową podporą. Jasna łata zasłania uszkodzenie, lecz osmalony brzeg wciąż widać. Bash planuje spokojny przelot przez bramę, bez gwałtownych manewrów.\n\nBash: „To tylko łata. Żadnych ostrych skrętów — musi wytrzymać”.",
+        "Wszyscy są na pokładzie. Wiatr znowu na moment słabnie, a Quiver wskazuje przed siebie. Grit otwiera ciężką bramę i Bash kieruje statek Patch ku przejściu. Burza się nie skończyła; muszą wykorzystać tę krótką chwilę, żeby przelecieć.\n\nQuiver: „To nasza szansa! Teraz, zanim wrócą porywy!”",
+        "Grit blokuje wciągarkę, by brama pozostała szeroko otwarta, gdy Patch przelatuje między wieżami. Kiedy oba wysięgniki są już bezpiecznie po drugiej stronie, Alarm przestaje bić w dzwon. Grit i Alarm pozostają na swoich stanowiskach, a statek oddala się nad wzburzonym morzem.\n\nGrit: „Przelecieli! Brama zostaje otwarta, aż będą daleko od niej”.",
+        "Wieże zostają za rufą, lecz deszcz wciąż spływa po oknach statku Patch. Flare i Rain siedzą obok siebie. Rain nadal ma łzy w oczach i nie może się uspokoić. Łata i osmalony żagiel za oknem przypominają o tym, co się stało. Przelot przez bramę nie sprawił, że wszystko wróciło do normy.\n\nFlare: „Przepraszam. To moja wina. Pomogę to porządnie naprawić”.\nRain: „Następnym razem pomyśl o nas, proszę, zanim rzucisz się do działania”."
       ],
-      "title": "Burza, której nie dało się pokonać"
+      "title": "Burza, której nie pokonasz pięściami"
     },
     "pt": {
       "captions": [
-        "Alarm vê um cabo de serviço rasgado cruzando a rota de partida e toca a campainha de alerta. Grit mantém a veneziana estável. Bash traz Patch para o berço de manutenção do poste em vez de forçar a travessia.\n\nAlarm: \"Cabo atravessando a rota! Segure no berço!\"",
-        "Quiver percebe uma breve pausa na vibração do casco. É uma observação, não uma garantia. Bash mantém Patch apoiado enquanto a tripulação examina o cabo preso ao redor do estabilizador de estibordo.\n\nQuiver: \"As rajadas têm uma lacuna. Primeiro limpamos esse cabo.\"",
-        "Flare aquece o obstáculo, mas funciona muito perto da vela dobrada. O cabo quente queima a palheta de estibordo do Patch. O atalho elimina uma obstrução e cria outro problema que a equipe não pode ignorar.\n\nFlare: “Aqueci muito perto da vela.”",
-        "Mend remenda a vela queimada com o pano de emergência. Bash e Flare apoiam o estabilizador antes de tentar a travessia novamente. O reparo permitirá que continuem, mas a queimadura permanecerá visível.\n\nBash: \"Um remendo, não uma vela nova. Voamos dentro do que ela pode conter.\"",
-        "Com o cabo limpo e o patch verificado, Quiver detecta outra calmaria. Bash compromete-se com a abertura do portão existente enquanto Grit retrai o obturador. Eles não precisam que a tempestade desapareça – apenas uma travessia utilizável.\n\nQuiver: \"Pronto. Agora - não para sempre. Agora.\"",
-        "Grit trava o portão aberto até que Patch libere ambos os estabilizadores. Alarm interrompe o aviso quando a rota está segura atrás deles. O trabalho deles muda o resultado sem que nenhum dos ajudantes saia do poste.\n\nGrit: \"Ambos os estabilizadores estão livres. Mantenha-os travados até que passem pelo mastro.\"",
-        "Patch atinge ar mais calmo acima do mar. Flare não pode remover a queimadura admitindo-a, mas pode parar de negar o custo. Rain escuta sem transformar o pedido de desculpas em perdão instantâneo.\n\nFlare: “Esse dano é meu para ajudar a reparar.”\nRain: “Então lembre-se disso na próxima escolha difícil.”"
+        "Alarm toca o sino de alerta: um cabo rompido está bloqueando o caminho. Grit segura firme a manivela do guincho para manter o pesado portão no lugar. Em vez de forçar a passagem, Bash conduz a nave voadora Patch até a plataforma de reparos da torre.\n\nAlarm: “Cabo à frente! Parem na plataforma de reparos!”",
+        "Patch repousa na plataforma de reparos enquanto Bash mantém o freio acionado. Quando os solavancos da nave diminuem, Quiver percebe que o vento deu uma breve trégua. Mas o cabo continua enrolado no braço de apoio direito. Não podem partir antes de soltá-lo.\n\nQuiver: “O vento está diminuindo, mas primeiro precisamos tirar esse cabo.”",
+        "Flare usa os braceletes aquecidos para soltar o cabo preso, mas trabalha perto demais da vela. A ponta incandescente encosta no tecido e abre um buraco ao queimá-lo. O cabo fica livre, mas a pressa deixa Patch com um novo problema.\n\nFlare: “Perto demais! O cabo queimou a vela. A culpa é minha.”",
+        "Mend costura um pedaço de tecido de reserva sobre o buraco enquanto Bash e Flare prendem um reforço ao braço de apoio. O remendo claro cobre o estrago, mas a borda chamuscada continua à vista. Bash planeja atravessar o portão com um voo estável, sem manobras bruscas.\n\nBash: “É só um remendo. Nada de curvas fechadas: ele precisa aguentar.”",
+        "Com todos a bordo, Quiver aponta para a frente quando o vento volta a diminuir por um instante. Grit abre o pesado portão, e Bash conduz Patch em direção à passagem. A tempestade não acabou; precisam aproveitar essa breve chance para atravessar.\n\nQuiver: “É a nossa chance! Agora, antes que as rajadas voltem!”",
+        "Grit trava o guincho para manter o portão totalmente aberto enquanto Patch passa entre as torres. Assim que os dois braços de apoio estão do outro lado, em segurança, Alarm para de tocar o sino. Grit e Alarm continuam em seus postos enquanto a nave se afasta sobre o mar revolto.\n\nGrit: “Passaram! O portão fica aberto até estarem bem longe.”",
+        "As torres ficam para trás, mas a chuva continua escorrendo pelas janelas de Patch. Flare se senta ao lado de Rain, que ainda tem lágrimas nos olhos e não se recuperou do susto. Lá fora, o remendo e a vela chamuscada lembram o que aconteceu. Passar pelo portão não resolveu tudo.\n\nFlare: “Desculpa. Fui eu que causei esse estrago. Vou ajudar a consertar direito.”\nRain: “Da próxima vez, por favor, pense na gente antes de se precipitar.”"
       ],
-      "title": "A tempestade que não seria socada"
+      "title": "A tempestade que não se vence com socos"
     },
     "ru": {
       "captions": [
-        "Alarm видит порванный служебный кабель, пересекающий маршрут вылета, и звонит в предупредительный звонок. Grit устойчиво удерживает ветрозащитную ставню. Bash переносит Patch в люльку для обслуживания пилона, а не принудительно пересекает его.\n\nAlarm: \"Кабель через трассу! Держитесь за люльку!\"",
-        "Quiver замечает кратковременное затишье в вибрации корпуса. Это наблюдение, а не гарантия. Bash поддерживает Patch, пока экипаж осматривает трос, зажатый вокруг выносной опоры правого борта.\n\nQuiver: \"У порывов ветра есть разрыв. Сначала мы очистим этот кабель\".",
-        "Flare не нагревает корягу, но работает слишком близко к сложенному парусу. Горячий трос обжигает флюгер правого борта Patch. Короткий путь устраняет одно препятствие и создает еще одну проблему, которую команда не может игнорировать.\n\nFlare: «Я нагрел его слишком близко к парусу».",
-        "Mend залачивает сгоревший парус аварийной тканью. Bash и Flare закрепляют выносную опору перед повторной попыткой пересечения. Ремонт позволит им продолжить работу, но ожог останется видимым.\n\nBash: \"Нашивка, а не новый парус. Мы летаем в пределах того, что он может выдержать\".",
-        "Когда кабель очищен и исправлен патч, Quiver обнаруживает новое затишье. Bash фиксирует существующее открытие ворот, а Grit убирает ставень. Им не нужен шторм, чтобы исчезнуть, — нужен только пригодный для использования переход.\n\nQuiver: \"Вот. Сейчас — не навсегда. Сейчас.\"",
-        "Grit блокирует открытые ворота до тех пор, пока Patch не минует обе выносные опоры. Alarm прекращает предупреждение, как только маршрут позади них становится безопасным. Их работа меняет результат, хотя ни один из помощников не покидает пилон.\n\nGrit: \"Обе опоры свободны. Держите их заблокированными, пока они не пройдут мимо мачты\".",
-        "Patch достигает более спокойного воздуха над морем. Flare не может устранить ожог, признав это, но может перестать отрицать цену. Rain слушает, не превращая извинения в мгновенное прощение.\n\nFlare: «Это повреждение я помогу исправить».\nRain: «Тогда вспомни об этом при следующем трудном выборе»."
+        "Alarm бьёт в сигнальный колокол: оборванный трос преградил путь. Grit крепко держит рукоять лебёдки, не давая тяжёлым воротам сдвинуться. Вместо того чтобы прорываться силой, Bash направляет летающий корабль Patch к ремонтной площадке у башни.\n\nAlarm: «Впереди трос! Остановитесь на ремонтной площадке!»",
+        "Patch стоит на ремонтной площадке, а Bash удерживает тормоз. Корпус трясёт уже не так сильно, и Quiver замечает, что ветер ненадолго стихает. Но трос всё ещё обмотан вокруг правой боковой опоры. Пока его не снимут, лететь дальше нельзя.\n\nQuiver: «Ветер стихает, но сначала надо снять этот трос».",
+        "Flare нагревает застрявший трос горячими браслетами, чтобы его освободить, но работает слишком близко к парусу. Раскалённый конец касается ткани и прожигает в ней дыру. Трос свободен, но из-за спешки у корабля Patch появилась новая проблема.\n\nFlare: «Слишком близко! Трос прожёг парус. Это моя вина».",
+        "Mend пришивает поверх дыры заплатку из запасной ткани, пока Bash и Flare укрепляют боковую опору распоркой. Светлая заплатка закрывает повреждение, но обугленный край всё ещё виден. Bash готовится провести корабль через ворота плавно, без резких манёвров.\n\nBash: «Это всего лишь заплатка. Никаких резких поворотов — она должна выдержать».",
+        "Все на борту. Ветер вновь стихает на мгновение, и Quiver показывает вперёд. Grit открывает тяжёлые ворота, а Bash направляет Patch к проходу. Буря не закончилась: нужно воспользоваться этой короткой передышкой, чтобы пролететь.\n\nQuiver: «Это наш шанс! Сейчас, пока ветер снова не усилился!»",
+        "Grit блокирует лебёдку, чтобы ворота оставались настежь открытыми, пока Patch пролетает между башнями. Как только обе боковые опоры оказываются на безопасном расстоянии за воротами, Alarm перестаёт бить в колокол. Grit и Alarm остаются на своих постах, а корабль удаляется над бушующим морем.\n\nGrit: «Они пролетели! Ворота останутся открытыми, пока они не отлетят подальше».",
+        "За башнями дождь по-прежнему стекает по окнам корабля Patch. Flare и Rain сидят рядом. Rain всё ещё не может сдержать слёз после пережитого. За окном видны светлая заплатка и обгоревший парус — напоминание о случившемся. Пролететь через ворота ещё не значит всё исправить.\n\nFlare: «Прости. Парус пострадал по моей вине. Я помогу как следует его починить».\nRain: «В следующий раз, пожалуйста, подумай о нас, прежде чем действовать сгоряча»."
       ],
-      "title": "Шторм, который не будет пробит"
+      "title": "Бурю кулаками не остановить"
     },
     "tr": {
       "captions": [
-        "Alarm, kalkış rotasından geçen yırtık bir servis kablosunu görür ve uyarı zilini çalar. Grit rüzgar perdesini sabit tutar. Bash, geçişi zorlamak yerine Patch'yi pilonun bakım beşiğine getirir.\n\nAlarm: \"Rota boyunca kablo! Beşiği tutun!\"",
-        "Quiver, gövde titreşiminde kısa bir durgunluk fark etti. Bu bir gözlemdir, garanti değil. Mürettebat sancak payandasının etrafına sıkışan kabloyu incelerken Bash, Patch'yi destekliyor.\n\nQuiver: \"Rüzgarın bir boşluğu var. Önce şu kabloyu temizleyeceğiz.\"",
-        "Flare engeli ortadan kaldıracak şekilde ısıtır ancak katlanmış yelkene çok yakın çalışır. Sıcak kablo Patch'nin sancak kanadını yakıyor. Kısayol bir engeli ortadan kaldırırken ekibin görmezden gelemeyeceği başka bir sorun yaratır.\n\nFlare: “Yelkene çok yakın ısıttım.”",
-        "Mend, yanan yelkeni acil durum beziyle yamalıyor. Bash ve Flare, geçişi tekrar denemeden önce destek ayağını destekleyin. Onarım devam etmesine izin verecek ancak yanık görünür kalacak.\n\nBash: \"Yeni bir yelken değil, bir yama. Onun taşıyabildiği kadarıyla uçuyoruz.\"",
-        "Kablo temizlendiğinde ve yama kontrol edildiğinde Quiver başka bir durgunluk fark ediyor. Bash mevcut kapı açıklığını taahhüt ederken Grit deklanşörü geri çeker. Fırtınanın ortadan kaybolmasına ihtiyaçları yok; yalnızca kullanılabilir bir geçişe ihtiyaçları var.\n\nQuiver: \"Orada. Şimdi... sonsuza kadar değil. Şimdi.\"",
-        "Grit, Patch her iki destek ayağından kurtulana kadar açık kapıyı kilitler. Alarm, rota arkalarında güvenli hale geldiğinde uyarıyı durdurur. Çalışmaları, iki yardımcı da pilondan ayrılmadan sonucu değiştiriyor.\n\nGrit: \"Her iki destek de açıkta. Direği geçene kadar kilitli tutun.\"",
-        "Patch deniz üzerinde daha sakin havaya ulaşır. Flare yanmayı kabul ederek ortadan kaldıramaz ancak maliyetini inkar etmeyi bırakabilir. Rain, özrü anında affedilmeye dönüştürmeden dinliyor.\n\nFlare: \"Bu hasar onarılmaya yardımcı olmak için bana ait.\"\nRain: \"O halde bir sonraki zor seçimde bunu hatırla.\""
+        "Alarm uyarı çanını çalar: kopmuş bir çelik halat yolu kapatmıştır. Grit, ağır kapıyı sabit tutmak için çıkrığın kolunu sıkıca kavrar. Bash, geçidi zorlamak yerine uçan gemi Patch’i kulenin onarım platformuna yönlendirir.\n\nAlarm: “Önde halat var! Onarım platformunda durun!”",
+        "Patch onarım platformunda dururken Bash fren kolunu bırakmaz. Geminin sarsıntısı hafifleyince Quiver rüzgârın kısa bir süreliğine dindiğini fark eder. Ama halat hâlâ sağ destek koluna dolanmıştır. Halat çözülmeden yola devam edemezler.\n\nQuiver: “Rüzgâr hafifliyor ama önce şu halatı çıkarmamız gerek.”",
+        "Flare, kızgın bileklikleriyle sıkışan halatı gevşetmeye çalışırken yelkene fazla yaklaşır. Halatın kor gibi parlayan ucu kumaşa değer ve yakarak bir delik açar. Halat serbest kalır, ama bu acelecilik Patch’e yeni bir sorun çıkarmıştır.\n\nFlare: “Fazla yakın! Halat yelkeni yaktı. Bu benim hatam.”",
+        "Mend deliğin üzerine yedek kumaştan bir parça dikerken Bash ve Flare destek koluna bir payanda takar. Açık renkli yama hasarı örter, ama kararmış kenar hâlâ görünür. Bash, kapıdan ani manevralar yapmadan, dengeli bir uçuşla geçmeyi planlar.\n\nBash: “Bu sadece bir yama. Keskin dönüşler yok; yamanın dayanması gerek.”",
+        "Herkes gemideyken rüzgâr bir kez daha kısa süreliğine hafifler ve Quiver ileriyi işaret eder. Grit ağır kapıyı açarken Bash, Patch’i açıklığa doğru yönlendirir. Fırtına bitmemiştir; geçmek için bu kısa fırsatı değerlendirmeleri gerekir.\n\nQuiver: “İşte fırsatımız! Rüzgâr yeniden şiddetlenmeden, şimdi!”",
+        "Patch kulelerin arasından geçerken Grit kapıyı ardına kadar açık tutmak için çıkrığı kilitler. İki destek kolu da güvenle kapının öte yanına geçince Alarm çanı çalmayı bırakır. Grit ve Alarm yerlerinden ayrılmazken gemi dalgalı denizin üzerinde uzaklaşır.\n\nGrit: “Geçtiler! İyice uzaklaşana kadar kapı açık kalacak.”",
+        "Kuleler geride kalır, ama yağmur hâlâ Patch’in camlarından süzülür. Flare ve Rain yan yana oturur. Rain’in gözleri hâlâ doludur; yaşadığı korku geçmemiştir. Dışarıdaki yama ve yanmış yelken, olanları hatırlatır. Kapıdan geçmek her şeyi düzeltmemiştir.\n\nFlare: “Özür dilerim. Bu hasar benim yüzümden oldu. Onu düzgünce onarmaya ben de yardım edeceğim.”\nRain: “Bir dahaki sefere, lütfen aceleyle harekete geçmeden önce bizi düşün.”"
       ],
-      "title": "Yumruklanmayacak Fırtına"
+      "title": "Yumrukla Dinmeyen Fırtına"
     },
     "vi": {
       "captions": [
-        "Alarm nhìn thấy một dây cáp dịch vụ bị rách băng qua đường khởi hành và rung chuông cảnh báo. Grit giữ cửa chớp gió ổn định. Bash đưa Patch vào bệ bảo trì của tháp thay vì buộc phải vượt qua.\n\nAlarm: \"Cáp xuyên tuyến! Giữ chặt!\"",
-        "Quiver nhận thấy độ rung của thân tàu tạm lắng một thời gian ngắn. Đó là một quan sát, không phải là một sự đảm bảo. Bash giữ Patch được hỗ trợ trong khi phi hành đoàn kiểm tra cáp bị mắc kẹt xung quanh chân chống bên mạn phải.\n\nQuiver: \"Gió giật có một khoảng trống. Đầu tiên chúng ta thông dây cáp đó.\"",
-        "Flare làm nóng phần cánh buồm không bị vướng nhưng hoạt động quá gần với cánh buồm gấp. Dây cáp nóng làm cháy cánh mạn phải của Patch. Lối tắt sẽ xóa bỏ một trở ngại và tạo ra một vấn đề khác mà nhóm không thể bỏ qua.\n\nFlare: “Tôi làm nóng nó quá gần cánh buồm.”",
-        "Mend vá cánh buồm bị cháy bằng vải khẩn cấp. Bash và Flare giằng thanh chống trước khi thử vượt qua lần nữa. Việc sửa chữa sẽ cho phép chúng tiếp tục, nhưng vết bỏng sẽ vẫn còn nhìn thấy được.\n\nBash: \"Một bản vá, không phải một cánh buồm mới. Chúng ta bay trong những gì nó có thể chứa được.\"",
-        "Khi cáp đã được thông thoáng và bản vá đã được kiểm tra, Quiver lại phát hiện một khoảng thời gian tạm lắng khác. Bash cam kết mở cổng hiện có trong khi Grit thu lại màn trập. Họ không cần cơn bão biến mất—chỉ cần một lối đi có thể sử dụng được.\n\nQuiver: \"Đó. Bây giờ—không phải mãi mãi. Bây giờ.\"",
-        "Grit khóa cổng mở cho đến khi Patch xóa cả hai chân chống. Alarm dừng cảnh báo khi tuyến đường phía sau họ an toàn. Công việc của họ thay đổi kết quả mà không cần người trợ giúp rời khỏi tháp.\n\nGrit: \"Cả hai chân chống đều được thông thoáng. Khóa nó cho đến khi chúng vượt qua cột buồm.\"",
-        "Patch mang đến bầu không khí yên tĩnh hơn trên mặt biển. Flare không thể loại bỏ vết bỏng bằng cách thừa nhận nó, nhưng có thể ngừng từ chối chi phí. Rain lắng nghe mà không biến lời xin lỗi thành sự tha thứ ngay lập tức.\n\nFlare: “Thiệt hại đó là của tôi để giúp sửa chữa.”\nRain: “Vậy thì hãy nhớ đến lựa chọn khó khăn tiếp theo.”"
+        "Alarm gióng chuông báo động: một sợi cáp thép bị đứt đang chắn đường. Grit ghì chặt tay quay của tời để giữ cánh cổng nặng đứng yên. Thay vì cố vượt qua, Bash lái con tàu bay Patch về phía sàn sửa chữa bên tháp.\n\nAlarm: “Phía trước có dây cáp! Dừng ở sàn sửa chữa!”",
+        "Patch nằm yên trên sàn sửa chữa, còn Bash giữ chặt phanh. Khi con tàu bớt rung lắc, Quiver nhận ra gió vừa dịu xuống trong chốc lát. Nhưng dây cáp vẫn quấn quanh thanh đỡ bên phải. Cả nhóm chưa thể đi tiếp khi chưa gỡ được nó.\n\nQuiver: “Gió dịu rồi, nhưng phải gỡ dây cáp kia trước đã.”",
+        "Flare dùng đôi vòng tay nóng rực để gỡ dây cáp mắc kẹt, nhưng lại đứng quá gần cánh buồm. Đầu cáp đỏ rực chạm vào vải, khiến cánh buồm cháy thủng. Dây cáp đã được gỡ ra, nhưng sự vội vàng lại khiến Patch gặp rắc rối mới.\n\nFlare: “Sát quá rồi! Dây cáp làm cháy buồm mất rồi. Lỗi tại mình.”",
+        "Mend khâu một mảnh vải dự phòng lên chỗ thủng, trong khi Bash và Flare gia cố thanh đỡ bằng một thanh chống. Miếng vá sáng màu che chỗ hỏng, nhưng mép cháy sém vẫn còn lộ ra. Bash chuẩn bị bay qua cổng thật êm, tránh đổi hướng đột ngột.\n\nBash: “Chỉ mới vá tạm thôi. Đừng ngoặt gấp, kẻo bung đường khâu.”",
+        "Mọi người đã lên tàu. Khi gió lại dịu đi trong chốc lát, Quiver chỉ về phía trước. Grit mở cánh cổng nặng, còn Bash lái Patch về phía khoảng trống. Bão vẫn chưa tan; cả nhóm phải tận dụng cơ hội ngắn ngủi này để vượt qua.\n\nQuiver: “Cơ hội đây rồi! Đi ngay, trước khi gió lại nổi lên!”",
+        "Grit khóa tời để giữ cổng mở hết cỡ trong lúc Patch bay qua giữa hai tháp. Khi cả hai thanh đỡ đã qua cổng an toàn, Alarm ngừng đánh chuông. Grit và Alarm vẫn ở nguyên vị trí, còn con tàu bay xa dần trên mặt biển cuồn cuộn sóng.\n\nGrit: “Qua rồi! Cổng sẽ mở cho đến khi họ ra xa hẳn.”",
+        "Hai ngọn tháp đã ở phía sau, nhưng mưa vẫn chảy dài trên cửa sổ Patch. Flare ngồi cạnh Rain. Rain vẫn chưa hết hoảng sợ, đôi mắt còn ngấn lệ. Ngoài cửa sổ, miếng vá và cánh buồm cháy sém nhắc cả hai nhớ chuyện vừa xảy ra. Qua được cổng không có nghĩa là mọi chuyện đã ổn.\n\nFlare: “Mình xin lỗi. Chính mình đã làm hỏng buồm. Mình sẽ giúp sửa lại cho thật chắc.”\nRain: “Lần sau, cậu hãy nghĩ đến cả nhóm trước khi vội lao vào nhé.”"
       ],
-      "title": "Cơn bão sẽ không bị đấm"
+      "title": "Không thể đấm tan cơn bão"
     },
     "zh": {
       "captions": [
-        "Alarm 看到一条穿过出发路线的服务电缆撕裂，并敲响了警报。 Grit 保持风帘稳定。 Bash 将 Patch 放入塔架的维护支架中，而不是强行穿越。\n\nAlarm：“电缆穿过路线！抓住支架！”",
-        "Quiver 注意到船体振动短暂平静。这是一个观察，而不是一个保证。当船员检查右舷支腿周围的电缆时，Bash 会支撑 Patch。\n\nQuiver：“阵风有间隙。首先我们清理那根电缆。”",
-        "Flare 可以自由加热障碍物，但工作时距离折叠帆太近。热电缆烧焦了 Patch 的右舷叶片。这条捷径清除了一个障碍，但也造成了团队无法忽视的另一个问题。\n\nFlare：“我把它加热得离帆太近了。”",
-        "Mend 用应急布修补烧毁的船帆。 Bash 和 Flare 在再次尝试穿越之前支撑好支腿。修复工作将使它们继续存在，但烧伤仍然可见。\n\nBash：“补丁，不是新帆。我们在它能容纳的范围内飞行。”",
-        "清理电缆并检查补丁后，Quiver 发现了另一个平静。 Bash 致力于现有的门打开，而 Grit 则缩回百叶窗。他们不需要风暴消失——只需要一个可用的渡口。\n\nQuiver：“就在那里。现在——不是永远。现在。”",
-        "Grit 锁定打开的门，直到 Patch 清除两个支腿。一旦路线安全在Alarm身后，Alarm就会停止警告。他们的工作改变了结果，而没有任何一个助手离开塔。\n\nGrit：“两个支腿都已清除。保持锁定，直到它们越过桅杆。”",
-        "Patch 到达海上较平静的空气。 Flare不能通过承认来消除烧伤，但可以停止否认成本。 Rain听着，没有把道歉变成即时的赦免。\n\nFlare：“那个损坏是我来帮忙修复的。”\nRain：“那就在下一个艰难的选择时记住它。”"
+        "Alarm敲响警钟：一根断掉的钢缆挡住了前面的路。Grit握紧绞盘摇柄，让沉重的大门保持不动。Bash没有硬闯，而是驾驶飞船Patch朝塔边的维修平台驶去。\n\nAlarm：“前面有钢缆！先停在维修平台上！”",
+        "Patch停稳在维修平台上，Bash一直拉着刹车。船身的颠簸减轻了，Quiver察觉到风势短暂减弱。可钢缆还缠在右侧的支撑臂上。不把它解开，大家就不能出发。\n\nQuiver：“风小了！不过，得先把那根钢缆解开。”",
+        "Flare用发热的护腕松开卡住的钢缆，却离船帆太近了。烧得通红的缆头碰到帆布，烫出了一个洞。钢缆是解开了，可这番急躁又给Patch添了新的麻烦。\n\nFlare：“太近了！钢缆把帆烧坏了。是我的错。”",
+        "Mend把一块备用布缝在破洞上，Bash和Flare则给支撑臂装上加固撑杆。浅色的补丁盖住了破损处，焦黑的边缘却还露在外面。Bash决定平稳地穿过大门，避免突然转向。\n\nBash：“只是打了个补丁。不能急转弯，得让它撑住。”",
+        "大家都回到船上，风又短暂地弱了下来，Quiver指向前方。Grit打开沉重的大门，Bash驾驶Patch朝门洞飞去。风暴还没有结束，他们得抓住这个短暂的机会穿过去。\n\nQuiver：“就是现在！趁下一阵大风还没来，快过去！”",
+        "Grit锁住绞盘，让大门一直敞开，Patch从两座塔楼之间飞过。等两侧的支撑臂都安全穿过门洞，Alarm才停止敲钟。两人仍守在各自的岗位上，飞船在翻涌的海面上越飞越远。\n\nGrit：“过去了！门先开着，等他们飞远再说。”",
+        "塔楼渐渐落在身后，雨水却仍沿着Patch的舷窗往下淌。Flare坐在Rain身边。Rain眼里还含着泪，惊魂未定。窗外的补丁和焦黑的帆仍在提醒大家刚才发生了什么。穿过大门，并不代表一切都好了。\n\nFlare：“对不起。是我弄坏了船帆。我会帮忙把它彻底修好。”\nRain：“下次别急着动手，先想想我们，好吗？”"
       ],
-      "title": "不会被击打的风暴"
+      "title": "拳头赶不走的风暴"
     }
   },
   "number": 8,
   "panels": [
     {
       "altText": "Alarm stands behind a guardrail and strikes one fixed warning bell using its pivoted mallet. Grit operates a winch bolted into the lower bay.",
-      "bytes": 2043645,
-      "image": "N00E08P01.png",
-      "sha256": "3002255ee4da9bc0cbbe4740314224648bfa4d602a227ac7c1bdb0b5ef37efee"
+      "image": "N00E08P01.png"
     },
     {
       "altText": "Patch rests against the maintenance cradle’s three padded stops. Bash keeps the drive neutral and one mitten on the brake.",
-      "bytes": 2012350,
-      "image": "N00E08P02.png",
-      "sha256": "97cecbad75e578e28835d11d28a8d3ef60d65ceab9f1daca435b646afc9ed89f"
+      "image": "N00E08P02.png"
     },
     {
       "altText": "Flare stands on the cradle’s side catwalk and heats the trapped metal cable end with the right cuff. The released hot end touches the adjacent folded starboard leaf vane, creating one localized black-edged burn.",
-      "bytes": 1945428,
-      "image": "N00E08P03.png",
-      "sha256": "81d421a3b348d32f8cbad9e54395df76826872326f29ad2d48787eba535d2aa3"
+      "image": "N00E08P03.png"
     },
     {
       "altText": "Mend threads ivory emergency cloth through the vane’s existing eyelets, covering the scorch hole without hiding its blackened border. The cloth came from the now-open rear locker visible through the cabin hatch.",
-      "bytes": 1950650,
-      "image": "N00E08P04.png",
-      "sha256": "3f9e598a55767356152163df446520ec1acdee8cedbef7463d63a7807ffc261d"
+      "image": "N00E08P04.png"
     },
     {
       "altText": "Both characters are back inside the sealed canopy. Quiver points through the forward window as the chimes settle again.",
-      "bytes": 1953200,
-      "image": "N00E08P05.png",
-      "sha256": "3d38e941b540499dbf7cc8aea1d3d87eab8df7dfed771b44e2ce5a366e8ec889"
+      "image": "N00E08P05.png"
     },
     {
       "altText": "Grit seats the winch’s locking pawl in its stop, holding the shutter completely inside its side housing. Alarm keeps the bell mallet still after the successful crossing.",
-      "bytes": 1912655,
-      "image": "N00E08P06.png",
-      "sha256": "d1a61cf736d171423fb1bcc775387a6622f1dd8e73f748554e4f79176d840197"
+      "image": "N00E08P06.png"
     },
     {
       "altText": "Flare sits restrained beside Rain, holding the cooled cuffs away from the canopy. The view through the window shows the same blackened edge, ivory stitched patch and temporary outrigger brace.",
-      "bytes": 1828483,
-      "image": "N00E08P07.png",
-      "sha256": "d87f6eaf4f778dd8fa30ed117d1e82a80bc84f59ff9e8efedddc4f83eca73846"
+      "image": "N00E08P07.png"
     }
   ],
   "schema": 1,

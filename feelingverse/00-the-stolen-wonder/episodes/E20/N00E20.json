@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Rain sits beside the low bench where blank Beam remains secured. Bloom carries one folded blanket toward a second, unnamed blanked resident at a separate bench.",
-      "bytes": 1866517,
-      "image": "N00E20P01.png",
-      "sha256": "e011d4c469a848ecfa5693f024d80f5349ce4628b4808147efaa33385143a7ed"
+      "image": "N00E20P01.png"
     },
     {
       "altText": "Still places Sigh’s delivered warning card on a ledge beside Tangle’s fixed tram-route plate. Restored Tangle operates the old wave-marked switch while Fret confirms the evacuation count with three knotted cords.",
-      "bytes": 1793978,
-      "image": "N00E20P02.png",
-      "sha256": "01fa53a73348fe0dff0c3f12a675421f54dcfc9b8899ada1a1d9037077a5dc15"
+      "image": "N00E20P02.png"
     },
     {
       "altText": "Guff operates a festival pulley at the fixed bridge post. Flip, inverted in a secured rigging loop above the post, guides the rope into the wheel groove.",
-      "bytes": 1896689,
-      "image": "N00E20P03.png",
-      "sha256": "3c9914a8f448b1df4a19cf1beb6c432d3acbe22ed33abdc6630b54e4c236c10f"
+      "image": "N00E20P03.png"
     },
     {
       "altText": "Fizz lowers one central festival lantern on its existing pulley until Hope can lift the shielded lamp insert. Puff holds its ordinary paper shade on the dry stone step.",
-      "bytes": 1838590,
-      "image": "N00E20P04.png",
-      "sha256": "a22bcfeefa1d4faf187a8c731ff4d07fa52a07dd40d11dde35ba6c1b137d318e"
+      "image": "N00E20P04.png"
     },
     {
       "altText": "Flare seats a steel guard bar into two old fixed load slots beneath the descending comb. Vex guides the far end into its slot while Quest locks a transparent protective shield in front of the fragile reels.",
-      "bytes": 1863212,
-      "image": "N00E20P05.png",
-      "sha256": "7aa018c0dcf434eba6b02426006277330150f4afefce58dde10060383c4b7969"
+      "image": "N00E20P05.png"
     },
     {
       "altText": "Hush opens only the left shutter of the three-window unit; the center and right shutters remain fully closed. Quiver holds the station’s lamp steady in its fixed bracket while watching the corridor over one shoulder.",
-      "bytes": 1789316,
-      "image": "N00E20P06.png",
-      "sha256": "2a41bea0925ab27b685c0b1851ccb10ef09b5b58298a05aa85206ddb14882af3"
+      "image": "N00E20P06.png"
     },
     {
       "altText": "Null presses the stage control beside the indicator. Exactly four large stage apertures are fully shuttered; one remains open as a narrow illuminated gap.",
-      "bytes": 1837517,
-      "image": "N00E20P07.png",
-      "sha256": "b884214eaa00d994f10cd84d5121b59bb9aba4622f1f203a779a76b3f57bada7"
+      "image": "N00E20P07.png"
     }
   ],
   "schema": 1,

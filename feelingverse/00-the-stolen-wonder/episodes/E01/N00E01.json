@@ -222,45 +222,31 @@
   "panels": [
     {
       "altText": "Rain and Nova sit on the west-bank stone step and hold one damp, unmarked paper moth; a single connected bridge crosses the canal beside the lighthouse on its round east-bank foundation.",
-      "bytes": 1833514,
-      "image": "N00E01P01.png",
-      "sha256": "c6161777e47ea7c08bbeea39f5177d6b896b58be52ea150c615435278c94c349"
+      "image": "N00E01P01.png"
     },
     {
       "altText": "Beam touches a low lamp hood while Fizz holds the pulley rope, Bloom steadies a suspended lantern and small Puff fits its paper shade with both hands; three residents wait behind them.",
-      "bytes": 1865911,
-      "image": "N00E01P02.png",
-      "sha256": "1b1843f0d6ea0387f29df1d1b9a069765e8803444cc605b1afcf7174b0e17f9f"
+      "image": "N00E01P02.png"
     },
     {
       "altText": "On a railed stone maintenance shelf, Flare warms a bolted bronze hinge with one cuff, Quiver watches with three attached chimes, and Mend anchors a rose safety line through a fixed wall ring.",
-      "bytes": 1979933,
-      "image": "N00E01P03.png",
-      "sha256": "332fd9e8dba17ff3c9e90c515314f1037431c0cac2222114892c4ce589309e85"
+      "image": "N00E01P03.png"
     },
     {
       "altText": "Bitter holds one capped sample tube beside a detached glass lantern globe in a wooden cradle; Pop keeps both mittens clear of its oily white streak, while Quest examines it with his brass disk closed.",
-      "bytes": 1747722,
-      "image": "N00E01P04.png",
-      "sha256": "e35bf82158f66eb697d8369aee1b03be8ae9e30ea279a17d326858f6a1373b11"
+      "image": "N00E01P04.png"
     },
     {
       "altText": "Still sits with two eyes and a neutral straight mouth beside smaller Hope, who folds an ivory moth with one blue dot; a shaded lamp, tied-back curtain and reachable latch frame the open garden exit.",
-      "bytes": 1725227,
-      "image": "N00E01P05.png",
-      "sha256": "74f1c034677b56d37e6ad65a5ff43418b46f40274e6afdbe99300811176dfd14"
+      "image": "N00E01P05.png"
     },
     {
       "altText": "Beam sends a modest light through the wet paper moth held by Rain and the clear triangular pane held by Nova; exactly three branches end on the nearby stone, and Nova’s scarf pin remains intact.",
-      "bytes": 1750058,
-      "image": "N00E01P06.png",
-      "sha256": "4cb7c166f234d9b4ae0a3635e3944d52e7e44caa0f0def4e213574f4e755db1b"
+      "image": "N00E01P06.png"
     },
     {
       "altText": "Rain and Nova watch a real white service barge beneath the single bridge; its oval collector hood stands on deck supports above a pale rippled reflection, partly hiding its operator, while the paper moth rests beside Rain’s foot.",
-      "bytes": 1799789,
-      "image": "N00E01P07.png",
-      "sha256": "c9cc09b49956ba045175d83aa5123a444bc25ddbfa9b268115db48ee390d6490"
+      "image": "N00E01P07.png"
     }
   ],
   "schema": 1,
