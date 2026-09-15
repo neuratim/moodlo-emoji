@@ -1,6 +1,6 @@
 {
   "downloadBase": "https://raw.githubusercontent.com/neuratim/moodlo-emoji/main/feelingverse",
-  "generatedAt": "2026-09-15T09:55:34.176325Z",
+  "generatedAt": "2026-09-15T13:54:34.532285Z",
   "licence": "CC0 1.0 Universal (public domain). No attribution required.",
   "narratives": [
     {
@@ -449,7 +449,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E06/N00E06P01.png",
           "files": {
-            "N00E06.json": "27bfe6c6274c8cefec980c97b49789ee7e69aaff769244f00919b21374e725f5",
+            "N00E06.json": "16ec5f67edb430d92cba7aa35349bab3ecf2668b7c07f0c59611c075326ca8a8",
             "N00E06P01.png": "db48b09a6d2f01a0fdfff8c9c218f16d6abe6e8c04c52438ab35a4d0749ff964",
             "N00E06P02.png": "7e8f68acce3053738a648b86f0927049a01764102f71af45acf52d9adf3d8a11",
             "N00E06P03.png": "4a67f01b69a0cbcd627876ddc13ce0e4e1fa2a6bf8653ac6f8d9d437159af06d",
@@ -535,7 +535,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E07/N00E07P01.png",
           "files": {
-            "N00E07.json": "7ba49455eaf0efa10f9f9fc2b03042c2881bca53e2e40d448c91913cbfc07d81",
+            "N00E07.json": "78df9418cbe4b7097f0eea8d6beaed1fd46160fe0894fbc7a82f266b9dfd7dc0",
             "N00E07P01.png": "90e967159a6820511caab6f6b7035e0caad0b90a18345c35cdf4f32530d3697c",
             "N00E07P02.png": "adecb6848b5b588bcf6eeff1f23642620541104dc37262bedeb5c974ede278ac",
             "N00E07P03.png": "daae931b11ea0dc3698befd0dc3ca7fcbe87dad58b04abb4494cfd3cb0d6b8c7",
@@ -621,7 +621,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E08/N00E08P01.png",
           "files": {
-            "N00E08.json": "075586b85b739a4bf4b9680f8df0e8a41375e9e2f64c829a401a4ed485f300a4",
+            "N00E08.json": "767b601a9a0cccadb535572ca8ca7991009e655c1d5041678f0ce9b5c1e00f26",
             "N00E08P01.png": "3002255ee4da9bc0cbbe4740314224648bfa4d602a227ac7c1bdb0b5ef37efee",
             "N00E08P02.png": "97cecbad75e578e28835d11d28a8d3ef60d65ceab9f1daca435b646afc9ed89f",
             "N00E08P03.png": "81d421a3b348d32f8cbad9e54395df76826872326f29ad2d48787eba535d2aa3",
@@ -633,58 +633,58 @@
           "id": "N00E08",
           "localizations": {
             "ar": {
-              "title": "العاصفة التي لن يتم لكمها"
+              "title": "عاصفة لا توقفها اللكمات"
             },
             "bn": {
-              "title": "ঝড় যে ঘুষি হবে না"
+              "title": "ঘুষি মেরে ঝড় থামানো যায় না"
             },
             "cs": {
-              "title": "Bouře, která by nebyla proražena"
+              "title": "Bouře, na kterou pěsti nestačí"
             },
             "de": {
-              "title": "Der Sturm, der nicht geschlagen werden wollte"
+              "title": "Gegen diesen Sturm helfen keine Fäuste"
             },
             "en": {
-              "title": "The Storm That Would Not Be Punched"
+              "title": "A Storm You Can’t Punch Away"
             },
             "es": {
-              "title": "La tormenta que no sería golpeada"
+              "title": "Una tormenta que no se vence a puñetazos"
             },
             "fr": {
-              "title": "La tempête qui ne voulait pas être frappée"
+              "title": "Une tempête qu’on ne chasse pas à coups de poing"
             },
             "hi": {
-              "title": "वह तूफ़ान जो मुक्का नहीं मारेगा"
+              "title": "मुक्कों से नहीं थमता तूफ़ान"
             },
             "id": {
-              "title": "Badai yang Tidak Akan Dihantam"
+              "title": "Badai Tak Bisa Dilawan dengan Tinju"
             },
             "it": {
-              "title": "La tempesta che non sarebbe stata colpita"
+              "title": "Una tempesta non si ferma con i pugni"
             },
             "ja": {
-              "title": "殴られない嵐"
+              "title": "こぶしでは追い払えない嵐"
             },
             "ko": {
-              "title": "펀치되지 않는 폭풍"
+              "title": "주먹으로는 막을 수 없는 폭풍"
             },
             "pl": {
-              "title": "Burza, której nie dało się pokonać"
+              "title": "Burza, której nie pokonasz pięściami"
             },
             "pt": {
-              "title": "A tempestade que não seria socada"
+              "title": "A tempestade que não se vence com socos"
             },
             "ru": {
-              "title": "Шторм, который не будет пробит"
+              "title": "Бурю кулаками не остановить"
             },
             "tr": {
-              "title": "Yumruklanmayacak Fırtına"
+              "title": "Yumrukla Dinmeyen Fırtına"
             },
             "vi": {
-              "title": "Cơn bão sẽ không bị đấm"
+              "title": "Không thể đấm tan cơn bão"
             },
             "zh": {
-              "title": "不会被击打的风暴"
+              "title": "拳头赶不走的风暴"
             }
           },
           "number": 8,
@@ -2246,6 +2246,6 @@
       "version": 5
     }
   ],
-  "revision": 12,
+  "revision": 13,
   "schema": 3
 }
