@@ -1,6 +1,6 @@
 {
   "downloadBase": "https://raw.githubusercontent.com/neuratim/moodlo-emoji/main/feelingverse",
-  "generatedAt": "2026-09-15T13:54:34.532285Z",
+  "generatedAt": "2026-09-16T05:58:27.060203Z",
   "licence": "CC0 1.0 Universal (public domain). No attribution required.",
   "narratives": [
     {
@@ -707,7 +707,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E09/N00E09P01.png",
           "files": {
-            "N00E09.json": "fbe00565bfaa5b06ae9444f6922b2bb6cb4f0edb6b90a2dc4c7d1843c8924d95",
+            "N00E09.json": "30af9c6cb061c736d725a95769157001e318db9c018d2dc11d2a9ab9693b2cce",
             "N00E09P01.png": "b4b63b84827f27f42ccc73ac1288105efb754b35d236317cc1e9dd08133510e4",
             "N00E09P02.png": "b8123387a38e7a753380f0344cdd56e88a3957cf9b1bdd70285124121e72b660",
             "N00E09P03.png": "336e8f09e39122717586b5088e256d9ba9240df5472b93a5f0ff9cec0b5a984d",
@@ -793,7 +793,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E10/N00E10P01.png",
           "files": {
-            "N00E10.json": "b312d5b2789d17a5395f90d97c760d5ae654096c2d0fa7896502263f7c06a698",
+            "N00E10.json": "5336efdae3649b80ea3d35b492b744780ba012b653a056a6d00cad2727132ec1",
             "N00E10P01.png": "289b1d53f0667d8517a9a8c7a8d906be8402d40926b30987b956352ff9b1579a",
             "N00E10P02.png": "f4f2ad3a92dc670f7f1d34b2de295507dc7d54a6bdf20e4a56bad186df8f7475",
             "N00E10P03.png": "8bc13e53f359e169106ca7d6e6575824b14986a111fdf22db69bc2e22f4d2f6d",
@@ -879,7 +879,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E11/N00E11P01.png",
           "files": {
-            "N00E11.json": "ab53409c2616500a343d05975fb1955872e958f1e90a3e0eed67de122d348fcc",
+            "N00E11.json": "bf6f2058652c7428f43e2d8caf5ada90ccb3a81f1b6d43466daa3d4da993e957",
             "N00E11P01.png": "0798a35e62c4acba4bcb85cea6f11cc8975a128c37cfc33564fb546d25a5d0ca",
             "N00E11P02.png": "50810e04ca7ff6e0996957e7376eedcc9936881bbb24585b193a3f6d173bbbc8",
             "N00E11P03.png": "0c2df010aacabc70fa85a529946908cbc5c523340a0205a31d8765461424564a",
@@ -894,7 +894,7 @@
               "title": "الجبل الذي يتنفس"
             },
             "bn": {
-              "title": "দ্যা মাউন্টেন দ্যাট ব্রীডস"
+              "title": "যে পাহাড় শ্বাস নেয়"
             },
             "cs": {
               "title": "Hora, která dýchá"
@@ -912,10 +912,10 @@
               "title": "La montagne qui respire"
             },
             "hi": {
-              "title": "वह पहाड़ जो सांस लेता है"
+              "title": "वह पहाड़ जो साँस लेता है"
             },
             "id": {
-              "title": "Gunung yang Bernafas"
+              "title": "Gunung yang Bernapas"
             },
             "it": {
               "title": "La montagna che respira"
@@ -924,7 +924,7 @@
               "title": "呼吸する山"
             },
             "ko": {
-              "title": "숨쉬는 산"
+              "title": "숨 쉬는 산"
             },
             "pl": {
               "title": "Góra, która oddycha"
@@ -965,7 +965,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E12/N00E12P01.png",
           "files": {
-            "N00E12.json": "7be6dea314070e6805e5604c517e716908c0c8ce0e43edfc4281d820c61f5e90",
+            "N00E12.json": "09732bddd433bda4d14afaedc3a3fafc09a00bec41fb9fbe3d93ed047e618cce",
             "N00E12P01.png": "3edd72033b99220cc2468aeb0db3b4e466cfebf3f0e8c078fec8fe05c9152c6a",
             "N00E12P02.png": "18dfd0f9dcf64b4d935b4f78159471f2d6f581a32103c8694c3d171f0d9fd64f",
             "N00E12P03.png": "f6565e52d2a3fc9e95ad777d201fe7a56dde026ae9cdcbed6afcb40fc995c342",
@@ -1051,7 +1051,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E13/N00E13P01.png",
           "files": {
-            "N00E13.json": "8bc5facc36dac9d11e834d799645320c5a1d9322a36c35fa0930767941211529",
+            "N00E13.json": "6b83779e4ce8a48f5d86e3273b61d6780e648903ca896c05c92cf8ad003c7246",
             "N00E13P01.png": "24363249b6dd49305e5748463e6ea87155ea26448d7fb7ec8ecb229987df14bd",
             "N00E13P02.png": "c7673b4568b6a31325aa298d20c695fc38575bc7436bf8ca92d6d79678a7797c",
             "N00E13P03.png": "9db39c7fe1b8d9a2958cef474ba3211a133048158ef54eb6b0704b6a5f715a72",
@@ -1137,7 +1137,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E14/N00E14P01.png",
           "files": {
-            "N00E14.json": "1aa20ec9388b133f065232d885a4500cd554e96039c580fa08fea1542e275f18",
+            "N00E14.json": "755a1ae3ee3e3cde9d153427352d0224f02e1248d0f7ab8a8e8d0c6b924cc8c6",
             "N00E14P01.png": "57c0002a5947b4a801539c69d4d63463bf4fb7ff02dd0100d009568d427b8aaa",
             "N00E14P02.png": "a0cbe120a716976c78a3a8923457cc77325305bcba5ce4a6f62f35fa6b5b0820",
             "N00E14P03.png": "e10b9f279370b01a58300a50136fa8b5277aa8c3da3a0c95747319e9fc856a10",
@@ -2246,6 +2246,6 @@
       "version": 5
     }
   ],
-  "revision": 13,
+  "revision": 14,
   "schema": 3
 }
