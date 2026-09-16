@@ -1,6 +1,6 @@
 {
   "downloadBase": "https://raw.githubusercontent.com/neuratim/moodlo-emoji/main/feelingverse",
-  "generatedAt": "2026-09-16T05:58:27.060203Z",
+  "generatedAt": "2026-09-16T19:33:04.024379Z",
   "licence": "CC0 1.0 Universal (public domain). No attribution required.",
   "narratives": [
     {
@@ -1223,7 +1223,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E15/N00E15P01.png",
           "files": {
-            "N00E15.json": "b1201bfd35b314b1adea9fac204bfb6e03c6e8f05c5821ad04ebb6cfbbdadbfa",
+            "N00E15.json": "8fd5f97c9fa35ec7810e381b0eb9126328bf1b5006f6f1dd316b8a90a51e85bd",
             "N00E15P01.png": "776b93c9299e9d8baccbd847a2bc502f1f6db7690f80b8937c57056f869f920f",
             "N00E15P02.png": "11c0740d9f26a4c4c7e3dc43638719cc74c3c7ac2d5bf999292352647d747474",
             "N00E15P03.png": "bdacd42343c8ae73786fc383931cf32330a521852c16899cebea031b666aac01",
@@ -1309,7 +1309,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E16/N00E16P01.png",
           "files": {
-            "N00E16.json": "98df0eaa5f00f8f1d7b1efecc6d98e6cc25162340c686fefb85052c27717d8f5",
+            "N00E16.json": "cfa8dca65fe8041b9527c4d1005c223a9064a1b99a413e569c8b922aa3e13ebb",
             "N00E16P01.png": "bdfc4ec2a03cb149a273b05017ddff133fee8a16cc557f02530cbf6d4564b594",
             "N00E16P02.png": "e4833e67bdb0f10b2ae842a70543937b0b5a4cb700cb6742bbbd6cdde0823773",
             "N00E16P03.png": "d1744a034441e385b02a53cbb41e818ae981f3f4975758e1d172ade20b384bf4",
@@ -1395,7 +1395,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E17/N00E17P01.png",
           "files": {
-            "N00E17.json": "426a02620687e9a42eb273f62fad429e1f1020655e707381c2264e96c681f9b5",
+            "N00E17.json": "4310b5dd8ae4c63ed1ef526748620e741c1acf50133437327d24c9d5517397a9",
             "N00E17P01.png": "898ee8c9f8d6950418c04d3f273a853210b025f16e391e60c30732f33a4c4ed5",
             "N00E17P02.png": "e0860ba971f5a00574ee651693df3dc8d783e1deb72cdb646a85611c80fe3e75",
             "N00E17P03.png": "5b82fab6c0bf60936d1db0893e299279e9be4bd13ef5488d36ba86dbe61b6fe0",
@@ -1481,7 +1481,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E18/N00E18P01.png",
           "files": {
-            "N00E18.json": "43ea9f8f2d06c92011f397e2d1173b483f306487aa8ad6da2a831741b480d38c",
+            "N00E18.json": "a97653c1866abe9cd5031a909c804294df1ac82a7fb1391fbe3689830aba802d",
             "N00E18P01.png": "19593f20af91d857ee0e22af69d572321d3a01be2d76c20e2b0cd6eb879afbab",
             "N00E18P02.png": "206e4acc45ebbde57b1a2e4987378c55452c6eb4ada60e5bc718beaab4511837",
             "N00E18P03.png": "e360fe1609e176170c17ed94281ca9cd6cae2b7c02c39060c3c9b09299743ac3",
@@ -1493,13 +1493,13 @@
           "id": "N00E18",
           "localizations": {
             "ar": {
-              "title": "الهروب الذي يكلف ابتسامة"
+              "title": "نجاة ثمنها ابتسامة"
             },
             "bn": {
-              "title": "দ্য এস্কেপ দ্যাট কস্টস এ স্মাইল"
+              "title": "একটি হাসির বিনিময়ে মুক্তি"
             },
             "cs": {
-              "title": "Útěk, který stojí úsměv"
+              "title": "Útěk za cenu úsměvu"
             },
             "de": {
               "title": "Die Flucht, die ein Lächeln kostet"
@@ -1508,43 +1508,43 @@
               "title": "The Escape That Costs a Smile"
             },
             "es": {
-              "title": "El escape que cuesta una sonrisa"
+              "title": "La huida que cuesta una sonrisa"
             },
             "fr": {
-              "title": "L'évasion qui coûte un sourire"
+              "title": "La fuite qui coûte un sourire"
             },
             "hi": {
-              "title": "भागने में एक मुस्कान की कीमत चुकानी पड़ती है"
+              "title": "एक मुस्कान की कीमत पर मिली आज़ादी"
             },
             "id": {
-              "title": "Pelarian yang Membutuhkan Senyuman"
+              "title": "Pelarian Seharga Sebuah Senyum"
             },
             "it": {
-              "title": "La fuga che costa un sorriso"
+              "title": "Una fuga al prezzo di un sorriso"
             },
             "ja": {
-              "title": "笑顔を犠牲にした逃避行"
+              "title": "笑顔と引きかえの脱出"
             },
             "ko": {
-              "title": "미소를 희생해야 하는 탈출"
+              "title": "미소 하나와 맞바꾼 탈출"
             },
             "pl": {
-              "title": "Ucieczka, która kosztuje uśmiech"
+              "title": "Ucieczka za cenę uśmiechu"
             },
             "pt": {
-              "title": "A fuga que custa um sorriso"
+              "title": "Uma fuga ao preço de um sorriso"
             },
             "ru": {
-              "title": "Побег, который стоит улыбки"
+              "title": "Побег ценой улыбки"
             },
             "tr": {
-              "title": "Bir Gülümsemeye Bedel Olan Kaçış"
+              "title": "Bir Gülümsemeye Mal Olan Kaçış"
             },
             "vi": {
-              "title": "Cuộc trốn thoát phải trả giá bằng một nụ cười"
+              "title": "Cuộc thoát thân đánh đổi bằng một nụ cười"
             },
             "zh": {
-              "title": "微笑的逃脱"
+              "title": "以微笑为代价的脱险"
             }
           },
           "number": 18,
@@ -1567,7 +1567,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E19/N00E19P01.png",
           "files": {
-            "N00E19.json": "85980f3fa20d9edc20bef0812aa2585c0f37cfd93c563dd85ccd9fa5e0e8cf01",
+            "N00E19.json": "7c3544e2a6cd39cf5aa9742aa012668ff0e7726972605bbea9f93879c33a71d8",
             "N00E19P01.png": "7afdd60d24b9bb8d1056fc9d4ee3d6f4579af111e99c021cc96a2af686d86bf2",
             "N00E19P02.png": "5ad36a63b97ab5f5f3365c7b93cdb133d91b43535179db51f905762a36c99eb0",
             "N00E19P03.png": "440ba1a7f5b41edac8d27b89be29bc45bff36e8b8aeb540378202710e749bd3f",
@@ -1653,7 +1653,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E20/N00E20P01.png",
           "files": {
-            "N00E20.json": "3634730dfe6a70a3ae9ebb5dff97c60625fbececaf72af17e13537f7683a0d38",
+            "N00E20.json": "85295db5f3e7d6739c1adc7c50f29ea7241c49a42373b7d56ca51900e045c3b6",
             "N00E20P01.png": "e011d4c469a848ecfa5693f024d80f5349ce4628b4808147efaa33385143a7ed",
             "N00E20P02.png": "01fa53a73348fe0dff0c3f12a675421f54dcfc9b8899ada1a1d9037077a5dc15",
             "N00E20P03.png": "3c9914a8f448b1df4a19cf1beb6c432d3acbe22ed33abdc6630b54e4c236c10f",
@@ -1739,7 +1739,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E21/N00E21P01.png",
           "files": {
-            "N00E21.json": "dbcc9ce6caa05cc931ec8375756c221612de59e6a6dc3bec47a8ce567f477468",
+            "N00E21.json": "de9f9386be9003a8d05a12ac96d8ab32e0501be0cd7c7980526acc2f4986c0e6",
             "N00E21P01.png": "05a14a96fe901d1e2236d8ea779adfa37401b2b9884b6aa7fbd2763e4c40966a",
             "N00E21P02.png": "4ec8d9ffbff01db9d2c90cdf3a9e23f2844eaea81d2eff3561eba7bc9e0e55d3",
             "N00E21P03.png": "40867433c928f4e711ba366960fd69b54de8e86ce3abaefe2c1bc6635b21e163",
@@ -1825,7 +1825,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E22/N00E22P01.png",
           "files": {
-            "N00E22.json": "82a0a3a173cc20e32628deb0bc9e1f827af2236dfe1d46b5b9cec2265beccb1d",
+            "N00E22.json": "ca2ad6005569d83686364f638e42fe1a7caa5a9706c743e006cb4f34ead25f2d",
             "N00E22P01.png": "24f20ebdec9a3feaf70424bf7333900f6cce389608bea519a04dc98b2081b739",
             "N00E22P02.png": "28d026cbf4355c97e00ecd40d5468e53870e37f30ba3156b9d2d6632451a29ef",
             "N00E22P03.png": "1d08854ef1d5bf1707f565cc83876812c6c9839e8c2c520ef9fd53ce39366feb",
@@ -1837,58 +1837,58 @@
           "id": "N00E22",
           "localizations": {
             "ar": {
-              "title": "تم العثور على خوف الباب"
+              "title": "الباب الذي وجده الخوف"
             },
             "bn": {
-              "title": "দরজা ভয় পাওয়া গেছে"
+              "title": "ভয় যে দরজা খুঁজে পেল"
             },
             "cs": {
-              "title": "Strach dveří nalezen"
+              "title": "Dveře, které objevil strach"
             },
             "de": {
-              "title": "Die Türangst gefunden"
+              "title": "Die Tür, die die Angst fand"
             },
             "en": {
               "title": "The Door Fear Found"
             },
             "es": {
-              "title": "La puerta encontrada por el miedo"
+              "title": "La puerta que encontró el miedo"
             },
             "fr": {
-              "title": "La peur de la porte trouvée"
+              "title": "La porte que la peur a trouvée"
             },
             "hi": {
-              "title": "डर का दरवाज़ा मिला"
+              "title": "वह दरवाज़ा जो डर ने ढूँढ़ा"
             },
             "id": {
-              "title": "Ketakutan Pintu Ditemukan"
+              "title": "Pintu yang Ditemukan Rasa Takut"
             },
             "it": {
-              "title": "La paura della porta trovata"
+              "title": "La porta che la paura ha trovato"
             },
             "ja": {
-              "title": "ドアの恐怖が見つかりました"
+              "title": "怖さが見つけた扉"
             },
             "ko": {
-              "title": "문 공포 발견"
+              "title": "두려움이 찾아낸 문"
             },
             "pl": {
-              "title": "Znaleziono strach przed drzwiami"
+              "title": "Drzwi, które odnalazł strach"
             },
             "pt": {
-              "title": "O medo da porta encontrado"
+              "title": "A porta que o medo encontrou"
             },
             "ru": {
-              "title": "Дверь страха найдена"
+              "title": "Дверь, которую нашёл страх"
             },
             "tr": {
-              "title": "Kapı Korkusu Bulundu"
+              "title": "Korkunun Bulduğu Kapı"
             },
             "vi": {
-              "title": "Cửa sợ hãi được tìm thấy"
+              "title": "Cánh cửa mà nỗi sợ tìm thấy"
             },
             "zh": {
-              "title": "发现恐惧之门"
+              "title": "恐惧找到的那扇门"
             }
           },
           "number": 22,
@@ -1911,7 +1911,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E23/N00E23P01.png",
           "files": {
-            "N00E23.json": "14264698263c65000e4770a069b2c2a9fcbe9e9cc3a4edaf070e1090d58fc0e9",
+            "N00E23.json": "dbc84191f03524078a772d350ab590fbde691e8f837beabc196529915761bbc5",
             "N00E23P01.png": "2febdb84d7a1bf0dc1a5160dbf05a98352bf856655bbce84d789e6491a9831c8",
             "N00E23P02.png": "49692fa543fd4ad5c1511642f2547ca489ef6d0b1fa42f5714a0cbcccf5e9a02",
             "N00E23P03.png": "e790263bc70a4a045db688b7290e353d8bc1c37b5f82fe76fccbc83af58ceec9",
@@ -1997,7 +1997,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E24/N00E24P01.png",
           "files": {
-            "N00E24.json": "0730292e8c5a28e4ec82291edd543d46590014e4a12b644350da881d8196cd72",
+            "N00E24.json": "d5d79d133e9984f77eb60e1e28b4af7a8b4d1d4572a56a13c911e96bc619a42b",
             "N00E24P01.png": "8214a1cb5ec1afdabcb9a5652ab038f873dd1f653a3d4ebd0b76be98478fb1cf",
             "N00E24P02.png": "f9370d55be24f88efd2f5f798c9db44ad2c403b6f1def8054b513a546e977c43",
             "N00E24P03.png": "d91363c2f8b90b7609c91af93353f5f43f3ebb798cac29eaa80429f64add8a41",
@@ -2083,7 +2083,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E25/N00E25P01.png",
           "files": {
-            "N00E25.json": "9ea3e0a88855e7f743f6dc2d2449744f3c1033ce42a22c6c92264bf635e08a41",
+            "N00E25.json": "97509b51fea024d58677c860a7fa62211983a75925130efd58a6cf76316e2569",
             "N00E25P01.png": "a73f846f249ead7efc367a043d101f072a82d933de59efa7c7a5d41be69a80eb",
             "N00E25P02.png": "66fbbd00c4d15927445bf2f03fd0ba73c0d2454c095e66e85aa3e947a6809150",
             "N00E25P03.png": "9e0cb36a5fb5e242635be21931f0cb2f58ec63fc9ad57a1c6a2e00d385cbfc5a",
@@ -2246,6 +2246,6 @@
       "version": 5
     }
   ],
-  "revision": 14,
+  "revision": 15,
   "schema": 3
 }
