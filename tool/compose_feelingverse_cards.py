@@ -30,21 +30,45 @@ def extract_chapter(assignment, assignment_number, narrative_number):
         chapter = chapter[: next_match.start()]
     scenes = []
     for index, section in enumerate(chapter.split("### Image ")[1:], 1):
-        copy = section.split("**EXACT TEXT", 1)[1].split(
-            "**Viewer must understand:", 1
-        )[0]
-        narration, dialogue = copy.split("**Dialogue**", 1)
-        narration = " ".join(re.findall(r"^> (.+)$", narration, re.MULTILINE))
-        dialogue = [
-            line.replace("**", "")
-            for line in re.findall(r"^> (.+)$", dialogue, re.MULTILINE)
-        ]
+        scene_id = f"N{narrative_number:02}E{assignment_number - 100:02}P{index:02}"
+        if "#### Exact reader-facing English text" in section:
+            copy = section.split("#### Exact reader-facing English text", 1)[1]
+            copy = copy.split("#### Continuity handoff", 1)[0].strip()
+            paragraphs = re.split(r"\n\s*\n", copy)
+            narration = paragraphs[0].strip()
+            dialogue = []
+            for paragraph in paragraphs[1:]:
+                turn = re.fullmatch(r"\*\*(.+?):\*\*\s+(.+)", paragraph, re.DOTALL)
+                if turn is None:
+                    raise ValueError(f"{scene_id}: malformed attributed dialogue")
+                dialogue.append(f"{turn.group(1)}: {turn.group(2)}")
+        else:
+            copy = section.split("**EXACT TEXT", 1)[1].split(
+                "**Viewer must understand:", 1
+            )[0]
+            narration, dialogue = copy.split("**Dialogue**", 1)
+            narration = " ".join(re.findall(r"^> (.+)$", narration, re.MULTILINE))
+            dialogue = [
+                line.replace("**", "")
+                for line in re.findall(r"^> (.+)$", dialogue, re.MULTILINE)
+            ]
         packet = re.search(r"```text\s*(.*?)\s*```", section, re.DOTALL).group(1)
-        assert narration and dialogue and f"SCENE {assignment_number}.{index}" in packet
+        if (
+            not narration
+            or not dialogue
+            or not any(
+                marker in packet
+                for marker in (
+                    f"SCENE {assignment_number}.{index}",
+                    f"SCENE {scene_id}",
+                )
+            )
+        ):
+            raise ValueError(f"{scene_id}: incomplete scene packet")
         scenes.append(
             {
                 "dialogue": dialogue,
-                "id": f"N{narrative_number:02}E{assignment_number - 100:02}P{index:02}",
+                "id": scene_id,
                 "narration": narration,
                 "packet": packet,
             }
