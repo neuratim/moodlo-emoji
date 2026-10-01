@@ -1,6 +1,6 @@
 {
   "downloadBase": "https://raw.githubusercontent.com/neuratim/moodlo-emoji/main/feelingverse",
-  "generatedAt": "2026-10-01T20:15:28.984580Z",
+  "generatedAt": "2026-10-01T20:47:05.060647Z",
   "licence": "CC0 1.0 Universal (public domain). No attribution required.",
   "narratives": [
     {
@@ -19,7 +19,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E01/N00E01P01.png",
           "files": {
-            "N00E01.json": "97cdff3cb3f5560f24900fa1fbfcb6a397456cfae039ee20978ca4ff5ace39dd",
+            "N00E01.json": "5475e1a81c7a0806dc3268724bb5660d7d6c4d807e148e3636c6805ae7da3cb8",
             "N00E01P01.png": "e6e2dd4fae7338fd5e66f30a97aba01854bd337c64130883d65bbdea9cf6b840",
             "N00E01P02.png": "097ae11192756d04a8347dc292a22c7128a6ef61a0d1c51f5be58b25907b8465",
             "N00E01P03.png": "c9e605ba5cd9d03d694654e935e261f19296fb840c5c4a2d9385a619b78a26a5",
@@ -105,7 +105,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E02/N00E02P01.png",
           "files": {
-            "N00E02.json": "e907712acc528bffd7795e9eaf304dd640f9788721a29e12453f00f9b369ffb7",
+            "N00E02.json": "bec69ff1dd0133cdfdd2b0ed3cfbdadacd12b84275c5292d0e011c014be01285",
             "N00E02P01.png": "d2e64c608ce14223a4eb1e3414bef23db6b053bcd925d413857ecd2d7083bc7f",
             "N00E02P02.png": "8da3d3520374b92de85c1964657e40f680e1c25ec31c6778ee062d656e85b0c7",
             "N00E02P03.png": "e5f8d5d904d99f302e9c300985a04390c5e40ab341ba624c36c47f1e520313cc",
@@ -191,7 +191,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E03/N00E03P01.png",
           "files": {
-            "N00E03.json": "af38adc1f46dadf05752d49b9de46cdc4f83a29a8b2c8188c4382970ca4c86c2",
+            "N00E03.json": "972aaf716a9c33f7d3ae28a268a031d724236d7178cbb6881250dfdd2111acad",
             "N00E03P01.png": "959a80a81e8b6688e1e8d749a7cdd507a0cd774c12b4a62e76f15565747d4a85",
             "N00E03P02.png": "470d1ba7d0038e20e3bcf65c0c2c187d44e9bfa57fdf70bcc26ddf83bb71b17f",
             "N00E03P03.png": "a5bb06bbb064797eee25e9dbe5162f7d64592e82dc52dd395157a50e03306a8e",
@@ -277,7 +277,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E04/N00E04P01.png",
           "files": {
-            "N00E04.json": "73a0c8e02cfb5cd89aefef31660e329bd8df94fcf503aef27d585c9625233e5e",
+            "N00E04.json": "09a89ac4afad13813358cadc1ff1b05afc0086795eaca0b3cc97210fb23c5fbf",
             "N00E04P01.png": "b52e0d2d820b1b6b70b114a3dbedd01c8983fbabad956945c6cf5b0e83480d16",
             "N00E04P02.png": "35339b12e2f0abd561645379e36657d63bc83c39259a97b33438df9adc07ce38",
             "N00E04P03.png": "02dd129922d82befe4d756e0c4edff82967ec851c02a2bf0760e1f1ef88f92e3",
@@ -363,7 +363,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E05/N00E05P01.png",
           "files": {
-            "N00E05.json": "fa595829ea7cda72813023761f988711dc623032b8d77f44cda5fed9f46c658a",
+            "N00E05.json": "118505872c663c9de666522453fc71c65ab80c28eb207243b23a112a4a502b50",
             "N00E05P01.png": "9f32118715f05ca47457aeeed2ec1f71592b028bbeba77f3645a36ff09743114",
             "N00E05P02.png": "8fa5d0157bd0064fc02a4b2e7f04a969fb2c7b56aaf0669ac9bf91c03d8b9078",
             "N00E05P03.png": "9c37e009c4be7833c6b96515657f40e5471143fd2bb708cc763d4be9fed4a503",
@@ -449,7 +449,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E06/N00E06P01.png",
           "files": {
-            "N00E06.json": "87764469e2eca3925a2d05c7badd3ef8408c43cae761f30a99ca2c77a8fac356",
+            "N00E06.json": "84ab6de2e0fcf42e3d57bd5fd045a638e08b3e1f16bc6ade3e3d91c6e6db2187",
             "N00E06P01.png": "d06706f5c1be4b4c7633a40df447c68c76441dbba299eb4eb68d89b923853598",
             "N00E06P02.png": "466e0448eca021890eef06745f9e56ab147e2941262277e85669136d4621eb51",
             "N00E06P03.png": "92596d32440c6a13ab414e15e39bd68b08e3011c602cd0073e067e895f6f0530",
@@ -535,7 +535,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E07/N00E07P01.png",
           "files": {
-            "N00E07.json": "56e981b2548c1a8647489635fbe176860866083267f7cf634cfdf416caf3d5d4",
+            "N00E07.json": "e68b6a94ba20a12ca77c735635ea94e8a2fd1ef057466bb02291901d90ebd32f",
             "N00E07P01.png": "92ee3c838927b55c0fe94135ee7660616466d625b542706ebb8ba067b0c41523",
             "N00E07P02.png": "32dda5aa94340a4f73ffb84325d2b1094f4a86887db21fc55b2584a54b362764",
             "N00E07P03.png": "d7f26ae20bb01147a8f0cebe1c9332160ac6c34118da660e4d2eb2668fd1bef7",
@@ -621,7 +621,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E08/N00E08P01.png",
           "files": {
-            "N00E08.json": "bdd5ee21069f7f4c00127d68ab55461337965d36e3eed0e6d05c190aba1683d7",
+            "N00E08.json": "2ee29acff74854d02c5f929b8b0d0567bf6f929b125d1e5424e0f8df01b4ce75",
             "N00E08P01.png": "867c189ab655b42d2865896d1d9a08a50e1afdfd9bff6d9547e9db40095ce28a",
             "N00E08P02.png": "4130d52699970e16bd405829db597f58825b2e62506ed6c4ed0b72b9d5b2701c",
             "N00E08P03.png": "bb26b900777b6cb79dbb3d59970b9cd53dcd23038e86603e9224c8e4653c7ed5",
@@ -707,7 +707,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E09/N00E09P01.png",
           "files": {
-            "N00E09.json": "4e3c1d4f1051d7fff2e2783a5b9cf2fa14972bcc08e88be7fa2db7157728ae9d",
+            "N00E09.json": "7357ffaac2f960ed6afc070b47c5ebe71028c845ed1950a04176ff488a3f6c3b",
             "N00E09P01.png": "6f3897cd7d1771e3dfa62e14943f0c54db8620b5f355f43b6272e747cd851241",
             "N00E09P02.png": "4bba7162a040dda1f01a16540ae92a7858ff92d8f3aee47f2a9e3172128e3cad",
             "N00E09P03.png": "a14ab691784b9461c5761dbe61f8131817eef5e6e43413a7e957f61eb61953f4",
@@ -793,7 +793,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E10/N00E10P01.png",
           "files": {
-            "N00E10.json": "dfc26a0ae9f752db91e5d32b8afeac8f637fd9ee1b20cca524b650890083cb4d",
+            "N00E10.json": "c4bb04fbbc87756a1d7ba2d5377c955ab267d7c1efc44120512ea7cab10da1f4",
             "N00E10P01.png": "74adf827e04d85de01b0f87ebb405f103ddecf8bd4d50cf55513e689aa366209",
             "N00E10P02.png": "c889e7d4ccda0fc8c9c71fe1674857fb24bdc1a71fe92b4b9170096f28124400",
             "N00E10P03.png": "fb7726b50a2cf3365e9bed2c50f55eaf9a4b75bc9ff9d68e0fc0667556a17018",
@@ -879,7 +879,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E11/N00E11P01.png",
           "files": {
-            "N00E11.json": "f07915928e37e078a8f074151a0406adad76b27e84773a0a86b8db96d33604b3",
+            "N00E11.json": "d0a19fa098aebf16fb7ab64eacc135fc08b437214c92c35ae0020545c5a29b43",
             "N00E11P01.png": "e30430be9f4755e54d5513e486bc92d1a0bea22911ad6515d08f3b343d48fc6a",
             "N00E11P02.png": "2df952411528793ccb1e110568a84d11ddb23426175092f7c76750a74b610246",
             "N00E11P03.png": "84472c07e8bc3a7d63000c2bb64b99a5e09e640dac29634a54993045276fb35b",
@@ -965,7 +965,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E12/N00E12P01.png",
           "files": {
-            "N00E12.json": "ebd89dec0bb36218ca1a4cbbadbacdeccef62867572958c5cabb7fe3ae1c66fe",
+            "N00E12.json": "d31b2296b6d5aad655c682b5222383e7f127ae561c70dc5f63b0b3e41801c639",
             "N00E12P01.png": "72be91e91ea56825033fd840959e55fbdd3e427b176958e5d2c99d8732ef354f",
             "N00E12P02.png": "1f317abe5bda2891a60b32583251458ecf657b0593e62392752ff6d1565b1477",
             "N00E12P03.png": "badcfc99043107453a7a17bada40c7a5d394da96d388b83895fb6e1980efd606",
@@ -1051,7 +1051,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E13/N00E13P01.png",
           "files": {
-            "N00E13.json": "e7f20d2a25993d833ba8168feed9df8d3ad57dd3b8e12ca740a9cdbcf377efb7",
+            "N00E13.json": "a20af18d0c8a75737712efe2dfae56037afd44fa29b6c246f4f6a0ad47ec8d64",
             "N00E13P01.png": "8b87d7021a2303e03f3d5b09787dc5a19de51e6ab1fa17cfbcc27a2739fa1330",
             "N00E13P02.png": "e5c6751594e3fe859ac14ad5402ecf6facac14cfe742fc23f3eea66f8e247ddf",
             "N00E13P03.png": "5906e09aa09149281c13100dbc9cde704928fd69e2be4b46f7d3273825f2164e",
@@ -1137,7 +1137,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E14/N00E14P01.png",
           "files": {
-            "N00E14.json": "96223be4e8566e3801c46b9b48e1f61a4996b196a3985f08488c8e2ec852c4c7",
+            "N00E14.json": "6b321d194a69b271dd0479f3db13bfdbb3a4d85841916d8ba76e0c66ef5b91c3",
             "N00E14P01.png": "f43e42e6bf8706d81fc6e78cea1ea75d975a91df4c57324850fb1e888643e317",
             "N00E14P02.png": "d391d9f804ed7c419809cb3376553a6e2c1b628930eec34455d5b855218a5e10",
             "N00E14P03.png": "1658a1baf2e58b9e7270fcb707e9ae6da69109c6289ef0de2aea05484f6f36f6",
@@ -1223,7 +1223,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E15/N00E15P01.png",
           "files": {
-            "N00E15.json": "11838aa88e3e22511a71347fd949846bda65fc70685781834595bc6bd7d33c17",
+            "N00E15.json": "b1a686cd7fee8af64233b29f53565db6f64d5dfe55f25cbf38caed0d4d441879",
             "N00E15P01.png": "3a0371f3b8250b88df7ae8b047d791700d559da50b60ae4535f56a84583c5ae6",
             "N00E15P02.png": "31d12c5838f0f4180ed10252bdf0f4be48e8af3f422a656495d47b43032e6d02",
             "N00E15P03.png": "23db6b9fdbaff93d683e54ffe037adb5d3e2fa08282945ce30c9d1bf8a307681",
@@ -1309,7 +1309,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E16/N00E16P01.png",
           "files": {
-            "N00E16.json": "6735fc3988bc111933bbc8be6ffaa79bdf0f07da444435611c898343e38ac216",
+            "N00E16.json": "694bdf91739dd65e34d05748df2e36906de9b4888825130d1671a2866a561731",
             "N00E16P01.png": "3b383d8b84307faefce753234cd9d5e5ea78cb5e4f8174a924476315005eccb4",
             "N00E16P02.png": "c8ab0d9952c9776242a81fc7d1b3c8e5216e3829607f22392c63a3da27372204",
             "N00E16P03.png": "d28619aab1d9d5ff43e3e6199df0b794fd23001357782b6266a12d54b9e9aef8",
@@ -1395,7 +1395,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E17/N00E17P01.png",
           "files": {
-            "N00E17.json": "b25546543c7eb63d96fffb76aee1f2961ba252f18d8eb41285e8f0bf229f772a",
+            "N00E17.json": "d8d8cb39b957e1d766a1b5b21e751c651343c08186053df92e59f9bccb6848c4",
             "N00E17P01.png": "46629fb231e12590af1d1f3a5b59e59ae1c45b43c1a15ac59a1afd19ce8d1a66",
             "N00E17P02.png": "97982409ad28467c973260dea15c9bd575ce6b461eee72f149e03e411ff55470",
             "N00E17P03.png": "6c69b0e7a8e8ffc5323d6cb84f47c7854fb7250943105b571ac4e4c9615ae6a2",
@@ -1481,7 +1481,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E18/N00E18P01.png",
           "files": {
-            "N00E18.json": "7150e3962f3c6f9ba5e9659350b0186cdde8ee01d8a742cb04323fe001445ec7",
+            "N00E18.json": "fe24e35896124e1b7dad88a47977531e2094d6634788e826ca66baf2e292529b",
             "N00E18P01.png": "aaeeda9f99a3454239181e67e83ad93943891cbb04cfb1da90b38133b4cb862c",
             "N00E18P02.png": "15dfd38136896441bb5b4816f4b189759686d0081b3801824ed7479f16bd75cb",
             "N00E18P03.png": "370f7fd40db757603297f3ec5f827e9ea00cadcb44863d0a188ac4114d15f78d",
@@ -1567,7 +1567,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E19/N00E19P01.png",
           "files": {
-            "N00E19.json": "7e7fdf241044acc7c4e01c63ccdab62d930ef897db6e952bbe8bc3047ff0c3a8",
+            "N00E19.json": "2eb48e358bb028e64ac858eb6b02af41e4a02dbcdb1c36c558751c949852946e",
             "N00E19P01.png": "004dbd94711ebbb446c0dc2e637076f8f30f2f00fd75bed2a8bf8155d9c3e356",
             "N00E19P02.png": "4fd4a2df38fad6d11cdb850bb6d316638a5834eb9513222d7342b9303e4d5598",
             "N00E19P03.png": "5b1afc32bc8e773ffcf72661327cb03c288cf26a071bac62e2fb3c6cde76d80d",
@@ -1653,7 +1653,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E20/N00E20P01.png",
           "files": {
-            "N00E20.json": "ff563f0f813a55703db97d71701616ff4aded7780d75e8836d63a09923c5108d",
+            "N00E20.json": "ab398370594a784b07ad717738c38574986b8ba682397912acd458586352e145",
             "N00E20P01.png": "c772949a1058d76c94d45150e917813e58a8a8e151598578ab6605d1e58177eb",
             "N00E20P02.png": "3b02fb966fa31edaf3675f3ea1a8e8b7dfc01570c7c350d09d7e1a7a1e3f7c44",
             "N00E20P03.png": "69699bd30f3d0496190bf5f99b53493f02ffb0a404b2370f57b9c6372484e59f",
@@ -1739,7 +1739,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E21/N00E21P01.png",
           "files": {
-            "N00E21.json": "c369c9e4bb0c688db6b0b16b5bb103977c1a3a40de6a872dfbc1e47485da4385",
+            "N00E21.json": "aca5d35bb577fea90515bad4994f2ac1c0b18264dad2244ceb100714397948d5",
             "N00E21P01.png": "832c62f9fef1c42fbc97af739fc25960d63289f813a4e582f8fe9696345f784a",
             "N00E21P02.png": "a7b122c3663e5ef6e9cc48e5733a2be9455f316f3531b31940713d3d6f4dab0d",
             "N00E21P03.png": "0d79af342aa19a94196f0012843b303d16ec10e47da68a3fc7db898671a3cfb8",
@@ -1825,7 +1825,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E22/N00E22P01.png",
           "files": {
-            "N00E22.json": "c79d5d54e417248ef2622da438df0464f307110c55e6152a728049a5167cd089",
+            "N00E22.json": "086d87f0729650fa72f3bdd0f0a6745a2c068f18dd1ebb70c4ddfdb30c898db0",
             "N00E22P01.png": "9e0b6a722a171fbf79e4089b3d9707b34e68d7efb89da27293d19f4e6a33c323",
             "N00E22P02.png": "dc2fe0bc36d83ce86b4d95e74085aff5ffe3740626f0d9a0dacee16ef9c66391",
             "N00E22P03.png": "3ba059ff30794ee64c8e71fe5dd54a129bdaf15cd788b4309d537f46ad90c03b",
@@ -1911,7 +1911,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E23/N00E23P01.png",
           "files": {
-            "N00E23.json": "11609b0d2a8a789ad446bff0639fad500ee9c87028fe64ee4eb0cfdcd75a4c7d",
+            "N00E23.json": "16133e046b90007e33143e5a5e7843eb57621698f4828a4621608c923cd1db1e",
             "N00E23P01.png": "0979e76f1cc5f2a469bff5a54e7f10a544debfc2f2d495c5e89ec93019caba6c",
             "N00E23P02.png": "190646ef14988ad63984c96a43b7188bd329b96f0e98d9e3c1eb4ab07f09291d",
             "N00E23P03.png": "e8a6a3bbc2b825e2c262b5f7298981e1145c97cbaf8746fa0ba954052ea974ad",
@@ -1997,7 +1997,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E24/N00E24P01.png",
           "files": {
-            "N00E24.json": "115a7e0766841ec8922ba5d3ffee09370d3ca96bcdab9c9a1a4a011df8bf9f41",
+            "N00E24.json": "3dee9dcd4df859beaaa94c276adb933d77fab9ed5bb88d163b77bd05e275b19b",
             "N00E24P01.png": "22af1c4c92ab57d2749a65ed213b73ed975f1e8521243bc17af91b059ba9820a",
             "N00E24P02.png": "35a41fd4e7a53696af1c4eed08a1fe49bf9586488875ccb7fb32f653d7afb3d3",
             "N00E24P03.png": "af996143dbd8d242d15b16319dd2b4d082389821bfc88faaf25fce7e0d753d1c",
@@ -2083,7 +2083,7 @@
           },
           "cover": "00-the-stolen-wonder/episodes/E25/N00E25P01.png",
           "files": {
-            "N00E25.json": "ff0adc6b772220ac46a7e493eaf258300e82a9bb67e47db462d32dc33d55bd59",
+            "N00E25.json": "f85d0c1138e42d649415012a530e4e24e652c275c339d7b6de6042200127cf4b",
             "N00E25P01.png": "f51e9d99f02ef915f65c99406a2ffb25d521245ecb6eb99d6ef278febd636c89",
             "N00E25P02.png": "f5c43b358dc66e069b43c9bbf17f186164b55c5b79a817564a21e917a925f595",
             "N00E25P03.png": "8c31a8d8ff5cb0cdc71450db9e85391c2fe5673724921b23a9e6e44887ed9b77",
@@ -8975,6 +8975,6 @@
       "version": 1
     }
   ],
-  "revision": 23,
+  "revision": 24,
   "schema": 3
 }
