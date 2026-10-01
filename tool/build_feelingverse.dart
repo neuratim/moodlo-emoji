@@ -395,6 +395,10 @@ Map<String, Object?> _episodeEntry({
 
 /// The narrative card shows its first episode's scene; each episode card shows
 /// its own, so a shelf of episodes is not one picture repeated.
+///
+/// `"dev": true` keeps a narrative out of the app unless it is in developer
+/// mode. It is written only when set, so a published narrative carries no
+/// flag at all.
 Map<String, Object?> _narrativeEntry(
   Map<String, Object?> narrative,
   List<Map<String, Object?>> episodes,
@@ -403,8 +407,13 @@ Map<String, Object?> _narrativeEntry(
   if (backdrop == null) {
     throw FormatException('${narrative['id']} has no backdrop source.');
   }
+  final dev = narrative['dev'] ?? false;
+  if (dev is! bool) {
+    throw FormatException('${narrative['id']} dev must be true or false.');
+  }
   return <String, Object?>{
     'backdrop': backdrop,
+    if (dev) 'dev': true,
     'episodes': episodes,
     'id': narrative['id'],
     'localizations': narrative['localizations'],

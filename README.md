@@ -54,6 +54,11 @@ in this repository; the bundled app catalogue is not updated. The production
 contract and all 18 required locales are defined in `../assets/PROCESSING.md`
 in the Moodlo workspace.
 
+A narrative whose catalogue entry carries `"dev": true` is hidden in the app
+unless the app is in developer mode (seven taps on the version line in
+Settings). Remove the flag to release it to everyone; the builder keeps it
+across every `--sync`.
+
 ### Correcting a published episode
 
 Edit `N<NN>E<EE>.json`, or replace any `N<NN>E<EE>P##.png`, in place and push.
