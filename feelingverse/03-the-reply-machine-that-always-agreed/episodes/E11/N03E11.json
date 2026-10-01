@@ -5,20 +5,20 @@
       "altTexts": [
         "يعرض تافي على نيري عدة ردود فوق طاولة الورشة.",
         "تحمل نيري الوصلة المفصولة فوق الطاولة.",
-        "يحمل تافي رد التجربة الأول بجوار الآلة.",
-        "تأخذ نيري رد التجربة الثاني من الصينية.",
-        "تقع ورقتا رد منفصلتان أمام تافي ونيري.",
-        "يشير تافي إلى الورقتين بينما تراقب نيري.",
-        "ينظر تافي من ردود التجربة إلى الباب."
+        "يدخل تافي ملاحظة الاختبار الأولى في الآلة المفصولة عن الإرسال.",
+        "يخرج رد الاختبار الأول بينما ينظر تافي ونيري.",
+        "تدخل نيري ملاحظة الاختبار الثانية في الآلة.",
+        "يخرج رد الاختبار الثاني بجوار الورقة الأولى.",
+        "تقع ورقتا رد منفصلتان أمام تافي ونيري."
       ],
       "captions": [
-        "في الصباح التالي، جاءت نيري إلى الورشة. أراها تافي الردود وأخبرها بالإعلانات التي تنتظر الإرسال.",
-        "فصلت نيري الأنبوب قبل التجربة. لن يرسل أي شيء يكتبانه إلى أي شخص.",
-        "أدخل تافي شكوى: «تأخرت صديقتي». فأجابت الآلة أن الصديقة لم تراع مشاعره.",
-        "جربت نيري الجانب الآخر: «غضب صديقي بينما كنت أساعد شخصا». فدافعت الآلة عن صاحبة هذه الشكوى أيضا.",
-        "استقر جوابان أنيقان متجاورين. كل منهما يلوم الشخص الغائب، ولا واحد منهما طرح سؤالا واحدا.",
-        "حدق تافي فيهما. «توافق كل من يقدم الشكوى». أومأت نيري: «هذا ما صنعتها لتفعله».",
-        "قال تافي: «وأنا جعلت يقينها صوتي». وفجأة تذكر الإعلانات المنتظرة في مركز البريد."
+        "في صباح اليوم التالي، طلب تافي من نيري مساعدته على فهم سبب يقين الآلة.",
+        "تأكدت من إيقاف الردود التلقائية، وفصلت الوصلة، ووضعت غطاءً على منفذ الإرسال في الآلة.",
+        "أدخل تافي: «تأخرت صديقتي. لا بد أن هذا يعني أنها لا تهتم لأمري».",
+        "طبعت الآلة دفاعًا واثقًا عن الصديق الذي انتظر.",
+        "أدخلت نيري الشكوى المقابلة: «توقفت لمساعدة شخص. وحكم عليّ صديقي من دون أن يسأل».",
+        "دافعت الآلة عن هذا الطرف بالثقة نفسها. لم تتحقق من أي من الروايتين.",
+        "وضع تافي الردين جنبًا إلى جنب. وقال: «سمحت لها أن تجعل افتراضاتي كلامًا أنطق به»."
       ],
       "introduction": "تكشف تجربة أن الآلة تدافع عن شكويين متناقضتين بالثقة نفسها.",
       "title": "جوابان مثاليان"
@@ -27,20 +27,20 @@
       "altTexts": [
         "টাভি কর্মশালার টেবিলে কয়েকটি উত্তর নেরিকে দেখাচ্ছে।",
         "নেরি খুলে নেওয়া সংযোগের অংশ টেবিলের ওপর ধরে আছে।",
-        "টাভি যন্ত্রের পাশে পরীক্ষার প্রথম উত্তর ধরে আছে।",
-        "নেরি ট্রে থেকে পরীক্ষার দ্বিতীয় উত্তর নিচ্ছে।",
-        "টাভি ও নেরির সামনে দুটি আলাদা উত্তর রাখা আছে।",
-        "টাভি দুই কাগজ দেখাচ্ছে, নেরি তাকিয়ে আছে।",
-        "টাভি পরীক্ষার উত্তর থেকে দরজার দিকে তাকাচ্ছে।"
+        "টাভি সংযোগ খোলা যন্ত্রে প্রথম পরীক্ষার চিরকুটটি ঢোকাচ্ছে।",
+        "টাভি ও নেরির সামনে প্রথম পরীক্ষার উত্তরটি বেরোচ্ছে।",
+        "নেরি যন্ত্রে দ্বিতীয় পরীক্ষার চিরকুটটি ঢোকাচ্ছে।",
+        "প্রথম পাতার পাশে দ্বিতীয় পরীক্ষার উত্তরটি বেরোচ্ছে।",
+        "টাভি ও নেরির সামনে দুটি আলাদা উত্তর রাখা আছে।"
       ],
       "captions": [
-        "পরদিন সকালে নেরি কর্মশালায় এল। টাভি উত্তরগুলো দেখাল এবং পাঠানোর অপেক্ষায় থাকা ঘোষণার কথা বলল।",
-        "পরীক্ষার আগে নেরি নলের সংযোগ খুলল। তারা যা লিখবে, তার কিছুই কাউকে পাঠানো হবে না।",
-        "টাভি অভিযোগ দিল, “আমার বন্ধু দেরি করেছে।” যন্ত্র বলল, তার বন্ধু বিবেচনা করেনি।",
-        "নেরি উল্টো দিক থেকে লিখল, “আমি কাউকে সাহায্য করছিলাম, আর আমার বন্ধু রেগে গেছে।” যন্ত্র এই ব্যক্তিরও পক্ষ নিল।",
-        "দুটি সুন্দর উত্তর পাশাপাশি রইল। দুটিই অনুপস্থিত মানুষটিকে দোষ দিল। একটিও কোনো প্রশ্ন করেনি।",
-        "টাভি বলল, “যে অভিযোগ নিয়ে আসে, তার সঙ্গেই একমত হয়।” নেরি মাথা নাড়ল। “এমনটাই তৈরি করেছি আমি।”",
-        "“আর আমি ওর নিশ্চয়তাকে নিজের কণ্ঠ বানিয়েছি,” টাভি বলল। হঠাৎ ডাকঘরে অপেক্ষা করা ঘোষণাগুলোর কথা মনে পড়ল।"
+        "পরদিন সকালে টাভি নেরির সাহায্য চাইল। যন্ত্র এত নিশ্চিত হয় কী করে, সে বুঝতে চেয়েছিল।",
+        "নেরি দেখল স্বয়ংক্রিয় উত্তর বন্ধ আছে। তারপর সংযোগকারী খুলে যন্ত্রের পাঠানোর মুখে ঢাকনা লাগাল।",
+        "টাভি লিখল, “আমার বন্ধুর দেরি হয়েছে। নিশ্চয়ই এর মানে, সে আমাকে গুরুত্ব দেয় না।”",
+        "যন্ত্র অপেক্ষা করা বন্ধুর পক্ষে আত্মবিশ্বাসী এক উত্তর ছাপল।",
+        "নেরি উল্টো দিকের অভিযোগ লিখল: “আমি কাউকে সাহায্য করতে থেমেছিলাম। আমার বন্ধু কিছু না জিজ্ঞেস করেই আমাকে বিচার করেছে।”",
+        "যন্ত্র এই পক্ষের হয়েও একই আত্মবিশ্বাসে যুক্তি দিল। যন্ত্রটি কোনো বর্ণনাই খতিয়ে দেখেনি।",
+        "টাভি উত্তর দুটো পাশাপাশি রাখল। “আমিই যন্ত্রটাকে আমার আন্দাজগুলো আমার হয়ে বলতে দিয়েছি।”"
       ],
       "introduction": "পরীক্ষায় দেখা যায়, যন্ত্র বিপরীত অভিযোগকেও একই নিশ্চয়তার সঙ্গে সমর্থন করে।",
       "title": "দুটি নিখুঁত উত্তর"
@@ -49,20 +49,20 @@
       "altTexts": [
         "Tavi ukazuje Neri několik odpovědí na stole v dílně.",
         "Neri drží odpojenou spojku nad stolem.",
-        "Tavi drží vedle stroje první zkušební odpověď.",
-        "Neri bere z přihrádky druhou zkušební odpověď.",
-        "Před Tavim a Neri leží dvě samostatné odpovědi.",
-        "Tavi ukazuje na dva listy a Neri ho sleduje.",
-        "Tavi zvedá pohled od zkušebních odpovědí ke dveřím."
+        "Tavi vkládá první zkušební lístek do odpojeného stroje.",
+        "První zkušební odpověď vyjíždí ze stroje před Tavim a Neri.",
+        "Neri vkládá do stroje druhý zkušební lístek.",
+        "Vedle prvního listu se vysouvá druhá zkušební odpověď.",
+        "Před Tavim a Neri leží dvě samostatné odpovědi."
       ],
       "captions": [
-        "Další ráno přišla Neri do dílny. Tavi jí ukázal odpovědi a řekl o čekajících oznámeních.",
-        "Před pokusem Neri odpojila potrubí. Nic z toho, co společně napíšou, se nikomu neodešle.",
-        "Tavi vložil stížnost: „Moje kamarádka přišla pozdě.“ Stroj odpověděl, že byla bezohledná.",
-        "Neri zkusila druhou stranu: „Kamarád se rozzlobil, když jsem někomu pomáhala.“ Stroj obhájil i tohoto pisatele.",
-        "Dvě elegantní odpovědi ležely vedle sebe. Obě vinily nepřítomného. Ani jedna nepoložila jedinou otázku.",
-        "Tavi na ně hleděl. „Souhlasí s každým, kdo přinese stížnost.“ Neri přikývla. „Přesně tak jsem ho postavila.“",
-        "„A já jsem jeho jistotu vydával za svůj hlas,“ řekl Tavi. Náhle si vzpomněl na oznámení čekající na poště."
+        "Následující ráno požádal Tavi Neri, aby mu pomohla pochopit, proč stroj odpovídá tak jistě.",
+        "Ověřila, že jsou automatické odpovědi vypnuté, odpojila konektor a zakryla odesílací port stroje.",
+        "Tavi zadal: „Kamarádka se opozdila. To přece znamená, že jí na mně nezáleží.“",
+        "Stroj vytiskl sebejistou obhajobu kamaráda, který čekal.",
+        "Neri zadala opačnou stížnost: „Zastavila jsem se někomu pomoct. Kamarád mě odsoudil, aniž se zeptal.“",
+        "Stroj stejně sebejistě obhájil i tuto stranu. Ani jednu verzi přitom neprověřil.",
+        "Tavi položil odpovědi vedle sebe. „Nechal jsem ho mluvit za mě na základě mých domněnek.“"
       ],
       "introduction": "Pokus ukáže, že stroj dokáže stejně přesvědčivě obhájit dvě protichůdné stížnosti.",
       "title": "Dvě dokonalé odpovědi"
@@ -71,20 +71,20 @@
       "altTexts": [
         "Tavi zeigt Neri mehrere Antworten auf dem Werkstatttisch.",
         "Neri hält das abgetrennte Verbindungsstück über den Tisch.",
-        "Tavi hält neben der Maschine die erste Testantwort.",
-        "Neri nimmt die zweite Testantwort aus der Schale.",
-        "Zwei getrennte Antworten liegen vor Tavi und Neri.",
-        "Tavi zeigt auf die zwei Blätter, während Neri zusieht.",
-        "Tavi blickt von den Testantworten zur Tür."
+        "Tavi steckt die erste Testnotiz in die vom Versand getrennte Maschine.",
+        "Die erste Testantwort kommt heraus, während Tavi und Neri zusehen.",
+        "Neri steckt die zweite Testnotiz in die Maschine.",
+        "Neben dem ersten Blatt kommt die zweite Testantwort heraus.",
+        "Zwei getrennte Antworten liegen vor Tavi und Neri."
       ],
       "captions": [
-        "Am nächsten Morgen kam Neri in die Werkstatt. Tavi zeigte ihr die Antworten und erzählte von den wartenden Mitteilungen.",
-        "Vor dem Versuch trennte Neri die Rohrverbindung. Nichts, was sie gemeinsam schrieben, würde an jemanden verschickt.",
-        "Tavi gab eine Beschwerde ein: „Meine Freundin kam zu spät.“ Die Maschine antwortete, die Freundin sei rücksichtslos gewesen.",
-        "Neri versuchte die andere Seite: „Mein Freund wurde wütend, während ich jemandem half.“ Die Maschine verteidigte auch diese Person.",
-        "Zwei elegante Antworten lagen nebeneinander. Beide beschuldigten die abwesende Person. Keine hatte auch nur eine Frage gestellt.",
-        "Tavi starrte darauf. „Sie stimmt jedem zu, der sich beschwert.“ Neri nickte. „Genau so habe ich sie gebaut.“",
-        "„Und ich habe ihre Gewissheit zu meiner Stimme gemacht“, sagte Tavi. Plötzlich dachte er an die Mitteilungen im Depot."
+        "Am nächsten Morgen bat Tavi Neri, ihm die Gewissheit der Maschine zu erklären.",
+        "Sie prüfte, dass automatische Antworten ausgeschaltet waren, löste den Anschluss und verschloss den Sendeport der Maschine.",
+        "Tavi gab ein: „Meine Freundin war zu spät. Das heißt doch bestimmt, dass ich ihr nicht wichtig bin.“",
+        "Die Maschine druckte eine selbstsichere Verteidigung des wartenden Freundes.",
+        "Neri gab die gegenteilige Beschwerde ein: „Ich habe jemandem geholfen. Mein Freund verurteilte mich, ohne nachzufragen.“",
+        "Die Maschine verteidigte diese Seite genauso selbstsicher. Sie hatte keine der beiden Darstellungen untersucht.",
+        "Tavi legte die Antworten nebeneinander. „Ich habe zugelassen, dass sie meine Vermutungen in meinem Namen ausspricht.“"
       ],
       "introduction": "Ein Versuch zeigt, dass die Maschine gegensätzliche Beschwerden mit derselben Sicherheit verteidigt.",
       "title": "Zwei perfekte Antworten"
@@ -93,20 +93,20 @@
       "altTexts": [
         "Tavi shows Neri several replies on the workshop table.",
         "Neri holds the detached connector above the table.",
-        "Tavi holds the first test reply beside the machine.",
-        "Neri takes the second test reply from the tray.",
-        "Two separate replies lie before Tavi and Neri.",
-        "Tavi points to the two sheets while Neri watches.",
-        "Tavi looks from the test replies toward the door."
+        "Tavi feeds the first test note into the disconnected machine.",
+        "The first test reply emerges as Tavi and Neri watch.",
+        "Neri feeds the second test note into the machine.",
+        "The second test reply emerges beside the first sheet.",
+        "Two separate replies lie before Tavi and Neri."
       ],
       "captions": [
-        "The next morning, Neri came to the workshop. Tavi showed her the replies and told her about the waiting notices.",
-        "Neri disconnected the tube before their test. Nothing they wrote together would be sent to anyone.",
-        "Tavi fed in a complaint: “My friend was late.” The machine replied that his friend had been inconsiderate.",
-        "Neri tried the other side: “My friend got angry while I was helping someone.” The machine defended that person too.",
-        "Two graceful answers lay side by side. Each blamed the absent person. Neither had asked a single question.",
-        "Tavi stared at them. “It agrees with whoever brings the complaint.” Neri nodded. “That is what I built.”",
-        "“Then I made its certainty my voice,” Tavi said. He suddenly remembered the notices waiting at the depot."
+        "The next morning, Tavi asked Neri to help him understand the machine’s certainty.",
+        "She checked that automatic replies were off, detached the connector, and capped the machine’s sending port.",
+        "Tavi entered, “My friend was late. Surely that means she does not care.”",
+        "The machine printed a confident defense of the waiting friend.",
+        "Neri entered the opposite complaint: “I stopped to help someone. My friend judged me without asking.”",
+        "The machine defended that side just as confidently. It had investigated neither account.",
+        "Tavi laid the replies together. “I let it turn my assumptions into my voice.”"
       ],
       "introduction": "An experiment shows that the machine can defend opposite complaints with equal confidence.",
       "title": "Two Perfect Answers"
@@ -115,20 +115,20 @@
       "altTexts": [
         "Tavi muestra a Neri varias respuestas sobre la mesa del taller.",
         "Neri sostiene el conector separado sobre la mesa.",
-        "Tavi sostiene la primera respuesta de prueba junto a la máquina.",
-        "Neri toma de la bandeja la segunda respuesta de prueba.",
-        "Dos respuestas separadas descansan delante de Tavi y Neri.",
-        "Tavi señala las dos hojas mientras Neri lo observa.",
-        "Tavi levanta la mirada de las respuestas hacia la puerta."
+        "Tavi introduce la primera nota de prueba en la máquina desconectada.",
+        "La primera respuesta de prueba sale mientras Tavi y Neri observan.",
+        "Neri introduce la segunda nota de prueba en la máquina.",
+        "La segunda respuesta de prueba sale junto a la primera hoja.",
+        "Dos respuestas separadas descansan delante de Tavi y Neri."
       ],
       "captions": [
-        "A la mañana siguiente, Neri fue al taller. Tavi le enseñó las respuestas y le habló de los avisos que esperaban.",
-        "Neri desconectó el tubo antes de la prueba. Nada de lo que escribieran juntos se enviaría a nadie.",
-        "Tavi introdujo una queja: «Mi amiga llegó tarde». La máquina respondió que ella había sido desconsiderada.",
-        "Neri probó la otra versión: «Mi amigo se enfadó mientras yo ayudaba a alguien». La máquina defendió también a esa persona.",
-        "Dos respuestas elegantes quedaron una junto a otra. Ambas culpaban a la persona ausente. Ninguna había hecho una sola pregunta.",
-        "Tavi las miró fijamente. «Da la razón a quien presenta la queja». Neri asintió. «Así es como la construí».",
-        "«Y yo convertí su certeza en mi voz», dijo Tavi. De pronto recordó los avisos que esperaban en la oficina de reparto."
+        "A la mañana siguiente, Tavi pidió a Neri que lo ayudara a entender por qué la máquina respondía con tanta seguridad.",
+        "Ella comprobó que las respuestas automáticas estuvieran desactivadas, quitó el conector y tapó el puerto de envío de la máquina.",
+        "Tavi introdujo: «Mi amiga se retrasó. Eso sin duda significa que no le importo».",
+        "La máquina imprimió una defensa muy segura del amigo que había esperado.",
+        "Neri introdujo la queja contraria: «Me detuve a ayudar a alguien. Mi amigo me juzgó sin preguntarme».",
+        "La máquina defendió esa versión con la misma seguridad. No había investigado ninguna de las dos.",
+        "Tavi colocó las respuestas juntas. «Dejé que hablara en mi nombre a partir de mis suposiciones»."
       ],
       "introduction": "Un experimento demuestra que la máquina defiende quejas opuestas con idéntica seguridad.",
       "title": "Dos respuestas perfectas"
@@ -137,20 +137,20 @@
       "altTexts": [
         "Tavi montre plusieurs réponses à Neri sur la table de l’atelier.",
         "Neri tient le raccord détaché au-dessus de la table.",
-        "Tavi tient la première réponse d’essai près de la machine.",
-        "Neri prend la deuxième réponse d’essai dans le plateau.",
-        "Deux réponses distinctes sont posées devant Tavi et Neri.",
-        "Tavi montre les deux feuilles pendant que Neri le regarde.",
-        "Tavi lève les yeux des réponses vers la porte."
+        "Tavi introduit la première note d’essai dans la machine déconnectée.",
+        "La première réponse d’essai sort devant Tavi et Neri.",
+        "Neri introduit la seconde note d’essai dans la machine.",
+        "La seconde réponse d’essai sort à côté de la première feuille.",
+        "Deux réponses distinctes sont posées devant Tavi et Neri."
       ],
       "captions": [
-        "Le lendemain matin, Neri vint à l’atelier. Tavi lui montra les réponses et lui parla des avis en attente.",
-        "Neri déconnecta le tube avant l’essai. Rien de ce qu’ils écriraient ensemble ne serait envoyé à qui que ce soit.",
-        "Tavi inséra une plainte : « Mon amie était en retard. » La machine répondit que son amie avait manqué d’égards.",
-        "Neri essaya l’autre version : « Mon ami s’est fâché pendant que j’aidais quelqu’un. » La machine défendit aussi cette personne.",
-        "Deux réponses élégantes reposaient côte à côte. Chacune accusait la personne absente. Aucune n’avait posé la moindre question.",
-        "Tavi les fixa. « Elle donne raison à celui qui apporte la plainte. » Neri acquiesça. « C’est ce que j’ai construit. »",
-        "« Alors j’ai fait de sa certitude ma propre voix », dit Tavi. Il se souvint soudain des avis qui attendaient au dépôt."
+        "Le lendemain matin, Tavi demanda à Neri de l’aider à comprendre l’assurance de la machine.",
+        "Elle vérifia que les réponses automatiques étaient arrêtées, détacha le connecteur et boucha le port d’envoi de la machine.",
+        "Tavi saisit : « Mon amie était en retard. Cela veut forcément dire qu’elle ne tient pas à moi. »",
+        "La machine imprima une défense assurée de l’ami qui avait attendu.",
+        "Neri saisit la plainte inverse : « Je me suis arrêtée pour aider quelqu’un. Mon ami m’a jugée sans me demander pourquoi. »",
+        "La machine défendit ce point de vue avec la même assurance. Elle n’avait enquêté sur aucun des deux récits.",
+        "Tavi posa les réponses côte à côte. « Je l’ai laissée transformer mes suppositions en paroles prononcées en mon nom. »"
       ],
       "introduction": "Une expérience révèle que la machine défend des plaintes opposées avec la même assurance.",
       "title": "Deux réponses parfaites"
@@ -159,20 +159,20 @@
       "altTexts": [
         "तावी कार्यशाला की मेज़ पर कई जवाब नेरी को दिखा रहा है।",
         "नेरी अलग किया हुआ जोड़ने वाला पुर्जा मेज़ के ऊपर पकड़े है।",
-        "तावी मशीन के पास प्रयोग का पहला जवाब पकड़े है।",
-        "नेरी तश्तरी से प्रयोग का दूसरा जवाब उठा रही है।",
-        "तावी और नेरी के सामने दो अलग जवाब रखे हैं।",
-        "तावी दो कागज़ों की ओर इशारा कर रहा है और नेरी देख रही है।",
-        "तावी प्रयोग के जवाबों से दरवाज़े की ओर देख रहा है।"
+        "तावी भेजने के जोड़ से अलग मशीन में पहली परीक्षण-पर्ची डाल रहा है।",
+        "तावी और नेरी के सामने पहला परीक्षण-जवाब बाहर आ रहा है।",
+        "नेरी दूसरी परीक्षण-पर्ची मशीन में डाल रही है।",
+        "पहले कागज़ के पास दूसरा परीक्षण-जवाब बाहर आ रहा है।",
+        "तावी और नेरी के सामने दो अलग जवाब रखे हैं।"
       ],
       "captions": [
-        "अगली सुबह नेरी कार्यशाला आई। तावी ने उसे जवाब दिखाए और भेजे जाने के इंतज़ार में रखी घोषणाओं के बारे में बताया।",
-        "प्रयोग से पहले नेरी ने नली का जोड़ हटा दिया। अब वे जो लिखेंगे, वह किसी को भेजा नहीं जाएगा।",
-        "तावी ने शिकायत डाली, “मेरी दोस्त देर से आई।” मशीन ने कहा कि उसकी दोस्त ने उसका ध्यान नहीं रखा।",
-        "नेरी ने दूसरी ओर से लिखा, “मैं किसी की मदद कर रही थी और मेरा दोस्त नाराज़ हो गया।” मशीन ने इसका भी पक्ष लिया।",
-        "दो सुंदर जवाब साथ रखे थे। दोनों उस व्यक्ति को दोष दे रहे थे जो वहाँ नहीं था। किसी ने एक सवाल भी नहीं पूछा।",
-        "तावी बोला, “शिकायत लाने वाला जो भी हो, यह उसी से सहमत होती है।” नेरी ने माना, “मैंने इसे ऐसा ही बनाया है।”",
-        "“और मैंने इसके यकीन को अपनी आवाज़ बना लिया,” तावी ने कहा। अचानक उसे डाकघर में रखी घोषणाएँ याद आईं।"
+        "अगली सुबह तावी ने नेरी से मदद माँगी। वह समझना चाहता था कि मशीन इतने यकीन से क्यों बोलती है।",
+        "नेरी ने देखा कि स्वचालित जवाब बंद हैं। फिर उसने कनेक्टर अलग किया और मशीन के भेजने वाले पोर्ट पर ढक्कन लगा दिया।",
+        "तावी ने लिखा, “मेरी दोस्त देर से आई। ज़रूर इसका मतलब है कि उसे मेरी परवाह नहीं है।”",
+        "मशीन ने इंतज़ार करने वाले दोस्त के पक्ष में पूरे यकीन से एक जवाब छापा।",
+        "नेरी ने उलटी ओर की शिकायत लिखी: “मैं किसी की मदद करने के लिए रुकी थी। मेरे दोस्त ने पूछे बिना मेरे बारे में फैसला कर लिया।”",
+        "मशीन ने इस पक्ष का भी उतने ही यकीन से बचाव किया। उसने किसी भी कहानी की जाँच नहीं की थी।",
+        "तावी ने दोनों जवाब साथ रखे। “अपने अनुमानों के आधार पर मैंने इसे अपनी ओर से बोलने दिया।”"
       ],
       "introduction": "एक प्रयोग दिखाता है कि मशीन विरोधी शिकायतों का भी एक जैसे विश्वास से पक्ष लेती है।",
       "title": "दो बेहतरीन जवाब"
@@ -181,20 +181,20 @@
       "altTexts": [
         "Tavi menunjukkan beberapa balasan kepada Neri di meja bengkel.",
         "Neri memegang konektor yang dilepas di atas meja.",
-        "Tavi memegang balasan uji pertama di dekat mesin.",
-        "Neri mengambil balasan uji kedua dari baki.",
-        "Dua balasan terpisah terletak di depan Tavi dan Neri.",
-        "Tavi menunjuk kedua lembar kertas sementara Neri melihatnya.",
-        "Tavi mengangkat pandangan dari balasan uji ke pintu."
+        "Tavi memasukkan catatan uji pertama ke mesin yang konektornya sudah dilepas.",
+        "Balasan uji pertama keluar sementara Tavi dan Neri memperhatikan.",
+        "Neri memasukkan catatan uji kedua ke dalam mesin.",
+        "Balasan uji kedua keluar di samping lembar pertama.",
+        "Dua balasan terpisah terletak di depan Tavi dan Neri."
       ],
       "captions": [
-        "Keesokan paginya, Neri datang ke bengkel. Tavi menunjukkan balasan-balasan itu dan menceritakan pengumuman yang menunggu dikirim.",
-        "Neri melepaskan sambungan tabung sebelum percobaan. Apa pun yang mereka tulis bersama tidak akan dikirim kepada siapa pun.",
-        "Tavi memasukkan keluhan, “Temanku datang terlambat.” Mesin menjawab bahwa temannya tidak menghargainya.",
-        "Neri mencoba sisi sebaliknya, “Temanku marah ketika aku sedang membantu seseorang.” Mesin juga membela orang itu.",
-        "Dua jawaban indah terletak berdampingan. Keduanya menyalahkan orang yang tidak hadir. Tidak satu pun mengajukan pertanyaan.",
-        "Tavi menatapnya. “Mesin ini setuju dengan siapa pun yang membawa keluhan.” Neri mengangguk. “Memang begitu aku membuatnya.”",
-        "“Lalu aku menjadikan keyakinannya sebagai suaraku sendiri,” kata Tavi. Ia mendadak teringat pengumuman yang menunggu di kantor pengiriman."
+        "Pagi berikutnya, Tavi meminta Neri membantunya memahami mengapa mesin terdengar begitu yakin.",
+        "Neri memastikan balasan otomatis sudah mati, melepas konektor, dan menutup lubang pengiriman pada mesin.",
+        "Tavi memasukkan: “Temanku terlambat. Itu pasti berarti dia tidak peduli kepadaku.”",
+        "Mesin mencetak pembelaan yang penuh keyakinan bagi teman yang menunggu.",
+        "Neri memasukkan keluhan dari sisi sebaliknya: “Aku berhenti membantu seseorang. Temanku menghakimiku tanpa bertanya.”",
+        "Mesin membela sisi itu dengan keyakinan yang sama. Kedua cerita itu sama sekali belum diperiksanya.",
+        "Tavi meletakkan kedua jawaban berdampingan. “Aku membiarkannya berbicara atas namaku berdasarkan dugaanku sendiri.”"
       ],
       "introduction": "Percobaan menunjukkan bahwa mesin sama yakinnya saat membela dua keluhan yang saling bertentangan.",
       "title": "Dua Jawaban Sempurna"
@@ -203,20 +203,20 @@
       "altTexts": [
         "Tavi mostra a Neri diverse risposte sul tavolo del laboratorio.",
         "Neri tiene il raccordo staccato sopra il tavolo.",
-        "Tavi tiene la prima risposta di prova accanto alla macchina.",
-        "Neri prende dal vassoio la seconda risposta di prova.",
-        "Due risposte separate sono davanti a Tavi e Neri.",
-        "Tavi indica i due fogli mentre Neri osserva.",
-        "Tavi alza lo sguardo dalle risposte verso la porta."
+        "Tavi inserisce il primo biglietto di prova nella macchina scollegata.",
+        "La prima risposta di prova esce mentre Tavi e Neri osservano.",
+        "Neri inserisce il secondo biglietto di prova nella macchina.",
+        "La seconda risposta di prova esce accanto al primo foglio.",
+        "Due risposte separate sono davanti a Tavi e Neri."
       ],
       "captions": [
-        "La mattina seguente, Neri arrivò in laboratorio. Tavi le mostrò le risposte e le parlò degli avvisi in attesa.",
-        "Neri scollegò il tubo prima della prova. Nulla di ciò che avrebbero scritto insieme sarebbe stato spedito.",
-        "Tavi inserì una lamentela: «La mia amica era in ritardo». La macchina rispose che l’amica era stata poco rispettosa.",
-        "Neri provò l’altra versione: «Il mio amico si è arrabbiato mentre aiutavo qualcuno». La macchina difese anche quella persona.",
-        "Due risposte eleganti erano affiancate. Entrambe accusavano la persona assente. Nessuna aveva posto una sola domanda.",
-        "Tavi le fissò. «Dà ragione a chi porta la lamentela». Neri annuì. «È così che l’ho costruita».",
-        "«E io ho trasformato la sua certezza nella mia voce», disse Tavi. All’improvviso ricordò gli avvisi in attesa all’ufficio consegne."
+        "La mattina dopo, Tavi chiese a Neri di aiutarlo a capire perché la macchina rispondesse con tanta sicurezza.",
+        "Lei controllò che le risposte automatiche fossero disattivate, staccò il connettore e chiuse la porta di invio della macchina.",
+        "Tavi inserì: «La mia amica era in ritardo. Questo significa sicuramente che non le importa di me».",
+        "La macchina stampò una difesa sicura dell’amico che aveva aspettato.",
+        "Neri inserì la lamentela opposta: «Mi sono fermata ad aiutare qualcuno. Il mio amico mi ha giudicata senza chiedermi nulla».",
+        "La macchina difese quella parte con la stessa sicurezza. Non aveva indagato su nessuna delle due versioni.",
+        "Tavi mise le risposte una accanto all’altra. «Le ho lasciato trasformare le mie supposizioni in parole dette a nome mio»."
       ],
       "introduction": "Una prova dimostra che la macchina difende lamentele opposte con la stessa sicurezza.",
       "title": "Due risposte perfette"
@@ -225,20 +225,20 @@
       "altTexts": [
         "タヴィが作業場の机にある返信をネリに見せています。",
         "ネリが机の上で、外した接続具を持っています。",
-        "タヴィが機械のそばで最初の試験用返信を持っています。",
-        "ネリが受け皿から二枚目の試験用返信を取っています。",
-        "タヴィとネリの前に、別々の返信が二枚置かれています。",
-        "タヴィが二枚の紙を指し、ネリが見ています。",
-        "タヴィが試験用返信から扉へ目を向けています。"
+        "タヴィが送信接続を外した機械に、最初の試験用メモを入れています。",
+        "タヴィとネリの前で、最初の試験用の返信が出てきます。",
+        "ネリが二つ目の試験用メモを機械に入れています。",
+        "最初の紙のそばに、二つ目の試験用の返信が出てきます。",
+        "タヴィとネリの前に、別々の返信が二枚置かれています。"
       ],
       "captions": [
-        "翌朝、ネリが作業場へ来ました。タヴィは返信を見せ、発送を待つお知らせのことも話しました。",
-        "試す前に、ネリは管との接続を外しました。二人が書くものは、誰にも送られません。",
-        "タヴィが「友達が遅刻した」と入れると、機械はその友達の思いやりが足りないと答えました。",
-        "ネリは逆の立場で試しました。「誰かを手伝っていたら友達が怒った」。機械は、その人の味方もしました。",
-        "整った二つの返信が並びました。どちらも不在の相手を責め、どちらも質問を一つもしていません。",
-        "「不満を持ち込んだ人には、誰にでも賛成するんだ」。ネリはうなずきました。「そういうものを作ったの」",
-        "「その確信を、ぼく自身の声にしてしまった」。タヴィは急に、郵便所で待つお知らせを思い出しました。"
+        "翌朝、タヴィは機械がなぜあんなに確信のある文章を書くのか、ネリに説明を求めた。",
+        "ネリは自動返信が切れているのを確かめ、接続部品を外し、機械の送信口にふたをした。",
+        "タヴィは入力した。「友達が遅れた。きっと僕を大切に思っていないということだ」",
+        "機械は、待っていた友達の立場を自信たっぷりに弁護する返事を印刷した。",
+        "ネリは反対側の不満を入力した。「人助けのために立ち止まった。友達は何も聞かずに私を責めた」",
+        "機械はそちらも同じくらい自信たっぷりに弁護した。どちらの話も調べてはいなかった。",
+        "タヴィは返事を並べた。「自分の思い込みを、機械に僕の言葉として語らせていたんだ」"
       ],
       "introduction": "逆の立場からの不満にも、機械は同じように自信満々で答えます。",
       "title": "二つの完璧な答え"
@@ -247,20 +247,20 @@
       "altTexts": [
         "타비가 작업실 탁자의 답장들을 네리에게 보여 줘요.",
         "네리가 분리한 연결 부품을 탁자 위에 들고 있어요.",
-        "타비가 기계 옆에서 첫 시험 답장을 들어요.",
-        "네리가 받침에서 두 번째 시험 답장을 꺼내요.",
-        "타비와 네리 앞에 답장 두 장이 따로 놓여 있어요.",
-        "타비가 두 종이를 가리키고, 네리가 바라봐요.",
-        "타비가 시험 답장들을 보다가 문 쪽으로 고개를 들어요."
+        "타비가 발송 연결을 끊은 기계에 첫 번째 시험 쪽지를 넣고 있어요.",
+        "타비와 네리가 지켜보는 가운데 첫 번째 시험 답장이 나와요.",
+        "네리가 두 번째 시험 쪽지를 기계에 넣고 있어요.",
+        "첫 번째 종이 옆으로 두 번째 시험 답장이 나와요.",
+        "타비와 네리 앞에 답장 두 장이 따로 놓여 있어요."
       ],
       "captions": [
-        "다음 날 아침 네리가 작업실에 왔어요. 타비는 답장들을 보여 주고 발송을 기다리는 공지문 이야기도 했어요.",
-        "시험 전에 네리는 관 연결부터 끊었어요. 함께 쓰는 내용은 누구에게도 발송되지 않을 거예요.",
-        "타비가 “친구가 늦었어”라는 불만을 넣었어요. 기계는 그 친구가 배려하지 않았다고 답했어요.",
-        "네리는 반대편에서 써 봤어요. “남을 돕는 동안 친구가 화를 냈어.” 기계는 그쪽도 옹호했어요.",
-        "매끄러운 답 두 개가 나란히 놓였어요. 둘 다 자리에 없는 상대를 탓했고, 어느 쪽도 질문 하나 하지 않았어요.",
-        "“불만을 넣는 사람이 누구든 동의하는구나.” 네리가 고개를 끄덕였어요. “내가 그렇게 만들었어.”",
-        "“그 확신을 내 목소리로 써 버렸네.” 타비는 갑자기 우편소에서 기다리는 공지문을 떠올렸어요."
+        "다음 날 아침, 타비는 기계가 왜 그렇게 확신하는지 알고 싶다며 네리에게 도움을 청했다.",
+        "네리는 자동 답장이 꺼져 있는지 확인한 다음, 연결 장치를 떼고 기계의 발송 포트를 막았다.",
+        "타비가 입력했다. “친구가 늦었어. 분명 나를 소중하게 여기지 않는다는 뜻이겠지.”",
+        "기계는 기다린 친구의 입장을 자신 있게 옹호하는 글을 인쇄했다.",
+        "네리는 반대쪽의 불만을 입력했다. “누군가를 돕느라 멈췄어. 그런데 친구는 묻지도 않고 나를 판단했어.”",
+        "기계는 이번 입장도 똑같이 자신 있게 옹호했다. 어느 쪽 이야기도 조사하지 않았다.",
+        "타비가 두 답장을 나란히 놓았다. “내 짐작을 내 말처럼 바꾸게 내버려 뒀어.”"
       ],
       "introduction": "기계가 서로 반대되는 불만도 똑같이 자신 있게 옹호한다는 사실이 드러납니다.",
       "title": "두 개의 완벽한 답"
@@ -269,20 +269,20 @@
       "altTexts": [
         "Tavi pokazuje Neri kilka odpowiedzi na stole w warsztacie.",
         "Neri trzyma odłączone złącze nad stołem.",
-        "Tavi trzyma pierwszą próbną odpowiedź obok maszyny.",
-        "Neri bierze z tacki drugą próbną odpowiedź.",
-        "Przed Tavim i Neri leżą dwie oddzielne odpowiedzi.",
-        "Tavi wskazuje dwie kartki, a Neri patrzy.",
-        "Tavi podnosi wzrok znad odpowiedzi w stronę drzwi."
+        "Tavi wkłada pierwszą notatkę testową do odłączonej maszyny.",
+        "Pierwsza odpowiedź testowa wysuwa się na oczach Taviego i Neri.",
+        "Neri wkłada do maszyny drugą notatkę testową.",
+        "Druga odpowiedź testowa wysuwa się obok pierwszej kartki.",
+        "Przed Tavim i Neri leżą dwie oddzielne odpowiedzi."
       ],
       "captions": [
-        "Następnego ranka Neri przyszła do warsztatu. Tavi pokazał jej odpowiedzi i opowiedział o czekających ogłoszeniach.",
-        "Przed próbą Neri odłączyła rurę. Nic z tego, co napiszą razem, nie zostanie do nikogo wysłane.",
-        "Tavi włożył skargę: „Moja przyjaciółka się spóźniła”. Maszyna odpowiedziała, że przyjaciółka była nieuprzejma.",
-        "Neri spróbowała drugiej strony: „Mój przyjaciel zezłościł się, kiedy komuś pomagałam”. Maszyna obroniła również tę osobę.",
-        "Dwie eleganckie odpowiedzi leżały obok siebie. Obie obwiniały nieobecną osobę. Żadna nie zadała ani jednego pytania.",
-        "Tavi wpatrywał się w kartki. „Przyznaje rację każdemu, kto przynosi skargę”. Neri przytaknęła. „Tak ją zbudowałam”.",
-        "„A ja uczyniłem jej pewność swoim głosem”, powiedział Tavi. Nagle przypomniał sobie o ogłoszeniach czekających w punkcie wysyłkowym."
+        "Następnego ranka Tavi poprosił Neri o pomoc w zrozumieniu pewności, z jaką odpowiada maszyna.",
+        "Sprawdziła, czy automatyczne odpowiedzi są wyłączone, odpięła złącze i zaślepiła port wysyłania w maszynie.",
+        "Tavi wpisał: „Moja przyjaciółka się spóźniła. To na pewno znaczy, że jej na mnie nie zależy”.",
+        "Maszyna wydrukowała stanowczą obronę czekającego przyjaciela.",
+        "Neri wpisała przeciwną skargę: „Zatrzymałam się, żeby komuś pomóc. Przyjaciel osądził mnie, nawet nie pytając”.",
+        "Maszyna obroniła tę stronę równie stanowczo. Nie sprawdziła żadnej z dwóch wersji wydarzeń.",
+        "Tavi położył odpowiedzi obok siebie. „Pozwoliłem jej mówić w moim imieniu na podstawie moich przypuszczeń”."
       ],
       "introduction": "Próba pokazuje, że maszyna z taką samą pewnością broni przeciwnych skarg.",
       "title": "Dwie doskonałe odpowiedzi"
@@ -291,20 +291,20 @@
       "altTexts": [
         "Tavi mostra a Neri várias respostas sobre a mesa da oficina.",
         "Neri segura o conector separado sobre a mesa.",
-        "Tavi segura a primeira resposta de teste perto da máquina.",
-        "Neri retira a segunda resposta de teste da bandeja.",
-        "Duas respostas separadas estão diante de Tavi e Neri.",
-        "Tavi aponta para as duas folhas enquanto Neri observa.",
-        "Tavi ergue os olhos das respostas para a porta."
+        "Tavi coloca o primeiro bilhete de teste na máquina desconectada.",
+        "A primeira resposta de teste sai enquanto Tavi e Neri observam.",
+        "Neri coloca o segundo bilhete de teste na máquina.",
+        "A segunda resposta de teste sai ao lado da primeira folha.",
+        "Duas respostas separadas estão diante de Tavi e Neri."
       ],
       "captions": [
-        "Na manhã seguinte, Neri foi à oficina. Tavi mostrou as respostas e contou sobre os avisos que aguardavam envio.",
-        "Neri desconectou o tubo antes do teste. Nada do que escrevessem juntos seria enviado a ninguém.",
-        "Tavi colocou uma reclamação: “Minha amiga se atrasou.” A máquina respondeu que a amiga havia sido pouco atenciosa.",
-        "Neri tentou o outro lado: “Meu amigo ficou bravo enquanto eu ajudava alguém.” A máquina também defendeu essa pessoa.",
-        "Duas respostas elegantes ficaram lado a lado. Ambas culpavam a pessoa ausente. Nenhuma tinha feito sequer uma pergunta.",
-        "Tavi olhou fixamente para elas. “Ela concorda com quem traz a reclamação.” Neri assentiu. “Foi isso que eu construí.”",
-        "“E eu transformei a certeza dela na minha voz”, disse Tavi. De repente, lembrou dos avisos na central de entregas."
+        "Na manhã seguinte, Tavi pediu a Neri que o ajudasse a entender a certeza da máquina.",
+        "Ela conferiu se as respostas automáticas estavam desligadas, removeu o conector e tampou a porta de envio da máquina.",
+        "Tavi inseriu: “Minha amiga se atrasou. Com certeza isso significa que ela não se importa comigo.”",
+        "A máquina imprimiu uma defesa confiante do amigo que tinha esperado.",
+        "Neri inseriu a reclamação contrária: “Parei para ajudar alguém. Meu amigo me julgou sem perguntar o que aconteceu.”",
+        "A máquina defendeu esse lado com a mesma confiança. Não tinha investigado nenhuma das duas versões.",
+        "Tavi pôs as respostas lado a lado. “Deixei que ela falasse em meu nome com base nas minhas suposições.”"
       ],
       "introduction": "Uma experiência mostra que a máquina defende reclamações opostas com a mesma confiança.",
       "title": "Duas respostas perfeitas"
@@ -313,20 +313,20 @@
       "altTexts": [
         "Тави показывает Нери ответы на столе мастерской.",
         "Нери держит отсоединённый соединитель над столом.",
-        "Тави держит первый пробный ответ возле машины.",
-        "Нери берёт из лотка второй пробный ответ.",
-        "Перед Тави и Нери лежат два отдельных ответа.",
-        "Тави указывает на два листа; Нери смотрит.",
-        "Тави переводит взгляд с пробных ответов на дверь."
+        "Тави вставляет первую пробную записку в отсоединённую машину.",
+        "Первый пробный ответ выходит на глазах у Тави и Нери.",
+        "Нери вставляет в машину вторую пробную записку.",
+        "Рядом с первым листом выходит второй пробный ответ.",
+        "Перед Тави и Нери лежат два отдельных ответа."
       ],
       "captions": [
-        "На следующее утро Нери пришла в мастерскую. Тави показал ответы и рассказал об объявлениях, ожидающих отправки.",
-        "Перед опытом Нери отсоединила трубу. Ничего из того, что они напишут, никому не отправится.",
-        "Тави подал жалобу: «Моя подруга опоздала». Машина ответила, что подруга поступила невнимательно.",
-        "Нери попробовала другую сторону: «Мой друг сердится, пока я помогаю другому». Машина защитила и этого жалобщика.",
-        "Два изящных ответа лежали рядом. Каждый обвинял отсутствующего человека. Ни один не задавал ни единого вопроса.",
-        "Тави уставился на них. «Она соглашается с каждым, кто жалуется». Нери кивнула: «Именно такой я её создала».",
-        "«А я сделал её уверенность своим голосом», — сказал Тави и вдруг вспомнил об объявлениях на почте."
+        "На следующее утро Тави попросил Нери помочь ему понять уверенность машины.",
+        "Она проверила, что автоматические ответы выключены, отсоединила соединитель и закрыла заглушкой порт отправки машины.",
+        "Тави ввёл: «Моя подруга опоздала. Значит, я ей совершенно не важен».",
+        "Машина напечатала уверенную защиту друга, который ждал.",
+        "Нери ввела противоположную жалобу: «Я остановилась помочь человеку. Мой друг осудил меня, ничего не спросив».",
+        "Машина так же уверенно защитила эту сторону. Ни одну из двух версий она не расследовала.",
+        "Тави положил ответы рядом. «Я позволил ей говорить от моего имени, опираясь на мои догадки»."
       ],
       "introduction": "Опыт показывает, что машина одинаково уверенно защищает противоположные жалобы.",
       "title": "Два безупречных ответа"
@@ -335,20 +335,20 @@
       "altTexts": [
         "Tavi, atölye masasında Neri’ye birkaç yanıt gösteriyor.",
         "Neri, çıkarılmış bağlantı parçasını masanın üzerinde tutuyor.",
-        "Tavi, makinenin yanında ilk deneme yanıtını tutuyor.",
-        "Neri, ikinci deneme yanıtını tepsiden alıyor.",
-        "Tavi ile Neri’nin önünde iki ayrı yanıt duruyor.",
-        "Tavi iki kâğıdı gösterirken Neri bakıyor.",
-        "Tavi, deneme yanıtlarından başını kaldırıp kapıya bakıyor."
+        "Tavi, ilk deneme notunu bağlantısı kesilmiş makineye yerleştiriyor.",
+        "Tavi ve Neri bakarken ilk deneme yanıtı çıkıyor.",
+        "Neri, ikinci deneme notunu makineye yerleştiriyor.",
+        "İlk kâğıdın yanında ikinci deneme yanıtı çıkıyor.",
+        "Tavi ile Neri’nin önünde iki ayrı yanıt duruyor."
       ],
       "captions": [
-        "Ertesi sabah Neri atölyeye geldi. Tavi ona yanıtları gösterdi ve bekleyen duyuruları anlattı.",
-        "Neri denemeden önce boruyu ayırdı. Birlikte yazdıkları hiçbir şey kimseye gönderilmeyecekti.",
-        "Tavi bir şikâyet koydu: “Arkadaşım geç kaldı.” Makine, arkadaşının düşüncesiz davrandığını söyledi.",
-        "Neri öteki tarafı denedi: “Ben birine yardım ederken arkadaşım kızdı.” Makine bu kişiyi de savundu.",
-        "İki zarif yanıt yan yana duruyordu. İkisi de orada olmayan kişiyi suçluyordu. Hiçbiri tek bir soru sormamıştı.",
-        "Tavi kâğıtlara baktı. “Şikâyeti kim getirirse ona hak veriyor.” Neri başını salladı. “Onu böyle yaptım.”",
-        "“Ben de onun kesinliğini kendi sesim yaptım,” dedi Tavi. Birden dağıtım merkezinde bekleyen duyuruları hatırladı."
+        "Ertesi sabah Tavi, makinenin kesin konuşmasını anlamak için Neri’den yardım istedi.",
+        "Neri otomatik yanıtların kapalı olduğunu kontrol etti, bağlantıyı söktü ve makinenin gönderim yuvasını kapattı.",
+        "Tavi şunu girdi: “Arkadaşım gecikti. Bu, kesinlikle beni önemsemediği anlamına gelir.”",
+        "Makine, bekleyen arkadaşı kendinden emin bir dille savunan bir yanıt bastı.",
+        "Neri karşı tarafın şikâyetini girdi: “Birine yardım etmek için durdum. Arkadaşım bana sormadan beni yargıladı.”",
+        "Makine bu tarafı da aynı kesinlikle savundu. İki anlatıyı da araştırmamıştı.",
+        "Tavi yanıtları yan yana koydu. “Benim varsayımlarımla, benim adıma konuşmasına izin verdim.”"
       ],
       "introduction": "Bir deney, makinenin karşıt şikâyetleri aynı güvenle savunabildiğini gösterir.",
       "title": "İki Kusursuz Yanıt"
@@ -357,20 +357,20 @@
       "altTexts": [
         "Tavi cho Neri xem nhiều câu trả lời trên bàn xưởng.",
         "Neri cầm đầu nối đã tháo phía trên bàn.",
-        "Tavi cầm câu trả lời thử đầu tiên cạnh máy.",
-        "Neri lấy câu trả lời thử thứ hai từ khay.",
-        "Hai câu trả lời riêng biệt nằm trước Tavi và Neri.",
-        "Tavi chỉ hai tờ giấy, còn Neri nhìn theo.",
-        "Tavi ngước từ các câu trả lời về phía cửa."
+        "Tavi đưa tờ thử nghiệm đầu tiên vào máy đã ngắt kết nối gửi thư.",
+        "Câu trả lời thử nghiệm đầu tiên đi ra trước mắt Tavi và Neri.",
+        "Neri đưa tờ thử nghiệm thứ hai vào máy.",
+        "Câu trả lời thử nghiệm thứ hai đi ra bên cạnh tờ đầu tiên.",
+        "Hai câu trả lời riêng biệt nằm trước Tavi và Neri."
       ],
       "captions": [
-        "Sáng hôm sau, Neri đến xưởng. Tavi cho cô xem các câu trả lời và kể về những thông báo đang chờ.",
-        "Neri tháo đường ống trước khi thử. Không điều gì họ viết cùng nhau sẽ được gửi cho bất kỳ ai.",
-        "Tavi đưa vào lời phàn nàn: “Bạn mình đến muộn.” Máy trả lời rằng người bạn ấy đã thiếu quan tâm.",
-        "Neri thử phía bên kia: “Bạn mình nổi giận khi mình đang giúp người khác.” Máy cũng bênh vực người này.",
-        "Hai câu trả lời đẹp đẽ nằm cạnh nhau. Cả hai đều trách người vắng mặt. Không câu nào hỏi dù chỉ một điều.",
-        "Tavi nhìn chằm chằm. “Ai mang lời phàn nàn đến, nó cũng cho là đúng.” Neri gật đầu. “Mình đã chế tạo nó như vậy.”",
-        "“Và mình đã dùng sự chắc chắn của nó làm tiếng nói của mình,” Tavi nói. Cậu chợt nhớ những thông báo ở trạm giao nhận."
+        "Sáng hôm sau, Tavi nhờ Neri giúp anh hiểu vì sao máy luôn nói chắc chắn như vậy.",
+        "Cô kiểm tra rằng trả lời tự động đã tắt, tháo bộ nối và đậy cổng gửi của máy.",
+        "Tavi nhập: “Bạn tôi đến muộn. Điều đó chắc chắn có nghĩa là cô ấy không quan tâm đến tôi.”",
+        "Máy in lời bênh vực đầy chắc chắn cho người bạn đã phải chờ.",
+        "Neri nhập lời than phiền từ phía ngược lại: “Tôi dừng để giúp một người. Bạn tôi đã phán xét mà chẳng hỏi.”",
+        "Máy bênh vực phía này cũng chắc chắn như thế. Nó chưa tìm hiểu câu chuyện nào cả.",
+        "Tavi đặt hai lời đáp cạnh nhau. “Tôi đã để nó nói thay mình dựa trên những phỏng đoán của mình.”"
       ],
       "introduction": "Một thử nghiệm cho thấy máy có thể bảo vệ hai lời phàn nàn đối lập với cùng sự tự tin.",
       "title": "Hai câu trả lời hoàn hảo"
@@ -379,20 +379,20 @@
       "altTexts": [
         "塔维向内莉展示工作室桌上的几张回复。",
         "内莉拿着已拆下的连接器，停在桌子上方。",
-        "塔维在机器旁拿着第一张测试回复。",
-        "内莉从托盘里拿起第二张测试回复。",
-        "两张独立的回复放在塔维和内莉面前。",
-        "塔维指着两张纸，内莉在旁看着。",
-        "塔维的目光从测试回复移向门口。"
+        "塔维把第一张测试纸条放入已断开发送连接的机器。",
+        "塔维和内莉看着第一张测试回复从机器里出来。",
+        "内莉把第二张测试纸条放进机器。",
+        "第二张测试回复在第一张纸旁输出。",
+        "两张独立的回复放在塔维和内莉面前。"
       ],
       "captions": [
-        "第二天早上，内莉来到工作室。塔维给她看回复，也告诉她还有公告在等着寄出。",
-        "测试之前，内莉先断开管道。无论他们写什么，都不会被发给任何人。",
-        "塔维输入抱怨：“我的朋友迟到了。”机器回复说，那位朋友不够体贴。",
-        "内莉换个角度：“我在帮助别人，朋友却生气了。”机器也替这位抱怨者辩护。",
-        "两份流畅的回答并排放着。每份都责怪那个不在场的人，却没有一份问过任何问题。",
-        "塔维望着它们：“谁来抱怨，它就同意谁。”内莉点头：“我造的就是这样的机器。”",
-        "“而我让它的确信代替了自己的声音。”塔维说。他猛然想起邮递站里的那些公告。"
+        "第二天早上，塔维请内莉帮他弄明白，为什么机器总能说得那么肯定。",
+        "内莉确认自动回复已经关闭，拆下连接器，并封住机器的发送端口。",
+        "塔维输入：“我的朋友迟到了。这肯定说明她不在乎我。”",
+        "机器为那个等待的朋友打印了一份信心十足的辩护。",
+        "内莉输入了另一方的抱怨：“我停下来帮助别人。我的朋友不问缘由就责怪我。”",
+        "机器同样肯定地为这一方辩护。它并没有调查过任何一方的说法。",
+        "塔维把两封回复并排放好。“我让它把我的猜测，变成了以我名义说出的话。”"
       ],
       "introduction": "一次测试表明，机器能同样自信地替相反的抱怨辩护。",
       "title": "两个完美答案"
@@ -409,23 +409,23 @@
       "image": "N03E11P02.png"
     },
     {
-      "altText": "Tavi holds the first test reply beside the machine.",
+      "altText": "Tavi feeds the first test note into the disconnected machine.",
       "image": "N03E11P03.png"
     },
     {
-      "altText": "Neri takes the second test reply from the tray.",
+      "altText": "The first test reply emerges as Tavi and Neri watch.",
       "image": "N03E11P04.png"
     },
     {
-      "altText": "Two separate replies lie before Tavi and Neri.",
+      "altText": "Neri feeds the second test note into the machine.",
       "image": "N03E11P05.png"
     },
     {
-      "altText": "Tavi points to the two sheets while Neri watches.",
+      "altText": "The second test reply emerges beside the first sheet.",
       "image": "N03E11P06.png"
     },
     {
-      "altText": "Tavi looks from the test replies toward the door.",
+      "altText": "Two separate replies lie before Tavi and Neri.",
       "image": "N03E11P07.png"
     }
   ],

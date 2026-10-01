@@ -3,396 +3,396 @@
   "localizations": {
     "ar": {
       "altTexts": [
-        "تركع نيري بجوار فانوسين مظلمين قرب تافي وسيلي.",
+        "يجتمع تافي وإيفو ونيري وسيلي بجوار فوانيس الفناء.",
         "يبقي تافي دفتره مغلقا بينما تفحص نيري فانوسا.",
-        "تعرض نيري على تافي قائمة فحص وحدات الضوء.",
-        "تري نيري تافي هيكل فانوس فارغا بجوار آخر.",
+        "يُري إيفو تافي هيكلين فارغين لفانوسين.",
+        "يتحدث تافي بجوار الفانوسين المطفأين بينما يستمع الآخرون.",
         "يخرج تافي وحدتي ضوء محكمتين من درج الورشة.",
         "تنهي نيري تركيب الوحدتين بينما يضيء الفانوسان.",
-        "تفتح سيلي البوابة ويقف تافي ونيري جانبا."
+        "تفحص سيلي الفوانيس المضاءة والمدخل الخالي من العوائق، والبوابة ما زالت مغلقة."
       ],
       "captions": [
-        "بعد ظهر اليوم التالي، انضمت نيري إلى الاختبار الأخير. أضاءت معظم الفوانيس، لكن اثنين قرب المدخل بقيا مظلمين.",
-        "شعر تافي باتهام يتشكل: لا بد أن أحدهم نسي شيئا. توقف قبل أن يوجه الفكرة إلى شخص.",
-        "سأل نيري: «ما الذي فحصناه؟ وما الذي بقي؟» فأرته قائمة وحدات الضوء.",
-        "كان الهيكلان فارغين. وحدتا الضوء المحكمتان بقيتا في درج مستلزمات الورشة، لا في الصناديق التي نقلت الزجاج.",
-        "ذهب تافي لإحضارهما. في الورشة، مر بجوار الآلة وفتح درج المستلزمات بدلا من استخدامها.",
-        "في الفناء، ركبت نيري الوحدتين وأعادت الاختبار. أضاء الفانوسان، وفحصت سيلي المسار كله مرة أخرى.",
-        "بعد اكتمال الفحوص فقط، فتحت سيلي البوابة. تنحى تافي ليبقى المدخل خاليا."
+        "بعد ظهر اليوم التالي، عاد الفريق لإكمال الفحوص الأخيرة قبل الافتتاح.",
+        "ظل فانوسا المدخل اللذان وُضعت عليهما علامة مظلمين. هذه المرة، لم يبحث تافي عن شخص يلومه.",
+        "سأل: «ما الذي لم يُركب بعد؟» فأراه إيفو غلافي وحدتي الإضاءة، وكانا فارغين.",
+        "قال تافي: «وضعت وحدتي إضاءة جانبًا في ورشتي، ونسيت إحضارهما».",
+        "عاد إلى الورشة، وأخذ الوحدتين المحكمتي الإغلاق من درج اللوازم، ثم رجع إلى الساحة.",
+        "ركبتهما نيري من دون فتح أجزائهما المحكمة الإغلاق. فأضاء الفانوسان.",
+        "فحصت سيلي جميع الأضواء وخلو الممر مرة أخرى. عندها فقط وافقت على الافتتاح."
       ],
       "introduction": "تختبر مشكلة أخيرة قدرة تافي على السؤال والفحص وتقاسم المسؤولية.",
       "title": "فانوسان مظلمان"
     },
     "bn": {
       "altTexts": [
-        "নেরি দুটি নিভে থাকা লণ্ঠনের পাশে হাঁটু গেড়েছে, টাভি ও সেলি কাছে আছে।",
+        "টাভি, ইভো, নেরি আর সেলি উঠোনের লণ্ঠনগুলোর পাশে জড়ো হয়েছে।",
         "টাভি নোটবুক বন্ধ রেখেছে, নেরি লণ্ঠন দেখছে।",
-        "নেরি টাভিকে আলো জ্বালানোর যন্ত্রাংশের পরীক্ষার তালিকা দেখাচ্ছে।",
-        "নেরি টাভিকে একটি খালি লণ্ঠনের খোলস দেখাচ্ছে, পাশে আরেকটি আছে।",
-        "টাভি কর্মশালার ড্রয়ার থেকে আলো জ্বালানোর দুটি সিল-করা যন্ত্রাংশ তুলছে।",
+        "ইভো টাভিকে দুটি খালি লণ্ঠনের খোলস দেখাচ্ছে।",
+        "টাভি দুটি অন্ধকার লণ্ঠনের পাশে কথা বলছে, আর অন্যরা শুনছে।",
+        "টাভি কর্মশালার ড্রয়ার থেকে দুটি সিল-করা আলোর অংশ তুলছে।",
         "নেরি অংশ বসানো শেষ করছে, দুটি লণ্ঠন জ্বলছে।",
-        "সেলি ফটক খুলছে, টাভি ও নেরি পাশে দাঁড়িয়ে আছে।"
+        "সেলি জ্বলা লণ্ঠনগুলো আর বাধাহীন প্রবেশপথ পরীক্ষা করছে; ফটক এখনও বন্ধ।"
       ],
       "captions": [
-        "পরদিন বিকেলে নেরি শেষ আলো পরীক্ষায় এল। বেশির ভাগ লণ্ঠন জ্বলল, কিন্তু প্রবেশপথের কাছে দুটি অন্ধকার রইল।",
-        "টাভির মনে অভিযোগ উঠল: কেউ কিছু ভুলেছে। কিন্তু কারও নাম জুড়ে দেওয়ার আগেই সে থামল।",
-        "সে নেরিকে জিজ্ঞেস করল, “কী কী পরীক্ষা করেছি? আর কী পরীক্ষা করা বাকি?” নেরি আলো জ্বালানোর যন্ত্রাংশের তালিকা দেখাল।",
-        "দুটি খোলসই খালি। আলো জ্বালানোর সিল-করা যন্ত্রাংশ দুটি কাচ বহনের বাক্সে নয়, কর্মশালার সরঞ্জামের ড্রয়ারে রয়ে গেছে।",
-        "টাভি সেগুলো আনতে গেল। কর্মশালায় যন্ত্রের পাশ দিয়ে হেঁটে গিয়ে সেটি ব্যবহার না করে ড্রয়ার খুলল।",
-        "উঠোনে নেরি অংশগুলো লাগিয়ে আবার পরীক্ষা করল। দুটিই জ্বলল। সেলি পুরো পথ আরও একবার দেখল।",
-        "সব পরীক্ষা শেষ হওয়ার পরেই সেলি ফটক খুলল। প্রবেশপথ খালি রাখতে টাভি এক পাশে সরে গেল।"
+        "পরদিন বিকেলে দলটি উদ্বোধনের আগের শেষ পরীক্ষাগুলো সম্পূর্ণ করতে ফিরে এল।",
+        "চিহ্ন দেওয়া প্রবেশমুখের লণ্ঠন দুটি তখনও অন্ধকার। এবার টাভি দোষ দেওয়ার জন্য কাউকে খুঁজল না।",
+        "সে জিজ্ঞেস করল, “আর কী লাগানো বাকি?” ইভো আলো বসানোর দুটি খালি খোপ দেখাল।",
+        "টাভি বলল, “আমি কর্মশালায় দুটো আলোর মডিউল আলাদা করে রেখেছিলাম। আনতে ভুলে গেছি।”",
+        "সে ফিরে গিয়ে সরঞ্জামের ড্রয়ার থেকে সিল করা মডিউল দুটি নিয়ে আবার আঙিনায় এল।",
+        "নেরি সিল করা ইউনিটগুলো না খুলেই মডিউল লাগিয়ে দিল। দুটি লণ্ঠনই জ্বলে উঠল।",
+        "সেলি আবার সব আলো এবং চলার পথ বাধামুক্ত কি না পরীক্ষা করল। তারপরই উদ্বোধনের অনুমতি দিল।"
       ],
       "introduction": "শেষ সমস্যাটি পরীক্ষা করে, টাভি প্রশ্ন করবে, যাচাই করবে এবং দায়িত্ব ভাগ করবে কি না।",
       "title": "দুটি অন্ধকার লণ্ঠন"
     },
     "cs": {
       "altTexts": [
-        "Neri klečí u dvou tmavých luceren vedle Taviho a Seli.",
+        "Tavi, Ivo, Neri a Seli se scházejí u luceren na nádvoří.",
         "Tavi nechává sešit zavřený a Neri prohlíží lucernu.",
-        "Neri ukazuje Tavimu kontrolní seznam modulů.",
-        "Neri ukazuje Tavimu jeden prázdný kryt vedle druhého.",
+        "Ivo ukazuje Tavimu dva prázdné kryty luceren.",
+        "Tavi mluví vedle dvou zhasnutých luceren a ostatní naslouchají.",
         "Tavi vyndává ze zásuvky dva uzavřené moduly.",
         "Neri dokončuje vložení modulů; obě lucerny svítí.",
-        "Seli otevírá bránu a Tavi s Neri stojí stranou."
+        "Seli kontroluje rozsvícené lucerny a volný vstup, zatímco brána zůstává zavřená."
       ],
       "captions": [
-        "Další odpoledne přišla Neri na závěrečnou zkoušku světel. Většina luceren svítila, ale dvě u vstupu zůstaly tmavé.",
-        "Tavimu se v hlavě rodilo obvinění: někdo na něco zapomněl. Zastavil se, než ho namířil proti konkrétnímu člověku.",
-        "„Co jsme už zkontrolovali?“ zeptal se Neri. „A co ještě zbývá?“ Ukázala mu seznam modulů.",
-        "Oba kryty byly prázdné. Jejich uzavřené světelné moduly zůstaly v zásuvce dílny, ne v bednách se sklem.",
-        "Tavi pro ně došel. V dílně nechal stroj být a otevřel zásuvku se zásobami.",
-        "Zpátky na nádvoří Neri vložila moduly a zkoušku zopakovala. Obě lucerny svítily; Seli znovu zkontrolovala celou trasu.",
-        "Teprve po dokončení kontrol Seli otevřela bránu. Tavi ustoupil stranou, aby nechal vstup volný."
+        "Následující odpoledne se tým vrátil, aby před zahájením dokončil poslední kontroly.",
+        "Dvě označené vstupní lucerny stále nesvítily. Tentokrát Tavi nehledal viníka.",
+        "„Co ještě musíme osadit?“ zeptal se. Ivo mu ukázal dvě prázdná místa pro světelné moduly.",
+        "„Dva moduly jsem odložil stranou v dílně,“ řekl Tavi. „Zapomněl jsem je přinést.“",
+        "Vrátil se tam, vyndal uzavřené moduly ze šuplíku se zásobami a přinesl je na nádvoří.",
+        "Neri osadila oba uzavřené moduly bez rozebírání. Obě lucerny se rozsvítily.",
+        "Seli znovu zkontrolovala všechna světla i volný průchod. Teprve pak schválila zahájení."
       ],
       "introduction": "Poslední praktický problém prověří, zda se Tavi dokáže ptát, ověřovat a sdílet odpovědnost.",
       "title": "Dvě tmavé lucerny"
     },
     "de": {
       "altTexts": [
-        "Neri kniet neben zwei dunklen Laternen; Tavi und Seli stehen daneben.",
+        "Tavi, Ivo, Neri und Seli versammeln sich bei den Laternen im Hof.",
         "Tavi lässt sein Notizbuch zu, während Neri eine Laterne prüft.",
-        "Neri zeigt Tavi die Prüfliste für die Leuchtmodule.",
-        "Neri zeigt Tavi ein leeres Lampengehäuse neben dem zweiten.",
+        "Ivo zeigt Tavi zwei leere Laternengehäuse.",
+        "Tavi spricht neben den zwei dunklen Laternen, während die anderen zuhören.",
         "Tavi nimmt zwei geschlossene Module aus der Werkstattschublade.",
         "Neri setzt die Module fertig ein, während beide Laternen leuchten.",
-        "Seli öffnet das Tor; Tavi und Neri stehen beiseite."
+        "Seli prüft die leuchtenden Laternen und den freien Eingang; das Tor bleibt geschlossen."
       ],
       "captions": [
-        "Am folgenden Nachmittag kam Neri zur letzten Lichtprüfung. Die meisten Laternen leuchteten, doch zwei am Eingang blieben dunkel.",
-        "In Tavi formte sich ein Vorwurf: Jemand hatte etwas vergessen. Er hielt inne, bevor er jemanden dafür verantwortlich machte.",
-        "„Was haben wir geprüft?“, fragte er Neri. „Und was fehlt noch?“ Sie zeigte ihm die Modulliste.",
-        "Die beiden Gehäuse waren leer. Ihre geschlossenen Leuchtmodule lagen noch in der Vorratsschublade der Werkstatt, nicht in den Kisten mit den Glasscheiben.",
-        "Tavi ging sie holen. In der Werkstatt ging er an der Maschine vorbei und öffnete stattdessen die Schublade.",
-        "Zurück im Hof setzte Neri die Module ein und prüfte erneut. Beide Laternen leuchteten; Seli kontrollierte den ganzen Weg noch einmal.",
-        "Erst nach allen Prüfungen öffnete Seli das Tor. Tavi trat zur Seite und ließ den Eingang frei."
+        "Am nächsten Nachmittag kam das Team zurück, um die letzten Prüfungen vor der Eröffnung abzuschließen.",
+        "Die zwei markierten Eingangslaternen blieben dunkel. Diesmal suchte Tavi nicht nach einem Schuldigen.",
+        "„Was fehlt noch beim Einbau?“, fragte er. Ivo zeigte ihm die zwei leeren Modulplätze.",
+        "„Ich habe zwei Module in meiner Werkstatt zurückgelegt“, sagte Tavi. „Ich habe vergessen, sie mitzubringen.“",
+        "Er ging zurück, nahm die versiegelten Module aus der Vorratsschublade und brachte sie in den Hof.",
+        "Neri setzte sie ein, ohne ihre versiegelten Einheiten zu öffnen. Beide Laternen leuchteten auf.",
+        "Seli prüfte nochmals alle Lichter und den freien Durchgang. Erst dann genehmigte sie die Eröffnung."
       ],
       "introduction": "Ein letztes praktisches Problem zeigt, ob Tavi jetzt fragt, prüft und Verantwortung teilt.",
       "title": "Zwei dunkle Laternen"
     },
     "en": {
       "altTexts": [
-        "Neri kneels by two dark lanterns beside Tavi and Seli.",
+        "Tavi, Ivo, Neri, and Seli gather beside the courtyard lanterns.",
         "Tavi keeps his notebook closed while Neri inspects a lamp.",
-        "Neri shows Tavi the module checklist.",
-        "Neri shows Tavi an empty lamp housing beside another.",
+        "Ivo shows Tavi two empty lantern housings.",
+        "Tavi speaks beside the two dark lanterns while the others listen.",
         "Tavi lifts two sealed modules from the workshop drawer.",
         "Neri finishes fitting the modules as both lanterns glow.",
-        "Seli opens the gate while Tavi and Neri stand aside."
+        "Seli checks the lit lanterns and clear entrance while the gate remains shut."
       ],
       "captions": [
-        "The following afternoon, Neri joined the final light test. Most lanterns glowed, but two near the entrance stayed dark.",
-        "Tavi felt an accusation forming: someone had forgotten something. He stopped before giving the thought a recipient.",
-        "“What have we checked?” he asked Neri. “And what do we still need to check?” She showed him the module list.",
-        "The two housings were empty. Their sealed light modules were still in the workshop’s supply drawer, not in the glass crates.",
-        "Tavi went to fetch them. At the workshop, he passed the machine and opened the drawer instead.",
-        "Back in the courtyard, Neri fitted the modules and repeated the test. Both lanterns shone; Seli checked the whole route again.",
-        "Only after the checks were complete did Seli open the gate. Tavi stepped aside to leave the entrance clear."
+        "The next afternoon, the team returned to complete the final checks before opening.",
+        "The two marked entrance lanterns were still dark. This time, Tavi did not look for someone to blame.",
+        "“What still needs fitting?” he asked. Ivo showed him the two empty module housings.",
+        "“I set two modules aside in my workshop,” Tavi said. “I forgot to bring them.”",
+        "He went back, took the sealed modules from the supply drawer, and returned to the courtyard.",
+        "Neri fitted them without opening their sealed units. Both lanterns lit up.",
+        "Seli checked all the lights and the clear passage again. Only then did she approve the opening."
       ],
       "introduction": "A last practical problem tests whether Tavi will ask, inspect, and share responsibility.",
       "title": "Two Dark Lanterns"
     },
     "es": {
       "altTexts": [
-        "Neri se arrodilla junto a dos faroles oscuros; Tavi y Seli observan.",
+        "Tavi, Ivo, Neri y Seli se reúnen junto a los faroles del patio.",
         "Tavi mantiene cerrado el cuaderno mientras Neri inspecciona un farol.",
-        "Neri muestra a Tavi la lista de comprobación de módulos.",
-        "Neri muestra a Tavi una carcasa vacía junto a otra.",
+        "Ivo muestra a Tavi dos carcasas de farol vacías.",
+        "Tavi habla junto a los dos faroles apagados mientras los demás escuchan.",
         "Tavi saca dos módulos sellados del cajón del taller.",
         "Neri termina de colocar los módulos mientras ambos faroles brillan.",
-        "Seli abre la puerta; Tavi y Neri permanecen a un lado."
+        "Seli revisa los faroles encendidos y la entrada despejada mientras la puerta sigue cerrada."
       ],
       "captions": [
-        "La tarde siguiente, Neri participó en la prueba final. Casi todos los faroles brillaban, pero dos junto a la entrada seguían oscuros.",
-        "Tavi sintió que nacía una acusación: alguien había olvidado algo. Se detuvo antes de dirigirla contra una persona.",
-        "«¿Qué hemos comprobado?», preguntó a Neri. «¿Y qué falta por comprobar?». Ella le mostró la lista de módulos.",
-        "Las dos carcasas estaban vacías. Sus módulos de luz sellados seguían en el cajón de suministros del taller, no en las cajas que contenían el vidrio.",
-        "Tavi fue a buscarlos. En el taller pasó junto a la máquina y abrió el cajón en lugar de utilizarla.",
-        "De nuevo en el patio, Neri colocó los módulos y repitió la prueba. Ambos faroles brillaron; Seli revisó otra vez todo el recorrido.",
-        "Solo después de completar las revisiones, Seli abrió la puerta. Tavi se apartó para dejar libre la entrada."
+        "A la tarde siguiente, el equipo volvió para completar las últimas comprobaciones antes de abrir.",
+        "Los dos faroles marcados seguían apagados. Esta vez, Tavi no buscó a quién culpar.",
+        "«¿Qué falta por instalar?», preguntó. Ivo le mostró los dos compartimentos vacíos para los módulos.",
+        "«Aparté dos módulos en mi taller», dijo Tavi. «Olvidé traerlos».",
+        "Regresó al taller, sacó los módulos sellados del cajón de suministros y volvió al patio.",
+        "Neri los instaló sin abrir las unidades selladas. Los dos faroles se encendieron.",
+        "Seli comprobó otra vez todas las luces y el paso despejado. Solo entonces autorizó la apertura."
       ],
       "introduction": "Un último problema práctico comprueba si Tavi preguntará, revisará y compartirá la responsabilidad.",
       "title": "Dos faroles oscuros"
     },
     "fr": {
       "altTexts": [
-        "Neri s’agenouille près de deux lanternes éteintes, avec Tavi et Seli.",
+        "Tavi, Ivo, Neri et Seli se rassemblent près des lanternes de la cour.",
         "Tavi garde son carnet fermé pendant que Neri examine une lanterne.",
-        "Neri montre à Tavi la liste de vérification des modules.",
-        "Neri montre à Tavi un boîtier vide à côté du second.",
+        "Ivo montre à Tavi deux boîtiers de lanterne vides.",
+        "Tavi parle près des deux lanternes éteintes tandis que les autres écoutent.",
         "Tavi sort deux modules fermés du tiroir de l’atelier.",
         "Neri termine la pose des modules ; les deux lanternes brillent.",
-        "Seli ouvre la porte ; Tavi et Neri se tiennent à l’écart."
+        "Seli vérifie les lanternes allumées et l’entrée dégagée tandis que le portail reste fermé."
       ],
       "captions": [
-        "L’après-midi suivant, Neri participa au dernier essai. La plupart des lanternes brillaient, mais deux près de l’entrée restaient éteintes.",
-        "Tavi sentit une accusation naître : quelqu’un avait oublié quelque chose. Il s’arrêta avant de la diriger contre une personne.",
-        "« Qu’avons-nous vérifié ? » demanda-t-il à Neri. « Et que reste-t-il à vérifier ? » Elle lui montra la liste des modules.",
-        "Les deux boîtiers étaient vides. Leurs modules lumineux fermés se trouvaient encore dans le tiroir de l’atelier, pas dans les caisses de verre.",
-        "Tavi alla les chercher. À l’atelier, il passa devant la machine et ouvrit plutôt le tiroir.",
-        "De retour dans la cour, Neri installa les modules et recommença l’essai. Les deux lanternes brillèrent ; Seli revérifia tout le parcours.",
-        "Seli n’ouvrit la porte qu’une fois les vérifications terminées. Tavi s’écarta pour laisser l’entrée libre."
+        "Le lendemain après-midi, l’équipe revint terminer les dernières vérifications avant l’ouverture.",
+        "Les deux lanternes marquées restaient éteintes. Cette fois, Tavi ne chercha personne à accuser.",
+        "« Que reste-t-il à installer ? » demanda-t-il. Ivo lui montra les deux logements de modules encore vides.",
+        "« J’ai mis deux modules de côté dans mon atelier, dit Tavi. J’ai oublié de les apporter. »",
+        "Il y retourna, prit les modules scellés dans le tiroir des fournitures et revint dans la cour.",
+        "Neri les installa sans ouvrir leurs unités scellées. Les deux lanternes s’allumèrent.",
+        "Seli vérifia de nouveau toutes les lumières et le passage libre. Alors seulement, elle autorisa l’ouverture."
       ],
       "introduction": "Un dernier problème pratique vérifie si Tavi saura demander, examiner et partager la responsabilité.",
       "title": "Deux lanternes éteintes"
     },
     "hi": {
       "altTexts": [
-        "नेरी दो बुझी लालटेनों के पास घुटने टेककर है और तावी व सेली पास हैं।",
+        "तावी, ईवो, नेरी और सेली आँगन की लालटेनों के पास इकट्ठे हैं।",
         "तावी नोटबुक बंद रखे है और नेरी लालटेन जाँच रही है।",
-        "नेरी तावी को रोशनी के पुर्जों की जाँच-सूची दिखा रही है।",
-        "नेरी तावी को एक खाली लालटेन-खोल दिखा रही है और पास दूसरा है।",
-        "तावी कार्यशाला की दराज़ से रोशनी के दो सीलबंद पुर्जे निकाल रहा है।",
+        "ईवो तावी को लालटेनों के दो खाली बाहरी खोल दिखा रहा है।",
+        "तावी दो बुझी लालटेनों के पास बात कर रहा है, जबकि बाकी लोग सुन रहे हैं।",
+        "तावी कार्यशाला की दराज़ से दो सीलबंद प्रकाश-मॉड्यूल निकाल रहा है।",
         "नेरी पुर्जे लगाने का काम खत्म कर रही है और दोनों लालटेनें चमक रही हैं।",
-        "सेली फाटक खोल रही है और तावी व नेरी एक तरफ खड़े हैं।"
+        "सेली जलती लालटेनों और बाधारहित प्रवेशद्वार की जाँच कर रही है; फाटक अभी बंद है।"
       ],
       "captions": [
-        "अगली दोपहर नेरी आखिरी रोशनी-जाँच में आई। ज्यादातर लालटेनें चमकीं, मगर प्रवेश के पास दो अँधेरी रहीं।",
-        "तावी के मन में आरोप आया: किसी से कुछ छूट गया होगा। किसी का नाम जोड़ने से पहले वह रुक गया।",
-        "उसने नेरी से पूछा, “क्या जाँच लिया है? और क्या बाकी है?” नेरी ने रोशनी वाले पुर्जों की सूची दिखाई।",
-        "दोनों खोल खाली थे। रोशनी के सीलबंद पुर्जे काँच ढोने वाली पेटियों में नहीं, कार्यशाला की सामान वाली दराज़ में थे।",
-        "तावी उन्हें लेने गया। कार्यशाला में वह मशीन के पास से गुजरा और उसे इस्तेमाल करने के बजाय दराज़ खोली।",
-        "आँगन में नेरी ने पुर्जे लगाए और फिर जाँच की। दोनों लालटेनें चमकीं। सेली ने पूरा रास्ता फिर देखा।",
-        "सारी जाँच पूरी होने के बाद ही सेली ने फाटक खोला। तावी किनारे हट गया ताकि प्रवेश खाली रहे।"
+        "अगले दिन दोपहर बाद टीम उद्घाटन से पहले आखिरी जाँच पूरी करने लौटी।",
+        "निशान लगी प्रवेश की दोनों लालटेनें अब भी अँधेरी थीं। इस बार तावी ने किसी को दोष देने की कोशिश नहीं की।",
+        "उसने पूछा, “अब भी क्या लगना बाकी है?” ईवो ने उसे दोनों खाली खाने दिखाए, जिनमें प्रकाश-मॉड्यूल लगने थे।",
+        "तावी ने कहा, “मैंने अपनी कार्यशाला में दो मॉड्यूल अलग रखे थे। उन्हें लाना भूल गया।”",
+        "वह वापस गया, सामान की दराज़ से सीलबंद मॉड्यूल निकाले और आँगन में लौट आया।",
+        "नेरी ने उनकी सीलबंद इकाइयाँ खोले बिना उन्हें लगा दिया। दोनों लालटेनें जल उठीं।",
+        "सेली ने फिर सभी बत्तियाँ और रास्ते का खुलापन जाँचा। उसके बाद ही उसने उद्घाटन की मंज़ूरी दी।"
       ],
       "introduction": "आखिरी दिक्कत परखती है कि तावी पूछेगा, जाँचेगा और जिम्मेदारी बाँटेगा या नहीं।",
       "title": "दो अँधेरी लालटेनें"
     },
     "id": {
       "altTexts": [
-        "Neri berlutut dekat dua lentera gelap bersama Tavi dan Seli.",
+        "Tavi, Ivo, Neri, dan Seli berkumpul di dekat lentera halaman.",
         "Tavi membiarkan bukunya tertutup sementara Neri memeriksa lentera.",
-        "Neri menunjukkan daftar pemeriksaan modul kepada Tavi.",
-        "Neri menunjukkan rumah lampu kosong kepada Tavi, di dekat yang kedua.",
+        "Ivo menunjukkan dua rumah lentera yang kosong kepada Tavi.",
+        "Tavi berbicara di samping dua lentera gelap sementara yang lain mendengarkan.",
         "Tavi mengambil dua modul tertutup dari laci bengkel.",
         "Neri menyelesaikan pemasangan modul saat kedua lentera menyala.",
-        "Seli membuka gerbang sementara Tavi dan Neri berdiri di samping."
+        "Seli memeriksa lentera yang menyala dan pintu masuk yang bebas hambatan sementara gerbang tetap tertutup."
       ],
       "captions": [
-        "Sore berikutnya, Neri ikut pengujian lampu terakhir. Sebagian besar lentera menyala, tetapi dua di dekat pintu masuk tetap gelap.",
-        "Tavi merasakan tuduhan mulai terbentuk: seseorang pasti melupakan sesuatu. Ia berhenti sebelum mengarahkannya kepada siapa pun.",
-        "“Apa yang sudah kita periksa?” tanyanya kepada Neri. “Apa yang masih perlu diperiksa?” Neri menunjukkan daftar modul.",
-        "Kedua rumah lampu itu kosong. Modul cahaya tertutupnya masih berada di laci persediaan bengkel, bukan dalam peti pengiriman kaca.",
-        "Tavi pergi mengambilnya. Di bengkel, ia melewati mesin dan membuka laci sebagai gantinya.",
-        "Kembali di halaman, Neri memasang modul dan mengulangi tes. Kedua lentera menyala; Seli memeriksa seluruh jalur sekali lagi.",
-        "Seli baru membuka gerbang setelah pemeriksaan selesai. Tavi menepi agar pintu masuk tetap bebas."
+        "Sore berikutnya, tim kembali untuk menyelesaikan pemeriksaan terakhir sebelum pembukaan.",
+        "Kedua lentera yang ditandai masih gelap. Kali ini, Tavi tidak mencari orang untuk disalahkan.",
+        "“Apa yang masih perlu dipasang?” tanyanya. Ivo menunjukkan dua tempat modul yang kosong.",
+        "“Aku menyisihkan dua modul di bengkel,” kata Tavi. “Aku lupa membawanya.”",
+        "Ia kembali, mengambil modul tertutup itu dari laci persediaan, lalu membawanya ke halaman.",
+        "Neri memasangnya tanpa membuka unit yang tersegel. Kedua lentera menyala.",
+        "Seli memeriksa lagi semua lampu dan kelapangan jalan. Barulah ia mengizinkan pembukaan."
       ],
       "introduction": "Masalah praktis terakhir menguji apakah Tavi akan bertanya, memeriksa, dan berbagi tanggung jawab.",
       "title": "Dua Lentera Padam"
     },
     "it": {
       "altTexts": [
-        "Neri si inginocchia presso due lanterne buie, accanto a Tavi e Seli.",
+        "Tavi, Ivo, Neri e Seli si radunano accanto alle lanterne del cortile.",
         "Tavi tiene chiuso il quaderno mentre Neri esamina una lanterna.",
-        "Neri mostra a Tavi la lista di controllo dei moduli.",
-        "Neri mostra a Tavi un alloggiamento vuoto accanto all’altro.",
+        "Ivo mostra a Tavi due involucri vuoti di lanterna.",
+        "Tavi parla accanto alle due lanterne spente mentre gli altri ascoltano.",
         "Tavi prende due moduli sigillati dal cassetto del laboratorio.",
         "Neri termina il montaggio dei moduli mentre entrambe le lanterne brillano.",
-        "Seli apre il cancello; Tavi e Neri restano da parte."
+        "Seli controlla le lanterne accese e l’ingresso sgombro mentre il cancello resta chiuso."
       ],
       "captions": [
-        "Il pomeriggio seguente, Neri partecipò alla prova finale. Quasi tutte le lanterne brillavano, ma due vicino all’ingresso restavano buie.",
-        "Tavi sentì nascere un’accusa: qualcuno aveva dimenticato qualcosa. Si fermò prima di rivolgere quel pensiero contro una persona.",
-        "«Che cosa abbiamo controllato?» chiese a Neri. «E che cosa manca da controllare?» Lei gli mostrò l’elenco dei moduli.",
-        "I due alloggiamenti erano vuoti. I moduli sigillati erano ancora nel cassetto delle scorte in laboratorio, non nelle casse dei vetri.",
-        "Tavi andò a prenderli. In laboratorio passò davanti alla macchina e aprì invece il cassetto.",
-        "Di nuovo in cortile, Neri inserì i moduli e ripeté la prova. Entrambe le lanterne brillarono; Seli ricontrollò tutto il percorso.",
-        "Solo dopo tutti i controlli Seli aprì il cancello. Tavi si spostò per lasciare libero l’ingresso."
+        "Il pomeriggio seguente, la squadra tornò per completare le ultime verifiche prima dell’apertura.",
+        "Le due lanterne segnate erano ancora spente. Stavolta Tavi non cercò qualcuno da incolpare.",
+        "«Che cosa manca da montare?», chiese. Ivo gli mostrò i due alloggiamenti dei moduli ancora vuoti.",
+        "«Ho messo da parte due moduli nel mio laboratorio», disse Tavi. «Ho dimenticato di portarli».",
+        "Tornò in laboratorio, prese i moduli sigillati dal cassetto dei materiali e li portò nel cortile.",
+        "Neri li montò senza aprire le unità sigillate. Entrambe le lanterne si accesero.",
+        "Seli controllò ancora tutte le luci e il passaggio libero. Solo allora autorizzò l’apertura."
       ],
       "introduction": "Un ultimo problema pratico verifica se Tavi sa chiedere, controllare e condividere la responsabilità.",
       "title": "Due lanterne buie"
     },
     "ja": {
       "altTexts": [
-        "タヴィとセリのそばで、ネリが二つの暗いランタンの横にひざをついています。",
+        "タヴィ、イヴォ、ネリ、セリが中庭のランタンのそばに集まっています。",
         "タヴィが手帳を閉じたまま持ち、ネリがランタンを調べています。",
-        "ネリがタヴィに点灯部品の確認表を見せています。",
-        "ネリがタヴィに空の本体を見せ、その隣にも同じ本体があります。",
+        "イヴォがタヴィに、中が空のランタンの外側のケースを二つ見せています。",
+        "タヴィが消えた二つのランタンのそばで話し、ほかの人たちが聞いています。",
         "タヴィが作業場の引き出しから二つの密閉部品を取り出しています。",
         "ネリが取り付けを終え、二つのランタンが光っています。",
-        "セリが門を開き、タヴィとネリが脇に立っています。"
+        "セリが点灯したランタンと障害物のない入口を確かめています。門はまだ閉じています。"
       ],
       "captions": [
-        "翌日の午後、ネリが最後の点灯試験に加わりました。ほとんどは光りましたが、入口近くの二つだけが暗いままです。",
-        "誰かが何かを忘れた。タヴィの中に非難が浮かびました。でも、責める相手を決める前に止まりました。",
-        "「何を確認した？　まだ何を確かめればいい？」。ネリは灯りの部品の一覧を見せました。",
-        "二つの本体は空でした。密閉された点灯部品は、ガラスを運んだ箱ではなく、作業場の備品の引き出しに残っていました。",
-        "タヴィは取りに戻りました。作業場では機械の横を通り過ぎ、引き出しを開けました。",
-        "中庭でネリが部品を付け、再び試しました。二つとも光りました。セリは道全体をもう一度確認しました。",
-        "すべての確認が終わってから、セリが門を開けました。タヴィは入口を空けるため脇へ寄りました。"
+        "翌日の午後、みんなは開場前の最後の作業と点検を終えるために戻った。",
+        "印を付けた入口の二つは、まだ暗かった。今度のタヴィは、責める相手を探さなかった。",
+        "「まだ何を取り付ける必要があるの？」と尋ねた。イヴォは、発光モジュールの入っていない二つの器を見せた。",
+        "「工房に二つ取り分けておいたんだ」とタヴィは言った。「持ってくるのを忘れた」",
+        "工房へ戻り、備品の引き出しから密閉された発光モジュールを取り、中庭へ運んだ。",
+        "ネリは密閉部分を開かずに取り付けた。二つのランタンがどちらも灯った。",
+        "セリはすべての灯りと通路の空きをもう一度確かめた。それから初めて、開場を認めた。"
       ],
       "introduction": "最後の不具合が、タヴィに質問と確認と共同作業を選べるか問いかけます。",
       "title": "灯らない二つ"
     },
     "ko": {
       "altTexts": [
-        "네리가 꺼진 두 등 옆에 무릎을 꿇고, 타비와 셀리가 곁에 있어요.",
+        "타비, 이보, 네리, 셀리가 마당의 등 곁에 모여 있어요.",
         "타비가 수첩을 닫아 둔 채 있고, 네리는 등을 살펴요.",
-        "네리가 타비에게 조명 부품 점검표를 보여 줘요.",
-        "네리가 빈 등 본체를 보여 주고, 그 옆에도 하나가 더 있어요.",
+        "이보가 타비에게 속이 빈 등 몸체 두 개를 보여 줘요.",
+        "타비가 꺼진 등 두 개 옆에서 말하고, 나머지 사람들이 듣고 있어요.",
         "타비가 작업실 서랍에서 밀봉된 조명 부품 두 개를 꺼내요.",
         "네리가 설치를 끝내고, 두 등이 모두 빛나요.",
-        "셀리가 문을 열고, 타비와 네리는 옆에 서 있어요."
+        "셀리가 켜진 등과 막힘없는 입구를 확인하는 동안 문은 닫혀 있어요."
       ],
       "captions": [
-        "다음 날 오후, 네리가 마지막 점등 시험에 왔어요. 대부분 빛났지만 입구 근처 두 등은 어두웠어요.",
-        "타비에게 누군가 뭔가를 잊었다는 생각이 떠올랐어요. 하지만 특정한 사람을 탓하기 전에 멈췄어요.",
-        "“무엇을 확인했지? 또 무엇을 확인해야 할까?” 타비가 묻자 네리는 조명 부품 목록을 보여 줬어요.",
-        "두 등 안은 비어 있었어요. 밀봉된 조명 부품은 유리를 운반한 상자가 아니라 작업실의 물품 서랍에 남아 있었어요.",
-        "타비는 가지러 갔어요. 작업실에서 기계를 지나쳐 곧장 서랍을 열었어요.",
-        "마당에서 네리가 부품을 끼우고 다시 시험했어요. 둘 다 켜졌고, 셀리는 전체 경로를 다시 점검했어요.",
-        "모든 확인이 끝나고서야 셀리가 문을 열었어요. 타비는 입구를 비우려고 옆으로 물러났어요."
+        "다음 날 오후, 작업팀이 개장 전 마지막 점검을 마치러 돌아왔다.",
+        "표시해 둔 입구 등불 두 개는 여전히 어두웠다. 이번에는 타비가 탓할 사람을 찾지 않았다.",
+        "“아직 뭘 달아야 해?” 타비가 물었다. 이보가 조명 모듈이 들어갈 빈 외함 두 개를 보여 주었다.",
+        "“내 작업실에 모듈 두 개를 따로 두었어.” 타비가 말했다. “가져오는 걸 잊었어.”",
+        "타비는 돌아가서 물품 서랍에 있던 밀봉된 모듈을 꺼낸 뒤, 안뜰로 다시 왔다.",
+        "네리는 밀봉된 장치 자체를 열지 않고 모듈을 장착했다. 두 등불 모두 켜졌다.",
+        "셀리가 모든 조명과 장애물 없는 통로를 다시 확인했다. 그제야 개장을 허락했다."
       ],
       "introduction": "마지막 문제가 타비가 질문하고 점검하며 책임을 나눌 수 있는지 시험합니다.",
       "title": "어두운 두 등"
     },
     "pl": {
       "altTexts": [
-        "Neri klęczy przy dwóch ciemnych lampionach obok Taviego i Seli.",
+        "Tavi, Ivo, Neri i Seli zbierają się przy lampionach na dziedzińcu.",
         "Tavi trzyma notes zamknięty, a Neri ogląda lampion.",
-        "Neri pokazuje Taviemu listę kontrolną modułów.",
-        "Neri pokazuje Taviemu jedną pustą obudowę obok drugiej.",
+        "Ivo pokazuje Taviemu dwie puste obudowy lampionów.",
+        "Tavi mówi przy dwóch ciemnych lampionach, a pozostali słuchają.",
         "Tavi wyjmuje dwa zamknięte moduły z szuflady warsztatu.",
         "Neri kończy montaż modułów, a oba lampiony świecą.",
-        "Seli otwiera bramę; Tavi i Neri stoją z boku."
+        "Seli sprawdza świecące lampiony i drożne wejście, a brama pozostaje zamknięta."
       ],
       "captions": [
-        "Następnego popołudnia Neri dołączyła do ostatniej próby świateł. Większość lampionów świeciła, ale dwa przy wejściu pozostawały ciemne.",
-        "W Tavim rosło oskarżenie: ktoś o czymś zapomniał. Powstrzymał się, zanim skierował je przeciwko konkretnej osobie.",
-        "„Co już sprawdziliśmy?” zapytał Neri. „A co jeszcze trzeba sprawdzić?” Pokazała mu listę modułów.",
-        "Obie obudowy były puste. Ich zamknięte moduły świetlne nadal leżały w szufladzie warsztatu, a nie w skrzyniach ze szkłem.",
-        "Tavi poszedł je przynieść. W warsztacie minął maszynę i otworzył szufladę, zamiast z niej korzystać.",
-        "Kiedy Tavi wrócił na dziedziniec, Neri włożyła moduły i powtórzyła próbę. Oba lampiony zaświeciły; Seli jeszcze raz sprawdziła całą trasę.",
-        "Dopiero po zakończeniu kontroli Seli otworzyła bramę. Tavi odsunął się, zostawiając wolne wejście."
+        "Następnego popołudnia zespół wrócił, żeby zakończyć ostatnie kontrole przed otwarciem.",
+        "Dwa oznaczone lampiony nadal nie świeciły. Tym razem Tavi nie szukał winnego.",
+        "„Co jeszcze trzeba zamontować?” — zapytał. Ivo pokazał mu dwa puste miejsca na moduły.",
+        "„Odłożyłem dwa moduły w warsztacie” — powiedział Tavi. „Zapomniałem je przynieść”.",
+        "Wrócił do warsztatu, wyjął zamknięte moduły z szuflady na zapasy i przyniósł je na dziedziniec.",
+        "Neri zamontowała je bez otwierania zamkniętych jednostek. Oba lampiony się rozświetliły.",
+        "Seli jeszcze raz sprawdziła wszystkie światła i wolne przejście. Dopiero wtedy zatwierdziła otwarcie."
       ],
       "introduction": "Ostatni praktyczny problem sprawdza, czy Tavi potrafi pytać, kontrolować i dzielić odpowiedzialność.",
       "title": "Dwa ciemne lampiony"
     },
     "pt": {
       "altTexts": [
-        "Neri se ajoelha perto de duas lanternas apagadas, com Tavi e Seli.",
+        "Tavi, Ivo, Neri e Seli se reúnem junto às lanternas do pátio.",
         "Tavi mantém o caderno fechado enquanto Neri examina uma lanterna.",
-        "Neri mostra a Tavi a lista de verificação dos módulos.",
-        "Neri mostra a Tavi um compartimento vazio ao lado do outro.",
+        "Ivo mostra a Tavi duas carcaças vazias de lanterna.",
+        "Tavi fala junto às duas lanternas apagadas enquanto os outros escutam.",
         "Tavi retira dois módulos selados da gaveta da oficina.",
         "Neri termina de encaixar os módulos enquanto as duas lanternas brilham.",
-        "Seli abre o portão; Tavi e Neri ficam de lado."
+        "Seli confere as lanternas acesas e a entrada livre enquanto o portão continua fechado."
       ],
       "captions": [
-        "Na tarde seguinte, Neri participou do teste final de iluminação. Quase todas as lanternas brilhavam, mas duas perto da entrada continuavam apagadas.",
-        "Tavi sentiu uma acusação se formar: alguém havia esquecido alguma coisa. Parou antes de dirigir aquele pensamento a uma pessoa.",
-        "“O que já verificamos?”, perguntou a Neri. “E o que ainda falta verificar?” Ela mostrou a lista de módulos.",
-        "Os dois compartimentos estavam vazios. Seus módulos selados ainda estavam na gaveta de suprimentos da oficina, não nos caixotes que trouxeram os vidros.",
-        "Tavi foi buscá-los. Na oficina, passou pela máquina e abriu a gaveta em vez de usá-la.",
-        "De volta ao pátio, Neri encaixou os módulos e repetiu o teste. As duas lanternas brilharam; Seli conferiu novamente todo o percurso.",
-        "Só depois de concluir as verificações, Seli abriu o portão. Tavi se afastou para manter a entrada livre."
+        "Na tarde seguinte, a equipe voltou para concluir as últimas verificações antes da abertura.",
+        "As duas lanternas marcadas continuavam apagadas. Dessa vez, Tavi não procurou alguém para culpar.",
+        "“O que ainda falta instalar?”, perguntou. Ivo mostrou os dois compartimentos de módulos vazios.",
+        "“Separei dois módulos na minha oficina”, disse Tavi. “Esqueci de trazê-los.”",
+        "Ele voltou à oficina, pegou os módulos selados na gaveta de materiais e retornou ao pátio.",
+        "Neri os instalou sem abrir as unidades seladas. As duas lanternas acenderam.",
+        "Seli conferiu novamente todas as luzes e a passagem livre. Só então autorizou a abertura."
       ],
       "introduction": "Um último problema prático verifica se Tavi consegue perguntar, conferir e dividir a responsabilidade.",
       "title": "Duas lanternas apagadas"
     },
     "ru": {
       "altTexts": [
-        "Нери опускается возле двух тёмных фонарей рядом с Тави и Сели.",
+        "Тави, Иво, Нери и Сели собираются возле фонарей во дворе.",
         "Тави держит блокнот закрытым; Нери осматривает фонарь.",
-        "Нери показывает Тави список проверки модулей.",
-        "Нери показывает Тави пустой корпус рядом со вторым.",
+        "Иво показывает Тави два пустых корпуса фонарей.",
+        "Тави говорит рядом с двумя тёмными фонарями, а остальные слушают.",
         "Тави достаёт из ящика мастерской два герметичных модуля.",
         "Нери завершает установку; оба фонаря светятся.",
-        "Сели открывает ворота; Тави и Нери стоят в стороне."
+        "Сели проверяет горящие фонари и свободный вход; ворота остаются закрытыми."
       ],
       "captions": [
-        "На следующий день после обеда Нери пришла на окончательную проверку света. Почти все фонари горели, но два у входа оставались тёмными.",
-        "У Тави уже складывалось обвинение: кто-то что-то забыл. Он остановился, прежде чем выбрать виноватого.",
-        "«Что мы уже проверили? — спросил он Нери. — А что ещё осталось?» Она показала список модулей.",
-        "Оба корпуса были пусты. Их герметичные световые модули лежали в ящике мастерской, а не среди ящиков со стеклом.",
-        "Тави пошёл за ними. В мастерской он прошёл мимо машины и открыл ящик с припасами.",
-        "Во дворе Нери установила модули и повторила проверку. Оба фонаря загорелись; Сели снова проверила весь маршрут.",
-        "Лишь после всех проверок Сели открыла ворота. Тави отошёл, оставляя вход свободным."
+        "На следующий день после обеда команда вернулась, чтобы завершить последние проверки перед открытием.",
+        "Два отмеченных входных фонаря всё ещё не горели. На этот раз Тави не стал искать виноватого.",
+        "«Что ещё надо установить?» — спросил он. Иво показал два пустых отсека для модулей.",
+        "«Я отложил два модуля у себя в мастерской, — сказал Тави. — И забыл принести их».",
+        "Он вернулся, взял герметичные модули из ящика с запасами и принёс их во двор.",
+        "Нери установила модули, не вскрывая их герметичные корпуса. Оба фонаря зажглись.",
+        "Сели ещё раз проверила все лампы и свободный проход. Только после этого она разрешила открытие."
       ],
       "introduction": "Последняя неполадка проверяет, будет ли Тави спрашивать, проверять и делить ответственность.",
       "title": "Два тёмных фонаря"
     },
     "tr": {
       "altTexts": [
-        "Neri, Tavi ile Seli’nin yanında iki karanlık fenerin önünde diz çöküyor.",
+        "Tavi, Ivo, Neri ve Seli, avludaki fenerlerin yanında toplanıyor.",
         "Tavi defterini kapalı tutarken Neri bir feneri inceliyor.",
-        "Neri, Tavi’ye modül kontrol listesini gösteriyor.",
-        "Neri, Tavi’ye yan yana duran boş fener yuvalarından birini gösteriyor.",
+        "Ivo, Tavi’ye iki boş fener gövdesi gösteriyor.",
+        "Diğerleri dinlerken Tavi, iki karanlık fenerin yanında konuşuyor.",
         "Tavi, atölye çekmecesinden iki kapalı modül alıyor.",
         "Neri modülleri takmayı bitirirken iki fener de parlıyor.",
-        "Seli kapıyı açarken Tavi ile Neri kenarda duruyor."
+        "Kapı kapalı kalırken Seli, yanan fenerleri ve engelsiz girişi kontrol ediyor."
       ],
       "captions": [
-        "Ertesi öğleden sonra Neri son ışık denemesine katıldı. Çoğu fener parlıyordu, ama girişteki iki fener karanlıktı.",
-        "Tavi içinde bir suçlamanın oluştuğunu hissetti: Biri bir şey unutmuştu. Bu düşünceyi birine yöneltmeden durdu.",
-        "“Neleri kontrol ettik?” diye sordu Neri’ye. “Neleri hâlâ kontrol etmemiz gerekiyor?” Neri modül listesini gösterdi.",
-        "İki yuva da boştu. Kapalı ışık modülleri, camların taşındığı sandıklarda değil, hâlâ atölyenin malzeme çekmecesindeydi.",
-        "Tavi onları almaya gitti. Atölyede makinenin yanından geçip onun yerine çekmeceyi açtı.",
-        "Tavi avluya dönünce Neri modülleri takıp denemeyi yineledi. İki fener de yandı; Seli bütün yolu yeniden kontrol etti.",
-        "Seli kapıyı ancak kontroller bitince açtı. Tavi girişi açık bırakmak için kenara çekildi."
+        "Ertesi öğleden sonra ekip, açılış öncesindeki son kontrolleri bitirmek için döndü.",
+        "İşaretli iki giriş feneri hâlâ karanlıktı. Bu kez Tavi suçlayacak birini aramadı.",
+        "“Daha ne takılması gerekiyor?” diye sordu. Ivo iki boş modül yuvasını gösterdi.",
+        "“Atölyemde iki modül ayırmıştım,” dedi Tavi. “Getirmeyi unuttum.”",
+        "Atölyeye dönüp kapalı ışık modüllerini malzeme çekmecesinden aldı ve avluya getirdi.",
+        "Neri, kapalı modülleri içlerini açmadan yerlerine taktı. İki fener de yandı.",
+        "Seli bütün ışıkları ve açık geçişi yeniden kontrol etti. Ancak bundan sonra açılışa izin verdi."
       ],
       "introduction": "Son bir pratik sorun, Tavi’nin sorup inceleyeceğini ve sorumluluğu paylaşacağını sınar.",
       "title": "İki Karanlık Fener"
     },
     "vi": {
       "altTexts": [
-        "Neri quỳ cạnh hai đèn tối, bên Tavi và Seli.",
+        "Tavi, Ivo, Neri và Seli tập trung cạnh những chiếc đèn trong sân.",
         "Tavi giữ sổ đóng, còn Neri kiểm tra đèn.",
-        "Neri cho Tavi xem danh sách kiểm tra bộ phát sáng.",
-        "Neri chỉ cho Tavi một vỏ đèn rỗng cạnh chiếc còn lại.",
+        "Ivo cho Tavi xem hai vỏ đèn rỗng.",
+        "Tavi nói bên cạnh hai đèn tối trong khi những người khác lắng nghe.",
         "Tavi lấy hai bộ phát sáng kín từ ngăn kéo xưởng.",
         "Neri lắp xong bộ phát sáng khi cả hai đèn đều sáng.",
-        "Seli mở cổng, Tavi và Neri đứng sang bên."
+        "Seli kiểm tra các đèn đã sáng và lối vào thông thoáng trong khi cổng vẫn đóng."
       ],
       "captions": [
-        "Chiều hôm sau, Neri tham gia lần thử đèn cuối. Phần lớn đèn đã sáng, nhưng hai chiếc gần cửa vẫn tối.",
-        "Tavi cảm thấy lời buộc tội sắp bật ra: ai đó đã quên gì đó. Cậu dừng trước khi nhắm ý nghĩ vào một người.",
-        "“Chúng ta đã kiểm tra những gì?” cậu hỏi Neri. “Và còn gì cần kiểm tra?” Cô đưa cậu danh sách bộ phát sáng.",
-        "Hai vỏ đèn đều trống. Các bộ phát sáng kín vẫn ở ngăn vật tư trong xưởng, không nằm trong thùng kính.",
-        "Tavi đi lấy chúng. Trong xưởng, cậu đi qua máy và mở ngăn kéo thay vì dùng nó.",
-        "Khi Tavi trở lại sân, Neri lắp bộ phát sáng rồi thử lại. Cả hai đèn sáng lên; Seli kiểm tra lại toàn bộ đường đi.",
-        "Chỉ sau khi kiểm tra xong, Seli mới mở cổng. Tavi bước sang bên để chừa lối vào."
+        "Chiều hôm sau, cả nhóm trở lại để hoàn tất những kiểm tra cuối trước khai mạc.",
+        "Hai đèn lồng đã đánh dấu vẫn tối. Lần này Tavi không tìm người để đổ lỗi.",
+        "“Còn phải lắp gì?” anh hỏi. Ivo chỉ cho anh hai khoang mô-đun trống.",
+        "“Tôi đã để riêng hai mô-đun ở xưởng,” Tavi nói. “Tôi quên mang chúng đến.”",
+        "Anh quay lại lấy hai mô-đun kín trong ngăn kéo vật tư rồi mang ra sân.",
+        "Neri lắp chúng mà không mở các bộ phận đã niêm kín. Cả hai đèn lồng sáng lên.",
+        "Seli kiểm tra lại mọi đèn và lối đi thông thoáng. Chỉ khi đó cô mới cho phép khai mạc."
       ],
       "introduction": "Vấn đề thực tế cuối cùng kiểm tra xem Tavi có biết hỏi, kiểm tra và chia sẻ trách nhiệm hay không.",
       "title": "Hai chiếc đèn tối"
     },
     "zh": {
       "altTexts": [
-        "内莉蹲在两盏未亮的灯旁，塔维和塞莉站在附近。",
+        "塔维、伊沃、内莉和塞莉聚在庭院的灯笼旁。",
         "塔维让笔记本保持合上，内莉检查灯笼。",
-        "内莉向塔维展示模块检查清单。",
-        "内莉向塔维展示一个空灯壳，旁边还有另一个。",
+        "伊沃向塔维展示两个空的灯笼外壳。",
+        "塔维在两盏熄着的灯笼旁说话，其他人听着。",
         "塔维从工作室抽屉里取出两个密封模块。",
         "内莉完成模块安装，两盏灯都已发光。",
-        "塞莉打开入口，塔维和内莉站在一边。"
+        "塞莉检查点亮的灯笼和畅通的入口，门仍然关着。"
       ],
       "captions": [
-        "第二天下午，内莉来参加最后的灯光测试。大多数灯笼亮了，入口旁却有两盏仍然黑着。",
-        "塔维心里冒出一句指责：一定有人忘了什么。他还没给这念头找个对象，就停住了。",
-        "“我们已经查过什么？”他问内莉，“还有什么没查？”她把模块清单给他看。",
-        "两个灯壳里都空着。它们的密封发光模块还在工作室抽屉里，并不在运送玻璃的箱子中。",
-        "塔维去拿模块。在工作室里，他走过机器，直接打开了储物抽屉。",
-        "塔维回到庭院后，内莉装好模块，重新测试。两盏都亮了，塞莉又检查了一遍整条路线。",
-        "全部检查结束后，塞莉才打开入口。塔维退到一旁，把通道留出来。"
+        "第二天下午，大家回来完成开放前的最后检查。",
+        "两只做过标记的入口灯笼仍然没亮。这一次，塔维没有找人责怪。",
+        "“还有什么没有装？”他问。伊沃给他看了两个空着的灯光模块安装槽。",
+        "“我在工坊里另放了两个模块，”塔维说，“我忘了带来。”",
+        "他回工坊，从储物抽屉里取出密封的灯光模块，再带回庭院。",
+        "内莉没有拆开密封组件，就把模块装了进去。两只灯笼都亮了。",
+        "塞莉重新检查了所有灯光和畅通的通道。直到这时，她才批准开放。"
       ],
       "introduction": "最后一个实际问题，检验塔维是否真的学会了询问、检查和共同负责。",
       "title": "两盏没亮的灯"
@@ -401,7 +401,7 @@
   "number": 23,
   "panels": [
     {
-      "altText": "Neri kneels by two dark lanterns beside Tavi and Seli.",
+      "altText": "Tavi, Ivo, Neri, and Seli gather beside the courtyard lanterns.",
       "image": "N03E23P01.png"
     },
     {
@@ -409,11 +409,11 @@
       "image": "N03E23P02.png"
     },
     {
-      "altText": "Neri shows Tavi the module checklist.",
+      "altText": "Ivo shows Tavi two empty lantern housings.",
       "image": "N03E23P03.png"
     },
     {
-      "altText": "Neri shows Tavi an empty lamp housing beside another.",
+      "altText": "Tavi speaks beside the two dark lanterns while the others listen.",
       "image": "N03E23P04.png"
     },
     {
@@ -425,7 +425,7 @@
       "image": "N03E23P06.png"
     },
     {
-      "altText": "Seli opens the gate while Tavi and Neri stand aside.",
+      "altText": "Seli checks the lit lanterns and clear entrance while the gate remains shut.",
       "image": "N03E23P07.png"
     }
   ],

@@ -4,21 +4,21 @@
     "ar": {
       "altTexts": [
         "يقرأ تافي بطاقة لوما بجوار الآلة المتوقفة.",
-        "يدخل تافي ورقة شكوى جديدة في الآلة.",
         "يرفع تافي ورقة أطول من صينية الإخراج.",
+        "تصل لوما إلى ورشة تافي ومعها إطار النجمة.",
         "تمسك لوما بالرد بجوار الإطار الذي وضعته.",
-        "يفحص تافي وصلة مفصولة بجوار أنبوب البريد.",
+        "يدخل تافي بطاقة في كبسولة زرقاء واحدة.",
         "يرفع تافي المفتاح والوصلة مثبتة في مكانها.",
-        "يواجه تافي النافذة بينما تغادر كبسولة الآلة."
+        "يقف تافي مواجهًا النافذة بينما تمر كبسولة عبر أنبوب البريد."
       ],
       "captions": [
-        "في الورشة، قرأ تافي جواب لوما. انتبه إلى التفسير، لكنه أغفل الاعتذار.",
-        "تمتم: «تظن أن الانشغال يبرر كل شيء». وأدخل هذه الشكوى في الآلة.",
-        "كان الرد التالي أطول وأبرد. حسب تافي الجمل السلسة حكما عادلا.",
-        "عندما وصلت لوما، أعطاها الرد بدلا من الاستماع. وضعت إطار المدخل وغادرت.",
-        "وحيدا مرة أخرى، وجد تافي الوضع التلقائي. عند توصيل الآلة بالأنبوب، تستطيع الإجابة عن رسائل العمل الواردة.",
-        "ثبت الوصلة ورفع المفتاح المربع في الآلة. ستتلقى الآن كل رسالة واردة ردا من دون مراجعته.",
-        "في الخارج، تمايلت الفوانيس الأولى مع نسيم المساء. وفي الداخل، بدأت الآلة تجيب أشخاصا لم يستمع إليهم تافي."
+        "وصل شرح لوما قبل وصولها. قرأه تافي، لكنه لم يأخذ اعتذارها بجدية.",
+        "قال للآلة: «إنها تختلق الأعذار الآن». فطبعت اتهامًا آخر.",
+        "وصلت لوما ومعها الإطار. سألت: «هل يمكننا أن نتحدث؟»",
+        "دفعا الإطار معًا فوق الطاولة. وبدل أن يجيبها، ناولها تافي الورقة المطبوعة.",
+        "غادرت لوما. وأرسل تافي إلى المشاركين في المشروع دعوة لحضور اجتماع عمل في مساء اليوم التالي.",
+        "ثم ركب الوصلة وشغل الرد التلقائي على الرسائل الواردة بشأن المشروع.",
+        "كان قد اختار لها توجيها ثابتا: «دافعي عن موقفي». وصارت الردود تُرسل من دون أن يراجعها."
       ],
       "introduction": "يمنح تافي الآلة وصولا إلى الرسائل الواردة، فيتحول سوء الفهم إلى نمط متكرر.",
       "title": "المفتاح السهل"
@@ -26,21 +26,21 @@
     "bn": {
       "altTexts": [
         "টাভি থেমে থাকা যন্ত্রের পাশে লুমার কার্ড পড়ছে।",
-        "টাভি নতুন অভিযোগের চিরকুট যন্ত্রে ঢোকাচ্ছে।",
         "টাভি বেরোনোর ট্রে থেকে লম্বা একটি কাগজ তুলছে।",
+        "লুমা তারার ফ্রেমটি নিয়ে টাভির কর্মশালায় আসছে।",
         "লুমা নামিয়ে রাখা কাঠামোর পাশে উত্তর ধরে আছে।",
-        "টাভি ডাকের নলের পাশে আলাদা রাখা সংযোগের অংশটি দেখছে।",
+        "টাভি একটি নীল ক্যাপসুলে কার্ড ঢোকাচ্ছে।",
         "সংযোগ লাগানো অবস্থায় টাভি সুইচ তুলছে।",
-        "টাভি জানালার দিকে মুখ করে আছে, আর যন্ত্র থেকে ক্যাপসুল বেরোচ্ছে।"
+        "ডাকের নল দিয়ে একটি ক্যাপসুল চলে যায়, আর টাভি জানালার দিকে মুখ করে থাকে।"
       ],
       "captions": [
-        "কর্মশালায় টাভি লুমার উত্তর পড়ল। তার চোখে ব্যাখ্যাটা পড়ল, ক্ষমা চাওয়াটা নয়।",
-        "সে বিড়বিড় করল, “ব্যস্ত থাকলেই বুঝি সব মাফ!” সেই অভিযোগ যন্ত্রে ঢুকিয়ে দিল।",
-        "পরের উত্তর আরও লম্বা, আরও ঠান্ডা ছিল। টাভি মসৃণ বাক্যগুলোকে ন্যায্য রায় ভেবে নিল।",
-        "লুমা এলে টাভি শোনার বদলে উত্তরটি ধরিয়ে দিল। লুমা প্রবেশপথের কাঠামো নামিয়ে রেখে চলে গেল।",
-        "আবার একা হয়ে টাভি স্বয়ংক্রিয় উত্তর দেওয়ার ব্যবস্থা পেল। নলে যুক্ত থাকলে যন্ত্রটি কাজের আসা চিরকুটের উত্তর নিজেই দিতে পারত।",
-        "টাভি সংযোগ লাগিয়ে যন্ত্রের চৌকো সুইচ ওপরে তুলল। এখন প্রতিটি আসা চিরকুটের উত্তর তার যাচাই ছাড়াই তৈরি হবে।",
-        "বাইরে প্রথম কয়েকটি লণ্ঠন সন্ধ্যার হাওয়ায় দুলছিল। ভেতরে যন্ত্রটি এমন লোকদের উত্তর দিচ্ছিল, যাদের কথা টাভি শোনেনি।"
+        "লুমা পৌঁছানোর আগেই তার ব্যাখ্যা টাভির কাছে এল। সে পড়ল, কিন্তু ক্ষমা চাওয়ার কথাটা গুরুত্ব দিল না।",
+        "সে যন্ত্রকে বলল, “এখন আবার অজুহাত দিচ্ছে।” যন্ত্র আরেকটা অভিযোগ ছেপে দিল।",
+        "লুমা কাঠামোটা নিয়ে এল। জিজ্ঞেস করল, “আমরা কি একটু কথা বলতে পারি?”",
+        "দুজনে কাঠামোটা ঠেলে টেবিলের ওপর তুলল। উত্তর না দিয়ে টাভি লুমার হাতে ছাপা কাগজটা ধরিয়ে দিল।",
+        "লুমা চলে গেল। টাভি কাজে সাহায্য করা লোকজনকে পরদিন সন্ধ্যায় কাজের আলোচনা করতে আসার আমন্ত্রণ পাঠাল।",
+        "তারপর সংযোগকারী লাগিয়ে প্রকল্পের নতুন চিঠিগুলোর স্বয়ংক্রিয় উত্তর পাঠানোর সুইচ চালু করল।",
+        "সে আগেই যন্ত্রের জন্য স্থায়ী নির্দেশ বেছে নিয়েছিল: “আমার পক্ষ সমর্থন করো।” এখন তার যাচাই ছাড়াই উত্তর চলে যেতে পারত।"
       ],
       "introduction": "টাভি আসা বার্তার উত্তর যন্ত্রের হাতে ছেড়ে দেয়, আর একটি ভুল বোঝাবুঝি বারবার ঘটতে থাকে।",
       "title": "সহজ সুইচ"
@@ -48,21 +48,21 @@
     "cs": {
       "altTexts": [
         "Tavi čte Luminu kartičku vedle nečinného stroje.",
-        "Tavi vkládá do stroje novou stížnost.",
         "Tavi zvedá z přihrádky delší list.",
+        "Luma přichází s hvězdicovým rámem do Taviho dílny.",
         "Luma drží odpověď vedle rámu, který právě položila.",
-        "Tavi prohlíží volnou spojku vedle poštovního potrubí.",
+        "Tavi vkládá kartičku do jedné modré kapsle.",
         "Tavi zvedá přepínač; spojka je připojená.",
-        "Tavi hledí z okna, zatímco ze stroje odjíždí kapsle."
+        "Tavi stojí čelem k oknu, zatímco poštovní trubicí projíždí kapsle."
       ],
       "captions": [
-        "V dílně si Tavi přečetl Luminu odpověď. Všiml si vysvětlení, ale přehlédl omluvu.",
-        "„Myslí si, že zaneprázdnění všechno omlouvá,“ zamumlal. Tu stížnost vložil do stroje.",
-        "Další odpověď byla delší a chladnější. Tavi si spletl uhlazené věty se spravedlivým úsudkem.",
-        "Když Luma přišla, místo naslouchání jí podal odpověď. Položila rám lucernového vstupu a odešla.",
-        "Znovu sám Tavi objevil automatický režim. Po připojení k potrubí mohl stroj odpovídat na příchozí zprávy o projektu.",
-        "Připojil spojku a zvedl čtvercový přepínač na stroji. Každá příchozí zpráva teď dostane odpověď bez jeho kontroly.",
-        "Venku se první lucerny houpaly ve večerním vánku. Uvnitř stroj začal odpovídat lidem, které Tavi nevyslechl."
+        "Ještě před Lumou dorazilo k Tavimu její vysvětlení. Přečetl si ho, ale omluvu nebral vážně.",
+        "„Teď se vymlouvá,“ řekl stroji. Ten vytiskl další obvinění.",
+        "Luma přijela s rámem. „Mohli bychom si promluvit?“ zeptala se.",
+        "Společně přesunuli rám na stůl. Místo odpovědi jí Tavi podal vytištěný list.",
+        "Odešla. Tavi rozeslal pomocníkům pozvání na pracovní schůzku následující večer.",
+        "Potom připojil konektor a zapnul automatické odpovědi na příchozí zprávy o projektu.",
+        "Předem zvolil trvalý pokyn: „Obhajuj moje stanovisko.“ Odpovědi teď mohly odcházet bez jeho kontroly."
       ],
       "introduction": "Tavi svěří stroji příchozí korespondenci a z jednoho nedorozumění se stane opakující se problém.",
       "title": "Snadný přepínač"
@@ -70,21 +70,21 @@
     "de": {
       "altTexts": [
         "Tavi liest Lumas Karte neben der stillstehenden Maschine.",
-        "Tavi steckt eine neue Beschwerde in die Maschine.",
         "Tavi hebt ein längeres Blatt aus der Ausgabeschale.",
+        "Luma kommt mit dem Sternrahmen bei Tavis Werkstatt an.",
         "Luma hält die Antwort neben dem abgestellten Rahmen.",
-        "Tavi betrachtet das lose Verbindungsstück neben der Rohrpost.",
+        "Tavi steckt eine Karte in eine einzelne blaue Kapsel.",
         "Tavi schiebt den Schalter hoch; das Verbindungsstück ist angeschlossen.",
-        "Tavi schaut zum Fenster, während eine Kapsel die Maschine verlässt."
+        "Tavi blickt zum Fenster, während eine Kapsel durch die Poströhre gleitet."
       ],
       "captions": [
-        "In der Werkstatt las Tavi Lumas Antwort. Er nahm die Erklärung wahr, übersah aber die Entschuldigung.",
-        "„Sie denkt, Beschäftigtsein entschuldigt alles“, murmelte er. Diese Beschwerde gab er in die Maschine.",
-        "Ihre nächste Antwort war länger und kälter. Tavi verwechselte die glatten Sätze mit einem gerechten Urteil.",
-        "Als Luma kam, reichte er ihr die Antwort, statt zuzuhören. Sie stellte den Laternenrahmen ab und ging.",
-        "Wieder allein entdeckte Tavi die Automatik. An die Rohrpost angeschlossen konnte die Maschine eingehende Projektnachrichten beantworten.",
-        "Er befestigte das Verbindungsstück und schob den quadratischen Schalter an der Maschine nach oben. Nun würde jede eingehende Nachricht ohne seine Prüfung beantwortet.",
-        "Draußen schaukelten die ersten Laternen im Abendwind. Drinnen antwortete die Maschine Menschen, denen Tavi nicht zugehört hatte."
+        "Lumas Erklärung erreichte Tavi vor ihr. Er las sie, tat ihre Entschuldigung aber ab.",
+        "„Jetzt sucht sie Ausreden“, sagte er zur Maschine. Sie druckte eine weitere Anschuldigung.",
+        "Luma kam mit dem Rahmen. „Können wir reden?“, fragte sie.",
+        "Gemeinsam schoben sie den Rahmen auf den Tisch. Statt zu antworten, gab Tavi ihr den Ausdruck.",
+        "Sie ging. Tavi lud die Helfer zu einer Arbeitsbesprechung am nächsten Abend ein.",
+        "Dann steckte er den Anschluss ein und schaltete automatische Antworten auf eingehende Projektnachrichten ein.",
+        "Er hatte die dauerhafte Anweisung gewählt: „Verteidige meinen Standpunkt.“ Nun konnten Antworten ohne seine Prüfung verschickt werden."
       ],
       "introduction": "Tavi überlässt der Maschine eingehende Nachrichten, und aus einem Missverständnis wird ein Muster.",
       "title": "Der bequeme Schalter"
@@ -92,21 +92,21 @@
     "en": {
       "altTexts": [
         "Tavi reads Luma’s card beside the idle machine.",
-        "Tavi feeds a fresh complaint note into the machine.",
         "Tavi lifts a longer sheet from the output tray.",
+        "Luma arrives at Tavi’s workshop with the star frame.",
         "Luma holds a reply beside the frame she has set down.",
-        "Tavi examines the loose connector beside the message tube.",
+        "Tavi inserts a card into one blue capsule.",
         "Tavi raises the switch with the connector attached.",
-        "Tavi faces the window while a capsule leaves the machine."
+        "Tavi faces the window while a capsule passes through the mail tube."
       ],
       "captions": [
-        "Back at the workshop, Tavi read Luma’s answer. He noticed the explanation, but overlooked the apology.",
-        "“She thinks being busy excuses everything,” he muttered. He fed that complaint into the machine.",
-        "Its next reply was longer and colder. Tavi mistook the smooth sentences for a fair judgment.",
-        "When Luma arrived, he handed her the reply instead of listening. She put down the lantern frame and left.",
-        "Alone again, Tavi found the machine’s automatic setting. Connected to the tube, it could answer incoming project notes.",
-        "He attached the connector and flipped the machine’s square switch up. Now each incoming note would receive an answer without his review.",
-        "Outside, the first lanterns swayed in the evening breeze. Inside, the machine began answering people Tavi had not heard."
+        "Before Luma arrived, her explanation reached Tavi. He read it but dismissed her apology.",
+        "“Now she is making excuses,” he told the machine. It printed another accusation.",
+        "Luma arrived with the frame. “Could we talk?” she asked.",
+        "They slid the frame onto the table. Tavi handed her the printout instead of answering.",
+        "She left. Tavi sent the helpers a practical invitation to meet the next evening.",
+        "Then he attached the connector and switched on automatic replies to incoming project notes.",
+        "He had chosen its standing instruction: “Defend my position.” Now replies could leave without his review."
       ],
       "introduction": "Tavi gives the machine access to incoming correspondence and turns a misunderstanding into a pattern.",
       "title": "The Easy Switch"
@@ -114,21 +114,21 @@
     "es": {
       "altTexts": [
         "Tavi lee la tarjeta de Luma junto a la máquina inactiva.",
-        "Tavi introduce una queja nueva en la máquina.",
         "Tavi levanta una hoja más larga de la bandeja.",
+        "Luma llega al taller de Tavi con el armazón de estrella.",
         "Luma sostiene la respuesta junto al marco que acaba de dejar.",
-        "Tavi examina el conector suelto junto al tubo de correo.",
+        "Tavi introduce una tarjeta en una sola cápsula azul.",
         "Tavi levanta el interruptor con el conector acoplado.",
-        "Tavi mira por la ventana mientras una cápsula sale de la máquina."
+        "Tavi mira hacia la ventana mientras una cápsula pasa por el tubo de correo."
       ],
       "captions": [
-        "En el taller, Tavi leyó la respuesta de Luma. Se fijó en la explicación, pero pasó por alto la disculpa.",
-        "«Cree que estar ocupada lo justifica todo», murmuró. Introdujo esa queja en la máquina.",
-        "La siguiente respuesta fue más larga y más fría. Tavi confundió las frases pulidas con un juicio justo.",
-        "Cuando llegó Luma, le entregó la respuesta en vez de escucharla. Ella dejó el marco de la entrada y se marchó.",
-        "De nuevo solo, Tavi descubrió el modo automático. Conectada al tubo, la máquina podía responder a las notas del proyecto que llegaran.",
-        "Acopló el conector y levantó el interruptor cuadrado de la máquina. Ahora cada nota que llegara recibiría una respuesta sin que él la revisara.",
-        "Fuera, los primeros faroles se mecían con la brisa del atardecer. Dentro, la máquina empezó a responder a quienes Tavi no había escuchado."
+        "La explicación llegó antes que Luma. Tavi la leyó, pero desestimó su disculpa.",
+        "«Ahora pone excusas», le dijo a la máquina. Esta imprimió otra acusación.",
+        "Luma llegó con el marco. «¿Podemos hablar?», preguntó.",
+        "Entre los dos deslizaron el marco sobre la mesa. En vez de responder, Tavi le entregó el texto impreso.",
+        "Ella se marchó. Tavi invitó a los ayudantes a una reunión de trabajo al anochecer del día siguiente.",
+        "Después enchufó el conector y activó las respuestas automáticas a los mensajes entrantes del proyecto.",
+        "Había elegido una instrucción permanente: «Defiende mi postura». Ahora las respuestas podían enviarse sin que él las revisara."
       ],
       "introduction": "Tavi entrega a la máquina la correspondencia entrante y convierte un malentendido en una costumbre.",
       "title": "El interruptor fácil"
@@ -136,21 +136,21 @@
     "fr": {
       "altTexts": [
         "Tavi lit la carte de Luma près de la machine inactive.",
-        "Tavi insère une nouvelle plainte dans la machine.",
         "Tavi soulève une feuille plus longue dans le plateau.",
+        "Luma arrive à l’atelier de Tavi avec l’armature en étoile.",
         "Luma tient une réponse près du cadre qu’elle vient de poser.",
-        "Tavi examine le raccord détaché près du tube postal.",
+        "Tavi introduit une carte dans une seule capsule bleue.",
         "Tavi relève l’interrupteur ; le raccord est fixé.",
-        "Tavi regarde la fenêtre pendant qu’une capsule quitte la machine."
+        "Tavi fait face à la fenêtre tandis qu’une capsule passe dans le tube postal."
       ],
       "captions": [
-        "À l’atelier, Tavi lut la réponse de Luma. Il remarqua l’explication, mais passa à côté des excuses.",
-        "« Elle croit qu’être occupée excuse tout », marmonna-t-il. Il donna cette plainte à la machine.",
-        "La réponse suivante fut plus longue et plus froide. Tavi prit ses phrases élégantes pour un jugement équitable.",
-        "À l’arrivée de Luma, il lui tendit la réponse au lieu de l’écouter. Elle posa le cadre de l’entrée et repartit.",
-        "De nouveau seul, Tavi découvrit le mode automatique. Reliée au tube, la machine pouvait répondre aux messages concernant le projet.",
-        "Il fixa le raccord et releva l’interrupteur carré de la machine. Désormais, chaque message entrant recevrait une réponse sans qu’il la vérifie.",
-        "Dehors, les premières lanternes se balançaient dans la brise du soir. Dedans, la machine répondait à des personnes que Tavi n’avait pas écoutées."
+        "L’explication arriva avant Luma. Tavi la lut, mais écarta ses excuses.",
+        "« Maintenant, elle cherche des excuses », dit-il à la machine. Celle-ci imprima une nouvelle accusation.",
+        "Luma arriva avec le cadre. « Est-ce qu’on pourrait parler ? » demanda-t-elle.",
+        "Ils firent glisser le cadre sur la table. Au lieu de répondre, Tavi lui tendit le texte imprimé.",
+        "Elle repartit. Tavi invita les participants au projet à une réunion de travail le lendemain soir.",
+        "Puis il brancha le connecteur et activa les réponses automatiques aux messages concernant le projet.",
+        "Il avait choisi une consigne permanente : « Défends mon point de vue. » Les réponses pouvaient désormais partir sans qu’il les relise."
       ],
       "introduction": "Tavi confie les messages entrants à la machine, et le malentendu devient une habitude.",
       "title": "L’interrupteur facile"
@@ -158,21 +158,21 @@
     "hi": {
       "altTexts": [
         "तावी रुकी हुई मशीन के पास लूमा का कार्ड पढ़ रहा है।",
-        "तावी मशीन में शिकायत वाला नया पर्चा डाल रहा है।",
         "तावी बाहर आई लंबी चिट्ठी तश्तरी से उठा रहा है।",
+        "लूमा तारे का ढाँचा लेकर तावी की कार्यशाला पहुँच रही है।",
         "लूमा अपने रखे हुए चौखटे के पास जवाब पकड़े खड़ी है।",
-        "तावी डाक-नली के पास अलग पड़े जोड़ने वाले पुर्जे को देख रहा है।",
+        "तावी एक नीले कैप्सूल में कार्ड डाल रहा है।",
         "जोड़ने वाला पुर्जा लगा है और तावी स्विच ऊपर कर रहा है।",
-        "तावी खिड़की की ओर है और मशीन से एक कैप्सूल भेजा जा रहा है।"
+        "तावी खिड़की की ओर मुँह किए खड़ा है और डाक की नली से एक कैप्सूल गुजर रहा है।"
       ],
       "captions": [
-        "कार्यशाला में तावी ने लूमा का जवाब पढ़ा। उसने कारण देखा, लेकिन माफी पर ध्यान नहीं दिया।",
-        "वह बुदबुदाया, “उसे लगता है, व्यस्त होना हर बात का बहाना है।” उसने यह शिकायत मशीन में डाल दी।",
-        "अगला जवाब अधिक लंबा और ठंडा था। तावी ने सधी हुई भाषा को न्यायपूर्ण फैसला समझ लिया।",
-        "लूमा आई तो तावी ने सुनने के बजाय जवाब थमा दिया। लूमा ने चौखटा रखा और लौट गई।",
-        "अकेले होने पर तावी को अपने आप जवाब देने वाली सेटिंग मिली। नली से जुड़कर मशीन काम के आने वाले पर्चों का जवाब दे सकती थी।",
-        "उसने जोड़ने वाला पुर्जा लगाया और मशीन का चौकोर स्विच ऊपर कर दिया। अब हर आने वाले पर्चे का जवाब तावी की जाँच के बिना तैयार होगा।",
-        "बाहर पहली लालटेनें शाम की हवा में झूल रही थीं। अंदर मशीन उन लोगों को जवाब दे रही थी जिनकी बात तावी ने सुनी नहीं थी।"
+        "लूमा के पहुँचने से पहले उसका संदेश तावी तक पहुँचा। उसने उसे पढ़ा, लेकिन उसकी माफ़ी को गंभीरता से नहीं लिया।",
+        "उसने मशीन से कहा, “अब वह बहाने बना रही है।” मशीन ने एक और आरोप छाप दिया।",
+        "लूमा ढाँचा लेकर पहुँची। उसने पूछा, “क्या हम बात कर सकते हैं?”",
+        "दोनों ने ढाँचे को सरकाकर मेज़ पर रखा। जवाब देने के बजाय तावी ने उसे छपा हुआ कागज़ थमा दिया।",
+        "लूमा चली गई। तावी ने काम में मदद करने वालों को अगले दिन शाम की कार्य-बैठक का निमंत्रण भेजा।",
+        "फिर उसने कनेक्टर जोड़ दिया और परियोजना के आने वाले संदेशों पर अपने-आप जवाब भेजने वाला स्विच चालू कर दिया।",
+        "उसने पहले ही स्थायी निर्देश चुना था: “मेरे पक्ष का बचाव करो।” अब उसकी जाँच के बिना जवाब भेजे जा सकते थे।"
       ],
       "introduction": "तावी आने वाले संदेश मशीन को सौंप देता है और एक गलतफहमी बार-बार होने लगती है।",
       "title": "आसान स्विच"
@@ -180,21 +180,21 @@
     "id": {
       "altTexts": [
         "Tavi membaca kartu Luma di dekat mesin yang diam.",
-        "Tavi memasukkan keluhan baru ke dalam mesin.",
         "Tavi mengangkat kertas yang lebih panjang dari baki.",
+        "Luma tiba di bengkel Tavi dengan rangka bintang.",
         "Luma memegang balasan di dekat rangka yang baru diletakkannya.",
-        "Tavi memeriksa konektor yang belum terpasang di samping tabung pos.",
+        "Tavi memasukkan kartu ke dalam satu kapsul biru.",
         "Tavi menaikkan sakelar dengan konektor sudah terpasang.",
-        "Tavi menghadap jendela sementara sebuah kapsul meninggalkan mesin."
+        "Tavi menghadap jendela saat sebuah kapsul melewati tabung pos."
       ],
       "captions": [
-        "Di bengkel, Tavi membaca balasan Luma. Ia memperhatikan penjelasannya, tetapi melewatkan permintaan maafnya.",
-        "“Dia pikir kesibukan bisa menjadi alasan untuk segalanya,” gumam Tavi. Ia memasukkan keluhan itu ke dalam mesin.",
-        "Balasan berikutnya lebih panjang dan lebih dingin. Tavi mengira kalimat yang rapi berarti penilaian yang adil.",
-        "Ketika Luma datang, Tavi menyerahkan balasan itu alih-alih mendengarkan. Luma meletakkan rangka pintu masuk lalu pergi.",
-        "Sendirian lagi, Tavi menemukan mode otomatis. Jika tersambung ke tabung, mesin bisa membalas pesan proyek yang masuk.",
-        "Ia memasang konektor dan menaikkan sakelar persegi pada mesin. Kini setiap pesan masuk akan dibalas tanpa diperiksanya lebih dahulu.",
-        "Di luar, lentera pertama bergoyang ditiup angin sore. Di dalam, mesin mulai menjawab orang-orang yang belum didengarkan Tavi."
+        "Penjelasan Luma tiba lebih dahulu daripada dirinya. Tavi membacanya, tetapi mengabaikan permintaan maafnya.",
+        "“Sekarang dia mencari-cari alasan,” katanya kepada mesin. Mesin itu mencetak tuduhan lain.",
+        "Luma datang bersama rangkanya. “Bisa kita bicara?” tanyanya.",
+        "Mereka menggeser rangka itu bersama-sama ke atas meja. Alih-alih menjawab, Tavi menyodorkan hasil cetakan.",
+        "Luma pergi. Tavi mengundang para pembantu proyek untuk rapat kerja malam berikutnya.",
+        "Lalu ia memasang konektor dan mengaktifkan balasan otomatis untuk pesan proyek yang masuk.",
+        "Ia sudah memilih perintah tetap: “Bela pendapatku.” Kini balasan dapat terkirim tanpa diperiksanya."
       ],
       "introduction": "Tavi menyerahkan pesan masuk kepada mesin, dan kesalahpahaman berubah menjadi kebiasaan.",
       "title": "Sakelar yang Mudah"
@@ -202,21 +202,21 @@
     "it": {
       "altTexts": [
         "Tavi legge la cartolina di Luma accanto alla macchina inattiva.",
-        "Tavi inserisce una nuova lamentela nella macchina.",
         "Tavi solleva un foglio più lungo dal vassoio.",
+        "Luma arriva al laboratorio di Tavi con il telaio a stella.",
         "Luma tiene una risposta accanto alla cornice appena posata.",
-        "Tavi esamina il raccordo staccato vicino al tubo postale.",
+        "Tavi inserisce una cartolina in un’unica capsula blu.",
         "Tavi alza l’interruttore con il raccordo collegato.",
-        "Tavi guarda la finestra mentre una capsula lascia la macchina."
+        "Tavi guarda verso la finestra mentre una capsula passa nel tubo della posta."
       ],
       "captions": [
-        "In laboratorio, Tavi lesse la risposta di Luma. Notò la spiegazione, ma trascurò le scuse.",
-        "«Pensa che essere occupata giustifichi tutto», borbottò. Inserì quella lamentela nella macchina.",
-        "La risposta successiva fu più lunga e più fredda. Tavi scambiò le frasi eleganti per un giudizio equo.",
-        "Quando arrivò Luma, le porse la risposta invece di ascoltarla. Lei posò la cornice dell’ingresso e se ne andò.",
-        "Di nuovo solo, Tavi trovò la modalità automatica. Collegata al tubo, la macchina poteva rispondere ai messaggi in arrivo sul progetto.",
-        "Fissò il raccordo e alzò l’interruttore quadrato della macchina. Ora ogni messaggio in arrivo avrebbe ricevuto una risposta senza che lui la controllasse.",
-        "Fuori, le prime lanterne oscillavano nella brezza serale. Dentro, la macchina iniziò a rispondere a persone che Tavi non aveva ascoltato."
+        "La spiegazione arrivò prima di Luma. Tavi la lesse, ma liquidò le sue scuse.",
+        "«Adesso cerca delle scuse», disse alla macchina. La macchina stampò un’altra accusa.",
+        "Luma arrivò con il telaio. «Possiamo parlare?», chiese.",
+        "Insieme fecero scivolare il telaio sul tavolo. Invece di rispondere, Tavi le porse il foglio stampato.",
+        "Lei se ne andò. Tavi invitò gli aiutanti a una riunione di lavoro per la sera seguente.",
+        "Poi collegò il connettore e attivò le risposte automatiche ai messaggi in arrivo sul progetto.",
+        "Aveva già scelto l’istruzione permanente: «Difendi la mia posizione». Ora le risposte potevano partire senza che lui le controllasse."
       ],
       "introduction": "Tavi affida alla macchina la posta in arrivo e trasforma un malinteso in un’abitudine.",
       "title": "Il comodo interruttore"
@@ -224,21 +224,21 @@
     "ja": {
       "altTexts": [
         "タヴィが止まっている機械のそばでルマのカードを読んでいます。",
-        "タヴィが新しい不満のメモを機械に入れています。",
         "タヴィが受け皿から長めの紙を持ち上げています。",
+        "ルマが星形の枠を持ってタヴィの作業場に着きます。",
         "ルマが置いた枠のそばで返信を持っています。",
-        "タヴィが郵便管のそばの未接続の接続具を調べています。",
+        "タヴィが一つの青いカプセルにカードを入れています。",
         "接続具を付けたタヴィが、スイッチを上げています。",
-        "タヴィが窓に向き、機械からカプセルが送り出されています。"
+        "タヴィが窓の方を向き、郵便管の中をカプセルが通っていく。"
       ],
       "captions": [
-        "作業場でタヴィはルマの返事を読みました。理由の説明には目を留めましたが、謝罪は見落としました。",
-        "「忙しければ何でも許されると思っているんだ」。そうつぶやき、その不満を機械へ入れました。",
-        "次の返事は、前より長く冷たいものでした。タヴィは整った文章を、公平な判断だと思い込みました。",
-        "ルマが来ると、タヴィは話を聞かずに返信を渡しました。ルマは枠を置いて、そのまま帰りました。",
-        "一人になると、タヴィは自動返信の設定を見つけました。管につなぐと、届いた作業の連絡へ自動で返事ができます。",
-        "タヴィは接続具を取り付け、機械の四角いスイッチを上げました。これからは、届くメモ一つひとつに、タヴィが確認しないまま返信が作られます。",
-        "外では、最初に飾ったランタンが夕風に揺れていました。中では機械が、タヴィの聞いていない話に返事をしていました。"
+        "ルマが来る前に、事情を説明する手紙が届いた。タヴィは読んだが、謝罪を受け止めなかった。",
+        "「今度は言い訳をしている」とタヴィは機械に言った。機械は別の非難を印刷した。",
+        "ルマが枠を運んできた。「話せるかな」と尋ねた。",
+        "二人で枠をテーブルへ滑らせた。タヴィは返事の代わりに、印刷した文章を渡した。",
+        "ルマは帰った。タヴィは手伝いの人たちに、翌日の夜の作業打ち合わせを知らせた。",
+        "それから接続部品を付け、計画に関する届いた手紙へ自動で返信する設定を入れた。",
+        "タヴィはあらかじめ「僕の立場を守る」という指示を設定していた。これで、自分が確認しなくても返信が送られるようになった。"
       ],
       "introduction": "タヴィは届く連絡を機械に任せ、一度の行き違いを繰り返す仕組みを作ってしまいます。",
       "title": "便利なスイッチ"
@@ -246,21 +246,21 @@
     "ko": {
       "altTexts": [
         "타비가 멈춘 기계 옆에서 루마의 카드를 읽어요.",
-        "타비가 새로운 불만 쪽지를 기계에 넣어요.",
         "타비가 출력 받침에서 더 긴 종이를 들어 올려요.",
+        "루마가 별 모양 틀을 가지고 타비의 작업장에 도착해요.",
         "루마가 내려놓은 틀 옆에서 답장을 들고 있어요.",
-        "타비가 우편관 옆의 분리된 연결 부품을 살펴봐요.",
+        "타비가 파란 캡슐 하나에 카드를 넣어요.",
         "연결 부품이 끼워진 상태에서 타비가 스위치를 올려요.",
-        "타비가 창을 바라보는 동안 기계에서 캡슐이 나가요."
+        "타비가 창문을 바라보는 동안 캡슐 하나가 우편관을 지나간다."
       ],
       "captions": [
-        "작업실에서 타비는 루마의 답을 읽었어요. 이유는 눈에 들어왔지만 사과는 지나쳤어요.",
-        "“바쁘면 다 괜찮아지는 줄 아나 봐.” 타비는 중얼거리며 그 불만을 기계에 넣었어요.",
-        "다음 답장은 더 길고 차가웠어요. 타비는 매끄러운 문장을 공정한 판단이라고 착각했어요.",
-        "루마가 오자 타비는 듣는 대신 답장을 건넸어요. 루마는 입구 틀을 내려놓고 돌아갔어요.",
-        "혼자 남은 타비는 자동 설정을 발견했어요. 우편관에 연결하면 들어오는 작업 쪽지에 알아서 답할 수 있었어요.",
-        "타비는 연결 부품을 끼우고 기계의 네모난 스위치를 올렸어요. 이제 들어오는 쪽지마다 타비의 확인 없이 답장이 만들어질 거예요.",
-        "밖에서는 먼저 걸어 둔 등이 저녁 바람에 흔들렸어요. 안에서는 기계가 타비가 듣지 않은 사람들의 말에 답하고 있었어요."
+        "루마가 오기 전에 설명이 담긴 쪽지가 먼저 도착했다. 타비는 읽고도 사과를 대수롭지 않게 여겼다.",
+        "“이제는 변명을 하네.” 타비가 기계에 말했다. 기계는 또 다른 비난을 인쇄했다.",
+        "루마가 틀을 가지고 도착했다. “우리 이야기 좀 할 수 있을까?”",
+        "둘은 틀을 밀어 탁자 위에 올렸다. 타비는 대답 대신 인쇄된 종이를 건넸다.",
+        "루마는 떠났다. 타비는 일을 돕는 사람들에게 다음 날 저녁 작업 회의에 와 달라는 안내를 보냈다.",
+        "그런 다음 연결 장치를 달고, 행사 관련 쪽지가 들어오면 자동으로 답장을 보내도록 스위치를 켰다.",
+        "타비는 미리 고정 지시를 골라 두었다. “내 입장을 옹호해.” 이제 타비가 확인하지 않아도 답장이 나갈 수 있었다."
       ],
       "introduction": "타비는 들어오는 연락을 기계에 맡기면서 한 번의 오해를 반복되는 문제로 만듭니다.",
       "title": "편리한 스위치"
@@ -268,21 +268,21 @@
     "pl": {
       "altTexts": [
         "Tavi czyta kartkę Lumy obok nieczynnej maszyny.",
-        "Tavi wkłada nową skargę do maszyny.",
         "Tavi podnosi dłuższą kartkę z tacki.",
+        "Luma przychodzi do warsztatu Taviego z ramą w kształcie gwiazdy.",
         "Luma trzyma odpowiedź obok odłożonej ramy.",
-        "Tavi ogląda luźne złącze obok rury pocztowej.",
+        "Tavi wkłada kartonik do jednej niebieskiej kapsuły.",
         "Tavi podnosi przełącznik przy podłączonym złączu.",
-        "Tavi patrzy w okno, gdy kapsuła opuszcza maszynę."
+        "Tavi stoi twarzą do okna, a kapsuła przesuwa się przez rurę pocztową."
       ],
       "captions": [
-        "W warsztacie Tavi przeczytał odpowiedź Lumy. Zauważył wyjaśnienie, ale przeoczył przeprosiny.",
-        "„Myśli, że brak czasu wszystko usprawiedliwia”, mruknął. Włożył tę skargę do maszyny.",
-        "Następna odpowiedź była dłuższa i chłodniejsza. Tavi pomylił eleganckie zdania ze sprawiedliwą oceną.",
-        "Kiedy przyszła Luma, podał jej odpowiedź zamiast wysłuchać. Luma odłożyła ramę wejścia i wyszła.",
-        "Znów sam, Tavi odkrył tryb automatyczny. Po podłączeniu do rury maszyna mogła odpowiadać na przychodzące wiadomości o projekcie.",
-        "Zamocował złącze i przestawił kwadratowy przełącznik maszyny w górę. Od tej chwili każda przychodząca wiadomość miała otrzymać odpowiedź bez jego sprawdzenia.",
-        "Na zewnątrz pierwsze lampiony kołysały się na wieczornym wietrze. W środku maszyna odpowiadała osobom, których Tavi nie wysłuchał."
+        "Wyjaśnienie dotarło przed Lumą. Tavi je przeczytał, ale zlekceważył jej przeprosiny.",
+        "„Teraz szuka wymówek” — powiedział maszynie. Wydrukowała kolejne oskarżenie.",
+        "Luma przyjechała z ramą. „Możemy porozmawiać?” — zapytała.",
+        "Razem przesunęli ramę na stół. Zamiast odpowiedzieć, Tavi wręczył jej wydruk.",
+        "Wyszła. Tavi zaprosił pomocników na spotkanie robocze następnego wieczoru.",
+        "Potem podłączył złącze i włączył automatyczne odpowiedzi na przychodzące wiadomości dotyczące projektu.",
+        "Wcześniej wybrał stałe polecenie: „Broń mojego stanowiska”. Teraz odpowiedzi mogły wychodzić bez jego kontroli."
       ],
       "introduction": "Tavi oddaje maszynie przychodzące wiadomości i zamienia nieporozumienie w powtarzający się problem.",
       "title": "Wygodny przełącznik"
@@ -290,21 +290,21 @@
     "pt": {
       "altTexts": [
         "Tavi lê o cartão de Luma perto da máquina inativa.",
-        "Tavi coloca uma nova reclamação na máquina.",
         "Tavi levanta uma folha mais longa da bandeja.",
+        "Luma chega à oficina de Tavi com a estrutura de estrela.",
         "Luma segura uma resposta perto da moldura que acabou de colocar na mesa.",
-        "Tavi examina o conector solto perto do tubo de correio.",
+        "Tavi coloca um cartão em uma única cápsula azul.",
         "Tavi levanta o interruptor com o conector encaixado.",
-        "Tavi olha pela janela enquanto uma cápsula sai da máquina."
+        "Tavi olha para a janela enquanto uma cápsula passa pelo tubo de correio."
       ],
       "captions": [
-        "Na oficina, Tavi leu a resposta de Luma. Reparou na explicação, mas deixou passar o pedido de desculpas.",
-        "“Ela acha que estar ocupada justifica tudo”, murmurou. Colocou essa reclamação na máquina.",
-        "A resposta seguinte foi mais longa e mais fria. Tavi confundiu as frases elegantes com um julgamento justo.",
-        "Quando Luma chegou, ele entregou a resposta em vez de escutar. Ela deixou a moldura da entrada e foi embora.",
-        "Sozinho outra vez, Tavi encontrou o modo automático. Ligada ao tubo, a máquina podia responder às mensagens recebidas sobre o projeto.",
-        "Ele encaixou o conector e levantou o interruptor quadrado da máquina. Agora cada bilhete recebido teria uma resposta sem passar pela revisão dele.",
-        "Lá fora, as primeiras lanternas balançavam na brisa do entardecer. Dentro, a máquina começou a responder a pessoas que Tavi não tinha ouvido."
+        "A explicação chegou antes de Luma. Tavi a leu, mas desconsiderou o pedido de desculpas.",
+        "“Agora ela está inventando desculpas”, disse à máquina. A máquina imprimiu outra acusação.",
+        "Luma chegou com a estrutura. “Podemos conversar?”, perguntou.",
+        "Juntos, deslizaram a estrutura para cima da mesa. Em vez de responder, Tavi entregou a ela o texto impresso.",
+        "Ela foi embora. Tavi convidou os ajudantes para uma reunião de trabalho na noite seguinte.",
+        "Depois conectou a máquina e ativou as respostas automáticas às mensagens recebidas sobre o projeto.",
+        "Ele já havia escolhido a instrução permanente: “Defenda a minha posição”. Agora as respostas podiam sair sem que ele as revisasse."
       ],
       "introduction": "Tavi entrega as mensagens recebidas à máquina e transforma um mal-entendido em um padrão.",
       "title": "O interruptor fácil"
@@ -312,43 +312,43 @@
     "ru": {
       "altTexts": [
         "Тави читает карточку Лумы возле бездействующей машины.",
-        "Тави подаёт в машину новую записку с жалобой.",
         "Тави вынимает из лотка более длинный лист.",
+        "Лума приходит в мастерскую Тави с каркасом в форме звезды.",
         "Лума держит ответ возле только что поставленной рамы.",
-        "Тави осматривает неподключённый соединитель возле почтовой трубы.",
+        "Тави вкладывает карточку в одну синюю капсулу.",
         "Тави поднимает переключатель подключённой машины.",
-        "Тави смотрит в окно, пока из машины уходит капсула."
+        "Тави смотрит в сторону окна, а по почтовой трубе проходит капсула."
       ],
       "captions": [
-        "В мастерской Тави прочёл ответ Лумы. Он заметил объяснение, но упустил извинение.",
-        "«Она думает, что занятость всё оправдывает», — пробормотал он и вложил эту жалобу в машину.",
-        "Следующий ответ оказался длиннее и холоднее. Тави принял гладкие фразы за справедливое суждение.",
-        "Когда пришла Лума, он протянул ей ответ вместо того, чтобы выслушать. Она поставила раму и ушла.",
-        "Оставшись один, Тави нашёл автоматический режим. Через почтовую трубу машина могла сама отвечать на рабочие записки.",
-        "Он закрепил соединитель и поднял квадратный переключатель машины. Теперь каждая входящая записка получит ответ без его проверки.",
-        "На улице первые фонари качались на вечернем ветру. Внутри машина отвечала людям, которых Тави не выслушал."
+        "Объяснение пришло раньше Лумы. Тави прочёл его, но отмахнулся от её извинений.",
+        "«Теперь она ищет оправдания», — сказал он машине. Та напечатала новое обвинение.",
+        "Лума пришла с каркасом. «Можно поговорить?» — спросила она.",
+        "Вместе они передвинули каркас на стол. Вместо ответа Тави протянул ей распечатку.",
+        "Она ушла. Тави пригласил помощников на рабочую встречу следующим вечером.",
+        "Затем он установил соединитель и включил автоматические ответы на входящие сообщения о проекте.",
+        "Он заранее выбрал постоянное указание: «Защищай мою позицию». Теперь ответы могли отправляться без его проверки."
       ],
       "introduction": "Тави подключает машину к входящей почте и превращает недоразумение в привычку.",
       "title": "Удобный переключатель"
     },
     "tr": {
       "altTexts": [
-        "Tavi, çalışmayan makinenin yanında Luma’nın kartını okuyor.",
-        "Tavi, makineye yeni bir şikâyet koyuyor.",
+        "Tavi, bekleme hâlindeki makinenin yanında Luma’nın kartını okuyor.",
         "Tavi, çıkış tepsisinden daha uzun bir kâğıt kaldırıyor.",
+        "Luma, yıldız çerçeveyle Tavi’nin atölyesine geliyor.",
         "Luma, bıraktığı çerçevenin yanında bir yanıt tutuyor.",
-        "Tavi, posta borusunun yanındaki takılmamış bağlantı parçasını inceliyor.",
+        "Tavi, bir kartı tek bir mavi kapsüle koyuyor.",
         "Tavi, bağlantı takılıyken kare anahtarı yukarı kaldırıyor.",
-        "Tavi pencereye bakarken makineden bir kapsül ayrılıyor."
+        "Bir kapsül posta borusundan geçerken Tavi pencereye dönük durur."
       ],
       "captions": [
-        "Atölyede Tavi, Luma’nın yanıtını okudu. Açıklamayı fark etti, özrü ise gözden kaçırdı.",
-        "“Meşgul olmanın her şeyi mazur gösterdiğini sanıyor,” diye mırıldandı. Bu şikâyeti makineye verdi.",
-        "Sonraki yanıt daha uzun ve daha soğuktu. Tavi, düzgün cümleleri adil bir değerlendirme sandı.",
-        "Luma geldiğinde onu dinlemek yerine yanıtı uzattı. Luma giriş çerçevesini bıraktı ve gitti.",
-        "Yine yalnız kalan Tavi otomatik ayarı buldu. Boruya bağlanan makine, projeyle ilgili gelen notları yanıtlayabiliyordu.",
-        "Bağlantı parçasını takıp makinenin kare anahtarını yukarı kaldırdı. Artık her gelen not, onun kontrolünden geçmeden yanıtlanacaktı.",
-        "Dışarıda ilk fenerler akşam esintisinde sallanıyordu. İçeride makine, Tavi’nin dinlemediği insanlara yanıt vermeye başladı."
+        "Luma’nın açıklaması kendisinden önce ulaştı. Tavi okudu ama özrünü önemsemedi.",
+        "“Şimdi de bahane buluyor,” dedi makineye. Makine yeni bir suçlama bastı.",
+        "Luma çerçeveyle geldi. “Konuşabilir miyiz?” diye sordu.",
+        "Çerçeveyi birlikte masaya kaydırdılar. Tavi yanıt vermek yerine çıktıyı Luma’ya uzattı.",
+        "Luma gitti. Tavi yardımcıları ertesi akşam yapılacak bir çalışma toplantısına davet etti.",
+        "Ardından bağlantı parçasını takıp gelen proje notlarına otomatik yanıt verme özelliğini açtı.",
+        "Önceden kalıcı bir yönerge seçmişti: “Benim görüşümü savun.” Artık yanıtlar onun denetiminden geçmeden gönderilebiliyordu."
       ],
       "introduction": "Tavi gelen yazışmaları makineye bırakır ve bir yanlış anlaşılma alışkanlığa dönüşür.",
       "title": "Kolay Anahtar"
@@ -356,21 +356,21 @@
     "vi": {
       "altTexts": [
         "Tavi đọc thẻ của Luma cạnh chiếc máy đang im lặng.",
-        "Tavi đưa một lời phàn nàn mới vào máy.",
         "Tavi nhấc tờ giấy dài hơn khỏi khay.",
+        "Luma đến xưởng của Tavi cùng khung hình ngôi sao.",
         "Luma cầm câu trả lời cạnh khung vừa đặt xuống.",
-        "Tavi xem đầu nối chưa gắn cạnh ống chuyển thư.",
+        "Tavi cho một tấm thẻ vào một ống đựng thư màu xanh.",
         "Tavi gạt công tắc lên khi đầu nối đã gắn.",
-        "Tavi nhìn ra cửa sổ khi một ống thư rời máy."
+        "Tavi quay mặt về phía cửa sổ khi một ống đựng thư đi qua đường ống bưu điện."
       ],
       "captions": [
-        "Ở xưởng, Tavi đọc lời đáp của Luma. Cậu chú ý đến lời giải thích nhưng bỏ qua lời xin lỗi.",
-        "“Cậu ấy nghĩ bận rộn có thể biện hộ cho mọi thứ,” Tavi lẩm bẩm. Cậu đưa lời phàn nàn đó vào máy.",
-        "Câu trả lời tiếp theo dài hơn và lạnh lùng hơn. Tavi nhầm những câu trau chuốt với một nhận định công bằng.",
-        "Khi Luma đến, cậu đưa câu trả lời thay vì lắng nghe. Luma đặt khung lối vào xuống rồi rời đi.",
-        "Lại ở một mình, Tavi tìm thấy chế độ tự động. Khi nối với đường ống, máy có thể trả lời thư đến về dự án.",
-        "Cậu gắn đầu nối và gạt công tắc vuông của máy lên. Từ giờ, mỗi thư đến sẽ được trả lời mà không qua cậu kiểm tra.",
-        "Ngoài kia, những chiếc đèn đầu tiên đung đưa trong gió chiều. Trong xưởng, máy bắt đầu trả lời những người Tavi chưa lắng nghe."
+        "Lời giải thích đến trước Luma. Tavi đọc nhưng gạt đi lời xin lỗi của cô.",
+        "“Giờ cô ấy lại viện cớ,” anh nói với máy. Máy in thêm một lời buộc tội.",
+        "Luma đến cùng khung cổng. “Chúng ta nói chuyện được không?” cô hỏi.",
+        "Họ cùng trượt khung lên bàn. Thay vì trả lời, Tavi đưa cô bản in.",
+        "Cô ra về. Tavi gửi lời mời những người hỗ trợ dự án đến họp về công việc vào tối hôm sau.",
+        "Rồi anh gắn bộ nối và bật trả lời tự động cho các thư đến liên quan đến dự án.",
+        "Tavi đã chọn sẵn chỉ dẫn cố định: “Bênh vực quan điểm của tôi.” Giờ đây, câu trả lời có thể được gửi đi mà không qua Tavi kiểm tra."
       ],
       "introduction": "Tavi giao thư đến cho máy xử lý, biến một hiểu lầm thành thói quen lặp lại.",
       "title": "Chiếc công tắc tiện lợi"
@@ -378,21 +378,21 @@
     "zh": {
       "altTexts": [
         "塔维在停着的机器旁读卢玛的卡片。",
-        "塔维把一张新的抱怨纸条放进机器。",
         "塔维从出纸托盘里拿起一张较长的纸。",
+        "卢玛带着星形框架来到塔维的工作坊。",
         "卢玛拿着回复，旁边是她刚放下的框架。",
-        "塔维查看邮递管旁尚未接上的连接器。",
+        "塔维把卡片放进一个蓝色邮递胶囊。",
         "塔维抬起开关，连接器已经装好。",
-        "塔维面向窗户，一个胶囊从机器处发出。"
+        "塔维面向窗户，一个邮递胶囊正从邮管中通过。"
       ],
       "captions": [
-        "在工作室里，塔维读了卢玛的回复。他看见了解释，却忽略了道歉。",
-        "“她以为忙就能为一切开脱。”他嘟囔着，把这句抱怨交给了机器。",
-        "下一封回复更长，也更冷淡。塔维把流畅的句子当成了公正的判断。",
-        "卢玛来了，塔维没有听她说话，而是递上回复。她放下入口框架，转身离开。",
-        "再次独处时，塔维发现了自动模式。只要接上管道，机器就能回复收到的项目纸条。",
-        "他装上连接器，把机器的方形开关向上拨。现在每张来信纸条都会得到回复，不再经过他的检查。",
-        "外面，最早挂起的灯笼在晚风中摇摆。里面，机器开始替塔维回答那些他从未听完话的人。"
+        "卢玛还没到，她的解释先到了。塔维读了，却没把她的道歉当回事。",
+        "“现在她又在找借口，”他对机器说。机器打印了另一段指责。",
+        "卢玛带着框架来了。“我们能谈谈吗？”她问。",
+        "两人把框架一起移到桌上。塔维没有回答，而是把打印好的纸递给她。",
+        "她走了。塔维邀请帮忙的人在第二天晚上开一次工作会议。",
+        "随后，他装上连接器，开启了针对项目来信的自动回复。",
+        "他早已选好固定指令：“维护我的立场。”现在，回复不经他检查就能发出。"
       ],
       "introduction": "塔维让机器接管来信，一次误会逐渐变成了反复发生的问题。",
       "title": "方便的开关"
@@ -405,11 +405,11 @@
       "image": "N03E04P01.png"
     },
     {
-      "altText": "Tavi feeds a fresh complaint note into the machine.",
+      "altText": "Tavi lifts a longer sheet from the output tray.",
       "image": "N03E04P02.png"
     },
     {
-      "altText": "Tavi lifts a longer sheet from the output tray.",
+      "altText": "Luma arrives at Tavi’s workshop with the star frame.",
       "image": "N03E04P03.png"
     },
     {
@@ -417,7 +417,7 @@
       "image": "N03E04P04.png"
     },
     {
-      "altText": "Tavi examines the loose connector beside the message tube.",
+      "altText": "Tavi inserts a card into one blue capsule.",
       "image": "N03E04P05.png"
     },
     {
@@ -425,7 +425,7 @@
       "image": "N03E04P06.png"
     },
     {
-      "altText": "Tavi faces the window while a capsule leaves the machine.",
+      "altText": "Tavi faces the window while a capsule passes through the mail tube.",
       "image": "N03E04P07.png"
     }
   ],

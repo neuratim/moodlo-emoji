@@ -4,21 +4,21 @@
     "ar": {
       "altTexts": [
         "يستبدل تافي وإيفو إعلاني المحطة بتصحيحين.",
-        "يتحدث أومي خلف المنضدة التي عليها رموز السفر المعادة.",
-        "يسأل تافي أومي عن صينية المعلومات الصادرة.",
-        "يضع أومي نسخة تصحيح في صينية النشرة.",
-        "يبقي أومي البوابة مغلقة قرب العبارة الراسية.",
-        "يواجه أومي تافي بجوار بوابة الركاب المغلقة.",
-        "يجلس تافي وإيفو وبالملف المفتوح ثلاثة تصحيحات."
+        "يجلس تافي وإيفو بينما يراجع تافي ثلاث بطاقات تصحيح في ملفه المفتوح.",
+        "يتحدث أومي خلف المنضدة حاملا رموز سفر أعيدت.",
+        "يتحدث أومي إلى تافي وإيفو عند منضدة المحطة.",
+        "يعد تافي نسخة منفصلة من التصحيح لنشرة المحطة.",
+        "يراقب أومي البحيرة المضطربة من نافذة المحطة.",
+        "يجلس تافي وإيفو بجوار نافذة المحطة المطلة على البحيرة."
       ],
       "captions": [
-        "في محطة البحيرة، كان إعلانان آخران قرب جدول المواعيد. استبدلهما تافي وإيفو بتصحيحين.",
-        "راقبهما مسؤول العبارة أومي. وقال: «ألغى بعض الزوار رحلتهم بعدما قرؤوا هذين الإعلانين».",
-        "أراد تافي أن يعد بعودة الجميع. لكنه سأل بدلا من ذلك: أين يمكن أن تصلهم المعلومات المصححة؟",
-        "أضاف أومي التصحيح إلى نشرة السفر التالية للمحطة. لن يقرر الإعلان القديم ما يقوله التحديث الجديد.",
-        "في الخارج، رسمت الريح خطوطا بيضاء على البحيرة. راجع أومي إشارة الميناء وأبقى العبارة مربوطة.",
-        "قال تافي: «لكن خطئي ما زال ينتقل». أجاب أومي: «لن نضيف خطأ آخر بالإبحار في ظروف غير آمنة».",
-        "عادا إلى غرفة الانتظار. بقيت ثلاث نسخ معروفة تحتاج إلى تصحيح في الجزيرة. وكان لا بد أن ينتظر العبور."
+        "بعد ظهر ذلك اليوم، حصلا على إذن في المحطة، واستبدلا الإعلانين بتصحيحين.",
+        "استردا سبعة إعلانات أصلية. وبقيت ثلاثة تصحيحات للجزيرة.",
+        "أراهما أومي، المسؤول عن العبّارة، رسائل إلغاء أرسلها زوار بعد قراءة إعلان تافي.",
+        "قال أومي: «نستطيع أن نقدم للناس معلومات صحيحة. لكننا لا نستطيع أن نعد بأنهم سيأتون».",
+        "نسخ تافي التصحيح على ورقة إضافية لنشرة المحطة.",
+        "في الخارج، اشتدت الريح. فأجل أومي العبور ما دامت الظروف غير مناسبة.",
+        "جلس تافي بجوار إيفو عند النافذة المطلة على البحيرة. كان عليهما الانتظار قبل الذهاب إلى الجزيرة."
       ],
       "introduction": "يكتشف تافي أن التصحيح قد يصل بعد أن يغير الناس خططهم بالفعل.",
       "title": "غرفة الانتظار"
@@ -26,21 +26,21 @@
     "bn": {
       "altTexts": [
         "টাভি ও ইভো স্টেশনের দুটি ঘোষণা বদলাচ্ছে।",
-        "ফেরত দেওয়া যাত্রার টোকেন রাখা কাউন্টারের পেছনে ওমি কথা বলছে।",
-        "টাভি ওমিকে পাঠানোর তথ্যের ট্রে সম্পর্কে জিজ্ঞেস করছে।",
-        "ওমি সংবাদপত্রের ট্রেতে সংশোধনের কপি রাখছে।",
-        "বাঁধা ফেরির পাশে ওমি যাত্রীদের ফটক বন্ধ রাখছে।",
-        "বন্ধ যাত্রী-ফটকের পাশে ওমি টাভির মুখোমুখি।",
-        "টাভি ও ইভো খোলা ফাইলে তিনটি সংশোধন নিয়ে বসে আছে।"
+        "টাভি ও ইভো বসে আছে; টাভি তার খোলা ফোল্ডারে তিনটি সংশোধনী কার্ড দেখে নিচ্ছে।",
+        "ওমি কাউন্টারের পেছনে ফেরত দেওয়া যাত্রার টোকেন নিয়ে কথা বলছে।",
+        "ওমি স্টেশনের কাউন্টারে টাভি আর ইভোর সঙ্গে কথা বলছে।",
+        "টাভি স্টেশনের বুলেটিনের জন্য সংশোধনের আলাদা কপি করছে।",
+        "ওমি স্টেশনের জানালা দিয়ে উত্তাল হ্রদ দেখছে।",
+        "টাভি আর ইভো স্টেশনের হ্রদের দিকে মুখ করা জানালার পাশে বসে আছে।"
       ],
       "captions": [
-        "হ্রদের স্টেশনে সময়সূচির পাশে আরও দুটি ঘোষণা ছিল। টাভি ও ইভো সেগুলো সংশোধন দিয়ে বদলাল।",
-        "ফেরির দেখভাল করা ওমি তাদের দেখছিল। “ওগুলো পড়ে কয়েকজন ভ্রমণ বাতিল করেছে,” সে বলল।",
-        "টাভি বলতে চাইছিল, সবাই ফিরে আসবে। তার বদলে সে জিজ্ঞেস করল, ঠিক করা খবর তাদের কাছে কীভাবে পৌঁছাবে।",
-        "ওমি স্টেশনের পরের ভ্রমণ-সংবাদে সংশোধন যোগ করল। পুরোনো ঘোষণা পরের খবরও ঠিক করে দিতে পারে না।",
-        "বাইরে বাতাস হ্রদে সাদা ঢেউয়ের রেখা তুলছিল। ওমি বন্দরের সংকেত দেখে ফেরি বাঁধা রাখল।",
-        "টাভি বলল, “কিন্তু আমার ভুল এখনও ছড়াচ্ছে।” ওমি উত্তর দিল, “বিপজ্জনক অবস্থায় নৌকা চালিয়ে আরেকটা ভুল করব না।”",
-        "তারা অপেক্ষার ঘরে ফিরল। দ্বীপে এখনও জানা তিনটি কপি সংশোধন করতে হবে। পারাপারের জন্য অপেক্ষা করতেই হবে।"
+        "সেদিন বিকেলে তারা স্টেশনের অনুমতি নিয়ে সেখানকার দুটো নোটিশের জায়গায় সংশোধনী লাগাল।",
+        "সাতটি মূল নোটিশ উদ্ধার হয়েছে। দ্বীপের জন্য তিনটি সংশোধনী বাকি।",
+        "খেয়ার দায়িত্বে থাকা ওমি তাদের কিছু না-আসার খবর দেখাল। টাভির ঘোষণা পড়ে দর্শনার্থীরা সেগুলো পাঠিয়েছিল।",
+        "ওমি বলল, “আমরা মানুষকে সঠিক খবর দিতে পারি। কিন্তু তারা আসবেই, সে কথা দিতে পারি না।”",
+        "টাভি স্টেশনের সংবাদপত্রিকার জন্য বাড়তি কাগজে সংশোধনীটা টুকে দিল।",
+        "বাইরে বাতাস জোরে বইতে লাগল। পরিস্থিতি উপযুক্ত না হওয়ায় ওমি পারাপার পিছিয়ে দিল।",
+        "টাভি হ্রদের দিকের জানালার কাছে ইভোর পাশে বসল। দ্বীপে যাওয়ার জন্য অপেক্ষা করতে হবে।"
       ],
       "introduction": "টাভি বোঝে, সংশোধন পৌঁছানোর আগেই মানুষ পরিকল্পনা বদলে ফেলতে পারে।",
       "title": "অপেক্ষার ঘর"
@@ -48,21 +48,21 @@
     "cs": {
       "altTexts": [
         "Tavi a Ivo nahrazují dvě nádražní oznámení opravami.",
+        "Tavi a Ivo sedí; Tavi kontroluje tři opravné lístky ve své otevřené složce.",
         "Omi mluví za přepážkou s vrácenými cestovními známkami.",
-        "Tavi se ptá Omiho na přihrádku odchozích informací.",
-        "Omi vkládá kopii opravy do přihrádky pro zpravodaj.",
-        "Omi drží bránu zavřenou vedle uvázané lodě.",
-        "Omi stojí proti Tavimu u zavřené brány pro cestující.",
-        "Tavi a Ivo sedí se třemi opravami v otevřené složce."
+        "Omi mluví s Tavim a Ivem u přepážky stanice.",
+        "Tavi vytváří zvláštní kopii opravy pro staniční zpravodaj.",
+        "Omi sleduje rozbouřené jezero z okna stanice.",
+        "Tavi a Ivo sedí u staničního okna obráceného k jezeru."
       ],
       "captions": [
-        "Na nádraží u jezera stála vedle jízdního řádu další dvě oznámení. Tavi s Ivem je nahradili opravami.",
-        "Převozník Omi je sledoval. „Někteří návštěvníci po jejich přečtení cestu zrušili,“ řekl.",
-        "Tavi chtěl slíbit, že se všichni vrátí. Místo toho se zeptal, jak se k nim dostanou správné informace.",
-        "Omi zařadil opravu do příštího cestovního zpravodaje. Staré oznámení už nebude určovat další zprávu.",
-        "Venku vítr kreslil na jezeře bílé čáry. Omi zkontroloval přístavní signál a nechal loď uvázanou.",
-        "„Ale moje chyba pořád cestuje dál,“ řekl Tavi. Omi odpověděl: „Nebudeme dělat další tím, že poplujeme nebezpečně.“",
-        "Vrátili se do čekárny. Na ostrově zbývalo opravit tři známé kopie. Plavba bude muset počkat."
+        "Odpoledne získali ve stanici svolení a nahradili její dvě oznámení opravnými texty.",
+        "Měli sedm vrácených originálů. Pro ostrov zbývaly tři opravy.",
+        "Převozník Omi jim ukázal zrušené rezervace od návštěvníků, kteří si přečetli Taviho oznámení.",
+        "„Můžeme lidem dát správné informace,“ řekl Omi. „Nemůžeme ale slíbit, že přijdou.“",
+        "Tavi opsal opravu na další čistý papír pro staniční zpravodaj.",
+        "Venku zesílil vítr. Omi odložil plavbu, dokud nebudou vhodné podmínky.",
+        "Tavi si sedl vedle Iva k oknu s výhledem na jezero. Ostrov musel počkat."
       ],
       "introduction": "Tavi zjistí, že oprava může dorazit až poté, co lidé změnili své plány.",
       "title": "Čekárna"
@@ -70,21 +70,21 @@
     "de": {
       "altTexts": [
         "Tavi und Ivo ersetzen zwei Bahnhofsaushänge durch Berichtigungen.",
+        "Tavi und Ivo sitzen auf der Bank; Tavi prüft drei Berichtigungskarten in seiner offenen Mappe.",
         "Omi spricht hinter einem Schalter mit zurückgegebenen Fahrmarken.",
-        "Tavi fragt Omi nach der Ablage für ausgehende Informationen.",
-        "Omi legt eine Berichtigungskopie in die Mitteilungsablage.",
-        "Omi hält das Tor neben der vertäuten Fähre geschlossen.",
-        "Omi steht Tavi am geschlossenen Fahrgasttor gegenüber.",
-        "Tavi und Ivo sitzen mit drei Berichtigungen in der offenen Mappe."
+        "Omi spricht am Stationsschalter mit Tavi und Ivo.",
+        "Tavi fertigt eine gesonderte Berichtigungskopie für das Stationsbulletin an.",
+        "Omi beobachtet vom Stationsfenster aus den unruhigen See.",
+        "Tavi und Ivo sitzen am seeseitigen Fenster der Station."
       ],
       "captions": [
-        "Am Seebahnhof standen zwei weitere Ankündigungen neben dem Fahrplan. Tavi und Ivo ersetzten sie durch Berichtigungen.",
-        "Fährmann Omi sah ihnen zu. „Manche Gäste haben ihre Reise abgesagt, nachdem sie das gelesen hatten“, sagte er.",
-        "Tavi wollte versprechen, dass alle zurückkommen würden. Stattdessen fragte er, wie die richtigen Informationen sie erreichen könnten.",
-        "Omi nahm eine Berichtigung in den nächsten Reisehinweis auf. Die alte Ankündigung sollte die nächste Meldung nicht bestimmen.",
-        "Draußen zog der Wind weiße Linien über den See. Omi prüfte das Hafensignal und ließ die Fähre festgemacht.",
-        "„Aber mein Fehler ist noch unterwegs“, sagte Tavi. Omi antwortete: „Wir machen keinen zweiten, indem wir bei unsicheren Bedingungen losfahren.“",
-        "Sie gingen zurück in den Warteraum. Drei bekannte Exemplare auf der Insel mussten noch berichtigt werden. Die Überfahrt musste warten."
+        "Am Nachmittag holten sie die Erlaubnis der Station ein und ersetzten deren zwei Aushänge durch Richtigstellungen.",
+        "Sie hatten sieben Originale zurück. Drei Richtigstellungen blieben für die Insel.",
+        "Fährmann Omi zeigte ihnen Absagen von Besuchern, die Tavis Bekanntmachung gelesen hatten.",
+        "„Wir können den Menschen richtige Informationen geben“, sagte Omi. „Wir können nicht versprechen, dass sie kommen.“",
+        "Tavi schrieb die Richtigstellung auf ein weiteres leeres Blatt für das Mitteilungsblatt der Station.",
+        "Draußen nahm der Wind zu. Omi verschob die Überfahrt, solange die Bedingungen ungeeignet waren.",
+        "Tavi setzte sich neben Ivo ans Fenster zum See. Die Insel musste warten."
       ],
       "introduction": "Tavi erfährt, dass Berichtigungen manchmal erst ankommen, nachdem Menschen ihre Pläne geändert haben.",
       "title": "Der Warteraum"
@@ -92,21 +92,21 @@
     "en": {
       "altTexts": [
         "Tavi and Ivo replace two station notices with corrections.",
+        "Tavi and Ivo sit while Tavi checks three correction cards in his open folder.",
         "Omi speaks behind a counter holding returned travel tokens.",
-        "Tavi asks Omi about the outgoing information tray.",
-        "Omi places a correction copy in the bulletin tray.",
-        "Omi keeps the gate closed beside the moored ferry.",
-        "Omi faces Tavi by the closed passenger gate.",
-        "Tavi and Ivo sit with three corrections in the open folder."
+        "Omi speaks to Tavi and Ivo at the station counter.",
+        "Tavi makes a separate correction copy for the station bulletin.",
+        "Omi watches the rough lake from the station window.",
+        "Tavi and Ivo sit beside the station’s lake-facing window."
       ],
       "captions": [
-        "At the lakeside station, two more announcements stood beside the timetable. Tavi and Ivo replaced them with corrections.",
-        "Ferry keeper Omi watched them work. “Some visitors canceled their trip after reading those,” he said.",
-        "Tavi wanted to promise that everyone would come back. Instead, he asked where the corrected information could reach them.",
-        "Omi placed a correction in the station’s next travel bulletin. The old announcement could not decide the next update.",
-        "Outside, wind pressed white lines across the lake. Omi checked the harbor signal and kept the ferry at its mooring.",
-        "“But my mistake is still traveling,” Tavi said. Omi answered, “We won’t make another one by sailing unsafely.”",
-        "They returned to the waiting room. Three known copies still needed correcting on the island. The crossing would have to wait."
+        "That afternoon, they obtained permission at the station and replaced its two notices with corrections.",
+        "Seven originals were recovered. Three corrections remained for the island.",
+        "Ferry keeper Omi showed them cancellations received after visitors read Tavi’s announcement.",
+        "“We can give people accurate information,” Omi said. “We cannot promise they will come.”",
+        "Tavi copied the correction onto spare paper for the station bulletin.",
+        "Outside, the wind strengthened. Omi postponed the crossing while conditions were unsuitable.",
+        "Tavi sat beside Ivo at the lake window. The island would have to wait."
       ],
       "introduction": "Tavi discovers that correction may arrive after people have already changed their plans.",
       "title": "The Waiting Room"
@@ -114,21 +114,21 @@
     "es": {
       "altTexts": [
         "Tavi e Ivo reemplazan dos avisos de la estación por correcciones.",
+        "Tavi e Ivo están sentados mientras Tavi revisa tres tarjetas de rectificación en su carpeta abierta.",
         "Omi habla tras un mostrador con fichas de viaje devueltas.",
-        "Tavi pregunta a Omi por la bandeja de información de salida.",
-        "Omi coloca una copia de la corrección en la bandeja del boletín.",
-        "Omi mantiene la puerta cerrada junto al ferry amarrado.",
-        "Omi está frente a Tavi junto a la puerta de pasajeros cerrada.",
-        "Tavi e Ivo están sentados con tres correcciones en la carpeta abierta."
+        "Omi habla con Tavi e Ivo en el mostrador de la estación.",
+        "Tavi hace una copia aparte de la rectificación para el boletín de la estación.",
+        "Omi observa el lago agitado desde la ventana de la estación.",
+        "Tavi e Ivo se sientan junto a la ventana de la estación que da al lago."
       ],
       "captions": [
-        "En la estación del lago había otros dos anuncios junto al horario. Tavi e Ivo los sustituyeron por correcciones.",
-        "Omi, el encargado del ferry, los observaba. «Algunas personas cancelaron el viaje después de leerlos», dijo.",
-        "Tavi quiso prometer que todos volverían. En vez de eso, preguntó cómo hacerles llegar la información corregida.",
-        "Omi incluyó una corrección en el siguiente boletín de viajes. El anuncio antiguo no decidiría la próxima actualización.",
-        "Fuera, el viento trazaba líneas blancas sobre el lago. Omi comprobó la señal del puerto y mantuvo el ferry amarrado.",
-        "«Pero mi error sigue viajando», dijo Tavi. Omi respondió: «No cometeremos otro navegando sin seguridad».",
-        "Volvieron a la sala de espera. Aún quedaban tres copias conocidas por corregir en la isla. La travesía tendría que esperar."
+        "Esa tarde obtuvieron permiso en la estación y sustituyeron sus dos anuncios por rectificaciones.",
+        "Habían recuperado siete originales. Quedaban tres rectificaciones para la isla.",
+        "Omi, el encargado del transbordador, les mostró cancelaciones recibidas después de que los visitantes leyeran el anuncio de Tavi.",
+        "«Podemos dar información correcta a la gente», dijo Omi. «No podemos prometer que vendrán».",
+        "Tavi copió la rectificación en otra hoja en blanco para el boletín de la estación.",
+        "Fuera, el viento arreció. Omi aplazó la travesía mientras las condiciones no fueran adecuadas.",
+        "Tavi se sentó junto a Ivo, ante la ventana del lago. La isla tendría que esperar."
       ],
       "introduction": "Tavi descubre que una corrección puede llegar después de que otras personas hayan cambiado sus planes.",
       "title": "La sala de espera"
@@ -136,21 +136,21 @@
     "fr": {
       "altTexts": [
         "Tavi et Ivo remplacent deux avis de la gare par des rectifications.",
+        "Tavi et Ivo sont assis tandis que Tavi vérifie trois cartes de rectification dans son dossier ouvert.",
         "Omi parle derrière un comptoir où reposent des jetons de voyage rendus.",
-        "Tavi interroge Omi sur le bac des informations à envoyer.",
-        "Omi place une copie de rectification dans le bac du bulletin.",
-        "Omi garde la barrière fermée près du bac amarré.",
-        "Omi fait face à Tavi près de la barrière des passagers fermée.",
-        "Tavi et Ivo sont assis avec trois rectifications dans la pochette ouverte."
+        "Omi parle à Tavi et Ivo au comptoir de la gare.",
+        "Tavi fait une copie distincte de la rectification pour le bulletin de la gare.",
+        "Omi observe le lac agité depuis la fenêtre de la gare.",
+        "Tavi et Ivo sont assis près de la fenêtre de la gare donnant sur le lac."
       ],
       "captions": [
-        "À la gare du lac, deux autres annonces se trouvaient près des horaires. Tavi et Ivo les remplacèrent par des rectifications.",
-        "Omi, responsable du bac, les observait. « Des visiteurs ont annulé leur voyage après les avoir lues », dit-il.",
-        "Tavi voulut promettre que tout le monde reviendrait. Il demanda plutôt comment faire parvenir les informations corrigées aux personnes concernées.",
-        "Omi ajouta une rectification au prochain bulletin de voyage. L’ancienne annonce ne dicterait pas la nouvelle information.",
-        "Dehors, le vent dessinait des lignes blanches sur le lac. Omi vérifia le signal du port et garda le bac amarré.",
-        "« Mais mon erreur continue de voyager », dit Tavi. Omi répondit : « N’en commettons pas une autre en naviguant sans sécurité. »",
-        "Ils retournèrent dans la salle d’attente. Trois exemplaires connus restaient à corriger sur l’île. La traversée devrait attendre."
+        "Cet après-midi-là, ils obtinrent l’autorisation nécessaire et remplacèrent les deux annonces de la station par des rectificatifs.",
+        "Sept originaux étaient récupérés. Trois rectificatifs restaient pour l’île.",
+        "Omi, le passeur, leur montra des annulations reçues après la lecture de l’annonce de Tavi.",
+        "« Nous pouvons donner des informations exactes, dit Omi. Nous ne pouvons pas promettre que les gens viendront. »",
+        "Tavi recopia le rectificatif sur une feuille vierge pour le bulletin de la station.",
+        "Dehors, le vent se renforça. Omi reporta la traversée, car les conditions ne convenaient pas.",
+        "Tavi s’assit près d’Ivo, à la fenêtre donnant sur le lac. L’île devrait attendre."
       ],
       "introduction": "Tavi découvre qu’une rectification peut arriver après que des personnes ont changé leurs projets.",
       "title": "La salle d’attente"
@@ -158,21 +158,21 @@
     "hi": {
       "altTexts": [
         "तावी और ईवो स्टेशन की दो घोषणाओं को बदल रहे हैं।",
-        "ओमी उस काउंटर के पीछे बोल रहा है जिस पर लौटाए गए यात्रा-टोकन रखे हैं।",
-        "तावी ओमी से बाहर जाने वाली सूचना की तश्तरी के बारे में पूछ रहा है।",
-        "ओमी बुलेटिन की तश्तरी में सुधार की प्रति रख रहा है।",
-        "ओमी बँधी हुई नौका के पास फाटक बंद रखे है।",
-        "ओमी बंद यात्री-फाटक के पास तावी से बात कर रहा है।",
-        "तावी और ईवो खुली फाइल में तीन सुधार रखे बैठे हैं।"
+        "तावी और ईवो बैठे हैं। तावी अपने खुले फ़ोल्डर में तीन सुधार-पत्र जाँच रहा है।",
+        "ओमी काउंटर के पीछे लौटाए गए यात्रा-टोकन पकड़े बोल रहा है।",
+        "ओमी स्टेशन के काउंटर पर तावी और ईवो से बात कर रहा है।",
+        "तावी स्टेशन के बुलेटिन के लिए सुधार की अलग प्रति बना रहा है।",
+        "ओमी स्टेशन की खिड़की से झील की तेज़ लहरें देख रहा है।",
+        "तावी और ईवो स्टेशन की झील की ओर खुलने वाली खिड़की के पास बैठे हैं।"
       ],
       "captions": [
-        "झील के स्टेशन पर समय-सारणी के पास दो और घोषणाएँ थीं। तावी और ईवो ने उनकी जगह सुधार लगा दिए।",
-        "नौका सँभालने वाला ओमी उन्हें देख रहा था। “इन्हें पढ़कर कुछ लोगों ने यात्रा रद्द कर दी,” उसने कहा।",
-        "तावी वादा करना चाहता था कि सब लौटेंगे। इसके बजाय उसने पूछा कि सही जानकारी उन तक कहाँ से पहुँच सकती है।",
-        "ओमी ने स्टेशन के अगले यात्रा-बुलेटिन में सुधार जोड़ दिया। पुरानी घोषणा अगली सूचना का फैसला नहीं करेगी।",
-        "बाहर हवा झील पर सफेद लहरों की धारियाँ बना रही थी। ओमी ने बंदरगाह का संकेत देखा और नौका बँधी रहने दी।",
-        "“लेकिन मेरी गलती अभी भी घूम रही है,” तावी बोला। ओमी ने कहा, “असुरक्षित समय पर चलकर हम दूसरी गलती नहीं करेंगे।”",
-        "वे प्रतीक्षा-कक्ष लौट आए। द्वीप पर अभी तीन ज्ञात प्रतियों के सुधार बाकी थे। पार जाने के लिए इंतज़ार करना होगा।"
+        "उस दोपहर दोनों ने स्टेशन पर अनुमति ली और वहाँ की दोनों सूचनाओं की जगह सुधार लगा दिए।",
+        "सात मूल सूचनाएँ वापस मिल गई थीं। द्वीप के लिए तीन सुधार बाकी थे।",
+        "फ़ेरी चलाने वाले ओमी ने उन्हें आने का कार्यक्रम रद्द करने वाले संदेश दिखाए, जो तावी की सूचना पढ़ने के बाद आए थे।",
+        "ओमी ने कहा, “हम लोगों को सही जानकारी दे सकते हैं। लेकिन उनके आने का वादा नहीं कर सकते।”",
+        "तावी ने स्टेशन की समाचार-पत्रिका के लिए अतिरिक्त कागज़ पर सुधार की नकल बनाई।",
+        "बाहर हवा तेज़ हो गई। हालात ठीक न होने के कारण ओमी ने झील पार करने की यात्रा टाल दी।",
+        "तावी झील की ओर खुलती खिड़की के पास ईवो के साथ बैठ गया। द्वीप जाने के लिए उन्हें इंतज़ार करना था।"
       ],
       "introduction": "तावी देखता है कि सुधार पहुँचने से पहले लोग अपनी योजनाएँ बदल चुके हो सकते हैं।",
       "title": "प्रतीक्षा-कक्ष"
@@ -180,21 +180,21 @@
     "id": {
       "altTexts": [
         "Tavi dan Ivo mengganti dua pengumuman stasiun dengan pembetulan.",
+        "Tavi dan Ivo duduk sementara Tavi memeriksa tiga kartu koreksi di dalam mapnya yang terbuka.",
         "Omi berbicara di belakang meja yang berisi token perjalanan yang dikembalikan.",
-        "Tavi bertanya kepada Omi tentang baki informasi keluar.",
-        "Omi menaruh salinan pembetulan ke baki buletin.",
-        "Omi menjaga gerbang tertutup di dekat feri yang tertambat.",
-        "Omi menghadap Tavi di dekat gerbang penumpang yang tertutup.",
-        "Tavi dan Ivo duduk dengan tiga pembetulan di dalam map terbuka."
+        "Omi berbicara kepada Tavi dan Ivo di loket stasiun.",
+        "Tavi membuat salinan koreksi terpisah untuk buletin stasiun.",
+        "Omi mengamati danau yang bergelombang dari jendela stasiun.",
+        "Tavi dan Ivo duduk di dekat jendela stasiun yang menghadap danau."
       ],
       "captions": [
-        "Di stasiun danau, dua pengumuman lain terpasang di samping jadwal. Tavi dan Ivo menggantinya dengan pembetulan.",
-        "Omi, pengelola feri, memperhatikan mereka. “Beberapa pengunjung membatalkan perjalanan setelah membacanya,” katanya.",
-        "Tavi ingin berjanji semua orang akan datang kembali. Sebaliknya, ia bertanya bagaimana informasi yang benar bisa sampai kepada mereka.",
-        "Omi memasukkan pembetulan ke buletin perjalanan berikutnya. Pengumuman lama tidak akan menentukan kabar yang baru.",
-        "Di luar, angin menggoreskan garis putih di permukaan danau. Omi memeriksa tanda pelabuhan dan membiarkan feri tetap tertambat.",
-        "“Tapi kesalahanku masih beredar,” kata Tavi. Omi menjawab, “Kita tidak akan membuat kesalahan lain dengan berlayar saat tidak aman.”",
-        "Mereka kembali ke ruang tunggu. Masih ada tiga salinan yang diketahui di pulau yang perlu dibetulkan. Penyeberangan harus menunggu."
+        "Sore itu, mereka mendapat izin di stasiun dan mengganti kedua pengumumannya dengan koreksi.",
+        "Tujuh lembar asli telah diambil. Tiga koreksi tersisa untuk pulau.",
+        "Omi, pengelola feri, memperlihatkan pembatalan dari pengunjung setelah membaca pengumuman Tavi.",
+        "“Kita bisa memberi informasi yang benar,” kata Omi. “Kita tidak bisa menjanjikan mereka akan datang.”",
+        "Tavi menyalin koreksi di lembar cadangan untuk buletin stasiun.",
+        "Di luar, angin bertambah kuat. Omi menunda penyeberangan selama kondisinya belum sesuai.",
+        "Tavi duduk di samping Ivo dekat jendela danau. Pulau itu harus menunggu."
       ],
       "introduction": "Tavi mengetahui bahwa pembetulan bisa tiba setelah orang-orang telanjur mengubah rencana.",
       "title": "Ruang Tunggu"
@@ -202,21 +202,21 @@
     "it": {
       "altTexts": [
         "Tavi e Ivo sostituiscono due avvisi della stazione con rettifiche.",
+        "Tavi e Ivo sono seduti mentre Tavi controlla tre rettifiche nella sua cartella aperta.",
         "Omi parla dietro un banco con gettoni di viaggio restituiti.",
-        "Tavi chiede a Omi della vaschetta delle informazioni in partenza.",
-        "Omi mette una copia della rettifica nella vaschetta del bollettino.",
-        "Omi mantiene chiuso il cancello accanto al traghetto ormeggiato.",
-        "Omi è di fronte a Tavi vicino al cancello passeggeri chiuso.",
-        "Tavi e Ivo siedono con tre rettifiche nella cartella aperta."
+        "Omi parla con Tavi e Ivo al banco della stazione.",
+        "Tavi prepara una copia separata della rettifica per il bollettino della stazione.",
+        "Omi osserva il lago agitato dalla finestra della stazione.",
+        "Tavi e Ivo siedono vicino alla finestra della stazione affacciata sul lago."
       ],
       "captions": [
-        "Alla stazione sul lago c’erano altri due annunci accanto agli orari. Tavi e Ivo li sostituirono con rettifiche.",
-        "Omi, il responsabile del traghetto, li osservava. «Alcuni visitatori hanno annullato il viaggio dopo averli letti», disse.",
-        "Tavi avrebbe voluto promettere che sarebbero tornati tutti. Invece chiese come far arrivare loro le informazioni corrette.",
-        "Omi inserì una rettifica nel prossimo bollettino dei viaggi. Il vecchio annuncio non avrebbe deciso il nuovo aggiornamento.",
-        "Fuori, il vento tracciava linee bianche sul lago. Omi controllò il segnale del porto e lasciò il traghetto ormeggiato.",
-        "«Ma il mio errore sta ancora viaggiando», disse Tavi. Omi rispose: «Non ne faremo un altro navigando senza sicurezza».",
-        "Tornarono nella sala d’attesa. Sull’isola restavano tre copie note da correggere. La traversata avrebbe dovuto aspettare."
+        "Quel pomeriggio ottennero il permesso alla stazione e sostituirono i suoi due annunci con le rettifiche.",
+        "Avevano recuperato sette originali. Restavano tre rettifiche per l’isola.",
+        "Omi, il traghettatore, mostrò loro le cancellazioni ricevute dopo che i visitatori avevano letto l’annuncio di Tavi.",
+        "«Possiamo dare informazioni corrette alle persone», disse Omi. «Non possiamo promettere che verranno».",
+        "Tavi copiò la rettifica su un altro foglio bianco per il bollettino della stazione.",
+        "Fuori, il vento aumentò. Omi rimandò la traversata finché le condizioni non fossero state adatte.",
+        "Tavi si sedette accanto a Ivo, alla finestra sul lago. L’isola avrebbe dovuto aspettare."
       ],
       "introduction": "Tavi scopre che una rettifica può arrivare dopo che altre persone hanno cambiato programma.",
       "title": "La sala d’attesa"
@@ -224,21 +224,21 @@
     "ja": {
       "altTexts": [
         "タヴィとイヴォが駅の二枚のお知らせを訂正に替えています。",
-        "オミが、返された乗船札のある窓口の向こうで話しています。",
-        "タヴィがオミに、情報を送る受け皿のことを聞いています。",
-        "オミが訂正の控えを案内便の受け皿に入れています。",
-        "オミが、係留された船のそばで乗船口を閉じたままにしています。",
-        "オミが閉じた乗船口でタヴィに向き合っています。",
-        "タヴィとイヴォが座り、開いたファイルに三枚の訂正が入っています。"
+        "タヴィとイヴォが座り、タヴィが開いた書類入れの中にある三枚の訂正文を確かめている。",
+        "オミが返された乗船札を持ち、窓口の向こうで話しています。",
+        "オミが駅のカウンターでタヴィとイヴォに話しています。",
+        "タヴィが駅のお知らせ用に、訂正を別の紙へ写しています。",
+        "オミが駅の窓から波立つ湖を見ています。",
+        "タヴィとイヴォが駅の湖に面した窓のそばに座っています。"
       ],
       "captions": [
-        "湖畔の駅では、時刻表のそばにさらに二枚のお知らせがありました。タヴィとイヴォは訂正に差し替えました。",
-        "船の係のオミが言いました。「あれを読んで、出かけるのをやめた人もいたよ」",
-        "皆が戻ると約束したくなったタヴィは、代わりに、正しい情報をどこから届けられるか尋ねました。",
-        "オミは次の交通だよりに訂正を入れました。これからの案内まで、古いお知らせに決めさせる必要はありません。",
-        "外では風が湖に白い筋を押しつけていました。オミは港の信号を確認し、船を岸につないだままにしました。",
-        "「でも、ぼくの間違いはまだ広がっている」。オミは答えました。「危険な出航で、新しい間違いを増やさないよ」",
-        "二人は待合室へ戻りました。島にはまだ、訂正が必要な写しが三枚あります。渡るのは待たなければなりません。"
+        "その午後、駅でも許可を得て、二枚のお知らせを訂正文に取り替えた。",
+        "元の紙は七枚回収できた。島へ持っていく訂正文は三枚残った。",
+        "渡し船の係のオミは、タヴィのお知らせを読んだ来場予定者から届いた取りやめの連絡を見せた。",
+        "「正しい情報は届けられる」とオミは言った。「でも、来てくれるとは約束できないよ」",
+        "タヴィは駅のお便り用に、別の予備の紙へ訂正文を書き写した。",
+        "外では風が強くなった。オミは、条件が整わないため出航を延期した。",
+        "タヴィは湖に面した窓辺で、イヴォの隣に座った。島へ行くのは待たなければならなかった。"
       ],
       "introduction": "訂正が届くころには、人の予定が変わっていることもあると分かります。",
       "title": "待合室"
@@ -246,21 +246,21 @@
     "ko": {
       "altTexts": [
         "타비와 이보가 역의 공지문 두 부를 교체해요.",
-        "오미가 반환된 승선 표식이 놓인 창구 뒤에서 말해요.",
-        "타비가 오미에게 발송 안내함에 관해 물어요.",
-        "오미가 소식지 함에 정정문 사본을 넣어요.",
-        "오미가 정박한 배 옆에서 승선문을 닫아 둬요.",
-        "오미가 닫힌 승선문 앞에서 타비와 마주 보고 있어요.",
-        "타비와 이보가 정정문 세 장이 든 서류철을 펼치고 앉아 있어요."
+        "타비와 이보가 앉아 있고, 타비가 펼친 서류철 안의 정정문 세 장을 확인한다.",
+        "오미가 창구 뒤에서 반환된 승선 표식을 들고 말해요.",
+        "오미가 역 창구에서 타비와 이보에게 말하고 있어요.",
+        "타비가 역 소식지에 넣을 정정문을 따로 베껴 쓰고 있어요.",
+        "오미가 역 창문으로 물결이 거센 호수를 바라보고 있어요.",
+        "타비와 이보가 호수를 향한 역 창문 옆에 앉아 있어요."
       ],
       "captions": [
-        "호숫가 역 시간표 옆에도 공지문 두 부가 있었어요. 타비와 이보는 그것들을 정정문으로 바꿨어요.",
-        "뱃사공 오미가 지켜보다 말했어요. “저걸 읽고 나들이를 취소한 사람도 있었어.”",
-        "타비는 모두 돌아올 거라고 약속하고 싶었어요. 대신 바로잡은 소식을 어떻게 전할 수 있을지 물었어요.",
-        "오미는 다음 교통 소식지에 정정문을 넣었어요. 옛 공지문이 다음 소식까지 결정하게 둘 필요는 없었어요.",
-        "밖에서는 바람이 호수에 흰 물결을 밀어 올렸어요. 오미는 항구 신호를 확인하고 배를 계속 묶어 두었어요.",
-        "“하지만 제 실수는 아직도 퍼지고 있어요.” 오미가 답했어요. “위험하게 출항해서 또 다른 실수를 만들지는 말자.”",
-        "둘은 대합실로 돌아갔어요. 섬에는 확인된 사본 세 부를 더 고쳐야 했어요. 호수를 건너는 일은 기다려야 했어요."
+        "그날 오후, 둘은 정류장에서 허락을 받아 안내문 두 장을 정정문으로 바꾸었다.",
+        "원래 안내문 일곱 장을 회수했다. 섬에 가져갈 정정문은 세 장 남았다.",
+        "나룻배를 모는 오미가 타비의 안내문을 읽은 방문객들이 보내온 방문 취소 소식을 보여 주었다.",
+        "“정확한 정보를 전할 수는 있어.” 오미가 말했다. “하지만 사람들이 올 거라고 약속할 수는 없어.”",
+        "타비는 정류장 소식지에 실을 정정문을 여분의 종이에 옮겨 썼다.",
+        "밖에서는 바람이 거세졌다. 오미는 건너기에 알맞은 조건이 될 때까지 출항을 미뤘다.",
+        "타비는 호수가 보이는 창가에 이보와 나란히 앉았다. 섬으로 가는 일은 기다려야 했다."
       ],
       "introduction": "정정문이 도착하기 전에 사람들이 이미 계획을 바꿨을 수도 있음을 알게 됩니다.",
       "title": "대합실"
@@ -268,21 +268,21 @@
     "pl": {
       "altTexts": [
         "Tavi i Ivo wymieniają dwa stacyjne ogłoszenia na sprostowania.",
+        "Tavi i Ivo siedzą, a Tavi sprawdza trzy sprostowania w swojej otwartej teczce.",
         "Omi mówi zza lady z oddanymi żetonami podróżnymi.",
-        "Tavi pyta Omiego o tacę informacji do wysłania.",
-        "Omi wkłada kopię sprostowania do pojemnika na biuletyn.",
-        "Omi utrzymuje zamkniętą bramkę obok zacumowanego promu.",
-        "Omi stoi naprzeciw Taviego przy zamkniętej bramce dla pasażerów.",
-        "Tavi i Ivo siedzą z trzema sprostowaniami w otwartej teczce."
+        "Omi rozmawia z Tavim i Ivem przy ladzie na stacji.",
+        "Tavi przygotowuje osobną kopię sprostowania do biuletynu stacji.",
+        "Omi obserwuje wzburzone jezioro przez okno stacji.",
+        "Tavi i Ivo siedzą przy oknie stacji wychodzącym na jezioro."
       ],
       "captions": [
-        "Na stacji nad jeziorem obok rozkładu wisiały dwa kolejne ogłoszenia. Tavi i Ivo zastąpili je sprostowaniami.",
-        "Opiekun promu Omi przyglądał się ich pracy. „Niektórzy odwołali podróż po przeczytaniu tych ogłoszeń”, powiedział.",
-        "Tavi chciał obiecać, że wszyscy wrócą. Zamiast tego zapytał, jak dostarczyć im poprawione informacje.",
-        "Omi dołączył sprostowanie do następnego biuletynu podróżnego. Stare ogłoszenie nie będzie decydować o kolejnej wiadomości.",
-        "Na zewnątrz wiatr kreślił białe linie na jeziorze. Omi sprawdził sygnał portowy i zostawił prom przy cumach.",
-        "„Ale mój błąd wciąż podróżuje”, powiedział Tavi. Omi odparł: „Nie popełnimy następnego, płynąc w niebezpiecznych warunkach”.",
-        "Wrócili do poczekalni. Na wyspie zostały trzy znane kopie do sprostowania. Przeprawa musiała poczekać."
+        "Tego popołudnia uzyskali zgodę na stacji i zastąpili dwa tamtejsze ogłoszenia sprostowaniami.",
+        "Odzyskali siedem oryginałów. Dla wyspy zostały trzy sprostowania.",
+        "Omi, opiekun promu, pokazał im rezygnacje gości, którzy przeczytali ogłoszenie Taviego.",
+        "„Możemy przekazać ludziom prawdziwe informacje” — powiedział Omi. „Nie możemy obiecać, że przyjadą”.",
+        "Tavi przepisał sprostowanie na dodatkową kartkę dla biuletynu stacji.",
+        "Na zewnątrz wiatr się wzmógł. Omi odłożył przeprawę, dopóki warunki nie będą odpowiednie.",
+        "Tavi usiadł obok Iva przy oknie wychodzącym na jezioro. Wyspa musiała poczekać."
       ],
       "introduction": "Tavi odkrywa, że sprostowanie może dotrzeć już po tym, jak ludzie zmienią plany.",
       "title": "Poczekalnia"
@@ -290,21 +290,21 @@
     "pt": {
       "altTexts": [
         "Tavi e Ivo trocam dois avisos da estação por correções.",
+        "Tavi e Ivo estão sentados enquanto Tavi confere três cartões de retificação em sua pasta aberta.",
         "Omi fala atrás de um balcão com fichas de viagem devolvidas.",
-        "Tavi pergunta a Omi sobre a bandeja de informações de saída.",
-        "Omi coloca uma cópia da correção na bandeja do boletim.",
-        "Omi mantém o portão fechado perto da balsa amarrada.",
-        "Omi está diante de Tavi junto ao portão de passageiros fechado.",
-        "Tavi e Ivo estão sentados com três correções na pasta aberta."
+        "Omi fala com Tavi e Ivo no balcão da estação.",
+        "Tavi faz uma cópia separada da correção para o boletim da estação.",
+        "Omi observa o lago agitado pela janela da estação.",
+        "Tavi e Ivo se sentam junto à janela da estação voltada para o lago."
       ],
       "captions": [
-        "Na estação do lago, havia outros dois anúncios junto aos horários. Tavi e Ivo os substituíram por correções.",
-        "Omi, responsável pela balsa, observava. “Alguns visitantes cancelaram a viagem depois de ler esses avisos”, disse.",
-        "Tavi quis prometer que todos voltariam. Em vez disso, perguntou como fazer a informação corrigida chegar até eles.",
-        "Omi incluiu uma correção no próximo boletim de viagens. O anúncio antigo não decidiria a próxima atualização.",
-        "Lá fora, o vento desenhava linhas brancas sobre o lago. Omi conferiu o sinal do porto e manteve a balsa amarrada.",
-        "“Mas meu erro continua viajando”, disse Tavi. Omi respondeu: “Não vamos cometer outro navegando sem segurança.”",
-        "Voltaram para a sala de espera. Ainda faltava corrigir três cópias conhecidas na ilha. A travessia teria de esperar."
+        "Naquela tarde, conseguiram permissão na estação e substituíram os dois comunicados por retificações.",
+        "Tinham recuperado sete originais. Restavam três retificações para a ilha.",
+        "Omi, o responsável pela balsa, mostrou cancelamentos recebidos depois que visitantes leram o comunicado de Tavi.",
+        "“Podemos dar informações corretas às pessoas”, disse Omi. “Não podemos prometer que elas venham.”",
+        "Tavi copiou a retificação em outra folha em branco para o boletim da estação.",
+        "Lá fora, o vento aumentou. Omi adiou a travessia enquanto as condições não fossem adequadas.",
+        "Tavi se sentou ao lado de Ivo, perto da janela voltada para o lago. A ilha teria de esperar."
       ],
       "introduction": "Tavi descobre que uma correção pode chegar depois que as pessoas já mudaram seus planos.",
       "title": "A sala de espera"
@@ -312,21 +312,21 @@
     "ru": {
       "altTexts": [
         "Тави и Иво заменяют два станционных объявления.",
-        "Оми говорит из-за стойки с возвращёнными проездными жетонами.",
-        "Тави спрашивает Оми о лотке исходящей информации.",
-        "Оми кладёт копию исправления в лоток бюллетеня.",
-        "Оми держит проход закрытым возле пришвартованного парома.",
-        "Оми разговаривает с Тави возле закрытых пассажирских ворот.",
-        "Тави и Иво сидят с открытой папкой и тремя исправлениями."
+        "Тави и Иво сидят, а Тави проверяет три исправления в своей открытой папке.",
+        "Оми говорит из-за стойки, держа возвращённые проездные жетоны.",
+        "Оми разговаривает с Тави и Иво у стойки на станции.",
+        "Тави делает отдельную копию исправления для станционного бюллетеня.",
+        "Оми смотрит на неспокойное озеро из окна станции.",
+        "Тави и Иво сидят у окна станции, выходящего на озеро."
       ],
       "captions": [
-        "На озёрной станции ещё два объявления висели возле расписания. Тави и Иво заменили их исправлениями.",
-        "Паромщик Оми наблюдал за работой. «Некоторые прочли их и отменили поездку», — сказал он.",
-        "Тави хотел пообещать, что все вернутся. Вместо этого спросил, где исправленная информация сможет их найти.",
-        "Оми добавил исправление в следующий станционный бюллетень. Старое объявление не должно определять новые сведения.",
-        "Снаружи ветер чертил белые полосы на озере. Оми проверил портовый сигнал и оставил паром у причала.",
-        "«Но моя ошибка всё ещё путешествует», — сказал Тави. Оми ответил: «Не добавим новую, выйдя в опасную погоду».",
-        "Они вернулись в зал ожидания. На острове оставались три известных экземпляра без исправлений. Переправа подождёт."
+        "В тот день они получили разрешение на станции и заменили два её объявления опровержениями.",
+        "Они забрали семь оригиналов. Для острова оставались три опровержения.",
+        "Паромщик Оми показал им отказы от поездки, пришедшие после того, как посетители прочитали объявление Тави.",
+        "«Мы можем сообщить людям верные сведения, — сказал Оми. — Но не можем обещать, что они приедут».",
+        "Тави переписал опровержение на отдельный чистый лист для станционного бюллетеня.",
+        "Снаружи усилился ветер. Оми отложил переправу до подходящих условий.",
+        "Тави сел рядом с Иво у окна с видом на озеро. Острову придётся подождать."
       ],
       "introduction": "Тави узнаёт, что исправление может прийти уже после того, как люди изменили планы.",
       "title": "Зал ожидания"
@@ -334,21 +334,21 @@
     "tr": {
       "altTexts": [
         "Tavi ile Ivo, istasyondaki iki duyuruyu düzeltmelerle değiştiriyor.",
+        "Tavi ve Ivo otururken Tavi açık dosyasındaki üç düzeltme kartını kontrol eder.",
         "Omi, iade edilmiş yolculuk jetonlarının bulunduğu bankonun arkasında konuşuyor.",
-        "Tavi, Omi’ye giden bilgi tepsisini soruyor.",
-        "Omi, bülten tepsisine düzeltme kopyası koyuyor.",
-        "Omi, bağlı vapurun yanındaki kapıyı kapalı tutuyor.",
-        "Omi, kapalı yolcu kapısında Tavi’nin karşısında duruyor.",
-        "Tavi ile Ivo, açık dosyada üç düzeltmeyle oturuyor."
+        "Omi, istasyon bankosunda Tavi ve Ivo’yla konuşuyor.",
+        "Tavi, istasyon bülteni için düzeltmenin ayrı bir kopyasını hazırlıyor.",
+        "Omi, istasyon penceresinden dalgalı gölü izliyor.",
+        "Tavi ve Ivo, istasyonun göle bakan penceresinin yanında oturuyor."
       ],
       "captions": [
-        "Göl istasyonunda, sefer saatlerinin yanında iki duyuru daha vardı. Tavi ile Ivo bunları düzeltmelerle değiştirdi.",
-        "Vapur sorumlusu Omi onları izliyordu. “Bazı ziyaretçiler bunları okuyunca gezilerini iptal etti,” dedi.",
-        "Tavi herkesin döneceğine söz vermek istedi. Bunun yerine doğru bilginin onlara nasıl ulaştırılacağını sordu.",
-        "Omi, bir düzeltmeyi sonraki yolculuk bültenine ekledi. Eski duyuru, yeni haberi belirlemeyecekti.",
-        "Dışarıda rüzgâr gölün üzerine beyaz çizgiler çekiyordu. Omi liman işaretini kontrol edip vapuru bağlı tuttu.",
-        "“Ama hatam hâlâ yolculuk ediyor,” dedi Tavi. Omi, “Güvensiz koşullarda açılıp bir hata daha yapmayacağız,” diye yanıtladı.",
-        "Bekleme salonuna döndüler. Adada düzeltilmesi gereken bilinen üç kopya kalmıştı. Geçiş beklemek zorundaydı."
+        "O öğleden sonra istasyondan izin alıp iki duyurunun yerine düzeltmeleri koydular.",
+        "Yedi asıl duyuru geri alınmıştı. Ada için üç düzeltme kalmıştı.",
+        "Feribot sorumlusu Omi, Tavi’nin duyurusunu okuyan ziyaretçilerin gönderdiği iptalleri gösterdi.",
+        "“İnsanlara doğru bilgi verebiliriz,” dedi Omi. “Ama geleceklerine söz veremeyiz.”",
+        "Tavi istasyon bülteni için düzeltmeyi ayrı bir boş kâğıda kopyaladı.",
+        "Dışarıda rüzgâr güçlendi. Omi, koşullar uygun olmadığı için geçişi erteledi.",
+        "Tavi göle bakan pencerenin önünde Ivo’nun yanına oturdu. Ada beklemek zorundaydı."
       ],
       "introduction": "Tavi, düzeltmenin bazen insanlar planlarını değiştirdikten sonra ulaştığını öğrenir.",
       "title": "Bekleme Salonu"
@@ -356,21 +356,21 @@
     "vi": {
       "altTexts": [
         "Tavi và Ivo thay hai thông báo nhà ga bằng bản đính chính.",
+        "Tavi và Ivo ngồi trên ghế, còn Tavi kiểm tra ba tờ đính chính trong tập hồ sơ đang mở của mình.",
         "Omi nói sau quầy có những thẻ đi lại được hoàn trả.",
-        "Tavi hỏi Omi về khay thông tin gửi đi.",
-        "Omi đặt bản sao đính chính vào khay bản tin.",
-        "Omi giữ cổng đóng cạnh chiếc phà đang neo.",
-        "Omi đứng trước Tavi cạnh cổng hành khách đang đóng.",
-        "Tavi và Ivo ngồi với ba bản đính chính trong hồ sơ mở."
+        "Omi nói chuyện với Tavi và Ivo tại quầy nhà ga.",
+        "Tavi chép riêng một bản đính chính cho bản tin của ga.",
+        "Omi nhìn mặt hồ nổi sóng qua cửa sổ nhà ga.",
+        "Tavi và Ivo ngồi cạnh cửa sổ nhà ga nhìn ra hồ."
       ],
       "captions": [
-        "Ở ga bên hồ, hai thông báo nữa nằm cạnh lịch chạy tàu. Tavi và Ivo thay bằng các bản đính chính.",
-        "Omi, người phụ trách phà, nhìn họ làm việc. “Có khách đã hủy chuyến sau khi đọc những tờ đó,” Omi nói.",
-        "Tavi muốn hứa rằng mọi người sẽ quay lại. Thay vào đó, cậu hỏi cách đưa thông tin đã sửa đến họ.",
-        "Omi thêm một bản đính chính vào bản tin đi lại tiếp theo. Thông báo cũ sẽ không quyết định thông tin mới.",
-        "Bên ngoài, gió vạch những đường trắng trên mặt hồ. Omi kiểm tra tín hiệu bến và giữ phà neo lại.",
-        "“Nhưng sai lầm của mình vẫn đang lan đi,” Tavi nói. Omi đáp: “Chúng ta sẽ không phạm thêm sai lầm vì đi khi thiếu an toàn.”",
-        "Họ trở lại phòng chờ. Trên đảo vẫn còn ba bản đã biết cần đính chính. Chuyến vượt hồ phải đợi."
+        "Chiều ấy, họ xin được phép tại trạm và thay hai thông báo bằng các bản đính chính.",
+        "Họ đã thu lại bảy bản gốc. Còn ba bản đính chính cho đảo.",
+        "Omi, người lái phà, cho họ xem những lời hủy chuyến gửi đến sau khi khách đọc thông báo của Tavi.",
+        "“Chúng ta có thể cung cấp thông tin đúng,” Omi nói. “Không thể hứa rằng mọi người sẽ đến.”",
+        "Tavi chép bản đính chính lên giấy dự phòng cho bản tin của trạm.",
+        "Ngoài trời, gió mạnh lên. Omi hoãn chuyến sang hồ vì điều kiện chưa phù hợp.",
+        "Tavi ngồi cạnh Ivo bên cửa sổ nhìn ra hồ. Họ phải chờ mới sang đảo được."
       ],
       "introduction": "Tavi hiểu rằng đính chính có thể đến sau khi người khác đã thay đổi kế hoạch.",
       "title": "Phòng chờ"
@@ -378,21 +378,21 @@
     "zh": {
       "altTexts": [
         "塔维和伊沃替换车站里的两份公告。",
-        "奥米在放着退回乘船牌的柜台后说话。",
-        "塔维向奥米询问待发信息托盘。",
-        "奥米把更正副本放进简报托盘。",
-        "奥米守着关闭的入口，旁边是系好的渡船。",
-        "奥米在关闭的乘客入口旁与塔维交谈。",
-        "塔维和伊沃坐着，摊开的文件夹里放着三份更正。"
+        "塔维和伊沃坐着，塔维查看自己打开的文件夹里的三张更正稿。",
+        "奥米在柜台后说话，手里拿着退回的乘船牌。",
+        "奥米在车站柜台与塔维和伊沃说话。",
+        "塔维另抄一份更正说明，供车站简报使用。",
+        "奥米从车站窗户望着波涛起伏的湖面。",
+        "塔维和伊沃坐在车站面湖的窗边。"
       ],
       "captions": [
-        "湖边车站的时刻表旁，还有两份公告。塔维和伊沃用更正替换了它们。",
-        "渡船管理员奥米看着他们忙碌：“有些访客读完那些话，就取消了行程。”",
-        "塔维想保证大家都会回来，最后却问：怎样才能让他们收到更正后的消息？",
-        "奥米把更正加入下一期交通简报。新的消息，不必继续由旧公告决定。",
-        "外面，风把湖面推起一道道白浪。奥米检查港口信号，决定让渡船继续系在码头。",
-        "“可是，我的错误还在传。”塔维说。奥米回答：“我们不能冒险开船，再添一个错误。”",
-        "他们回到候船室。岛上还有三份已知副本需要更正。这趟渡湖，只能先等一等。"
+        "那天下午，他们得到车站允许，把这里的两份告示换成更正声明。",
+        "已经收回七张原来的告示。给岛上的更正声明还剩三份。",
+        "渡船管理员奥米给他们看了一些取消行程的通知，都是访客看过塔维的告示后寄来的。",
+        "“我们可以给人们准确的信息，”奥米说，“但不能保证他们会来。”",
+        "塔维另外拿出一张备用纸，为车站简报抄写了更正声明。",
+        "外面的风越来越大。因为条件不合适，奥米推迟了渡船出发。",
+        "塔维坐在伊沃身旁，望着窗外的湖。他们必须等一等才能去岛上。"
       ],
       "introduction": "塔维发现，更正抵达之前，人们可能已经改变了计划。",
       "title": "候船室"
@@ -405,27 +405,27 @@
       "image": "N03E17P01.png"
     },
     {
-      "altText": "Omi speaks behind a counter holding returned travel tokens.",
+      "altText": "Tavi and Ivo sit while Tavi checks three correction cards in his open folder.",
       "image": "N03E17P02.png"
     },
     {
-      "altText": "Tavi asks Omi about the outgoing information tray.",
+      "altText": "Omi speaks behind a counter holding returned travel tokens.",
       "image": "N03E17P03.png"
     },
     {
-      "altText": "Omi places a correction copy in the bulletin tray.",
+      "altText": "Omi speaks to Tavi and Ivo at the station counter.",
       "image": "N03E17P04.png"
     },
     {
-      "altText": "Omi keeps the gate closed beside the moored ferry.",
+      "altText": "Tavi makes a separate correction copy for the station bulletin.",
       "image": "N03E17P05.png"
     },
     {
-      "altText": "Omi faces Tavi by the closed passenger gate.",
+      "altText": "Omi watches the rough lake from the station window.",
       "image": "N03E17P06.png"
     },
     {
-      "altText": "Tavi and Ivo sit with three corrections in the open folder.",
+      "altText": "Tavi and Ivo sit beside the station’s lake-facing window.",
       "image": "N03E17P07.png"
     }
   ],

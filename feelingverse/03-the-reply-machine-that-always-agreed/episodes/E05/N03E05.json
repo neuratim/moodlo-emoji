@@ -3,396 +3,396 @@
   "localizations": {
     "ar": {
       "altTexts": [
+        "ينتظر إيفو بجوار المنحدر الغربي المغلق، وعلى عربته ثلاثة صناديق.",
         "ينتظر إيفو عند البوابة الشرقية مع ثلاثة صناديق مغلقة.",
         "يرسل إيفو بطاقة بجوار الصناديق الثلاثة المثبتة بالأحزمة.",
-        "يقرأ إيفو الرد بجوار عربة التوصيل المتوقفة.",
-        "ينظر تافي من النافذة الغربية للورشة؛ لا تظهر أي شحنة في الخارج.",
-        "يضيف تافي رسالة بينما تنتظر كبسولة الإرسال.",
+        "يقرأ تافي رد الآلة بجوار ملاحظة إيفو التي لم يقرأها.",
+        "ينظر تافي إلى البوابة الغربية الخالية.",
         "يشد إيفو حزاما حول الصناديق الثلاثة المغلقة.",
         "يقف تافي أمام ثلاثة حوامل زجاج فارغة على طاولة العمل."
       ],
       "captions": [
-        "في الصباح التالي، أحضر إيفو ثلاثة صناديق تحتوي على زجاج الفوانيس إلى البوابة الشرقية. كان المنحدر الغربي مغلقا للفحص.",
-        "أرسل إلى تافي رسالة تشرح تغيير المكان. أجابت الآلة قبل أن يصل تافي إلى مكتبه.",
-        "أعلن الرد: «لقد تجاهلت تعليماتي». حدق إيفو في الكبسولة بجوار صناديقه المعبأة بعناية.",
-        "من الورشة، رأى تافي البوابة الغربية خالية. وقرر أن إيفو يتعمد حجب الزجاج عنه.",
-        "أضاف هذه الشكوى إلى الآلة. واندفع اتهام مصقول آخر عبر الأنبوب.",
-        "عند البوابة الشرقية، توقف إيفو عن التفريغ. سيحفظ الزجاج بأمان حتى يتفقا على مكان وضعه.",
-        "ظل جدول تافي يعد بممشى فوانيس باهر. وعلى طاولة العمل، بقيت ثلاثة حوامل للزجاج فارغة."
+        "في صباح اليوم التالي، ظل منحدر التحميل الغربي مغلقًا في انتظار فحص إصلاح الأمس.",
+        "أحضر إيفو ثلاثة صناديق من ألواح زجاج الفوانيس إلى منطقة الاستلام الشرقية المحمية من المطر.",
+        "أرسل إلى تافي رسالة: «تعال إلى البوابة الشرقية. أحتاج مساعدتك في نقل الصناديق».",
+        "أجابت الآلة: «تغيير اتفاقنا يدل على قلة الاحترام». قرأ تافي هذا الرد، لا رسالة إيفو.",
+        "كان تافي ما يزال يتوقع وصول الشحنة إلى الغرب، فذهب إلى البوابة الخطأ. كانت خالية.",
+        "عاد وأرسل اتهامًا آخر. وعند البوابة الشرقية، ثبت إيفو الصناديق التي لم يأت أحد لاستلامها.",
+        "كان الزجاج قد وصل سليمًا. لكن تافي لم يتحقق من مكانه، فبقي بعيدًا عن الورشة."
       ],
       "introduction": "يؤدي إغفال تعليمات التسليم إلى اتهام جديد وتأخر مواد ضرورية.",
       "title": "البوابة الأخرى"
     },
     "bn": {
       "altTexts": [
+        "পশ্চিমের বন্ধ ঢালু পথের পাশে ইভো অপেক্ষা করছে; তার গাড়িতে তিনটি বাক্স।",
         "ইভো পূর্ব ফটকে তিনটি বন্ধ বাক্স নিয়ে অপেক্ষা করছে।",
         "ইভো বেঁধে রাখা তিনটি বাক্সের পাশে কার্ড পাঠাচ্ছে।",
-        "ইভো থেমে থাকা মালবাহী ঠেলাগাড়ির পাশে উত্তর পড়ছে।",
-        "টাভি কর্মশালার পশ্চিমের জানালা দিয়ে বাইরে তাকাচ্ছে; কোনো সরবরাহের মাল চোখে পড়ছে না।",
-        "টাভি চিরকুট দিচ্ছে, আর একটি ক্যাপসুল পাঠানোর অপেক্ষায় আছে।",
+        "ইভোর না-পড়া চিরকুটের পাশে টাভি যন্ত্রের উত্তরটি পড়ছে।",
+        "টাভি পশ্চিমের ফাঁকা ফটকের দিকে তাকিয়ে আছে।",
         "ইভো তিনটি বন্ধ বাক্সের চারপাশের বাঁধন শক্ত করছে।",
         "টাভি কাজের টেবিলের তিনটি খালি কাচের ধারকের সামনে দাঁড়িয়ে আছে।"
       ],
       "captions": [
-        "পরদিন সকালে ইভো লণ্ঠনের কাচ ভরা তিনটি বাক্স পূর্ব ফটকে আনল। পশ্চিমের ঢালু পথটি পরীক্ষার জন্য বন্ধ ছিল।",
-        "জায়গা বদলের কথা জানিয়ে সে টাভিকে চিরকুট পাঠাল। টাভি টেবিলে পৌঁছানোর আগেই যন্ত্র উত্তর দিল।",
-        "উত্তর বলল, “তুমি আমার নির্দেশ মানোনি।” যত্ন করে গোছানো বাক্সের পাশে ক্যাপসুলটির দিকে তাকিয়ে রইল ইভো।",
-        "কর্মশালা থেকে টাভি দেখল পশ্চিম ফটক ফাঁকা। সে ধরে নিল, ইভো ইচ্ছে করে কাচ দিচ্ছে না।",
-        "সেই অভিযোগও যন্ত্রে দিল। আরেকটি নিখুঁত শোনানো অভিযোগ নল বেয়ে ছুটল।",
-        "পূর্ব ফটকে ইভো মাল নামানো বন্ধ করল। কোথায় রাখা হবে ঠিক না হওয়া পর্যন্ত সে কাচ নিরাপদে রাখবে।",
-        "টাভির সময়সূচি এখনও ঝলমলে লণ্ঠন-পথের প্রতিশ্রুতি দিচ্ছিল। কাজের টেবিলে কাচ বসানোর তিনটি জায়গা খালিই ছিল।"
+        "পরদিন সকালে পশ্চিমের ঢালু পথটা বন্ধই ছিল। আগের দিনের মেরামতের পর পরীক্ষা তখনও বাকি।",
+        "ইভো লণ্ঠনের কাচের পাতভরা তিনটি বাক্স পূর্বের ছাউনিঘেরা মাল গ্রহণের জায়গায় নিয়ে এল।",
+        "সে টাভিকে লিখল, “পূর্বের ফটকে এসো। বাক্সগুলো সরাতে তোমার সাহায্য দরকার।”",
+        "যন্ত্র উত্তর দিল, “আমাদের ঠিক করা ব্যবস্থা বদলানো অসম্মানের পরিচয়।” টাভি ইভোর চিঠির বদলে সেই উত্তরটা পড়ল।",
+        "টাভি তখনও পশ্চিমেই মাল আসবে বলে ভাবছিল। তাই সে ভুল ফটকে গেল। সেখানে কিছুই ছিল না।",
+        "ফিরে এসে সে আরেকটা অভিযোগ পাঠাল। পূর্বের ফটকে ইভো না নেওয়া বাক্সগুলো নিরাপদে বেঁধে রাখল।",
+        "কাচ নিরাপদেই এসে পৌঁছেছিল। টাভি জায়গাটা যাচাই করেনি বলেই তা কর্মশালায় পৌঁছায়নি।"
       ],
       "introduction": "মাল পৌঁছানোর জায়গা বদলের বার্তা উপেক্ষা করায় নতুন অভিযোগ ওঠে, জরুরি জিনিসও আটকে যায়।",
       "title": "অন্য ফটক"
     },
     "cs": {
       "altTexts": [
+        "Ivo čeká u uzavřené západní rampy se třemi bednami na vozíku.",
         "Ivo čeká u východní brány se třemi zavřenými bednami.",
         "Ivo posílá kartičku vedle tří přivázaných beden.",
-        "Ivo čte odpověď vedle čekajícího vozíku.",
-        "Tavi hledí západním oknem dílny; žádná dodávka není v dohledu.",
-        "Tavi přidává vzkaz; kapsle čeká na odeslání.",
+        "Tavi čte odpověď stroje vedle Ivova nepřečteného lístku.",
+        "Tavi se dívá na prázdnou západní bránu.",
         "Ivo utahuje popruh kolem tří zavřených beden.",
         "Tavi stojí před třemi prázdnými držáky skel."
       ],
       "captions": [
-        "Druhý den ráno přivezl Ivo k východní bráně tři bedny skel do luceren. Západní rampa byla kvůli zkoušce uzavřená.",
-        "Poslal Tavimu vzkaz o změně. Stroj odpověděl dřív, než Tavi došel ke stolu.",
-        "„Ignoroval jsi mé pokyny,“ stálo v odpovědi. Ivo hleděl na kapsli vedle pečlivě zabalených beden.",
-        "V dílně Tavi uviděl, že je u západní brány prázdno. Usoudil, že mu Ivo sklo zadržuje.",
-        "Přidal tu stížnost do stroje. Potrubím prolétlo další uhlazené obvinění.",
-        "U východní brány Ivo přestal vykládat. Sklo uchová v bezpečí, dokud se nedohodnou, kam patří.",
-        "Taviho plán stále sliboval zářivou světelnou stezku. Na pracovním stole zůstávala tři místa pro sklo prázdná."
+        "Druhý den ráno zůstávala západní rampa uzavřená. Čekalo se na kontrolu včerejší opravy.",
+        "Ivo dovezl tři bedny skleněných tabulek do luceren do krytého přejímacího prostoru na východě.",
+        "Poslal Tavimu zprávu: „Přijď k východní bráně. Potřebuji pomoct přemístit bedny.“",
+        "Stroj odpověděl: „Změnou naší dohody projevuješ neúctu.“ Tavi četl tuto odpověď, ne Ivovu zprávu.",
+        "Dodávku stále čekal na západě, a tak šel k nesprávné bráně. Nikdo tam nebyl.",
+        "Vrátil se a poslal další obvinění. Ivo zatím zabezpečil nevyzvednuté bedny u východní brány.",
+        "Sklo dorazilo v pořádku. Do dílny se nedostalo, protože Tavi neověřil místo převzetí."
       ],
       "introduction": "Přehlédnutá informace o dodávce vyvolá další obvinění a zdrží potřebné zásoby.",
       "title": "Nesprávná brána"
     },
     "de": {
       "altTexts": [
+        "Ivo wartet mit drei Kisten auf seinem Wagen an der gesperrten Westrampe.",
         "Ivo wartet mit drei geschlossenen Kisten am Osttor.",
         "Ivo verschickt eine Karte neben den drei festgezurrten Kisten.",
-        "Ivo liest eine Antwort neben seinem wartenden Handwagen.",
-        "Tavi schaut durch das Westfenster der Werkstatt; keine Lieferung ist zu sehen.",
-        "Tavi legt eine Nachricht ein; eine Kapsel wartet auf den Versand.",
+        "Tavi liest die Antwort der Maschine neben Ivos ungelesener Notiz.",
+        "Tavi blickt auf das leere Westtor.",
         "Ivo zieht einen Gurt um die drei geschlossenen Kisten fest.",
         "Tavi steht vor drei leeren Glashalterungen auf seiner Werkbank."
       ],
       "captions": [
-        "Am nächsten Morgen brachte Ivo drei Kisten Laternenglas zum Osttor. Die westliche Rampe war für eine Prüfung gesperrt.",
-        "Er schickte Tavi eine Nachricht über die Änderung. Die Maschine antwortete, bevor Tavi seinen Schreibtisch erreichte.",
-        "„Du hast meine Anweisungen missachtet“, erklärte die Antwort. Ivo starrte auf die Kapsel neben seinen sorgfältig gepackten Kisten.",
-        "In der Werkstatt sah Tavi, dass das Westtor leer war. Er beschloss, Ivo halte das Glas zurück.",
-        "Er gab diese Beschwerde in die Maschine. Ein weiterer geschliffener Vorwurf sauste durch das Rohr.",
-        "Am Osttor hörte Ivo auf auszuladen. Er würde das Glas sicher aufbewahren, bis sie den Lieferort geklärt hatten.",
-        "Tavis Zeitplan versprach noch immer einen strahlenden Lichterweg. Auf der Werkbank blieben drei Halterungen für Glas leer."
+        "Am nächsten Morgen blieb die Westrampe geschlossen, bis die Reparatur vom Vortag geprüft war.",
+        "Ivo brachte drei Kisten mit Glasscheiben für die Laternen in den geschützten östlichen Annahmebereich.",
+        "Er schrieb Tavi: „Komm zum Osttor. Ich brauche Hilfe beim Transport der Kisten.“",
+        "Die Maschine antwortete: „Unsere Absprache zu ändern, ist respektlos.“ Tavi las diese Antwort, nicht Ivos Nachricht.",
+        "Er erwartete die Lieferung weiterhin im Westen und ging zum falschen Tor. Dort war nichts.",
+        "Er kehrte zurück und schickte eine weitere Anschuldigung. Am Osttor sicherte Ivo die nicht abgeholten Kisten.",
+        "Das Glas war heil angekommen. Weil Tavi den Ort nicht überprüfte, gelangte es nicht in die Werkstatt."
       ],
       "introduction": "Eine übersehene Lieferinformation führt zu einem weiteren Vorwurf und hält wichtiges Material auf.",
       "title": "Das falsche Tor"
     },
     "en": {
       "altTexts": [
+        "Ivo waits beside the closed west ramp with three crates on his cart.",
         "Ivo waits at the east gate with three closed crates.",
         "Ivo sends a card beside the three strapped crates.",
-        "Ivo reads a reply beside his waiting delivery cart.",
-        "Tavi looks through the workshop’s west window; no delivery is in sight.",
-        "Tavi adds a note while a capsule waits for dispatch.",
+        "Tavi reads the machine’s reply beside Ivo’s unread note.",
+        "Tavi looks at the empty west gate.",
         "Ivo tightens a strap around the three closed crates.",
         "Tavi faces three empty glass holders on his workbench."
       ],
       "captions": [
-        "The next morning, Ivo brought three crates of lantern glass to the east gate. The western ramp was closed for testing.",
-        "He sent Tavi a note explaining the change. The machine answered before Tavi reached his desk.",
-        "“You have ignored my instructions,” the reply declared. Ivo stared at the capsule beside his carefully packed crates.",
-        "At the workshop, Tavi saw that the west gate was empty. He decided Ivo had withheld the glass.",
-        "He added that complaint to the machine. Another polished accusation rushed through the tube.",
-        "At the east gate, Ivo stopped unloading. He would keep the glass safe until they agreed where it belonged.",
-        "Tavi’s timetable still promised a brilliant lantern walk. On the workbench, three spaces for glass stayed empty."
+        "The next morning, the west ramp remained closed pending inspection of yesterday’s repair.",
+        "Ivo brought three crates of glass panes for the lanterns to the sheltered east receiving area.",
+        "He sent Tavi a note: “Come to the east gate. I need help moving the crates.”",
+        "The machine answered, “Changing our arrangement shows disrespect.” Tavi read that reply, not Ivo’s note.",
+        "Still expecting delivery in the west, Tavi went to the wrong gate. It was empty.",
+        "He returned and sent another accusation. At the east gate, Ivo secured the uncollected crates.",
+        "The glass had arrived safely. Tavi’s failure to check the location kept it from the workshop."
       ],
       "introduction": "An overlooked delivery instruction becomes another accusation and blocks essential supplies.",
       "title": "The Wrong Gate"
     },
     "es": {
       "altTexts": [
+        "Ivo espera junto a la rampa oeste cerrada con tres cajas en su carro.",
         "Ivo espera en la puerta este con tres cajas cerradas.",
         "Ivo envía una tarjeta junto a las tres cajas sujetas al carro.",
-        "Ivo lee una respuesta junto a su carro de reparto.",
-        "Tavi mira por la ventana oeste del taller; no hay ninguna entrega a la vista.",
-        "Tavi añade una nota mientras una cápsula espera para salir.",
+        "Tavi lee la respuesta de la máquina junto a la nota de Ivo, todavía sin leer.",
+        "Tavi mira la puerta oeste vacía.",
         "Ivo ajusta una correa alrededor de las tres cajas cerradas.",
         "Tavi contempla tres soportes vacíos para el vidrio sobre su mesa."
       ],
       "captions": [
-        "A la mañana siguiente, Ivo llevó tres cajas de vidrio para faroles a la puerta este. La rampa oeste estaba cerrada por una revisión.",
-        "Envió a Tavi una nota explicando el cambio. La máquina contestó antes de que Tavi llegara a su mesa.",
-        "«Has ignorado mis instrucciones», declaraba la respuesta. Ivo miró la cápsula junto a sus cajas cuidadosamente embaladas.",
-        "En el taller, Tavi vio que no había nada en la puerta oeste. Decidió que Ivo estaba reteniendo el vidrio.",
-        "Introdujo esa queja en la máquina. Otra acusación impecable recorrió el tubo a toda velocidad.",
-        "En la puerta este, Ivo dejó de descargar. Mantendría el vidrio a salvo hasta que acordaran dónde entregarlo.",
-        "El calendario de Tavi seguía prometiendo un sendero espléndido. En la mesa de trabajo, tres soportes para vidrio permanecían vacíos."
+        "A la mañana siguiente, la rampa oeste seguía cerrada a la espera de que inspeccionaran la reparación del día anterior.",
+        "Ivo llevó tres cajas de paneles de vidrio para los faroles a la zona de recepción cubierta del este.",
+        "Envió una nota a Tavi: «Ven a la puerta este. Necesito ayuda para mover las cajas».",
+        "La máquina respondió: «Cambiar nuestro acuerdo es una falta de respeto». Tavi leyó esa respuesta, no la nota de Ivo.",
+        "Como aún esperaba la entrega en el oeste, Tavi fue a la puerta equivocada. No había nada.",
+        "Volvió y envió otra acusación. En la puerta este, Ivo dejó a salvo las cajas sin recoger.",
+        "El vidrio había llegado intacto. No llegó al taller porque Tavi no comprobó dónde debía recogerlo."
       ],
       "introduction": "Una indicación de entrega ignorada se convierte en otra acusación y bloquea materiales necesarios.",
       "title": "La puerta equivocada"
     },
     "fr": {
       "altTexts": [
+        "Ivo attend près de la rampe ouest fermée, avec trois caisses sur son chariot.",
         "Ivo attend à la porte est avec trois caisses fermées.",
         "Ivo envoie une carte près des trois caisses sanglées.",
-        "Ivo lit une réponse près de son chariot de livraison.",
-        "Tavi regarde par la fenêtre ouest de l’atelier ; aucune livraison n’est en vue.",
-        "Tavi ajoute un mot tandis qu’une capsule attend son départ.",
+        "Tavi lit la réponse de la machine à côté de la note d’Ivo encore non lue.",
+        "Tavi regarde la porte ouest déserte.",
         "Ivo serre une sangle autour des trois caisses fermées.",
         "Tavi se tient devant trois supports de verre vides sur l’établi."
       ],
       "captions": [
-        "Le lendemain matin, Ivo apporta trois caisses de verre pour les lanternes à la porte est. La rampe ouest était fermée pour vérification.",
-        "Il envoya à Tavi un mot expliquant le changement. La machine répondit avant que Tavi arrive à son bureau.",
-        "« Tu as ignoré mes instructions », affirmait la réponse. Ivo regarda la capsule près de ses caisses soigneusement emballées.",
-        "À l’atelier, Tavi constata que la porte ouest était vide. Il décida qu’Ivo retenait le verre.",
-        "Il ajouta cette plainte à la machine. Une autre accusation bien tournée fila dans le tube.",
-        "À la porte est, Ivo cessa de décharger. Il garderait le verre en sécurité jusqu’à ce qu’ils conviennent du lieu de livraison.",
-        "Le calendrier de Tavi promettait toujours un parcours éblouissant. Sur l’établi, trois supports pour le verre restaient vides."
+        "Le lendemain matin, la rampe ouest restait fermée, en attendant l’inspection de la réparation de la veille.",
+        "Ivo apporta trois caisses de panneaux de verre pour les lanternes à la zone de réception abritée, à l’est.",
+        "Il écrivit à Tavi : « Viens à la porte est. J’ai besoin d’aide pour déplacer les caisses. »",
+        "La machine répondit : « Modifier notre arrangement est un manque de respect. » Tavi lut cette réponse, pas le message d’Ivo.",
+        "Attendant toujours la livraison à l’ouest, Tavi se rendit à la mauvaise porte. Il n’y avait rien.",
+        "Il revint envoyer une autre accusation. À l’est, Ivo mit les caisses non récupérées en sécurité.",
+        "Le verre était bien arrivé. Il restait loin de l’atelier parce que Tavi n’avait pas vérifié le lieu."
       ],
       "introduction": "Une consigne de livraison négligée devient une nouvelle accusation et retarde du matériel indispensable.",
       "title": "La mauvaise porte"
     },
     "hi": {
       "altTexts": [
+        "ईवो पश्चिम के बंद ढलवाँ रास्ते के पास इंतज़ार कर रहा है; उसकी गाड़ी पर तीन पेटियाँ हैं।",
         "ईवो पूर्वी फाटक पर तीन बंद पेटियों के साथ इंतज़ार कर रहा है।",
         "ईवो पट्टियों से बँधी तीन पेटियों के पास कार्ड भेज रहा है।",
-        "ईवो खड़ी हाथगाड़ी के पास जवाब पढ़ रहा है।",
-        "तावी कार्यशाला की पश्चिमी खिड़की से बाहर देख रहा है; डिलीवरी का कोई सामान नज़र नहीं आ रहा।",
-        "तावी पर्चा डाल रहा है और एक कैप्सूल भेजे जाने की प्रतीक्षा में है।",
+        "तावी ईवो की बिना पढ़ी पर्ची के पास मशीन का जवाब पढ़ रहा है।",
+        "तावी पश्चिम के खाली फाटक को देख रहा है।",
         "ईवो तीन बंद पेटियों के चारों ओर बँधी पट्टी कस रहा है।",
         "तावी काम की मेज़ पर काँच रखने के तीन खाली खाँचों को देख रहा है।"
       ],
       "captions": [
-        "अगली सुबह ईवो लालटेनों के काँच की तीन पेटियाँ पूर्वी फाटक पर लाया। पश्चिमी रैंप जाँच के लिए बंद था।",
-        "उसने जगह बदलने की सूचना तावी को भेजी। तावी के मेज़ तक पहुँचने से पहले मशीन ने जवाब दे दिया।",
-        "जवाब में था, “तुमने मेरे निर्देश अनदेखे कर दिए।” ईवो अपनी सावधानी से बाँधी पेटियों के पास कैप्सूल को देखता रह गया।",
-        "कार्यशाला से तावी को पश्चिमी फाटक खाली दिखाई दिया। उसने मान लिया कि ईवो जानबूझकर काँच रोक रहा है।",
-        "उसने यह शिकायत भी मशीन में डाल दी। एक और सधा हुआ आरोप नली में दौड़ पड़ा।",
-        "पूर्वी फाटक पर ईवो ने सामान उतारना रोक दिया। जब तक जगह तय नहीं होती, वह काँच सुरक्षित रखेगा।",
-        "तावी की समय-सारणी अब भी शानदार लालटेन सैर का वादा कर रही थी। काम की मेज़ पर काँच के तीन खाँचे खाली थे।"
+        "अगली सुबह पश्चिमी रैंप अब भी बंद था। पिछले दिन की मरम्मत के बाद उसकी जाँच बाकी थी।",
+        "ईवो लालटेनों के काँच की पट्टियों वाली तीन पेटियाँ छत से ढकी पूर्वी माल-उतार जगह पर लाया।",
+        "उसने तावी को संदेश भेजा: “पूर्वी फाटक पर आओ। पेटियाँ उठाकर ले जाने में तुम्हारी मदद चाहिए।”",
+        "मशीन ने जवाब दिया, “हमारा तय इंतज़ाम बदलना अनादर है।” तावी ने ईवो के संदेश के बजाय यह जवाब पढ़ा।",
+        "तावी अब भी पश्चिम में सामान आने की उम्मीद कर रहा था। वह गलत फाटक पर गया। वहाँ कोई नहीं था।",
+        "उसने लौटकर एक और आरोप भेजा। पूर्वी फाटक पर ईवो ने उन पेटियों को सुरक्षित किया, जिन्हें लेने कोई नहीं आया था।",
+        "काँच सुरक्षित पहुँच चुका था। तावी ने जगह की जाँच नहीं की, इसलिए वह कार्यशाला तक नहीं पहुँच पाया।"
       ],
       "introduction": "डिलीवरी की अनदेखी सूचना से नया आरोप जन्म लेता है और जरूरी सामान रुक जाता है।",
       "title": "दूसरा फाटक"
     },
     "id": {
       "altTexts": [
+        "Ivo menunggu di samping ramp barat yang ditutup dengan tiga peti di gerobaknya.",
         "Ivo menunggu di gerbang timur bersama tiga peti tertutup.",
         "Ivo mengirim kartu di samping tiga peti yang terikat.",
-        "Ivo membaca balasan di dekat gerobak pengirimannya.",
-        "Tavi memandang keluar melalui jendela barat bengkel; kiriman belum terlihat.",
-        "Tavi menambahkan pesan sementara kapsul menunggu untuk dikirim.",
+        "Tavi membaca balasan mesin di samping catatan Ivo yang belum dibaca.",
+        "Tavi memandang gerbang barat yang kosong.",
         "Ivo mengencangkan tali di sekeliling tiga peti tertutup.",
-        "Tavi berdiri di depan tiga dudukan kosong untuk kaca di meja kerja."
+        "Tavi berdiri di depan tiga dudukan kaca kosong di meja kerja."
       ],
       "captions": [
-        "Keesokan paginya, Ivo membawa tiga peti berisi kaca lentera ke gerbang timur. Jalur landai barat ditutup untuk pengujian.",
-        "Ia mengirim pesan kepada Tavi untuk menjelaskan perubahan itu. Mesin membalas sebelum Tavi sampai di mejanya.",
-        "“Kamu mengabaikan petunjukku,” bunyi balasannya. Ivo menatap kapsul di dekat peti-peti yang dikemasnya dengan hati-hati.",
-        "Di bengkel, Tavi melihat gerbang barat kosong. Ia menyimpulkan bahwa Ivo sengaja menahan kaca.",
-        "Ia memasukkan keluhan itu ke mesin. Tuduhan lain yang tersusun rapi melesat melalui tabung.",
-        "Di gerbang timur, Ivo berhenti membongkar muatan. Ia akan menjaga kaca tetap aman sampai mereka menyepakati tempat pengirimannya.",
-        "Jadwal Tavi masih menjanjikan jalur lentera yang memukau. Di meja kerja, tiga dudukan untuk kaca tetap kosong."
+        "Keesokan paginya, jalur bongkar muat barat masih ditutup sambil menunggu pemeriksaan atas perbaikan kemarin.",
+        "Ivo membawa tiga peti berisi panel kaca untuk lentera ke tempat penerimaan beratap di timur.",
+        "Ia mengirim catatan kepada Tavi: “Datanglah ke gerbang timur. Aku perlu bantuan memindahkan peti-peti ini.”",
+        "Mesin membalas, “Mengubah kesepakatan kita menunjukkan sikap tidak menghargai.” Tavi membaca balasan itu, bukan catatan Ivo.",
+        "Karena masih mengira kiriman datang di barat, Tavi pergi ke gerbang yang salah. Tempat itu kosong.",
+        "Ia kembali dan mengirim tuduhan lain. Di gerbang timur, Ivo mengamankan peti-peti yang belum diambil.",
+        "Kaca sudah tiba dengan selamat. Kaca itu tidak sampai ke bengkel karena Tavi tidak memeriksa tempat pengambilannya."
       ],
       "introduction": "Petunjuk pengiriman yang diabaikan menjadi tuduhan baru dan menghambat bahan yang diperlukan.",
       "title": "Gerbang yang Salah"
     },
     "it": {
       "altTexts": [
+        "Ivo aspetta presso la rampa ovest chiusa, con tre casse sul carretto.",
         "Ivo aspetta alla porta est con tre casse chiuse.",
         "Ivo spedisce una cartolina accanto alle tre casse legate al carretto.",
-        "Ivo legge una risposta accanto al carretto in attesa.",
-        "Tavi guarda dalla finestra ovest del laboratorio; non c’è nessuna consegna in vista.",
-        "Tavi aggiunge un biglietto mentre una capsula aspetta di partire.",
+        "Tavi legge la risposta della macchina accanto al biglietto di Ivo ancora non letto.",
+        "Tavi guarda la porta ovest deserta.",
         "Ivo stringe una cinghia intorno alle tre casse chiuse.",
         "Tavi osserva tre sostegni per vetri vuoti sul banco."
       ],
       "captions": [
-        "La mattina seguente, Ivo portò tre casse di vetri per lanterne alla porta est. La rampa ovest era chiusa per un controllo.",
-        "Mandò a Tavi un biglietto per spiegare il cambiamento. La macchina rispose prima che Tavi raggiungesse la scrivania.",
-        "«Hai ignorato le mie istruzioni», dichiarava la risposta. Ivo fissò la capsula accanto alle casse imballate con cura.",
-        "Dal laboratorio, Tavi vide che la porta ovest era vuota. Decise che Ivo stava trattenendo i vetri.",
-        "Inserì quella lamentela nella macchina. Un’altra accusa impeccabile corse attraverso il tubo.",
-        "Alla porta est, Ivo smise di scaricare. Avrebbe tenuto i vetri al sicuro finché non avessero concordato dove consegnarli.",
-        "Il programma di Tavi prometteva ancora uno splendido percorso di lanterne. Sul banco, tre sostegni per i vetri rimasero vuoti."
+        "La mattina seguente, la rampa ovest rimase chiusa in attesa del controllo della riparazione del giorno prima.",
+        "Ivo portò tre casse di pannelli di vetro per le lanterne nell’area di ricevimento coperta a est.",
+        "Scrisse a Tavi: «Vieni al cancello est. Mi serve aiuto per spostare le casse».",
+        "La macchina rispose: «Cambiare il nostro accordo è una mancanza di rispetto». Tavi lesse questa risposta, non il biglietto di Ivo.",
+        "Aspettandosi ancora la consegna a ovest, Tavi andò al cancello sbagliato. Non c’era nulla.",
+        "Tornò e spedì un’altra accusa. Al cancello est, Ivo mise al sicuro le casse non ritirate.",
+        "Il vetro era arrivato intatto. Non raggiunse il laboratorio perché Tavi non controllò il luogo di ritiro."
       ],
       "introduction": "Un’indicazione di consegna ignorata genera un’altra accusa e blocca materiali necessari.",
       "title": "La porta sbagliata"
     },
     "ja": {
       "altTexts": [
+        "イヴォが三つの木箱を載せた荷車と一緒に、閉鎖中の西のスロープで待っています。",
         "イヴォが東門で、閉じた三つの箱と待っています。",
         "イヴォが、ベルトで留めた三箱のそばでカードを送っています。",
-        "イヴォが止めた配達車のそばで返信を読んでいます。",
-        "タヴィが作業場の西の窓から外を見ています。配達の荷物は見当たりません。",
-        "タヴィがメモを入れ、カプセルが発送を待っています。",
+        "タヴィが、まだ読んでいないイヴォのメモのそばで機械の返信を読んでいます。",
+        "タヴィが何も届いていない西門を見ています。",
         "イヴォが閉じた三箱を留めるベルトを締めています。",
         "タヴィが作業台に並ぶ三つの空のガラス受けを見ています。"
       ],
       "captions": [
-        "翌朝、イヴォはランタン用のガラス三箱を東門へ運びました。西のスロープは検査のため閉まっていました。",
-        "場所の変更をメモで知らせると、タヴィが机に着くより先に機械が返事を送りました。",
-        "「ぼくの指示を無視したね」。そう書かれた返信を見て、イヴォは丁寧に包んだ荷物のそばで立ち尽くしました。",
-        "作業場のタヴィには、西門が空っぽに見えました。イヴォがわざとガラスを渡さないのだ、と決めつけました。",
-        "タヴィはその不満も機械へ入れました。もう一通、立派な文章の非難が管を走りました。",
-        "東門でイヴォは荷下ろしをやめました。置き場所の合意ができるまで、ガラスを安全に保管するつもりです。",
-        "タヴィの予定表には、まだ華やかな灯りの散歩道が約束されていました。作業台のガラス受けは、三つとも空です。"
+        "翌朝、西のスロープはまだ閉鎖されていた。前日の修理の点検を待っていたのだ。",
+        "イヴォはランタン用のガラス板が入った三箱を、東の屋根付き荷受け場へ運んだ。",
+        "タヴィにメモを送った。「東の門へ来てほしい。箱を移すのを手伝ってほしいんだ」",
+        "機械は「約束を変えるのは、相手を軽く見る行為です」と返信した。タヴィはイヴォのメモではなく、その返事を読んだ。",
+        "まだ西に荷物が来ると思っていたタヴィは、違う門へ向かった。そこには何もなかった。",
+        "工房に戻り、また非難を送った。東の門では、イヴォが引き取られていない箱を安全に保管した。",
+        "ガラスは無事に届いていた。タヴィが受け取り場所を確かめなかったため、工房へ運べずにいた。"
       ],
       "introduction": "配達先の変更を見落としたことで非難が重なり、大切な材料が受け取れなくなります。",
       "title": "違う門"
     },
     "ko": {
       "altTexts": [
+        "이보가 상자 세 개를 실은 수레와 함께 닫힌 서쪽 경사로 옆에서 기다려요.",
         "이보가 닫힌 상자 세 개와 함께 동문에서 기다려요.",
         "이보가 끈으로 고정한 세 상자 옆에서 카드를 보내요.",
-        "이보가 멈춰 있는 배달 손수레 옆에서 답장을 읽어요.",
-        "타비가 작업실 서쪽 창문으로 밖을 바라봐요. 배달 물건은 보이지 않아요.",
-        "타비가 쪽지를 넣고, 캡슐 하나가 발송을 기다려요.",
+        "타비가 아직 읽지 않은 이보의 쪽지 옆에서 기계의 답장을 읽고 있어요.",
+        "타비가 텅 빈 서문을 바라보고 있어요.",
         "이보가 닫힌 세 상자를 둘러싼 끈을 조여요.",
         "타비가 작업대 위의 빈 유리 받침 세 개를 마주 보고 있어요."
       ],
       "captions": [
-        "다음 날 아침 이보는 등불 유리 세 상자를 동문으로 가져왔어요. 서쪽 경사로는 점검 때문에 닫혀 있었어요.",
-        "이보가 장소 변경을 알리는 쪽지를 보냈어요. 타비가 책상에 닿기도 전에 기계가 답했어요.",
-        "“내 지시를 무시했구나.” 답장에 그렇게 적혀 있었어요. 이보는 정성껏 포장한 상자 옆의 캡슐을 바라봤어요.",
-        "작업실에서 타비는 서문이 비어 있는 걸 봤어요. 이보가 일부러 유리를 주지 않는다고 단정했어요.",
-        "타비는 그 불만도 기계에 넣었어요. 또 하나의 그럴듯한 비난이 관을 타고 달려갔어요.",
-        "동문에서 이보는 짐 내리기를 멈췄어요. 어디에 둘지 합의할 때까지 유리를 안전하게 보관하기로 했어요.",
-        "타비의 일정표는 여전히 눈부신 등불 산책길을 약속했어요. 작업대의 유리 받침 세 자리는 텅 비어 있었어요."
+        "다음 날 아침, 서쪽 경사로는 전날 수리한 부분의 점검을 기다리느라 여전히 닫혀 있었다.",
+        "이보는 등불에 쓸 유리판 세 상자를 비를 피할 수 있는 동쪽 하역장으로 가져왔다.",
+        "이보는 타비에게 쪽지를 보냈다. “동쪽 입구로 와 줘. 상자 옮기는 걸 도와줘야 해.”",
+        "기계는 “약속을 바꾸는 건 무례한 행동입니다”라고 답했다. 타비는 이보의 쪽지 대신 그 답장을 읽었다.",
+        "여전히 서쪽으로 배달될 거라 생각한 타비는 엉뚱한 입구로 갔다. 그곳은 비어 있었다.",
+        "타비는 돌아와서 또 비난을 보냈다. 동쪽 입구에서는 이보가 아무도 받아 가지 않은 상자들을 안전하게 고정했다.",
+        "유리는 무사히 도착해 있었다. 타비가 위치를 확인하지 않아서 작업실로 옮기지 못한 것이었다."
       ],
       "introduction": "배달 장소가 바뀌었다는 안내를 놓치자 또 다른 비난이 생기고 필요한 물건도 받지 못합니다.",
       "title": "다른 쪽 문"
     },
     "pl": {
       "altTexts": [
+        "Ivo czeka przy zamkniętej zachodniej rampie z trzema skrzyniami na wózku.",
         "Ivo czeka przy wschodniej bramie z trzema zamkniętymi skrzyniami.",
         "Ivo wysyła kartkę obok trzech przypiętych skrzyń.",
-        "Ivo czyta odpowiedź obok wózka z dostawą.",
-        "Tavi wygląda przez zachodnie okno warsztatu; nie widać żadnej dostawy.",
-        "Tavi dodaje wiadomość, a kapsuła czeka na wysłanie.",
+        "Tavi czyta odpowiedź maszyny obok nieprzeczytanej notatki Iva.",
+        "Tavi patrzy na pustą zachodnią bramę.",
         "Ivo dociąga pas wokół trzech zamkniętych skrzyń.",
         "Tavi stoi przed trzema pustymi uchwytami na szkło."
       ],
       "captions": [
-        "Następnego ranka Ivo przywiózł trzy skrzynie szkła do wschodniej bramy. Zachodnia rampa była zamknięta na czas prób.",
-        "Wysłał Taviemu wiadomość o zmianie. Maszyna odpowiedziała, zanim Tavi dotarł do biurka.",
-        "„Zignorowałeś moje wskazówki”, oznajmiała odpowiedź. Ivo spojrzał na kapsułę przy starannie zapakowanych skrzyniach.",
-        "W warsztacie Tavi zobaczył, że zachodnia brama jest pusta. Uznał, że Ivo zatrzymał szkło.",
-        "Włożył tę skargę do maszyny. Rurą pomknęło kolejne gładko napisane oskarżenie.",
-        "Przy wschodniej bramie Ivo przerwał rozładunek. Przechowa szkło bezpiecznie, dopóki nie uzgodnią miejsca dostawy.",
-        "Harmonogram Taviego nadal obiecywał wspaniałą ścieżkę lampionów. Na stole trzy uchwyty na szkło pozostały puste."
+        "Następnego ranka zachodnia rampa pozostawała zamknięta. Czekała na kontrolę wczorajszej naprawy.",
+        "Ivo przywiózł trzy skrzynie szklanych szybek do lampionów do zadaszonego punktu odbioru na wschodzie.",
+        "Wysłał Taviemu wiadomość: „Przyjdź do wschodniej bramy. Potrzebuję pomocy przy przewiezieniu skrzyń”.",
+        "Maszyna odpowiedziała: „Zmiana naszych ustaleń świadczy o braku szacunku”. Tavi przeczytał tę odpowiedź, a nie wiadomość Iva.",
+        "Nadal oczekiwał dostawy na zachodzie, więc poszedł do niewłaściwej bramy. Niczego tam nie było.",
+        "Wrócił i wysłał kolejne oskarżenie. Przy wschodniej bramie Ivo zabezpieczył nieodebrane skrzynie.",
+        "Szkło dotarło całe. Nie trafiło do warsztatu, ponieważ Tavi nie sprawdził miejsca odbioru."
       ],
       "introduction": "Pominięta informacja o dostawie wywołuje kolejne oskarżenie i zatrzymuje potrzebne materiały.",
       "title": "Niewłaściwa brama"
     },
     "pt": {
       "altTexts": [
+        "Ivo espera junto à rampa oeste fechada com três caixas no carrinho.",
         "Ivo espera no portão leste com três caixotes fechados.",
         "Ivo envia um cartão perto dos três caixotes amarrados.",
-        "Ivo lê uma resposta perto de seu carrinho de entregas.",
-        "Tavi olha pela janela oeste da oficina; não há nenhuma entrega à vista.",
-        "Tavi acrescenta um bilhete enquanto uma cápsula aguarda o envio.",
+        "Tavi lê a resposta da máquina ao lado do bilhete de Ivo, ainda não lido.",
+        "Tavi olha para o portão oeste vazio.",
         "Ivo aperta uma cinta em volta dos três caixotes fechados.",
-        "Tavi está diante de três suportes vazios para os vidros."
+        "Tavi observa três suportes vazios para o vidro na bancada."
       ],
       "captions": [
-        "Na manhã seguinte, Ivo levou três caixotes com vidros para lanternas até o portão leste. A rampa oeste estava fechada para testes.",
-        "Ele enviou a Tavi um bilhete explicando a mudança. A máquina respondeu antes de Tavi chegar à mesa.",
-        "“Você ignorou minhas instruções”, afirmava a resposta. Ivo encarou a cápsula ao lado dos caixotes cuidadosamente embalados.",
-        "Na oficina, Tavi viu que o portão oeste estava vazio. Concluiu que Ivo estava retendo os vidros.",
-        "Acrescentou essa reclamação à máquina. Outra acusação bem escrita disparou pelo tubo.",
-        "No portão leste, Ivo parou de descarregar. Manteria os vidros seguros até combinarem onde deveriam ficar.",
-        "O cronograma de Tavi ainda prometia uma trilha brilhante. Na bancada, três suportes para vidro continuaram vazios."
+        "Na manhã seguinte, a rampa oeste continuava fechada, aguardando a inspeção do conserto do dia anterior.",
+        "Ivo levou três caixotes de placas de vidro para as lanternas até a área coberta de recebimento, no leste.",
+        "Mandou um bilhete a Tavi: “Venha ao portão leste. Preciso de ajuda para mover os caixotes.”",
+        "A máquina respondeu: “Mudar nosso combinado demonstra desrespeito.” Tavi leu essa resposta, não o bilhete de Ivo.",
+        "Ainda esperando a entrega no oeste, Tavi foi ao portão errado. Não havia nada lá.",
+        "Voltou e enviou outra acusação. No portão leste, Ivo deixou os caixotes não retirados em segurança.",
+        "O vidro tinha chegado intacto. Não chegou à oficina porque Tavi não conferiu o local de retirada."
       ],
       "introduction": "Uma informação de entrega ignorada provoca outra acusação e atrasa materiais necessários.",
       "title": "O portão errado"
     },
     "ru": {
       "altTexts": [
+        "Иво ждёт у закрытого западного пандуса с тремя ящиками на тележке.",
         "Иво ждёт у восточных ворот с тремя закрытыми ящиками.",
         "Иво отправляет карточку возле трёх закреплённых ящиков.",
-        "Иво читает ответ рядом со своей тележкой.",
-        "Тави смотрит из западного окна мастерской; доставленного груза не видно.",
-        "Тави добавляет записку; капсула ожидает отправки.",
+        "Тави читает ответ машины рядом с непрочитанной запиской Иво.",
+        "Тави смотрит на пустые западные ворота.",
         "Иво затягивает ремень вокруг трёх закрытых ящиков.",
         "Тави стоит перед тремя пустыми держателями на верстаке."
       ],
       "captions": [
-        "На следующее утро Иво привёз три ящика стекла к восточным воротам. Западный пандус закрыли для проверки.",
-        "Он отправил Тави записку о смене места. Машина ответила ещё до того, как Тави подошёл к столу.",
-        "«Ты проигнорировал мои указания», — объявил ответ. Иво смотрел на капсулу возле аккуратно упакованного груза.",
-        "В мастерской Тави увидел, что у западных ворот пусто. Он решил, что Иво намеренно не отдаёт стекло.",
-        "Он передал машине и эту жалобу. По трубе помчалось ещё одно гладко составленное обвинение.",
-        "У восточных ворот Иво прекратил разгрузку. Он сохранит стекло, пока они не договорятся, куда его поставить.",
-        "Расписание Тави всё ещё обещало великолепную прогулку с фонарями. На верстаке пустовали три держателя для стекла."
+        "На следующее утро западная рампа оставалась закрытой: вчерашний ремонт ещё предстояло проверить.",
+        "Иво привёз три ящика стеклянных панелей для фонарей в крытую зону приёмки на востоке.",
+        "Он написал Тави: «Приходи к восточным воротам. Нужна помощь, чтобы перевезти ящики».",
+        "Машина ответила: «Менять нашу договорённость — значит проявлять неуважение». Тави прочёл этот ответ, а не записку Иво.",
+        "По-прежнему ожидая доставку на западе, Тави пошёл не к тем воротам. Там ничего не было.",
+        "Он вернулся и отправил ещё одно обвинение. У восточных ворот Иво надёжно закрепил не забранные ящики.",
+        "Стекло прибыло целым. Оно не попало в мастерскую, потому что Тави не проверил место получения."
       ],
       "introduction": "Пропущенное указание о доставке вызывает новое обвинение и задерживает нужные материалы.",
       "title": "Не те ворота"
     },
     "tr": {
       "altTexts": [
+        "Ivo, arabasındaki üç sandıkla kapalı batı rampasının yanında bekliyor.",
         "Ivo, doğu kapısında üç kapalı sandıkla bekliyor.",
         "Ivo, bağlı üç sandığın yanında bir kart gönderiyor.",
-        "Ivo, bekleyen teslimat arabasının yanında bir yanıt okuyor.",
-        "Tavi, atölyenin batı penceresinden dışarı bakıyor; görünürde teslimat yok.",
-        "Tavi not eklerken bir kapsül gönderilmeyi bekliyor.",
+        "Tavi, Ivo’nun okunmamış notunun yanında makinenin yanıtını okuyor.",
+        "Tavi, boş batı kapısına bakıyor.",
         "Ivo, üç kapalı sandığın çevresindeki kayışı sıkıyor.",
         "Tavi, tezgâhtaki üç boş cam yuvasının önünde duruyor."
       ],
       "captions": [
-        "Ertesi sabah Ivo, üç sandık fener camını doğu kapısına getirdi. Batı rampası deneme için kapatılmıştı.",
-        "Değişikliği açıklayan bir not gönderdi. Tavi masasına ulaşmadan makine yanıtladı.",
-        "“Talimatlarımı görmezden geldin,” diyordu yanıt. Ivo, özenle paketlediği sandıkların yanındaki kapsüle baktı.",
-        "Atölyeden batı kapısının boş olduğunu gören Tavi, Ivo’nun camları vermediğine karar verdi.",
-        "Bu şikâyeti makineye ekledi. Özenle yazılmış bir suçlama daha borudan hızla geçti.",
-        "Doğu kapısında Ivo boşaltmayı bıraktı. Nereye teslim edeceğini kararlaştırana kadar camları güvende tutacaktı.",
-        "Tavi’nin takvimi hâlâ göz kamaştırıcı bir fener yolu vaat ediyordu. Tezgâhtaki üç cam yuvası ise boştu."
+        "Ertesi sabah batı rampası, önceki günün onarımı kontrol edilene kadar kapalı kalmıştı.",
+        "Ivo, fenerlerde kullanılacak cam levhalarla dolu üç sandığı doğudaki üstü kapalı teslim alanına getirdi.",
+        "Tavi’ye bir not yolladı: “Doğu kapısına gel. Sandıkları taşımak için yardımına ihtiyacım var.”",
+        "Makine, “Anlaşmamızı değiştirmek saygısızlık,” diye yanıtladı. Tavi, Ivo’nun notunu değil bu yanıtı okudu.",
+        "Teslimatı hâlâ batıda beklediği için yanlış kapıya gitti. Orada hiçbir şey yoktu.",
+        "Geri dönüp başka bir suçlama gönderdi. Doğu kapısında Ivo, alınmayan sandıkları güvenli biçimde bıraktı.",
+        "Camlar sağlam ulaşmıştı. Tavi teslim yerini kontrol etmediği için atölyeye götürülememişti."
       ],
       "introduction": "Gözden kaçan teslimat bilgisi başka bir suçlamaya dönüşür ve gerekli malzemeler bekler.",
       "title": "Yanlış Kapı"
     },
     "vi": {
       "altTexts": [
+        "Ivo đợi cạnh đoạn dốc phía tây đang đóng, với ba thùng trên xe đẩy.",
         "Ivo chờ ở cổng đông với ba thùng đóng kín.",
         "Ivo gửi một tấm thẻ cạnh ba thùng đã buộc chặt.",
-        "Ivo đọc lời đáp cạnh xe đẩy giao hàng.",
-        "Tavi nhìn ra ngoài qua cửa sổ phía tây của xưởng; không thấy hàng giao đến.",
-        "Tavi thêm một lời nhắn, còn ống thư chờ được gửi đi.",
+        "Tavi đọc câu trả lời của máy cạnh lời nhắn chưa đọc của Ivo.",
+        "Tavi nhìn cổng phía tây vắng trống.",
         "Ivo siết dây quanh ba thùng đóng kín.",
         "Tavi đứng trước ba giá đỡ kính trống trên bàn."
       ],
       "captions": [
-        "Sáng hôm sau, Ivo mang ba thùng kính đèn lồng đến cổng đông. Đường dốc phía tây đang đóng để kiểm tra.",
-        "Ivo gửi thư giải thích thay đổi cho Tavi. Máy đã trả lời trước khi Tavi đến bàn.",
-        "“Cậu đã phớt lờ hướng dẫn của mình,” câu trả lời khẳng định. Ivo nhìn ống thư cạnh những thùng được đóng gói cẩn thận.",
-        "Trong xưởng, Tavi thấy cổng tây trống không. Cậu kết luận rằng Ivo đang giữ lại kính.",
-        "Cậu đưa lời phàn nàn ấy vào máy. Thêm một lời buộc tội trau chuốt lao qua đường ống.",
-        "Ở cổng đông, Ivo ngừng dỡ hàng. Cậu sẽ giữ kính an toàn cho đến khi họ thống nhất nơi giao.",
-        "Lịch của Tavi vẫn hứa hẹn một con đường đèn lồng rực rỡ. Trên bàn làm việc, ba giá đỡ kính vẫn trống."
+        "Sáng hôm sau, dốc phía tây vẫn đóng để chờ kiểm tra phần sửa chữa hôm trước.",
+        "Ivo đưa ba thùng đựng các tấm kính làm đèn lồng đến khu nhận hàng có mái che phía đông.",
+        "Anh gửi Tavi một tờ nhắn: “Hãy đến cổng đông. Tôi cần bạn giúp chuyển các thùng.”",
+        "Máy đáp: “Thay đổi thỏa thuận là thiếu tôn trọng.” Tavi đọc lời đáp ấy, không đọc tờ nhắn của Ivo.",
+        "Vẫn chờ hàng ở phía tây, Tavi đi nhầm cổng. Ở đó không có gì.",
+        "Anh quay về gửi thêm lời buộc tội. Tại cổng đông, Ivo cất giữ an toàn những thùng chưa được nhận.",
+        "Kính đã đến nơi nguyên vẹn. Chúng chưa về xưởng vì Tavi không kiểm tra địa điểm nhận hàng."
       ],
       "introduction": "Thông tin giao hàng bị bỏ qua trở thành lời buộc tội mới và làm chậm vật liệu cần thiết.",
       "title": "Nhầm cổng"
     },
     "zh": {
       "altTexts": [
+        "伊沃在关闭的西侧坡道旁等待，推车上有三个箱子。",
         "伊沃带着三个封好的箱子在东门等候。",
         "伊沃在三个捆好的箱子旁寄出卡片。",
-        "伊沃在停着的送货车旁读回复。",
-        "塔维透过工作室的西窗望向外面，没有看见送来的货物。",
-        "塔维放入纸条，一个胶囊等着发出。",
+        "塔维读着机器的回复，旁边是尚未读过的伊沃的纸条。",
+        "塔维望着空荡荡的西门。",
         "伊沃拉紧三个封好箱子外面的捆带。",
-        "塔维面对工作台上三个尚未装上玻璃的支架。"
+        "塔维面对工作台上的三个空玻璃支架。"
       ],
       "captions": [
-        "第二天早上，伊沃把三箱灯笼玻璃送到东门。西边的坡道因检测暂时关闭了。",
-        "他发了纸条说明地点变更。塔维还没走到桌边，机器就已经回信了。",
-        "“你无视了我的要求。”回复这样写道。伊沃望着胶囊，身边的货物明明都仔细装好了。",
-        "塔维从工作室看见西门空空的，便认定伊沃故意扣下了玻璃。",
-        "他把这个抱怨也交给机器。又一封措辞漂亮的指责沿着管道飞了出去。",
-        "在东门，伊沃停止卸货。在双方说清楚该把玻璃放在哪里之前，他会先保管好它们。",
-        "塔维的日程表仍许诺一条璀璨的灯笼步道。工作台上，三个用来固定玻璃的支架却一直空着。"
+        "第二天早上，西侧坡道仍然关闭，等待对前一天的维修进行检查。",
+        "伊沃把三箱制作灯笼用的玻璃片运到了东侧有顶棚的收货区。",
+        "他给塔维发了便条：“请来东门。我需要你帮忙搬这些箱子。”",
+        "机器回复：“改变我们的约定，是不尊重人的表现。”塔维读的是这封回复，而不是伊沃的便条。",
+        "他仍以为货会送到西边，于是走错了门。那里空空的。",
+        "他回去，又寄出一段指责。东门那边，伊沃把无人来取的箱子妥善放好。",
+        "玻璃已经安全送到。它们没能进入工坊，是因为塔维没有核对收货地点。"
       ],
       "introduction": "一条被忽略的送货说明引来了新的指责，也耽误了材料交接。",
       "title": "送错的门，还是看错的信"
@@ -401,23 +401,23 @@
   "number": 5,
   "panels": [
     {
-      "altText": "Ivo waits at the east gate with three closed crates.",
+      "altText": "Ivo waits beside the closed west ramp with three crates on his cart.",
       "image": "N03E05P01.png"
     },
     {
-      "altText": "Ivo sends a card beside the three strapped crates.",
+      "altText": "Ivo waits at the east gate with three closed crates.",
       "image": "N03E05P02.png"
     },
     {
-      "altText": "Ivo reads a reply beside his waiting delivery cart.",
+      "altText": "Ivo sends a card beside the three strapped crates.",
       "image": "N03E05P03.png"
     },
     {
-      "altText": "Tavi looks through the workshop’s west window; no delivery is in sight.",
+      "altText": "Tavi reads the machine’s reply beside Ivo’s unread note.",
       "image": "N03E05P04.png"
     },
     {
-      "altText": "Tavi adds a note while a capsule waits for dispatch.",
+      "altText": "Tavi looks at the empty west gate.",
       "image": "N03E05P05.png"
     },
     {

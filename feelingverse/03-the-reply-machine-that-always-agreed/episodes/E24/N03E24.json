@@ -3,396 +3,396 @@
   "localizations": {
     "ar": {
       "altTexts": [
-        "يجتمع ستة رفاق على مسار الفناء المضيء.",
-        "يسلم أومي نشرة جزيرة مطوية إلى تافي.",
-        "يضع تافي النشرة في جرابه بجوار أومي.",
-        "يستوضح تافي من إيفو مكان وضع العربة.",
+        "تفتح سيلي بوابة الفناء بعد الفحوص الأخيرة.",
+        "يُري أومي سيلي نشرة الجزيرة المصححة.",
+        "يضع تافي وإيفو الأدوات المتبقية في أماكنها.",
         "تشير لوما لتافي إلى النصف الفارغ من مقعد حجري.",
+        "يجلس تافي ولوما متباعدين قليلا بجوار انعكاس نجمي.",
         "يجلس تافي ولوما متباعدين قليلا بجوار انعكاس نجمي.",
         "يشاهد تافي ولوما ممشى الفوانيس المتواضع من المقعد."
       ],
       "captions": [
-        "في المساء، افتتح ممشى الفوانيس على المسار السفلي. ارتجفت انعكاساته الدافئة في النهر وراء جدار الفناء.",
-        "وصل أومي بعبارة المساء. أحضر نشرة الجزيرة المصححة، لا وعدا بأن كل زائر سيعود.",
-        "شكره تافي وحفظ النشرة في جرابه. لم يحتج زوار الليلة إلى خطبة أخرى عن تافي.",
-        "عند المدخل، طلب إيفو مساعدة في نقل العربة الفارغة. سأل تافي عن وجهتها قبل لمس المقبض.",
-        "بعد إخلاء الممر، جلست لوما قرب جدار النهر. قالت لتافي: «يمكنك الجلوس هنا قليلا».",
-        "جلس وترك مسافة بينهما. شاهدا الانعكاس المعوج يصير نجمة كلما هدأ الماء.",
-        "كان الممشى أصغر مما تخيل تافي. ولأول مرة ذلك الأسبوع، لم يحتج إليه ليثبت أنه على حق."
+        "في ذلك المساء، فتحت سيلي المسار السفلي بعد فحصه. وظل القسم العلوي مغلقًا.",
+        "بعد أن ربط أومي عبارته بإحكام، مشى إلى محطة البستان وركب الترام إلى البلدة. وأحضر معه نشرة الجزيرة المصححة.",
+        "طلب إيفو من تافي مساعدته في جمع الأدوات المتبقية ووضعها في مكانها. فأكملا المهمة معًا.",
+        "عند الجدار المحاذي للنهر، أفسحت لوما مكانًا على المقعد. وقالت: «يمكنك الجلوس هنا قليلًا».",
+        "جلس تافي بجوارها من دون أن يسأل إن كانت قد سامحته على كل شيء.",
+        "انعكست مصابيح الإطار الخمسة على النهر في الأسفل، فرسمت شكل نجمة.",
+        "افتُتحت الجولة الأصغر. وفي ذلك المساء، كان الجلوس معًا على المقعد كافيًا."
       ],
       "introduction": "يفتح ممشى الفوانيس، وتبدأ لفتات صغيرة مختارة في بناء صلة مختلفة.",
       "title": "الضوء بيننا"
     },
     "bn": {
       "altTexts": [
-        "ছয় সঙ্গী আলোকিত উঠোনের পথে জড়ো হয়েছে।",
-        "ওমি টাভিকে দ্বীপের ভাঁজ করা সংবাদপত্র দিচ্ছে।",
-        "টাভি ওমির পাশে সংবাদটি ছোট থলিতে রাখছে।",
-        "টাভি ইভোর কাছে ঠেলাগাড়ির গন্তব্য নিশ্চিত করছে।",
+        "শেষ পরীক্ষার পর সেলি উঠোনের ফটক খুলছে।",
+        "ওমি সেলিকে দ্বীপের সংশোধিত বুলেটিন দেখাচ্ছে।",
+        "টাভি আর ইভো বাকি যন্ত্রপাতি গুছিয়ে রাখছে।",
         "লুমা টাভিকে পাথরের বেঞ্চের খালি অর্ধেক দেখাচ্ছে।",
+        "টাভি ও লুমা একটু ফাঁক রেখে বসে আছে, পাশে তারার প্রতিবিম্ব।",
         "টাভি ও লুমা একটু ফাঁক রেখে বসে আছে, পাশে তারার প্রতিবিম্ব।",
         "টাভি ও লুমা বেঞ্চ থেকে ছোট লণ্ঠন-পথ দেখছে।"
       ],
       "captions": [
-        "সেই সন্ধ্যায় নিচের পথে লণ্ঠনের আলোয় হাঁটা শুরু হলো। উঠোনের দেয়ালের ওপারে নদীতে উষ্ণ আলোর প্রতিবিম্ব কাঁপছিল।",
-        "ওমি সন্ধ্যার ফেরিতে এল। সঙ্গে দ্বীপের সংশোধিত সংবাদ, প্রত্যেক দর্শনার্থী ফিরবে এমন প্রতিশ্রুতি নয়।",
-        "টাভি ধন্যবাদ দিয়ে সংবাদটি রেখে দিল। আজকের আগন্তুকদের টাভি নিয়ে আরেকটি বক্তৃতা শোনার দরকার ছিল না।",
-        "প্রবেশপথের কাছে ইভো খালি গাড়ি সরাতে সাহায্য চাইল। হাতল ছোঁয়ার আগে টাভি জেনে নিল কোথায় রাখতে হবে।",
-        "পথ খালি হলে লুমা নদীর দেয়ালের পাশে বসল। টাভিকে বলল, “কিছুক্ষণ এখানে বসতে পারো।”",
-        "টাভি মাঝখানে জায়গা রেখে বসল। জল শান্ত হলেই বাঁকা প্রতিবিম্বটি তারায় বদলে যায়, তারা দেখল।",
-        "পথটি টাভির কল্পনার চেয়ে ছোট। কিন্তু সারা সপ্তাহে প্রথমবার, নিজের সঠিক হওয়া প্রমাণ করার জন্য তার এটা দরকার হলো না।"
+        "সেদিন সন্ধ্যায় সেলি পরীক্ষা করা নিচের পথ খুলে দিল। ওপরের অংশ বন্ধ রইল।",
+        "ফেরি ভালো করে বেঁধে ওমি ফলবাগানের স্টপে হেঁটে গেল, তারপর ট্রামে শহরে এল। সঙ্গে আনল দ্বীপের সংশোধিত বুলেটিন।",
+        "ইভো বাকি সরঞ্জাম গুছিয়ে রাখতে টাভির সাহায্য চাইল। দুজনে মিলে কাজ শেষ করল।",
+        "নদীর ধার বরাবর দেয়ালের কাছে বেঞ্চে লুমা একটু সরে বসল। “তুমি এখানে কিছুক্ষণ বসতে পারো।”",
+        "টাভি তার পাশে বসল। সবকিছুর জন্য ক্ষমা পেয়েছে কি না, সে জিজ্ঞেস করল না।",
+        "কাঠামোর পাঁচটি আলোর প্রতিফলন নিচের নদীতে তারার আকার তৈরি করল।",
+        "ছোট হাঁটার পথটা খুলে গেছে। সেই সন্ধ্যায় একই বেঞ্চে বসাটুকুই যথেষ্ট ছিল।"
       ],
       "introduction": "লণ্ঠন-পথ খুলে যায়, আর ছোট স্বেচ্ছায় করা কাজ নতুন সম্পর্কের শুরু আনে।",
       "title": "আমাদের মাঝের আলো"
     },
     "cs": {
       "altTexts": [
-        "Šest společníků se schází podél svítící stezky na nádvoří.",
-        "Omi podává Tavimu přeložený ostrovní zpravodaj.",
-        "Tavi ukládá zpravodaj do brašničky vedle Omiho.",
-        "Tavi si s Ivem ověřuje, kam patří vozík.",
+        "Seli po závěrečných kontrolách otevírá bránu nádvoří.",
+        "Omi ukazuje Seli opravený ostrovní zpravodaj.",
+        "Tavi a Ivo uklízejí zbývající nářadí.",
         "Luma nabízí Tavimu prázdnou polovinu kamenné lavice.",
+        "Tavi a Luma sedí s mezerou mezi sebou u hvězdného odrazu.",
         "Tavi a Luma sedí s mezerou mezi sebou u hvězdného odrazu.",
         "Tavi a Luma sledují z lavice skromnou světelnou stezku."
       ],
       "captions": [
-        "Ten večer se světelná stezka otevřela na dolní trase. Za zdí nádvoří se v řece třásly její teplé odlesky.",
-        "Omi připlul večerní lodí. Přivezl opravený ostrovní zpravodaj, ne slib, že se každý návštěvník vrátí.",
-        "Tavi mu poděkoval a zpravodaj schoval. Dnešní návštěvníci nepotřebovali další řeč o Tavim.",
-        "U vstupu Ivo požádal o pomoc s prázdným vozíkem. Než Tavi sáhl na madlo, ověřil si, kam má jet.",
-        "Když byl průchod volný, Luma se posadila ke zdi nad řekou. „Můžeš si sem na chvíli sednout,“ řekla Tavimu.",
-        "Posadil se a nechal mezi nimi místo. Sledovali křivý odraz, který se pokaždé změnil v hvězdu, když se voda uklidnila.",
-        "Stezka byla menší, než si Tavi představoval. Poprvé za celý týden nepotřeboval, aby mu dala za pravdu."
+        "Večer Seli otevřela zkontrolovanou dolní trasu. Horní úsek zůstal uzavřený.",
+        "Omi bezpečně uvázal přívoz, došel k zastávce v sadu a přijel tramvají do města. Přinesl opravený ostrovní zpravodaj.",
+        "Ivo požádal Taviho o pomoc s úklidem zbývajícího nářadí. Společně práci dokončili.",
+        "U zdi podél řeky se Luma posunula na lavičce. „Můžeš si sem na chvíli sednout.“",
+        "Tavi si přisedl a neptal se, jestli už mu všechno odpustila.",
+        "Pět světel rámu se v řece pod nimi odráželo jako hvězda.",
+        "Menší procházka byla otevřená. Pro ten večer stačilo sedět spolu na lavičce."
       ],
       "introduction": "Světelná stezka se otevře a drobná dobrovolná gesta naznačí jiný způsob blízkosti.",
       "title": "Světlo mezi námi"
     },
     "de": {
       "altTexts": [
-        "Sechs Gefährten versammeln sich am leuchtenden Weg im Hof.",
-        "Omi reicht Tavi einen gefalteten Inselrundbrief.",
-        "Tavi steckt neben Omi den Rundbrief in seine Tasche.",
-        "Tavi klärt mit Ivo, wohin der Handwagen soll.",
+        "Seli öffnet nach den letzten Kontrollen das Hoftor.",
+        "Omi zeigt Seli das berichtigte Inselbulletin.",
+        "Tavi und Ivo räumen das restliche Werkzeug weg.",
         "Luma bietet Tavi die freie Hälfte einer Steinbank an.",
+        "Tavi und Luma sitzen mit Abstand neben einer sternförmigen Spiegelung.",
         "Tavi und Luma sitzen mit Abstand neben einer sternförmigen Spiegelung.",
         "Tavi und Luma betrachten von der Bank den bescheidenen Lichterweg."
       ],
       "captions": [
-        "An diesem Abend wurde der Lichterweg auf der unteren Route eröffnet. Seine warmen Spiegelungen zitterten im Fluss hinter der Hofmauer.",
-        "Omi war mit der Abendfähre gekommen. Er brachte den berichtigten Inselrundbrief, kein Versprechen, dass alle Besucher zurückkommen würden.",
-        "Tavi dankte ihm und steckte den Rundbrief ein. Die heutigen Besucher brauchten keine weitere Rede über Tavi.",
-        "Am Eingang bat Ivo um Hilfe mit dem leeren Handwagen. Tavi fragte nach dem Ziel, bevor er den Griff anfasste.",
-        "Als der Durchgang frei war, setzte Luma sich an die Flussmauer. „Du kannst dich eine Weile hierhin setzen“, sagte sie zu Tavi.",
-        "Er setzte sich und ließ Platz zwischen ihnen. Sie sahen einer verzerrten Spiegelung zu, die bei ruhigem Wasser zum Stern wurde.",
-        "Der Weg war kleiner als Tavi ihn sich ausgemalt hatte. Zum ersten Mal in dieser Woche brauchte Tavi keinen Beweis mehr dafür, dass er recht hatte."
+        "An diesem Abend öffnete Seli den geprüften unteren Rundgang. Der obere Abschnitt blieb geschlossen.",
+        "Nachdem Omi die Fähre festgemacht hatte, ging er zur Haltestelle im Obstgarten und fuhr mit der Bahn in den Ort. Er brachte das berichtigte Inselbulletin mit.",
+        "Ivo bat Tavi, beim Wegräumen des übrigen Werkzeugs zu helfen. Gemeinsam erledigten sie die Arbeit.",
+        "An der Flussmauer rückte Luma auf der Bank zur Seite. „Du kannst dich eine Weile hierhin setzen.“",
+        "Tavi setzte sich neben sie, ohne zu fragen, ob ihm alles verziehen sei.",
+        "Die fünf Rahmenlichter spiegelten sich sternförmig im Fluss darunter.",
+        "Der kleinere Rundgang war eröffnet. Für diesen Abend genügte es, die Bank zu teilen."
       ],
       "introduction": "Der Lichterweg öffnet, und kleine freiwillige Gesten ermöglichen eine neue Art von Nähe.",
       "title": "Das Licht zwischen uns"
     },
     "en": {
       "altTexts": [
-        "Six companions gather along the glowing courtyard route.",
-        "Omi hands Tavi a folded island bulletin.",
-        "Tavi puts the bulletin in his pouch beside Omi.",
-        "Tavi checks the cart’s destination with Ivo.",
+        "Seli opens the courtyard gate after the final checks.",
+        "Omi shows Seli the corrected island bulletin.",
+        "Tavi and Ivo put away the remaining tools.",
         "Luma offers Tavi the empty half of a stone bench.",
+        "Tavi and Luma sit apart beside a star-shaped reflection.",
         "Tavi and Luma sit apart beside a star-shaped reflection.",
         "Tavi and Luma watch the modest lantern route from the bench."
       ],
       "captions": [
-        "That evening, the lantern walk opened along the lower path. Its warm reflections trembled in the river beyond the courtyard wall.",
-        "Omi had arrived on the evening ferry. He brought the island’s corrected bulletin, not a promise that every visitor would return.",
-        "Tavi thanked him and put the bulletin away. Tonight’s visitors did not need another speech about Tavi.",
-        "Near the entrance, Ivo asked for help moving the empty cart. Tavi checked where it should go before touching the handle.",
-        "Once the passage was clear, Luma sat beside the river wall. “You can sit here for a while,” she told Tavi.",
-        "He sat, leaving room between them. They watched a crooked reflection become a star whenever the water grew still.",
-        "The walk was smaller than Tavi had imagined. For the first time all week, he did not need it to prove him right."
+        "That evening, Seli opened the checked lower route. The upper section remained closed.",
+        "After securing his ferry, Omi walked to the orchard stop and took the tram into town. He brought the island’s corrected bulletin.",
+        "Ivo asked Tavi to help put away the remaining tools. They finished the task together.",
+        "By the river wall, Luma moved along the bench. “You can sit here for a while.”",
+        "Tavi sat beside her without asking whether everything was forgiven.",
+        "The frame’s five lights made a star-shaped reflection in the river below.",
+        "The smaller walk was open. For that evening, sharing the bench was enough."
       ],
       "introduction": "The lantern walk opens, and small, voluntary gestures begin a different kind of connection.",
       "title": "The Light Between Us"
     },
     "es": {
       "altTexts": [
-        "Seis compañeros se reúnen a lo largo del sendero iluminado.",
-        "Omi entrega a Tavi un boletín de la isla doblado.",
-        "Tavi guarda el boletín en su bolsa junto a Omi.",
-        "Tavi confirma con Ivo el destino del carro.",
+        "Seli abre la puerta del patio después de las últimas comprobaciones.",
+        "Omi muestra a Seli el boletín corregido de la isla.",
+        "Tavi e Ivo guardan las herramientas que quedan.",
         "Luma ofrece a Tavi la mitad vacía de un banco de piedra.",
+        "Tavi y Luma se sientan separados junto a un reflejo de estrella.",
         "Tavi y Luma se sientan separados junto a un reflejo de estrella.",
         "Tavi y Luma miran desde el banco el modesto sendero iluminado."
       ],
       "captions": [
-        "Esa noche, el sendero de faroles abrió por el recorrido inferior. Sus reflejos cálidos temblaban en el río, más allá del muro del patio.",
-        "Omi había llegado en el ferry de la tarde. Traía el boletín corregido de la isla, no una promesa de que volverían todos los visitantes.",
-        "Tavi le dio las gracias y guardó el boletín. Los visitantes de esa noche no necesitaban otro discurso sobre Tavi.",
-        "Cerca de la entrada, Ivo pidió ayuda para mover el carro vacío. Tavi comprobó adónde debía llevarlo antes de tocar el asa.",
-        "Con el paso ya despejado, Luma se sentó junto al muro del río. «Puedes sentarte aquí un rato», le dijo a Tavi.",
-        "Él se sentó dejando espacio entre ambos. Miraron un reflejo torcido que se volvía estrella cada vez que el agua se aquietaba.",
-        "El sendero era más pequeño de lo que Tavi había imaginado. Por primera vez en toda la semana, no necesitaba que demostrara que tenía razón."
+        "Esa noche, Seli abrió la ruta inferior ya revisada. El tramo superior siguió cerrado.",
+        "Tras amarrar el transbordador, Omi caminó hasta la parada del huerto y tomó el tranvía al pueblo. Llevaba el boletín corregido de la isla.",
+        "Ivo pidió ayuda a Tavi para guardar las herramientas restantes. Terminaron juntos la tarea.",
+        "Junto al muro del río, Luma se hizo a un lado en el banco. «Puedes sentarte aquí un rato».",
+        "Tavi se sentó a su lado sin preguntar si todo estaba perdonado.",
+        "Las cinco luces del marco formaban un reflejo de estrella en el río.",
+        "El paseo más pequeño estaba abierto. Para esa noche, compartir el banco era suficiente."
       ],
       "introduction": "El sendero abre, y pequeños gestos voluntarios permiten comenzar una relación diferente.",
       "title": "La luz entre nosotros"
     },
     "fr": {
       "altTexts": [
-        "Six compagnons se retrouvent le long du parcours lumineux.",
-        "Omi remet un bulletin plié de l’île à Tavi.",
-        "Tavi range le bulletin dans sa sacoche, près d’Omi.",
-        "Tavi confirme avec Ivo où ranger le chariot.",
+        "Seli ouvre le portail de la cour après les dernières vérifications.",
+        "Omi montre à Seli le bulletin corrigé de l’île.",
+        "Tavi et Ivo rangent les outils restants.",
         "Luma propose à Tavi la moitié libre d’un banc en pierre.",
+        "Tavi et Luma sont assis à distance près d’un reflet étoilé.",
         "Tavi et Luma sont assis à distance près d’un reflet étoilé.",
         "Tavi et Luma contemplent depuis le banc le modeste parcours lumineux."
       ],
       "captions": [
-        "Ce soir-là, le parcours de lanternes ouvrit sur le chemin du bas. Ses reflets chauds tremblaient dans la rivière, derrière le mur de la cour.",
-        "Omi était arrivé par le bac du soir. Il apportait le bulletin corrigé de l’île, pas la promesse du retour de tous les visiteurs.",
-        "Tavi le remercia et rangea le bulletin. Les visiteurs de ce soir n’avaient pas besoin d’un nouveau discours sur Tavi.",
-        "Près de l’entrée, Ivo demanda de l’aide pour déplacer le chariot vide. Tavi vérifia sa destination avant d’en toucher la poignée.",
-        "Une fois le passage dégagé, Luma s’assit près du mur de la rivière. « Tu peux t’asseoir ici un moment », dit-elle à Tavi.",
-        "Il s’assit en laissant un espace entre eux. Ils regardèrent un reflet déformé redevenir une étoile chaque fois que l’eau se calmait.",
-        "Le parcours était plus petit que dans les rêves de Tavi. Pour la première fois de la semaine, il n’avait pas besoin qu’il lui donne raison."
+        "Ce soir-là, Seli ouvrit le parcours inférieur contrôlé. La section supérieure resta fermée.",
+        "Après avoir amarré son bac, Omi marcha jusqu’à l’arrêt du verger et prit le tramway pour la ville. Il apportait le bulletin corrigé de l’île.",
+        "Ivo demanda à Tavi de l’aider à ranger les derniers outils. Ils terminèrent ensemble.",
+        "Près du muret de la rivière, Luma se décala sur le banc. « Tu peux t’asseoir ici un moment. »",
+        "Tavi s’assit près d’elle, sans demander si tout lui était pardonné.",
+        "Les cinq lumières du cadre formaient un reflet étoilé dans la rivière en contrebas.",
+        "La petite promenade était ouverte. Pour ce soir-là, partager le banc suffisait."
       ],
       "introduction": "Le parcours ouvre, et de petits gestes librement choisis permettent une autre forme de rapprochement.",
       "title": "La lumière entre nous"
     },
     "hi": {
       "altTexts": [
-        "छह साथी रोशन आँगन के रास्ते पर इकट्ठे हैं।",
-        "ओमी तावी को द्वीप का मुड़ा बुलेटिन दे रहा है।",
-        "तावी ओमी के पास बुलेटिन अपनी छोटी थैली में रख रहा है।",
-        "तावी ईवो से गाड़ी रखने की जगह पूछ रहा है।",
+        "सेली अंतिम जाँच के बाद आँगन का फाटक खोल रही है।",
+        "ओमी सेली को द्वीप का सुधारा हुआ बुलेटिन दिखा रहा है।",
+        "तावी और ईवो बाकी औज़ार समेट रहे हैं।",
         "लूमा तावी को पत्थर की बेंच का खाली आधा हिस्सा दे रही है।",
+        "तावी और लूमा थोड़ी दूरी पर बैठे हैं और पास तारे का प्रतिबिंब है।",
         "तावी और लूमा थोड़ी दूरी पर बैठे हैं और पास तारे का प्रतिबिंब है।",
         "तावी और लूमा बेंच से साधारण-सी लालटेन राह देख रहे हैं।"
       ],
       "captions": [
-        "उस शाम नीचे के रास्ते पर लालटेन सैर खुली। आँगन की दीवार के पार नदी में गर्म रोशनी के प्रतिबिंब काँप रहे थे।",
-        "ओमी शाम की नौका से आया। वह द्वीप का सुधरा बुलेटिन लाया था, यह वादा नहीं कि हर आगंतुक लौट आएगा।",
-        "तावी ने धन्यवाद कहकर बुलेटिन रख दिया। आज के आगंतुकों को फिर तावी के बारे में भाषण नहीं चाहिए था।",
-        "प्रवेश के पास ईवो ने खाली गाड़ी हटाने में मदद माँगी। तावी ने हैंडल छूने से पहले पूछा कि उसे कहाँ रखना है।",
-        "राह खाली होने पर लूमा नदी की दीवार के पास बैठी। उसने तावी से कहा, “कुछ देर यहाँ बैठ सकते हो।”",
-        "तावी बीच में जगह छोड़कर बैठा। वे देखते रहे कि पानी शांत होते ही टेढ़ा प्रतिबिंब तारा बन जाता था।",
-        "सैर तावी की कल्पना से छोटी थी। मगर पूरे हफ्ते में पहली बार उसे उससे अपनी बात सही साबित नहीं करनी थी।"
+        "उस शाम सेली ने जाँचा हुआ निचला रास्ता खोल दिया। ऊपरी हिस्सा बंद रहा।",
+        "नौका को सुरक्षित बाँधकर ओमी बाग वाले ट्राम-स्टॉप तक पैदल गया और वहाँ से ट्राम में कस्बे आया। वह द्वीप का सुधारा हुआ बुलेटिन लाया था।",
+        "ईवो ने तावी से बचे हुए औज़ार समेटने में मदद माँगी। दोनों ने मिलकर काम पूरा किया।",
+        "नदी के पास की दीवार के बगल वाली बेंच पर लूमा थोड़ा खिसकी। “तुम यहाँ कुछ देर बैठ सकते हो।”",
+        "तावी उसके पास बैठ गया। उसने यह नहीं पूछा कि क्या उसे हर बात के लिए माफ़ कर दिया गया है।",
+        "ढाँचे की पाँच बत्तियों ने नीचे बहती नदी में तारे के आकार का प्रतिबिंब बनाया।",
+        "छोटा सैर-पथ खुल गया था। उस शाम के लिए साथ में बेंच पर बैठना काफ़ी था।"
       ],
       "introduction": "लालटेन वाला रास्ता खुलता है और छोटे, अपनी इच्छा से किए काम नए जुड़ाव की शुरुआत बनते हैं।",
       "title": "हमारे बीच की रोशनी"
     },
     "id": {
       "altTexts": [
-        "Enam rekan berkumpul di sepanjang jalur halaman yang bercahaya.",
-        "Omi menyerahkan buletin pulau terlipat kepada Tavi.",
-        "Tavi menyimpan buletin di kantongnya di dekat Omi.",
-        "Tavi memastikan tempat gerobak harus dibawa bersama Ivo.",
+        "Seli membuka gerbang halaman setelah pemeriksaan terakhir.",
+        "Omi menunjukkan buletin pulau yang sudah diperbaiki kepada Seli.",
+        "Tavi dan Ivo menyimpan perkakas yang tersisa.",
         "Luma menawarkan separuh bangku batu yang kosong kepada Tavi.",
+        "Tavi dan Luma duduk berjarak di dekat pantulan berbentuk bintang.",
         "Tavi dan Luma duduk berjarak di dekat pantulan berbentuk bintang.",
         "Tavi dan Luma mengamati jalur lentera sederhana dari bangku."
       ],
       "captions": [
-        "Malam itu, jalur lentera dibuka di rute bawah. Pantulan hangatnya bergetar di sungai di balik tembok halaman.",
-        "Omi datang dengan feri sore. Ia membawa buletin pulau yang sudah dibetulkan, bukan janji bahwa semua pengunjung akan kembali.",
-        "Tavi berterima kasih lalu menyimpan buletin itu. Pengunjung malam ini tidak memerlukan pidato lain tentang Tavi.",
-        "Di dekat pintu masuk, Ivo meminta bantuan memindahkan gerobak kosong. Tavi memastikan tujuannya sebelum menyentuh pegangan.",
-        "Setelah jalan bebas, Luma duduk di dekat tembok sungai. “Kamu boleh duduk di sini sebentar,” katanya kepada Tavi.",
-        "Ia duduk dengan menyisakan jarak. Mereka melihat pantulan bengkok berubah menjadi bintang setiap kali air menjadi tenang.",
-        "Jalur itu lebih kecil daripada bayangan Tavi. Untuk pertama kalinya minggu itu, ia tidak membutuhkannya untuk membuktikan dirinya benar."
+        "Malam itu, Seli membuka jalur bawah yang sudah diperiksa. Bagian atas tetap ditutup.",
+        "Setelah menambatkan ferinya dengan aman, Omi berjalan ke perhentian kebun buah lalu naik trem ke kota. Ia membawa buletin pulau yang telah diperbaiki.",
+        "Ivo meminta Tavi membantu membereskan perkakas yang tersisa. Mereka menyelesaikannya bersama.",
+        "Di dekat tembok sungai, Luma bergeser di bangku. “Kamu boleh duduk di sini sebentar.”",
+        "Tavi duduk di sampingnya tanpa menanyakan apakah semuanya sudah dimaafkan.",
+        "Lima lampu pada rangka membentuk pantulan bintang di sungai di bawahnya.",
+        "Jalur yang lebih kecil sudah dibuka. Untuk malam itu, berbagi bangku sudah cukup."
       ],
       "introduction": "Jalur lentera dibuka, dan tindakan kecil yang dilakukan dengan sukarela memulai kedekatan yang berbeda.",
       "title": "Cahaya di Antara Kita"
     },
     "it": {
       "altTexts": [
-        "Sei compagni si ritrovano lungo il percorso illuminato del cortile.",
-        "Omi porge a Tavi un bollettino dell’isola piegato.",
-        "Tavi mette il bollettino nella borsa accanto a Omi.",
-        "Tavi conferma con Ivo la destinazione del carretto.",
+        "Seli apre il cancello del cortile dopo gli ultimi controlli.",
+        "Omi mostra a Seli il bollettino corretto dell’isola.",
+        "Tavi e Ivo ripongono gli attrezzi rimasti.",
         "Luma offre a Tavi la metà libera di una panca di pietra.",
+        "Tavi e Luma siedono distanziati accanto a un riflesso a stella.",
         "Tavi e Luma siedono distanziati accanto a un riflesso a stella.",
         "Tavi e Luma guardano dalla panca il modesto percorso di lanterne."
       ],
       "captions": [
-        "Quella sera il percorso di lanterne aprì sul sentiero inferiore. I suoi riflessi caldi tremavano nel fiume oltre il muro del cortile.",
-        "Omi era arrivato con il traghetto serale. Portava il bollettino corretto dell’isola, non la promessa che ogni visitatore sarebbe tornato.",
-        "Tavi lo ringraziò e ripose il bollettino. I visitatori di quella sera non avevano bisogno di un altro discorso su Tavi.",
-        "Vicino all’ingresso, Ivo chiese aiuto con il carretto vuoto. Tavi verificò dove andasse portato prima di toccare il manico.",
-        "Quando il passaggio fu libero, Luma si sedette vicino al muro del fiume. «Puoi sederti qui per un po’», disse a Tavi.",
-        "Lui si sedette lasciando spazio fra loro. Guardarono un riflesso storto diventare una stella ogni volta che l’acqua si calmava.",
-        "Il percorso era più piccolo di come Tavi lo aveva immaginato. Per la prima volta quella settimana, non aveva bisogno che gli desse ragione."
+        "Quella sera, Seli aprì il percorso inferiore controllato. Il tratto superiore rimase chiuso.",
+        "Dopo aver ormeggiato il traghetto, Omi raggiunse a piedi la fermata del frutteto e prese il tram per la città. Portava il bollettino corretto dell’isola.",
+        "Ivo chiese a Tavi di aiutarlo a riporre gli attrezzi rimasti. Finirono il compito insieme.",
+        "Vicino al muretto del fiume, Luma si spostò sulla panchina. «Puoi sederti qui per un po’».",
+        "Tavi si sedette accanto a lei senza chiedere se fosse stato tutto perdonato.",
+        "Le cinque luci del telaio disegnavano un riflesso a forma di stella nel fiume sottostante.",
+        "La passeggiata più piccola era aperta. Per quella sera, bastava condividere la panchina."
       ],
       "introduction": "Il percorso si apre e piccoli gesti volontari permettono un nuovo tipo di vicinanza.",
       "title": "La luce fra noi"
     },
     "ja": {
       "altTexts": [
-        "六人が、灯りのついた中庭の道に集まっています。",
-        "オミがタヴィに折った島の便りを渡しています。",
-        "タヴィがオミのそばで、便りをポーチへ入れています。",
-        "タヴィがイヴォに手押し車の行き先を確認しています。",
+        "セリが最後の点検を終えて、中庭の門を開けています。",
+        "オミがセリに、島の訂正済みのお知らせを見せています。",
+        "タヴィとイヴォが残った道具を片づけています。",
         "ルマが石のベンチの空いた半分をタヴィに示しています。",
+        "タヴィとルマが距離を空けて座り、星形の反射がそばに見えます。",
         "タヴィとルマが距離を空けて座り、星形の反射がそばに見えます。",
         "タヴィとルマがベンチから、ささやかな灯りの道を見ています。"
       ],
       "captions": [
-        "その晩、下の道で灯りの散歩道が開きました。中庭の壁の向こうの川に、暖かな光が揺れています。",
-        "夕方の船で来たオミは、島の訂正済みの便りを持っていました。全員が戻ってくるという約束ではありません。",
-        "タヴィは礼を言い、便りをしまいました。今夜の来場者に、またタヴィの話を長々と聞かせる必要はありません。",
-        "入口でイヴォが、空の手押し車を動かす手伝いを頼みました。タヴィは取っ手に触る前に、置く場所を確認しました。",
-        "通路が空くと、ルマは川沿いの壁のそばに座りました。「少しなら、ここに座っていいよ」とタヴィに言いました。",
-        "タヴィは間を空けて座りました。水が静まるたび、ゆがんだ反射が星に戻るのを二人は見ていました。",
-        "散歩道はタヴィの想像より小さくなりました。でも今週初めて、それで自分の正しさを証明しなくてもよいと思えました。"
+        "その夜、セリは点検を終えた下の道を開いた。上の区間は閉じたままだった。",
+        "オミは渡し船をしっかり係留し、果樹園の停留所まで歩いて、路面電車で町へ来た。島の訂正版のお知らせを持っていた。",
+        "イヴォは、残った道具の片付けをタヴィに頼んだ。二人は一緒に作業を終えた。",
+        "川沿いの壁のそばで、ルマがベンチの端へ寄った。「少しの間なら、ここに座っていいよ」",
+        "タヴィは、全部許してもらえたのかとは聞かずに隣へ座った。",
+        "枠の五つの灯りが、下を流れる川に星の形で映っていた。",
+        "小さな散歩道が開いた。その夜は、一つのベンチに並んで座るだけで十分だった。"
       ],
       "introduction": "散歩道が開き、小さな自発的な行動が新しいつながりの始まりになります。",
       "title": "二人の間の灯り"
     },
     "ko": {
       "altTexts": [
-        "여섯 동료가 빛나는 마당 길에 모여 있어요.",
-        "오미가 접은 섬 소식지를 타비에게 건네요.",
-        "타비가 오미 곁에서 소식지를 작은 주머니에 넣어요.",
-        "타비가 이보에게 손수레를 놓을 곳을 확인해요.",
+        "셀리가 마지막 점검을 마치고 마당의 문을 열고 있어요.",
+        "오미가 셀리에게 바로잡은 섬 소식지를 보여 줘요.",
+        "타비와 이보가 남은 공구를 정리하고 있어요.",
         "루마가 타비에게 돌 벤치의 빈 절반을 내줘요.",
+        "타비와 루마가 간격을 두고 앉아 있고, 옆에 별 모양 반사가 보여요.",
         "타비와 루마가 간격을 두고 앉아 있고, 옆에 별 모양 반사가 보여요.",
         "타비와 루마가 벤치에서 소박한 등불 길을 바라봐요."
       ],
       "captions": [
-        "그날 저녁 아래쪽 길이 등불 산책길로 열렸어요. 마당 벽 너머 강물에서 따뜻한 반짝임이 떨렸어요.",
-        "오미는 저녁 배로 왔어요. 섬의 정정된 소식지를 가져왔지만, 모든 방문객이 돌아온다는 약속을 가져온 것은 아니었어요.",
-        "타비는 감사 인사를 하고 소식지를 넣었어요. 오늘 온 사람들에게 또 자기 이야기를 길게 할 필요는 없었어요.",
-        "입구에서 이보가 빈 수레를 옮겨 달라고 했어요. 타비는 손잡이를 잡기 전에 어디로 옮길지 물었어요.",
-        "통로가 비자 루마는 강 쪽 벽 옆에 앉았어요. “잠깐 여기 앉아도 돼.” 루마가 타비에게 말했어요.",
-        "타비는 사이를 띄우고 앉았어요. 물이 잠잠해질 때마다 일그러진 반사가 별로 바뀌는 모습을 함께 봤어요.",
-        "산책길은 타비의 상상보다 작았어요. 하지만 일주일 만에 처음으로, 그 길로 자기 옳음을 증명할 필요가 없었어요."
+        "그날 저녁, 셀리는 점검을 마친 아래쪽 코스를 열었다. 위쪽 구간은 계속 닫혀 있었다.",
+        "오미는 나룻배를 단단히 매고 과수원 정류장까지 걸어간 뒤, 전차를 타고 마을로 왔다. 섬에서 바로잡은 소식지를 가져왔다.",
+        "이보가 남은 연장을 치우는 일을 도와 달라고 했다. 타비와 이보는 함께 마무리했다.",
+        "강변 담장 옆 벤치에서 루마가 자리를 조금 비켰다. “여기 잠깐 앉아도 돼.”",
+        "타비는 모든 일을 용서받았는지 묻지 않고 루마 옆에 앉았다.",
+        "틀의 다섯 개 불빛이 아래로 흐르는 강물에 별 모양으로 비쳤다.",
+        "작은 산책 코스가 문을 열었다. 그날 저녁에는 함께 벤치에 앉아 있는 것으로 충분했다."
       ],
       "introduction": "등불 산책길이 열리고, 작고 자발적인 행동들이 새로운 연결을 시작합니다.",
       "title": "우리 사이의 빛"
     },
     "pl": {
       "altTexts": [
-        "Sześcioro towarzyszy spotyka się na rozświetlonej ścieżce.",
-        "Omi podaje Taviemu złożony biuletyn wyspy.",
-        "Tavi chowa biuletyn do saszetki obok Omiego.",
-        "Tavi potwierdza z Ivem miejsce odstawienia wózka.",
+        "Seli otwiera bramę dziedzińca po końcowych kontrolach.",
+        "Omi pokazuje Seli poprawiony biuletyn wyspy.",
+        "Tavi i Ivo odkładają pozostałe narzędzia.",
         "Luma proponuje Taviemu wolną połowę kamiennej ławki.",
+        "Tavi i Luma siedzą z odstępem obok gwiaździstego odbicia.",
         "Tavi i Luma siedzą z odstępem obok gwiaździstego odbicia.",
         "Tavi i Luma oglądają z ławki skromną ścieżkę lampionów."
       ],
       "captions": [
-        "Tego wieczoru otwarto ścieżkę lampionów na dolnej trasie. Ciepłe odbicia drżały w rzece za murem dziedzińca.",
-        "Omi przypłynął wieczornym promem. Przywiózł poprawiony biuletyn wyspy, nie obietnicę powrotu wszystkich gości.",
-        "Tavi podziękował i schował biuletyn. Dzisiejsi goście nie potrzebowali kolejnej przemowy o Tavim.",
-        "Przy wejściu Ivo poprosił o pomoc z pustym wózkiem. Tavi sprawdził, gdzie go odstawić, zanim dotknął uchwytu.",
-        "Kiedy przejście było wolne, Luma usiadła przy nadrzecznym murze. „Możesz tu na chwilę usiąść”, powiedziała Taviemu.",
-        "Usiadł, zostawiając między nimi miejsce. Patrzyli, jak krzywe odbicie staje się gwiazdą, kiedy woda się uspokaja.",
-        "Ścieżka była mniejsza, niż Tavi sobie wyobrażał. Pierwszy raz w tym tygodniu nie potrzebował, by udowadniała jego rację."
+        "Tego wieczoru Seli otworzyła sprawdzoną dolną trasę. Górny odcinek pozostał zamknięty.",
+        "Po zacumowaniu promu Omi poszedł na przystanek w sadzie i przyjechał tramwajem do miasta. Przywiózł poprawiony biuletyn z wyspy.",
+        "Ivo poprosił Taviego o pomoc w schowaniu pozostałych narzędzi. Skończyli pracę razem.",
+        "Przy murku nad rzeką Luma przesunęła się na ławce. „Możesz tu na chwilę usiąść”.",
+        "Tavi usiadł obok, nie pytając, czy wszystko zostało mu wybaczone.",
+        "Pięć świateł ramy odbijało się w rzece poniżej, układając się w gwiazdę.",
+        "Mniejszy spacer był otwarty. Tego wieczoru wystarczyło dzielić ławkę."
       ],
       "introduction": "Ścieżka zostaje otwarta, a drobne dobrowolne gesty pozwalają rozpocząć inny rodzaj bliskości.",
       "title": "Światło między nami"
     },
     "pt": {
       "altTexts": [
-        "Seis companheiros se reúnem ao longo do caminho iluminado.",
-        "Omi entrega a Tavi um boletim dobrado da ilha.",
-        "Tavi guarda o boletim na bolsa, ao lado de Omi.",
-        "Tavi confirma com Ivo o destino do carrinho.",
+        "Seli abre o portão do pátio depois das últimas verificações.",
+        "Omi mostra a Seli o boletim corrigido da ilha.",
+        "Tavi e Ivo guardam as ferramentas restantes.",
         "Luma oferece a Tavi a metade vazia de um banco de pedra.",
+        "Tavi e Luma sentam separados perto de um reflexo de estrela.",
         "Tavi e Luma sentam separados perto de um reflexo de estrela.",
         "Tavi e Luma observam do banco a modesta trilha iluminada."
       ],
       "captions": [
-        "Naquela noite, a trilha de lanternas abriu pelo caminho inferior. Seus reflexos quentes tremiam no rio além do muro do pátio.",
-        "Omi havia chegado na balsa da noite. Trouxe o boletim corrigido da ilha, não uma promessa de que todos os visitantes voltariam.",
-        "Tavi agradeceu e guardou o boletim. Os visitantes daquela noite não precisavam de outro discurso sobre Tavi.",
-        "Perto da entrada, Ivo pediu ajuda para mover o carrinho vazio. Tavi confirmou o destino antes de tocar na alça.",
-        "Com a passagem livre, Luma se sentou junto ao muro do rio. “Você pode sentar aqui um pouco”, disse a Tavi.",
-        "Ele sentou deixando espaço entre os dois. Observaram um reflexo torto virar estrela sempre que a água se acalmava.",
-        "A trilha era menor do que Tavi imaginara. Pela primeira vez naquela semana, ele não precisava que ela provasse que tinha razão."
+        "Naquela noite, Seli abriu o percurso inferior já verificado. O trecho superior continuou fechado.",
+        "Depois de amarrar a balsa, Omi caminhou até a parada do pomar e pegou o bonde para a cidade. Trouxe o boletim corrigido da ilha.",
+        "Ivo pediu ajuda a Tavi para guardar as ferramentas restantes. Terminaram a tarefa juntos.",
+        "Perto do muro do rio, Luma se afastou um pouco no banco. “Você pode se sentar aqui por um tempo.”",
+        "Tavi se sentou ao lado dela sem perguntar se tudo estava perdoado.",
+        "As cinco luzes da estrutura formavam um reflexo de estrela no rio abaixo.",
+        "O passeio menor estava aberto. Naquela noite, compartilhar o banco bastava."
       ],
       "introduction": "A trilha se abre, e pequenos gestos voluntários permitem uma nova forma de proximidade.",
       "title": "A luz entre nós"
     },
     "ru": {
       "altTexts": [
-        "Шестеро товарищей собираются на светящемся маршруте во дворе.",
-        "Оми передаёт Тави сложенный островной бюллетень.",
-        "Тави убирает бюллетень в сумочку рядом с Оми.",
-        "Тави уточняет у Иво, куда поставить тележку.",
+        "Сели открывает ворота двора после заключительных проверок.",
+        "Оми показывает Сели исправленный островной бюллетень.",
+        "Тави и Иво убирают оставшиеся инструменты.",
         "Лума предлагает Тави пустую половину каменной скамьи.",
+        "Тави и Лума сидят на расстоянии возле отражения звезды.",
         "Тави и Лума сидят на расстоянии возле отражения звезды.",
         "Тави и Лума смотрят со скамьи на скромный маршрут фонарей."
       ],
       "captions": [
-        "Вечером прогулка с фонарями открылась на нижней дорожке. За стеной двора в реке дрожали тёплые отражения.",
-        "Оми прибыл вечерним паромом. Он привёз исправленный островной бюллетень, но не обещание, что каждый посетитель вернётся.",
-        "Тави поблагодарил и убрал бюллетень. Гостям сегодня не нужна была ещё одна речь о Тави.",
-        "У входа Иво попросил помочь передвинуть пустую тележку. Тави уточнил место, прежде чем взяться за ручку.",
-        "Когда проход освободился, Лума села у речной стены. «Можешь немного посидеть здесь», — сказала она Тави.",
-        "Он сел, оставив между ними место. Они смотрели, как неровное отражение становится звездой, когда вода успокаивается.",
-        "Прогулка оказалась скромнее, чем мечтал Тави. Впервые за неделю ему не нужно было доказывать ею свою правоту."
+        "Тем вечером Сели открыла проверенный нижний маршрут. Верхний участок остался закрытым.",
+        "Надёжно пришвартовав паром, Оми дошёл до остановки в саду и приехал в город на трамвае. Он привёз исправленный островной бюллетень.",
+        "Иво попросил Тави помочь убрать оставшиеся инструменты. Они закончили работу вместе.",
+        "У речной стенки Лума подвинулась на скамье. «Можешь немного посидеть здесь».",
+        "Тави сел рядом, не спрашивая, всё ли ему простили.",
+        "Пять ламп каркаса отражались звездой в реке внизу.",
+        "Небольшой маршрут был открыт. На этот вечер достаточно было сидеть рядом на одной скамье."
       ],
       "introduction": "Прогулка начинается, а маленькие добровольные жесты дают начало новым отношениям.",
       "title": "Свет между нами"
     },
     "tr": {
       "altTexts": [
-        "Altı arkadaş, ışıklı avlu yolu boyunca bir araya geliyor.",
-        "Omi, Tavi’ye katlanmış ada bültenini veriyor.",
-        "Tavi, Omi’nin yanında bülteni çantasına koyuyor.",
-        "Tavi, arabanın yerini Ivo’yla doğruluyor.",
+        "Seli, son kontrollerden sonra avlunun kapısını açıyor.",
+        "Omi, Seli’ye adanın düzeltilmiş bültenini gösteriyor.",
+        "Tavi ve Ivo, kalan aletleri kaldırıyor.",
         "Luma, taş bankın boş yarısını Tavi’ye gösteriyor.",
+        "Tavi ile Luma, yıldız yansımasının yanında aralıklı oturuyor.",
         "Tavi ile Luma, yıldız yansımasının yanında aralıklı oturuyor.",
         "Tavi ile Luma, banktan mütevazı fener yolunu izliyor."
       ],
       "captions": [
-        "O akşam fener yolu alt güzergâhta açıldı. Sıcak yansımaları, avlu duvarının ötesindeki nehirde titriyordu.",
-        "Omi akşam vapuruyla gelmişti. Adanın düzeltilmiş bültenini getirdi; her ziyaretçinin döneceğine dair bir söz değil.",
-        "Tavi teşekkür edip bülteni kaldırdı. Bu akşamın ziyaretçilerinin Tavi hakkında bir konuşmaya daha ihtiyacı yoktu.",
-        "Girişte Ivo boş arabayı taşımak için yardım istedi. Tavi arabanın tutacağına dokunmadan önce nereye götürüleceğini sordu.",
-        "Geçit açılınca Luma nehir duvarının yanına oturdu. “Bir süre buraya oturabilirsin,” dedi Tavi’ye.",
-        "Tavi aralarında boşluk bırakarak oturdu. Su sakinleştikçe yıldıza dönüşen eğri bir yansımayı izlediler.",
-        "Yol, Tavi’nin hayal ettiğinden küçüktü. O hafta ilk kez, yolun kendisini haklı çıkarmasına ihtiyaç duymuyordu."
+        "O akşam Seli, kontrolleri tamamlanan alt yolu açtı. Üst bölüm kapalı kaldı.",
+        "Feribotunu güvenle bağlayan Omi, meyve bahçesindeki durağa yürüdü ve tramvayla kasabaya geldi. Adanın düzeltilmiş bültenini getirmişti.",
+        "Ivo kalan aletleri kaldırmak için Tavi’den yardım istedi. İşi birlikte bitirdiler.",
+        "Nehir duvarının yanındaki bankta Luma biraz yana kaydı. “Bir süre buraya oturabilirsin.”",
+        "Tavi, her şeyin affedilip affedilmediğini sormadan yanına oturdu.",
+        "Çerçevenin beş ışığı aşağıdaki nehirde yıldız biçiminde yansıyordu.",
+        "Küçük yürüyüş yolu açılmıştı. O akşam için bankı paylaşmak yeterliydi."
       ],
       "introduction": "Fener yolu açılır; küçük, gönüllü hareketler farklı bir yakınlığın başlangıcı olur.",
       "title": "Aramızdaki Işık"
     },
     "vi": {
       "altTexts": [
-        "Sáu người bạn tụ họp dọc con đường sân đang sáng.",
-        "Omi đưa Tavi bản tin đảo đã gấp.",
-        "Tavi cất bản tin vào túi cạnh Omi.",
-        "Tavi xác nhận nơi để xe cùng Ivo.",
+        "Seli mở cổng sân sau các bước kiểm tra cuối cùng.",
+        "Omi cho Seli xem bản tin đã đính chính của đảo.",
+        "Tavi và Ivo cất những dụng cụ còn lại.",
         "Luma mời Tavi ngồi ở nửa ghế đá còn trống.",
+        "Tavi và Luma ngồi cách nhau cạnh bóng sao phản chiếu.",
         "Tavi và Luma ngồi cách nhau cạnh bóng sao phản chiếu.",
         "Tavi và Luma ngắm con đường đèn giản dị từ ghế đá."
       ],
       "captions": [
-        "Tối ấy, đường đèn lồng mở trên tuyến thấp. Ánh phản chiếu ấm áp rung rinh trên dòng sông bên kia tường sân.",
-        "Omi đến bằng chuyến phà tối. Omi mang bản tin đảo đã sửa, không mang lời hứa rằng mọi khách sẽ trở lại.",
-        "Tavi cảm ơn và cất bản tin. Khách tối nay không cần thêm một bài nói về Tavi.",
-        "Gần lối vào, Ivo nhờ giúp chuyển xe trống. Tavi hỏi rõ phải đưa đi đâu trước khi chạm tay cầm.",
-        "Khi lối đi đã thoáng, Luma ngồi bên tường sông. “Cậu có thể ngồi đây một lát,” cô nói với Tavi.",
-        "Cậu ngồi, chừa khoảng cách giữa hai người. Họ nhìn hình phản chiếu đang méo mó trở thành ngôi sao mỗi khi mặt nước lặng.",
-        "Con đường nhỏ hơn Tavi từng hình dung. Lần đầu tiên trong tuần, cậu không cần nó chứng minh mình đúng."
+        "Tối ấy, Seli mở lối dưới đã kiểm tra xong. Đoạn trên cao vẫn đóng.",
+        "Sau khi neo phà chắc chắn, Omi đi bộ đến trạm ở vườn cây rồi lên tàu điện vào thị trấn. Anh mang theo bản tin đã đính chính của đảo.",
+        "Ivo nhờ Tavi giúp cất các dụng cụ còn lại. Họ cùng hoàn thành việc đó.",
+        "Bên tường ven sông, Luma xích sang một phía trên ghế dài. “Bạn có thể ngồi đây một lúc.”",
+        "Tavi ngồi cạnh cô mà không hỏi liệu mọi chuyện đã được tha thứ chưa.",
+        "Năm đèn trên khung in bóng thành hình ngôi sao xuống dòng sông phía dưới.",
+        "Lối dạo nhỏ đã mở. Tối ấy, cùng ngồi trên ghế là đủ."
       ],
       "introduction": "Đường đèn lồng mở cửa, và những cử chỉ tự nguyện nhỏ bé bắt đầu một sự gần gũi khác.",
       "title": "Ánh sáng giữa chúng ta"
     },
     "zh": {
       "altTexts": [
-        "六位伙伴聚在亮起灯光的庭院路线上。",
-        "奥米把折好的岛上简报交给塔维。",
-        "塔维站在奥米旁，把简报收进小包。",
-        "塔维向伊沃确认手推车要放在哪里。",
+        "塞莉在最终检查后打开庭院大门。",
+        "奥米向塞莉展示岛上更正后的简报。",
+        "塔维和伊沃收好剩下的工具。",
         "卢玛向塔维示意石凳上空着的半边。",
+        "塔维和卢玛隔开一些距离坐着，旁边有星形倒影。",
         "塔维和卢玛隔开一些距离坐着，旁边有星形倒影。",
         "塔维和卢玛坐在石凳上，看着朴素的灯笼步道。"
       ],
       "captions": [
-        "那天晚上，灯笼步道沿下方小路开放。庭院墙外，温暖的倒影在河面轻轻颤动。",
-        "奥米乘晚间渡船赶来，带着岛上更正后的简报，而不是所有访客都会回来的保证。",
-        "塔维道谢后，把简报收好。今晚来的人，不需要再听一段关于塔维自己的演说。",
-        "入口附近，伊沃请他帮忙挪空车。塔维先问清楚要移到哪里，才去碰车把。",
-        "通道清空后，卢玛坐到河墙边。“你可以在这里坐一会儿。”她对塔维说。",
-        "塔维坐下，留出两人之间的距离。他们看着弯曲的倒影，在水面平静时变成一颗星星。",
-        "这条步道比塔维想象的小。但一周以来第一次，他不再需要它来证明自己是对的。"
+        "当晚，塞莉开放了检查合格的下方路线。上层路段仍然关闭。",
+        "奥米把渡船系牢后，走到果园站，再乘电车进镇。他带来了岛上更正后的简报。",
+        "伊沃请塔维帮忙收起剩下的工具。两人一起完成了这件事。",
+        "河边矮墙旁，卢玛往长椅的一边挪了挪。“你可以在这里坐一会儿。”",
+        "塔维坐到她身旁，没有问她是不是已经原谅了一切。",
+        "框架上的五盏灯，在下方河水中映出星星的形状。",
+        "小一些的步道开放了。对这个夜晚来说，能够一起坐在长椅上，就已经足够。"
       ],
       "introduction": "灯笼步道开放了，小小的、自愿的举动也开始带来新的连接。",
       "title": "我们之间的光"
@@ -401,23 +401,23 @@
   "number": 24,
   "panels": [
     {
-      "altText": "Six companions gather along the glowing courtyard route.",
+      "altText": "Seli opens the courtyard gate after the final checks.",
       "image": "N03E24P01.png"
     },
     {
-      "altText": "Omi hands Tavi a folded island bulletin.",
+      "altText": "Omi shows Seli the corrected island bulletin.",
       "image": "N03E24P02.png"
     },
     {
-      "altText": "Tavi puts the bulletin in his pouch beside Omi.",
+      "altText": "Tavi and Ivo put away the remaining tools.",
       "image": "N03E24P03.png"
     },
     {
-      "altText": "Tavi checks the cart’s destination with Ivo.",
+      "altText": "Luma offers Tavi the empty half of a stone bench.",
       "image": "N03E24P04.png"
     },
     {
-      "altText": "Luma offers Tavi the empty half of a stone bench.",
+      "altText": "Tavi and Luma sit apart beside a star-shaped reflection.",
       "image": "N03E24P05.png"
     },
     {

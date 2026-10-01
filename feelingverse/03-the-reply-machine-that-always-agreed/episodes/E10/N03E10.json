@@ -5,20 +5,20 @@
       "altTexts": [
         "يجد تافي إيفو بجوار ثلاثة صناديق مغلقة وسليمة.",
         "يفتح إيفو صندوقا ليعرض الزجاج المحمي على تافي.",
-        "يعرض إيفو على تافي نسخة محفوظة من رسالة التسليم.",
-        "ينقل تافي نظره من الرسالة إلى البوابة الشرقية.",
+        "يتحدث إيفو إلى تافي بجوار صندوق الزجاج المفتوح.",
         "يواجه تافي إيفو ويداه مفتوحتان ومنخفضتان.",
-        "يدفع إيفو ثلاثة صناديق إلى المخزن ويمسك تافي بالباب.",
-        "يتوقف تافي تحت مصباح شارع في طريق البيت."
+        "يثبت تافي وإيفو ثلاثة صناديق مغلقة على العربة.",
+        "يخفض تافي مفتاح الردود التلقائية في الآلة.",
+        "تُري سيلي تافي سجل الإرسال بجوار صينية فارغة."
       ],
       "captions": [
-        "عند البوابة الشرقية، وجد تافي إيفو بجوار ثلاثة صناديق لم تمس. كان زجاج الفوانيس هنا طوال اليوم.",
-        "فتح إيفو صندوقا. كانت كل قطعة زجاج في خانة مبطنة خاصة بها. لم يحجب أحد الشحنة.",
-        "ثم عرض إيفو النسخة التي احتفظ بها من رسالة التسليم. حددت البوابة الشرقية وشرحت إغلاق المنحدر الغربي للفحص.",
-        "تذكر تافي أنه رأى الرسالة بجوار الآلة. لقد قرأ الرد بعناية أكبر من الرسالة نفسها.",
-        "اعترف تافي: «قلت إنك تمنعني من أخذ الزجاج. لم يكن ذلك صحيحا». لم يبتسم إيفو بعد.",
-        "نقلا الصناديق معا إلى المخزن الشرقي الجاف. تستطيع الشحنة الانتظار هناك بأمان حتى يستأنفا العمل.",
-        "في طريق العودة، تذكر تافي الإعلانات التسعة. كان تفسيره الخاطئ ينتظر بالفعل في البريد الصادر."
+        "عند البوابة الشرقية، وجد تافي إيفو بجوار الصناديق الثلاثة كلها.",
+        "فتح إيفو أحدها. كانت ألواح الزجاج سليمة، ومحاطة بعناية بمواد واقية لينة.",
+        "قال: «أوصلتها أمس. كنت أحتاج مساعدتك في استلامها ونقلها».",
+        "قال تافي: «أخبرتني أين هي، لكنني لم أتحقق واتهمتك. كنت مخطئًا».",
+        "طلب إيفو المساعدة في تخزين الزجاج. فأغلقا الصندوق وثبتا الصناديق الثلاثة على العربة.",
+        "بعد أن نقلاها إلى المخزن الجاف، عاد تافي إلى البيت وأوقف الردود التلقائية.",
+        "ثم أسرع إلى المركز لسحب إعلاناته. قالت سيلي إنها غادرت بالفعل."
       ],
       "introduction": "رؤية الشحنة بنفسه تهز يقين تافي، لكنها لا تمحو نتائج اختياراته.",
       "title": "ثلاثة صناديق سليمة"
@@ -27,20 +27,20 @@
       "altTexts": [
         "টাভি তিনটি অক্ষত বন্ধ বাক্সের পাশে ইভোকে দেখতে পায়।",
         "ইভো একটি বাক্স খুলে টাভিকে নরম খোপের কাচ দেখাচ্ছে।",
-        "ইভো টাভিকে রেখে দেওয়া সরবরাহের চিরকুটের কপি দেখাচ্ছে।",
-        "টাভি চিরকুট থেকে পূর্ব ফটকের দিকে তাকাচ্ছে।",
+        "খোলা কাচের বাক্সের পাশে ইভো টাভির সঙ্গে কথা বলছে।",
         "টাভি দুই হাত নিচে খোলা রেখে ইভোর মুখোমুখি আছে।",
-        "টাভি দরজা ধরে আছে, আর ইভো তিনটি বাক্স গুদামে ঠেলে নিচ্ছে।",
-        "বাড়ির পথে টাভি রাস্তার বাতির নিচে থেমেছে।"
+        "টাভি আর ইভো গাড়িতে তিনটি বন্ধ বাক্স ভালো করে বাঁধছে।",
+        "টাভি যন্ত্রের স্বয়ংক্রিয় উত্তরের সুইচ নামাচ্ছে।",
+        "ফাঁকা ট্রের পাশে সেলি টাভিকে পাঠানোর খাতা দেখাচ্ছে।"
       ],
       "captions": [
-        "পূর্ব ফটকে টাভি ইভোকে তিনটি অক্ষত, না-খোলা বাক্সের পাশে পেল। লণ্ঠনের কাচ সারা দিন এখানেই ছিল।",
-        "ইভো একটি বাক্স খুলল। প্রতিটি কাচ নিজের নরম আস্তরণ দেওয়া খোপে ছিল। কিছুই আটকে রাখা হয়নি।",
-        "তারপর ইভো সরবরাহের চিরকুটের যে কপিটি রেখে দিয়েছিল, সেটি দেখাল। তাতে পূর্ব ফটকের কথা এবং পশ্চিমের ঢালু পথ পরীক্ষার জন্য বন্ধ থাকার কারণ লেখা ছিল।",
-        "টাভির মনে পড়ল, যন্ত্রের পাশে চিরকুটটি দেখেছিল। মূল বার্তার চেয়ে উত্তরটিই সে বেশি মন দিয়ে পড়েছিল।",
-        "টাভি স্বীকার করল, “আমি বলেছিলাম তুমি কাচ দিচ্ছ না। সেটা সত্যি ছিল না।” ইভো তখনও হাসল না।",
-        "দুজন মিলে বাক্সগুলো শুকনো পূর্বের গুদামে নিল। আবার কাজ শুরু হওয়া পর্যন্ত সেগুলো সেখানে নিরাপদে থাকবে।",
-        "বাড়ি ফেরার পথে টাভির নয়টি ঘোষণার কথা মনে পড়ল। তার ভুল ব্যাখ্যা ইতিমধ্যেই পাঠানোর ডাকে অপেক্ষা করছিল।"
+        "পূর্বের ফটকে টাভি তিনটি বাক্সের সব কটির পাশে ইভোকে পেল।",
+        "ইভো একটা খুলল। কাচের পাতগুলো অক্ষত ছিল, যত্ন করে নরম সুরক্ষা-উপকরণে মোড়ানো।",
+        "সে বলল, “আমি গতকালই পৌঁছে দিয়েছি। মাল বুঝে নিয়ে সরাতে তোমার সাহায্য দরকার ছিল।”",
+        "টাভি বলল, “তুমি আমাকে বলেছিলে এগুলো কোথায় আছে। আমি যাচাই না করেই তোমাকে দোষ দিয়েছি। আমি ভুল করেছি।”",
+        "ইভো কাচ গুদামে রাখতে সাহায্য চাইল। দুজনে বাক্সটা বন্ধ করে তিনটি বাক্সই গাড়িতে বেঁধে দিল।",
+        "বাক্সগুলো শুকনো গুদামে রাখার পর টাভি বাড়ি ফিরে স্বয়ংক্রিয় উত্তর বন্ধ করল।",
+        "তারপর নিজের নোটিশগুলো ফেরত নিতে কেন্দ্রে ছুটল। সেলি বলল, সেগুলো ইতিমধ্যেই চলে গেছে।"
       ],
       "introduction": "মাল নিজে দেখে টাভির নিশ্চয়তা ভাঙে, কিন্তু তার সিদ্ধান্তের ফল মুছে যায় না।",
       "title": "তিনটি অক্ষত বাক্স"
@@ -49,20 +49,20 @@
       "altTexts": [
         "Tavi nachází Iva u tří nepoškozených zavřených beden.",
         "Ivo otevírá jednu bednu a ukazuje Tavimu bezpečně uložená skla.",
-        "Ivo ukazuje Tavimu uloženou kopii vzkazu o dodávce.",
-        "Tavi se dívá ze vzkazu k východní bráně.",
+        "Ivo mluví s Tavim vedle otevřené bedny se sklem.",
         "Tavi stojí proti Ivovi s otevřenýma, spuštěnýma rukama.",
-        "Ivo veze tři bedny do skladu a Tavi drží dveře.",
-        "Tavi se cestou domů zastavuje pod pouliční lampou."
+        "Tavi a Ivo upevňují na vozíku tři zavřené bedny.",
+        "Tavi sklápí přepínač automatických odpovědí.",
+        "Seli ukazuje Tavimu záznam o odeslání vedle prázdné přihrádky."
       ],
       "captions": [
-        "U východní brány našel Tavi Iva vedle tří nedotčených beden. Sklo do luceren tam bylo celý den.",
-        "Ivo jednu bednu otevřel. Každé sklo leželo ve vlastní vypolstrované přihrádce. Nic nezadržoval.",
-        "Potom Ivo ukázal kopii vzkazu o dodávce, kterou si uschoval. Zmiňovala východní bránu i zkušební uzávěru západní rampy.",
-        "Tavi si vzpomněl, že vzkaz viděl vedle stroje. Odpověď četl pozorněji než samotnou zprávu.",
-        "„Řekl jsem, že mi to sklo zadržuješ,“ přiznal Tavi. „Nebyla to pravda.“ Ivo se ještě neusmál.",
-        "Společně převezli bedny do suchého východního skladu. Dodávka tam mohla bezpečně počkat na obnovení práce.",
-        "Cestou domů si Tavi vzpomněl na devět oznámení. Jeho mylné vysvětlení už čekalo v odchozí poště."
+        "U východní brány našel Tavi Iva vedle všech tří beden.",
+        "Ivo jednu otevřel. Skleněné tabulky uvnitř byly nepoškozené a pečlivě vypodložené.",
+        "„Dovezl jsem je včera,“ řekl. „Potřeboval jsem, abys mi je pomohl převzít.“",
+        "„Řekl jsi mi, kde jsou,“ odpověděl Tavi. „Obvinil jsem tě, aniž jsem to ověřil. Neměl jsem pravdu.“",
+        "Ivo požádal o pomoc s uložením skla. Zavřeli bednu a všechny tři připevnili na vozík.",
+        "Po společném přesunu beden do suchého skladu šel Tavi domů a vypnul automatické odpovědi.",
+        "Pak spěchal do depa stáhnout svá oznámení. Seli mu řekla, že už byla odeslána."
       ],
       "introduction": "Pohled na skutečnou dodávku naruší Taviho jistotu, ale neodstraní následky jeho rozhodnutí.",
       "title": "Tři neporušené bedny"
@@ -71,20 +71,20 @@
       "altTexts": [
         "Tavi findet Ivo neben drei unbeschädigten, geschlossenen Kisten.",
         "Ivo öffnet eine Kiste und zeigt Tavi das gepolsterte Glas.",
-        "Ivo zeigt Tavi eine aufbewahrte Kopie der Liefernachricht.",
-        "Tavi blickt von der Nachricht zum Osttor.",
+        "Ivo spricht neben der offenen Glaskiste mit Tavi.",
         "Tavi steht Ivo mit gesenkten, offenen Händen gegenüber.",
-        "Ivo rollt drei Kisten ins Lager; Tavi hält die Tür auf.",
-        "Tavi bleibt auf dem Heimweg unter einer Straßenlaterne stehen."
+        "Tavi und Ivo befestigen drei geschlossene Kisten auf dem Wagen.",
+        "Tavi senkt den Schalter für automatische Antworten.",
+        "Seli zeigt Tavi neben einem leeren Fach das Versandprotokoll."
       ],
       "captions": [
-        "Am Osttor fand Tavi Ivo neben drei unberührten Kisten. Das Laternenglas war den ganzen Tag dort gewesen.",
-        "Ivo öffnete eine Kiste. Jedes Glasstück lag in einem eigenen gepolsterten Fach. Er hatte nichts zurückgehalten.",
-        "Dann zeigte Ivo die Kopie seiner Liefernachricht, die er aufbewahrt hatte. Sie nannte das Osttor und erklärte, dass die westliche Rampe für eine Prüfung gesperrt war.",
-        "Tavi erinnerte sich, die Nachricht neben der Maschine gesehen zu haben. Er hatte die Antwort aufmerksamer gelesen als die Mitteilung.",
-        "„Ich habe behauptet, du würdest mir das Glas vorenthalten“, gab Tavi zu. „Das war nicht wahr.“ Ivo lächelte noch nicht.",
-        "Gemeinsam brachten sie die Kisten ins trockene Ostlager. Dort konnte die Lieferung sicher warten, bis die Arbeit weiterging.",
-        "Auf dem Heimweg dachte Tavi an die neun Mitteilungen. Seine falsche Erklärung wartete bereits in der ausgehenden Post."
+        "Am Osttor fand Tavi Ivo neben allen drei Kisten.",
+        "Ivo öffnete eine davon. Die Glasscheiben waren unbeschädigt und sorgfältig gepolstert.",
+        "„Ich habe sie gestern geliefert“, sagte er. „Ich brauchte deine Hilfe bei der Annahme.“",
+        "„Du hast mir gesagt, wo sie stehen“, sagte Tavi. „Ich habe dich beschuldigt, ohne nachzusehen. Ich lag falsch.“",
+        "Ivo bat um Hilfe beim Einlagern. Sie schlossen die Kiste und schnallten alle drei auf den Wagen.",
+        "Nachdem sie die Kisten gemeinsam ins trockene Lager gebracht hatten, ging Tavi heim und schaltete automatische Antworten aus.",
+        "Dann eilte er zum Depot, um seine Bekanntmachungen zurückzuziehen. Seli sagte, sie seien bereits unterwegs."
       ],
       "introduction": "Die tatsächliche Lieferung erschüttert Tavis Gewissheit, hebt die Folgen seiner Entscheidungen aber nicht auf.",
       "title": "Drei unversehrte Kisten"
@@ -93,20 +93,20 @@
       "altTexts": [
         "Tavi finds Ivo beside three undamaged closed crates.",
         "Ivo opens one crate to show Tavi the padded glass.",
-        "Ivo shows Tavi a retained delivery-note copy.",
-        "Tavi looks from the note toward the east gate.",
+        "Ivo speaks to Tavi beside the open glass crate.",
         "Tavi faces Ivo with lowered, open hands.",
-        "Ivo rolls three crates into the store as Tavi holds the door.",
-        "Tavi pauses beneath a streetlamp on the way home."
+        "Tavi and Ivo secure three closed crates on the cart.",
+        "Tavi lowers the machine’s automatic-reply switch.",
+        "Seli shows Tavi the dispatch record beside an empty tray."
       ],
       "captions": [
-        "At the east gate, Tavi found Ivo beside three untouched crates. The lantern glass had been there all day.",
-        "Ivo opened one crate. Inside, each glass piece rested in its own padded slot. Nothing had been withheld.",
-        "Then Ivo showed the copy he had kept of his delivery note. It named the east gate and explained the western ramp’s test closure.",
-        "Tavi remembered seeing that note beside the machine. He had read the answer more carefully than the message.",
-        "“I said you were keeping the glass from me,” Tavi admitted. “That wasn’t true.” Ivo did not smile yet.",
-        "Together, they moved the crates into the dry east store. Delivery could wait there safely until work resumed.",
-        "On the way home, Tavi remembered the nine notices. His wrong explanation was already waiting in the outgoing mail."
+        "At the east gate, Tavi found Ivo beside all three crates.",
+        "Ivo opened one. Its glass panes were intact and carefully padded.",
+        "“I delivered them yesterday,” he said. “I needed you to help receive them.”",
+        "“You told me where they were,” Tavi said. “I blamed you without checking. I was wrong.”",
+        "Ivo asked for help storing the glass. They closed the crate and strapped all three to the cart.",
+        "After they moved the crates into the dry store, Tavi went home and switched off automatic replies.",
+        "Then Tavi hurried to the depot to withdraw his notices. Seli said they had already left."
       ],
       "introduction": "Seeing the delivery himself breaks Tavi’s certainty, but not the consequences of his choices.",
       "title": "Three Unbroken Crates"
@@ -115,20 +115,20 @@
       "altTexts": [
         "Tavi encuentra a Ivo junto a tres cajas cerradas y sin daños.",
         "Ivo abre una caja para mostrar a Tavi el vidrio protegido.",
-        "Ivo muestra a Tavi una copia conservada de la nota de entrega.",
-        "Tavi mira de la nota hacia la puerta este.",
+        "Ivo habla con Tavi junto a la caja abierta de vidrio.",
         "Tavi está frente a Ivo con las manos abiertas y bajas.",
-        "Ivo entra con tres cajas al almacén mientras Tavi sostiene la puerta.",
-        "Tavi se detiene bajo una farola de camino a casa."
+        "Tavi e Ivo aseguran tres cajas cerradas sobre el carro.",
+        "Tavi baja el interruptor de respuestas automáticas de la máquina.",
+        "Seli muestra a Tavi el registro de envíos junto a una bandeja vacía."
       ],
       "captions": [
-        "En la puerta este, Tavi encontró a Ivo junto a tres cajas intactas. El vidrio llevaba allí todo el día.",
-        "Ivo abrió una caja. Dentro, cada pieza descansaba en un compartimento acolchado. No había retenido nada.",
-        "Después, Ivo le enseñó la copia que había guardado de su nota de entrega. Indicaba la puerta este y explicaba el cierre de la rampa oeste para las pruebas.",
-        "Tavi recordó haber visto aquella nota junto a la máquina. Había leído la respuesta con más atención que el mensaje.",
-        "«Dije que estabas reteniendo el vidrio», admitió Tavi. «No era verdad». Ivo todavía no sonrió.",
-        "Juntos llevaron las cajas al almacén seco del este. Allí podían esperar a salvo hasta que se retomara el trabajo.",
-        "De camino a casa, Tavi recordó los nueve avisos. Su explicación equivocada ya esperaba en el correo de salida."
+        "En la puerta este, Tavi encontró a Ivo junto a las tres cajas.",
+        "Ivo abrió una. Los paneles de vidrio estaban intactos y cuidadosamente acolchados.",
+        "«Los entregué ayer», dijo. «Necesitaba que me ayudaras a recibirlos».",
+        "«Me dijiste dónde estaban», respondió Tavi. «Te culpé sin comprobarlo. Me equivoqué».",
+        "Ivo pidió ayuda para guardar el vidrio. Cerraron la caja y sujetaron las tres al carro.",
+        "Después de llevar juntos las cajas al almacén seco, Tavi volvió a casa y desactivó las respuestas automáticas.",
+        "Luego corrió al depósito para retirar sus anuncios. Seli le dijo que ya habían salido."
       ],
       "introduction": "Ver la entrega por sí mismo rompe la certeza de Tavi, pero no borra las consecuencias.",
       "title": "Tres cajas intactas"
@@ -137,20 +137,20 @@
       "altTexts": [
         "Tavi trouve Ivo près de trois caisses fermées et intactes.",
         "Ivo ouvre une caisse pour montrer à Tavi le verre protégé.",
-        "Ivo montre à Tavi une copie conservée du message de livraison.",
-        "Tavi regarde du message vers la porte est.",
+        "Ivo parle à Tavi près de la caisse de verre ouverte.",
         "Tavi fait face à Ivo, les mains ouvertes et baissées.",
-        "Ivo fait entrer trois caisses dans la réserve ; Tavi tient la porte.",
-        "Tavi s’arrête sous un réverbère en rentrant."
+        "Tavi et Ivo attachent trois caisses fermées sur le chariot.",
+        "Tavi abaisse l’interrupteur des réponses automatiques.",
+        "Seli montre à Tavi le registre d’expédition près d’un bac vide."
       ],
       "captions": [
-        "À la porte est, Tavi trouva Ivo près de trois caisses intactes. Le verre des lanternes était là depuis le matin.",
-        "Ivo ouvrit une caisse. Chaque pièce de verre reposait dans son compartiment rembourré. Il n’avait rien retenu.",
-        "Puis Ivo montra la copie de son message de livraison qu’il avait conservée. Elle indiquait la porte est et expliquait la fermeture de la rampe ouest pour les essais.",
-        "Tavi se rappela l’avoir vu près de la machine. Il avait lu la réponse plus attentivement que le message.",
-        "« J’ai dit que tu me refusais le verre », reconnut Tavi. « C’était faux. » Ivo ne sourit pas encore.",
-        "Ensemble, ils déplacèrent les caisses dans la réserve sèche de l’est. La livraison y attendrait en sécurité la reprise du travail.",
-        "Sur le chemin du retour, Tavi pensa aux neuf avis. Sa fausse explication attendait déjà dans le courrier à expédier."
+        "À la porte est, Tavi trouva Ivo près des trois caisses.",
+        "Ivo en ouvrit une. Les panneaux de verre étaient intacts et soigneusement protégés.",
+        "« Je les ai livrées hier, dit-il. J’avais besoin de ton aide pour les réceptionner. »",
+        "« Tu m’avais dit où elles étaient, répondit Tavi. Je t’ai accusé sans vérifier. J’avais tort. »",
+        "Ivo demanda de l’aide pour ranger le verre. Ils refermèrent la caisse et fixèrent les trois au chariot.",
+        "Après avoir déplacé les caisses ensemble dans la réserve sèche, Tavi rentra couper les réponses automatiques.",
+        "Puis il courut au dépôt pour retirer ses annonces. Seli lui dit qu’elles étaient déjà parties."
       ],
       "introduction": "Voir la livraison ébranle la certitude de Tavi, mais n’efface pas les conséquences de ses choix.",
       "title": "Trois caisses intactes"
@@ -159,20 +159,20 @@
       "altTexts": [
         "तावी को तीन सलामत बंद पेटियों के पास ईवो मिलता है।",
         "ईवो एक पेटी खोलकर तावी को गद्दियों में सुरक्षित काँच दिखा रहा है।",
-        "ईवो तावी को डिलीवरी वाले संदेश की संभाली हुई प्रति दिखा रहा है।",
-        "तावी संदेश से पूर्वी फाटक की ओर देख रहा है।",
+        "ईवो काँच की खुली पेटी के पास तावी से बात कर रहा है।",
         "तावी खुले, नीचे किए हाथों के साथ ईवो के सामने है।",
-        "तावी दरवाज़ा थामे है और ईवो तीन पेटियाँ भंडार में पहुँचा रहा है।",
-        "घर की राह में तावी एक सड़क-बत्ती के नीचे रुक गया है।"
+        "तावी और ईवो तीन बंद पेटियों को गाड़ी पर सुरक्षित बाँध रहे हैं।",
+        "तावी मशीन के स्वचालित जवाबों वाला स्विच नीचे कर रहा है।",
+        "सेली खाली ट्रे के पास तावी को भेजी गई डाक का रिकॉर्ड दिखा रही है।"
       ],
       "captions": [
-        "पूर्वी फाटक पर तावी को ईवो और तीन अनछुई पेटियाँ मिलीं। लालटेनों का काँच पूरे दिन यहीं था।",
-        "ईवो ने एक पेटी खोली। हर काँच अपने गद्देदार खाँचे में था। किसी ने कुछ रोका नहीं था।",
-        "फिर ईवो ने डिलीवरी के संदेश की वह प्रति दिखाई जो उसने सँभालकर रखी थी। उसमें पूर्वी फाटक का नाम और जाँच के लिए पश्चिमी रैंप बंद होने की बात लिखी थी।",
-        "तावी को याद आया कि वह पर्चा मशीन के पास था। उसने संदेश से ज्यादा ध्यान देकर जवाब पढ़ा था।",
-        "तावी ने माना, “मैंने कहा कि तुम मुझे काँच नहीं दे रहे। वह सच नहीं था।” ईवो अभी मुस्कराया नहीं।",
-        "दोनों ने पेटियाँ सूखे पूर्वी भंडार में पहुँचाईं। काम फिर शुरू होने तक सामान वहाँ सुरक्षित रह सकता था।",
-        "घर जाते हुए तावी को नौ घोषणाएँ याद आईं। उसकी गलत सफाई बाहर जाने वाली डाक में पहले से रखी थी।"
+        "पूर्वी फाटक पर तावी को तीनों पेटियों के पास ईवो मिला।",
+        "ईवो ने एक पेटी खोली। काँच की पट्टियाँ सही-सलामत थीं और नरम सुरक्षा सामग्री में सावधानी से रखी थीं।",
+        "उसने कहा, “मैं इन्हें कल ही पहुँचा चुका था। इन्हें लेने और आगे ले जाने में तुम्हारी मदद चाहिए थी।”",
+        "तावी ने कहा, “तुमने बताया था कि ये कहाँ हैं। मैंने बिना जाँचे तुम्हें दोष दिया। मैं गलत था।”",
+        "ईवो ने काँच को गोदाम में रखने में मदद माँगी। दोनों ने पेटी बंद की और तीनों पेटियों को गाड़ी पर बाँध दिया।",
+        "दोनों ने पेटियाँ सूखे गोदाम में पहुँचा दीं। फिर तावी घर गया और अपने-आप जवाब भेजना बंद कर दिया।",
+        "इसके बाद वह अपनी सूचनाएँ वापस लेने के लिए केंद्र की ओर भागा। सेली ने कहा कि वे पहले ही निकल चुकी थीं।"
       ],
       "introduction": "अपनी आँखों से सामान देखकर तावी का भरोसा टूटता है, मगर उसके फैसलों के परिणाम नहीं मिटते।",
       "title": "तीन सलामत पेटियाँ"
@@ -181,20 +181,20 @@
       "altTexts": [
         "Tavi menemukan Ivo bersama tiga peti tertutup tanpa kerusakan.",
         "Ivo membuka peti dan menunjukkan kaca yang terlindung kepada Tavi.",
-        "Ivo menunjukkan salinan pesan pengiriman yang disimpan kepada Tavi.",
-        "Tavi memandang dari pesan ke gerbang timur.",
+        "Ivo berbicara kepada Tavi di samping peti kaca yang terbuka.",
         "Tavi menghadap Ivo dengan tangan terbuka dan diturunkan.",
-        "Ivo mendorong tiga peti ke gudang sementara Tavi menahan pintu.",
-        "Tavi berhenti di bawah lampu jalan saat pulang."
+        "Tavi dan Ivo mengikat tiga peti tertutup pada gerobak.",
+        "Tavi menurunkan sakelar balasan otomatis mesin.",
+        "Seli menunjukkan catatan pengiriman kepada Tavi di samping baki kosong."
       ],
       "captions": [
-        "Di gerbang timur, Tavi menemukan Ivo di samping tiga peti yang belum tersentuh. Kaca lentera sudah berada di sana sepanjang hari.",
-        "Ivo membuka satu peti. Setiap keping kaca terletak di ruang berlapis bantalan. Tidak ada yang sengaja ditahan.",
-        "Lalu Ivo menunjukkan salinan pesan pengiriman yang ia simpan. Pesan itu menyebut gerbang timur dan menjelaskan penutupan jalur landai barat untuk pengujian.",
-        "Tavi ingat melihat pesan itu di samping mesin. Ia membaca balasannya lebih teliti daripada pesan yang masuk.",
-        "“Aku bilang kamu sengaja menahan kaca dariku,” aku Tavi. “Itu tidak benar.” Ivo belum tersenyum.",
-        "Bersama-sama, mereka memindahkan peti ke gudang timur yang kering. Kiriman itu bisa menunggu dengan aman sampai pekerjaan dimulai lagi.",
-        "Di perjalanan pulang, Tavi teringat sembilan pengumuman. Penjelasannya yang salah sudah menunggu di kiriman keluar."
+        "Di gerbang timur, Tavi menemukan Ivo di samping ketiga peti.",
+        "Ivo membuka satu peti. Panel-panel kaca di dalamnya utuh dan diberi bantalan dengan teliti.",
+        "“Aku mengantarnya kemarin,” kata Ivo. “Aku memerlukan bantuanmu untuk menerimanya.”",
+        "“Kamu sudah memberi tahu letaknya,” kata Tavi. “Aku menyalahkanmu tanpa memeriksa. Aku keliru.”",
+        "Ivo meminta bantuan menyimpan kaca. Mereka menutup peti itu dan mengikat ketiganya ke gerobak.",
+        "Setelah bersama-sama memindahkan peti ke gudang kering, Tavi pulang dan mematikan balasan otomatis.",
+        "Lalu ia bergegas ke depo untuk menarik pengumumannya. Seli mengatakan bahwa pengumuman itu sudah dikirim."
       ],
       "introduction": "Melihat kiriman sendiri menggoyahkan keyakinan Tavi, tetapi tidak menghapus akibat pilihannya.",
       "title": "Tiga Peti Utuh"
@@ -203,20 +203,20 @@
       "altTexts": [
         "Tavi trova Ivo accanto a tre casse chiuse e senza danni.",
         "Ivo apre una cassa e mostra a Tavi i vetri protetti.",
-        "Ivo mostra a Tavi una copia conservata del messaggio di consegna.",
-        "Tavi guarda dal messaggio verso la porta est.",
+        "Ivo parla con Tavi accanto alla cassa di vetro aperta.",
         "Tavi è di fronte a Ivo con le mani aperte e abbassate.",
-        "Ivo spinge tre casse nel magazzino mentre Tavi tiene la porta.",
-        "Tavi si ferma sotto un lampione sulla via di casa."
+        "Tavi e Ivo fissano tre casse chiuse sul carretto.",
+        "Tavi abbassa l’interruttore delle risposte automatiche.",
+        "Seli mostra a Tavi il registro delle spedizioni accanto a un vassoio vuoto."
       ],
       "captions": [
-        "Alla porta est, Tavi trovò Ivo accanto a tre casse intatte. I vetri per le lanterne erano lì da tutto il giorno.",
-        "Ivo aprì una cassa. Ogni vetro riposava nel proprio scomparto imbottito. Non aveva trattenuto niente.",
-        "Poi Ivo mostrò la copia che aveva conservato del messaggio sulla consegna. Indicava la porta est e spiegava la chiusura della rampa ovest per le prove.",
-        "Tavi ricordò di averlo visto accanto alla macchina. Aveva letto la risposta con più attenzione del messaggio.",
-        "«Ho detto che mi stavi negando i vetri», ammise Tavi. «Non era vero». Ivo non sorrise ancora.",
-        "Insieme portarono le casse nel magazzino asciutto a est. La consegna poteva aspettare al sicuro finché il lavoro non fosse ripreso.",
-        "Sulla via di casa, Tavi ricordò i nove avvisi. La sua spiegazione sbagliata era già in attesa nella posta in partenza."
+        "Al cancello est, Tavi trovò Ivo accanto a tutte e tre le casse.",
+        "Ivo ne aprì una. I pannelli di vetro erano intatti e ben protetti dall’imbottitura.",
+        "«Le ho consegnate ieri», disse. «Mi serviva il tuo aiuto per riceverle».",
+        "«Mi avevi detto dove si trovavano», rispose Tavi. «Ti ho accusato senza controllare. Avevo torto».",
+        "Ivo chiese aiuto per riporre il vetro. Chiusero la cassa e fissarono tutte e tre al carretto.",
+        "Dopo aver portato insieme le casse nel magazzino asciutto, Tavi tornò a casa e disattivò le risposte automatiche.",
+        "Poi corse al deposito per ritirare i suoi annunci. Seli gli disse che erano già partiti."
       ],
       "introduction": "Vedere la consegna incrina la certezza di Tavi, senza cancellare le conseguenze delle sue scelte.",
       "title": "Tre casse intatte"
@@ -225,20 +225,20 @@
       "altTexts": [
         "タヴィが、無傷の閉じた三箱のそばにいるイヴォを見つけます。",
         "イヴォが一箱を開け、保護されたガラスをタヴィに見せています。",
-        "イヴォが残していた配達メモの控えをタヴィに見せています。",
-        "タヴィがメモから東門へ視線を移しています。",
+        "イヴォがガラスの入った開いた木箱のそばでタヴィと話しています。",
         "タヴィが両手を下げて開き、イヴォと向き合っています。",
-        "タヴィが扉を押さえ、イヴォが三箱を倉庫へ運び入れています。",
-        "帰り道の街灯の下で、タヴィが立ち止まっています。"
+        "タヴィとイヴォが、閉じた三つの木箱を荷車に固定しています。",
+        "タヴィが機械の自動返信スイッチを下げています。",
+        "セリが空のトレーのそばで、タヴィに発送記録を見せています。"
       ],
       "captions": [
-        "東門には、イヴォと手つかずの三箱がありました。ランタンのガラスは、一日中ここにあったのです。",
-        "イヴォは一箱を開けました。ガラスは一枚ずつ、クッションのある仕切りに収まっています。隠されてはいませんでした。",
-        "次にイヴォは、手元に残していた配達メモの控えを見せました。配達先は東門で、西のスロープは検査のため閉鎖中だと書いてありました。",
-        "タヴィは、機械のそばでそのメモを見たことを思い出しました。元の連絡よりも、返信のほうをよく読んでいたのです。",
-        "「君がガラスを渡さないと言ったけれど、違った」。タヴィは認めました。イヴォはまだ笑いませんでした。",
-        "二人で箱を乾いた東倉庫へ運びました。作業が再開するまで、荷物はそこで安全に待てます。",
-        "帰り道、タヴィは九枚のお知らせを思い出しました。間違った説明は、もう発送を待っているのです。"
+        "東の門で、タヴィは三箱全部のそばにいるイヴォを見つけた。",
+        "イヴォが一箱を開けた。ガラス板は丁寧に緩衝材で守られ、割れていなかった。",
+        "「昨日、届けたんだ」とイヴォは言った。「受け取って運ぶのを手伝ってほしかった」",
+        "「どこにあるか教えてくれていたんだね」とタヴィは言った。「確かめずに責めた。僕が間違っていた」",
+        "イヴォはガラスの保管を手伝ってほしいと言った。二人は箱を閉じ、三箱全部を荷車に固定した。",
+        "一緒に乾いた倉庫へ箱を運んだ後、タヴィは帰宅して自動返信を切った。",
+        "それから、お知らせを取り下げるため集配所へ急いだ。セリは、もう発送されたと伝えた。"
       ],
       "introduction": "実物を見てタヴィの思い込みは崩れますが、行動の結果は残ります。",
       "title": "無事だった三つの箱"
@@ -247,20 +247,20 @@
       "altTexts": [
         "타비가 손상 없이 닫힌 세 상자 옆의 이보를 발견해요.",
         "이보가 상자 하나를 열어 보호된 유리를 타비에게 보여 줘요.",
-        "이보가 보관해 둔 배달 안내 사본을 타비에게 보여 줘요.",
-        "타비가 쪽지에서 동문으로 시선을 옮겨요.",
+        "이보가 유리가 든 열린 상자 옆에서 타비에게 말하고 있어요.",
         "타비가 두 손을 펴 내린 채 이보와 마주 서 있어요.",
-        "타비가 문을 잡고, 이보가 세 상자를 창고로 밀어 넣어요.",
-        "타비가 집으로 가다가 가로등 아래에서 멈춰요."
+        "타비와 이보가 닫힌 상자 세 개를 수레에 단단히 고정하고 있어요.",
+        "타비가 기계의 자동 답장 스위치를 내리고 있어요.",
+        "셀리가 빈 발송함 옆에서 타비에게 발송 기록을 보여 줘요."
       ],
       "captions": [
-        "동문에서 타비는 이보와 손대지 않은 세 상자를 만났어요. 등불 유리는 하루 종일 그곳에 있었어요.",
-        "이보가 한 상자를 열었어요. 유리는 저마다 푹신한 칸에 안전하게 놓여 있었어요. 숨겨 둔 물건은 없었어요.",
-        "그러고는 이보가 보관해 둔 배달 안내 쪽지의 사본을 꺼냈어요. 배달 장소가 동문이며 서쪽 경사로는 점검 때문에 닫혔다고 적혀 있었어요.",
-        "타비는 그 쪽지를 기계 옆에서 본 기억이 났어요. 원래 메시지보다 답장을 더 주의 깊게 읽었던 거예요.",
-        "“네가 유리를 안 준다고 말했어. 사실이 아니었는데.” 타비가 인정했어요. 이보는 아직 웃지 않았어요.",
-        "둘은 함께 상자를 마른 동쪽 창고로 옮겼어요. 작업이 다시 시작될 때까지 안전하게 둘 수 있었어요.",
-        "집에 가는 길에 타비는 아홉 공지문을 떠올렸어요. 잘못된 설명은 이미 발송 대기 우편물 속에 있었어요."
+        "동쪽 입구에서 타비는 세 상자를 모두 지키고 있는 이보를 만났다.",
+        "이보가 한 상자를 열었다. 유리판들은 푹신한 포장재에 잘 싸여 있었고 깨진 곳이 없었다.",
+        "“어제 배달했어.” 이보가 말했다. “받아서 옮기는 걸 네가 도와줘야 했어.”",
+        "“어디 있는지 알려 줬는데도 내가 확인하지 않고 널 탓했어.” 타비가 말했다. “내가 잘못했어.”",
+        "이보는 유리를 보관하는 일을 도와 달라고 했다. 둘은 상자를 닫고 세 상자를 모두 수레에 묶었다.",
+        "유리를 마른 창고로 옮긴 뒤, 타비는 집으로 돌아가 자동 답장 스위치를 껐다.",
+        "그리고 안내문 발송을 취소하려고 배달소로 급히 갔다. 셀리는 안내문이 이미 발송되었다고 말했다."
       ],
       "introduction": "배달 물건을 직접 본 타비의 확신은 무너지지만, 행동의 결과는 남습니다.",
       "title": "멀쩡한 세 상자"
@@ -269,20 +269,20 @@
       "altTexts": [
         "Tavi znajduje Iva obok trzech zamkniętych, nieuszkodzonych skrzyń.",
         "Ivo otwiera skrzynię i pokazuje Taviemu zabezpieczone szkło.",
-        "Ivo pokazuje Taviemu zachowaną kopię wiadomości o dostawie.",
-        "Tavi przenosi wzrok z wiadomości na wschodnią bramę.",
+        "Ivo rozmawia z Tavim przy otwartej skrzyni ze szkłem.",
         "Tavi stoi naprzeciw Iva z opuszczonymi, otwartymi dłońmi.",
-        "Ivo wtacza trzy skrzynie do magazynu, a Tavi trzyma drzwi.",
-        "Tavi zatrzymuje się pod uliczną latarnią w drodze do domu."
+        "Tavi i Ivo mocują na wózku trzy zamknięte skrzynie.",
+        "Tavi opuszcza przełącznik automatycznych odpowiedzi.",
+        "Seli pokazuje Taviemu rejestr wysyłek obok pustej tacki."
       ],
       "captions": [
-        "Przy wschodniej bramie Tavi znalazł Iva obok trzech nietkniętych skrzyń. Szkło do lampionów było tam cały dzień.",
-        "Ivo otworzył jedną skrzynię. Każda tafla leżała we własnej wyściełanej przegródce. Niczego nie zatrzymał dla siebie.",
-        "Potem Ivo pokazał zachowaną kopię swojej wiadomości o dostawie. Wskazywała wschodnią bramę i wyjaśniała zamknięcie zachodniej rampy na czas prób.",
-        "Tavi przypomniał sobie, że widział tę wiadomość obok maszyny. Odpowiedź przeczytał uważniej niż samą informację.",
-        "„Powiedziałem, że nie chcesz oddać mi szkła”, przyznał Tavi. „To nieprawda”. Ivo jeszcze się nie uśmiechnął.",
-        "Razem przewieźli skrzynie do suchego wschodniego magazynu. Dostawa mogła tam bezpiecznie poczekać na wznowienie pracy.",
-        "W drodze do domu Tavi przypomniał sobie o dziewięciu ogłoszeniach. Jego błędne wyjaśnienie czekało już w poczcie wychodzącej."
+        "Przy wschodniej bramie Tavi znalazł Iva obok wszystkich trzech skrzyń.",
+        "Ivo otworzył jedną. Szybki były całe, starannie zabezpieczone miękką wyściółką.",
+        "„Przywiozłem je wczoraj” — powiedział. „Potrzebowałem twojej pomocy przy odbiorze”.",
+        "„Powiedziałeś mi, gdzie są” — przyznał Tavi. „Obwiniłem cię bez sprawdzenia. Myliłem się”.",
+        "Ivo poprosił o pomoc w przechowaniu szkła. Zamknęli skrzynię i przypięli wszystkie trzy do wózka.",
+        "Po wspólnym przewiezieniu skrzyń do suchego magazynu Tavi wrócił do domu i wyłączył automatyczne odpowiedzi.",
+        "Potem pospieszył do punktu miejskiego, by wycofać ogłoszenia. Seli powiedziała, że już je wysłano."
       ],
       "introduction": "Widok dostawy podważa pewność Taviego, ale nie usuwa skutków jego decyzji.",
       "title": "Trzy całe skrzynie"
@@ -291,20 +291,20 @@
       "altTexts": [
         "Tavi encontra Ivo perto de três caixotes fechados e sem danos.",
         "Ivo abre um caixote para mostrar a Tavi os vidros protegidos.",
-        "Ivo mostra a Tavi uma cópia guardada do bilhete de entrega.",
-        "Tavi olha do bilhete para o portão leste.",
+        "Ivo fala com Tavi ao lado da caixa de vidro aberta.",
         "Tavi está diante de Ivo com as mãos abertas e abaixadas.",
-        "Ivo leva três caixotes para o depósito enquanto Tavi segura a porta.",
-        "Tavi para sob uma luminária de rua no caminho de casa."
+        "Tavi e Ivo prendem três caixas fechadas no carrinho.",
+        "Tavi abaixa o interruptor de respostas automáticas da máquina.",
+        "Seli mostra a Tavi o registro de envios ao lado de uma bandeja vazia."
       ],
       "captions": [
-        "No portão leste, Tavi encontrou Ivo junto de três caixotes intactos. Os vidros das lanternas tinham passado o dia inteiro ali.",
-        "Ivo abriu um caixote. Cada peça de vidro descansava em um compartimento acolchoado. Nada havia sido retido.",
-        "Então Ivo mostrou a cópia que havia guardado do bilhete sobre a entrega. Ela indicava o portão leste e explicava o fechamento da rampa oeste para testes.",
-        "Tavi lembrou de ter visto aquele bilhete perto da máquina. Havia lido a resposta com mais atenção que a mensagem.",
-        "“Eu disse que você estava retendo os vidros”, admitiu Tavi. “Não era verdade.” Ivo ainda não sorriu.",
-        "Juntos levaram os caixotes ao depósito seco do leste. A entrega podia esperar em segurança até o trabalho recomeçar.",
-        "No caminho de casa, Tavi lembrou dos nove avisos. Sua explicação errada já aguardava no correio de saída."
+        "No portão leste, Tavi encontrou Ivo ao lado dos três caixotes.",
+        "Ivo abriu um deles. As placas de vidro estavam intactas e cuidadosamente protegidas.",
+        "“Eu entreguei ontem”, disse ele. “Precisava da sua ajuda para receber os caixotes.”",
+        "“Você me disse onde estavam”, respondeu Tavi. “Eu culpei você sem conferir. Estava errado.”",
+        "Ivo pediu ajuda para guardar o vidro. Fecharam o caixote e prenderam os três ao carrinho.",
+        "Depois de levarem juntos os caixotes ao armazém seco, Tavi foi para casa e desligou as respostas automáticas.",
+        "Em seguida, correu ao depósito para retirar seus comunicados. Seli disse que eles já tinham partido."
       ],
       "introduction": "Ver a entrega pessoalmente abala a certeza de Tavi, mas não apaga as consequências de suas escolhas.",
       "title": "Três caixotes intactos"
@@ -313,20 +313,20 @@
       "altTexts": [
         "Тави находит Иво возле трёх неповреждённых закрытых ящиков.",
         "Иво открывает ящик и показывает Тави защищённые стёкла.",
-        "Иво показывает Тави сохранённую копию записки о доставке.",
-        "Тави переводит взгляд с записки на восточные ворота.",
+        "Иво разговаривает с Тави рядом с открытым ящиком со стеклом.",
         "Тави стоит перед Иво с опущенными открытыми руками.",
-        "Иво катит три ящика на склад; Тави держит дверь.",
-        "Тави останавливается под уличным фонарём по дороге домой."
+        "Тави и Иво закрепляют на тележке три закрытых ящика.",
+        "Тави опускает переключатель автоматических ответов.",
+        "Сели показывает Тави журнал отправки рядом с пустым лотком."
       ],
       "captions": [
-        "У восточных ворот Тави нашёл Иво и три нетронутых ящика. Стекло для фонарей стояло здесь весь день.",
-        "Иво открыл один ящик. Каждое стекло лежало в своей мягкой ячейке. Никто ничего не утаивал.",
-        "Затем Иво показал сохранённую копию записки о доставке. В ней были указаны восточные ворота и объяснялось, что западный пандус закрыт на время проверки.",
-        "Тави вспомнил эту записку возле машины. Ответ он прочёл внимательнее, чем само сообщение.",
-        "«Я сказал, что ты не отдаёшь мне стекло, — признал Тави. — Это неправда». Иво пока не улыбнулся.",
-        "Вместе они отвезли ящики в сухой восточный склад. Там груз мог безопасно дождаться возобновления работы.",
-        "По дороге домой Тави вспомнил о девяти объявлениях. Его неверное объяснение уже ждало отправки."
+        "У восточных ворот Тави нашёл Иво рядом со всеми тремя ящиками.",
+        "Иво открыл один. Стеклянные панели были целыми и тщательно защищёнными мягкой прокладкой.",
+        "«Я привёз их вчера, — сказал он. — Мне нужна была твоя помощь при получении».",
+        "«Ты сказал мне, где они, — признал Тави. — Я обвинил тебя, не проверив. Я был неправ».",
+        "Иво попросил помочь убрать стекло на хранение. Они закрыли ящик и закрепили все три на тележке.",
+        "Вместе отвезя ящики в сухой склад, Тави вернулся домой и выключил автоматические ответы.",
+        "Затем он поспешил в депо, чтобы отозвать объявления. Сели сказала, что их уже отправили."
       ],
       "introduction": "Тави видит груз своими глазами и теряет прежнюю уверенность, но последствия остаются.",
       "title": "Три целых ящика"
@@ -335,20 +335,20 @@
       "altTexts": [
         "Tavi, Ivo’yu hasarsız üç kapalı sandığın yanında buluyor.",
         "Ivo, Tavi’ye korunan camları göstermek için bir sandık açıyor.",
-        "Ivo, Tavi’ye sakladığı teslimat notunun kopyasını gösteriyor.",
-        "Tavi, nottan doğu kapısına bakıyor.",
+        "Ivo, açık cam sandığının yanında Tavi’yle konuşuyor.",
         "Tavi, Ivo’nun karşısında elleri açık ve aşağıda duruyor.",
-        "Ivo üç sandığı depoya sürerken Tavi kapıyı tutuyor.",
-        "Tavi, eve dönerken sokak lambasının altında duruyor."
+        "Tavi ve Ivo, üç kapalı sandığı arabaya sabitliyor.",
+        "Tavi, makinenin otomatik yanıt anahtarını indiriyor.",
+        "Seli, boş tepsinin yanında Tavi’ye gönderi kaydını gösteriyor."
       ],
       "captions": [
-        "Doğu kapısında Tavi, Ivo’yu üç el değmemiş sandığın yanında buldu. Fener camları bütün gün oradaydı.",
-        "Ivo bir sandığı açtı. Her cam parçası kendi yastıklı bölmesindeydi. Hiçbirini saklamamıştı.",
-        "Sonra Ivo, teslimat notunun sakladığı kopyasını gösterdi. Not, doğu kapısını belirtiyor ve batı rampasının deneme için kapatıldığını açıklıyordu.",
-        "Tavi bu notu makinenin yanında gördüğünü hatırladı. Yanıtı, gelen mesajdan daha dikkatli okumuştu.",
-        "“Camları benden esirgediğini söyledim,” diye itiraf etti Tavi. “Bu doğru değildi.” Ivo henüz gülümsemedi.",
-        "Birlikte sandıkları doğudaki kuru depoya taşıdılar. İşler yeniden başlayana kadar teslimat orada güvenle bekleyebilirdi.",
-        "Eve dönerken Tavi dokuz duyuruyu hatırladı. Yanlış açıklaması çoktan giden postanın arasındaydı."
+        "Tavi doğu kapısında Ivo’yu üç sandığın da yanında buldu.",
+        "Ivo sandıklardan birini açtı. Cam levhalar sağlamdı ve dikkatle yastıklanmıştı.",
+        "“Dün teslim ettim,” dedi. “Teslim almak için yardımına ihtiyacım vardı.”",
+        "“Nerede olduklarını söylemiştin,” dedi Tavi. “Kontrol etmeden seni suçladım. Yanılmışım.”",
+        "Ivo camları depolamak için yardım istedi. Sandığı kapatıp üçünü de arabaya bağladılar.",
+        "Sandıkları birlikte kuru depoya taşıdıktan sonra Tavi eve gidip otomatik yanıtları kapattı.",
+        "Sonra duyurularını geri çekmek için depoya koştu. Seli çoktan yola çıktıklarını söyledi."
       ],
       "introduction": "Teslimatı kendi gözleriyle görmek Tavi’nin kesinliğini sarsar, ancak yaptıklarının sonuçlarını silmez.",
       "title": "Üç Sağlam Sandık"
@@ -357,20 +357,20 @@
       "altTexts": [
         "Tavi gặp Ivo cạnh ba thùng đóng kín, không hư hại.",
         "Ivo mở một thùng cho Tavi xem kính được lót đệm.",
-        "Ivo cho Tavi xem bản lưu lời nhắn giao hàng.",
-        "Tavi nhìn từ lời nhắn sang cổng đông.",
+        "Ivo nói chuyện với Tavi cạnh thùng kính đang mở.",
         "Tavi đứng trước Ivo với hai tay mở và hạ thấp.",
-        "Ivo đẩy ba thùng vào kho, còn Tavi giữ cửa.",
-        "Tavi dừng dưới đèn đường trên đường về nhà."
+        "Tavi và Ivo buộc chắc ba thùng đã đóng trên xe đẩy.",
+        "Tavi hạ công tắc trả lời tự động của máy.",
+        "Seli cho Tavi xem sổ gửi thư bên cạnh một khay trống."
       ],
       "captions": [
-        "Ở cổng đông, Tavi tìm thấy Ivo cạnh ba thùng chưa bị đụng đến. Kính đèn lồng đã ở đó suốt cả ngày.",
-        "Ivo mở một thùng. Mỗi miếng kính nằm trong một ngăn có đệm riêng. Không có gì bị cố tình giữ lại.",
-        "Rồi Ivo cho xem bản sao lời nhắn giao hàng mà cậu đã giữ lại. Nó ghi rõ cổng đông và giải thích việc đóng đường dốc phía tây để kiểm tra.",
-        "Tavi nhớ đã thấy lời nhắn ấy cạnh máy. Cậu đọc câu trả lời kỹ hơn cả thư gửi đến.",
-        "“Mình đã nói cậu cố giữ kính không đưa cho mình,” Tavi thừa nhận. “Điều đó không đúng.” Ivo chưa mỉm cười.",
-        "Họ cùng chuyển các thùng vào kho khô phía đông. Hàng có thể chờ an toàn ở đó đến khi công việc tiếp tục.",
-        "Trên đường về, Tavi nhớ đến chín bản thông báo. Lời giải thích sai của cậu đã chờ sẵn trong khay thư đi."
+        "Tại cổng đông, Tavi gặp Ivo bên cả ba thùng hàng.",
+        "Ivo mở một thùng. Những tấm kính còn nguyên và được chèn đệm cẩn thận.",
+        "“Tôi đã giao từ hôm qua,” anh nói. “Tôi cần bạn giúp nhận hàng.”",
+        "“Bạn đã nói chúng ở đâu,” Tavi đáp. “Tôi đổ lỗi cho bạn mà không kiểm tra. Tôi đã sai.”",
+        "Ivo nhờ giúp cất kính. Họ đóng thùng lại rồi buộc cả ba thùng lên xe đẩy.",
+        "Sau khi cùng đưa các thùng vào kho khô ráo, Tavi về nhà và tắt trả lời tự động.",
+        "Rồi anh vội đến trạm để rút thông báo. Seli nói chúng đã được gửi đi."
       ],
       "introduction": "Tận mắt thấy hàng giao khiến Tavi bớt chắc chắn, nhưng hậu quả các lựa chọn vẫn còn.",
       "title": "Ba thùng nguyên vẹn"
@@ -379,20 +379,20 @@
       "altTexts": [
         "塔维看见伊沃站在三个没有损坏的封闭箱子旁。",
         "伊沃打开一个箱子，向塔维展示有软垫保护的玻璃。",
-        "伊沃向塔维展示保留的送货说明副本。",
-        "塔维从纸条转头望向东门。",
+        "伊沃在打开的玻璃箱旁与塔维说话。",
         "塔维放低摊开的双手，面对伊沃。",
-        "伊沃把三个箱子推进仓库，塔维扶着门。",
-        "塔维在回家路上的一盏路灯下停住。"
+        "塔维和伊沃把三个关好的箱子固定在推车上。",
+        "塔维按下机器的自动回复开关。",
+        "塞莉在空托盘旁向塔维展示寄送记录。"
       ],
       "captions": [
-        "在东门，塔维找到了伊沃和三个原封未动的箱子。灯笼玻璃一整天都在这里。",
-        "伊沃打开一个箱子。每块玻璃都安稳地放在有软垫的格槽里。没有人把它们扣下。",
-        "随后，伊沃出示了自己保留的送货纸条副本。上面写明了东门，也解释了西侧坡道因检测而暂时关闭。",
-        "塔维记得自己在机器旁见过那张纸条。他读回复时，比读原来的消息认真得多。",
-        "“我说你不肯把玻璃给我，”塔维承认，“那不是真的。”伊沃暂时还没有露出笑容。",
-        "他们一起把箱子移进干燥的东仓库。货物可以安全地留在那里，等工作重新开始。",
-        "回家途中，塔维想起那九份公告。他错误的解释已经在待寄邮件中等着出发了。"
+        "在东门，塔维看见伊沃站在全部三只箱子旁。",
+        "伊沃打开其中一箱。里面的玻璃片完好无损，周围垫得很仔细。",
+        "“我昨天就送到了，”他说，“我需要你帮忙接收和搬运。”",
+        "“你已经告诉我它们在哪里，”塔维说，“我没核实就怪你。我错了。”",
+        "伊沃请他帮忙储存玻璃。他们合上箱子，把三箱都绑到手推车上。",
+        "两人一起把箱子运进干燥的仓库后，塔维回家关掉了自动回复。",
+        "然后，他赶到服务站，想撤回告示。塞莉告诉他，告示已经寄走了。"
       ],
       "introduction": "亲眼看见货物动摇了塔维的确信，却没有抹去他造成的后果。",
       "title": "三个完好的箱子"
@@ -409,23 +409,23 @@
       "image": "N03E10P02.png"
     },
     {
-      "altText": "Ivo shows Tavi a retained delivery-note copy.",
+      "altText": "Ivo speaks to Tavi beside the open glass crate.",
       "image": "N03E10P03.png"
     },
     {
-      "altText": "Tavi looks from the note toward the east gate.",
+      "altText": "Tavi faces Ivo with lowered, open hands.",
       "image": "N03E10P04.png"
     },
     {
-      "altText": "Tavi faces Ivo with lowered, open hands.",
+      "altText": "Tavi and Ivo secure three closed crates on the cart.",
       "image": "N03E10P05.png"
     },
     {
-      "altText": "Ivo rolls three crates into the store as Tavi holds the door.",
+      "altText": "Tavi lowers the machine’s automatic-reply switch.",
       "image": "N03E10P06.png"
     },
     {
-      "altText": "Tavi pauses beneath a streetlamp on the way home.",
+      "altText": "Seli shows Tavi the dispatch record beside an empty tray.",
       "image": "N03E10P07.png"
     }
   ],

@@ -3,396 +3,396 @@
   "localizations": {
     "ar": {
       "altTexts": [
-        "يواجه تافي نيري عبر بساط العرض الفارغ.",
+        "يحضر تافي أوراقه إلى كشك نيري.",
         "تستمع نيري وكفاها مفتوحتان على المنضدة.",
-        "تشير نيري إلى الطريق الشرقي بينما يشيح تافي بنظره.",
-        "تضع نيري بطاقتين فارغتين منفصلتين على المنضدة.",
+        "يسلم تافي ملاحظة إيفو الأصلية إلى نيري.",
+        "تشير نيري إلى ملاحظة إيفو بينما ينظر تافي.",
+        "يهز تافي رأسه نفيا بينما تستمع نيري.",
         "تزيل نيري إكليل غار نحاسيا من منصة العرض.",
-        "يتسلم تافي بطاقة موعد صغيرة من نيري.",
-        "يمشي تافي شرقا وبطاقة الموعد في جرابه."
+        "تضع نيري منصة العرض جانبا بينما يغادر تافي حاملا الملاحظة."
       ],
       "captions": [
-        "قبل العودة إلى البيت، رجع تافي إلى كشك نيري. قال: «آلتك تجعل التعامل مع الجميع أصعب».",
-        "استمعت نيري من دون البحث عن رد جاهز. «ما الذي أرسلته الآلة بالضبط؟» سألت.",
-        "ردد تافي اتهامه بشأن الزجاج. سألته نيري إن كان قد زار البوابة الشرقية. لم يفعل.",
-        "قالت نيري: «تحول شكواك إلى أقوى حجة لصالحك. لكنها لا تبحث عما حدث».",
-        "نظرت إلى منصة العرض اللامعة. «جعلتها تبدو أحكم مما هي عليه. وهذا يحتاج إلى تغيير أيضا».",
-        "عرضت نيري أن يختبرا الآلة معا غدا. لكن أولا، كان على تافي أن يرى الشحنة الحقيقية.",
-        "مع إغلاق أكشاك السوق، انعطف تافي شرقا. هذه المرة، اتجه نحو الشخص، لا نحو جواب آخر."
+        "بعد أن غادر المركز، عاد تافي إلى بسطة نيري حاملًا أوراقه.",
+        "سأل: «لماذا لا يفهمني أحد؟» فطلبت نيري أن ترى رسالة إيفو الأصلية.",
+        "كان تافي قد أخرجها من جيب إعادة الأوراق في الآلة. فناولها إياها.",
+        "قالت نيري: «مكتوب هنا: البوابة الشرقية. هل ذهبت إليها؟»",
+        "هز تافي رأسه نافيًا. لم يتحقق إلا من المكان الذي توقعه.",
+        "نظرت نيري إلى واجهة العرض. وقالت: «جعل إعلاني هذه الآلة تبدو أحكم مما هي عليه».",
+        "أزالت مادة العرض الإعلانية. وأخذ تافي رسالة إيفو ومشى نحو البوابة الشرقية."
       ],
       "introduction": "تشرح نيري حدود الآلة وتعترف بأن طريقة عرضها كانت مضللة أيضا.",
       "title": "السؤال الغائب"
     },
     "bn": {
       "altTexts": [
-        "টাভি খালি প্রদর্শন-মাদুরের ওপারে নেরির মুখোমুখি দাঁড়িয়ে আছে।",
+        "টাভি তার কাগজপত্র নেরির দোকানে নিয়ে আসছে।",
         "নেরি কাউন্টারে দুই হাত খোলা রেখে শুনছে।",
-        "নেরি পূর্বের পথ দেখাচ্ছে, টাভি চোখ সরিয়ে নিচ্ছে।",
-        "নেরি কাউন্টারে দুটি আলাদা খালি কার্ড রাখছে।",
+        "টাভি ইভোর প্রথম চিরকুটটি নেরির হাতে দিচ্ছে।",
+        "নেরি ইভোর চিরকুটটি দেখাচ্ছে, আর টাভি তাকিয়ে আছে।",
+        "টাভি মাথা নেড়ে না বলছে, আর নেরি শুনছে।",
         "নেরি প্রদর্শনের মঞ্চ থেকে পিতলের পাতার মালা সরাচ্ছে।",
-        "টাভি নেরির কাছ থেকে ছোট সাক্ষাতের কার্ড নিচ্ছে।",
-        "টাভি ছোট থলিতে কার্ড রেখে পূর্বদিকে হাঁটছে।"
+        "নেরি প্রদর্শনীর জিনিসটি সরিয়ে রাখছে, আর টাভি চিরকুট নিয়ে চলে যাচ্ছে।"
       ],
       "captions": [
-        "বাড়ি ফেরার আগে টাভি নেরির দোকানে ফিরল। “তোমার যন্ত্রের জন্য সবার সঙ্গে কথা বলা আরও কঠিন হচ্ছে,” সে বলল।",
-        "নেরি তৈরি উত্তর খোঁজার বদলে শুনল। “ঠিক কী পাঠিয়েছে?” সে জিজ্ঞেস করল।",
-        "টাভি কাচের অভিযোগ বলল। নেরি জিজ্ঞেস করল, সে পূর্ব ফটকে গিয়েছিল কি না। যায়নি।",
-        "নেরি বলল, “এটা তোমার অভিযোগকে তোমার পক্ষের সবচেয়ে জোরালো যুক্তি বানায়। কী ঘটেছিল, তা খুঁজে দেখে না।”",
-        "নেরি চকচকে প্রদর্শনের মঞ্চ দেখল। “আমি একে আসলের চেয়ে জ্ঞানী দেখিয়েছি। সেটাও বদলানো দরকার।”",
-        "নেরি কাল একসঙ্গে যন্ত্র পরীক্ষা করার প্রস্তাব দিল। তার আগে টাভিকে আসল মালপত্র দেখতে যেতে হবে।",
-        "বাজারের পাল্লা বন্ধ হওয়ার সময় টাভি পূর্বদিকে ঘুরল। এবার সে আরেকটি উত্তরের বদলে একজন মানুষের দিকে গেল।"
+        "কেন্দ্র থেকে বেরিয়ে টাভি কাগজপত্র নিয়ে নেরির দোকানে ফিরে গেল।",
+        "সে জিজ্ঞেস করল, “কেউ বুঝছে না কেন?” নেরি ইভোর আসল চিঠিটা দেখতে চাইল।",
+        "টাভি যন্ত্রের মূল কাগজ ফেরত দেওয়ার খোপ থেকে চিঠিটা বের করে রেখেছিল। সে নেরিকে সেটা দিল।",
+        "নেরি বলল, “এখানে পূর্বের ফটক লেখা আছে। তুমি কি সেখানে গিয়েছিলে?”",
+        "টাভি মাথা নেড়ে না বলল। সে শুধু যেখানে মাল আশা করেছিল, সেখানেই দেখেছিল।",
+        "নেরি নিজের বিজ্ঞাপনের দিকে তাকাল। “আমার বিজ্ঞাপনে যন্ত্রটাকে বাস্তবের চেয়ে বেশি বুদ্ধিমান দেখানো হয়েছে।”",
+        "নেরি বিজ্ঞাপনটা সরিয়ে রাখল। টাভি ইভোর চিঠি নিয়ে পূর্বের ফটকের দিকে হাঁটল।"
       ],
       "introduction": "নেরি যন্ত্রের সীমা বোঝায় এবং সেটিকে ভুলভাবে উপস্থাপন করার নিজের দায়ও স্বীকার করে।",
       "title": "না করা প্রশ্ন"
     },
     "cs": {
       "altTexts": [
-        "Tavi stojí proti Neri u prázdné podložky na pultu.",
+        "Tavi přináší své papíry ke stánku Neri.",
         "Neri poslouchá s otevřenýma rukama na pultu.",
-        "Neri ukazuje do východní ulice; Tavi hledí stranou.",
-        "Neri pokládá na pult dvě oddělené čisté kartičky.",
+        "Tavi podává Neri Ivův původní lístek.",
+        "Neri ukazuje na Ivův lístek a Tavi ji sleduje.",
+        "Tavi kroutí hlavou, zatímco Neri naslouchá.",
         "Neri sundává ze stojanu mosazný vavřínový věnec.",
-        "Tavi přijímá od Neri kartičku s domluvenou schůzkou.",
-        "Tavi kráčí na východ s kartičkou v brašničce."
+        "Neri uklízí reklamní stojánek a Tavi odchází s lístkem."
       ],
       "captions": [
-        "Než došel domů, Tavi se vrátil ke stánku Neri. „Kvůli tvému stroji je s každým těžší vyjít,“ řekl.",
-        "Neri naslouchala a nehledala žádnou hotovou odpověď. „Co přesně odeslal?“ zeptala se.",
-        "Tavi zopakoval obvinění ohledně skla. Neri se zeptala, zda byl u východní brány. Nebyl.",
-        "„Z tvé stížnosti udělá co nejsilnější argument,“ řekla Neri. „Nezjišťuje, co se skutečně stalo.“",
-        "Podívala se na svůj lesklý výstavní stojan. „Díky mně vypadal moudřejší, než je. I to se musí změnit.“",
-        "Neri nabídla, že s ním zítra stroj vyzkouší. Nejdřív se Tavi potřeboval podívat na skutečnou dodávku.",
-        "Když se zavíraly okenice tržiště, Tavi zamířil na východ. Pro jednou šel za člověkem místo za další odpovědí."
+        "Po odchodu z depa se Tavi vrátil se svými papíry k Neriinu stánku.",
+        "„Proč mi nikdo nerozumí?“ zeptal se. Neri chtěla vidět Ivovu původní zprávu.",
+        "Tavi ji předtím vyndal z přihrádky na vrácené lístky ve stroji. Podal jí ji.",
+        "„Tady se píše o východní bráně,“ řekla Neri. „Byl ses tam podívat?“",
+        "Tavi zavrtěl hlavou. Zkontroloval jen místo, na kterém dodávku očekával.",
+        "Neri se podívala na svou výstavku. „Moje reklama budila dojem, že je ten stroj moudřejší, než je.“",
+        "Výstavku uklidila. Tavi vzal Ivovu zprávu a vydal se k východní bráně."
       ],
       "introduction": "Neri vysvětlí omezení přístroje a uzná, že ho sama představovala zavádějícím způsobem.",
       "title": "Chybějící otázka"
     },
     "de": {
       "altTexts": [
-        "Tavi steht Neri an der leeren Ausstellungsfläche gegenüber.",
+        "Tavi bringt seine Papiere zu Neris Stand.",
         "Neri hört mit offenen Händen auf dem Tresen zu.",
-        "Neri zeigt zur östlichen Gasse, während Tavi zur Seite schaut.",
-        "Neri legt zwei getrennte leere Karten auf den Tresen.",
+        "Tavi reicht Neri Ivos ursprüngliche Notiz.",
+        "Neri zeigt auf Ivos Notiz, während Tavi zusieht.",
+        "Tavi schüttelt den Kopf, während Neri zuhört.",
         "Neri nimmt einen Messinglorbeer vom Präsentationsständer.",
-        "Tavi nimmt Neris kleine Terminkarte an.",
-        "Tavi geht mit der Terminkarte in seiner Tasche nach Osten."
+        "Neri räumt den Werbeaufsteller weg, während Tavi mit der Notiz geht."
       ],
       "captions": [
-        "Bevor er nach Hause ging, kehrte Tavi zu Neris Stand zurück. „Deine Maschine macht alle noch schwieriger“, sagte er.",
-        "Neri hörte zu, ohne nach einer Antwort zu greifen. „Was genau hat sie verschickt?“, fragte sie.",
-        "Tavi wiederholte den Vorwurf wegen des Glases. Neri fragte, ob er am Osttor gewesen sei. Das war er nicht.",
-        "„Sie macht aus deiner Beschwerde dein stärkstes Argument“, sagte Neri. „Sie findet nicht heraus, was geschehen ist.“",
-        "Sie betrachtete ihren glänzenden Präsentationsständer. „Ich habe sie klüger aussehen lassen, als sie ist. Auch das muss sich ändern.“",
-        "Neri bot an, die Maschine morgen mit ihm zu testen. Zuerst musste Tavi sich die tatsächliche Lieferung ansehen.",
-        "Als die Marktstände schlossen, ging Tavi nach Osten. Diesmal suchte er den Menschen auf, statt eine weitere Antwort zu suchen."
+        "Nach seinem Besuch im Depot ging Tavi mit seinen Papieren wieder zu Neris Stand.",
+        "„Warum versteht mich niemand?“, fragte er. Neri wollte Ivos ursprüngliche Nachricht sehen.",
+        "Tavi hatte sie aus dem Rückgabefach der Maschine genommen. Er reichte sie ihr.",
+        "„Hier steht Osttor“, sagte Neri. „Bist du dort gewesen?“",
+        "Tavi schüttelte den Kopf. Er hatte nur dort nachgesehen, wo er die Lieferung erwartet hatte.",
+        "Neri betrachtete ihre Auslage. „Meine Werbung hat diese Maschine klüger erscheinen lassen, als sie ist.“",
+        "Sie räumte die Auslage weg. Tavi nahm Ivos Nachricht und ging zum Osttor."
       ],
       "introduction": "Neri erklärt die Grenzen des Geräts und erkennt ihre eigene irreführende Präsentation.",
       "title": "Die fehlende Frage"
     },
     "en": {
       "altTexts": [
-        "Tavi faces Neri across the stall’s empty display mat.",
+        "Tavi brings his papers to Neri’s stall.",
         "Neri listens with both hands open on the counter.",
-        "Neri points toward the east lane while Tavi looks aside.",
-        "Neri places two separate blank cards on the counter.",
+        "Tavi hands Ivo’s original note to Neri.",
+        "Neri points to Ivo’s note while Tavi watches.",
+        "Tavi shakes his head as Neri listens.",
         "Neri removes a brass laurel from the display stand.",
-        "Tavi accepts Neri’s small appointment card.",
-        "Tavi walks east with the appointment card in his pouch."
+        "Neri puts away the display as Tavi leaves with the note."
       ],
       "captions": [
-        "Before going home, Tavi returned to Neri’s stall. “Your machine is making everyone more difficult,” he said.",
-        "Neri listened without reaching for a reply. “What exactly has it sent?” she asked.",
-        "Tavi recited the accusation about the glass. Neri asked whether he had visited the east gate. He had not.",
-        "“It turns your complaint into your strongest argument,” Neri said. “It does not find out what happened.”",
-        "She looked at her gleaming display stand. “I made it look wiser than it is. That needs changing too.”",
-        "Neri offered to test the machine with him tomorrow. First, Tavi needed to look at the actual delivery.",
-        "As the market shutters closed, Tavi turned east. For once, he went toward the person instead of another answer."
+        "After leaving the depot, Tavi returned to Neri’s stall with his papers.",
+        "“Why won’t anyone understand?” he asked. Neri asked to see Ivo’s original note.",
+        "Tavi had taken it from the machine’s return pocket. He handed it over.",
+        "“This says east gate,” Neri said. “Have you been there?”",
+        "Tavi shook his head. He had checked only the place he expected.",
+        "Neri looked at her display. “My advertising made this machine look wiser than it is.”",
+        "She put the display away. Tavi took Ivo’s note and walked toward the east gate."
       ],
       "introduction": "Neri explains the device’s limits and recognizes her own misleading presentation.",
       "title": "The Missing Question"
     },
     "es": {
       "altTexts": [
-        "Tavi está frente a Neri junto a la superficie vacía de exposición.",
+        "Tavi lleva sus papeles al puesto de Neri.",
         "Neri escucha con las manos abiertas sobre el mostrador.",
-        "Neri señala la calle del este mientras Tavi mira a un lado.",
-        "Neri coloca dos tarjetas en blanco separadas sobre el mostrador.",
+        "Tavi entrega a Neri la nota original de Ivo.",
+        "Neri señala la nota de Ivo mientras Tavi observa.",
+        "Tavi niega con la cabeza mientras Neri escucha.",
         "Neri retira un laurel de latón del expositor.",
-        "Tavi recibe de Neri una pequeña tarjeta para la cita.",
-        "Tavi camina al este con la tarjeta guardada en su bolsa."
+        "Neri guarda el expositor mientras Tavi se marcha con la nota."
       ],
       "captions": [
-        "Antes de volver a casa, Tavi regresó al puesto de Neri. «Tu máquina está haciendo que sea más difícil tratar con todos», dijo.",
-        "Neri lo escuchó sin buscar una respuesta preparada. «¿Qué ha enviado exactamente?», preguntó.",
-        "Tavi repitió la acusación sobre el vidrio. Neri le preguntó si había ido a la puerta este. No había ido.",
-        "«Convierte tu queja en tu argumento más fuerte», dijo Neri. «No averigua lo que ocurrió».",
-        "Miró su brillante expositor. «Hice que pareciera más sabia de lo que es. Eso también tiene que cambiar».",
-        "Neri se ofreció a probar la máquina con él al día siguiente. Primero, Tavi debía ir a ver la entrega real.",
-        "Cuando cerraban los puestos del mercado, Tavi giró al este. Por una vez, fue hacia la persona en lugar de buscar otra respuesta."
+        "Al salir del depósito, Tavi volvió al puesto de Neri con sus papeles.",
+        "«¿Por qué nadie me entiende?», preguntó. Neri pidió ver la nota original de Ivo.",
+        "Tavi la había recuperado del compartimento de devolución de la máquina. Se la entregó.",
+        "«Aquí dice puerta este», señaló Neri. «¿Has ido allí?»",
+        "Tavi negó con la cabeza. Solo había mirado en el lugar donde esperaba la entrega.",
+        "Neri miró su exposición. «Mi publicidad hacía parecer a esta máquina más sabia de lo que es».",
+        "Guardó la exposición. Tavi tomó la nota de Ivo y se dirigió a la puerta este."
       ],
       "introduction": "Neri explica las limitaciones del aparato y reconoce que su presentación había sido engañosa.",
       "title": "La pregunta que faltaba"
     },
     "fr": {
       "altTexts": [
-        "Tavi fait face à Neri devant l’emplacement de démonstration vide.",
+        "Tavi apporte ses papiers au stand de Neri.",
         "Neri écoute, les deux mains ouvertes sur le comptoir.",
-        "Neri montre la rue de l’est tandis que Tavi détourne les yeux.",
-        "Neri pose deux cartes vierges séparées sur le comptoir.",
+        "Tavi remet à Neri la note d’origine d’Ivo.",
+        "Neri montre la note d’Ivo du doigt tandis que Tavi regarde.",
+        "Tavi secoue la tête tandis que Neri écoute.",
         "Neri retire une couronne de laurier en laiton du présentoir.",
-        "Tavi prend la petite carte de rendez-vous de Neri.",
-        "Tavi marche vers l’est avec la carte dans sa sacoche."
+        "Neri range le présentoir tandis que Tavi repart avec la note."
       ],
       "captions": [
-        "Avant de rentrer, Tavi revint au stand de Neri. « Ta machine rend tout le monde encore plus difficile », dit-il.",
-        "Neri l’écouta sans chercher de réponse préparée. « Qu’a-t-elle envoyé exactement ? » demanda-t-elle.",
-        "Tavi répéta l’accusation concernant le verre. Neri demanda s’il s’était rendu à la porte est. Ce n’était pas le cas.",
-        "« Elle transforme ta plainte en ton argument le plus fort », dit Neri. « Elle ne découvre pas ce qui s’est passé. »",
-        "Elle regarda son présentoir brillant. « Je lui ai donné l’air plus sage qu’elle ne l’est. Cela aussi doit changer. »",
-        "Neri proposa de tester la machine avec lui le lendemain. D’abord, Tavi devait aller voir la véritable livraison.",
-        "Alors que les étals fermaient, Tavi prit la direction de l’est. Cette fois, il allait vers la personne plutôt que vers une nouvelle réponse."
+        "Après le dépôt, Tavi retourna à l’étal de Neri avec ses papiers.",
+        "« Pourquoi personne ne comprend ? » demanda-t-il. Neri voulut voir le message original d’Ivo.",
+        "Tavi l’avait repris dans le compartiment de restitution de la machine. Il le lui tendit.",
+        "« Il est écrit “porte est”, dit Neri. Tu y es allé ? »",
+        "Tavi secoua la tête. Il n’avait vérifié que l’endroit où il s’attendait à trouver la livraison.",
+        "Neri regarda sa présentation. « Ma publicité donnait à cette machine l’air plus sage qu’elle ne l’est. »",
+        "Elle rangea la présentation. Tavi reprit le message d’Ivo et partit vers la porte est."
       ],
       "introduction": "Neri explique les limites de l’appareil et reconnaît sa propre présentation trompeuse.",
       "title": "La question oubliée"
     },
     "hi": {
       "altTexts": [
-        "तावी खाली प्रदर्शन चटाई के उस पार नेरी के सामने खड़ा है।",
+        "तावी अपने कागज़ नेरी की दुकान पर ला रहा है।",
         "नेरी काउंटर पर खुली हथेलियाँ रखकर सुन रही है।",
-        "नेरी पूर्वी रास्ता दिखा रही है और तावी नज़र हटा रहा है।",
-        "नेरी दो अलग खाली कार्ड काउंटर पर रख रही है।",
+        "तावी ईवो की मूल पर्ची नेरी को दे रहा है।",
+        "नेरी ईवो की पर्ची की ओर इशारा कर रही है, जबकि तावी देख रहा है।",
+        "तावी सिर हिलाकर मना कर रहा है, जबकि नेरी सुन रही है।",
         "नेरी प्रदर्शन-स्टैंड से पीतल की पत्तियों वाला मुकुट हटा रही है।",
-        "तावी नेरी से मुलाकात का छोटा कार्ड ले रहा है।",
-        "तावी अपनी छोटी थैली में कार्ड रखकर पूर्व की ओर चल रहा है।"
+        "नेरी प्रदर्शन की चीज़ समेट रही है, जबकि तावी पर्ची लेकर जा रहा है।"
       ],
       "captions": [
-        "घर पहुँचने से पहले तावी नेरी की दुकान लौटा। “तुम्हारी मशीन से सबके साथ बात करना मुश्किल हो गया है,” उसने कहा।",
-        "नेरी ने तुरंत जवाब खोजने के बजाय सुना। उसने पूछा, “इसने भेजा क्या है, ठीक-ठीक?”",
-        "तावी ने काँच वाला आरोप दोहराया। नेरी ने पूछा कि क्या वह पूर्वी फाटक गया था। वह नहीं गया था।",
-        "नेरी बोली, “यह तुम्हारी शिकायत को तुम्हारे पक्ष की सबसे मजबूत दलील बनाती है। यह पता नहीं करती कि हुआ क्या था।”",
-        "उसने चमकते प्रदर्शन-स्टैंड को देखा। “मैंने इसे असल से ज्यादा समझदार दिखाया। वह भी बदलना होगा।”",
-        "नेरी ने कल साथ में मशीन जाँचने का प्रस्ताव दिया। पहले तावी को असली डिलीवरी देखने जाना था।",
-        "जब बाजार के पट बंद हुए, तावी पूर्व की ओर मुड़ा। इस बार वह किसी और जवाब के बजाय एक व्यक्ति की ओर जा रहा था।"
+        "केंद्र से निकलकर तावी अपने कागज़ों के साथ नेरी की दुकान पर लौट गया।",
+        "उसने पूछा, “कोई समझता क्यों नहीं?” नेरी ने ईवो का असली संदेश देखने को कहा।",
+        "तावी ने वह संदेश मशीन के मूल पर्चियाँ लौटाने वाले खाने से निकाल लिया था। उसने नेरी को दे दिया।",
+        "नेरी ने कहा, “इसमें पूर्वी फाटक लिखा है। क्या तुम वहाँ गए थे?”",
+        "तावी ने सिर हिलाकर मना किया। उसने सिर्फ वही जगह देखी थी जहाँ सामान आने की उसे उम्मीद थी।",
+        "नेरी ने अपने विज्ञापन की ओर देखा। “मेरे प्रचार से यह मशीन असल में जितनी समझदार है, उससे ज़्यादा समझदार लगने लगी।”",
+        "नेरी ने विज्ञापन हटा दिया। तावी ईवो का संदेश लेकर पूर्वी फाटक की ओर चल पड़ा।"
       ],
       "introduction": "नेरी मशीन की सीमाएँ समझाती है और अपनी प्रस्तुति की गलती भी मानती है।",
       "title": "छूटा हुआ सवाल"
     },
     "id": {
       "altTexts": [
-        "Tavi menghadap Neri di depan alas pajangan yang kosong.",
+        "Tavi membawa kertas-kertasnya ke kios Neri.",
         "Neri mendengarkan dengan kedua telapak tangan terbuka di meja.",
-        "Neri menunjuk jalan timur sementara Tavi memandang ke samping.",
-        "Neri meletakkan dua kartu kosong secara terpisah di meja.",
+        "Tavi menyerahkan catatan asli Ivo kepada Neri.",
+        "Neri menunjuk catatan Ivo sementara Tavi memperhatikan.",
+        "Tavi menggeleng sementara Neri mendengarkan.",
         "Neri melepas hiasan daun salam kuningan dari dudukan pajangan.",
-        "Tavi menerima kartu janji pertemuan kecil dari Neri.",
-        "Tavi berjalan ke timur dengan kartu pertemuan tersimpan di kantongnya."
+        "Neri menyimpan pajangan sementara Tavi pergi membawa catatan."
       ],
       "captions": [
-        "Sebelum pulang, Tavi kembali ke kios Neri. “Mesinmu membuat semua orang makin sulit diajak bicara,” katanya.",
-        "Neri mendengarkan tanpa mencari jawaban siap pakai. “Apa tepatnya yang sudah dikirim?” tanyanya.",
-        "Tavi mengulangi tuduhan tentang kaca. Neri bertanya apakah ia sudah pergi ke gerbang timur. Ia belum pergi.",
-        "“Mesin ini mengubah keluhanmu menjadi pembelaan terkuatmu,” kata Neri. “Mesin ini tidak mencari tahu apa yang terjadi.”",
-        "Ia memandang dudukan pamerannya yang berkilau. “Aku membuatnya terlihat lebih bijaksana daripada kenyataannya. Itu juga harus berubah.”",
-        "Neri menawarkan untuk menguji mesin bersama esok hari. Namun, Tavi perlu melihat kiriman yang sebenarnya lebih dahulu.",
-        "Ketika kios-kios pasar tutup, Tavi berbelok ke timur. Kali ini ia mendatangi orangnya, bukan mencari jawaban lain."
+        "Setelah meninggalkan depo, Tavi kembali ke kios Neri membawa kertas-kertasnya.",
+        "“Mengapa tidak ada yang mengerti?” tanyanya. Neri meminta melihat catatan asli Ivo.",
+        "Tavi telah mengambilnya dari kantong pengembalian catatan pada mesin. Ia menyerahkannya kepada Neri.",
+        "“Di sini tertulis gerbang timur,” kata Neri. “Kamu sudah ke sana?”",
+        "Tavi menggeleng. Ia hanya memeriksa tempat yang menurutnya akan menjadi lokasi pengiriman.",
+        "Neri memandang pajangannya. “Iklanku membuat mesin ini tampak lebih bijaksana daripada kenyataannya.”",
+        "Neri menyingkirkan pajangan itu. Tavi mengambil catatan Ivo dan berjalan ke gerbang timur."
       ],
       "introduction": "Neri menjelaskan batas kemampuan mesin dan mengakui bahwa penyajiannya sendiri menyesatkan.",
       "title": "Pertanyaan yang Hilang"
     },
     "it": {
       "altTexts": [
-        "Tavi affronta Neri davanti allo spazio espositivo vuoto.",
+        "Tavi porta i suoi fogli al banco di Neri.",
         "Neri ascolta con entrambe le mani aperte sul banco.",
-        "Neri indica la via a est mentre Tavi guarda di lato.",
-        "Neri dispone due cartoline bianche separate sul banco.",
+        "Tavi consegna a Neri il biglietto originale di Ivo.",
+        "Neri indica il biglietto di Ivo mentre Tavi osserva.",
+        "Tavi scuote la testa mentre Neri ascolta.",
         "Neri toglie una decorazione d’alloro in ottone dall’espositore.",
-        "Tavi riceve da Neri un piccolo biglietto per l’appuntamento.",
-        "Tavi cammina verso est con il biglietto nella borsa."
+        "Neri ripone l’espositore mentre Tavi si allontana con il biglietto."
       ],
       "captions": [
-        "Prima di rientrare, Tavi tornò alla bancarella di Neri. «La tua macchina rende più difficile andare d’accordo con tutti», disse.",
-        "Neri ascoltò senza cercare una risposta pronta. «Che cosa ha mandato, esattamente?» chiese.",
-        "Tavi ripeté l’accusa sui vetri. Neri gli chiese se fosse andato alla porta est. Non ci era andato.",
-        "«Trasforma la tua lamentela nel tuo argomento più forte», disse Neri. «Non scopre che cosa è successo».",
-        "Guardò il suo espositore lucido. «L’ho fatta sembrare più saggia di quanto sia. Anche questo deve cambiare».",
-        "Neri propose di provare la macchina insieme il giorno dopo. Prima, Tavi doveva vedere la consegna reale.",
-        "Mentre il mercato chiudeva, Tavi si voltò verso est. Per una volta andò dalla persona, invece di cercare un’altra risposta."
+        "Uscito dal deposito, Tavi tornò al banco di Neri con i suoi fogli.",
+        "«Perché nessuno capisce?», chiese. Neri volle vedere il biglietto originale di Ivo.",
+        "Tavi l’aveva recuperato dallo scomparto di restituzione della macchina. Glielo porse.",
+        "«Qui dice cancello est», disse Neri. «Ci sei andato?»",
+        "Tavi scosse la testa. Aveva controllato solo il posto in cui si aspettava la consegna.",
+        "Neri guardò la sua esposizione. «La mia pubblicità faceva sembrare questa macchina più saggia di quanto sia».",
+        "Mise via l’esposizione. Tavi riprese il biglietto di Ivo e si avviò verso il cancello est."
       ],
       "introduction": "Neri chiarisce i limiti del dispositivo e riconosce la propria presentazione fuorviante.",
       "title": "La domanda mancante"
     },
     "ja": {
       "altTexts": [
-        "タヴィが、空になった展示台越しにネリと向き合っています。",
+        "タヴィが自分の書類をネリの店に持ってきます。",
         "ネリがカウンターに両手を開いて置き、話を聞いています。",
-        "ネリが東の道を指し、タヴィが目をそらしています。",
-        "ネリが二枚の白いカードを、離してカウンターに置いています。",
+        "タヴィがイヴォの元のメモをネリに渡しています。",
+        "ネリがイヴォのメモを指し、タヴィが見ています。",
+        "タヴィが首を横に振り、ネリが聞いています。",
         "ネリが展示台から真ちゅうの月桂飾りを外しています。",
-        "タヴィがネリから小さな約束のカードを受け取っています。",
-        "タヴィがカードをポーチに入れ、東へ歩いています。"
+        "ネリが展示台を片づけ、タヴィはメモを持って立ち去ります。"
       ],
       "captions": [
-        "帰宅する前に、タヴィはネリの店へ寄りました。「君の機械のせいで、みんなと話しにくくなったよ」",
-        "ネリは返事を急がずに聞きました。「具体的に、どんな文章を送ったの？」",
-        "タヴィはガラスをめぐる非難を話しました。東門へ行ったかとネリに聞かれて、行っていないと答えました。",
-        "「不満を、あなたに一番有利な主張にするだけなの。何があったかを調べてはくれないわ」",
-        "ネリは光る展示台を見ました。「実際より賢そうに見せたのは私。その見せ方も変えなくちゃ」",
-        "明日一緒に機械を試そう、とネリは提案しました。その前に、タヴィは実際の配達を見に行く必要がありました。",
-        "市場の戸が閉まるころ、タヴィは東へ向かいました。次の答えではなく、一人の相手に会うために。"
+        "集配所を出たタヴィは、書類を持ってネリの店へ戻った。",
+        "「どうして誰もわかってくれないんだろう」と尋ねた。ネリはイヴォの元のメモを見たがった。",
+        "タヴィは、そのメモを機械の返却ポケットから取り出してあった。ネリに手渡した。",
+        "「ここには東の門とあるね」とネリは言った。「そっちには行った？」",
+        "タヴィは首を振った。荷物が届くはずだと思っていた場所しか見ていなかった。",
+        "ネリは店の展示を見た。「私の宣伝で、この機械を実際より賢く見せてしまった」",
+        "ネリは展示を片付けた。タヴィはイヴォのメモを持って、東の門へ歩き出した。"
       ],
       "introduction": "ネリは機械の限界を説明し、自分の売り方にも問題があったと認めます。",
       "title": "足りなかった質問"
     },
     "ko": {
       "altTexts": [
-        "타비가 빈 전시 받침 너머로 네리와 마주 보고 있어요.",
+        "타비가 서류를 네리의 가게로 가져와요.",
         "네리가 계산대에 두 손을 펴 놓고 이야기를 들어요.",
-        "네리가 동쪽 길을 가리키고, 타비는 시선을 돌려요.",
-        "네리가 빈 카드 두 장을 따로 계산대에 놓아요.",
+        "타비가 이보의 원래 쪽지를 네리에게 건네요.",
+        "네리가 이보의 쪽지를 가리키고, 타비가 보고 있어요.",
+        "타비가 고개를 가로젓고, 네리가 듣고 있어요.",
         "네리가 전시대에서 놋쇠 월계 장식을 떼어 내요.",
-        "타비가 네리의 작은 약속 카드를 받아요.",
-        "타비가 작은 주머니에 카드를 넣고 동쪽으로 걸어요."
+        "네리가 전시물을 치우고, 타비는 쪽지를 들고 떠나요."
       ],
       "captions": [
-        "집에 가기 전에 타비는 네리의 가게에 다시 들렀어요. “네 기계 때문에 사람들과 이야기하기가 더 어려워졌어.”",
-        "네리는 답부터 찾지 않고 들었어요. “정확히 무슨 말을 보냈는데?”",
-        "타비가 유리에 관한 비난을 말했어요. 네리가 동문에 가 보았냐고 묻자, 가 보지 않았다고 했어요.",
-        "“기계는 네 불만을 가장 강한 주장으로 바꿔. 실제로 무슨 일이 있었는지는 알아보지 않아.”",
-        "네리는 반짝이는 전시대를 봤어요. “실제보다 지혜롭게 보이게 만든 건 나야. 그것도 바꿔야 해.”",
-        "네리는 내일 함께 기계를 시험하자고 제안했어요. 그전에 타비가 해야 할 일은 실제 배달 물건을 보는 것이었어요.",
-        "시장 덧문들이 닫힐 때 타비는 동쪽으로 향했어요. 이번에는 또 다른 답이 아니라 사람에게 가는 길이었어요."
+        "배달소를 나온 타비는 종이들을 들고 네리의 가게로 돌아갔다.",
+        "“왜 아무도 이해해 주지 않을까?” 타비가 물었다. 네리는 이보가 처음 보낸 쪽지를 보여 달라고 했다.",
+        "타비는 기계의 원본 반환 칸에서 그 쪽지를 꺼내 두었었다. 네리에게 건넸다.",
+        "“여기 동쪽 입구라고 쓰여 있네.” 네리가 말했다. “거기 가 봤어?”",
+        "타비는 고개를 저었다. 자신이 예상했던 장소만 확인한 것이었다.",
+        "네리는 진열대를 바라보았다. “내 광고가 이 기계를 실제보다 현명해 보이게 했어.”",
+        "네리는 광고물을 치웠다. 타비는 이보의 쪽지를 들고 동쪽 입구로 걸어갔다."
       ],
       "introduction": "네리는 기계의 한계를 설명하고, 자신도 기계를 오해하게 소개했음을 인정합니다.",
       "title": "빠진 질문"
     },
     "pl": {
       "altTexts": [
-        "Tavi stoi naprzeciw Neri przy pustym miejscu wystawowym.",
+        "Tavi przynosi swoje papiery do stoiska Neri.",
         "Neri słucha z otwartymi dłońmi na ladzie.",
-        "Neri wskazuje wschodnią uliczkę, a Tavi patrzy w bok.",
-        "Neri kładzie na ladzie dwie osobne czyste kartki.",
+        "Tavi podaje Neri pierwotną notatkę Iva.",
+        "Neri wskazuje notatkę Iva, a Tavi patrzy.",
+        "Tavi kręci głową, a Neri słucha.",
         "Neri zdejmuje mosiężny wieniec laurowy ze stojaka.",
-        "Tavi przyjmuje od Neri małą kartkę z umówionym terminem.",
-        "Tavi idzie na wschód z kartką schowaną w saszetce."
+        "Neri chowa ekspozytor, gdy Tavi odchodzi z notatką."
       ],
       "captions": [
-        "Zanim wrócił do domu, Tavi znów podszedł do straganu Neri. „Przez twoją maszynę coraz trudniej dogadać się z innymi”, powiedział.",
-        "Neri słuchała, nie szukając gotowej odpowiedzi. „Co dokładnie wysłała?” zapytała.",
-        "Tavi powtórzył oskarżenie dotyczące szkła. Neri zapytała, czy był przy wschodniej bramie. Nie był.",
-        "„Zmienia twoją skargę w najmocniejszy argument”, powiedziała Neri. „Nie ustala, co się wydarzyło”.",
-        "Spojrzała na swój lśniący stojak. „Sprawiłam, że wyglądała na mądrzejszą, niż jest. To też trzeba zmienić”.",
-        "Zaproponowała, że jutro wspólnie przetestują maszynę. Najpierw Tavi powinien zobaczyć prawdziwą dostawę.",
-        "Gdy targ się zamykał, Tavi ruszył na wschód. Tym razem poszedł do osoby, zamiast szukać kolejnej odpowiedzi."
+        "Po wyjściu z punktu miejskiego Tavi wrócił z dokumentami na stragan Neri.",
+        "„Dlaczego nikt mnie nie rozumie?” — zapytał. Neri poprosiła o oryginalną wiadomość Iva.",
+        "Tavi wyjął ją wcześniej z przegródki na zwrócone notatki w maszynie. Podał jej kartkę.",
+        "„Tu jest napisane: wschodnia brama” — powiedziała Neri. „Byłeś tam?”",
+        "Tavi pokręcił głową. Sprawdził tylko miejsce, w którym spodziewał się dostawy.",
+        "Neri spojrzała na swoją wystawę. „Moja reklama sprawiała, że ta maszyna wydawała się mądrzejsza, niż jest”.",
+        "Schowała wystawę. Tavi zabrał wiadomość Iva i ruszył do wschodniej bramy."
       ],
       "introduction": "Neri wyjaśnia ograniczenia urządzenia i dostrzega, że sama przedstawiła je w mylący sposób.",
       "title": "Brakujące pytanie"
     },
     "pt": {
       "altTexts": [
-        "Tavi está diante de Neri junto ao espaço de exposição vazio.",
+        "Tavi leva seus papéis à banca de Neri.",
         "Neri escuta com as duas mãos abertas sobre o balcão.",
-        "Neri aponta para a rua a leste enquanto Tavi olha para o lado.",
-        "Neri coloca dois cartões em branco separados sobre o balcão.",
+        "Tavi entrega a Neri o bilhete original de Ivo.",
+        "Neri aponta para o bilhete de Ivo enquanto Tavi observa.",
+        "Tavi balança a cabeça em sinal de negação enquanto Neri escuta.",
         "Neri retira um enfeite de louros de latão do expositor.",
-        "Tavi recebe de Neri um pequeno cartão de agendamento.",
-        "Tavi caminha para o leste com o cartão guardado na bolsa."
+        "Neri guarda o expositor enquanto Tavi sai com o bilhete."
       ],
       "captions": [
-        "Antes de voltar para casa, Tavi foi à barraca de Neri. “Sua máquina está tornando mais difícil lidar com todo mundo”, disse.",
-        "Neri escutou sem procurar uma resposta pronta. “O que exatamente ela enviou?”, perguntou.",
-        "Tavi repetiu a acusação sobre os vidros. Neri perguntou se ele havia ido ao portão leste. Não havia.",
-        "“Ela transforma sua reclamação no seu argumento mais forte”, disse Neri. “Não descobre o que aconteceu.”",
-        "Ela olhou para o expositor brilhante. “Eu a fiz parecer mais sábia do que é. Isso também precisa mudar.”",
-        "Neri ofereceu testar a máquina com ele no dia seguinte. Primeiro, Tavi precisava ir ver a entrega de verdade.",
-        "Quando o mercado fechava, Tavi virou para o leste. Dessa vez, foi até a pessoa em vez de procurar outra resposta."
+        "Depois de sair do depósito, Tavi voltou à barraca de Neri com seus papéis.",
+        "“Por que ninguém entende?”, perguntou. Neri pediu para ver o bilhete original de Ivo.",
+        "Tavi o tinha retirado do compartimento de devolução da máquina. Entregou o papel a ela.",
+        "“Aqui diz portão leste”, disse Neri. “Você foi até lá?”",
+        "Tavi negou com a cabeça. Só tinha procurado no lugar onde esperava a entrega.",
+        "Neri olhou para sua exposição. “Minha propaganda fez essa máquina parecer mais sábia do que é.”",
+        "Ela guardou a exposição. Tavi pegou o bilhete de Ivo e caminhou até o portão leste."
       ],
       "introduction": "Neri explica os limites do aparelho e reconhece que sua apresentação também foi enganosa.",
       "title": "A pergunta que faltava"
     },
     "ru": {
       "altTexts": [
-        "Тави стоит напротив Нери у пустой подставки прилавка.",
+        "Тави приносит свои бумаги к прилавку Нери.",
         "Нери слушает, положив открытые ладони на прилавок.",
-        "Нери указывает на восточную улицу; Тави отводит взгляд.",
-        "Нери кладёт на прилавок две отдельные чистые карточки.",
+        "Тави передаёт Нери исходную записку Иво.",
+        "Нери указывает на записку Иво, а Тави смотрит.",
+        "Тави качает головой, а Нери слушает.",
         "Нери снимает с подставки латунный лавровый венок.",
-        "Тави принимает небольшую карточку о встрече от Нери.",
-        "Тави идёт на восток, убрав карточку в сумочку."
+        "Нери убирает рекламную подставку, а Тави уходит с запиской."
       ],
       "captions": [
-        "Прежде чем идти домой, Тави вернулся к Нери. «Из-за твоей машины со всеми стало труднее», — сказал он.",
-        "Нери слушала, не подыскивая готового ответа. «А что именно она отправила?» — спросила она.",
-        "Тави пересказал обвинение насчёт стекла. Нери спросила, ходил ли он к восточным воротам. Не ходил.",
-        "«Она превращает твою жалобу в самый сильный довод, — сказала Нери. — Но не выясняет, что произошло».",
-        "Она посмотрела на блестящую подставку. «Я представила её мудрее, чем она есть. Это тоже нужно исправить».",
-        "Нери предложила завтра вместе испытать машину. Но сперва Тави следовало самому посмотреть на доставленный груз.",
-        "Когда рынок закрывался, Тави повернул на восток. На этот раз он направился к человеку, а не за очередным ответом."
+        "Уйдя из депо, Тави вернулся к прилавку Нери со своими бумагами.",
+        "«Почему никто не понимает?» — спросил он. Нери попросила показать исходную записку Иво.",
+        "Тави заранее достал её из возвратного кармашка машины. Теперь он протянул записку Нери.",
+        "«Здесь написано: восточные ворота, — сказала она. — Ты туда ходил?»",
+        "Тави покачал головой. Он проверил только то место, где ожидал доставку.",
+        "Нери посмотрела на свою витрину. «Из-за моей рекламы машина казалась мудрее, чем она есть».",
+        "Она убрала рекламную выкладку. Тави взял записку Иво и пошёл к восточным воротам."
       ],
       "introduction": "Нери объясняет ограничения машины и признаёт ошибку в том, как её представила.",
       "title": "Незаданный вопрос"
     },
     "tr": {
       "altTexts": [
-        "Tavi, boş tanıtım alanının önünde Neri’ye dönük duruyor.",
+        "Tavi, kâğıtlarını Neri’nin tezgâhına getiriyor.",
         "Neri, elleri bankonun üzerinde açık biçimde dinliyor.",
-        "Neri doğudaki yolu gösterirken Tavi yana bakıyor.",
-        "Neri, bankoya iki ayrı boş kart koyuyor.",
+        "Tavi, Ivo’nun ilk notunu Neri’ye uzatıyor.",
+        "Tavi bakarken Neri, Ivo’nun notunu işaret ediyor.",
+        "Neri dinlerken Tavi başını iki yana sallıyor.",
         "Neri, standın üzerindeki pirinç defne süsünü çıkarıyor.",
-        "Tavi, Neri’den küçük bir randevu kartı alıyor.",
-        "Tavi, randevu kartı çantasında doğuya yürüyor."
+        "Tavi notla ayrılırken Neri sergi standını kaldırıyor."
       ],
       "captions": [
-        "Tavi eve gitmeden Neri’nin tezgâhına döndü. “Makinen yüzünden herkesle konuşmak daha da zorlaştı,” dedi.",
-        "Neri hazır bir yanıta uzanmadan dinledi. “Tam olarak neler gönderdi?” diye sordu.",
-        "Tavi camlarla ilgili suçlamayı tekrarladı. Neri, doğu kapısına gidip gitmediğini sordu. Gitmemişti.",
-        "“Şikâyetini en güçlü savunmana dönüştürüyor,” dedi Neri. “Ne olduğunu öğrenmiyor.”",
-        "Parlak tanıtım standına baktı. “Onu olduğundan daha bilge gösterdim. Bunun da değişmesi gerekiyor.”",
-        "Neri ertesi gün makineyi birlikte denemeyi önerdi. Önce Tavi’nin gerçek teslimatı görmesi gerekiyordu.",
-        "Pazar tezgâhları kapanırken Tavi doğuya yöneldi. Bu kez başka bir yanıtın değil, bir insanın yanına gidiyordu."
+        "Depodan ayrılan Tavi, kâğıtlarıyla birlikte Neri’nin tezgâhına döndü.",
+        "“Neden kimse anlamıyor?” diye sordu. Neri, Ivo’nun asıl notunu görmek istedi.",
+        "Tavi notu daha önce makinenin geri verme gözünden almıştı. Neri’ye uzattı.",
+        "“Burada doğu kapısı yazıyor,” dedi Neri. “Oraya gittin mi?”",
+        "Tavi başını iki yana salladı. Yalnızca teslimatı beklediği yere bakmıştı.",
+        "Neri tanıtım standına baktı. “Reklamım, bu makineyi olduğundan daha bilge göstermiş.”",
+        "Tanıtımı kaldırdı. Tavi, Ivo’nun notunu alıp doğu kapısına yürüdü."
       ],
       "introduction": "Neri cihazın sınırlarını açıklar ve kendi yanıltıcı tanıtımının sorumluluğunu görür.",
       "title": "Eksik Soru"
     },
     "vi": {
       "altTexts": [
-        "Tavi đứng đối diện Neri trước chỗ trưng bày trống.",
+        "Tavi mang giấy tờ đến quầy của Neri.",
         "Neri lắng nghe với hai bàn tay mở trên quầy.",
-        "Neri chỉ con đường phía đông, còn Tavi nhìn sang bên.",
-        "Neri đặt hai tấm thẻ trắng riêng biệt lên quầy.",
+        "Tavi đưa tờ lời nhắn gốc của Ivo cho Neri.",
+        "Neri chỉ vào lời nhắn của Ivo trong khi Tavi nhìn theo.",
+        "Tavi lắc đầu trong khi Neri lắng nghe.",
         "Neri tháo vòng lá nguyệt quế bằng đồng khỏi giá trưng bày.",
-        "Tavi nhận tấm thẻ hẹn nhỏ từ Neri.",
-        "Tavi đi về phía đông với thẻ hẹn trong túi."
+        "Neri cất vật trưng bày khi Tavi rời đi với tờ lời nhắn."
       ],
       "captions": [
-        "Trước khi về nhà, Tavi quay lại quầy Neri. “Máy của cậu khiến mọi người càng khó nói chuyện hơn,” cậu nói.",
-        "Neri lắng nghe mà không tìm câu trả lời có sẵn. “Chính xác nó đã gửi những gì?” cô hỏi.",
-        "Tavi nhắc lại lời buộc tội về kính. Neri hỏi cậu đã đến cổng đông chưa. Cậu chưa đến.",
-        "“Nó biến lời phàn nàn của cậu thành lý lẽ mạnh nhất,” Neri nói. “Nó không tìm hiểu chuyện đã xảy ra.”",
-        "Cô nhìn chiếc giá trưng bày sáng bóng. “Mình đã làm nó trông khôn ngoan hơn thực tế. Điều đó cũng cần thay đổi.”",
-        "Neri đề nghị cùng cậu thử máy vào ngày mai. Trước hết, Tavi cần tận mắt xem chuyến hàng thật.",
-        "Khi các quầy chợ đóng cửa, Tavi rẽ sang đông. Lần này, cậu đến gặp một người thay vì tìm thêm một câu trả lời."
+        "Rời trạm, Tavi mang giấy tờ quay lại quầy Neri.",
+        "“Sao chẳng ai hiểu?” anh hỏi. Neri muốn xem tờ nhắn gốc của Ivo.",
+        "Tavi đã lấy nó từ ngăn trả lại giấy của máy. Anh đưa cho cô.",
+        "“Ở đây ghi cổng đông,” Neri nói. “Bạn đến đó chưa?”",
+        "Tavi lắc đầu. Anh chỉ kiểm tra nơi mình nghĩ hàng sẽ được giao.",
+        "Neri nhìn phần trưng bày của mình. “Quảng cáo của tôi khiến chiếc máy này có vẻ sáng suốt hơn thực tế.”",
+        "Cô cất phần trưng bày đi. Tavi cầm tờ nhắn của Ivo rồi bước về phía cổng đông."
       ],
       "introduction": "Neri giải thích giới hạn của máy và nhận ra cách mình giới thiệu nó đã gây hiểu nhầm.",
       "title": "Câu hỏi còn thiếu"
     },
     "zh": {
       "altTexts": [
-        "塔维与内莉隔着空展示垫相对而立。",
+        "塔维把纸张带到内莉的摊位。",
         "内莉把双手摊在柜台上，听塔维说话。",
-        "内莉指向东边的小路，塔维移开目光。",
-        "内莉把两张空白卡片分开放在柜台上。",
+        "塔维把伊沃原先的纸条交给内莉。",
+        "内莉指着伊沃的纸条，塔维看着。",
+        "塔维摇头，内莉听着。",
         "内莉从展示架上取下铜制月桂装饰。",
-        "塔维接过内莉的小预约卡。",
-        "塔维朝东走去，预约卡已放进小包。"
+        "内莉收起展示物，塔维带着纸条离开。"
       ],
       "captions": [
-        "回家之前，塔维又来到内莉的摊位：“你的机器让大家越来越难相处了。”",
-        "内莉没有急着找一句回复，而是听完后问：“它到底发了些什么？”",
-        "塔维复述了有关玻璃的指责。内莉问他是否去过东门。他没有。",
-        "“它只是把你的抱怨变成最有力的说辞，”内莉说，“它不会查明到底发生了什么。”",
-        "她望着闪亮的展示架：“我把它展示得像是很有智慧。这一点也得改。”",
-        "内莉提议明天一起测试机器。不过在那之前，塔维得先去看看真正的货物。",
-        "市场的窗板纷纷合上时，塔维转向东边。这一次，他走向一个人，而不是另一句回复。"
+        "离开服务站后，塔维带着纸张回到内莉的摊位。",
+        "“为什么谁都不理解？”他问。内莉想看看伊沃原先的便条。",
+        "塔维已经把它从机器的原稿退回袋里取了出来。他递给内莉。",
+        "“这里写的是东门，”内莉说，“你去过吗？”",
+        "塔维摇头。他只去看了自己以为会收到货的地方。",
+        "内莉望向自己的展示。“我的宣传把这台机器说得比它实际更有智慧。”",
+        "她收起了宣传用的展示物。塔维拿着伊沃的便条，朝东门走去。"
       ],
       "introduction": "内莉说明机器的能力边界，也承认自己的展示方式让人误解。",
       "title": "漏掉的问题"
@@ -401,7 +401,7 @@
   "number": 9,
   "panels": [
     {
-      "altText": "Tavi faces Neri across the stall’s empty display mat.",
+      "altText": "Tavi brings his papers to Neri’s stall.",
       "image": "N03E09P01.png"
     },
     {
@@ -409,23 +409,23 @@
       "image": "N03E09P02.png"
     },
     {
-      "altText": "Neri points toward the east lane while Tavi looks aside.",
+      "altText": "Tavi hands Ivo’s original note to Neri.",
       "image": "N03E09P03.png"
     },
     {
-      "altText": "Neri places two separate blank cards on the counter.",
+      "altText": "Neri points to Ivo’s note while Tavi watches.",
       "image": "N03E09P04.png"
     },
     {
-      "altText": "Neri removes a brass laurel from the display stand.",
+      "altText": "Tavi shakes his head as Neri listens.",
       "image": "N03E09P05.png"
     },
     {
-      "altText": "Tavi accepts Neri’s small appointment card.",
+      "altText": "Neri removes a brass laurel from the display stand.",
       "image": "N03E09P06.png"
     },
     {
-      "altText": "Tavi walks east with the appointment card in his pouch.",
+      "altText": "Neri puts away the display as Tavi leaves with the note.",
       "image": "N03E09P07.png"
     }
   ],

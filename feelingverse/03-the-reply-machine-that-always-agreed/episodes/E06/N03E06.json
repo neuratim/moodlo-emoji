@@ -4,21 +4,21 @@
     "ar": {
       "altTexts": [
         "يرتب تافي مقاعد فارغة حول طاولة التخطيط.",
-        "تقف لوما عند باب الورشة وتحمل لفة أدواتها.",
-        "يشير تافي إلى الكراسي الفارغة بينما تنظر لوما إليه.",
-        "يمد تافي يده نحو الصينية ولوما أمامه.",
+        "تجمع لوما لفة أدواتها بينما يقف إيفو قرب تافي.",
+        "يتحدث إيفو إلى تافي بينما تنتظر لوما ومعها أدواتها.",
+        "تغلق لوما لفة أدواتها بينما يستمع تافي وإيفو.",
         "ترفع لوما كفا مفتوحة بجوار المدخل الخالي من العوائق.",
-        "تبتعد لوما حاملة لفة الأدوات، من دون الإطار.",
-        "يجلس تافي وحده بجوار رد جديد من الآلة."
+        "تغادر لوما الورشة بينما يبقى إيفو بجوار تافي.",
+        "يجلس تافي وحده بجانب رد مطبوع بقي في صينية الإخراج."
       ],
       "captions": [
-        "بعد الظهر، رتب تافي طاولة التخطيط من جديد. كان بعض المساعدين قد توقفوا عن الرد على رسائله.",
-        "جاءت لوما لأخذ أدواتها فقط. قالت: «آلتك أخبرتني أنني أتهرب من مسؤولياتي».",
-        "أشار تافي إلى الكراسي الفارغة: «لكن لا أحد هنا». رأى في ذلك دليلا، بينما سمعت لوما عتابا جديدا.",
-        "قالت لوما: «لم تسأل عما حدث. أرسلت حكما فقط». مد تافي يده إلى رد مطبوع آخر.",
-        "تراجعت لوما خطوة. «لا مزيد من الرسائل الشخصية عبر الآلة. يمكن أن تصل معلومات المشروع عن طريق إيفو».",
-        "تركت الإطار للمشروع، لكنها أخذت أدواتها إلى بيتها. لم يتبعها تافي.",
-        "في المساء، أنتجت الآلة جملة مثالية أخرى. ولم يكن عند الطاولة أحد غير تافي ليسمعها."
+        "بحلول اجتماع ذلك المساء، كان عدة مشاركين قد اعتذروا عن الحضور بعد تلقي ردود تلقائية عدائية.",
+        "جاءت لوما لتأخذ أدواتها. وجاء إيفو للاتفاق على استلام الشحنة.",
+        "قال إيفو: «أرجوك، تعال لاستلام الزجاج من البوابة الشرقية». فبدأ تافي يدافع عن ردود الآلة.",
+        "أغلقت لوما لفافة أدواتها. وقالت: «لن أواصل الحديث مع آلتك».",
+        "«يمكن أن يبقى الإطار للمشروع. لا ترسل إليّ ردودًا آلية شخصية».",
+        "وافق إيفو على نقل تفاصيل المشروع الضرورية. وغادرت لوما من دون أن توافق على لقاء آخر.",
+        "نظر تافي إلى المقاعد التي لم يجلس عليها أحد. كان يريد الصحبة، لكن ردوده أبعدت الناس عنه."
       ],
       "introduction": "تضيع فرصة أخرى للكلام المباشر، وتضع لوما حدا واضحا.",
       "title": "الطاولة الصامتة"
@@ -26,21 +26,21 @@
     "bn": {
       "altTexts": [
         "টাভি আলোচনার টেবিলের চারদিকে খালি চেয়ার সাজাচ্ছে।",
-        "লুমা সরঞ্জামের গোটানো থলি হাতে কর্মশালার দরজায় দাঁড়িয়ে আছে।",
-        "টাভি খালি চেয়ার দেখাচ্ছে, লুমা তাকিয়ে আছে।",
-        "লুমার সামনে টাভি ট্রের দিকে হাত বাড়াচ্ছে।",
+        "লুমা তার গোটানো যন্ত্রপাতির থলিটি গুছিয়ে নিচ্ছে, আর ইভো টাভির পাশে দাঁড়িয়ে আছে।",
+        "ইভো টাভির সঙ্গে কথা বলছে, আর লুমা তার যন্ত্রপাতি নিয়ে অপেক্ষা করছে।",
+        "লুমা যন্ত্রপাতির থলিটি বন্ধ করছে, আর টাভি ও ইভো শুনছে।",
         "বাধাহীন দরজার পাশে লুমা খোলা হাতের তালু তুলেছে।",
-        "লুমা কাঠামো ছাড়া কেবল সরঞ্জামের থলি নিয়ে চলে যাচ্ছে।",
-        "টাভি যন্ত্রের নতুন উত্তরের পাশে একা বসে আছে।"
+        "লুমা কর্মশালা ছেড়ে যাচ্ছে, আর ইভো টাভির পাশে থাকছে।",
+        "ট্রেতে পড়ে থাকা একটি ছাপা উত্তরের পাশে টাভি একা বসে থাকে।"
       ],
       "captions": [
-        "সেই বিকেলে টাভি আলোচনার টেবিল আবার সাজাল। কয়েকজন সাহায্যকারী তার বার্তার উত্তর দেওয়া বন্ধ করে দিয়েছিল।",
-        "লুমা শুধু সরঞ্জাম নিতে এল। বলল, “তোমার যন্ত্র বলেছে, আমি নাকি দায়িত্ব এড়িয়ে যাচ্ছি।”",
-        "টাভি খালি চেয়ার দেখাল। “কিন্তু এখানে তো কেউ নেই।” তার কাছে সেটা প্রমাণ, লুমার কাছে দোষারোপ।",
-        "লুমা বলল, “কী হয়েছিল জিজ্ঞেস করোনি। শুধু রায় পাঠিয়েছ।” টাভি আবার একটি ছাপা উত্তরের দিকে হাত বাড়াল।",
-        "লুমা পিছিয়ে গেল। “যন্ত্র দিয়ে আর ব্যক্তিগত বার্তা পাঠিয়ো না। কাজের কথা ইভোর মাধ্যমে পাঠাতে পারো।”",
-        "লুমা কাজের জন্য কাঠামো রেখে গেল, কিন্তু নিজের সরঞ্জাম নিয়ে বাড়ি ফিরল। টাভি তার পিছু নিল না।",
-        "সন্ধ্যায় যন্ত্র আরও একটি নিখুঁত বাক্য তৈরি করল। শোনার জন্য টেবিলে টাভি ছাড়া আর কেউ ছিল না।"
+        "সেদিন সন্ধ্যার আলোচনার আগেই বেশ কয়েকজন সাহায্যকারী রূঢ় স্বয়ংক্রিয় উত্তর পেয়ে আসতে অস্বীকার করেছিল।",
+        "লুমা নিজের সরঞ্জাম নিতে এল। ইভো এল মাল বুঝে নেওয়ার ব্যবস্থা ঠিক করতে।",
+        "ইভো বলল, “দয়া করে পূর্বের ফটক থেকে কাচ নিয়ে এসো।” টাভি যন্ত্রের উত্তরগুলোর পক্ষে যুক্তি দিতে শুরু করল।",
+        "লুমা তার সরঞ্জামের গোটানো থলেটা বন্ধ করল। “আমি তোমার যন্ত্রের সঙ্গে কথা চালিয়ে যাব না।”",
+        "“কাঠামোটা প্রকল্পের জন্য এখানে থাকতে পারে। আমাকে যন্ত্র দিয়ে বানানো ব্যক্তিগত উত্তর পাঠাবে না।”",
+        "ইভো কাজের জরুরি খবর পৌঁছে দিতে রাজি হলো। লুমা আরেকবার দেখা করার কথা না দিয়েই চলে গেল।",
+        "টাভি খালি আসনগুলোর সামনে রইল। সে সঙ্গ চেয়েছিল, অথচ তার উত্তরগুলোই মানুষকে দূরে সরিয়ে দিয়েছে।"
       ],
       "introduction": "সরাসরি কথা বলার আরেকটি সুযোগ নষ্ট হয়, আর লুমা নিজের সীমা জানায়।",
       "title": "নীরব টেবিল"
@@ -48,21 +48,21 @@
     "cs": {
       "altTexts": [
         "Tavi rovná prázdná sedadla kolem poradního stolu.",
-        "Luma stojí ve dveřích dílny se svým pouzdrem na nářadí.",
-        "Tavi ukazuje na prázdné židle a Luma ho sleduje.",
-        "Tavi sahá k přihrádce, zatímco Luma stojí proti němu.",
+        "Luma sbírá svůj svinovací obal s nářadím, zatímco Ivo stojí u Taviho.",
+        "Ivo mluví s Tavim a Luma čeká se svým nářadím.",
+        "Luma zavírá obal s nářadím, zatímco Tavi a Ivo naslouchají.",
         "Luma zvedá otevřenou dlaň vedle volného průchodu dveřmi.",
-        "Luma odchází s nářadím, bez rámu.",
-        "Tavi sedí sám vedle čerstvé odpovědi stroje."
+        "Luma odchází z dílny a Ivo zůstává u Taviho.",
+        "Tavi sedí sám vedle vytištěné odpovědi, která zůstala ve výstupní přihrádce."
       ],
       "captions": [
-        "Odpoledne Tavi znovu připravil stůl na poradu. Několik pomocníků přestalo odpovídat na jeho zprávy.",
-        "Luma přišla jen pro nářadí. „Tvůj stroj mi napsal, že se vyhýbám povinnostem,“ řekla.",
-        "Tavi ukázal na prázdné židle. „Ale nikdo tu není.“ Pro něj to byl důkaz; Luma v tom slyšela výčitku.",
-        "„Nezeptal ses, co se stalo,“ řekla Luma. „Poslal jsi mi rozsudek.“ Tavi sáhl po další vytištěné odpovědi.",
-        "Luma ustoupila. „Už žádné osobní vzkazy přes ten stroj. Informace o projektu mi může předat Ivo.“",
-        "Rám nechala pro projekt, ale nářadí si odnesla domů. Tavi za ní nešel.",
-        "Ten večer stroj vytvořil další dokonalou větu. U stolu nebyl nikdo další, kdo by ji vyslechl."
+        "Než nastal čas večerní schůzky, několik pomocníků účast odmítlo kvůli nepřátelským automatickým odpovědím.",
+        "Luma přišla pro své nářadí. Ivo přišel dořešit převzetí dodávky.",
+        "„Prosím, vyzvedni to sklo u východní brány,“ řekl Ivo. Tavi začal obhajovat odpovědi stroje.",
+        "Luma zavřela pouzdro s nářadím. „Nebudu dál vést rozhovory s tvým strojem.“",
+        "„Rám tu může zůstat pro společnou práci. Osobní odpovědi ze stroje mi už neposílej.“",
+        "Ivo souhlasil, že bude předávat nezbytné pracovní informace. Luma odešla, aniž přislíbila další schůzku.",
+        "Tavi hleděl na neobsazená místa. Chtěl mít kolem sebe lidi, ale svými odpověďmi je odradil."
       ],
       "introduction": "Osobní rozhovor se stane další promarněnou příležitostí a Luma stanoví hranici.",
       "title": "Tichý stůl"
@@ -70,21 +70,21 @@
     "de": {
       "altTexts": [
         "Tavi ordnet leere Sitzplätze um den Planungstisch.",
-        "Luma steht mit ihrer Werkzeugrolle in der Werkstatttür.",
-        "Tavi zeigt auf leere Stühle, während Luma ihn ansieht.",
-        "Tavi greift zur Schale, während Luma ihm gegenübersteht.",
+        "Luma nimmt ihre Werkzeugrolle, während Ivo neben Tavi steht.",
+        "Ivo spricht mit Tavi, während Luma mit ihrem Werkzeug wartet.",
+        "Luma schließt ihre Werkzeugrolle, während Tavi und Ivo zuhören.",
         "Luma hebt neben dem freien Türdurchgang eine offene Hand.",
-        "Luma geht mit ihrer Werkzeugrolle fort, ohne den Rahmen.",
-        "Tavi sitzt allein neben der frisch gedruckten Antwort."
+        "Luma verlässt die Werkstatt, während Ivo bei Tavi bleibt.",
+        "Tavi sitzt allein neben einer gedruckten Antwort, die in der Ablage liegt."
       ],
       "captions": [
-        "Am Nachmittag bereitete Tavi erneut den Planungstisch vor. Mehrere Helfer antworteten nicht mehr auf seine Nachrichten.",
-        "Luma kam nur, um ihr Werkzeug abzuholen. „Deine Maschine hat mir geschrieben, ich würde mich vor meinen Aufgaben drücken“, sagte sie.",
-        "Tavi zeigte auf die leeren Stühle. „Aber es ist niemand hier.“ Er hörte einen Beweis, Luma einen Vorwurf.",
-        "„Du hast nicht gefragt, was passiert ist“, sagte Luma. „Du hast mir ein Urteil geschickt.“ Tavi griff nach einer weiteren gedruckten Antwort.",
-        "Luma trat zurück. „Keine persönlichen Nachrichten mehr durch diese Maschine. Informationen zum Projekt können über Ivo kommen.“",
-        "Den Rahmen ließ sie für das Projekt da, ihr Werkzeug nahm sie mit nach Hause. Tavi folgte ihr nicht.",
-        "Am Abend erzeugte die Maschine einen weiteren perfekten Satz. Niemand sonst saß am Tisch, um ihn zu hören."
+        "Bis zum Treffen an diesem Abend hatten mehrere Helfer nach feindseligen automatischen Antworten abgesagt.",
+        "Luma kam, um ihr Werkzeug abzuholen. Ivo wollte die Annahme der Lieferung klären.",
+        "„Bitte hol das Glas am Osttor ab“, sagte Ivo. Tavi begann, die Antworten der Maschine zu verteidigen.",
+        "Luma schloss ihre Werkzeugrolle. „Ich werde nicht weiter Gespräche mit deiner Maschine führen.“",
+        "„Der Rahmen kann für das Projekt bleiben. Schick mir keine persönlichen Maschinenantworten mehr.“",
+        "Ivo erklärte sich bereit, nötige Projektinformationen weiterzugeben. Luma ging, ohne einem weiteren Treffen zuzustimmen.",
+        "Tavi blickte auf die unbesetzten Plätze. Er hatte Gesellschaft gewollt, doch seine Antworten hatten die anderen vertrieben."
       ],
       "introduction": "Ein persönliches Gespräch wird zur nächsten verpassten Gelegenheit, und Luma setzt eine Grenze.",
       "title": "Der stille Tisch"
@@ -92,21 +92,21 @@
     "en": {
       "altTexts": [
         "Tavi arranges empty seats around the planning table.",
-        "Luma stands at the workshop door holding her tool roll.",
-        "Tavi points to empty chairs while Luma watches.",
-        "Tavi reaches toward the tray while Luma faces him.",
+        "Luma collects her tool roll while Ivo stands near Tavi.",
+        "Ivo speaks to Tavi while Luma waits with her tools.",
+        "Luma closes her tool roll while Tavi and Ivo listen.",
         "Luma raises an open palm beside the clear doorway.",
-        "Luma walks away carrying her tool roll, without the frame.",
-        "Tavi sits alone beside the machine’s fresh reply."
+        "Luma leaves the workshop while Ivo stays beside Tavi.",
+        "Tavi sits alone beside a printed reply left in the tray."
       ],
       "captions": [
-        "That afternoon, Tavi arranged the planning table again. Several helpers had stopped answering his messages.",
-        "Luma came only to collect her tools. “Your machine told me I was avoiding my responsibilities,” she said.",
-        "Tavi pointed at the empty chairs. “But no one is here.” He heard proof where Luma heard blame.",
-        "“You didn’t ask what happened,” Luma said. “You sent me a verdict.” Tavi reached for another printed reply.",
-        "Luma stepped back. “No more personal messages through that machine. Project information can come through Ivo.”",
-        "She left the lantern frame for the project, but took her tools home. Tavi did not follow her.",
-        "That evening, the machine produced another perfect sentence. There was nobody else at the table to hear it."
+        "By that evening’s meeting, several helpers had declined after receiving hostile automatic replies.",
+        "Luma came to collect her tools. Ivo came to settle the delivery arrangements.",
+        "“Please collect the glass at the east gate,” Ivo said. Tavi started defending the machine’s answers.",
+        "Luma closed her tool roll. “I won’t keep having conversations with your machine.”",
+        "“The frame can stay for the project. Do not send me personal machine replies.”",
+        "Ivo agreed to relay necessary project details. Luma left without agreeing to another meeting.",
+        "Tavi faced the unused seats. He had wanted company, but his replies had driven people away."
       ],
       "introduction": "A direct conversation becomes another missed chance, and Luma sets a boundary.",
       "title": "The Quiet Table"
@@ -114,21 +114,21 @@
     "es": {
       "altTexts": [
         "Tavi ordena asientos vacíos alrededor de la mesa.",
-        "Luma está en la puerta del taller con su rollo de herramientas.",
-        "Tavi señala las sillas vacías mientras Luma lo mira.",
-        "Tavi alcanza la bandeja mientras Luma está frente a él.",
+        "Luma recoge su estuche enrollable de herramientas mientras Ivo está junto a Tavi.",
+        "Ivo habla con Tavi mientras Luma espera con sus herramientas.",
+        "Luma cierra su estuche de herramientas mientras Tavi e Ivo escuchan.",
         "Luma levanta una mano abierta junto a la puerta despejada.",
-        "Luma se marcha con sus herramientas, sin el marco.",
-        "Tavi está sentado solo junto a la nueva respuesta."
+        "Luma sale del taller mientras Ivo se queda junto a Tavi.",
+        "Tavi está sentado solo junto a una respuesta impresa que quedó en la bandeja."
       ],
       "captions": [
-        "Aquella tarde, Tavi volvió a preparar la mesa de planificación. Varios ayudantes habían dejado de contestar sus mensajes.",
-        "Luma vino solo a recoger sus herramientas. «Tu máquina me dijo que estaba eludiendo mis responsabilidades», explicó.",
-        "Tavi señaló las sillas vacías. «Pero no hay nadie». Él veía una prueba donde Luma escuchaba un reproche.",
-        "«No preguntaste qué había pasado», dijo Luma. «Me enviaste una sentencia». Tavi alargó la mano hacia otra respuesta impresa.",
-        "Luma retrocedió. «No más mensajes personales a través de esa máquina. La información del proyecto puede llegar por Ivo».",
-        "Dejó el marco para el proyecto, pero se llevó las herramientas a casa. Tavi no la siguió.",
-        "Esa noche, la máquina produjo otra frase perfecta. No había nadie más en la mesa para escucharla."
+        "Cuando llegó la hora de la reunión, al anochecer, varios ayudantes habían cancelado su asistencia tras recibir respuestas automáticas hostiles.",
+        "Luma vino a recoger sus herramientas. Ivo vino a resolver la recepción de la entrega.",
+        "«Por favor, recoge el vidrio en la puerta este», dijo Ivo. Tavi empezó a defender las respuestas de la máquina.",
+        "Luma cerró su estuche de herramientas. «No voy a seguir conversando con tu máquina».",
+        "«El marco puede quedarse para el proyecto. No me envíes más respuestas personales hechas por la máquina».",
+        "Ivo aceptó transmitir la información necesaria del proyecto. Luma se marchó sin aceptar otra reunión.",
+        "Tavi miró los asientos vacíos. Quería compañía, pero sus respuestas habían alejado a los demás."
       ],
       "introduction": "Una conversación directa se convierte en otra oportunidad perdida, y Luma establece un límite.",
       "title": "La mesa en silencio"
@@ -136,21 +136,21 @@
     "fr": {
       "altTexts": [
         "Tavi dispose des sièges vides autour de la table de réunion.",
-        "Luma tient sa trousse à outils sur le seuil de l’atelier.",
-        "Tavi montre les chaises vides pendant que Luma le regarde.",
-        "Tavi tend la main vers le plateau, face à Luma.",
+        "Luma rassemble sa trousse à outils roulable tandis qu’Ivo se tient près de Tavi.",
+        "Ivo parle à Tavi tandis que Luma attend avec ses outils.",
+        "Luma ferme sa trousse à outils tandis que Tavi et Ivo écoutent.",
         "Luma lève une paume ouverte près de la porte dégagée.",
-        "Luma repart avec ses outils, sans le cadre.",
-        "Tavi est assis seul près de la nouvelle réponse imprimée."
+        "Luma quitte l’atelier tandis qu’Ivo reste près de Tavi.",
+        "Tavi est assis seul près d’une réponse imprimée restée dans le bac."
       ],
       "captions": [
-        "Cet après-midi-là, Tavi prépara encore la table de réunion. Plusieurs bénévoles ne répondaient plus à ses messages.",
-        "Luma vint seulement chercher ses outils. « Ta machine m’a dit que je fuyais mes responsabilités », dit-elle.",
-        "Tavi montra les chaises vides. « Mais il n’y a personne. » Il y voyait une preuve ; Luma entendait un reproche.",
-        "« Tu n’as pas demandé ce qui s’était passé », dit Luma. « Tu m’as envoyé un verdict. » Tavi chercha une autre réponse imprimée.",
-        "Luma recula. « Plus de messages personnels par cette machine. Les informations du projet peuvent passer par Ivo. »",
-        "Elle laissa le cadre pour le projet, mais emporta ses outils chez elle. Tavi ne la suivit pas.",
-        "Le soir, la machine produisit une nouvelle phrase parfaite. Personne d’autre n’était à table pour l’entendre."
+        "Avant la réunion de ce soir-là, plusieurs participants avaient décliné l’invitation après des réponses automatiques hostiles.",
+        "Luma vint chercher ses outils. Ivo vint régler les modalités de réception de la livraison.",
+        "« Va chercher le verre à la porte est, s’il te plaît », dit Ivo. Tavi se mit à défendre la machine.",
+        "Luma referma sa trousse d’outils. « Je ne continuerai pas à avoir des conversations avec ta machine. »",
+        "« Le cadre peut rester pour le projet. Ne m’envoie plus de réponses personnelles écrites par la machine. »",
+        "Ivo accepta de transmettre les informations nécessaires au projet. Luma partit sans accepter un autre rendez-vous.",
+        "Tavi regarda les places inoccupées. Il avait voulu de la compagnie, mais ses réponses avaient éloigné les autres."
       ],
       "introduction": "Une conversation directe devient une nouvelle occasion manquée, et Luma pose une limite.",
       "title": "La table silencieuse"
@@ -158,21 +158,21 @@
     "hi": {
       "altTexts": [
         "तावी बैठक की मेज़ के चारों ओर खाली कुर्सियाँ लगा रहा है।",
-        "लूमा अपनी औज़ार-पोटली लेकर कार्यशाला के दरवाज़े पर खड़ी है।",
-        "तावी खाली कुर्सियों की ओर इशारा कर रहा है और लूमा देख रही है।",
-        "लूमा के सामने तावी तश्तरी की ओर हाथ बढ़ा रहा है।",
+        "लूमा अपना लपेटने वाला औज़ारों का थैला समेट रही है, जबकि ईवो तावी के पास खड़ा है।",
+        "ईवो तावी से बात कर रहा है, जबकि लूमा अपने औज़ारों के साथ इंतज़ार कर रही है।",
+        "लूमा औज़ारों का थैला बंद कर रही है, जबकि तावी और ईवो सुन रहे हैं।",
         "खुले रास्ते वाले दरवाज़े के पास लूमा हथेली उठा रही है।",
-        "लूमा चौखटे के बिना, केवल औज़ार-पोटली लेकर जा रही है।",
-        "तावी मशीन के नए जवाब के पास अकेला बैठा है।"
+        "लूमा कार्यशाला से जा रही है, जबकि ईवो तावी के पास रुका है।",
+        "तावी ट्रे में पड़े एक छपे हुए जवाब के पास अकेला बैठा है।"
       ],
       "captions": [
-        "उस दोपहर तावी ने बैठक की मेज़ फिर सजाई। कई मददगार अब उसके संदेशों का जवाब नहीं दे रहे थे।",
-        "लूमा केवल औज़ार लेने आई। उसने कहा, “तुम्हारी मशीन ने कहा कि मैं अपनी जिम्मेदारियों से बच रही हूँ।”",
-        "तावी ने खाली कुर्सियाँ दिखाईं। “पर यहाँ कोई है ही नहीं।” उसने इसे सबूत माना, जबकि लूमा को इसमें दोषारोपण सुनाई दिया।",
-        "लूमा बोली, “तुमने पूछा नहीं कि क्या हुआ। बस फैसला भेज दिया।” तावी फिर एक छपे जवाब की ओर हाथ बढ़ाने लगा।",
-        "लूमा पीछे हटी। “इस मशीन से मुझे और निजी संदेश मत भेजना। काम की जानकारी ईवो से भिजवा सकते हो।”",
-        "उसने काम के लिए चौखटा वहीं छोड़ा, मगर अपने औज़ार घर ले गई। तावी उसके पीछे नहीं गया।",
-        "शाम को मशीन ने एक और बेहतरीन वाक्य निकाला। उसे सुनने के लिए मेज़ पर तावी के अलावा कोई नहीं था।"
+        "उसी शाम की बैठक तक कई मददगार, रूखे और आरोप भरे स्वचालित जवाब मिलने के कारण, आने से मना कर चुके थे।",
+        "लूमा अपने औज़ार लेने आई। ईवो सामान लेने की व्यवस्था तय करने आया।",
+        "ईवो ने कहा, “कृपया पूर्वी फाटक से काँच ले आओ।” तावी मशीन के जवाबों का बचाव करने लगा।",
+        "लूमा ने अपने औज़ारों की लपेट बंद की। “मैं तुम्हारी मशीन से बातचीत करती नहीं रहूँगी।”",
+        "“ढाँचा परियोजना के लिए यहीं रह सकता है। मुझे मशीन से बनाए गए निजी जवाब मत भेजना।”",
+        "ईवो ज़रूरी काम की जानकारी पहुँचाने को राज़ी हुआ। लूमा अगली मुलाकात का वादा किए बिना चली गई।",
+        "तावी खाली पड़ी सीटों के सामने बैठा था। उसे साथ चाहिए था, लेकिन उसके जवाबों ने लोगों को दूर कर दिया था।"
       ],
       "introduction": "सीधे संवाद का एक और मौका खो जाता है और लूमा अपनी सीमा साफ कर देती है।",
       "title": "खामोश मेज़"
@@ -180,21 +180,21 @@
     "id": {
       "altTexts": [
         "Tavi menata tempat duduk kosong di sekeliling meja perencanaan.",
-        "Luma berdiri di pintu bengkel dengan gulungan tempat peralatannya.",
-        "Tavi menunjuk kursi kosong sementara Luma memandangnya.",
-        "Tavi meraih baki sementara Luma berdiri di hadapannya.",
+        "Luma mengambil gulungan perkakasnya sementara Ivo berdiri dekat Tavi.",
+        "Ivo berbicara kepada Tavi sementara Luma menunggu dengan perkakasnya.",
+        "Luma menutup gulungan perkakasnya sementara Tavi dan Ivo mendengarkan.",
         "Luma mengangkat telapak tangan di dekat pintu yang jalannya bebas.",
-        "Luma pergi membawa peralatan, tanpa rangka.",
-        "Tavi duduk sendirian di dekat balasan yang baru dicetak."
+        "Luma meninggalkan bengkel sementara Ivo tetap di dekat Tavi.",
+        "Tavi duduk sendirian di samping balasan tercetak yang tertinggal di baki."
       ],
       "captions": [
-        "Sore itu, Tavi kembali menata meja perencanaan. Beberapa pembantu proyek sudah berhenti membalas pesannya.",
-        "Luma datang hanya untuk mengambil peralatan. “Mesinmu bilang aku menghindari tanggung jawab,” katanya.",
-        "Tavi menunjuk kursi-kursi kosong. “Tapi tidak ada siapa-siapa di sini.” Baginya itu bukti; bagi Luma, itu tuduhan.",
-        "“Kamu tidak bertanya apa yang terjadi,” kata Luma. “Kamu mengirimkan vonis.” Tavi meraih balasan cetak yang lain.",
-        "Luma mundur. “Jangan kirim pesan pribadi lewat mesin itu lagi. Informasi proyek boleh disampaikan melalui Ivo.”",
-        "Ia meninggalkan rangka untuk proyek, tetapi membawa peralatannya pulang. Tavi tidak mengikutinya.",
-        "Malam itu, mesin menghasilkan kalimat sempurna lagi. Tidak ada orang lain di meja untuk mendengarnya."
+        "Menjelang rapat malam itu, beberapa pembantu proyek sudah menolak datang setelah menerima balasan otomatis yang kasar.",
+        "Luma datang mengambil peralatannya. Ivo datang untuk membereskan pengaturan penerimaan kiriman.",
+        "“Tolong ambil kacanya di gerbang timur,” kata Ivo. Tavi malah mulai membela jawaban mesin.",
+        "Luma menutup gulungan perkakasnya. “Aku tidak mau terus berbicara dengan mesinmu.”",
+        "“Rangkanya boleh tinggal untuk proyek ini. Jangan kirim lagi balasan pribadi yang ditulis mesin.”",
+        "Ivo bersedia meneruskan informasi proyek yang diperlukan. Luma pergi tanpa menyetujui pertemuan berikutnya.",
+        "Tavi memandangi kursi-kursi kosong. Ia menginginkan kebersamaan, tetapi balasannya justru menjauhkan orang-orang."
       ],
       "introduction": "Percakapan langsung menjadi kesempatan yang terlewat lagi, dan Luma menetapkan batas.",
       "title": "Meja yang Sunyi"
@@ -202,43 +202,43 @@
     "it": {
       "altTexts": [
         "Tavi sistema posti vuoti intorno al tavolo delle riunioni.",
-        "Luma è sulla porta del laboratorio con il rotolo degli attrezzi.",
-        "Tavi indica le sedie vuote mentre Luma lo guarda.",
-        "Tavi allunga la mano verso il vassoio, di fronte a Luma.",
+        "Luma raccoglie la sua custodia arrotolabile per gli attrezzi mentre Ivo è vicino a Tavi.",
+        "Ivo parla con Tavi mentre Luma aspetta con i suoi attrezzi.",
+        "Luma chiude la custodia degli attrezzi mentre Tavi e Ivo ascoltano.",
         "Luma alza una mano aperta accanto alla porta sgombra.",
-        "Luma si allontana con gli attrezzi, senza la cornice.",
-        "Tavi siede solo accanto alla nuova risposta stampata."
+        "Luma lascia il laboratorio mentre Ivo rimane accanto a Tavi.",
+        "Tavi siede da solo accanto a una risposta stampata rimasta nel vassoio."
       ],
       "captions": [
-        "Quel pomeriggio Tavi preparò di nuovo il tavolo delle riunioni. Diversi aiutanti avevano smesso di rispondere ai suoi messaggi.",
-        "Luma venne soltanto a prendere gli attrezzi. «La tua macchina mi ha detto che stavo evitando le mie responsabilità», disse.",
-        "Tavi indicò le sedie vuote. «Ma non c’è nessuno». Lui ci vedeva una prova; Luma sentiva un rimprovero.",
-        "«Non hai chiesto che cosa fosse successo», disse Luma. «Mi hai mandato un verdetto». Tavi cercò un’altra risposta stampata.",
-        "Luma fece un passo indietro. «Niente più messaggi personali attraverso quella macchina. Per il progetto puoi passare da Ivo».",
-        "Lasciò la cornice per il progetto, ma portò gli attrezzi a casa. Tavi non la seguì.",
-        "Quella sera la macchina produsse un’altra frase perfetta. Al tavolo non c’era nessun altro ad ascoltarla."
+        "Prima della riunione di quella sera, diversi aiutanti avevano rinunciato dopo aver ricevuto risposte automatiche ostili.",
+        "Luma venne a riprendere gli attrezzi. Ivo venne a chiarire come ritirare la consegna.",
+        "«Per favore, ritira il vetro al cancello est», disse Ivo. Tavi cominciò a difendere le risposte della macchina.",
+        "Luma chiuse la custodia degli attrezzi. «Non continuerò a conversare con la tua macchina».",
+        "«Il telaio può restare per il progetto. Non mandarmi più risposte personali scritte dalla macchina».",
+        "Ivo accettò di trasmettere le informazioni necessarie al progetto. Luma se ne andò senza accettare un altro incontro.",
+        "Tavi guardò i posti vuoti. Aveva desiderato compagnia, ma le sue risposte avevano allontanato gli altri."
       ],
       "introduction": "Una conversazione diretta diventa un’altra occasione mancata e Luma stabilisce un limite.",
       "title": "Il tavolo silenzioso"
     },
     "ja": {
       "altTexts": [
-        "タヴィが打ち合わせのテーブルに空の椅子を並べています。",
-        "ルマが道具巻きを持って作業場の入口に立っています。",
-        "タヴィが空の椅子を指し、ルマが見ています。",
-        "ルマの前で、タヴィが受け皿に手を伸ばしています。",
+        "タヴィが打ち合わせ用のテーブルの周りに、空の椅子を並べています。",
+        "ルマが巻く形の道具入れをまとめ、イヴォはタヴィの近くに立っています。",
+        "イヴォがタヴィに話し、ルマは道具を持って待っています。",
+        "ルマが道具入れを閉じ、タヴィとイヴォが聞いています。",
         "ルマが通れる入口のそばで、開いた手のひらを上げています。",
-        "ルマが枠を持たず、道具巻きだけを持って歩いていきます。",
-        "タヴィが機械の新しい返信のそばで、一人座っています。"
+        "ルマが作業場を出ていき、イヴォはタヴィのそばに残っています。",
+        "タヴィが一人で座り、そばのトレーには印刷された返事が残っている。"
       ],
       "captions": [
-        "その日の午後、タヴィは打ち合わせのテーブルを整えました。手伝う人の何人かは、もう返事をくれなくなっていました。",
-        "ルマは道具だけを取りに来ました。「あなたの機械に、責任から逃げていると言われたわ」",
-        "タヴィは空いた椅子を指しました。「でも、誰もいないよ」。彼には証拠でも、ルマには責める言葉でした。",
-        "「何があったか聞かなかったでしょう。判決を送っただけ」。ルマが言うと、タヴィは別の印刷された返信に手を伸ばしました。",
-        "ルマは一歩下がりました。「個人的な連絡を、この機械で送らないで。作業の連絡はイヴォを通してね」",
-        "ルマは共同作業のために枠を残し、道具を持って帰りました。タヴィは追いかけませんでした。",
-        "その晩、機械はまた完璧な一文を出しました。それを聞く人は、テーブルにタヴィのほかには誰もいませんでした。"
+        "その夜の打ち合わせまでに、何人もの手伝いの人が、攻撃的な自動返信を受けて参加を断っていた。",
+        "ルマは道具を取りに来た。イヴォは荷物の受け取りについて決めるために来た。",
+        "「東の門のガラスを引き取ってほしい」とイヴォは言った。タヴィは機械の返事をかばい始めた。",
+        "ルマは道具入れを閉じた。「これ以上、あなたの機械と話をするつもりはないよ」",
+        "「枠はみんなの作業のために置いていく。でも、機械が書いた個人的な返事はもう送らないで」",
+        "イヴォは、作業に必要な情報なら取り次ぐと約束した。ルマは次の約束をせずに帰った。",
+        "タヴィは使われない席を見つめた。一緒にいたかったのに、自分の返事が人を遠ざけてしまった。"
       ],
       "introduction": "直接話せる機会がまた失われ、ルマは自分の境界を伝えます。",
       "title": "静かなテーブル"
@@ -246,21 +246,21 @@
     "ko": {
       "altTexts": [
         "타비가 회의 탁자 주변에 빈 의자를 놓아요.",
-        "루마가 도구 두루마리를 들고 작업실 문 앞에 서 있어요.",
-        "타비가 빈 의자를 가리키고, 루마가 바라봐요.",
-        "루마 앞에서 타비가 출력 받침 쪽으로 손을 뻗어요.",
+        "루마가 말아 두는 공구집을 챙기고, 이보는 타비 가까이에 서 있어요.",
+        "이보가 타비에게 말하고, 루마는 공구를 들고 기다려요.",
+        "루마가 공구집을 닫고, 타비와 이보가 듣고 있어요.",
         "루마가 막히지 않은 출입구 옆에서 손바닥을 펴 들어요.",
-        "루마가 틀 없이 도구 두루마리만 들고 떠나요.",
-        "타비가 기계의 새 답장 옆에 혼자 앉아 있어요."
+        "루마가 작업장을 떠나고, 이보는 타비 곁에 남아 있어요.",
+        "타비가 혼자 앉아 있고, 옆의 받침대에는 인쇄된 답장 한 장이 남아 있다."
       ],
       "captions": [
-        "그날 오후 타비는 회의 탁자를 다시 준비했어요. 몇몇 도우미는 더 이상 메시지에 답하지 않았어요.",
-        "루마는 도구만 가지러 왔어요. “네 기계가 나더러 책임을 피하고 있대.” 루마가 말했어요.",
-        "타비는 빈 의자를 가리켰어요. “하지만 아무도 없잖아.” 타비에게는 증거였지만, 루마에게는 또 다른 탓이었어요.",
-        "“무슨 일이 있었는지 묻지 않았잖아. 판결만 보냈지.” 루마가 말하자 타비는 인쇄된 답장에 다시 손을 뻗었어요.",
-        "루마는 뒤로 물러섰어요. “기계로 개인적인 메시지를 보내지 마. 작업에 관한 연락은 이보를 통해 줘.”",
-        "루마는 공동 작업을 위해 틀을 남겨 두고 도구만 가져갔어요. 타비는 뒤따라가지 않았어요.",
-        "그날 저녁 기계는 또 완벽한 문장을 내놓았어요. 하지만 탁자에는 타비 말고 그 말을 들을 사람이 없었어요."
+        "그날 저녁 회의가 시작될 무렵, 여러 사람이 적대적인 자동 답장을 받고 참석을 거절한 상태였다.",
+        "루마는 자기 연장을 찾으러 왔다. 이보는 유리를 언제 받아 갈지 정하려고 왔다.",
+        "“동쪽 입구에 있는 유리를 가져가 줘.” 이보가 말했다. 타비는 기계의 답장이 옳다고 설명하기 시작했다.",
+        "루마는 연장 꾸러미를 접었다. “나는 더 이상 네 기계와 대화하지 않을 거야.”",
+        "“틀은 행사를 위해 두고 갈게. 나한테 기계가 쓴 개인적인 답장은 더 이상 보내지 마.”",
+        "이보는 필요한 행사 소식을 전해 주기로 했다. 루마는 다음에 만나자는 약속을 하지 않고 떠났다.",
+        "타비는 아무도 앉지 않은 자리들을 마주했다. 함께 있고 싶었지만, 자신이 보낸 답장들이 사람들을 떠나게 했다."
       ],
       "introduction": "직접 대화할 기회를 또 놓치고, 루마는 자신의 경계를 분명히 합니다.",
       "title": "조용한 탁자"
@@ -268,21 +268,21 @@
     "pl": {
       "altTexts": [
         "Tavi ustawia puste siedzenia wokół stołu do narad.",
-        "Luma stoi w drzwiach warsztatu ze zwijanym etui na narzędzia.",
-        "Tavi wskazuje puste krzesła, a Luma na niego patrzy.",
-        "Tavi sięga do tacki, stojąc naprzeciw Lumy.",
+        "Luma zbiera swój zwijany pokrowiec z narzędziami, a Ivo stoi obok Taviego.",
+        "Ivo rozmawia z Tavim, a Luma czeka ze swoimi narzędziami.",
+        "Luma zamyka pokrowiec z narzędziami, a Tavi i Ivo słuchają.",
         "Luma unosi otwartą dłoń obok wolnego przejścia w drzwiach.",
-        "Luma odchodzi z narzędziami, bez ramy.",
-        "Tavi siedzi sam obok świeżo wydrukowanej odpowiedzi."
+        "Luma wychodzi z warsztatu, a Ivo zostaje przy Tavim.",
+        "Tavi siedzi sam obok wydrukowanej odpowiedzi, która została na tacce."
       ],
       "captions": [
-        "Tego popołudnia Tavi znów przygotował stół do narady. Kilku pomocników przestało odpowiadać na jego wiadomości.",
-        "Luma przyszła tylko po narzędzia. „Twoja maszyna napisała, że unikam obowiązków”, powiedziała.",
-        "Tavi wskazał puste krzesła. „Ale nikogo tu nie ma”. On widział dowód, a Luma słyszała wyrzut.",
-        "„Nie zapytałeś, co się stało”, powiedziała Luma. „Wysłałeś mi wyrok”. Tavi sięgnął po następną wydrukowaną odpowiedź.",
-        "Luma się cofnęła. „Żadnych osobistych wiadomości przez tę maszynę. Informacje o projekcie może przekazywać Ivo”.",
-        "Zostawiła ramę dla projektu, ale narzędzia zabrała do domu. Tavi nie poszedł za nią.",
-        "Wieczorem maszyna ułożyła kolejne doskonałe zdanie. Przy stole nie było nikogo poza Tavim, kto mógłby go wysłuchać."
+        "Przed spotkaniem tego wieczoru kilku pomocników odmówiło udziału po otrzymaniu wrogich automatycznych odpowiedzi.",
+        "Luma przyszła po narzędzia. Ivo przyszedł ustalić odbiór dostawy.",
+        "„Proszę, odbierz szkło przy wschodniej bramie” — powiedział Ivo. Tavi zaczął bronić odpowiedzi maszyny.",
+        "Luma zamknęła pokrowiec na narzędzia. „Nie będę dalej prowadzić rozmów z twoją maszyną”.",
+        "„Rama może tu zostać na potrzeby projektu. Nie wysyłaj mi więcej osobistych odpowiedzi napisanych przez maszynę”.",
+        "Ivo zgodził się przekazywać niezbędne informacje dotyczące projektu. Luma wyszła, nie umawiając się na kolejne spotkanie.",
+        "Tavi patrzył na puste miejsca. Chciał towarzystwa, ale jego odpowiedzi odstraszyły ludzi."
       ],
       "introduction": "Bezpośrednia rozmowa staje się kolejną straconą szansą, a Luma wyznacza granicę.",
       "title": "Cichy stół"
@@ -290,21 +290,21 @@
     "pt": {
       "altTexts": [
         "Tavi arruma assentos vazios ao redor da mesa de planejamento.",
-        "Luma está na porta da oficina segurando seu estojo de ferramentas.",
-        "Tavi aponta para as cadeiras vazias enquanto Luma olha para ele.",
-        "Tavi estende a mão para a bandeja, diante de Luma.",
+        "Luma recolhe seu estojo enrolável de ferramentas enquanto Ivo fica perto de Tavi.",
+        "Ivo fala com Tavi enquanto Luma espera com suas ferramentas.",
+        "Luma fecha seu estojo de ferramentas enquanto Tavi e Ivo escutam.",
         "Luma levanta uma mão aberta junto à passagem livre da porta.",
-        "Luma se afasta com as ferramentas, sem a moldura.",
-        "Tavi está sentado sozinho perto da nova resposta impressa."
+        "Luma sai da oficina enquanto Ivo continua ao lado de Tavi.",
+        "Tavi está sentado sozinho ao lado de uma resposta impressa que ficou na bandeja."
       ],
       "captions": [
-        "Naquela tarde, Tavi arrumou novamente a mesa de planejamento. Vários ajudantes haviam parado de responder às suas mensagens.",
-        "Luma veio apenas buscar suas ferramentas. “Sua máquina disse que eu estava fugindo das minhas responsabilidades”, contou.",
-        "Tavi apontou para as cadeiras vazias. “Mas não tem ninguém aqui.” Ele via uma prova onde Luma ouvia uma acusação.",
-        "“Você não perguntou o que aconteceu”, disse Luma. “Você me enviou uma sentença.” Tavi procurou outra resposta impressa.",
-        "Luma recuou. “Chega de mensagens pessoais por essa máquina. Informações do projeto podem vir por Ivo.”",
-        "Ela deixou a moldura para o projeto, mas levou as ferramentas para casa. Tavi não foi atrás dela.",
-        "Naquela noite, a máquina produziu mais uma frase perfeita. Não havia mais ninguém à mesa para ouvi-la."
+        "Quando chegou a noite da reunião, vários ajudantes já tinham desistido de comparecer após receber respostas automáticas hostis.",
+        "Luma veio buscar suas ferramentas. Ivo veio resolver o recebimento da entrega.",
+        "“Por favor, busque o vidro no portão leste”, disse Ivo. Tavi começou a defender as respostas da máquina.",
+        "Luma fechou o estojo de ferramentas. “Não vou continuar conversando com a sua máquina.”",
+        "“A estrutura pode ficar para o projeto. Não me mande mais respostas pessoais escritas pela máquina.”",
+        "Ivo concordou em transmitir as informações necessárias ao projeto. Luma saiu sem aceitar outro encontro.",
+        "Tavi olhou para os lugares vazios. Queria companhia, mas suas respostas tinham afastado as pessoas."
       ],
       "introduction": "Uma conversa direta vira outra oportunidade perdida, e Luma estabelece um limite.",
       "title": "A mesa silenciosa"
@@ -312,21 +312,21 @@
     "ru": {
       "altTexts": [
         "Тави расставляет пустые стулья вокруг стола.",
-        "Лума стоит у двери мастерской со свёртком инструментов.",
-        "Тави указывает на пустые стулья; Лума смотрит на него.",
-        "Тави тянется к лотку перед стоящей напротив Лумой.",
+        "Лума забирает свой сворачивающийся чехол с инструментами, а Иво стоит рядом с Тави.",
+        "Иво разговаривает с Тави, пока Лума ждёт со своими инструментами.",
+        "Лума закрывает чехол с инструментами, а Тави и Иво слушают.",
         "Лума поднимает открытую ладонь у свободного дверного проёма.",
-        "Лума уходит со свёртком инструментов, без рамы.",
-        "Тави сидит один возле свежего ответа машины."
+        "Лума уходит из мастерской, а Иво остаётся рядом с Тави.",
+        "Тави сидит один рядом с напечатанным ответом, оставшимся в лотке."
       ],
       "captions": [
-        "Днём Тави вновь подготовил стол для обсуждения. Несколько помощников перестали отвечать на его сообщения.",
-        "Лума пришла только за инструментами. «Твоя машина написала, что я уклоняюсь от обязанностей», — сказала она.",
-        "Тави указал на стулья: «Но ведь никого нет». Для него это было доказательством, для Лумы — обвинением.",
-        "«Ты не спросил, что случилось, — сказала Лума. — Ты вынес приговор». Тави потянулся за новым напечатанным ответом.",
-        "Лума отступила. «Больше никаких личных сообщений через машину. Рабочую информацию передавай через Иво».",
-        "Она оставила раму для общего дела, но унесла инструменты домой. Тави не пошёл за ней.",
-        "Вечером машина выдала ещё одну безупречную фразу. За столом не было никого, кроме Тави, кто мог бы её услышать."
+        "К встрече в тот же вечер несколько помощников уже отказались приходить после враждебных автоматических ответов.",
+        "Лума пришла за инструментами. Иво пришёл договориться о получении доставки.",
+        "«Пожалуйста, забери стекло у восточных ворот», — сказал Иво. Тави начал защищать ответы машины.",
+        "Лума закрыла чехол с инструментами. «Я не стану дальше разговаривать с твоей машиной».",
+        "«Каркас может остаться для общей работы. Больше не присылай мне личные ответы, написанные машиной».",
+        "Иво согласился передавать необходимые сведения о проекте. Лума ушла, не договорившись о новой встрече.",
+        "Тави смотрел на пустые места. Он хотел быть среди друзей, но своими ответами оттолкнул людей."
       ],
       "introduction": "Личный разговор снова не получается, и Лума устанавливает границу.",
       "title": "Тихий стол"
@@ -334,21 +334,21 @@
     "tr": {
       "altTexts": [
         "Tavi, toplantı masasının çevresindeki boş oturakları düzenliyor.",
-        "Luma, alet rulosunu tutarak atölye kapısında duruyor.",
-        "Tavi boş sandalyeleri gösterirken Luma ona bakıyor.",
-        "Tavi tepsiye uzanırken Luma karşısında duruyor.",
+        "Luma alet rulosunu toplarken Ivo, Tavi’nin yanında duruyor.",
+        "Luma aletleriyle beklerken Ivo, Tavi’yle konuşuyor.",
+        "Tavi ve Ivo dinlerken Luma alet rulosunu kapatıyor.",
         "Luma, açık geçişin yanında avucunu kaldırıyor.",
-        "Luma, çerçeve olmadan aletlerini alıp gidiyor.",
-        "Tavi, yeni basılmış yanıtın yanında tek başına oturuyor."
+        "Luma atölyeden çıkarken Ivo, Tavi’nin yanında kalıyor.",
+        "Tavi, tepside kalmış basılı bir yanıtın yanında tek başına oturur."
       ],
       "captions": [
-        "O öğleden sonra Tavi toplantı masasını yeniden hazırladı. Birkaç yardımcı artık mesajlarına yanıt vermiyordu.",
-        "Luma yalnızca aletlerini almaya geldi. “Makinen, sorumluluklarımdan kaçtığımı söyledi,” dedi.",
-        "Tavi boş sandalyeleri gösterdi. “Ama burada kimse yok.” Onun kanıt saydığını Luma bir suçlama olarak duydu.",
-        "“Ne olduğunu sormadın,” dedi Luma. “Bana hüküm gönderdin.” Tavi başka bir basılı yanıta uzandı.",
-        "Luma geri çekildi. “O makineden artık kişisel mesaj istemiyorum. Proje bilgileri Ivo aracılığıyla gelebilir.”",
-        "Çerçeveyi proje için bıraktı, aletlerini ise eve götürdü. Tavi peşinden gitmedi.",
-        "O akşam makine yine kusursuz bir cümle üretti. Masada onu dinleyecek başka kimse yoktu."
+        "O akşamki toplantıdan önce, birkaç yardımcı düşmanca otomatik yanıtlar yüzünden gelmekten vazgeçmişti.",
+        "Luma aletlerini almaya geldi. Ivo da teslimatın nasıl alınacağını kararlaştırmak için geldi.",
+        "“Lütfen camları doğu kapısından al,” dedi Ivo. Tavi makinenin yanıtlarını savunmaya başladı.",
+        "Luma alet çantasını kapattı. “Senin makinenle konuşmayı sürdürmeyeceğim.”",
+        "“Çerçeve proje için kalabilir. Bana makinenin yazdığı kişisel yanıtlar gönderme.”",
+        "Ivo gerekli proje bilgilerini iletmeyi kabul etti. Luma başka bir buluşmaya söz vermeden ayrıldı.",
+        "Tavi boş yerlere baktı. İnsanlarla birlikte olmak istemişti ama yanıtları onları uzaklaştırmıştı."
       ],
       "introduction": "Yüz yüze konuşma bir fırsat kaybına daha dönüşür ve Luma sınır koyar.",
       "title": "Sessiz Masa"
@@ -356,21 +356,21 @@
     "vi": {
       "altTexts": [
         "Tavi sắp xếp những chỗ ngồi trống quanh bàn họp.",
-        "Luma đứng ở cửa xưởng, cầm cuộn đựng dụng cụ.",
-        "Tavi chỉ những chiếc ghế trống trong khi Luma nhìn cậu.",
-        "Tavi đưa tay đến khay, Luma đứng đối diện.",
+        "Luma thu cuộn đựng dụng cụ trong khi Ivo đứng gần Tavi.",
+        "Ivo nói chuyện với Tavi trong khi Luma đợi cùng dụng cụ của mình.",
+        "Luma đóng cuộn đựng dụng cụ trong khi Tavi và Ivo lắng nghe.",
         "Luma giơ bàn tay mở cạnh lối cửa thông thoáng.",
-        "Luma rời đi với dụng cụ, không mang khung.",
-        "Tavi ngồi một mình cạnh câu trả lời mới in."
+        "Luma rời xưởng còn Ivo ở lại cạnh Tavi.",
+        "Tavi ngồi một mình bên cạnh bản trả lời in còn nằm trên khay."
       ],
       "captions": [
-        "Chiều ấy, Tavi lại chuẩn bị bàn họp. Một số người hỗ trợ dự án đã không còn trả lời thư của cậu.",
-        "Luma chỉ đến lấy dụng cụ. “Máy của cậu nói mình đang trốn tránh trách nhiệm,” cô nói.",
-        "Tavi chỉ những chiếc ghế trống. “Nhưng chẳng có ai ở đây.” Cậu thấy bằng chứng, còn Luma nghe lời trách móc.",
-        "“Cậu không hỏi chuyện gì đã xảy ra,” Luma nói. “Cậu gửi cho mình một phán quyết.” Tavi với lấy một câu trả lời in khác.",
-        "Luma lùi lại. “Đừng gửi thư riêng qua chiếc máy đó nữa. Thông tin dự án có thể nhờ Ivo chuyển.”",
-        "Cô để khung lại cho dự án nhưng mang dụng cụ về nhà. Tavi không đi theo.",
-        "Tối ấy, chiếc máy tạo thêm một câu hoàn hảo. Ngoài Tavi, chẳng còn ai ở bàn để nghe."
+        "Đến buổi họp tối ấy, vài người đã từ chối tham dự sau khi nhận những lời đáp tự động gay gắt.",
+        "Luma đến lấy dụng cụ. Ivo đến để giải quyết việc nhận hàng.",
+        "“Xin hãy nhận kính ở cổng đông,” Ivo nói. Tavi lại bắt đầu bênh vực những lời đáp của máy.",
+        "Luma khép túi cuộn đựng dụng cụ. “Tôi sẽ không tiếp tục trò chuyện với máy của bạn.”",
+        "“Khung cổng có thể ở lại cho công việc chung. Đừng gửi tôi những lời đáp riêng tư do máy viết nữa.”",
+        "Ivo đồng ý chuyển các thông tin cần thiết về dự án. Luma ra về mà không nhận lời gặp lần nữa.",
+        "Tavi nhìn những chỗ ngồi trống. Anh muốn có mọi người bên cạnh, nhưng lời đáp của anh đã khiến họ rời xa."
       ],
       "introduction": "Một cuộc trò chuyện trực tiếp lại trở thành cơ hội bị bỏ lỡ, và Luma đặt ra giới hạn.",
       "title": "Chiếc bàn im lặng"
@@ -378,21 +378,21 @@
     "zh": {
       "altTexts": [
         "塔维围着讨论桌摆放空椅子。",
-        "卢玛拿着工具卷，站在工作室门口。",
-        "塔维指着空椅子，卢玛看着他。",
-        "塔维伸向托盘，卢玛站在他对面。",
+        "卢玛收起工具卷包，伊沃站在塔维附近。",
+        "伊沃与塔维说话，卢玛拿着工具等候。",
+        "卢玛合上工具卷包，塔维和伊沃听着。",
         "卢玛在畅通的门口举起摊开的手掌。",
-        "卢玛只带着工具卷离开，没有拿走框架。",
-        "塔维独自坐在机器刚打出的回复旁。"
+        "卢玛离开工作坊，伊沃留在塔维身边。",
+        "塔维独自坐着，身旁的托盘里还留着一张打印好的回复。"
       ],
       "captions": [
-        "那天下午，塔维再次摆好讨论用的桌椅。好几位帮手已经不再回复他的消息了。",
-        "卢玛只是来拿工具。“你的机器说我在逃避责任。”她说。",
-        "塔维指着空椅子：“可这里确实一个人也没有。”他把这当成证据，卢玛听见的却是责怪。",
-        "“你没有问发生了什么，”卢玛说，“你直接给我下了结论。”塔维又伸手去拿打印好的回复。",
-        "卢玛后退一步：“别再用这台机器给我发私人消息。项目上的事，可以请伊沃转达。”",
-        "她为项目留下框架，带着工具回了家。塔维没有追上去。",
-        "那天晚上，机器又吐出一句完美的话。桌边除了塔维，再没有别人能听见它了。"
+        "到了当晚的会议时间，好几位帮手已经因为收到充满敌意的自动回复而拒绝参加。",
+        "卢玛来取工具。伊沃来商量怎样把货收走。",
+        "“请去东门取玻璃，”伊沃说。塔维却开始为机器的回复辩解。",
+        "卢玛收起工具卷袋。“我不会再继续和你的机器谈话了。”",
+        "“框架可以留下供大家做项目用。不要再给我寄机器写的私人回复。”",
+        "伊沃答应转达必要的项目信息。卢玛没有答应再约时间，便离开了。",
+        "塔维望着空座位。他原本想要有人陪伴，却用自己的回复把人们推远了。"
       ],
       "introduction": "又一次当面沟通被错过，卢玛决定划清界限。",
       "title": "安静的桌子"
@@ -405,15 +405,15 @@
       "image": "N03E06P01.png"
     },
     {
-      "altText": "Luma stands at the workshop door holding her tool roll.",
+      "altText": "Luma collects her tool roll while Ivo stands near Tavi.",
       "image": "N03E06P02.png"
     },
     {
-      "altText": "Tavi points to empty chairs while Luma watches.",
+      "altText": "Ivo speaks to Tavi while Luma waits with her tools.",
       "image": "N03E06P03.png"
     },
     {
-      "altText": "Tavi reaches toward the tray while Luma faces him.",
+      "altText": "Luma closes her tool roll while Tavi and Ivo listen.",
       "image": "N03E06P04.png"
     },
     {
@@ -421,11 +421,11 @@
       "image": "N03E06P05.png"
     },
     {
-      "altText": "Luma walks away carrying her tool roll, without the frame.",
+      "altText": "Luma leaves the workshop while Ivo stays beside Tavi.",
       "image": "N03E06P06.png"
     },
     {
-      "altText": "Tavi sits alone beside the machine’s fresh reply.",
+      "altText": "Tavi sits alone beside a printed reply left in the tray.",
       "image": "N03E06P07.png"
     }
   ],

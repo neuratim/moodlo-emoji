@@ -5,20 +5,20 @@
       "altTexts": [
         "تفحص لوما المنحدر بينما يثبت إيفو العربة.",
         "تعمل لوما على المفصلة بجوار عربة إيفو المتوقفة.",
-        "تنظر لوما من المنحدر المصلح نحو الورشة.",
-        "يمد إيفو يده إلى كبسولة، وتقف لوما بجواره.",
-        "تقرأ لوما بطاقة بينما ينتظر إيفو بجوارها.",
+        "تعمل لوما على المفصلة بجوار عربة إيفو المتوقفة.",
+        "يكتب إيفو تقريرا بجوار المنحدر الذي أُصلح.",
         "تضع لوما بطاقة جديدة في الكبسولة الفارغة.",
-        "تحمل لوما إطار نجمة مجوفا على الطريق المحاذي للنهر."
+        "تقرأ لوما رسالة في ورشتها.",
+        "تدفع لوما إطار النجمة على عربة منخفضة عبر الممر."
       ],
       "captions": [
-        "في الوقت نفسه، كانت لوما تركع قرب منحدر عالق بجوار النهر. لم تستطع عربة التوصيل المرور.",
-        "توقفت ذلك الصباح لتساعد إيفو. واستغرق الإصلاح وقتا أطول مما توقعه الاثنان.",
-        "عندما تحرك المنحدر مجددا، نظرت لوما نحو الورشة. «كان علي أن أرسل خبرا إلى تافي».",
-        "عرض إيفو نقل تفسيرها. وقبل أن يغادر، أوصل أنبوب البريد قرب النهر كبسولة تافي الزرقاء.",
-        "قرأت لوما الاتهام. لم يجعلها عمل الصباح الشاق أقل تألما من تلك الكلمات.",
-        "أرسلت ردا قصيرا: «كنت أساعد في إصلاح المنحدر. آسفة لأنني لم أخبرك».",
-        "أخذت لوما من مشغلها إطار المدخل النجمي غير المكتمل، وحملته نحو ورشة تافي. كانت لا تزال تأمل أن يتحدثا وجها لوجه."
+        "بينما كان تافي ينتظر، وجدت لوما إيفو بجانب منحدر تحميل تعطلت آليته.",
+        "لم تستطع عربته المرور. فتوقفت لوما لمساعدته على تحرير الآلية العالقة.",
+        "استغرق الإصلاح وقتًا أطول مما توقعا. فات لوما الموعد، ونسيت أن ترسل خبرًا.",
+        "عندما عاد المنحدر إلى الحركة، أبلغ إيفو عن اكتمال الإصلاح لكي يخضع للفحص.",
+        "من مرسمها، أرسلت لوما إلى تافي شرحًا: «كان عليّ أن أخبرك. أنا آسفة».",
+        "وصل اتهامه بعد ذلك. قرأته مرتين، ثم وضعته جانبًا.",
+        "بعد ظهر ذلك اليوم، نقلت لوما على عربة إطار المدخل النجمي الذي لم ينتهيا من صنعه بعد، متجهة إلى ورشة تافي."
       ],
       "introduction": "نرى السبب الحقيقي لتأخر لوما، ثم الألم الحقيقي الذي سببه الرد.",
       "title": "الجانب الآخر من الصباح"
@@ -27,20 +27,20 @@
       "altTexts": [
         "লুমা ঢালু পথটি দেখছে, আর ইভো ঠেলাগাড়ি ধরে আছে।",
         "লুমা কবজা সারাচ্ছে, পাশে ইভোর গাড়ি স্থির রয়েছে।",
-        "লুমা মেরামত করা ঢালু পথ থেকে কর্মশালার দিকে তাকাচ্ছে।",
-        "ইভো ক্যাপসুলের দিকে হাত বাড়াচ্ছে, লুমা পাশে দাঁড়িয়ে আছে।",
-        "লুমা কার্ড পড়ছে, আর ইভো তার পাশে অপেক্ষা করছে।",
+        "লুমা কবজা সারাচ্ছে, পাশে ইভোর গাড়ি স্থির রয়েছে।",
+        "মেরামত করা ঢালু পথটির পাশে ইভো একটি প্রতিবেদন লিখছে।",
         "লুমা খালি ক্যাপসুলে নতুন কার্ড রাখছে।",
-        "লুমা নদীর পাশের পথ দিয়ে ফাঁপা তারার কাঠামো নিয়ে যাচ্ছে।"
+        "লুমা নিজের কর্মশালায় একটি বার্তা পড়ছে।",
+        "লুমা নিচু ট্রলিতে তারার ফ্রেমটি নিয়ে পথ ধরে যাচ্ছে।"
       ],
       "captions": [
-        "এদিকে নদীর ধারে লুমা আটকে যাওয়া একটি ঢালু ওঠানামার পথের পাশে হাঁটু গেড়ে ছিল। মালবাহী ঠেলাগাড়ি যেতে পারছিল না।",
-        "সেই সকালে লুমা ইভোকে সাহায্য করতে থেমেছিল। মেরামতে দুজনের ধারণার চেয়ে বেশি সময় লেগেছিল।",
-        "ঢালু পথটি আবার নড়তেই লুমা কর্মশালার দিকে তাকাল। “টাভিকে একটা খবর পাঠানো উচিত ছিল।”",
-        "ইভো তার ব্যাখ্যা পৌঁছে দিতে চাইল। কিন্তু বেরোনোর আগেই নদীর ডাকের নল দিয়ে টাভির নীল ক্যাপসুল এল।",
-        "লুমা অভিযোগটি পড়ল। সকালভর পরিশ্রম করেছে বলে কথাগুলো কম কষ্ট দিল না।",
-        "সে ছোট্ট উত্তর পাঠাল, “আমি ঢালু পথটি সারাতে সাহায্য করছিলাম। তোমাকে না জানানোর জন্য দুঃখিত।”",
-        "লুমা নিজের কাজের ঘর থেকে প্রবেশপথের অসমাপ্ত তারার কাঠামো নিয়ে টাভির কর্মশালার দিকে গেল। এখনও তার আশা ছিল, সামনাসামনি কথা বলা যাবে।"
+        "টাভি যখন অপেক্ষা করছিল, তখন লুমা মাল ওঠানোর আটকে যাওয়া ঢালু পথটার কাছে ইভোকে দেখতে পেয়েছিল।",
+        "ইভোর গাড়িটা পার হতে পারছিল না। লুমা থেমে আটকে থাকা যন্ত্রাংশ ছাড়াতে তাকে সাহায্য করল।",
+        "মেরামতে যতটা ভেবেছিল তার চেয়ে বেশি সময় লাগল। দেখা করার সময় পেরিয়ে গেল, আর লুমা খবর পাঠাতেও ভুলে গেল।",
+        "ঢালু পথটা আবার নড়তে শুরু করলে ইভো মেরামত শেষ হওয়ার খবর জানাল, যাতে সেটার পরীক্ষা করা যায়।",
+        "নিজের স্টুডিও থেকে লুমা টাভিকে কারণ জানিয়ে লিখল, “আমার তোমাকে খবর দেওয়া উচিত ছিল। আমি দুঃখিত।”",
+        "তার পরে টাভির অভিযোগ এসে পৌঁছাল। লুমা দুবার পড়ে সেটা নামিয়ে রাখল।",
+        "সেদিন বিকেলে লুমা তাদের অসম্পূর্ণ তারার আকৃতির প্রবেশদ্বারের কাঠামোটা গাড়িতে করে টাভির কর্মশালার দিকে নিয়ে গেল।"
       ],
       "introduction": "লুমার দিকের ঘটনা তার দেরির কারণ জানায়, তারপর দেখায় অভিযোগের আঘাত।",
       "title": "সকালের অন্য দিক"
@@ -49,20 +49,20 @@
       "altTexts": [
         "Luma prohlíží rampu a Ivo drží vozík.",
         "Luma opravuje závěs vedle Ivova stojícího vozíku.",
-        "Luma se od opravené rampy dívá směrem k dílně.",
-        "Ivo sahá po kapsli; Luma stojí vedle něj.",
-        "Luma čte kartičku a Ivo vedle ní čeká.",
+        "Luma opravuje závěs vedle Ivova stojícího vozíku.",
+        "Ivo píše hlášení vedle opravené rampy.",
         "Luma vkládá novou kartičku do prázdné kapsle.",
-        "Luma nese dutý hvězdicový rám ulicí podél řeky."
+        "Luma čte zprávu ve své dílně.",
+        "Luma veze hvězdicový rám ulicí na nízkém vozíku."
       ],
       "captions": [
-        "Mezitím u řeky Luma klečela u zaseknuté rampy. Nákladní vozík nemohl projet.",
-        "Ráno se zastavila, aby Ivovi pomohla. Oprava trvala déle, než oba čekali.",
-        "Když se rampa znovu pohnula, Luma se podívala k dílně. „Měla jsem Tavimu poslat zprávu.“",
-        "Ivo nabídl, že její vysvětlení odnese. Než vyrazil, potrubní pošta u řeky doručila Taviho modrou kapsli.",
-        "Luma si přečetla obvinění. Ani všechna ranní práce nezmírnila to, jak ji zabolelo.",
-        "Poslala krátkou odpověď: „Pomáhala jsem u rampy. Mrzí mě, že jsem ti nedala vědět.“",
-        "Luma si v ateliéru vyzvedla nedokončený hvězdicový rám vstupu a vydala se s ním k Taviho dílně. Stále doufala, že si spolu promluví osobně."
+        "Zatímco Tavi čekal, Luma našla Iva u zaseknuté zásobovací rampy.",
+        "Jeho vozík nemohl projet. Zastavila se a pomohla mu uvolnit mechanismus.",
+        "Oprava trvala déle, než čekala. Zmeškala schůzku a zapomněla poslat zprávu.",
+        "Když se rampa znovu pohybovala, Ivo opravu nahlásil, aby mohla proběhnout kontrola.",
+        "Ze své dílny poslala Luma Tavimu vysvětlení: „Měla jsem ti dát vědět. Omlouvám se.“",
+        "Jeho obvinění dorazilo až potom. Dvakrát si ho přečetla a odložila ho.",
+        "Odpoledne vezla na vozíku k jeho dílně jejich nedokončený vstupní rám ve tvaru hvězdy."
       ],
       "introduction": "Lumino ráno ukáže skutečný důvod zpoždění i bolest, kterou způsobil Taviho vzkaz.",
       "title": "Druhá strana rána"
@@ -71,20 +71,20 @@
       "altTexts": [
         "Luma untersucht die Rampe, während Ivo einen Handwagen festhält.",
         "Luma arbeitet am Scharnier neben Ivos stehendem Handwagen.",
-        "Luma blickt von der reparierten Rampe zur Werkstatt.",
-        "Ivo greift nach einer Kapsel, während Luma danebensteht.",
-        "Luma liest eine Karte, während Ivo neben ihr wartet.",
+        "Luma arbeitet am Scharnier neben Ivos stehendem Handwagen.",
+        "Ivo schreibt neben der reparierten Rampe einen Bericht.",
         "Luma steckt eine neue Karte in die leere Kapsel.",
-        "Luma trägt einen offenen Sternrahmen durch die Gasse am Fluss."
+        "Luma liest in ihrer Werkstatt eine Nachricht.",
+        "Luma schiebt den Sternrahmen auf einem niedrigen Wagen durch die Gasse."
       ],
       "captions": [
-        "Währenddessen kniete Luma am Fluss vor einer blockierten Rampe. Ein Transportkarren kam nicht hindurch.",
-        "Sie hatte am Morgen angehalten, um Ivo zu helfen. Die Reparatur dauerte länger, als beide erwartet hatten.",
-        "Als die Rampe sich wieder bewegte, blickte Luma zur Werkstatt. „Ich hätte Tavi eine Nachricht schicken sollen.“",
-        "Ivo bot an, ihre Erklärung mitzunehmen. Bevor er ging, brachte die Rohrpost am Fluss Tavis blaue Kapsel.",
-        "Luma las den Vorwurf. Die harte Arbeit des Morgens machte ihn nicht weniger schmerzhaft.",
-        "Sie schickte eine kurze Antwort: „Ich habe an der Rampe geholfen. Es tut mir leid, dass ich dir nicht Bescheid gesagt habe.“",
-        "Luma holte den unfertigen Sternrahmen für den Eingang aus ihrem Atelier und trug ihn zu Tavis Werkstatt. Sie hoffte noch immer auf ein persönliches Gespräch."
+        "Während Tavi wartete, hatte Luma Ivo an einer verklemmten Lieferrampe gefunden.",
+        "Sein Wagen kam nicht durch. Luma blieb, um ihm beim Lösen des Mechanismus zu helfen.",
+        "Die Reparatur dauerte länger als erwartet. Sie verpasste das Treffen und vergaß, Bescheid zu geben.",
+        "Als sich die Rampe wieder bewegte, meldete Ivo die Reparatur, damit sie geprüft werden konnte.",
+        "In ihrem Atelier schrieb Luma an Tavi: „Ich hätte dir Bescheid geben müssen. Es tut mir leid.“",
+        "Seine Anschuldigung traf danach ein. Sie las sie zweimal und legte sie dann weg.",
+        "Am Nachmittag schob sie ihren unfertigen sternförmigen Eingangsrahmen auf einem Transportwagen zu seiner Werkstatt."
       ],
       "introduction": "Lumas Morgen zeigt einen wirklichen Hinderungsgrund und die Verletzung durch Tavis Nachricht.",
       "title": "Die andere Seite des Morgens"
@@ -93,20 +93,20 @@
       "altTexts": [
         "Luma examines the ramp while Ivo steadies a cart.",
         "Luma works on the hinge beside Ivo’s stationary cart.",
-        "Luma looks toward the workshop from the repaired ramp.",
-        "Ivo reaches for a capsule as Luma stands nearby.",
-        "Luma reads a card while Ivo waits beside her.",
+        "Luma works on the hinge beside Ivo’s stationary cart.",
+        "Ivo writes a report beside the repaired ramp.",
         "Luma puts a new card into the empty capsule.",
-        "Luma carries a hollow star frame along the river lane."
+        "Luma reads a message in her studio.",
+        "Luma wheels the star frame along the lane on a low trolley."
       ],
       "captions": [
-        "Meanwhile, beside the river, Luma knelt at a jammed ramp. A delivery cart could not pass.",
-        "She had stopped to help Ivo that morning. The repair had taken longer than either of them expected.",
-        "When the ramp moved again, Luma looked toward the workshop. “I should have sent Tavi a message.”",
-        "Ivo offered to carry her explanation. Before he left, the riverside message tube delivered Tavi’s blue capsule.",
-        "Luma read the accusation. The morning’s hard work did not make it hurt less.",
-        "She sent a short answer: “I was helping at the ramp. I’m sorry I didn’t tell you.”",
-        "After collecting the unfinished star-shaped entrance frame from her studio, Luma carried it toward Tavi’s workshop. She still hoped they could speak face to face."
+        "While Tavi was waiting, Luma had found Ivo beside a jammed delivery ramp.",
+        "His cart could not pass. Luma stopped to help him free the mechanism.",
+        "The repair took longer than expected. She missed the meeting and forgot to send word.",
+        "Once the ramp moved, Ivo reported the repair so it could be inspected.",
+        "At her studio, Luma sent Tavi an explanation: “I should have let you know. I’m sorry.”",
+        "His accusation arrived afterward. She read it twice, then put it down.",
+        "That afternoon, she wheeled their unfinished star-shaped entrance frame toward his workshop."
       ],
       "introduction": "Luma’s side of the missed meeting reveals a real interruption, followed by a real hurt.",
       "title": "The Other Side of Morning"
@@ -115,20 +115,20 @@
       "altTexts": [
         "Luma examina la rampa mientras Ivo sujeta un carro.",
         "Luma trabaja en la bisagra junto al carro inmóvil de Ivo.",
-        "Luma mira hacia el taller desde la rampa reparada.",
-        "Ivo alcanza una cápsula mientras Luma permanece a su lado.",
-        "Luma lee una tarjeta e Ivo espera junto a ella.",
+        "Luma trabaja en la bisagra junto al carro inmóvil de Ivo.",
+        "Ivo escribe un informe junto a la rampa reparada.",
         "Luma mete una tarjeta nueva en la cápsula vacía.",
-        "Luma lleva un marco de estrella abierto por la calle del río."
+        "Luma lee un mensaje en su taller.",
+        "Luma lleva el armazón de estrella por la calle en un carrito bajo."
       ],
       "captions": [
-        "Mientras tanto, junto al río, Luma estaba arrodillada ante una rampa atascada. Un carro de reparto no podía pasar.",
-        "Aquella mañana se había detenido para ayudar a Ivo. La reparación había durado más de lo que ambos esperaban.",
-        "Cuando la rampa volvió a moverse, Luma miró hacia el taller. «Tendría que haber avisado a Tavi».",
-        "Ivo se ofreció a llevar su explicación. Antes de partir, el tubo junto al río entregó la cápsula azul de Tavi.",
-        "Luma leyó la acusación. Todo el trabajo de la mañana no hizo que doliera menos.",
-        "Envió una respuesta breve: «Estaba ayudando en la rampa. Siento no haberte avisado».",
-        "Luma recogió en su estudio el marco de estrella aún sin terminar para la entrada y lo llevó hacia el taller de Tavi. Todavía esperaba hablar con él cara a cara."
+        "Mientras Tavi esperaba, Luma había encontrado a Ivo junto a una rampa de reparto atascada.",
+        "Su carro no podía pasar. Luma se detuvo para ayudarlo a liberar el mecanismo.",
+        "La reparación tardó más de lo previsto. Ella perdió la reunión y olvidó avisar.",
+        "Cuando la rampa volvió a moverse, Ivo informó de la reparación para que pudieran inspeccionarla.",
+        "Desde su taller, Luma envió una explicación a Tavi: «Debería haberte avisado. Lo siento».",
+        "La acusación de Tavi llegó después. Luma la leyó dos veces y la dejó a un lado.",
+        "Esa tarde llevó en un carrito, hacia el taller de Tavi, su marco de entrada en forma de estrella, aún sin terminar."
       ],
       "introduction": "La mañana de Luma revela un imprevisto real y el daño que provoca la respuesta de Tavi.",
       "title": "El otro lado de la mañana"
@@ -137,20 +137,20 @@
       "altTexts": [
         "Luma examine la rampe pendant qu’Ivo maintient un chariot.",
         "Luma répare la charnière près du chariot immobile d’Ivo.",
-        "Luma regarde vers l’atelier depuis la rampe réparée.",
-        "Ivo tend la main vers une capsule ; Luma est à côté.",
-        "Luma lit une carte tandis qu’Ivo attend à ses côtés.",
+        "Luma répare la charnière près du chariot immobile d’Ivo.",
+        "Ivo rédige un rapport près de la rampe réparée.",
         "Luma place une nouvelle carte dans la capsule vide.",
-        "Luma porte un cadre étoilé ajouré dans la rue longeant la rivière."
+        "Luma lit un message dans son atelier.",
+        "Luma transporte l’armature en étoile dans la rue sur un chariot bas."
       ],
       "captions": [
-        "Pendant ce temps, au bord de la rivière, Luma était agenouillée devant une rampe bloquée. Un chariot de livraison ne pouvait pas passer.",
-        "Elle s’était arrêtée ce matin-là pour aider Ivo. La réparation avait pris plus de temps que prévu.",
-        "Quand la rampe bougea de nouveau, Luma regarda vers l’atelier. « J’aurais dû prévenir Tavi. »",
-        "Ivo proposa de porter son explication. Avant son départ, le tube postal de la rivière livra la capsule bleue de Tavi.",
-        "Luma lut l’accusation. Tout le travail du matin ne la rendait pas moins douloureuse.",
-        "Elle envoya une courte réponse : « J’aidais à réparer la rampe. Je suis désolée de ne pas t’avoir prévenu. »",
-        "Après avoir récupéré dans son atelier le cadre étoilé inachevé de l’entrée, Luma le porta vers l’atelier de Tavi. Elle espérait toujours lui parler en personne."
+        "Pendant que Tavi attendait, Luma avait trouvé Ivo devant une rampe de livraison bloquée.",
+        "Son chariot ne pouvait pas passer. Elle s’arrêta pour l’aider à débloquer le mécanisme.",
+        "La réparation prit plus de temps que prévu. Elle manqua le rendez-vous et oublia de prévenir Tavi.",
+        "Une fois la rampe débloquée, Ivo signala la réparation pour qu’elle puisse être inspectée.",
+        "À son atelier, Luma envoya une explication à Tavi : « J’aurais dû te prévenir. Je suis désolée. »",
+        "Son accusation arriva ensuite. Elle la lut deux fois, puis la posa.",
+        "Cet après-midi-là, elle transporta sur un chariot leur cadre d’entrée en forme d’étoile, encore inachevé, vers l’atelier de Tavi."
       ],
       "introduction": "Le matin de Luma révèle un véritable imprévu, puis la blessure causée par le message de Tavi.",
       "title": "L’autre côté du matin"
@@ -159,20 +159,20 @@
       "altTexts": [
         "लूमा रैंप जाँच रही है और ईवो हाथगाड़ी थामे हुए है।",
         "लूमा कब्ज़ा ठीक कर रही है और ईवो की गाड़ी पास में रुकी है।",
-        "लूमा ठीक हुए रैंप से कार्यशाला की ओर देख रही है।",
-        "ईवो कैप्सूल की ओर हाथ बढ़ा रहा है और लूमा पास खड़ी है।",
-        "लूमा कार्ड पढ़ रही है और ईवो उसके पास इंतज़ार कर रहा है।",
+        "लूमा कब्ज़ा ठीक कर रही है और ईवो की गाड़ी पास में रुकी है।",
+        "ईवो मरम्मत किए गए ढलवाँ रास्ते के पास रिपोर्ट लिख रहा है।",
         "लूमा खाली कैप्सूल में नया कार्ड रख रही है।",
-        "लूमा नदी के रास्ते पर बीच से खाली तारानुमा चौखटा उठा ले जा रही है।"
+        "लूमा अपनी कार्यशाला में एक संदेश पढ़ रही है।",
+        "लूमा निचली ट्रॉली पर तारे का ढाँचा रखकर गली में ले जा रही है।"
       ],
       "captions": [
-        "उधर नदी किनारे लूमा जाम पड़े रैंप के पास घुटनों के बल थी। माल ढोने वाली हाथगाड़ी वहाँ से गुजर नहीं पा रही थी।",
-        "उस सुबह वह ईवो की मदद करने रुकी थी। मरम्मत में दोनों की उम्मीद से अधिक समय लग गया।",
-        "जब रैंप फिर चलने लगा, लूमा ने कार्यशाला की ओर देखा। “मुझे तावी को खबर भेज देनी चाहिए थी।”",
-        "ईवो ने उसका कारण पहुँचाने की बात कही। मगर उसके निकलने से पहले नदी की डाक-नली में तावी का नीला कैप्सूल आ गया।",
-        "लूमा ने आरोप पढ़ा। सुबह की सारी मेहनत भी उन शब्दों का दुख कम नहीं कर सकी।",
-        "उसने छोटा-सा जवाब भेजा, “मैं रैंप की मरम्मत में मदद कर रही थी। तुम्हें खबर न देने के लिए माफ करना।”",
-        "लूमा अपने कामघर से प्रवेश-द्वार का अधूरा, तारे के आकार वाला चौखटा लेकर तावी की कार्यशाला की ओर चली। उसे अब भी आमने-सामने बात होने की उम्मीद थी।"
+        "जब तावी इंतज़ार कर रहा था, तब लूमा को सामान ढोने वाले एक जाम रैंप के पास ईवो मिला था।",
+        "ईवो की गाड़ी वहाँ से निकल नहीं पा रही थी। लूमा रुककर रैंप का जाम हिस्सा ठीक करने में उसकी मदद करने लगी।",
+        "मरम्मत में उम्मीद से ज़्यादा समय लगा। लूमा मुलाकात का समय चूक गई और खबर भेजना भी भूल गई।",
+        "रैंप फिर चलने लगा तो ईवो ने मरम्मत पूरी होने की सूचना दी, ताकि उसकी जाँच की जा सके।",
+        "अपने स्टूडियो से लूमा ने तावी को वजह बताते हुए संदेश भेजा: “मुझे तुम्हें खबर देनी चाहिए थी। माफ़ करना।”",
+        "उसके बाद तावी का आरोप पहुँचा। लूमा ने उसे दो बार पढ़ा, फिर रख दिया।",
+        "उस दोपहर वह उनका अधूरा, तारे के आकार का प्रवेश-द्वार ढाँचा गाड़ी पर रखकर तावी की कार्यशाला की ओर चली।"
       ],
       "introduction": "लूमा की ओर की घटनाएँ उसकी देरी का कारण और तावी के शब्दों का दुख दिखाती हैं।",
       "title": "सुबह की दूसरी ओर"
@@ -181,20 +181,20 @@
       "altTexts": [
         "Luma memeriksa jalur landai sementara Ivo menahan gerobak.",
         "Luma memperbaiki engsel di dekat gerobak Ivo yang berhenti.",
-        "Luma memandang bengkel dari jalur landai yang sudah diperbaiki.",
-        "Ivo meraih kapsul sementara Luma berdiri di sampingnya.",
-        "Luma membaca kartu sementara Ivo menunggu di sisinya.",
+        "Luma memperbaiki engsel di dekat gerobak Ivo yang berhenti.",
+        "Ivo menulis laporan di samping ramp yang sudah diperbaiki.",
         "Luma memasukkan kartu baru ke dalam kapsul kosong.",
-        "Luma membawa rangka bintang berongga sepanjang jalan tepi sungai."
+        "Luma membaca pesan di bengkelnya.",
+        "Luma membawa rangka bintang menyusuri jalan dengan troli rendah."
       ],
       "captions": [
-        "Sementara itu, di tepi sungai, Luma berlutut di dekat jalur landai yang macet. Sebuah gerobak pengiriman tidak bisa lewat.",
-        "Pagi tadi ia berhenti untuk membantu Ivo. Perbaikannya berlangsung lebih lama daripada yang mereka duga.",
-        "Ketika jalur itu bisa bergerak lagi, Luma memandang ke arah bengkel. “Seharusnya aku memberi kabar kepada Tavi.”",
-        "Ivo menawarkan diri untuk membawa penjelasannya. Sebelum berangkat, tabung pos di tepi sungai mengantarkan kapsul biru Tavi.",
-        "Luma membaca tuduhan itu. Semua kerja keras pagi tadi tidak membuatnya terasa kurang menyakitkan.",
-        "Ia mengirim jawaban singkat, “Aku sedang membantu di jalur landai. Maaf aku tidak memberimu kabar.”",
-        "Setelah mengambil rangka pintu masuk berbentuk bintang yang belum selesai dari studionya, Luma membawanya ke bengkel Tavi. Ia masih berharap mereka bisa berbicara langsung."
+        "Ketika Tavi menunggu, Luma menemukan Ivo di dekat jalur bongkar muat miring yang macet.",
+        "Gerobaknya tidak bisa lewat. Luma berhenti untuk membantu membebaskan mekanismenya.",
+        "Perbaikan itu lebih lama dari perkiraannya. Ia melewatkan pertemuan dan lupa mengirim kabar.",
+        "Begitu jalur itu dapat digerakkan lagi, Ivo melaporkan perbaikannya agar bisa diperiksa.",
+        "Di studionya, Luma mengirim penjelasan kepada Tavi: “Seharusnya aku memberi kabar. Maafkan aku.”",
+        "Tuduhan Tavi tiba sesudahnya. Luma membacanya dua kali, lalu meletakkan kertas itu.",
+        "Sore itu, ia membawa rangka pintu masuk berbentuk bintang yang belum selesai ke bengkel Tavi dengan troli kecil."
       ],
       "introduction": "Pagi Luma memperlihatkan hambatan yang nyata, lalu luka akibat pesan Tavi.",
       "title": "Sisi Lain Pagi Itu"
@@ -203,20 +203,20 @@
       "altTexts": [
         "Luma esamina la rampa mentre Ivo tiene fermo un carretto.",
         "Luma lavora sulla cerniera accanto al carretto fermo di Ivo.",
-        "Luma guarda verso il laboratorio dalla rampa riparata.",
-        "Ivo allunga la mano verso una capsula, con Luma accanto.",
-        "Luma legge una cartolina mentre Ivo aspetta al suo fianco.",
+        "Luma lavora sulla cerniera accanto al carretto fermo di Ivo.",
+        "Ivo scrive un rapporto accanto alla rampa riparata.",
         "Luma mette una nuova cartolina nella capsula vuota.",
-        "Luma porta una cornice a stella aperta lungo la via del fiume."
+        "Luma legge un messaggio nel suo laboratorio.",
+        "Luma trasporta il telaio a stella lungo la strada su un carrello basso."
       ],
       "captions": [
-        "Intanto, vicino al fiume, Luma era inginocchiata davanti a una rampa bloccata. Un carretto per le consegne non riusciva a passare.",
-        "Quella mattina si era fermata ad aiutare Ivo. La riparazione aveva richiesto più tempo di quanto entrambi prevedessero.",
-        "Quando la rampa tornò a muoversi, Luma guardò verso il laboratorio. «Avrei dovuto avvisare Tavi».",
-        "Ivo si offrì di portare la sua spiegazione. Prima che partisse, il tubo vicino al fiume consegnò la capsula blu di Tavi.",
-        "Luma lesse l’accusa. Tutto il lavoro di quella mattina non la rese meno dolorosa.",
-        "Mandò una breve risposta: «Stavo aiutando alla rampa. Mi dispiace non averti avvisato».",
-        "Luma recuperò nel suo studio la cornice a stella ancora incompleta per l’ingresso e la portò verso il laboratorio di Tavi. Sperava ancora di parlare con lui di persona."
+        "Mentre Tavi aspettava, Luma aveva trovato Ivo davanti a una rampa di consegna bloccata.",
+        "Il suo carretto non riusciva a passare. Luma si fermò ad aiutarlo a liberare il meccanismo.",
+        "La riparazione richiese più tempo del previsto. Lei perse l’incontro e dimenticò di avvisare.",
+        "Quando la rampa tornò a muoversi, Ivo segnalò la riparazione perché venisse controllata.",
+        "Dal suo laboratorio, Luma mandò una spiegazione a Tavi: «Avrei dovuto avvisarti. Mi dispiace».",
+        "L’accusa di Tavi arrivò dopo. Lei la lesse due volte e posò il foglio.",
+        "Quel pomeriggio trasportò su un carrello, verso il laboratorio di Tavi, il loro telaio d’ingresso a stella, ancora incompleto."
       ],
       "introduction": "La mattina di Luma rivela un imprevisto concreto e il dolore provocato dal messaggio di Tavi.",
       "title": "L’altra parte del mattino"
@@ -225,20 +225,20 @@
       "altTexts": [
         "ルマがスロープを調べ、イヴォが手押し車を支えています。",
         "ルマが蝶番を直し、イヴォの手押し車はそばで止まっています。",
-        "直ったスロープから、ルマが作業場のほうを見ています。",
-        "イヴォがカプセルに手を伸ばし、ルマがそばに立っています。",
-        "ルマがカードを読み、イヴォが隣で待っています。",
+        "ルマが蝶番を直し、イヴォの手押し車はそばで止まっています。",
+        "イヴォが修理したスロープのそばで報告を書いています。",
         "ルマが空のカプセルに新しいカードを入れています。",
-        "ルマが川沿いの道で、中が空いた星形の枠を運んでいます。"
+        "ルマが自分の作業場でメッセージを読んでいます。",
+        "ルマが星形の枠を低い台車に載せ、道を進んでいます。"
       ],
       "captions": [
-        "そのころ川辺では、ルマが動かなくなったスロープのそばにひざをついていました。配達の手押し車が通れないのです。",
-        "その朝、ルマはイヴォを手伝うために足を止めました。修理は二人が思ったより長くかかりました。",
-        "スロープがまた動くと、ルマは作業場のほうを見ました。「タヴィに連絡しておくべきだったね」",
-        "イヴォは事情を伝えに行くと言いました。出発する前に、川辺の郵便管へタヴィの青いカプセルが届きました。",
-        "ルマは非難の言葉を読みました。朝から懸命に働いていたからといって、痛くなくなるわけではありません。",
-        "ルマは短く返しました。「スロープの修理を手伝っていたの。知らせなくてごめんね」",
-        "ルマは自分の工房から、入口用の作りかけの星形の枠を持ち出し、タヴィの作業場へ向かいました。まだ、顔を合わせて話せることを願っていたのです。"
+        "タヴィが待っているころ、ルマは動かなくなった荷運び用スロープの前でイヴォに会っていた。",
+        "イヴォの荷車は通れなかった。ルマは立ち止まり、引っかかって動かない部分を直すのを手伝った。",
+        "修理は思ったより長引いた。ルマは約束に間に合わず、連絡することも忘れてしまった。",
+        "スロープが動くようになると、イヴォは点検してもらうために修理の報告をした。",
+        "工房に戻ったルマは、タヴィに事情を伝えた。「連絡するべきだった。ごめんなさい」",
+        "タヴィからの非難は、その後に届いた。ルマは二度読んで、紙を置いた。",
+        "その午後、ルマは二人の作りかけの星形の入口枠を台車に載せ、タヴィの工房へ運んだ。"
       ],
       "introduction": "ルマが来られなかった理由と、届いた言葉が与えた痛みが明らかになります。",
       "title": "朝のもう一つの出来事"
@@ -247,20 +247,20 @@
       "altTexts": [
         "루마가 경사로를 살피고, 이보가 손수레를 붙잡고 있어요.",
         "루마가 경첩을 고치고, 이보의 손수레는 옆에 멈춰 있어요.",
-        "루마가 고친 경사로에서 작업실 쪽을 바라봐요.",
-        "이보가 캡슐에 손을 뻗고, 루마가 옆에 서 있어요.",
-        "루마가 카드를 읽고, 이보가 옆에서 기다려요.",
+        "루마가 경첩을 고치고, 이보의 손수레는 옆에 멈춰 있어요.",
+        "이보가 고친 경사로 옆에서 보고서를 쓰고 있어요.",
         "루마가 빈 캡슐에 새 카드를 넣어요.",
-        "루마가 강변 길에서 속이 빈 별 모양 틀을 옮겨요."
+        "루마가 자기 작업장에서 메시지를 읽고 있어요.",
+        "루마가 별 모양 틀을 낮은 손수레에 싣고 길을 따라 밀고 있어요."
       ],
       "captions": [
-        "그 시각 강가에서는 루마가 꼼짝하지 않는 경사로 옆에 무릎을 꿇고 있었어요. 배달 손수레가 지나가지 못했어요.",
-        "그날 아침 루마는 이보를 도우려고 멈췄어요. 수리는 둘이 예상했던 것보다 오래 걸렸어요.",
-        "경사로가 다시 움직이자 루마는 작업실 쪽을 봤어요. “타비에게 연락했어야 했는데.”",
-        "이보가 사정을 전해 주겠다고 했어요. 그런데 떠나기 전에 강가 우편관으로 타비의 파란 캡슐이 도착했어요.",
-        "루마는 자신을 탓하는 문장을 읽었어요. 아침 내내 열심히 일했다고 해서 그 말이 덜 아픈 건 아니었어요.",
-        "루마는 짧게 답했어요. “경사로 고치는 일을 돕고 있었어. 미리 말하지 않아서 미안해.”",
-        "루마는 자기 공방에서 입구에 쓸 미완성 별 모양 틀을 가져와 타비의 작업실로 향했어요. 아직 얼굴을 마주 보고 이야기할 수 있기를 바랐어요."
+        "타비가 기다리고 있을 때, 루마는 화물용 경사로가 걸려 움직이지 않아 곤란해하는 이보를 만났다.",
+        "이보의 수레가 지나갈 수 없었다. 루마는 멈춰 서서 걸린 장치를 푸는 일을 도왔다.",
+        "수리는 예상보다 오래 걸렸다. 루마는 약속 시간을 놓쳤고, 소식을 전하는 것도 잊었다.",
+        "경사로가 다시 움직이자, 이보는 점검을 받을 수 있도록 수리가 끝났다고 신고했다.",
+        "작업실에 돌아온 루마는 타비에게 사정을 설명하는 쪽지를 보냈다. “미리 알려 줬어야 했는데. 미안해.”",
+        "그 뒤 타비의 비난이 도착했다. 루마는 두 번 읽고 내려놓았다.",
+        "그날 오후, 루마는 둘이 만들던 미완성 별 모양 입구 틀을 수레에 실어 타비의 작업실로 향했다."
       ],
       "introduction": "루마가 오지 못한 이유와 타비의 말이 남긴 상처가 드러납니다.",
       "title": "아침의 다른 이야기"
@@ -269,20 +269,20 @@
       "altTexts": [
         "Luma ogląda rampę, a Ivo przytrzymuje wózek.",
         "Luma naprawia zawias obok nieruchomego wózka Iva.",
-        "Luma patrzy z naprawionej rampy w stronę warsztatu.",
-        "Ivo sięga po kapsułę, a Luma stoi obok.",
-        "Luma czyta kartkę, a Ivo czeka przy niej.",
+        "Luma naprawia zawias obok nieruchomego wózka Iva.",
+        "Ivo pisze raport obok naprawionej rampy.",
         "Luma wkłada nową kartkę do pustej kapsuły.",
-        "Luma niesie otwartą ramę w kształcie gwiazdy nadrzeczną uliczką."
+        "Luma czyta wiadomość w swojej pracowni.",
+        "Luma wiezie ramę w kształcie gwiazdy uliczką na niskim wózku."
       ],
       "captions": [
-        "Tymczasem nad rzeką Luma klęczała przy zablokowanej rampie. Pusty wózek transportowy nie mógł przejechać.",
-        "Zatrzymała się tego ranka, żeby pomóc Ivowi. Naprawa trwała dłużej, niż oboje się spodziewali.",
-        "Gdy rampa znów się poruszyła, Luma spojrzała w stronę warsztatu. „Powinnam była wysłać Taviemu wiadomość”.",
-        "Ivo zaproponował, że zaniesie wyjaśnienie. Zanim odszedł, nadrzeczna poczta dostarczyła niebieską kapsułę Taviego.",
-        "Luma przeczytała oskarżenie. Cała poranna praca nie sprawiła, że zabolało mniej.",
-        "Wysłała krótką odpowiedź: „Pomagałam przy rampie. Przepraszam, że cię nie uprzedziłam”.",
-        "Luma zabrała ze swojej pracowni niedokończoną ramę wejścia w kształcie gwiazdy i ruszyła z nią do warsztatu Taviego. Wciąż miała nadzieję na rozmowę twarzą w twarz."
+        "Kiedy Tavi czekał, Luma znalazła Iva przy zablokowanej rampie dostawczej.",
+        "Jego wózek nie mógł przejechać. Luma zatrzymała się, żeby pomóc mu odblokować mechanizm.",
+        "Naprawa trwała dłużej, niż przypuszczała. Nie zdążyła na spotkanie i zapomniała wysłać wiadomość.",
+        "Gdy rampa znów się poruszała, Ivo zgłosił naprawę, aby można było ją skontrolować.",
+        "Ze swojej pracowni Luma wysłała Taviemu wyjaśnienie: „Powinnam była dać ci znać. Przepraszam”.",
+        "Oskarżenie Taviego dotarło później. Luma przeczytała je dwa razy i odłożyła kartkę.",
+        "Tego popołudnia zawiozła na wózku do jego warsztatu ich niedokończoną ramę wejściową w kształcie gwiazdy."
       ],
       "introduction": "Poranek Lumy ujawnia prawdziwą przeszkodę i ból spowodowany wiadomością Taviego.",
       "title": "Druga strona poranka"
@@ -291,20 +291,20 @@
       "altTexts": [
         "Luma examina a rampa enquanto Ivo segura um carrinho.",
         "Luma trabalha na dobradiça perto do carrinho parado de Ivo.",
-        "Luma olha para a oficina a partir da rampa consertada.",
-        "Ivo alcança uma cápsula enquanto Luma está ao lado.",
-        "Luma lê um cartão enquanto Ivo espera ao seu lado.",
+        "Luma trabalha na dobradiça perto do carrinho parado de Ivo.",
+        "Ivo escreve um relatório ao lado da rampa consertada.",
         "Luma coloca um cartão novo na cápsula vazia.",
-        "Luma carrega uma moldura de estrela vazada pela rua do rio."
+        "Luma lê uma mensagem em sua oficina.",
+        "Luma leva a estrutura de estrela pela rua em um carrinho baixo."
       ],
       "captions": [
-        "Enquanto isso, junto ao rio, Luma estava ajoelhada diante de uma rampa emperrada. Um carrinho de entregas não conseguia passar.",
-        "Ela havia parado naquela manhã para ajudar Ivo. O conserto levou mais tempo do que os dois esperavam.",
-        "Quando a rampa voltou a se mover, Luma olhou para a oficina. “Eu devia ter avisado Tavi.”",
-        "Ivo se ofereceu para levar a explicação. Antes de sair, o tubo perto do rio entregou a cápsula azul de Tavi.",
-        "Luma leu a acusação. Todo o trabalho daquela manhã não fez com que doesse menos.",
-        "Ela enviou uma resposta curta: “Eu estava ajudando na rampa. Desculpe por não ter avisado.”",
-        "Depois de buscar em seu ateliê a moldura de entrada em forma de estrela, ainda inacabada, Luma a levou para a oficina de Tavi. Ainda esperava conversar com ele pessoalmente."
+        "Enquanto Tavi esperava, Luma tinha encontrado Ivo ao lado de uma rampa de entregas emperrada.",
+        "O carrinho dele não conseguia passar. Luma parou para ajudá-lo a soltar o mecanismo.",
+        "O conserto demorou mais do que ela esperava. Luma perdeu o encontro e esqueceu de avisar.",
+        "Quando a rampa voltou a se mover, Ivo comunicou o conserto para que fosse inspecionado.",
+        "No ateliê, Luma mandou uma explicação a Tavi: “Eu deveria ter avisado. Desculpe.”",
+        "A acusação dele chegou depois. Ela leu duas vezes e deixou o papel de lado.",
+        "Naquela tarde, levou num carrinho até a oficina dele a estrutura de entrada em forma de estrela, ainda inacabada."
       ],
       "introduction": "A manhã de Luma revela um imprevisto real e a dor causada pela mensagem de Tavi.",
       "title": "O outro lado da manhã"
@@ -313,20 +313,20 @@
       "altTexts": [
         "Лума осматривает пандус, а Иво удерживает тележку.",
         "Лума чинит петлю возле неподвижной тележки Иво.",
-        "Лума смотрит от починенного пандуса к мастерской.",
-        "Иво тянется к капсуле; Лума стоит рядом.",
-        "Лума читает карточку, а Иво ждёт рядом.",
+        "Лума чинит петлю возле неподвижной тележки Иво.",
+        "Иво пишет отчёт возле отремонтированного пандуса.",
         "Лума кладёт новую карточку в пустую капсулу.",
-        "Лума несёт по набережной полую раму в форме звезды."
+        "Лума читает сообщение в своей мастерской.",
+        "Лума везёт каркас в форме звезды по улице на низкой тележке."
       ],
       "captions": [
-        "Тем временем у реки Лума опустилась на колени возле заклинившего пандуса. Пустая грузовая тележка не могла проехать.",
-        "В то утро она остановилась помочь Иво. Ремонт занял больше времени, чем они оба ожидали.",
-        "Когда пандус снова заработал, Лума посмотрела в сторону мастерской. «Надо было послать Тави весточку».",
-        "Иво предложил передать её объяснение. Но прежде чем он ушёл, почтовая труба у реки доставила синюю капсулу Тави.",
-        "Лума прочла обвинение. То, что всё утро она усердно работала, не сделало эти слова менее обидными.",
-        "Она отправила короткий ответ: «Я помогала чинить пандус. Прости, что не предупредила тебя».",
-        "Забрав из своей студии недоделанную раму для входа в форме звезды, Лума понесла её к мастерской Тави. Она всё ещё надеялась поговорить с ним лично."
+        "Пока Тави ждал, Лума встретила Иво у заклинившей погрузочной рампы.",
+        "Его тележка не могла проехать. Лума остановилась, чтобы помочь освободить механизм.",
+        "Ремонт занял больше времени, чем она ожидала. Лума пропустила встречу и забыла предупредить Тави.",
+        "Когда рампа снова заработала, Иво сообщил о ремонте, чтобы его результат проверили.",
+        "Из своей мастерской Лума отправила Тави объяснение: «Мне следовало предупредить тебя. Прости».",
+        "Его обвинение пришло позже. Она прочла его дважды и отложила лист.",
+        "Днём она повезла к мастерской Тави их недоделанный входной каркас в форме звезды на небольшой тележке."
       ],
       "introduction": "Мы узнаём, почему Лума задержалась и как её задело обвинение Тави.",
       "title": "Другая сторона утра"
@@ -335,20 +335,20 @@
       "altTexts": [
         "Luma rampayı incelerken Ivo el arabasını tutuyor.",
         "Luma, Ivo’nun duran arabasının yanında menteşeyi onarıyor.",
-        "Luma, onarılan rampadan atölyeye doğru bakıyor.",
-        "Ivo kapsüle uzanırken Luma yanında duruyor.",
-        "Luma kartı okurken Ivo yanında bekliyor.",
+        "Luma, Ivo’nun duran arabasının yanında menteşeyi onarıyor.",
+        "Ivo, onarılan rampanın yanında bir rapor yazıyor.",
         "Luma, boş kapsüle yeni bir kart koyuyor.",
-        "Luma, içi açık yıldız çerçeveyi nehir yolunda taşıyor."
+        "Luma, kendi atölyesinde bir mesaj okuyor.",
+        "Luma, yıldız çerçeveyi alçak bir el arabasıyla sokak boyunca taşıyor."
       ],
       "captions": [
-        "Bu sırada nehir kenarında Luma, sıkışmış bir rampanın önünde diz çökmüştü. Bir teslimat arabası geçemiyordu.",
-        "O sabah Ivo’ya yardım etmek için durmuştu. Onarım, ikisinin de beklediğinden uzun sürmüştü.",
-        "Rampa yeniden hareket edince Luma atölyeye baktı. “Tavi’ye haber vermeliydim.”",
-        "Ivo, açıklamasını götürmeyi önerdi. O ayrılmadan önce nehir kenarındaki posta borusu Tavi’nin mavi kapsülünü getirdi.",
-        "Luma suçlamayı okudu. Sabah boyunca çalışmış olması, bu sözlerin daha az acıtmasını sağlamadı.",
-        "Kısa bir yanıt gönderdi: “Rampada yardım ediyordum. Sana haber vermediğim için özür dilerim.”",
-        "Luma, giriş için hazırladığı yarım kalmış yıldız çerçeveyi kendi atölyesinden aldı ve Tavi’nin atölyesine doğru taşıdı. Hâlâ yüz yüze konuşabileceklerini umuyordu."
+        "Tavi beklerken Luma, Ivo’yu sıkışmış bir teslimat rampasının yanında bulmuştu.",
+        "Ivo’nun arabası geçemiyordu. Luma mekanizmayı kurtarmasına yardım etmek için durdu.",
+        "Onarım beklediğinden uzun sürdü. Buluşmayı kaçırdı ve haber göndermeyi unuttu.",
+        "Rampa yeniden hareket edince Ivo, kontrol edilebilmesi için yapılan onarımı bildirdi.",
+        "Atölyesine dönen Luma, Tavi’ye açıklama gönderdi: “Sana haber vermeliydim. Özür dilerim.”",
+        "Tavi’nin suçlaması daha sonra ulaştı. Luma yazıyı iki kez okudu, sonra kenara bıraktı.",
+        "O öğleden sonra, birlikte hazırladıkları yıldız biçimli giriş çerçevesini küçük bir arabayla Tavi’nin atölyesine götürdü. Çerçeve henüz tamamlanmamıştı."
       ],
       "introduction": "Luma’nın sabahı gerçek bir aksiliği, ardından Tavi’nin mesajının verdiği acıyı gösterir.",
       "title": "Sabahın Öteki Yüzü"
@@ -357,20 +357,20 @@
       "altTexts": [
         "Luma xem xét đường dốc, còn Ivo giữ xe đẩy.",
         "Luma sửa bản lề cạnh chiếc xe đẩy đang đứng yên của Ivo.",
-        "Luma nhìn về xưởng từ đường dốc đã sửa xong.",
-        "Ivo đưa tay lấy ống thư, Luma đứng bên cạnh.",
-        "Luma đọc thẻ, còn Ivo chờ bên cạnh.",
-        "Luma đặt một thẻ mới vào ống đựng thư đã trống.",
-        "Luma mang khung ngôi sao rỗng dọc con đường ven sông."
+        "Luma sửa bản lề cạnh chiếc xe đẩy đang đứng yên của Ivo.",
+        "Ivo viết báo cáo bên cạnh đoạn dốc đã sửa.",
+        "Luma đặt một tấm thẻ mới vào ống đựng thư rỗng.",
+        "Luma đọc một lời nhắn trong xưởng của mình.",
+        "Luma đẩy khung hình ngôi sao dọc đường trên một xe đẩy thấp."
       ],
       "captions": [
-        "Trong lúc đó, bên bờ sông, Luma đang quỳ trước một đường dốc bị kẹt. Xe đẩy giao hàng không thể đi qua.",
-        "Sáng ấy, cô đã dừng lại để giúp Ivo. Việc sửa chữa kéo dài hơn cả hai dự tính.",
-        "Khi đường dốc cử động trở lại, Luma nhìn về xưởng. “Lẽ ra mình phải báo cho Tavi.”",
-        "Ivo đề nghị mang lời giải thích giúp cô. Trước khi đi, đường ống bên sông chuyển đến ống thư màu xanh của Tavi.",
-        "Luma đọc lời buộc tội. Công sức suốt buổi sáng không khiến những lời ấy bớt đau.",
-        "Cô gửi lời đáp ngắn: “Mình đang giúp sửa đường dốc. Xin lỗi vì đã không báo cho cậu.”",
-        "Sau khi lấy khung lối vào hình ngôi sao còn dang dở từ xưởng của mình, Luma mang nó đến xưởng Tavi. Cô vẫn mong họ có thể nói chuyện trực tiếp."
+        "Trong lúc Tavi chờ, Luma đã gặp Ivo bên một dốc giao hàng bị kẹt.",
+        "Xe đẩy của anh không đi qua được. Luma dừng lại giúp anh gỡ cơ cấu bị kẹt.",
+        "Việc sửa chữa lâu hơn dự tính. Cô lỡ cuộc hẹn và quên gửi lời báo.",
+        "Khi dốc hoạt động trở lại, Ivo báo việc sửa chữa để người phụ trách kiểm tra.",
+        "Về xưởng, Luma gửi Tavi lời giải thích: “Tôi đáng lẽ phải báo cho bạn. Tôi xin lỗi.”",
+        "Lời buộc tội của anh đến sau đó. Cô đọc hai lần rồi đặt tờ giấy xuống.",
+        "Chiều ấy, cô dùng xe đẩy nhỏ đưa khung cổng hình ngôi sao còn dang dở của họ đến xưởng Tavi."
       ],
       "introduction": "Buổi sáng của Luma cho thấy một trở ngại có thật, rồi nỗi đau do lời nhắn của Tavi gây ra.",
       "title": "Mặt khác của buổi sáng"
@@ -379,20 +379,20 @@
       "altTexts": [
         "卢玛检查坡道，伊沃扶稳手推车。",
         "卢玛修理铰链，伊沃的手推车停在一旁。",
-        "卢玛从修好的坡道旁望向工作室。",
-        "伊沃伸手去拿胶囊，卢玛站在旁边。",
-        "卢玛读着卡片，伊沃在她身旁等待。",
+        "卢玛修理铰链，伊沃的手推车停在一旁。",
+        "伊沃在修好的坡道旁写报告。",
         "卢玛把新卡片放进空胶囊。",
-        "卢玛沿河边小路搬运中空的星形框架。"
+        "卢玛在自己的工作坊里读一条消息。",
+        "卢玛用低矮的小推车载着星形框架沿路前行。"
       ],
       "captions": [
-        "与此同时，河边的卢玛正跪在卡住的坡道旁。一辆送货手推车过不去了。",
-        "她那天早上停下来帮助伊沃。修理花的时间，比他们两个预想的都长。",
-        "坡道终于能动了，卢玛望向工作室：“我应该给塔维送个消息的。”",
-        "伊沃答应替她解释。可他还没出发，河边的邮递管就送来了塔维的蓝色胶囊。",
-        "卢玛读完指责。忙了一早上的辛苦，并没有让这些话变得不那么伤人。",
-        "她回了一句：“我在帮忙修坡道。对不起，没有提前告诉你。”",
-        "卢玛回到自己的工作间，取出尚未完成的星形入口框架，搬着它走向塔维的工作室。她仍希望能和他当面聊一聊。"
+        "塔维等待时，卢玛在一处卡住的装卸坡道旁遇见了伊沃。",
+        "伊沃的手推车过不去。卢玛停下来，帮他松开卡住的机械部件。",
+        "修理花的时间比她预想的长。她错过了会面，也忘了传话。",
+        "坡道重新能动后，伊沃报告了维修情况，等候检查。",
+        "回到工作室，卢玛给塔维寄了解释：“我应该先告诉你。对不起。”",
+        "塔维的指责随后才到。她读了两遍，把纸放下。",
+        "当天下午，她用小推车把他们尚未完成的星形入口框架运往塔维的工坊。"
       ],
       "introduction": "卢玛那边发生的事解释了她为什么迟到，也显出了指责带来的伤害。",
       "title": "早晨的另一面"
@@ -409,23 +409,23 @@
       "image": "N03E03P02.png"
     },
     {
-      "altText": "Luma looks toward the workshop from the repaired ramp.",
+      "altText": "Luma works on the hinge beside Ivo’s stationary cart.",
       "image": "N03E03P03.png"
     },
     {
-      "altText": "Ivo reaches for a capsule as Luma stands nearby.",
+      "altText": "Ivo writes a report beside the repaired ramp.",
       "image": "N03E03P04.png"
     },
     {
-      "altText": "Luma reads a card while Ivo waits beside her.",
+      "altText": "Luma puts a new card into the empty capsule.",
       "image": "N03E03P05.png"
     },
     {
-      "altText": "Luma puts a new card into the empty capsule.",
+      "altText": "Luma reads a message in her studio.",
       "image": "N03E03P06.png"
     },
     {
-      "altText": "Luma carries a hollow star frame along the river lane.",
+      "altText": "Luma wheels the star frame along the lane on a low trolley.",
       "image": "N03E03P07.png"
     }
   ],
