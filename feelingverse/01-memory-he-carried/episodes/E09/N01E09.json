@@ -1,0 +1,439 @@
+{
+  "id": "N01E09",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "قبل الفجر في Veyra، يصل Quest إلى ورشة العمل التي حددها Swagger. لا يزال Grit على عجلة الصقل المحمية بغطاء، ويقوم Phew بفحص أعمال الوردية غير المكتملة. تتطابق علامة الصانع مع الهلال الموجود في ملاحظات Quest.",
+        "بعد قليل، يجد Doze Grit نائمًا على المقعد بجوار الآلة التي لا تزال قيد التشغيل. يضغط زر الإيقاف قبل أن يستيقظ Grit. لا توجد محادثة مفيدة حول عجلة متحركة.",
+        "بمجرد توقف العجلة، يقوم Phew بعزل محركها للفحص. يبقى Doze بجانب مقعد الراحة. يمكن أن ينتظر العمل بينما ينام العامل وتكون المعدات آمنة.",
+        "في وقت لاحق من ذلك الصباح، استيقظ Grit ليجد Beam ينتظر مع كوب، وليس موعدًا نهائيًا. يبدأ Grit في الاعتذار عن النوم. Beam يوقف الاعتذار قبل أن يصبح مطلبًا آخر للعمل.",
+        "عندما يصبح Grit جاهزًا، يقوم بفتح درج التصميم المسمى في سجل المصنع. Quest يجلب المشبك إلى طاولة العمل الآمنة. الإجابة التي يحتاجونها موجودة في الرسم الذي كان موجودًا هنا طوال الوقت.",
+        "يحدد الرسم وعاء ذاكرة مكونًا من ست بتلات، مع مشبك قفل واحد - وليس ستة مشابك مفقودة. رتب Phew مقارنة للإيقاع في الغرفة الهادئة بالمحطة غدًا. قد يساعد ذلك في تحديد نوع جهاز القراءة الذي يحتاجونه.",
+        "في ذلك المساء، في Meadowfold، تجاوز Rain علامة أخرى بجوار مكان استراحته. تقدم Mend أخبار ورشة العمل لهذا اليوم. إن معرفة أن البحث قد تقدم للأمام لا يجعل الانتظار أمرًا سهلاً."
+      ],
+      "captions": [
+        "قبل الفجر في Veyra، يصل Quest إلى ورشة العمل التي حددها Swagger. لا يزال Grit على عجلة الصقل المحمية بغطاء، ويقوم Phew بفحص أعمال الوردية غير المكتملة. تتطابق علامة الصانع مع الهلال الموجود في ملاحظات Quest.\n\nGrit: \"لقد أوشكنا على الانتهاء. نحن دائمًا كذلك.\"",
+        "بعد قليل، يجد Doze Grit نائمًا على المقعد بجوار الآلة التي لا تزال قيد التشغيل. يضغط زر الإيقاف قبل أن يستيقظ Grit. لا توجد محادثة مفيدة حول عجلة متحركة.\n\nDoze: \"نوقف العجلة أولاً. ثم نطرح الأسئلة.\"",
+        "بمجرد توقف العجلة، يقوم Phew بعزل محركها للفحص. يبقى Doze بجانب مقعد الراحة. يمكن أن ينتظر العمل بينما ينام العامل وتكون المعدات آمنة.\n\nPhew: \"لن يعمل أحد على هذه الآلة ما دامت العجلة قابلة للدوران.\"",
+        "في وقت لاحق من ذلك الصباح، استيقظ Grit ليجد Beam ينتظر مع كوب، وليس موعدًا نهائيًا. يبدأ Grit في الاعتذار عن النوم. Beam يوقف الاعتذار قبل أن يصبح مطلبًا آخر للعمل.\n\nBeam: \"أنت لست مدينًا لنا باعتذار عن حاجتك للنوم.\"",
+        "عندما يصبح Grit جاهزًا، يقوم بفتح درج التصميم المسمى في سجل المصنع. Quest يجلب المشبك إلى طاولة العمل الآمنة. الإجابة التي يحتاجونها موجودة في الرسم الذي كان موجودًا هنا طوال الوقت.\n\nGrit: \"الآن يمكنني قراءة هذا بالفعل.\"",
+        "يحدد الرسم وعاء ذاكرة مكونًا من ست بتلات، مع مشبك قفل واحد - وليس ستة مشابك مفقودة. رتب Phew مقارنة للإيقاع في الغرفة الهادئة بالمحطة غدًا. قد يساعد ذلك في تحديد نوع جهاز القراءة الذي يحتاجونه.\n\nQuest: \"هذا هو مكان المشبك. الآن نعرف ما ينتمي إليه الجزء المكسور.\"",
+        "في ذلك المساء، في Meadowfold، تجاوز Rain علامة أخرى بجوار مكان استراحته. تقدم Mend أخبار ورشة العمل لهذا اليوم. إن معرفة أن البحث قد تقدم للأمام لا يجعل الانتظار أمرًا سهلاً.\n\nRain: \"يمكنهم إصلاح الآلة. هل يمكنهم مساعدتي؟\"\nMend: \"ما زالوا يتحققون. ليس لدينا الجواب بعد.\""
+      ],
+      "introduction": "القطار الجبلي ينقل الباحثين إلى Veyra قبل الفجر. لا تزال ورشة عمل الشركة المصنعة تعمل، ولكن الإرهاق جعل العمل الدقيق أمرًا صعبًا. لمعرفة أي شيء موثوق به حول المشبك، يحتاج الأصدقاء أولاً إلى طاولة عمل حيث يمكن لأي شخص أن يفكر بوضوح.",
+      "title": "الورشة التي لا تنام"
+    },
+    "bn": {
+      "altTexts": [
+        "ভোরের আগে Quest Veyra-এর সেই কারখানায় পৌঁছায়, যার কথা Swagger বলেছিল। Grit এখনও সুরক্ষার আবরণযুক্ত চাকার কাছে কাজ করছে। Phew অসমাপ্ত কাজ পরীক্ষা করে। নির্মাতার চিহ্নটি Quest-এর নোটের অর্ধচন্দ্রের সঙ্গে মেলে।",
+        "কিছুক্ষণ পর Doze দেখে, চলন্ত যন্ত্রের পাশের বেঞ্চে Grit ঘুমিয়ে পড়েছে। তাকে জাগানোর আগে Doze যন্ত্র থামানোর বোতামে হাত বাড়ায়। চাকা ঘুরতে থাকলে কথা শুরু করা নিরাপদ নয়।",
+        "চাকা থামলে Phew সেটিকে চালানোর সংযোগ বিচ্ছিন্ন করে, যাতে পরীক্ষা করা যায়। Doze বিশ্রামের বেঞ্চের পাশে থাকে। কর্মী ঘুমাক, যন্ত্র নিরাপদ থাকুক—কাজ কিছুক্ষণ অপেক্ষা করতে পারে।",
+        "সকালে একটু পরে Grit জেগে দেখে, Beam একটি কাপ নিয়ে অপেক্ষা করছে; কাজ শেষ করার তাড়া নিয়ে নয়। Grit ঘুমিয়ে পড়ার জন্য ক্ষমা চাইতে শুরু করে। সেই ক্ষমা চাওয়া আবার কাজের চাপে পরিণত হওয়ার আগেই Beam তাকে থামায়।",
+        "Grit প্রস্তুত হলে নির্মাতার খাতায় লেখা নকশার ড্রয়ারটি খোলে। Quest নিরাপদ কাজের টেবিলে আটকানিটি আনে। যে উত্তর তারা খুঁজছে, তা এতক্ষণ এখানেই রাখা নকশায় ছিল।",
+        "নকশায় ছয় পাপড়ির স্মৃতির পাত্র দেখা যায়, কিন্তু বন্ধ করার আটকানি মাত্র একটি। ছয়টি আটকানি হারায়নি। Phew কাল স্টেশনের শান্ত ঘরে ছন্দ মেলানোর ব্যবস্থা করেছে। তাতে কোন পাঠযন্ত্র লাগবে বোঝা যেতে পারে।",
+        "সেই সন্ধ্যায় Meadowfold-এ Rain-এর শরীর বিশ্রামের জায়গার আরেকটি মাপচিহ্ন ছাড়িয়ে গেছে। Mend কারখানার খবর জানায়। অনুসন্ধান এগোলেও অপেক্ষা সহজ হয় না।"
+      ],
+      "captions": [
+        "ভোরের আগে Quest Veyra-এর সেই কারখানায় পৌঁছায়, যার কথা Swagger বলেছিল। Grit এখনও সুরক্ষার আবরণযুক্ত চাকার কাছে কাজ করছে। Phew অসমাপ্ত কাজ পরীক্ষা করে। নির্মাতার চিহ্নটি Quest-এর নোটের অর্ধচন্দ্রের সঙ্গে মেলে।\n\nGrit: \"প্রায় শেষ হয়ে এসেছে। আমরা সবসময় এটাই বলি।\"",
+        "কিছুক্ষণ পর Doze দেখে, চলন্ত যন্ত্রের পাশের বেঞ্চে Grit ঘুমিয়ে পড়েছে। তাকে জাগানোর আগে Doze যন্ত্র থামানোর বোতামে হাত বাড়ায়। চাকা ঘুরতে থাকলে কথা শুরু করা নিরাপদ নয়।\n\nDoze: \"আগে চাকা থামাই। তারপর প্রশ্ন।\"",
+        "চাকা থামলে Phew সেটিকে চালানোর সংযোগ বিচ্ছিন্ন করে, যাতে পরীক্ষা করা যায়। Doze বিশ্রামের বেঞ্চের পাশে থাকে। কর্মী ঘুমাক, যন্ত্র নিরাপদ থাকুক—কাজ কিছুক্ষণ অপেক্ষা করতে পারে।\n\nPhew: \"চাকা ঘোরার সম্ভাবনা থাকলে কেউ এটিতে কাজ করবে না।\"",
+        "সকালে একটু পরে Grit জেগে দেখে, Beam একটি কাপ নিয়ে অপেক্ষা করছে; কাজ শেষ করার তাড়া নিয়ে নয়। Grit ঘুমিয়ে পড়ার জন্য ক্ষমা চাইতে শুরু করে। সেই ক্ষমা চাওয়া আবার কাজের চাপে পরিণত হওয়ার আগেই Beam তাকে থামায়।\n\nBeam: \"ঘুমের প্রয়োজন হয়েছে বলে ক্ষমা চাইতে হবে না।\"",
+        "Grit প্রস্তুত হলে নির্মাতার খাতায় লেখা নকশার ড্রয়ারটি খোলে। Quest নিরাপদ কাজের টেবিলে আটকানিটি আনে। যে উত্তর তারা খুঁজছে, তা এতক্ষণ এখানেই রাখা নকশায় ছিল।\n\nGrit: \"এবার ঠিকমতো পড়তে পারছি।\"",
+        "নকশায় ছয় পাপড়ির স্মৃতির পাত্র দেখা যায়, কিন্তু বন্ধ করার আটকানি মাত্র একটি। ছয়টি আটকানি হারায়নি। Phew কাল স্টেশনের শান্ত ঘরে ছন্দ মেলানোর ব্যবস্থা করেছে। তাতে কোন পাঠযন্ত্র লাগবে বোঝা যেতে পারে।\n\nQuest: \"এখানেই আটকানিটা বসে। এবার জানি, ভাঙা অংশটি কিসের।\"",
+        "সেই সন্ধ্যায় Meadowfold-এ Rain-এর শরীর বিশ্রামের জায়গার আরেকটি মাপচিহ্ন ছাড়িয়ে গেছে। Mend কারখানার খবর জানায়। অনুসন্ধান এগোলেও অপেক্ষা সহজ হয় না।\n\nRain: \"ওরা যন্ত্র মেরামত করতে পারে। আমাকে সাহায্য করতে পারবে?\"\nMend: \"এখনও পরীক্ষা করছে। উত্তরটা আমরা এখনও জানি না।\""
+      ],
+      "introduction": "পাহাড়ি ট্রেনে বন্ধুরা ভোরের আগে Veyra পৌঁছায়। কারখানায় এখনও কাজ চলছে, কিন্তু ক্লান্তিতে যত্ন করে কাজ করা কঠিন। আটকানি সম্পর্কে নির্ভরযোগ্য কিছু জানতে হলে আগে নিরাপদে বসে পরিষ্কার মাথায় ভাবার সুযোগ দরকার।",
+      "title": "যে কারখানা ঘুমায় না"
+    },
+    "cs": {
+      "altTexts": [
+        "Před svítáním dorazí Quest ve Veyře do dílny, kterou určil Swagger. Grit je stále u kotouče s ochranným krytem a Phew kontroluje nedokončenou práci směny. Znak výrobce odpovídá půlměsíci v Questových poznámkách.",
+        "O něco později najde Doze Grita spícího na lavičce vedle stále běžícího stroje. Než ho vzbudí, sáhne po vypínači. Vedle otáčejícího se kotouče není čas na užitečný rozhovor.",
+        "Jakmile se kotouč zastaví, Phew odpojí a zajistí jeho pohon pro kontrolu. Doze zůstane u odpočinkové lavičky. Práce počká, zatímco pracovník spí a zařízení se zabezpečuje.",
+        "Později toho rána se Grit probudí a najde Beama se šálkem, nikoli s termínem. Začne se omlouvat, že usnul. Beam omluvu zastaví dřív, než se změní v další nárok na práci.",
+        "Až když je Grit připravený, otevře zásuvku s výkresy uvedenou v rejstříku výrobce. Quest přinese sponu k bezpečnému pracovnímu stolu. Odpověď, kterou hledají, je ve výkresu, který tu byl celou dobu.",
+        "Výkres určí šestilaločné pouzdro s jedinou uzamykací sponou; nechybí tedy šest spon. Phew na zítřek domluvil porovnání rytmu v klidné místnosti na nádraží. To může pomoci určit, jakou čtečku potřebují.",
+        "Toho večera Rain na louce Meadowfold přerostl další značku u svého místa k odpočinku. Mend přináší dnešní zprávy z dílny. Vědomí, že pátrání pokročilo, čekání neusnadňuje."
+      ],
+      "captions": [
+        "Před svítáním dorazí Quest ve Veyře do dílny, kterou určil Swagger. Grit je stále u kotouče s ochranným krytem a Phew kontroluje nedokončenou práci směny. Znak výrobce odpovídá půlměsíci v Questových poznámkách.\n\nGrit: „Už máme skoro hotovo. Jako vždycky.“",
+        "O něco později najde Doze Grita spícího na lavičce vedle stále běžícího stroje. Než ho vzbudí, sáhne po vypínači. Vedle otáčejícího se kotouče není čas na užitečný rozhovor.\n\nDoze: „Nejdřív kotouč. Otázky potom.“",
+        "Jakmile se kotouč zastaví, Phew odpojí a zajistí jeho pohon pro kontrolu. Doze zůstane u odpočinkové lavičky. Práce počká, zatímco pracovník spí a zařízení se zabezpečuje.\n\nPhew: „Nikdo na tom nebude pracovat, dokud se to může roztočit.“",
+        "Později toho rána se Grit probudí a najde Beama se šálkem, nikoli s termínem. Začne se omlouvat, že usnul. Beam omluvu zastaví dřív, než se změní v další nárok na práci.\n\nBeam: „Nemusíš se nám omlouvat za to, že potřebuješ spát.“",
+        "Až když je Grit připravený, otevře zásuvku s výkresy uvedenou v rejstříku výrobce. Quest přinese sponu k bezpečnému pracovnímu stolu. Odpověď, kterou hledají, je ve výkresu, který tu byl celou dobu.\n\nGrit: „Teď už to opravdu dokážu přečíst.“",
+        "Výkres určí šestilaločné pouzdro s jedinou uzamykací sponou; nechybí tedy šest spon. Phew na zítřek domluvil porovnání rytmu v klidné místnosti na nádraží. To může pomoci určit, jakou čtečku potřebují.\n\nQuest: „Sem patří ta spona. Teď víme, k čemu poškozený díl náležel.“",
+        "Toho večera Rain na louce Meadowfold přerostl další značku u svého místa k odpočinku. Mend přináší dnešní zprávy z dílny. Vědomí, že pátrání pokročilo, čekání neusnadňuje.\n\nRain: „Dokážou opravit stroj. Dokážou pomoct mně?“\nMend: „Pořád to zjišťují. Odpověď ještě nemáme.“"
+      ],
+      "introduction": "Horský vlak přiveze pátrací skupinu do Veyry před svítáním. Výrobní dílna stále pracuje, ale vyčerpání ztěžuje pečlivou práci. Aby přátelé zjistili něco spolehlivého o sponě, potřebují nejprve místo, kde může někdo jasně přemýšlet.",
+      "title": "Dílna, která nikdy nespala"
+    },
+    "de": {
+      "altTexts": [
+        "Vor Tagesanbruch in Veyra erreicht Quest die von Swagger identifizierte Werkstatt. Grit arbeitet noch an der Schleifscheibe mit Schutzhaube und Phew überprüft die noch nicht erledigte Schichtarbeit. Das Zeichen des Herstellers stimmt mit dem Halbmond in den Notizen von Quest überein.",
+        "Wenig später findet Doze Grit schlafend auf der Bank neben der noch laufenden Maschine. Er greift nach dem Ausschalter, bevor er Grit weckt. Neben einer laufenden Schleifscheibe lässt sich kein sinnvolles Gespräch führen.",
+        "Sobald die Scheibe stillsteht, trennt Phew ihren Antrieb vom Strom und sichert ihn für die Prüfung. Doze bleibt bei der Ruhebank. Die Arbeit kann warten, während der Arbeiter schläft und die Ausrüstung sicher gemacht wird.",
+        "Später am Morgen wacht Grit auf und stellt fest, dass Beam mit einer Tasse wartet, nicht mit einer Frist. Grit beginnt sich für das Einschlafen zu entschuldigen. Beam stoppt die Entschuldigung, bevor sie zu einer weiteren Aufforderung zur Arbeit wird.",
+        "Erst als Grit bereit ist, öffnet er die im Herstellerregister genannte Schublade mit Konstruktionszeichnungen. Quest bringt den Verschluss auf die sichere Werkbank. Die Antwort, die sie brauchen, steht in einer Zeichnung, die die ganze Zeit hier vorhanden war.",
+        "Die Zeichnung identifiziert einen sechsblättrigen Träger mit einem einzigen Verschluss – nicht sechs fehlenden Verschlüssen. Phew hat morgen einen Rhythmusvergleich im Ruheraum des Bahnhofs arrangiert. Das kann dabei helfen, einzugrenzen, welches Lesegerät sie benötigen.",
+        "An diesem Abend, zurück bei Meadowfold, ist Rain einer weiteren Markierung neben seinem Ruheplatz entwachsen. Mend bringt die heutigen Neuigkeiten aus der Werkstatt. Zu wissen, dass die Suche vorangekommen ist, macht das Warten nicht einfach."
+      ],
+      "captions": [
+        "Vor Tagesanbruch in Veyra erreicht Quest die von Swagger identifizierte Werkstatt. Grit arbeitet noch an der Schleifscheibe mit Schutzhaube und Phew überprüft die noch nicht erledigte Schichtarbeit. Das Zeichen des Herstellers stimmt mit dem Halbmond in den Notizen von Quest überein.\n\nGrit: „Wir sind fast fertig. Das sind wir immer.“",
+        "Wenig später findet Doze Grit schlafend auf der Bank neben der noch laufenden Maschine. Er greift nach dem Ausschalter, bevor er Grit weckt. Neben einer laufenden Schleifscheibe lässt sich kein sinnvolles Gespräch führen.\n\nDoze: „Erst die Scheibe. Dann die Fragen.“",
+        "Sobald die Scheibe stillsteht, trennt Phew ihren Antrieb vom Strom und sichert ihn für die Prüfung. Doze bleibt bei der Ruhebank. Die Arbeit kann warten, während der Arbeiter schläft und die Ausrüstung sicher gemacht wird.\n\nPhew: „Niemand arbeitet daran, solange es sich drehen kann.“",
+        "Später am Morgen wacht Grit auf und stellt fest, dass Beam mit einer Tasse wartet, nicht mit einer Frist. Grit beginnt sich für das Einschlafen zu entschuldigen. Beam stoppt die Entschuldigung, bevor sie zu einer weiteren Aufforderung zur Arbeit wird.\n\nBeam: „Du musst dich nicht dafür entschuldigen, dass du Schlaf brauchst.“",
+        "Erst als Grit bereit ist, öffnet er die im Herstellerregister genannte Schublade mit Konstruktionszeichnungen. Quest bringt den Verschluss auf die sichere Werkbank. Die Antwort, die sie brauchen, steht in einer Zeichnung, die die ganze Zeit hier vorhanden war.\n\nGrit: „Jetzt kann ich das tatsächlich lesen.“",
+        "Die Zeichnung identifiziert einen sechsblättrigen Träger mit einem einzigen Verschluss – nicht sechs fehlenden Verschlüssen. Phew hat morgen einen Rhythmusvergleich im Ruheraum des Bahnhofs arrangiert. Das kann dabei helfen, einzugrenzen, welches Lesegerät sie benötigen.\n\nQuest: „Hier gehört die Schließe hin. Jetzt wissen wir, wozu das kaputte Teil gehörte.“",
+        "An diesem Abend, zurück bei Meadowfold, ist Rain einer weiteren Markierung neben seinem Ruheplatz entwachsen. Mend bringt die heutigen Neuigkeiten aus der Werkstatt. Zu wissen, dass die Suche vorangekommen ist, macht das Warten nicht einfach.\n\nRain: „Sie können eine Maschine reparieren. Können sie mir helfen?“\nMend: „Sie prüfen noch. Wir haben noch keine Antwort.“"
+      ],
+      "introduction": "Die Bergbahn bringt die Ermittler noch vor Tagesanbruch nach Veyra. Die Werkstatt des Herstellers ist noch in Betrieb, aber die Erschöpfung macht sorgfältiges Arbeiten schwierig. Um etwas Verlässliches über den Verschluss zu erfahren, brauchen die Freunde zunächst eine Werkbank, an der jemand klar denken kann.",
+      "title": "Die Werkstatt, die niemals schlief"
+    },
+    "en": {
+      "altTexts": [
+        "Before dawn in Veyra, Quest reaches the workshop Swagger identified. Grit is still at the guarded wheel, and Phew is checking the unfinished shift work. The maker's sign matches the crescent in Quest's notes.",
+        "A little later, Doze finds Grit asleep on the bench beside the still-running machine. He reaches for the stop before waking Grit. There is no useful conversation to have over a moving wheel.",
+        "Once the wheel has stopped, Phew isolates its drive for inspection. Doze stays by the rest bench. Work can wait while the worker sleeps and the equipment is made safe.",
+        "Later that morning, Grit wakes to find Beam waiting with a cup, not a deadline. Grit starts to apologize for falling asleep. Beam stops the apology before it becomes another demand to work.",
+        "When Grit is ready, he opens the design drawer named in the maker's register. Quest brings the clasp to the safe bench. The answer they need is in a drawing that was here all along.",
+        "The drawing identifies a six-petal carrier, with a single locking clasp—not six missing clasps. Phew has arranged a rhythm comparison in the station's quiet room tomorrow. That may help narrow down which reader they need.",
+        "That evening, back at Meadowfold, Rain has outgrown another marker beside his resting place. Mend brings the day's workshop news. Knowing that the search has moved forward does not make waiting easy."
+      ],
+      "captions": [
+        "Before dawn in Veyra, Quest reaches the workshop Swagger identified. Grit is still at the guarded wheel, and Phew is checking the unfinished shift work. The maker's sign matches the crescent in Quest's notes.\n\nGrit: “We're nearly done. We always are.”",
+        "A little later, Doze finds Grit asleep on the bench beside the still-running machine. He reaches for the stop before waking Grit. There is no useful conversation to have over a moving wheel.\n\nDoze: “Wheel first. Questions after.”",
+        "Once the wheel has stopped, Phew isolates its drive for inspection. Doze stays by the rest bench. Work can wait while the worker sleeps and the equipment is made safe.\n\nPhew: “Nobody works on this while it can turn.”",
+        "Later that morning, Grit wakes to find Beam waiting with a cup, not a deadline. Grit starts to apologize for falling asleep. Beam stops the apology before it becomes another demand to work.\n\nBeam: “You don't owe us an apology for needing sleep.”",
+        "When Grit is ready, he opens the design drawer named in the maker's register. Quest brings the clasp to the safe bench. The answer they need is in a drawing that was here all along.\n\nGrit: “Now I can actually read this.”",
+        "The drawing identifies a six-petal carrier, with a single locking clasp—not six missing clasps. Phew has arranged a rhythm comparison in the station's quiet room tomorrow. That may help narrow down which reader they need.\n\nQuest: “This is the clasp's place. Now we know what the broken part belonged to.”",
+        "That evening, back at Meadowfold, Rain has outgrown another marker beside his resting place. Mend brings the day's workshop news. Knowing that the search has moved forward does not make waiting easy.\n\nRain: “They can fix a machine. Can they help me?”\nMend: “They're still checking. We don't have the answer yet.”"
+      ],
+      "introduction": "The mountain train brings the investigators to Veyra before dawn. The maker's workshop is still running, but exhaustion has made careful work difficult. To learn anything reliable about the clasp, the friends first need a workbench where someone can think clearly.",
+      "title": "The Workshop That Never Slept"
+    },
+    "es": {
+      "altTexts": [
+        "Antes del amanecer en Veyra, Quest llega al taller que identificó Swagger. Grit todavía está junto a la rueda protegida y Phew está revisando el trabajo del turno inacabado. El letrero del fabricante coincide con la media luna de las notas de Quest.",
+        "Un poco más tarde, Doze encuentra a Grit dormido en el banco junto a la máquina que aún funciona. Activa el paro antes de despertar a Grit. No es posible mantener una conversación útil junto a una rueda en movimiento.",
+        "Una vez que la rueda se ha detenido, Phew aísla su transmisión para su inspección. Doze se queda junto al banco de descanso. El trabajo puede esperar mientras el trabajador duerme y el equipo está seguro.",
+        "Más tarde esa mañana, Grit se despierta y encuentra a Beam esperando con una taza, no con una fecha límite. Grit comienza a disculparse por quedarse dormido. Beam detiene la disculpa antes de que se convierta en otra exigencia para trabajar.",
+        "Cuando Grit está listo, abre el cajón de diseño nombrado en el registro del fabricante. Quest lleva el cierre al banco seguro. La respuesta que necesitan está en un dibujo que estuvo aquí todo el tiempo.",
+        "El dibujo identifica un receptáculo de seis pétalos, con un único cierre de seguridad, no faltan seis cierres. Phew ha organizado una comparación de ritmos mañana en la sala tranquila de la estación. Eso puede ayudar a determinar qué lector necesitan.",
+        "Esa noche, de vuelta en Meadowfold, Rain ha superado otro marcador al lado de su lugar de descanso. Mend trae las novedades del taller del día. Saber que la búsqueda ha avanzado no facilita la espera."
+      ],
+      "captions": [
+        "Antes del amanecer en Veyra, Quest llega al taller que identificó Swagger. Grit todavía está junto a la rueda protegida y Phew está revisando el trabajo del turno inacabado. El letrero del fabricante coincide con la media luna de las notas de Quest.\n\nGrit: \"Ya casi terminamos. Siempre estamos a punto\".",
+        "Un poco más tarde, Doze encuentra a Grit dormido en el banco junto a la máquina que aún funciona. Activa el paro antes de despertar a Grit. No es posible mantener una conversación útil junto a una rueda en movimiento.\n\nDoze: \"Primero parar la rueda. Las preguntas, después\".",
+        "Una vez que la rueda se ha detenido, Phew aísla su transmisión para su inspección. Doze se queda junto al banco de descanso. El trabajo puede esperar mientras el trabajador duerme y el equipo está seguro.\n\nPhew: “Nadie trabaja en esto mientras pueda girar”.",
+        "Más tarde esa mañana, Grit se despierta y encuentra a Beam esperando con una taza, no con una fecha límite. Grit comienza a disculparse por quedarse dormido. Beam detiene la disculpa antes de que se convierta en otra exigencia para trabajar.\n\nBeam: \"No nos debes una disculpa por necesitar dormir\".",
+        "Cuando Grit está listo, abre el cajón de diseño nombrado en el registro del fabricante. Quest lleva el cierre al banco seguro. La respuesta que necesitan está en un dibujo que estuvo aquí todo el tiempo.\n\nGrit: \"Ahora puedo leer esto\".",
+        "El dibujo identifica un receptáculo de seis pétalos, con un único cierre de seguridad, no faltan seis cierres. Phew ha organizado una comparación de ritmos mañana en la sala tranquila de la estación. Eso puede ayudar a determinar qué lector necesitan.\n\nQuest: “Este es el lugar del cierre, ahora sabemos a qué pertenecía la pieza rota”.",
+        "Esa noche, de vuelta en Meadowfold, Rain ha superado otro marcador al lado de su lugar de descanso. Mend trae las novedades del taller del día. Saber que la búsqueda ha avanzado no facilita la espera.\n\nRain: \"Pueden arreglar una máquina. ¿Pueden ayudarme?\"\nMend: \"Todavía están comprobando. Aún no tenemos la respuesta\"."
+      ],
+      "introduction": "El tren de montaña lleva a los investigadores a Veyra antes del amanecer. El taller del fabricante sigue funcionando, pero el agotamiento ha dificultado el trabajo minucioso. Para aprender algo fiable sobre el cierre, los amigos primero necesitan un banco de trabajo donde alguien pueda pensar con claridad.",
+      "title": "El taller que nunca durmió"
+    },
+    "fr": {
+      "altTexts": [
+        "Avant l'aube à Veyra, Quest arrive à l'atelier identifié par Swagger. Grit travaille encore à la meule munie de sa protection, et Phew vérifie le travail inachevé de l'équipe. Le signe du fabricant correspond au croissant dans les notes de Quest.",
+        "Un peu plus tard, Doze trouve Grit endormi sur le banc à côté de la machine toujours en marche. Il actionne l'arrêt avant de réveiller Grit. Il n’y a aucune conversation utile à avoir à côté d'une meule en mouvement.",
+        "Une fois la meule arrêtée, Phew coupe et sécurise son alimentation pour l'inspection. Doze reste près du banc de repos. Le travail peut attendre pendant que le travailleur dort et que l'équipement est sécurisé.",
+        "Plus tard dans la matinée, Grit se réveille et trouve Beam attendant avec une tasse, pas une date limite. Grit commence à s'excuser de s'être endormi. Beam arrête les excuses avant qu'elles ne deviennent une autre demande de travail.",
+        "Une fois Grit prêt, il ouvre le tiroir des plans indiqué dans le registre des fabricants. Quest amène le fermoir à l'établi sécurisé. La réponse dont ils ont besoin se trouve dans un dessin qui était là depuis le début.",
+        "Le dessin identifie un support à six pétales, avec un seul fermoir à verrouillage, et non six fermoirs manquants. Phew a prévu pour le lendemain une comparaison de rythme dans la salle calme de la gare. Cela peut aider à déterminer le lecteur dont ils ont besoin.",
+        "Ce soir-là, de retour à Meadowfold, Rain est devenu trop grand pour un autre marqueur à côté de son lieu de repos. Mend apporte les nouvelles du jour venues de l'atelier. Savoir que les recherches ont avancé ne facilite pas l’attente."
+      ],
+      "captions": [
+        "Avant l'aube à Veyra, Quest arrive à l'atelier identifié par Swagger. Grit travaille encore à la meule munie de sa protection, et Phew vérifie le travail inachevé de l'équipe. Le signe du fabricant correspond au croissant dans les notes de Quest.\n\nGrit : « Nous avons presque terminé. Comme toujours. »",
+        "Un peu plus tard, Doze trouve Grit endormi sur le banc à côté de la machine toujours en marche. Il actionne l'arrêt avant de réveiller Grit. Il n’y a aucune conversation utile à avoir à côté d'une meule en mouvement.\n\nDoze : « La meule d'abord. Les questions après. »",
+        "Une fois la meule arrêtée, Phew coupe et sécurise son alimentation pour l'inspection. Doze reste près du banc de repos. Le travail peut attendre pendant que le travailleur dort et que l'équipement est sécurisé.\n\nPhew : « Personne ne travaille là-dessus tant qu'il peut tourner. »",
+        "Plus tard dans la matinée, Grit se réveille et trouve Beam attendant avec une tasse, pas une date limite. Grit commence à s'excuser de s'être endormi. Beam arrête les excuses avant qu'elles ne deviennent une autre demande de travail.\n\nBeam : « Tu n'as pas à t'excuser d'avoir besoin de dormir. »",
+        "Une fois Grit prêt, il ouvre le tiroir des plans indiqué dans le registre des fabricants. Quest amène le fermoir à l'établi sécurisé. La réponse dont ils ont besoin se trouve dans un dessin qui était là depuis le début.\n\nGrit : « Maintenant, je peux réellement lire ceci. »",
+        "Le dessin identifie un support à six pétales, avec un seul fermoir à verrouillage, et non six fermoirs manquants. Phew a prévu pour le lendemain une comparaison de rythme dans la salle calme de la gare. Cela peut aider à déterminer le lecteur dont ils ont besoin.\n\nQuest : « C'est ici que va le fermoir. Nous savons maintenant à quoi appartenait la pièce cassée. »",
+        "Ce soir-là, de retour à Meadowfold, Rain est devenu trop grand pour un autre marqueur à côté de son lieu de repos. Mend apporte les nouvelles du jour venues de l'atelier. Savoir que les recherches ont avancé ne facilite pas l’attente.\n\nRain : « Ils peuvent réparer une machine. Peuvent-ils m'aider ? »\nMend : « Ils sont toujours en train de vérifier. Nous n'avons pas encore la réponse. »"
+      ],
+      "introduction": "Le train de montagne amène les enquêteurs à Veyra avant l'aube. L'atelier du fabricant fonctionne toujours, mais l'épuisement rend le travail minutieux difficile. Pour apprendre quelque chose de fiable sur le fermoir, les amis ont d'abord besoin d'un établi où quelqu'un puisse penser clairement.",
+      "title": "L'atelier qui n'a jamais dormi"
+    },
+    "hi": {
+      "altTexts": [
+        "भोर से पहले Quest, Veyra की उस कार्यशाला पहुँचता है जिसे Swagger ने पहचाना था। Grit अभी भी सुरक्षा-कवच वाले पहिये पर काम कर रहा है। Phew अधूरा काम देखता है। निर्माता का निशान Quest के नोट्स के अर्धचंद्र से मिलता है।",
+        "कुछ देर बाद Doze देखता है कि Grit चलती मशीन के पास बेंच पर सो गया है। उसे जगाने से पहले Doze मशीन रोकने के बटन तक हाथ बढ़ाता है। घूमते पहिये के पास बातचीत शुरू करना सुरक्षित नहीं।",
+        "पहिया रुकने पर Phew उसे चलाने वाला जोड़ अलग करता है ताकि जाँच हो सके। Doze आराम की बेंच के पास रहता है। काम इंतज़ार कर सकता है; काम करने वाले को नींद और उपकरण को सुरक्षित जाँच चाहिए।",
+        "उसी सुबह बाद में Grit जागता है। Beam कप लिए इंतज़ार कर रहा है, काम पूरा करने की जल्दी लिए नहीं। Grit सोने के लिए माफ़ी माँगता है। इससे पहले कि वही फिर काम का दबाव बने, Beam उसे रोकता है।",
+        "तैयार होने पर Grit नक्शों की वह दराज़ खोलता है जिसका ज़िक्र रजिस्टर में है। Quest सुरक्षित काम की मेज़ पर क्लिप लाता है। जिस जवाब की ज़रूरत है, वह यहीं रखे नक्शे में था।",
+        "नक्शे में छह पंखुड़ी वाला स्मृति-पात्र है, जिसे बंद करने की क्लिप केवल एक है। छह क्लिपें गायब नहीं हुईं। Phew ने कल स्टेशन के शांत कमरे में लय मिलाने का इंतज़ाम किया है। उससे रिकॉर्डिंग पढ़ने वाला सही यंत्र चुनने में मदद मिल सकती है।",
+        "उस शाम Meadowfold में Rain का शरीर आराम की जगह के पास एक और माप-निशान पार कर चुका है। Mend कार्यशाला की खबर लाती है। खोज आगे बढ़ने पर भी इंतज़ार आसान नहीं होता।"
+      ],
+      "captions": [
+        "भोर से पहले Quest, Veyra की उस कार्यशाला पहुँचता है जिसे Swagger ने पहचाना था। Grit अभी भी सुरक्षा-कवच वाले पहिये पर काम कर रहा है। Phew अधूरा काम देखता है। निर्माता का निशान Quest के नोट्स के अर्धचंद्र से मिलता है।\n\nGrit: \"बस पूरा होने वाला है। हम हमेशा यही कहते हैं।\"",
+        "कुछ देर बाद Doze देखता है कि Grit चलती मशीन के पास बेंच पर सो गया है। उसे जगाने से पहले Doze मशीन रोकने के बटन तक हाथ बढ़ाता है। घूमते पहिये के पास बातचीत शुरू करना सुरक्षित नहीं।\n\nDoze: \"पहले पहिया रोकें। फिर सवाल।\"",
+        "पहिया रुकने पर Phew उसे चलाने वाला जोड़ अलग करता है ताकि जाँच हो सके। Doze आराम की बेंच के पास रहता है। काम इंतज़ार कर सकता है; काम करने वाले को नींद और उपकरण को सुरक्षित जाँच चाहिए।\n\nPhew: \"जब तक यह घूम सकता है, कोई इस पर काम नहीं करेगा।\"",
+        "उसी सुबह बाद में Grit जागता है। Beam कप लिए इंतज़ार कर रहा है, काम पूरा करने की जल्दी लिए नहीं। Grit सोने के लिए माफ़ी माँगता है। इससे पहले कि वही फिर काम का दबाव बने, Beam उसे रोकता है।\n\nBeam: \"नींद चाहिए थी, इसके लिए माफ़ी मत माँगो।\"",
+        "तैयार होने पर Grit नक्शों की वह दराज़ खोलता है जिसका ज़िक्र रजिस्टर में है। Quest सुरक्षित काम की मेज़ पर क्लिप लाता है। जिस जवाब की ज़रूरत है, वह यहीं रखे नक्शे में था।\n\nGrit: \"अब इसे ठीक से पढ़ सकता हूँ।\"",
+        "नक्शे में छह पंखुड़ी वाला स्मृति-पात्र है, जिसे बंद करने की क्लिप केवल एक है। छह क्लिपें गायब नहीं हुईं। Phew ने कल स्टेशन के शांत कमरे में लय मिलाने का इंतज़ाम किया है। उससे रिकॉर्डिंग पढ़ने वाला सही यंत्र चुनने में मदद मिल सकती है।\n\nQuest: \"क्लिप यहाँ लगती है। अब पता है टूटा हिस्सा किसका है।\"",
+        "उस शाम Meadowfold में Rain का शरीर आराम की जगह के पास एक और माप-निशान पार कर चुका है। Mend कार्यशाला की खबर लाती है। खोज आगे बढ़ने पर भी इंतज़ार आसान नहीं होता।\n\nRain: \"वे मशीन ठीक कर सकते हैं। मेरी मदद कर पाएँगे?\"\nMend: \"अभी जाँच रहे हैं। जवाब अभी नहीं पता।\""
+      ],
+      "introduction": "पहाड़ी ट्रेन दोस्तों को भोर से पहले Veyra लाती है। कार्यशाला चल रही है, मगर थकान से सावधानी का काम मुश्किल है। क्लिप के बारे में भरोसेमंद बात जानने के लिए पहले सुरक्षित जगह और साफ़ सोचने का मौका चाहिए।",
+      "title": "वह कार्यशाला जो सोती नहीं"
+    },
+    "id": {
+      "altTexts": [
+        "Sebelum fajar di Veyra, Quest mencapai bengkel yang diidentifikasi Swagger. Grit masih bekerja di roda mesin yang dilindungi penutup, dan Phew sedang memeriksa pekerjaan shift yang belum selesai. Tanda pembuatnya cocok dengan bulan sabit pada catatan Quest.",
+        "Beberapa saat kemudian, Doze menemukan Grit tertidur di bangku di samping mesin yang masih berjalan. Doze menekan tombol berhenti sebelum membangunkan Grit. Mereka tidak bisa berbincang dengan aman di samping roda yang masih berputar.",
+        "Setelah roda berhenti, Phew mengisolasi penggeraknya untuk diperiksa. Doze tetap di bangku istirahat. Pekerjaan bisa menunggu sementara Grit beristirahat dan peralatan diamankan.",
+        "Pagi itu, setelah cukup beristirahat, Grit bangun dan menemukan Beam menunggu dengan cangkir, bukan tenggat waktu. Grit mulai meminta maaf karena tertidur. Beam menghentikan permintaan maaf sebelum menjadi tuntutan lain untuk bekerja.",
+        "Ketika Grit sudah siap, dia membuka laci desain yang disebutkan dalam daftar pembuatnya. Quest membawa pengait ke meja kerja yang aman. Jawaban yang mereka butuhkan ada pada gambar yang sudah ada di sini selama ini.",
+        "Gambar tersebut mengidentifikasi wadah enam kelopak, dengan satu jepitan pengunci—bukan enam jepitan yang hilang. Phew telah mengatur perbandingan ritme di ruangan sepi stasiun besok. Itu mungkin membantu menentukan alat pembaca mana yang mereka butuhkan.",
+        "Malam itu, di Meadowfold, Rain telah melampaui penanda lain di samping tempat peristirahatannya. Mend menghadirkan berita dari bengkel hari ini. Mengetahui bahwa pencarian telah bergerak maju tidak membuat penantian menjadi mudah."
+      ],
+      "captions": [
+        "Sebelum fajar di Veyra, Quest mencapai bengkel yang diidentifikasi Swagger. Grit masih bekerja di roda mesin yang dilindungi penutup, dan Phew sedang memeriksa pekerjaan shift yang belum selesai. Tanda pembuatnya cocok dengan bulan sabit pada catatan Quest.\n\nGrit: “Kita hampir selesai, selalu begitu.”",
+        "Beberapa saat kemudian, Doze menemukan Grit tertidur di bangku di samping mesin yang masih berjalan. Doze menekan tombol berhenti sebelum membangunkan Grit. Mereka tidak bisa berbincang dengan aman di samping roda yang masih berputar.\n\nDoze: \"Hentikan roda dulu. Pertanyaan nanti.\"",
+        "Setelah roda berhenti, Phew mengisolasi penggeraknya untuk diperiksa. Doze tetap di bangku istirahat. Pekerjaan bisa menunggu sementara Grit beristirahat dan peralatan diamankan.\n\nPhew: “Tidak ada yang mengerjakan ini selagi bisa berputar.”",
+        "Pagi itu, setelah cukup beristirahat, Grit bangun dan menemukan Beam menunggu dengan cangkir, bukan tenggat waktu. Grit mulai meminta maaf karena tertidur. Beam menghentikan permintaan maaf sebelum menjadi tuntutan lain untuk bekerja.\n\nBeam: “Kamu tidak perlu meminta maaf kepada kami karena perlu tidur.”",
+        "Ketika Grit sudah siap, dia membuka laci desain yang disebutkan dalam daftar pembuatnya. Quest membawa pengait ke meja kerja yang aman. Jawaban yang mereka butuhkan ada pada gambar yang sudah ada di sini selama ini.\n\nGrit: “Sekarang aku benar-benar bisa membaca ini.”",
+        "Gambar tersebut mengidentifikasi wadah enam kelopak, dengan satu jepitan pengunci—bukan enam jepitan yang hilang. Phew telah mengatur perbandingan ritme di ruangan sepi stasiun besok. Itu mungkin membantu menentukan alat pembaca mana yang mereka butuhkan.\n\nQuest: \"Ini tempat pengaitnya. Sekarang kita tahu bagian mana yang patah itu.\"",
+        "Malam itu, di Meadowfold, Rain telah melampaui penanda lain di samping tempat peristirahatannya. Mend menghadirkan berita dari bengkel hari ini. Mengetahui bahwa pencarian telah bergerak maju tidak membuat penantian menjadi mudah.\n\nRain: “Mereka bisa memperbaiki mesin. Bisakah mereka membantu aku?”\nMend: \"Mereka masih memeriksa. Kami belum mendapatkan jawabannya.\""
+      ],
+      "introduction": "Kereta gunung membawa penyelidik ke Veyra sebelum fajar. Bengkel pembuatnya masih berjalan, namun kelelahan membuat pekerjaan yang cermat menjadi sulit. Untuk mempelajari sesuatu yang dapat diandalkan tentang pengait, pertama-tama teman-teman membutuhkan meja kerja di mana seseorang dapat berpikir jernih.",
+      "title": "Bengkel yang Tak Pernah Tidur"
+    },
+    "it": {
+      "altTexts": [
+        "Prima dell'alba a Veyra, Quest raggiunge l'officina identificata da Swagger. Grit è ancora alla ruota protetta della macchina e Phew sta controllando il lavoro di turno incompiuto. Il segno del produttore corrisponde alla mezzaluna nelle note di Quest.",
+        "Un po' più tardi, Doze trova Grit addormentato sulla panchina accanto alla macchina ancora in funzione. Aziona l'arresto prima di svegliare Grit. Non c'è conversazione utile da tenere accanto a una ruota in movimento.",
+        "Una volta che la ruota si è fermata, Phew isola la sua trasmissione per l'ispezione. Doze resta accanto alla panca di riposo. Il lavoro può attendere mentre il lavoratore dorme e l'attrezzatura viene messa in sicurezza.",
+        "Più tardi quella mattina, Grit si sveglia e trova Beam che lo aspetta con una tazza, non con una scadenza. Grit inizia a scusarsi per essersi addormentato. Beam interrompe le scuse prima che diventino un'altra richiesta di lavoro.",
+        "Quando Grit è pronto, apre il cassetto dei disegni indicato nel registro del produttore. Quest porta la chiusura al banco sicuro. La risposta di cui hanno bisogno è in un disegno che è sempre stato qui.",
+        "Il disegno identifica un contenitore a sei petali, con un unico fermaglio di chiusura, non sei fermagli mancanti. Phew ha organizzato domani un confronto ritmico nella sala tranquilla della stazione. Ciò può aiutare a restringere il campo dei lettori di cui hanno bisogno.",
+        "Quella sera, a Meadowfold, Rain è diventato troppo grande per un altro segnale accanto al suo luogo di riposo. Mend porta le notizie del giorno dal laboratorio. Sapere che la ricerca è andata avanti non rende facile l’attesa."
+      ],
+      "captions": [
+        "Prima dell'alba a Veyra, Quest raggiunge l'officina identificata da Swagger. Grit è ancora alla ruota protetta della macchina e Phew sta controllando il lavoro di turno incompiuto. Il segno del produttore corrisponde alla mezzaluna nelle note di Quest.\n\nGrit: \"Abbiamo quasi finito. Lo siamo sempre.\"",
+        "Un po' più tardi, Doze trova Grit addormentato sulla panchina accanto alla macchina ancora in funzione. Aziona l'arresto prima di svegliare Grit. Non c'è conversazione utile da tenere accanto a una ruota in movimento.\n\nDoze: \"Prima fermiamo la ruota. Poi le domande.\"",
+        "Una volta che la ruota si è fermata, Phew isola la sua trasmissione per l'ispezione. Doze resta accanto alla panca di riposo. Il lavoro può attendere mentre il lavoratore dorme e l'attrezzatura viene messa in sicurezza.\n\nPhew: \"Nessuno ci lavora finché può girare.\"",
+        "Più tardi quella mattina, Grit si sveglia e trova Beam che lo aspetta con una tazza, non con una scadenza. Grit inizia a scusarsi per essersi addormentato. Beam interrompe le scuse prima che diventino un'altra richiesta di lavoro.\n\nBeam: \"Non ci devi scuse per aver bisogno di dormire.\"",
+        "Quando Grit è pronto, apre il cassetto dei disegni indicato nel registro del produttore. Quest porta la chiusura al banco sicuro. La risposta di cui hanno bisogno è in un disegno che è sempre stato qui.\n\nGrit: \"Ora posso davvero leggerlo.\"",
+        "Il disegno identifica un contenitore a sei petali, con un unico fermaglio di chiusura, non sei fermagli mancanti. Phew ha organizzato domani un confronto ritmico nella sala tranquilla della stazione. Ciò può aiutare a restringere il campo dei lettori di cui hanno bisogno.\n\nQuest: \"Questo è il posto del fermaglio. Ora sappiamo a cosa apparteneva la parte rotta.\"",
+        "Quella sera, a Meadowfold, Rain è diventato troppo grande per un altro segnale accanto al suo luogo di riposo. Mend porta le notizie del giorno dal laboratorio. Sapere che la ricerca è andata avanti non rende facile l’attesa.\n\nRain: \"Possono riparare una macchina. Possono aiutarmi?\"\nMend: \"Stanno ancora controllando. Non abbiamo ancora la risposta.\""
+      ],
+      "introduction": "Il treno di montagna porta gli investigatori a Veyra prima dell'alba. Il laboratorio del produttore è ancora funzionante, ma la stanchezza ha reso difficile il lavoro accurato. Per imparare qualcosa di affidabile sulla chiusura, gli amici hanno prima bisogno di un banco di lavoro dove qualcuno possa pensare chiaramente.",
+      "title": "Il laboratorio che non dormiva mai"
+    },
+    "ja": {
+      "altTexts": [
+        "Veyra の夜明け前に、Quest は Swagger が特定した工房に到着します。 Grit はまだ防護カバーのある回転輪で作業をしていて、Phew は未完了のシフト作業をチェックしています。メーカーのサインは、Quest のメモの三日月と一致します。",
+        "少し後、Doze は Grit がまだ稼働しているマシンの横のベンチで眠っているのを発見しました。彼は Grit を起こす前に停止装置に手を伸ばします。機械が回っているそばでは、落ち着いて話もできません。",
+        "ホイールが停止すると、Phew は点検のために駆動部を切り離して固定します。Doze は休憩ベンチのそばにいます。設備を安全にして、作業する人が休む。その間、仕事は待っていても大丈夫です。",
+        "その朝遅く、Grit が目を覚ますと、Beamがカップを持って、仕事を急かさずに待っていることに気づきました。 Grit は居眠りをしたことを謝り始めます。 Beam は、別の仕事の要求になる前に謝罪を止めます。",
+        "Grit の準備ができたら、メーカーの登録簿に指定されているデザインの引き出しを開きます。 Quest は留め金を安全な作業台に運びます。彼らが必要とする答えは、ずっとここにあった図面の中にあります。",
+        "図面では、6 つの花びらを持つ記憶容器が確認されており、留め金は一つだけです。六つの留め金がなくなったわけではありません。 Phew は明日、駅の静かな部屋でリズム比較をする予定です。それは、必要な読み取り装置を絞り込むのに役立つかもしれません。",
+        "その夜、Meadowfoldに戻ると、Rainは休憩場所の横にある別のマーカーを超えて成長しました。 Mend はその日の工房のニュースをお届けします。捜索が進んでいることを知っても、待つのは容易ではありません。"
+      ],
+      "captions": [
+        "Veyra の夜明け前に、Quest は Swagger が特定した工房に到着します。 Grit はまだ防護カバーのある回転輪で作業をしていて、Phew は未完了のシフト作業をチェックしています。メーカーのサインは、Quest のメモの三日月と一致します。\n\nGrit: 「あと少しで終わります。いつもそう言っていますけど。」",
+        "少し後、Doze は Grit がまだ稼働しているマシンの横のベンチで眠っているのを発見しました。彼は Grit を起こす前に停止装置に手を伸ばします。機械が回っているそばでは、落ち着いて話もできません。\n\nDoze: 「まず回転を止めます。質問はその後です。」",
+        "ホイールが停止すると、Phew は点検のために駆動部を切り離して固定します。Doze は休憩ベンチのそばにいます。設備を安全にして、作業する人が休む。その間、仕事は待っていても大丈夫です。\n\nPhew: 「回転できる間は誰も作業しません。」",
+        "その朝遅く、Grit が目を覚ますと、Beamがカップを持って、仕事を急かさずに待っていることに気づきました。 Grit は居眠りをしたことを謝り始めます。 Beam は、別の仕事の要求になる前に謝罪を止めます。\n\nBeam: 「睡眠が必要だったことを謝る必要はありません。」",
+        "Grit の準備ができたら、メーカーの登録簿に指定されているデザインの引き出しを開きます。 Quest は留め金を安全な作業台に運びます。彼らが必要とする答えは、ずっとここにあった図面の中にあります。\n\nGrit: 「これで、ようやくちゃんと図面が読めます。」",
+        "図面では、6 つの花びらを持つ記憶容器が確認されており、留め金は一つだけです。六つの留め金がなくなったわけではありません。 Phew は明日、駅の静かな部屋でリズム比較をする予定です。それは、必要な読み取り装置を絞り込むのに役立つかもしれません。\n\nQuest: 「ここが留め金の場所です。壊れた部分が何に属していたのかがわかりました。」",
+        "その夜、Meadowfoldに戻ると、Rainは休憩場所の横にある別のマーカーを超えて成長しました。 Mend はその日の工房のニュースをお届けします。捜索が進んでいることを知っても、待つのは容易ではありません。\n\nRain: 「彼らは機械を修理することができます。私を助けてくれますか?」\nMend: 「まだ調査中です。まだ答えは出ていません。」"
+      ],
+      "introduction": "登山列車は夜明け前に調査員をVeyraに連れて行きます。メーカーの工房は今も稼働しているが、疲労のせいで丁寧な作業が困難になっている。留め金について信頼できることを学ぶために、まずは工房で働く人たちが休み、落ち着いて考えられるようにする必要があります。",
+      "title": "眠らない工房"
+    },
+    "ko": {
+      "altTexts": [
+        "Veyra의 새벽이 되기 전에 Quest는 Swagger가 알려 준 작업장에 도착합니다. Grit은 여전히 안전 덮개가 있는 회전 장치 앞에서 일하고 있고, Phew는 완료되지 않은 교대 작업을 확인하고 있습니다. 제조사 표시는 Quest 노트의 초승달 모양과 일치합니다.",
+        "잠시 후 Doze는 여전히 작동 중인 기계 옆 벤치에서 잠들어 있는 Grit을 발견합니다. Doze는 Grit을 깨우기 전에 정지 장치에 손을 뻗습니다. 기계가 돌아가는 곁에서 이야기를 나누는 것은 안전하지 않습니다.",
+        "휠이 멈추면 Phew는 점검을 위해 구동부를 분리하고 고정합니다. Doze는 휴식 벤치 옆에 있습니다. 장비를 안전하게 해 두고, 일하는 사람은 잠시 쉽니다. 일은 기다려도 괜찮습니다.",
+        "그날 아침 늦게 Grit은 잠에서 깨어나 일을 재촉하지 않고 컵을 들고 기다리는 Beam을 발견했습니다. Grit은 잠든 것에 대해 사과하기 시작합니다. Beam은 사과하는 것마저 또 다른 일이 되지 않도록 Grit을 안심시킵니다.",
+        "Grit이 준비되면 제조업체 등록부에 이름이 지정된 디자인 서랍을 엽니다. Quest는 걸쇠를 안전한 작업대에 가져옵니다. 그들에게 필요한 답은 항상 여기에 있었던 그림에 있습니다.",
+        "그림에는 6개의 누락된 걸쇠가 아닌 단일 잠금 걸쇠가 있는 6개의 꽃잎이 있는 기억 보관 용기가 식별되어 있습니다. Phew는 내일 역의 조용한 방에서 리듬 비교를 준비했습니다. 이는 필요한 판독 장치를 알아내는 데 도움이 될 수 있습니다.",
+        "그날 저녁, Meadowfold에 있는 Rain은 그의 휴게소 옆에 있는 또 다른 마커보다 더 자랐습니다. Mend가 오늘의 공방 소식을 전해드립니다. 조사에 진전이 있다는 말을 들어도 기다림은 쉽지 않습니다."
+      ],
+      "captions": [
+        "Veyra의 새벽이 되기 전에 Quest는 Swagger가 알려 준 작업장에 도착합니다. Grit은 여전히 안전 덮개가 있는 회전 장치 앞에서 일하고 있고, Phew는 완료되지 않은 교대 작업을 확인하고 있습니다. 제조사 표시는 Quest 노트의 초승달 모양과 일치합니다.\n\nGrit: \"거의 끝났어요. 늘 그렇게 말하긴 하지만요.\"",
+        "잠시 후 Doze는 여전히 작동 중인 기계 옆 벤치에서 잠들어 있는 Grit을 발견합니다. Doze는 Grit을 깨우기 전에 정지 장치에 손을 뻗습니다. 기계가 돌아가는 곁에서 이야기를 나누는 것은 안전하지 않습니다.\n\nDoze: \"먼저 회전을 멈출게요. 질문은 그다음이에요.\"",
+        "휠이 멈추면 Phew는 점검을 위해 구동부를 분리하고 고정합니다. Doze는 휴식 벤치 옆에 있습니다. 장비를 안전하게 해 두고, 일하는 사람은 잠시 쉽니다. 일은 기다려도 괜찮습니다.\n\nPhew: \"회전할 수 있는 동안에는 아무도 작업하지 않습니다.\"",
+        "그날 아침 늦게 Grit은 잠에서 깨어나 일을 재촉하지 않고 컵을 들고 기다리는 Beam을 발견했습니다. Grit은 잠든 것에 대해 사과하기 시작합니다. Beam은 사과하는 것마저 또 다른 일이 되지 않도록 Grit을 안심시킵니다.\n\nBeam: “잠이 필요하다고 사과할 필요는 없습니다.”",
+        "Grit이 준비되면 제조업체 등록부에 이름이 지정된 디자인 서랍을 엽니다. Quest는 걸쇠를 안전한 작업대에 가져옵니다. 그들에게 필요한 답은 항상 여기에 있었던 그림에 있습니다.\n\nGrit: “이제야 도면을 제대로 읽을 수 있겠어요.”",
+        "그림에는 6개의 누락된 걸쇠가 아닌 단일 잠금 걸쇠가 있는 6개의 꽃잎이 있는 기억 보관 용기가 식별되어 있습니다. Phew는 내일 역의 조용한 방에서 리듬 비교를 준비했습니다. 이는 필요한 판독 장치를 알아내는 데 도움이 될 수 있습니다.\n\nQuest: \"여기가 걸쇠의 위치입니다. 이제 우리는 부러진 부분이 무엇인지 알 수 있습니다.\"",
+        "그날 저녁, Meadowfold에 있는 Rain은 그의 휴게소 옆에 있는 또 다른 마커보다 더 자랐습니다. Mend가 오늘의 공방 소식을 전해드립니다. 조사에 진전이 있다는 말을 들어도 기다림은 쉽지 않습니다.\n\nRain: \"그들은 기계를 고칠 수 있습니다. 그들이 나를 도와줄 수 있나요?\"\nMend: \"아직 확인 중입니다. 아직 답변이 없습니다.\""
+      ],
+      "introduction": "산악 열차는 새벽이 되기 전에 수사관들을 Veyra로 데려갑니다. 제작자의 공방은 아직 운영 중이지만, 체력이 많이 소모되어 세심한 작업이 어려워졌습니다. 걸쇠에 대해 믿을만한 것을 배우려면 먼저 공방에서 일하는 사람들이 쉬고 맑은 정신으로 생각할 수 있어야 합니다.",
+      "title": "잠들지 않은 공방"
+    },
+    "pl": {
+      "altTexts": [
+        "Przed świtem w mieście Veyra Quest dociera do warsztatu zidentyfikowanego przez Swaggera. Grit nadal stoi przy kole maszyny osłoniętym zabezpieczeniem, a Phew sprawdza niedokończoną pracę zmianową. Sygnatura producenta odpowiada półksiężycowi w notatkach Questa.",
+        "Nieco później Doze znajduje Grita śpiącego na ławce obok wciąż działającej maszyny. Naciska przycisk zatrzymania, zanim obudzi Grita. Przy obracającym się kole nie da się bezpiecznie rozmawiać.",
+        "Po zatrzymaniu koła Phew odłącza napęd w celu kontroli. Doze pozostaje przy ławce wypoczynkowej. Praca może poczekać, gdy Grit śpi, a urządzenie jest zabezpieczone.",
+        "Później tego samego ranka Grit budzi się i widzi Beama czekającego z filiżanką, a nie ostatecznym terminem. Grit zaczyna przepraszać za zasypianie. Beam przerywa przeprosiny, zanim staną się one kolejnym żądaniem pracy.",
+        "Kiedy Grit jest gotowy, otwiera szufladę z projektami wymienioną w rejestrze producenta. Quest przenosi zapięcie na zabezpieczony stół roboczy. Odpowiedź, której potrzebują, znajduje się na rysunku, który był tu przez cały czas.",
+        "Rysunek przedstawia nośnik z sześcioma płatkami i jednym zatrzaskiem blokującym, a nie sześcioma brakującymi zatrzaskami. Phew zaplanował na jutro porównanie rytmu w cichym pomieszczeniu stacji. Może to pomóc zawęzić wybór czytnika, którego potrzebują.",
+        "Tego wieczoru, na łące Meadowfold, Rain przekroczył kolejny znacznik przy swoim miejscu odpoczynku. Mend przynosi codzienne wiadomości z warsztatów. Świadomość, że poszukiwania posunęły się do przodu, nie ułatwia czekania."
+      ],
+      "captions": [
+        "Przed świtem w mieście Veyra Quest dociera do warsztatu zidentyfikowanego przez Swaggera. Grit nadal stoi przy kole maszyny osłoniętym zabezpieczeniem, a Phew sprawdza niedokończoną pracę zmianową. Sygnatura producenta odpowiada półksiężycowi w notatkach Questa.\n\nGrit: \"Już prawie skończyliśmy. Wciąż jesteśmy prawie gotowi.\"",
+        "Nieco później Doze znajduje Grita śpiącego na ławce obok wciąż działającej maszyny. Naciska przycisk zatrzymania, zanim obudzi Grita. Przy obracającym się kole nie da się bezpiecznie rozmawiać.\n\nDoze: „Najpierw zatrzymać koło. Potem pytania”.",
+        "Po zatrzymaniu koła Phew odłącza napęd w celu kontroli. Doze pozostaje przy ławce wypoczynkowej. Praca może poczekać, gdy Grit śpi, a urządzenie jest zabezpieczone.\n\nPhew: „Nikt nad tym nie pracuje, dopóki koło może się obracać”.",
+        "Później tego samego ranka Grit budzi się i widzi Beama czekającego z filiżanką, a nie ostatecznym terminem. Grit zaczyna przepraszać za zasypianie. Beam przerywa przeprosiny, zanim staną się one kolejnym żądaniem pracy.\n\nBeam: „Nie jesteś nam winien przeprosin za potrzebę snu.”",
+        "Kiedy Grit jest gotowy, otwiera szufladę z projektami wymienioną w rejestrze producenta. Quest przenosi zapięcie na zabezpieczony stół roboczy. Odpowiedź, której potrzebują, znajduje się na rysunku, który był tu przez cały czas.\n\nGrit: „Teraz naprawdę mogę to przeczytać.”",
+        "Rysunek przedstawia nośnik z sześcioma płatkami i jednym zatrzaskiem blokującym, a nie sześcioma brakującymi zatrzaskami. Phew zaplanował na jutro porównanie rytmu w cichym pomieszczeniu stacji. Może to pomóc zawęzić wybór czytnika, którego potrzebują.\n\nQuest: \"To jest miejsce zapięcia. Teraz wiemy do czego należała ta uszkodzona część.\"",
+        "Tego wieczoru, na łące Meadowfold, Rain przekroczył kolejny znacznik przy swoim miejscu odpoczynku. Mend przynosi codzienne wiadomości z warsztatów. Świadomość, że poszukiwania posunęły się do przodu, nie ułatwia czekania.\n\nRain: \"Mogą naprawić maszynę. Czy mogą mi pomóc?\"\nMend: \"Nadal sprawdzają. Nie mamy jeszcze odpowiedzi.\""
+      ],
+      "introduction": "Górski pociąg dowozi badaczy do miasta Veyra jeszcze przed świtem. Warsztat twórcy nadal działa, ale zmęczenie utrudnia staranną pracę. Aby dowiedzieć się czegoś wiarygodnego na temat zapięcia, przyjaciele potrzebują najpierw stołu warsztatowego, przy którym ktoś będzie mógł jasno myśleć.",
+      "title": "Warsztat, który nigdy nie spał"
+    },
+    "pt": {
+      "altTexts": [
+        "Antes do amanhecer em Veyra, Quest chega à oficina que Swagger identificou. Grit ainda está junto à roda protegida da máquina e Phew está verificando o trabalho de turno inacabado. O sinal do fabricante corresponde à meia-lua nas notas de Quest.",
+        "Um pouco mais tarde, Doze encontra Grit dormindo no banco ao lado da máquina ainda em funcionamento. Doze aciona a parada antes de acordar Grit. Não dá para conversar com segurança ao lado de uma roda em movimento.",
+        "Assim que a roda parar, o Phew isola seu acionamento para inspeção. Doze fica no banco de descanso. O trabalho pode esperar enquanto o trabalhador dorme e o equipamento fica seguro.",
+        "Mais tarde naquela manhã, Grit acorda e encontra Beam esperando com uma xícara, não com um prazo. Grit começa a se desculpar por adormecer. Beam interrompe o pedido de desculpas antes que se torne outra exigência de trabalho.",
+        "Quando Grit estiver pronto, ele abre a gaveta de desenhos técnicos indicada no registro do fabricante. Quest traz o fecho para a bancada segura. A resposta que eles precisam está em um desenho que esteve aqui o tempo todo.",
+        "O desenho identifica um recipiente de seis pétalas, com um único fecho de travamento – e não seis fechos faltantes. Phew organizou uma comparação de ritmos na sala silenciosa da estação amanhã. Isso pode ajudar a definir qual leitor eles precisam.",
+        "Naquela noite, em Meadowfold, Rain superou outro marcador ao lado de seu local de descanso. Mend traz as notícias do dia da oficina. Saber que a busca avançou não facilita a espera."
+      ],
+      "captions": [
+        "Antes do amanhecer em Veyra, Quest chega à oficina que Swagger identificou. Grit ainda está junto à roda protegida da máquina e Phew está verificando o trabalho de turno inacabado. O sinal do fabricante corresponde à meia-lua nas notas de Quest.\n\nGrit: \"Estamos quase terminando. Sempre estamos.\"",
+        "Um pouco mais tarde, Doze encontra Grit dormindo no banco ao lado da máquina ainda em funcionamento. Doze aciona a parada antes de acordar Grit. Não dá para conversar com segurança ao lado de uma roda em movimento.\n\nDoze: \"Primeiro parar a roda. Depois as perguntas.\"",
+        "Assim que a roda parar, o Phew isola seu acionamento para inspeção. Doze fica no banco de descanso. O trabalho pode esperar enquanto o trabalhador dorme e o equipamento fica seguro.\n\nPhew: “Ninguém trabalha nisso enquanto a roda puder girar.”",
+        "Mais tarde naquela manhã, Grit acorda e encontra Beam esperando com uma xícara, não com um prazo. Grit começa a se desculpar por adormecer. Beam interrompe o pedido de desculpas antes que se torne outra exigência de trabalho.\n\nBeam: “Você não nos deve desculpas por precisar dormir.”",
+        "Quando Grit estiver pronto, ele abre a gaveta de desenhos técnicos indicada no registro do fabricante. Quest traz o fecho para a bancada segura. A resposta que eles precisam está em um desenho que esteve aqui o tempo todo.\n\nGrit: “Agora posso realmente ler isto.”",
+        "O desenho identifica um recipiente de seis pétalas, com um único fecho de travamento – e não seis fechos faltantes. Phew organizou uma comparação de ritmos na sala silenciosa da estação amanhã. Isso pode ajudar a definir qual leitor eles precisam.\n\nQuest: \"Este é o lugar do fecho. Agora sabemos a que pertencia a parte quebrada.\"",
+        "Naquela noite, em Meadowfold, Rain superou outro marcador ao lado de seu local de descanso. Mend traz as notícias do dia da oficina. Saber que a busca avançou não facilita a espera.\n\nRain: \"Eles podem consertar uma máquina. Eles podem me ajudar?\"\nMend: \"Eles ainda estão verificando. Ainda não temos a resposta.\""
+      ],
+      "introduction": "O trem da montanha leva os investigadores para Veyra antes do amanhecer. A oficina do fabricante ainda funciona, mas o esgotamento dificultou o trabalho cuidadoso. Para aprender algo confiável sobre o fecho, os amigos primeiro precisam de uma bancada onde alguém possa pensar com clareza.",
+      "title": "A oficina que nunca dormiu"
+    },
+    "ru": {
+      "altTexts": [
+        "Перед рассветом в Veyra Quest достигает мастерской, которую указал Swagger. Grit все еще находится у колеса с защитным кожухом, а Phew проверяет незавершенную сменную работу. Знак производителя совпадает с полумесяцем в примечаниях Quest.",
+        "Чуть позже Doze находит Grit спящим на скамейке рядом с все еще работающей машиной. Он тянется к кнопке остановки, прежде чем разбудить Grit. Рядом с вращающимся колесом нельзя безопасно разговаривать.",
+        "После остановки колеса Phew отключает привод машины для проверки. Doze остается у скамейки для отдыха. Работа может подождать, пока работник спит и оборудование находится в безопасности.",
+        "Позже тем же утром Grit просыпается и обнаруживает, что Beam ждет с чашкой, а не с дедлайном. Grit начинает извиняться за то, что заснул. Beam прекращает извинения, прежде чем они станут еще одним требованием работать.",
+        "Когда Grit готов, он открывает ящик с чертежами, указанный в реестре производителей. Quest переносит застежку на безопасный верстак. Ответ, который им нужен, находится в рисунке, который был здесь все это время.",
+        "На рисунке изображен контейнер с шестью лепестками и одной застежкой, а не шестью отсутствующими застежками. Phew назначил на завтра сравнение ритмов в тихом зале станции. Это может помочь определить, какой считыватель им нужен.",
+        "В тот вечер, на лугу Meadowfold, Rain перерос еще один маркер рядом со своим местом отдыха. Mend приносит новости из мастерской за день. Знание того, что поиск продвинулся вперед, не облегчает ожидание."
+      ],
+      "captions": [
+        "Перед рассветом в Veyra Quest достигает мастерской, которую указал Swagger. Grit все еще находится у колеса с защитным кожухом, а Phew проверяет незавершенную сменную работу. Знак производителя совпадает с полумесяцем в примечаниях Quest.\n\nGrit: \"Мы почти закончили. Всегда так.\"",
+        "Чуть позже Doze находит Grit спящим на скамейке рядом с все еще работающей машиной. Он тянется к кнопке остановки, прежде чем разбудить Grit. Рядом с вращающимся колесом нельзя безопасно разговаривать.\n\nDoze: «Сначала остановим колесо, потом вопросы».",
+        "После остановки колеса Phew отключает привод машины для проверки. Doze остается у скамейки для отдыха. Работа может подождать, пока работник спит и оборудование находится в безопасности.\n\nPhew: «Никто не работает над этим, пока оно может вращаться».",
+        "Позже тем же утром Grit просыпается и обнаруживает, что Beam ждет с чашкой, а не с дедлайном. Grit начинает извиняться за то, что заснул. Beam прекращает извинения, прежде чем они станут еще одним требованием работать.\n\nBeam: «Тебе не нужно извиняться за то, что тебе нужен сон».",
+        "Когда Grit готов, он открывает ящик с чертежами, указанный в реестре производителей. Quest переносит застежку на безопасный верстак. Ответ, который им нужен, находится в рисунке, который был здесь все это время.\n\nGrit: «Теперь я действительно могу это прочитать».",
+        "На рисунке изображен контейнер с шестью лепестками и одной застежкой, а не шестью отсутствующими застежками. Phew назначил на завтра сравнение ритмов в тихом зале станции. Это может помочь определить, какой считыватель им нужен.\n\nQuest: \"Это место застежки. Теперь мы знаем, чему принадлежала сломанная часть\".",
+        "В тот вечер, на лугу Meadowfold, Rain перерос еще один маркер рядом со своим местом отдыха. Mend приносит новости из мастерской за день. Знание того, что поиск продвинулся вперед, не облегчает ожидание.\n\nRain: \"Они могут починить машину. Могут ли они мне помочь?\"\nMend: \"Они все еще проверяют. У нас пока нет ответа\"."
+      ],
+      "introduction": "Горный поезд доставляет следователей в Veyra еще до рассвета. Мастерская мастера все еще работает, но усталость затрудняет тщательную работу. Чтобы узнать что-нибудь достоверное о застежке, друзьям сначала нужен верстак, где кто-то сможет ясно мыслить.",
+      "title": "Мастерская, которая никогда не спала"
+    },
+    "tr": {
+      "altTexts": [
+        "Veyra'da şafak sökmeden önce Quest, Swagger'ın tanımladığı atölyeye ulaşır. Grit hala koruyucu kapaklı makine çarkının başında ve Phew tamamlanmamış vardiya işini kontrol ediyor. Üreticinin işareti, Quest'in notlarındaki hilal işaretiyle eşleşiyor.",
+        "Kısa bir süre sonra Doze, Grit'i hala çalışan makinenin yanındaki bankta uyurken bulur. Grit'i uyandırmadan önce durdurma düğmesine uzanıyor. Dönen bir çarkın yanında güvenle konuşamazlar.",
+        "Tekerlek durduğunda Phew, inceleme için tahrikini izole eder. Doze dinlenme bankının yanında kalıyor. İşçi uyurken ve ekipman güvenli hale getirilirken iş bekleyebilir.",
+        "O sabahın ilerleyen saatlerinde Grit uyandığında Beam'in son teslim tarihi değil, elinde bir fincanla beklediğini görür. Grit uykuya daldığı için özür dilemeye başlar. Beam, başka bir çalışma talebi haline gelmeden önce özrü durdurur.",
+        "Grit hazır olduğunda üreticinin kayıt defterinde adı geçen tasarım çekmecesini açar. Quest tokayı güvenli çalışma tezgahına getiriyor. İhtiyaç duydukları cevap başından beri burada olan bir çizimde.",
+        "Çizim, altı eksik tokayı değil, tek bir kilitleme tokasını içeren altı yapraklı bir taşıyıcıyı tanımlar. Phew yarın istasyonun sessiz odasında bir ritim karşılaştırması ayarladı. Bu karşılaştırma, hangi okuma cihazına ihtiyaç duyduklarını belirlemeye yardımcı olabilir.",
+        "O akşam, Meadowfold çayırında Rain, dinlenme yerinin yanındaki başka bir işareti aştı. Mend günün atölye haberlerini getiriyor. Aramanın ilerlediğini bilmek beklemeyi kolaylaştırmıyor."
+      ],
+      "captions": [
+        "Veyra'da şafak sökmeden önce Quest, Swagger'ın tanımladığı atölyeye ulaşır. Grit hala koruyucu kapaklı makine çarkının başında ve Phew tamamlanmamış vardiya işini kontrol ediyor. Üreticinin işareti, Quest'in notlarındaki hilal işaretiyle eşleşiyor.\n\nGrit: \"Neredeyse işimiz bitti. Her zaman öyleyiz.\"",
+        "Kısa bir süre sonra Doze, Grit'i hala çalışan makinenin yanındaki bankta uyurken bulur. Grit'i uyandırmadan önce durdurma düğmesine uzanıyor. Dönen bir çarkın yanında güvenle konuşamazlar.\n\nDoze: \"Önce çarkı durduralım, sonra sorular.\"",
+        "Tekerlek durduğunda Phew, inceleme için tahrikini izole eder. Doze dinlenme bankının yanında kalıyor. İşçi uyurken ve ekipman güvenli hale getirilirken iş bekleyebilir.\n\nPhew: \"Dönebilecekken kimse bunun üzerinde çalışmıyor.\"",
+        "O sabahın ilerleyen saatlerinde Grit uyandığında Beam'in son teslim tarihi değil, elinde bir fincanla beklediğini görür. Grit uykuya daldığı için özür dilemeye başlar. Beam, başka bir çalışma talebi haline gelmeden önce özrü durdurur.\n\nBeam: \"Uyumaya ihtiyaç duyduğun için özür dilemene gerek yok.\"",
+        "Grit hazır olduğunda üreticinin kayıt defterinde adı geçen tasarım çekmecesini açar. Quest tokayı güvenli çalışma tezgahına getiriyor. İhtiyaç duydukları cevap başından beri burada olan bir çizimde.\n\nGrit: \"Artık bunu gerçekten okuyabiliyorum.\"",
+        "Çizim, altı eksik tokayı değil, tek bir kilitleme tokasını içeren altı yapraklı bir taşıyıcıyı tanımlar. Phew yarın istasyonun sessiz odasında bir ritim karşılaştırması ayarladı. Bu karşılaştırma, hangi okuma cihazına ihtiyaç duyduklarını belirlemeye yardımcı olabilir.\n\nQuest: \"Burası tokanın yeri. Artık kırık parçanın neye ait olduğunu biliyoruz.\"",
+        "O akşam, Meadowfold çayırında Rain, dinlenme yerinin yanındaki başka bir işareti aştı. Mend günün atölye haberlerini getiriyor. Aramanın ilerlediğini bilmek beklemeyi kolaylaştırmıyor.\n\nRain: \"Bir makineyi tamir edebilirler. Bana yardım edebilirler mi?\"\nMend: \"Hâlâ kontrol ediyorlar. Henüz bir yanıtımız yok.\""
+      ],
+      "introduction": "Dağ treni, araştırmacıları şafaktan önce Veyra'ya getiriyor. Üreticinin atölyesi hâlâ çalışıyor ancak yorgunluk dikkatli çalışmayı zorlaştırıyor. Toka hakkında güvenilir bir şey öğrenmek için arkadaşların öncelikle birinin net düşünebileceği bir çalışma tezgahına ihtiyacı var.",
+      "title": "Hiç Uyumayan Atölye"
+    },
+    "vi": {
+      "altTexts": [
+        "Trước bình minh ở Veyra, Quest đã đến xưởng mà Swagger đã xác định. Grit vẫn đang ở bánh xe được bảo vệ và Phew đang kiểm tra ca làm việc chưa hoàn thành. Dấu hiệu của nhà sản xuất trùng với hình lưỡi liềm trong ghi chú của Quest.",
+        "Một lúc sau, Doze thấy Grit đang ngủ trên băng ghế bên cạnh chiếc máy vẫn đang chạy. Doze nhấn nút dừng trước khi đánh thức Grit. Không thể trò chuyện an toàn ngay cạnh bánh xe đang quay.",
+        "Khi bánh xe đã dừng lại, Phew sẽ cách ly bộ truyền động của nó để kiểm tra. Doze ở ghế nghỉ ngơi. Công việc có thể chờ trong khi công nhân ngủ và thiết bị được đảm bảo an toàn.",
+        "Cuối buổi sáng hôm đó, Grit thức dậy và thấy Beam đang đợi với một chiếc cốc chứ không phải thời hạn. Grit bắt đầu xin lỗi vì đã ngủ quên. Beam dừng lời xin lỗi trước khi nó trở thành một yêu cầu làm việc khác.",
+        "Khi Grit đã sẵn sàng, anh mở ngăn đựng bản vẽ có tên trong sổ đăng ký của nhà sản xuất. Quest mang móc cài vào bàn làm việc an toàn. Câu trả lời họ cần nằm ở một bức vẽ đã có sẵn ở đây từ lâu.",
+        "Hình vẽ xác định một hộp chứa hình sáu cánh hoa, với một móc cài duy nhất—không phải sáu móc bị thiếu. Phew đã sắp xếp buổi so sánh nhịp điệu trong căn phòng yên tĩnh của nhà ga vào ngày mai. Điều đó có thể giúp xác định loại máy đọc họ cần.",
+        "Tối hôm đó, tại đồng cỏ Meadowfold, Rain đã lớn vượt qua một vạch đánh dấu nữa bên cạnh chỗ nghỉ của anh ấy. Mend mang đến tin từ xưởng trong ngày. Biết rằng việc tìm kiếm đã tiến triển không làm cho việc chờ đợi trở nên dễ dàng."
+      ],
+      "captions": [
+        "Trước bình minh ở Veyra, Quest đã đến xưởng mà Swagger đã xác định. Grit vẫn đang ở bánh xe được bảo vệ và Phew đang kiểm tra ca làm việc chưa hoàn thành. Dấu hiệu của nhà sản xuất trùng với hình lưỡi liềm trong ghi chú của Quest.\n\nGrit: \"Chúng tôi gần như đã hoàn thành. Chúng tôi luôn như vậy.\"",
+        "Một lúc sau, Doze thấy Grit đang ngủ trên băng ghế bên cạnh chiếc máy vẫn đang chạy. Doze nhấn nút dừng trước khi đánh thức Grit. Không thể trò chuyện an toàn ngay cạnh bánh xe đang quay.\n\nDoze: \"Dừng bánh xe trước. Hỏi chuyện sau.\"",
+        "Khi bánh xe đã dừng lại, Phew sẽ cách ly bộ truyền động của nó để kiểm tra. Doze ở ghế nghỉ ngơi. Công việc có thể chờ trong khi công nhân ngủ và thiết bị được đảm bảo an toàn.\n\nPhew: “Không ai làm việc này trong khi nó có thể quay.”",
+        "Cuối buổi sáng hôm đó, Grit thức dậy và thấy Beam đang đợi với một chiếc cốc chứ không phải thời hạn. Grit bắt đầu xin lỗi vì đã ngủ quên. Beam dừng lời xin lỗi trước khi nó trở thành một yêu cầu làm việc khác.\n\nBeam: “Bạn không nợ chúng tôi một lời xin lỗi vì cần ngủ.”",
+        "Khi Grit đã sẵn sàng, anh mở ngăn đựng bản vẽ có tên trong sổ đăng ký của nhà sản xuất. Quest mang móc cài vào bàn làm việc an toàn. Câu trả lời họ cần nằm ở một bức vẽ đã có sẵn ở đây từ lâu.\n\nGrit: “Bây giờ tôi thực sự có thể đọc được cái này.”",
+        "Hình vẽ xác định một hộp chứa hình sáu cánh hoa, với một móc cài duy nhất—không phải sáu móc bị thiếu. Phew đã sắp xếp buổi so sánh nhịp điệu trong căn phòng yên tĩnh của nhà ga vào ngày mai. Điều đó có thể giúp xác định loại máy đọc họ cần.\n\nQuest: \"Đây là vị trí của cái móc. Bây giờ chúng ta đã biết phần bị gãy là gì.\"",
+        "Tối hôm đó, tại đồng cỏ Meadowfold, Rain đã lớn vượt qua một vạch đánh dấu nữa bên cạnh chỗ nghỉ của anh ấy. Mend mang đến tin từ xưởng trong ngày. Biết rằng việc tìm kiếm đã tiến triển không làm cho việc chờ đợi trở nên dễ dàng.\n\nRain: \"Họ có thể sửa máy. Họ có thể giúp tôi không?\"\nMend: \"Họ vẫn đang kiểm tra. Chúng tôi chưa có câu trả lời.\""
+      ],
+      "introduction": "Chuyến tàu leo núi đưa các điều tra viên đến Veyra trước bình minh. Xưởng sản xuất vẫn hoạt động nhưng tình trạng kiệt sức khiến công việc cẩn thận trở nên khó khăn. Để tìm hiểu bất cứ điều gì đáng tin cậy về chiếc móc cài, trước tiên những người bạn cần một bàn làm việc để ai đó có thể suy nghĩ rõ ràng.",
+      "title": "Xưởng không bao giờ ngủ"
+    },
+    "zh": {
+      "altTexts": [
+        "Veyra黎明前，Quest到达Swagger确定的车间。 Grit仍在带防护罩的转轮旁工作，Phew 正在检查未完成的倒班工作。制造商的标志与 Quest 笔记中的新月相匹配。",
+        "过了一会儿，Doze 发现 Grit 在仍在运行的机器旁边的长凳上睡着了。Doze 先按下停机装置，再叫醒 Grit。机器还在转动时，不适合站在那里谈话。",
+        "转轮停下后，Phew切断并锁住驱动装置，准备检查。Doze 留在休息长凳旁。先让工人睡好、确保设备安全，工作可以等一等。",
+        "那天早上晚些时候，Grit 醒来，发现Beam拿着杯子在等他，没有催他赶工。 Grit开始为睡着而道歉。 Beam没有让道歉又变成一项Grit必须完成的工作。",
+        "当 Grit 准备好后，他打开制造商登记簿中指定的设计抽屉。 Quest 将扣子带到安全的工作台上。他们需要的答案就在一直在这里的一张图纸中。",
+        "该图显示了一个六瓣载体，带有一个锁扣，而不是六个缺失的扣环。 Phew明天在车站静室安排了节奏对比。这可能有助于确定他们需要哪种读取装置。",
+        "那天晚上，回到Meadowfold，Rain已经超出了他休息的地方旁边的另一个标记。 Mend带来了当天的车间新闻。即使知道调查有了进展，等待仍然很难熬。"
+      ],
+      "captions": [
+        "Veyra黎明前，Quest到达Swagger确定的车间。 Grit仍在带防护罩的转轮旁工作，Phew 正在检查未完成的倒班工作。制造商的标志与 Quest 笔记中的新月相匹配。\n\nGrit：“我们快完成了。我们一直都是。”",
+        "过了一会儿，Doze 发现 Grit 在仍在运行的机器旁边的长凳上睡着了。Doze 先按下停机装置，再叫醒 Grit。机器还在转动时，不适合站在那里谈话。\n\nDoze：“先停轮子，再问问题。”",
+        "转轮停下后，Phew切断并锁住驱动装置，准备检查。Doze 留在休息长凳旁。先让工人睡好、确保设备安全，工作可以等一等。\n\nPhew：“只要它还有可能转动，就不能动手检修。”",
+        "那天早上晚些时候，Grit 醒来，发现Beam拿着杯子在等他，没有催他赶工。 Grit开始为睡着而道歉。 Beam没有让道歉又变成一项Grit必须完成的工作。\n\nBeam：“你不需要因为需要睡眠而向我们道歉。”",
+        "当 Grit 准备好后，他打开制造商登记簿中指定的设计抽屉。 Quest 将扣子带到安全的工作台上。他们需要的答案就在一直在这里的一张图纸中。\n\nGrit：“现在我总算能看清图纸了。”",
+        "该图显示了一个六瓣载体，带有一个锁扣，而不是六个缺失的扣环。 Phew明天在车站静室安排了节奏对比。这可能有助于确定他们需要哪种读取装置。\n\nQuest：“这是扣子所在的地方。现在我们知道破损的部分属于什么了。”",
+        "那天晚上，回到Meadowfold，Rain已经超出了他休息的地方旁边的另一个标记。 Mend带来了当天的车间新闻。即使知道调查有了进展，等待仍然很难熬。\n\nRain：“他们可以修机器。他们能帮我吗？”\nMend：“他们还在检查。我们还没有答案。”"
+      ],
+      "introduction": "黎明前，山地列车将调查员带到了Veyra。制造者的作坊仍在运转，但疲惫已经让细致的工作变得困难。要了解有关扣环的任何可靠信息，他们得先让工人好好休息，恢复清醒的思路。",
+      "title": "不眠的作坊"
+    }
+  },
+  "number": 9,
+  "panels": [
+    {
+      "altText": "Before dawn in Veyra, Quest reaches the workshop Swagger identified. Grit is still at the guarded wheel, and Phew is checking the unfinished shift work. The maker's sign matches the crescent in Quest's notes.",
+      "image": "N01E09P01.png"
+    },
+    {
+      "altText": "A little later, Doze finds Grit asleep on the bench beside the still-running machine. He reaches for the stop before waking Grit. There is no useful conversation to have over a moving wheel.",
+      "image": "N01E09P02.png"
+    },
+    {
+      "altText": "Once the wheel has stopped, Phew isolates its drive for inspection. Doze stays by the rest bench. Work can wait while the worker sleeps and the equipment is made safe.",
+      "image": "N01E09P03.png"
+    },
+    {
+      "altText": "Later that morning, Grit wakes to find Beam waiting with a cup, not a deadline. Grit starts to apologize for falling asleep. Beam stops the apology before it becomes another demand to work.",
+      "image": "N01E09P04.png"
+    },
+    {
+      "altText": "When Grit is ready, he opens the design drawer named in the maker's register. Quest brings the clasp to the safe bench. The answer they need is in a drawing that was here all along.",
+      "image": "N01E09P05.png"
+    },
+    {
+      "altText": "The drawing identifies a six-petal carrier, with a single locking clasp—not six missing clasps. Phew has arranged a rhythm comparison in the station's quiet room tomorrow. That may help narrow down which reader they need.",
+      "image": "N01E09P06.png"
+    },
+    {
+      "altText": "That evening, back at Meadowfold, Rain has outgrown another marker beside his resting place. Mend brings the day's workshop news. Knowing that the search has moved forward does not make waiting easy.",
+      "image": "N01E09P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

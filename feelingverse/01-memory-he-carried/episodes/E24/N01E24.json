@@ -1,0 +1,439 @@
+{
+  "id": "N01E24",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "في صباح اليوم التالي، قام Quest وQuiver بتفريغ المجموعة في مكان استراحة Rain. إنهم يقومون بتسوية وتثبيت الحامل على أرض ثابتة. موقعه يترك مجالًا له للتحرك وللجميع للوصول إلى نقطة التحكم في التوقف.",
+        "يقوم Bash بتثبيت جهاز الاستقبال المغلق أسفل العدستين. يتبع Quest المسار من المصباح إلى اللوحة ونافذة دخول الضوء. العدسة المدعمة لا تزال متشققة، والعدسة المطابقة لا تزال سليمة.",
+        "لفحص احتواء القطع، أخرج Bitter شظايا التدريب من كيسها وأدخلها عبر فتحة الصيانة والجهاز مطفأ، ثم أغلق الفتحة بالمزلاج. تبقى القطع البيضاء نفسها في الداخل أثناء هذا الفحص. سيخرجونها قبل فحص Rain.",
+        "بعد الفحص، تتم إزالة الشظايا وإغلاقها مرة أخرى في كيسها. ثم تحرك هبة ريح إطار لوحة القراءة. يطلب Quiver التوقف قبل بدء الفحص. سيظل جهاز الاستقبال فارغًا، ولن يُشغّل جهاز القراءة الآن.",
+        "بحلول وقت متأخر من بعد الظهر، خفت حدة الرياح. يضيف Flare وPop دعامات مائلة ويكرران فحص الثبات. لا ينبغي لأحد أن يمسك الحامل في وضع مستقيم، ولا يوجد شيء مرتبط بجسم Rain.",
+        "قرب المساء، يتدرب Rain على التوقف باستخدام مصباح اختبار منفصل منخفض الطاقة. عندما يقول الكلمة ويرفع يده، تقوم Mend بتحرير عنصر التحكم وينطفئ المصباح. يبقى جهاز القراءة الفعلي مغطّى ومطفأ.",
+        "اكتملت الفحوص، ولكن اليوم كان طويلا. يختار Rain الراحة والبدء في الصباح. إنهم يغطون الجهاز المؤمن، ويتركونه مطفأً، ويوافقون على إعادة فحص المحاذاة وطلب إذنه مرة أخرى بعد الليل."
+      ],
+      "captions": [
+        "في صباح اليوم التالي، قام Quest وQuiver بتفريغ المجموعة في مكان استراحة Rain. إنهم يقومون بتسوية وتثبيت الحامل على أرض ثابتة. موقعه يترك مجالًا له للتحرك وللجميع للوصول إلى نقطة التحكم في التوقف.\n\nQuest: \"قدما الحامل على مستوى واحد. تحقق من أدوات التثبيت قبل تركيب العدسات.\"",
+        "يقوم Bash بتثبيت جهاز الاستقبال المغلق أسفل العدستين. يتبع Quest المسار من المصباح إلى اللوحة ونافذة دخول الضوء. العدسة المدعمة لا تزال متشققة، والعدسة المطابقة لا تزال سليمة.\n\nBash: \"ينتهي مسار الضوء عند نافذة جهاز الاستقبال. لا شيء يسدّه.\"",
+        "لفحص احتواء القطع، أخرج Bitter شظايا التدريب من كيسها وأدخلها عبر فتحة الصيانة والجهاز مطفأ، ثم أغلق الفتحة بالمزلاج. تبقى القطع البيضاء نفسها في الداخل أثناء هذا الفحص. سيخرجونها قبل فحص Rain.\n\nBitter: \"المزلاج محكم. لا توجد فجوة تتسرب منها هذه القطع.\"",
+        "بعد الفحص، تتم إزالة الشظايا وإغلاقها مرة أخرى في كيسها. ثم تحرك هبة ريح إطار لوحة القراءة. يطلب Quiver التوقف قبل بدء الفحص. سيظل جهاز الاستقبال فارغًا، ولن يُشغّل جهاز القراءة الآن.\n\nQuiver: \"ليس بعد. الإطار يتحرك.\"",
+        "بحلول وقت متأخر من بعد الظهر، خفت حدة الرياح. يضيف Flare وPop دعامات مائلة ويكرران فحص الثبات. لا ينبغي لأحد أن يمسك الحامل في وضع مستقيم، ولا يوجد شيء مرتبط بجسم Rain.\n\nFlare: \"الآن يثبت الحامل نفسه. دعونا نتحقق منه مرة أخرى.\"",
+        "قرب المساء، يتدرب Rain على التوقف باستخدام مصباح اختبار منفصل منخفض الطاقة. عندما يقول الكلمة ويرفع يده، تقوم Mend بتحرير عنصر التحكم وينطفئ المصباح. يبقى جهاز القراءة الفعلي مغطّى ومطفأ.\n\nRain: \"توقف.\"\nMend: \"توقفنا. القرار لك.\"",
+        "اكتملت الفحوص، ولكن اليوم كان طويلا. يختار Rain الراحة والبدء في الصباح. إنهم يغطون الجهاز المؤمن، ويتركونه مطفأً، ويوافقون على إعادة فحص المحاذاة وطلب إذنه مرة أخرى بعد الليل.\n\nRain: \"صباح الغد. اسأليني مرة أخرى حينها، وابقي حيث أستطيع سماعك.\""
+      ],
+      "introduction": "يخصص الأصدقاء صباح اليوم التالي لتجميع الجهاز وفحصه بجانب Rain. لقد قطع القارئ المزدوج شوطا طويلا، والحقل ليس الفناء المحمي الذي تم اختباره فيه. تقاطع الرياح الاستعدادات، مما يمنح Rain خيارًا حقيقيًا بشأن موعد بدء الفحص.",
+      "title": "مكان آمن للفحص"
+    },
+    "bn": {
+      "altTexts": [
+        "পরদিন সকালে Quest আর Quiver Rain-এর বিশ্রামের জায়গায় সরঞ্জাম বের করে। শক্ত মাটিতে স্ট্যান্ড সমান করে আটকায়। Rain-এর নড়াচড়া আর সবার থামানোর নিয়ন্ত্রণে পৌঁছানোর জন্য যথেষ্ট জায়গা রাখা হয়।",
+        "Bash দুই লেন্সের নিচে বন্ধ গ্রহণপাত্রটি বসায়। Quest বাতি থেকে পাত হয়ে আলো ঢোকার জানালা পর্যন্ত পথ দেখে। ঠেকনা লাগানো লেন্সে ফাটল রয়ে গেছে; জোড়ার অন্যটি অক্ষত।",
+        "টুকরো ভেতরে আটকে থাকে কি না দেখতে Bitter অনুশীলনের টুকরোগুলো ব্যাগ থেকে বের করে। যন্ত্র বন্ধ রেখে রক্ষণাবেক্ষণের ঢাকনা দিয়ে সেগুলো ভরে, তারপর ঢাকনা আটকায়। পরীক্ষার সময় একই সাদা টুকরোগুলো ভেতরে থাকবে। Rain-কে পরীক্ষা করার আগে সেগুলো বের করা হবে।",
+        "পরীক্ষার পর টুকরোগুলো বের করে আবার ব্যাগে ভরে মুখ বন্ধ করা হয়। তখন দমকা বাতাসে পাঠ দেখানোর পাতের ফ্রেম নড়ে ওঠে। শুরু করার আগেই Quiver থামতে বলে। গ্রহণপাত্র খালিই থাকে; আসল পরীক্ষা এখনও শুরু হয়নি।",
+        "বিকেলের দিকে বাতাস কমে আসে। Flare আর Pop তির্যক ঠেকনা লাগিয়ে আবার স্থিরতা পরীক্ষা করে। কাউকে স্ট্যান্ড সোজা করে ধরে থাকতে হয় না। Rain-এর শরীরেও কিছু বাঁধা নেই।",
+        "সন্ধ্যার কাছে Rain আলাদা কম শক্তির পরীক্ষার বাতি দিয়ে থামার অভ্যাস করে। সে কথা বলে হাত তুললে Mend নিয়ন্ত্রণ ছেড়ে দেয়, আর বাতি নিভে যায়। আসল পাঠযন্ত্র ঢাকা ও বন্ধ থাকে।",
+        "যন্ত্রের পরীক্ষা শেষ, কিন্তু দিনটি অনেক দীর্ঘ হয়েছে। Rain বিশ্রাম নিয়ে সকালে শুরু করতে চায়। সবাই নিরাপদে আটকানো যন্ত্র ঢেকে বন্ধ রাখে। সকালে লেন্সের অবস্থান আবার মেলাবে, আর নতুন করে Rain-এর অনুমতি চাইবে।"
+      ],
+      "captions": [
+        "পরদিন সকালে Quest আর Quiver Rain-এর বিশ্রামের জায়গায় সরঞ্জাম বের করে। শক্ত মাটিতে স্ট্যান্ড সমান করে আটকায়। Rain-এর নড়াচড়া আর সবার থামানোর নিয়ন্ত্রণে পৌঁছানোর জন্য যথেষ্ট জায়গা রাখা হয়।\n\nQuest: \"দুটি পা সমান আছে। লেন্স বসানোর আগে মাটির আটকানিগুলো দেখো।\"",
+        "Bash দুই লেন্সের নিচে বন্ধ গ্রহণপাত্রটি বসায়। Quest বাতি থেকে পাত হয়ে আলো ঢোকার জানালা পর্যন্ত পথ দেখে। ঠেকনা লাগানো লেন্সে ফাটল রয়ে গেছে; জোড়ার অন্যটি অক্ষত।\n\nBash: \"আলোর পথ গ্রহণপাত্রের জানালায় শেষ হয়েছে। কিছু বাধা দিচ্ছে না।\"",
+        "টুকরো ভেতরে আটকে থাকে কি না দেখতে Bitter অনুশীলনের টুকরোগুলো ব্যাগ থেকে বের করে। যন্ত্র বন্ধ রেখে রক্ষণাবেক্ষণের ঢাকনা দিয়ে সেগুলো ভরে, তারপর ঢাকনা আটকায়। পরীক্ষার সময় একই সাদা টুকরোগুলো ভেতরে থাকবে। Rain-কে পরীক্ষা করার আগে সেগুলো বের করা হবে।\n\nBitter: \"ঢাকনা শক্তভাবে আটকানো। টুকরো বেরোনোর ফাঁক নেই।\"",
+        "পরীক্ষার পর টুকরোগুলো বের করে আবার ব্যাগে ভরে মুখ বন্ধ করা হয়। তখন দমকা বাতাসে পাঠ দেখানোর পাতের ফ্রেম নড়ে ওঠে। শুরু করার আগেই Quiver থামতে বলে। গ্রহণপাত্র খালিই থাকে; আসল পরীক্ষা এখনও শুরু হয়নি।\n\nQuiver: \"এখন নয়। ফ্রেম নড়ছে।\"",
+        "বিকেলের দিকে বাতাস কমে আসে। Flare আর Pop তির্যক ঠেকনা লাগিয়ে আবার স্থিরতা পরীক্ষা করে। কাউকে স্ট্যান্ড সোজা করে ধরে থাকতে হয় না। Rain-এর শরীরেও কিছু বাঁধা নেই।\n\nFlare: \"এবার স্ট্যান্ড নিজেই দাঁড়িয়ে আছে। আরেকবার দেখে নিই।\"",
+        "সন্ধ্যার কাছে Rain আলাদা কম শক্তির পরীক্ষার বাতি দিয়ে থামার অভ্যাস করে। সে কথা বলে হাত তুললে Mend নিয়ন্ত্রণ ছেড়ে দেয়, আর বাতি নিভে যায়। আসল পাঠযন্ত্র ঢাকা ও বন্ধ থাকে।\n\nRain: \"থামো।\"\nMend: \"থেমেছি। সিদ্ধান্ত তোমার।\"",
+        "যন্ত্রের পরীক্ষা শেষ, কিন্তু দিনটি অনেক দীর্ঘ হয়েছে। Rain বিশ্রাম নিয়ে সকালে শুরু করতে চায়। সবাই নিরাপদে আটকানো যন্ত্র ঢেকে বন্ধ রাখে। সকালে লেন্সের অবস্থান আবার মেলাবে, আর নতুন করে Rain-এর অনুমতি চাইবে।\n\nRain: \"কাল সকালে। তখন আবার জিজ্ঞেস করো। আর এমন জায়গায় থেকো, যেন তোমাদের কথা শুনতে পাই।\""
+      ],
+      "introduction": "পরদিন সকাল Rain-এর পাশে যন্ত্র সাজানো ও যাচাই করার জন্য রাখা হয়। দুই লেন্সের পাঠযন্ত্র অনেক পথ এসেছে। এই খোলা মাঠ পরীক্ষার আগের সুরক্ষিত উঠানের মতো নয়। বাতাসে প্রস্তুতি থামলে Rain সত্যিকার সুযোগ পায়, কখন পরীক্ষা শুরু হবে তা ঠিক করার।",
+      "title": "নিরাপদে খুঁজে দেখার জায়গা"
+    },
+    "cs": {
+      "altTexts": [
+        "Druhý den ráno Quest a Quiver vybalí vybavení u Rainova místa k odpočinku. Vyrovnají a ukotví stojan na pevné zemi. Jeho poloha nechává Rainovi prostor k pohybu a ostatním přístup k ovládání pro zastavení.",
+        "Bash upevní přijímací komoru se západkou pod dvě čočky. Quest sleduje dráhu od lampy k desce a ke vstupnímu okénku pro světlo. Vyztužená čočka je stále prasklá a druhá čočka z páru stále neporušená.",
+        "Kvůli zkoušce těsnosti Bitter při vypnutém přístroji vloží cvičné úlomky ze sáčku servisním otvorem do komory a zajistí západku. Při kontrole zůstávají uvnitř tytéž bílé kousky. Před jakýmkoli snímáním je vyjmou.",
+        "Po kontrole úlomky vyjmou a znovu uzavřou do sáčku. Pak poryv větru pohne rámem čtecí desky. Quiver vyhlásí přestávku dřív, než začnou; prázdná komora i dosud nezahájené snímání mohou počkat.",
+        "Pozdě odpoledne vítr zeslábne. Flare a Pop přidají šikmé vzpěry a zopakují kontrolu stability. Stojan už nikdo nemusí držet a k Rainovu tělu není nic přivázané.",
+        "V podvečer si Rain nacvičí zastavení se samostatnou slabou zkušební lampou. Když promluví a zvedne ruku, Mend pustí ovládání a lampa zhasne. Skutečná čtečka zůstává se zavřenou clonou a vypnutá.",
+        "Kontroly skončily, ale den byl dlouhý. Rain se rozhodne odpočinout si a začít ráno. Zakryjí ukotvené zařízení, nechají je vypnuté a domluví se, že po noci znovu ověří zarovnání a znovu ho požádají o svolení."
+      ],
+      "captions": [
+        "Druhý den ráno Quest a Quiver vybalí vybavení u Rainova místa k odpočinku. Vyrovnají a ukotví stojan na pevné zemi. Jeho poloha nechává Rainovi prostor k pohybu a ostatním přístup k ovládání pro zastavení.\n\nQuest: „Obě patky jsou v rovině. Než nasadíme čočky, zkontrolujte kotvení.“",
+        "Bash upevní přijímací komoru se západkou pod dvě čočky. Quest sleduje dráhu od lampy k desce a ke vstupnímu okénku pro světlo. Vyztužená čočka je stále prasklá a druhá čočka z páru stále neporušená.\n\nBash: „Vodicí dráha končí u okénka přijímací komory. Nic jí nepřekáží.“",
+        "Kvůli zkoušce těsnosti Bitter při vypnutém přístroji vloží cvičné úlomky ze sáčku servisním otvorem do komory a zajistí západku. Při kontrole zůstávají uvnitř tytéž bílé kousky. Před jakýmkoli snímáním je vyjmou.\n\nBitter: „Západka drží. Není tu mezera, kterou by úlomky mohly vypadnout.“",
+        "Po kontrole úlomky vyjmou a znovu uzavřou do sáčku. Pak poryv větru pohne rámem čtecí desky. Quiver vyhlásí přestávku dřív, než začnou; prázdná komora i dosud nezahájené snímání mohou počkat.\n\nQuiver: „Ještě ne. Rám se hýbe.“",
+        "Pozdě odpoledne vítr zeslábne. Flare a Pop přidají šikmé vzpěry a zopakují kontrolu stability. Stojan už nikdo nemusí držet a k Rainovu tělu není nic přivázané.\n\nFlare: „Teď stojan drží sám. Zkontrolujme to ještě jednou.“",
+        "V podvečer si Rain nacvičí zastavení se samostatnou slabou zkušební lampou. Když promluví a zvedne ruku, Mend pustí ovládání a lampa zhasne. Skutečná čtečka zůstává se zavřenou clonou a vypnutá.\n\nRain: „Stop.“\nMend: „Zastaveno. Rozhoduješ ty.“",
+        "Kontroly skončily, ale den byl dlouhý. Rain se rozhodne odpočinout si a začít ráno. Zakryjí ukotvené zařízení, nechají je vypnuté a domluví se, že po noci znovu ověří zarovnání a znovu ho požádají o svolení.\n\nRain: „Zítra ráno. Tehdy se mě znovu zeptejte — a zůstaňte tak blízko, abych vás slyšel.“"
+      ],
+      "introduction": "Další ráno je určené k sestavení a kontrolám přímo u Raina. Párová čtečka má za sebou dlouhou cestu a louka není chráněné nádvoří, kde ji zkoušeli. Vítr přeruší přípravy a Rain dostane skutečnou možnost zvolit, kdy má vyšetření začít.",
+      "title": "Místo, kde se dá bezpečně podívat"
+    },
+    "de": {
+      "altTexts": [
+        "Am nächsten Morgen packen Quest und Quiver die Ausrüstung am Ruheplatz von Rain aus. Sie nivellieren und verankern den Ständer auf festem Untergrund. Seine Position lässt ihm Bewegungsspielraum und ermöglicht es jedem, den Stopphebel zu erreichen.",
+        "Bash montiert den verriegelten Empfänger unterhalb der beiden Linsen. Quest folgt dem Weg von der Lampe zur Platte und zum Lichteintrittsfenster. Die mit der Strebe gesicherte Linse ist immer noch gesprungen und die passende Linse ist noch intakt.",
+        "Für die Sicherheitsprüfung hat Bitter die Übungsstücke aus ihrem Beutel genommen und bei ausgeschaltetem Gerät durch die Wartungsklappe in den Aufnahmebehälter gelegt. Danach hat Bitter die Klappe verriegelt. Die gleichen weißen Teile bleiben während der Kontrolle drin. Sie werden vor jedem Scan entfernt.",
+        "Nach der Kontrolle werden die Fragmente entnommen und wieder in ihrem Beutel versiegelt. Dann bewegt eine Böe den Rahmen der Leseplatte. Quiver fordert eine Pause, bevor sie beginnen; der leere Empfänger und die noch nicht begonnene Untersuchung können warten.",
+        "Am späten Nachmittag lässt der Wind nach. Flare und Pop fügen Diagonalstreben hinzu und wiederholen die Stabilitätsprüfung. Niemand muss den Ständer aufrecht halten und nichts ist an Rains Körper festgebunden.",
+        "Gegen Abend probt Rain den Stopp mit einer separaten Prüflampe mit geringer Leistung. Wenn er das Wort sagt und die Hand hebt, gibt Mend die Steuerung frei und die Lampe erlischt. Das eigentliche Lesegerät bleibt mit geschlossener Blende ausgeschaltet.",
+        "Die Kontrollen sind abgeschlossen, aber der Tag war lang. Rain entscheidet sich dafür, sich auszuruhen und am Morgen anzufangen. Sie decken den gesicherten Apparat ab, lassen ihn ausgeschaltet und vereinbaren, die Ausrichtung noch einmal zu überprüfen und ihn nach der Nacht erneut um Erlaubnis zu bitten."
+      ],
+      "captions": [
+        "Am nächsten Morgen packen Quest und Quiver die Ausrüstung am Ruheplatz von Rain aus. Sie nivellieren und verankern den Ständer auf festem Untergrund. Seine Position lässt ihm Bewegungsspielraum und ermöglicht es jedem, den Stopphebel zu erreichen.\n\nQuest: „Beide Standfüße stehen waagerecht. Prüft die Bodenanker, bevor wir die Linsen montieren.“",
+        "Bash montiert den verriegelten Empfänger unterhalb der beiden Linsen. Quest folgt dem Weg von der Lampe zur Platte und zum Lichteintrittsfenster. Die mit der Strebe gesicherte Linse ist immer noch gesprungen und die passende Linse ist noch intakt.\n\nBash: „Die Führung endet am Empfängerfenster. Nichts blockiert sie.“",
+        "Für die Sicherheitsprüfung hat Bitter die Übungsstücke aus ihrem Beutel genommen und bei ausgeschaltetem Gerät durch die Wartungsklappe in den Aufnahmebehälter gelegt. Danach hat Bitter die Klappe verriegelt. Die gleichen weißen Teile bleiben während der Kontrolle drin. Sie werden vor jedem Scan entfernt.\n\nBitter: „Der Riegel ist sicher. Keine Lücke, durch die diese Teile hindurchschlüpfen könnten.“",
+        "Nach der Kontrolle werden die Fragmente entnommen und wieder in ihrem Beutel versiegelt. Dann bewegt eine Böe den Rahmen der Leseplatte. Quiver fordert eine Pause, bevor sie beginnen; der leere Empfänger und die noch nicht begonnene Untersuchung können warten.\n\nQuiver: „Noch nicht. Der Rahmen bewegt sich.“",
+        "Am späten Nachmittag lässt der Wind nach. Flare und Pop fügen Diagonalstreben hinzu und wiederholen die Stabilitätsprüfung. Niemand muss den Ständer aufrecht halten und nichts ist an Rains Körper festgebunden.\n\nFlare: „Jetzt hält der Ständer. Schauen wir uns das noch einmal an.“",
+        "Gegen Abend probt Rain den Stopp mit einer separaten Prüflampe mit geringer Leistung. Wenn er das Wort sagt und die Hand hebt, gibt Mend die Steuerung frei und die Lampe erlischt. Das eigentliche Lesegerät bleibt mit geschlossener Blende ausgeschaltet.\n\nRain: „Stopp.“\nMend: „Gestoppt. Du bestimmst.“",
+        "Die Kontrollen sind abgeschlossen, aber der Tag war lang. Rain entscheidet sich dafür, sich auszuruhen und am Morgen anzufangen. Sie decken den gesicherten Apparat ab, lassen ihn ausgeschaltet und vereinbaren, die Ausrichtung noch einmal zu überprüfen und ihn nach der Nacht erneut um Erlaubnis zu bitten.\n\nRain: „Morgen früh. Fragt mich dann noch einmal – und bleibt dort, wo ich euch hören kann.“"
+      ],
+      "introduction": "Der nächste Morgen ist für den Aufbau und die Kontrollen direkt bei Rain vorgesehen. Das Lesegerät mit beiden Linsen hat eine weite Reise hinter sich und das Feld ist nicht der geschützte Hof, in dem es getestet wurde. Wind unterbricht die Vorbereitungen und gibt Rain eine echte Wahl, wann die Prüfung beginnen soll.",
+      "title": "Ein Ort, der sicher genug ist, um hinzuschauen"
+    },
+    "en": {
+      "altTexts": [
+        "The next morning, Quest and Quiver unpack the kit at Rain's resting place. They level and anchor the stand on firm ground. Its position leaves room for him to move and for everyone to reach the stop control.",
+        "Bash mounts the latched receiver below the two lenses. Quest follows the path from the lamp to the plate and the light-entry window. The braced lens is still cracked, and the matching lens is still intact.",
+        "For the containment check, Bitter has taken the practice fragments from their bag and loaded them through the service hatch while the apparatus is off, then latched it shut. The same white pieces stay inside during the check. They will be removed before any scan.",
+        "After the check, the fragments are removed and sealed back in their bag. Then a gust moves the reading-plate frame. Quiver calls a pause before they start; the empty receiver and unused scan can wait.",
+        "By late afternoon, the wind has eased. Flare and Pop add diagonal braces and repeat the stability check. No one has to hold the stand upright, and nothing is tied to Rain's body.",
+        "Near evening, Rain rehearses the stop with a separate low-power test lamp. When he says the word and raises his hand, Mend releases the control and that lamp goes dark. The actual reader remains shuttered and off.",
+        "The checks are finished, but the day has been long. Rain chooses to rest and begin in the morning. They cover the secured apparatus, leave it off, and agree to recheck the alignment and ask his permission again after the night."
+      ],
+      "captions": [
+        "The next morning, Quest and Quiver unpack the kit at Rain's resting place. They level and anchor the stand on firm ground. Its position leaves room for him to move and for everyone to reach the stop control.\n\nQuest: “Both feet are level. Check the anchors before we mount the lenses.”",
+        "Bash mounts the latched receiver below the two lenses. Quest follows the path from the lamp to the plate and the light-entry window. The braced lens is still cracked, and the matching lens is still intact.\n\nBash: “The guide ends at the receiver window. Nothing blocks it.”",
+        "For the containment check, Bitter has taken the practice fragments from their bag and loaded them through the service hatch while the apparatus is off, then latched it shut. The same white pieces stay inside during the check. They will be removed before any scan.\n\nBitter: “The latch is secure. No gap for these pieces to spill through.”",
+        "After the check, the fragments are removed and sealed back in their bag. Then a gust moves the reading-plate frame. Quiver calls a pause before they start; the empty receiver and unused scan can wait.\n\nQuiver: “Not yet. The frame is moving.”",
+        "By late afternoon, the wind has eased. Flare and Pop add diagonal braces and repeat the stability check. No one has to hold the stand upright, and nothing is tied to Rain's body.\n\nFlare: “Now the stand holds itself. Let's check it once more.”",
+        "Near evening, Rain rehearses the stop with a separate low-power test lamp. When he says the word and raises his hand, Mend releases the control and that lamp goes dark. The actual reader remains shuttered and off.\n\nRain: “Stop.”\nMend: “Stopped. You're in charge.”",
+        "The checks are finished, but the day has been long. Rain chooses to rest and begin in the morning. They cover the secured apparatus, leave it off, and agree to recheck the alignment and ask his permission again after the night.\n\nRain: “Tomorrow morning. Ask me again then—and stay where I can hear you.”"
+      ],
+      "introduction": "The next morning is for assembly and checks beside Rain. The paired reader has traveled a long way, and the field is not the sheltered courtyard where it was tested. Wind interrupts the preparations, giving Rain a real choice about when the examination should begin.",
+      "title": "A Place Safe Enough to Look"
+    },
+    "es": {
+      "altTexts": [
+        "A la mañana siguiente, Quest y Quiver desempacan el kit en el lugar de descanso de Rain. Nivelan y anclan el soporte en un terreno firme. Su posición le deja espacio para moverse y para que todos lleguen al control de parada.",
+        "Bash monta el receptor bloqueado debajo de las dos lentes. Quest sigue el camino desde la lámpara hasta la placa y la ventana de entrada de luz. La lente reforzada todavía tiene la grieta y la lente correspondiente aún está intacta.",
+        "Para comprobar que el receptor contiene bien las piezas, Bitter saca los fragmentos de práctica de su bolsa. Con el aparato apagado, los introduce por la escotilla de servicio y la cierra con el seguro. Las mismas piezas blancas permanecen dentro durante el control. Se retirarán antes de cualquier escaneo.",
+        "Después del control, los fragmentos se retiran y se vuelven a sellar en su bolsa. Entonces una ráfaga mueve el marco de la placa de lectura. Quiver pide una pausa antes de comenzar; el receptor vacío y el examen que aún no ha comenzado pueden esperar.",
+        "Al final de la tarde, el viento ha amainado. Flare y Pop agregan tirantes diagonales y repiten la verificación de estabilidad. Nadie tiene que sostener el soporte en posición vertical y no hay nada atado al cuerpo de Rain.",
+        "Al anochecer, Rain ensaya la parada con una lámpara de prueba independiente de bajo consumo. Cuando dice la palabra y levanta la mano, Mend suelta el control y esa lámpara se apaga. El lector real permanece con el obturador cerrado y apagado.",
+        "Los controles han terminado, pero el día ha sido largo. Rain opta por descansar y empezar por la mañana. Cubren el aparato asegurado, lo dejan apagado y acuerdan volver a verificar la alineación y pedirle permiso nuevamente después de la noche."
+      ],
+      "captions": [
+        "A la mañana siguiente, Quest y Quiver desempacan el kit en el lugar de descanso de Rain. Nivelan y anclan el soporte en un terreno firme. Su posición le deja espacio para moverse y para que todos lleguen al control de parada.\n\nQuest: \"Ambos pies están nivelados. Comprueben los anclajes antes de montar las lentes\".",
+        "Bash monta el receptor bloqueado debajo de las dos lentes. Quest sigue el camino desde la lámpara hasta la placa y la ventana de entrada de luz. La lente reforzada todavía tiene la grieta y la lente correspondiente aún está intacta.\n\nBash: \"La guía termina en la ventana del receptor. Nada la bloquea\".",
+        "Para comprobar que el receptor contiene bien las piezas, Bitter saca los fragmentos de práctica de su bolsa. Con el aparato apagado, los introduce por la escotilla de servicio y la cierra con el seguro. Las mismas piezas blancas permanecen dentro durante el control. Se retirarán antes de cualquier escaneo.\n\nBitter: \"El pestillo está seguro. No hay ningún hueco por el que puedan salir estas piezas\".",
+        "Después del control, los fragmentos se retiran y se vuelven a sellar en su bolsa. Entonces una ráfaga mueve el marco de la placa de lectura. Quiver pide una pausa antes de comenzar; el receptor vacío y el examen que aún no ha comenzado pueden esperar.\n\nQuiver: \"Aún no. El marco se está moviendo\".",
+        "Al final de la tarde, el viento ha amainado. Flare y Pop agregan tirantes diagonales y repiten la verificación de estabilidad. Nadie tiene que sostener el soporte en posición vertical y no hay nada atado al cuerpo de Rain.\n\nFlare: \"Ahora el soporte se sostiene solo. Comprobémoslo una vez más\".",
+        "Al anochecer, Rain ensaya la parada con una lámpara de prueba independiente de bajo consumo. Cuando dice la palabra y levanta la mano, Mend suelta el control y esa lámpara se apaga. El lector real permanece con el obturador cerrado y apagado.\n\nRain: \"Para\".\nMend: \"Detenido. Tú estás a cargo\".",
+        "Los controles han terminado, pero el día ha sido largo. Rain opta por descansar y empezar por la mañana. Cubren el aparato asegurado, lo dejan apagado y acuerdan volver a verificar la alineación y pedirle permiso nuevamente después de la noche.\n\nRain: \"Mañana por la mañana. Pregúntame de nuevo entonces y quédate donde pueda oírte\"."
+      ],
+      "introduction": "La mañana siguiente es para el montaje y las comprobaciones junto a Rain. El lector de dos lentes ha recorrido un largo camino y el campo no es el patio protegido donde fue probado. El viento interrumpe los preparativos, dando a Rain una opción real sobre cuándo debe comenzar el examen.",
+      "title": "Un lugar lo suficientemente seguro para mirar"
+    },
+    "fr": {
+      "altTexts": [
+        "Le lendemain matin, Quest et Quiver déballent le kit sur le lieu de repos de Rain. Ils nivelent et ancrent le support sur un sol ferme. Sa position lui laisse de la place pour bouger et pour que chacun puisse atteindre la commande d'arrêt.",
+        "Bash monte le récepteur verrouillé sous les deux lentilles. Quest suit le chemin de la lampe à la plaque et à la fenêtre d'entrée de lumière. La lentille renforcée est toujours fissurée et la lentille correspondante est toujours intacte.",
+        "Pour vérifier que le récepteur retient bien son contenu, Bitter a sorti les fragments d'entraînement de leur sac et les a introduits par la trappe de service, appareil éteint. La trappe est maintenant verrouillée. Les fragments blancs restent à l'intérieur pendant le contrôle et seront retirés avant l'examen.",
+        "Après le contrôle, les fragments sont retirés et remis dans leur sac refermé hermétiquement. Puis une rafale déplace le cadre de la plaque de lecture. Quiver appelle une pause avant de commencer ; le récepteur vide et l'examen qui n'a pas encore commencé peuvent attendre.",
+        "En fin d’après-midi, le vent s’est calmé. Flare et Pop ajoutent des renforts diagonaux et répètent le contrôle de stabilité. Personne n'est obligé de tenir le support droit et rien n'est lié au corps de Rain.",
+        "En début de soirée, Rain répète l'arrêt avec une lampe test séparée de faible puissance. Lorsqu'il prononce le mot et lève la main, Mend relâche la commande et la lampe s'éteint. Le lecteur lui-même garde son obturateur fermé et reste éteint.",
+        "Les contrôles sont terminés, mais la journée a été longue. Rain choisit de se reposer et de commencer le matin. Ils couvrent l'appareil sécurisé, le laissent éteint, et conviennent de vérifier de nouveau l'alignement et de demander son accord le lendemain."
+      ],
+      "captions": [
+        "Le lendemain matin, Quest et Quiver déballent le kit sur le lieu de repos de Rain. Ils nivelent et ancrent le support sur un sol ferme. Sa position lui laisse de la place pour bouger et pour que chacun puisse atteindre la commande d'arrêt.\n\nQuest : « Les deux pieds sont de niveau. Vérifiez les ancrages avant de monter les lentilles. »",
+        "Bash monte le récepteur verrouillé sous les deux lentilles. Quest suit le chemin de la lampe à la plaque et à la fenêtre d'entrée de lumière. La lentille renforcée est toujours fissurée et la lentille correspondante est toujours intacte.\n\nBash : « Le guide se termine à la fenêtre du récepteur. Rien ne le bloque. »",
+        "Pour vérifier que le récepteur retient bien son contenu, Bitter a sorti les fragments d'entraînement de leur sac et les a introduits par la trappe de service, appareil éteint. La trappe est maintenant verrouillée. Les fragments blancs restent à l'intérieur pendant le contrôle et seront retirés avant l'examen.\n\nBitter : « Le loquet tient bien. Aucun espace ne laisse passer les fragments. »",
+        "Après le contrôle, les fragments sont retirés et remis dans leur sac refermé hermétiquement. Puis une rafale déplace le cadre de la plaque de lecture. Quiver appelle une pause avant de commencer ; le récepteur vide et l'examen qui n'a pas encore commencé peuvent attendre.\n\nQuiver : « Pas encore. Le cadre bouge. »",
+        "En fin d’après-midi, le vent s’est calmé. Flare et Pop ajoutent des renforts diagonaux et répètent le contrôle de stabilité. Personne n'est obligé de tenir le support droit et rien n'est lié au corps de Rain.\n\nFlare : « Maintenant, le support tient tout seul. Vérifions-le encore une fois. »",
+        "En début de soirée, Rain répète l'arrêt avec une lampe test séparée de faible puissance. Lorsqu'il prononce le mot et lève la main, Mend relâche la commande et la lampe s'éteint. Le lecteur lui-même garde son obturateur fermé et reste éteint.\n\nRain : « Stop. »\nMend : « Arrêté. C'est toi qui décides. »",
+        "Les contrôles sont terminés, mais la journée a été longue. Rain choisit de se reposer et de commencer le matin. Ils couvrent l'appareil sécurisé, le laissent éteint, et conviennent de vérifier de nouveau l'alignement et de demander son accord le lendemain.\n\nRain : « Demain matin. Redemandez-moi alors et restez là où je peux vous entendre. »"
+      ],
+      "introduction": "Le lendemain matin, c'est le montage et les vérifications à côté de Rain. Le lecteur jumelé a parcouru un long chemin et le terrain n'est pas la cour abritée où il a été testé. Le vent interrompt les préparatifs, donnant à Rain un véritable choix quant au début de l'examen.",
+      "title": "Un endroit assez sûr pour examiner"
+    },
+    "hi": {
+      "altTexts": [
+        "अगली सुबह Quest और Quiver, Rain की आराम करने की जगह पर सामान निकालते हैं। वे मज़बूत ज़मीन पर स्टैंड समतल करके बाँधते हैं। Rain के हिलने और सबके रोकने वाले नियंत्रण तक पहुँचने की जगह छोड़ी जाती है।",
+        "Bash दोनों लेंसों के नीचे कुंडी लगा रिसीवर रखता है। Quest लैंप से पट्टिका और रोशनी के प्रवेश की खिड़की तक रास्ता देखता है। सहारे वाले लेंस की दरार बची है; जोड़ी का दूसरा लेंस सही है।",
+        "टुकड़े भीतर रुकते हैं या नहीं, जाँचने के लिए Bitter अभ्यास के टुकड़े थैली से निकालता है। उपकरण बंद रहते हुए रखरखाव के ढक्कन से अंदर डालकर कुंडी लगाता है। वही सफ़ेद टुकड़े जाँच तक भीतर रहेंगे। Rain की जाँच से पहले निकाल लिए जाएँगे।",
+        "जाँच के बाद टुकड़े निकालकर थैली फिर बंद की जाती है। तभी हवा का झोंका रीडिंग की पट्टिका का फ्रेम हिलाता है। शुरुआत से पहले Quiver रुकने को कहता है। रिसीवर खाली है, असली जाँच अभी शुरू नहीं हुई।",
+        "दोपहर बाद हवा हल्की पड़ती है। Flare और Pop तिरछे सहारे लगाकर स्थिरता फिर जाँचते हैं। किसी को स्टैंड थामना नहीं पड़ता। Rain के शरीर से भी कुछ नहीं बँधा है।",
+        "शाम के पास Rain अलग कम शक्ति वाले लैंप से रुकने का अभ्यास करता है। वह बोलकर हाथ उठाता है तो Mend नियंत्रण छोड़ती है और लैंप बुझ जाता है। असली रीडर यंत्र ढका और बंद रहता है।",
+        "उपकरण की जाँच पूरी है, मगर दिन लंबा हो गया। Rain आराम करके सुबह शुरू करना चाहता है। दोस्त उपकरण ढककर बंद रखते हैं। सुबह फिर सीध जाँचेंगे और Rain से नई अनुमति लेंगे।"
+      ],
+      "captions": [
+        "अगली सुबह Quest और Quiver, Rain की आराम करने की जगह पर सामान निकालते हैं। वे मज़बूत ज़मीन पर स्टैंड समतल करके बाँधते हैं। Rain के हिलने और सबके रोकने वाले नियंत्रण तक पहुँचने की जगह छोड़ी जाती है।\n\nQuest: \"दोनों पैर बराबर हैं। लेंस लगाने से पहले ज़मीन के जोड़ जाँचो।\"",
+        "Bash दोनों लेंसों के नीचे कुंडी लगा रिसीवर रखता है। Quest लैंप से पट्टिका और रोशनी के प्रवेश की खिड़की तक रास्ता देखता है। सहारे वाले लेंस की दरार बची है; जोड़ी का दूसरा लेंस सही है।\n\nBash: \"रोशनी का रास्ता रिसीवर की खिड़की तक है। बीच में कुछ नहीं अटका।\"",
+        "टुकड़े भीतर रुकते हैं या नहीं, जाँचने के लिए Bitter अभ्यास के टुकड़े थैली से निकालता है। उपकरण बंद रहते हुए रखरखाव के ढक्कन से अंदर डालकर कुंडी लगाता है। वही सफ़ेद टुकड़े जाँच तक भीतर रहेंगे। Rain की जाँच से पहले निकाल लिए जाएँगे।\n\nBitter: \"कुंडी ठीक लगी है। टुकड़े निकलने की दरार नहीं है।\"",
+        "जाँच के बाद टुकड़े निकालकर थैली फिर बंद की जाती है। तभी हवा का झोंका रीडिंग की पट्टिका का फ्रेम हिलाता है। शुरुआत से पहले Quiver रुकने को कहता है। रिसीवर खाली है, असली जाँच अभी शुरू नहीं हुई।\n\nQuiver: \"अभी नहीं। फ्रेम हिल रहा है।\"",
+        "दोपहर बाद हवा हल्की पड़ती है। Flare और Pop तिरछे सहारे लगाकर स्थिरता फिर जाँचते हैं। किसी को स्टैंड थामना नहीं पड़ता। Rain के शरीर से भी कुछ नहीं बँधा है।\n\nFlare: \"अब स्टैंड खुद टिका है। एक बार फिर देख लें।\"",
+        "शाम के पास Rain अलग कम शक्ति वाले लैंप से रुकने का अभ्यास करता है। वह बोलकर हाथ उठाता है तो Mend नियंत्रण छोड़ती है और लैंप बुझ जाता है। असली रीडर यंत्र ढका और बंद रहता है।\n\nRain: \"रुको।\"\nMend: \"रुक गए। फ़ैसला तुम्हारा है।\"",
+        "उपकरण की जाँच पूरी है, मगर दिन लंबा हो गया। Rain आराम करके सुबह शुरू करना चाहता है। दोस्त उपकरण ढककर बंद रखते हैं। सुबह फिर सीध जाँचेंगे और Rain से नई अनुमति लेंगे।\n\nRain: \"कल सुबह। तब फिर पूछना। और वहीं रहना जहाँ तुम्हारी आवाज़ सुन सकूँ।\""
+      ],
+      "introduction": "अगली सुबह Rain के पास उपकरण जोड़ने और जाँचने के लिए रखी गई है। दो लेंसों का यंत्र लंबा रास्ता आया है। खुला मैदान पहले के सुरक्षित आँगन जैसा नहीं। हवा तैयारी रोकती है और Rain को तय करने का असली मौका देती है कि जाँच कब शुरू हो।",
+      "title": "सुरक्षित ढंग से देखने की जगह"
+    },
+    "id": {
+      "altTexts": [
+        "Keesokan paginya, Quest dan Quiver membongkar kit tersebut di tempat peristirahatan Rain. Mereka meratakan dan menambatkan dudukan pada tanah yang kokoh. Posisinya memberikan ruang baginya untuk bergerak dan bagi semua orang untuk mencapai kendali berhenti.",
+        "Bash memasang penerima yang terkunci di bawah kedua lensa. Quest mengikuti jalur dari lampu ke pelat dan jendela masuk cahaya. Lensa yang diperkuat itu masih retak, dan lensa yang cocok masih utuh.",
+        "Untuk memeriksa apakah penerima dapat menahan pecahan, Bitter mengeluarkan pecahan latihan dari kantongnya. Saat alat mati, Bitter memasukkannya melalui pintu servis, lalu menutup dan mengunci pintu itu. Potongan putih yang sama tetap berada di dalam selama pemeriksaan. Pecahan itu akan dikeluarkan sebelum pemindaian apa pun.",
+        "Setelah diperiksa, pecahannya dikeluarkan dan disegel kembali ke dalam kantongnya. Kemudian hembusan angin menggerakkan bingkai pelat baca. Quiver meminta agar mereka berhenti sejenak sebelum memulai; penerima yang kosong dan pemindaian yang belum dimulai dapat menunggu.",
+        "Menjelang sore, angin sudah mereda. Flare dan Pop menambahkan penyangga diagonal dan mengulangi pemeriksaan stabilitas. Tidak ada yang harus memegang dudukannya dengan tegak, dan tidak ada yang diikatkan ke badan Rain.",
+        "Menjelang malam, Rain berlatih stop dengan lampu uji berdaya rendah yang terpisah. Saat dia mengucapkan kata tersebut dan mengangkat tangannya, Mend melepaskan kendali dan lampu menjadi gelap. Alat pembaca yang sebenarnya tetap mati dengan penutup optiknya tertutup.",
+        "Pemeriksaan sudah selesai, tapi hari itu terasa panjang. Rain memilih istirahat dan memulai di pagi hari. Mereka menutupi peralatan yang sudah diamankan dan membiarkannya tetap mati, dan setuju untuk memeriksa ulang susunannya dan meminta izinnya lagi setelah malam itu."
+      ],
+      "captions": [
+        "Keesokan paginya, Quest dan Quiver membongkar kit tersebut di tempat peristirahatan Rain. Mereka meratakan dan menambatkan dudukan pada tanah yang kokoh. Posisinya memberikan ruang baginya untuk bergerak dan bagi semua orang untuk mencapai kendali berhenti.\n\nQuest: \"Kedua kaki sejajar. Periksa jangkarnya sebelum kita memasang lensa.\"",
+        "Bash memasang penerima yang terkunci di bawah kedua lensa. Quest mengikuti jalur dari lampu ke pelat dan jendela masuk cahaya. Lensa yang diperkuat itu masih retak, dan lensa yang cocok masih utuh.\n\nBash: \"Panduan berakhir di jendela penerima. Tidak ada yang menghalanginya.\"",
+        "Untuk memeriksa apakah penerima dapat menahan pecahan, Bitter mengeluarkan pecahan latihan dari kantongnya. Saat alat mati, Bitter memasukkannya melalui pintu servis, lalu menutup dan mengunci pintu itu. Potongan putih yang sama tetap berada di dalam selama pemeriksaan. Pecahan itu akan dikeluarkan sebelum pemindaian apa pun.\n\nBitter: \"Grendelnya aman. Tidak ada celah untuk benda-benda ini keluar.\"",
+        "Setelah diperiksa, pecahannya dikeluarkan dan disegel kembali ke dalam kantongnya. Kemudian hembusan angin menggerakkan bingkai pelat baca. Quiver meminta agar mereka berhenti sejenak sebelum memulai; penerima yang kosong dan pemindaian yang belum dimulai dapat menunggu.\n\nQuiver: \"Belum. Bingkainya sedang bergerak.\"",
+        "Menjelang sore, angin sudah mereda. Flare dan Pop menambahkan penyangga diagonal dan mengulangi pemeriksaan stabilitas. Tidak ada yang harus memegang dudukannya dengan tegak, dan tidak ada yang diikatkan ke badan Rain.\n\nFlare: \"Sekarang dudukannya dapat berdiri sendiri. Mari kita periksa sekali lagi.\"",
+        "Menjelang malam, Rain berlatih stop dengan lampu uji berdaya rendah yang terpisah. Saat dia mengucapkan kata tersebut dan mengangkat tangannya, Mend melepaskan kendali dan lampu menjadi gelap. Alat pembaca yang sebenarnya tetap mati dengan penutup optiknya tertutup.\n\nRain: “Berhenti.”\nMend: \"Berhenti. Kamu yang menentukan.\"",
+        "Pemeriksaan sudah selesai, tapi hari itu terasa panjang. Rain memilih istirahat dan memulai di pagi hari. Mereka menutupi peralatan yang sudah diamankan dan membiarkannya tetap mati, dan setuju untuk memeriksa ulang susunannya dan meminta izinnya lagi setelah malam itu.\n\nRain: \"Besok pagi. Tanyakan lagi padaku—dan tetaplah di tempat aku bisa mendengarmu.\""
+      ],
+      "introduction": "Keesokan paginya mereka akan merakit alat dan melakukan pemeriksaan di samping Rain. Alat pembaca dua lensa telah melakukan perjalanan jauh, dan lapangan bukanlah halaman terlindung tempat ia diuji. Angin mengganggu persiapannya, memberi Rain pilihan nyata tentang kapan pemeriksaan dimulai.",
+      "title": "Tempat yang Cukup Aman untuk Dilihat"
+    },
+    "it": {
+      "altTexts": [
+        "La mattina successiva, Quest e Quiver disimballano il kit nel luogo di riposo di Rain. Livellano e ancorano il supporto su un terreno solido. La sua posizione lascia spazio a lui per muoversi e a tutti per raggiungere il comando di arresto.",
+        "Bash monta il ricevitore bloccato sotto le due lenti. Quest segue il percorso dalla lampada alla piastra e alla finestra di ingresso luce. La lente rinforzata ha ancora la crepa e la lente corrispondente è ancora intatta.",
+        "Per verificare che il ricevitore trattenga i frammenti, Bitter li toglie dal sacchetto e, ad apparecchio spento, li carica attraverso il portello di servizio. Poi chiude il portello con il fermo. Gli stessi pezzi bianchi rimangono all'interno durante il controllo. Verranno rimossi prima di qualsiasi scansione.",
+        "Dopo il controllo, i frammenti vengono rimossi e richiusi nella loro busta. Poi una raffica di vento muove il telaio della piastra di lettura. Quiver chiama una pausa prima dell'inizio; il ricevitore vuoto e la scansione non ancora iniziata possono attendere.",
+        "Nel tardo pomeriggio il vento si è calmato. Flare e Pop aggiungono controventi diagonali e ripetono il controllo di stabilità. Nessuno deve tenere il supporto in posizione verticale e niente è legato al corpo di Rain.",
+        "Verso sera, Rain prova l'arresto con una lampada di prova separata a basso consumo. Quando dice la parola e alza la mano, Mend rilascia il controllo e la lampada si spegne. Il lettore vero e proprio rimane con l'otturatore chiuso e spento.",
+        "Le verifiche sono finite, ma la giornata è stata lunga. Rain sceglie di riposarsi e di iniziare la mattina. Coprono l'apparato protetto, lo lasciano spento e decidono di ricontrollare l'allineamento e di chiedere nuovamente il suo permesso dopo la notte."
+      ],
+      "captions": [
+        "La mattina successiva, Quest e Quiver disimballano il kit nel luogo di riposo di Rain. Livellano e ancorano il supporto su un terreno solido. La sua posizione lascia spazio a lui per muoversi e a tutti per raggiungere il comando di arresto.\n\nQuest: \"Entrambi i piedi sono a livello. Controllate gli ancoraggi prima di montare le lenti.\"",
+        "Bash monta il ricevitore bloccato sotto le due lenti. Quest segue il percorso dalla lampada alla piastra e alla finestra di ingresso luce. La lente rinforzata ha ancora la crepa e la lente corrispondente è ancora intatta.\n\nBash: \"La guida termina alla finestra del ricevitore. Niente la blocca.\"",
+        "Per verificare che il ricevitore trattenga i frammenti, Bitter li toglie dal sacchetto e, ad apparecchio spento, li carica attraverso il portello di servizio. Poi chiude il portello con il fermo. Gli stessi pezzi bianchi rimangono all'interno durante il controllo. Verranno rimossi prima di qualsiasi scansione.\n\nBitter: \"La chiusura è sicura. Non c'è spazio per far fuoriuscire questi pezzi.\"",
+        "Dopo il controllo, i frammenti vengono rimossi e richiusi nella loro busta. Poi una raffica di vento muove il telaio della piastra di lettura. Quiver chiama una pausa prima dell'inizio; il ricevitore vuoto e la scansione non ancora iniziata possono attendere.\n\nQuiver: \"Non ancora. Il telaio si sta muovendo.\"",
+        "Nel tardo pomeriggio il vento si è calmato. Flare e Pop aggiungono controventi diagonali e ripetono il controllo di stabilità. Nessuno deve tenere il supporto in posizione verticale e niente è legato al corpo di Rain.\n\nFlare: \"Ora il supporto regge. Controlliamolo ancora una volta.\"",
+        "Verso sera, Rain prova l'arresto con una lampada di prova separata a basso consumo. Quando dice la parola e alza la mano, Mend rilascia il controllo e la lampada si spegne. Il lettore vero e proprio rimane con l'otturatore chiuso e spento.\n\nRain: “Fermati”.\nMend: \"Fermato. Sei tu a decidere.\"",
+        "Le verifiche sono finite, ma la giornata è stata lunga. Rain sceglie di riposarsi e di iniziare la mattina. Coprono l'apparato protetto, lo lasciano spento e decidono di ricontrollare l'allineamento e di chiedere nuovamente il suo permesso dopo la notte.\n\nRain: \"Domani mattina. Chiedimelo ancora, e resta dove posso sentirti.\""
+      ],
+      "introduction": "La mattina successiva è dedicata al montaggio e ai controlli accanto a Rain. Il lettore a due lenti ha percorso una lunga strada, e il campo non è il cortile riparato dove è stato messo alla prova. Il vento interrompe i preparativi, dando a Rain una vera scelta su quando iniziare l'esame.",
+      "title": "Un posto abbastanza sicuro per guardare"
+    },
+    "ja": {
+      "altTexts": [
+        "翌朝、Quest と Quiver は、Rain の休憩所でキットを開梱します。スタンドを水平にして堅い地面に固定します。その位置には、彼が移動でき、全員が停止コントロールに到達できる余地が残されています。",
+        "Bash は、2 つのレンズの下にラッチ付き受け入れ容器を取り付けます。 Quest は、ランプからプレートおよび光入射窓までの経路をたどります。補強したレンズにはまだひびが入っており、対応するレンズはまだ無傷です。",
+        "封じ込め検査のため、Bitter は装置がオフになっている間に袋から練習用の破片を取り出して点検ハッチから中へ入れ、ラッチで閉めました。検査中もその白い破片が内部に残ります。これらはスキャンの前に取り出されます。",
+        "検査後、破片は取り出され、袋に密封されて戻されます。その時、突風が読み取り板の枠を動かします。 Quiverは検査を始める前に待ったをかけます。受け入れ容器はまだ空で、検査も始まっていません。今なら落ち着くまで待てます。",
+        "夕方になると風も弱まってきました。 Flare と Pop は斜めブレースを追加し、安定性チェックを繰り返します。誰もスタンドを直立に保持する必要がなく、Rain の本体には何も縛られません。",
+        "夕方近く、Rain は別の低出力テスト ランプを使用して停止のリハーサルを行います。彼がその言葉を言って手を上げると、Mend が制御を放し、ランプが消えます。本番用の読み取り装置はシャッターが閉まりオフのままです。",
+        "検査は終わったが、一日が長かった。 Rain は休んで朝から始めることを選択しました。彼らは安全に保護された装置を覆い、電源を切ったままにして、位置合わせを再確認し、翌朝に再度許可を求めることに同意します。"
+      ],
+      "captions": [
+        "翌朝、Quest と Quiver は、Rain の休憩所でキットを開梱します。スタンドを水平にして堅い地面に固定します。その位置には、彼が移動でき、全員が停止コントロールに到達できる余地が残されています。\n\nQuest: 「台の両脚は水平です。レンズを取り付ける前にアンカーを確認してください。」",
+        "Bash は、2 つのレンズの下にラッチ付き受け入れ容器を取り付けます。 Quest は、ランプからプレートおよび光入射窓までの経路をたどります。補強したレンズにはまだひびが入っており、対応するレンズはまだ無傷です。\n\nBash: 「ガイドは受信窓で終わります。遮るものは何もありません。」",
+        "封じ込め検査のため、Bitter は装置がオフになっている間に袋から練習用の破片を取り出して点検ハッチから中へ入れ、ラッチで閉めました。検査中もその白い破片が内部に残ります。これらはスキャンの前に取り出されます。\n\nBitter: 「ラッチはしっかりしています。これらの破片がこぼれる隙間はありません。」",
+        "検査後、破片は取り出され、袋に密封されて戻されます。その時、突風が読み取り板の枠を動かします。 Quiverは検査を始める前に待ったをかけます。受け入れ容器はまだ空で、検査も始まっていません。今なら落ち着くまで待てます。\n\nQuiver: 「まだです。枠が揺れています。」",
+        "夕方になると風も弱まってきました。 Flare と Pop は斜めブレースを追加し、安定性チェックを繰り返します。誰もスタンドを直立に保持する必要がなく、Rain の本体には何も縛られません。\n\nFlare: 「スタンドが自立するようになりました。もう一度確認しましょう。」",
+        "夕方近く、Rain は別の低出力テスト ランプを使用して停止のリハーサルを行います。彼がその言葉を言って手を上げると、Mend が制御を放し、ランプが消えます。本番用の読み取り装置はシャッターが閉まりオフのままです。\n\nRain: 「やめて。」\nMend: 「止めました。決めるのはあなたです。」",
+        "検査は終わったが、一日が長かった。 Rain は休んで朝から始めることを選択しました。彼らは安全に保護された装置を覆い、電源を切ったままにして、位置合わせを再確認し、翌朝に再度許可を求めることに同意します。\n\nRain: 「明日の朝、また聞いてください。そして、聞こえるところにいてください。」"
+      ],
+      "introduction": "翌朝はRainの横で組み立てとチェックです。二枚のレンズを組み合わせた読み取り装置は長い道のりを旅してきたが、ここはテストをした風の当たりにくい中庭とは違います。風により準備が中断され、Rain は検査をいつ開始するかについて自分で選べることを確かめます。",
+      "title": "見るのに十分安全な場所"
+    },
+    "ko": {
+      "altTexts": [
+        "다음날 아침, Quest와 Quiver는 Rain의 휴게소에서 키트의 포장을 풉니다. 그들은 받침대를 단단한 땅에 수평으로 놓고 고정합니다. 그 위치는 그가 움직일 수 있고 모든 사람이 정지 제어 장치에 도달할 수 있는 공간을 남겨 둡니다.",
+        "Bash는 두 렌즈 아래에 걸쇠가 달린 수신기를 장착합니다. Quest는 램프에서 플레이트 및 빛 입력 창까지의 경로를 따릅니다. 버팀대로 보강한 렌즈에는 여전히 금이 갔으며 짝이 되는 다른 렌즈는 손상 없이 온전합니다.",
+        "격리 점검을 위해 Bitter는 장치가 꺼져 있는 동안 가방에서 연습용 조각을 꺼내 점검구로 넣은 다음 래치로 닫았습니다. 검사하는 동안 동일한 흰색 조각이 내부에 남아 있습니다. 스캔 전에 제거됩니다.",
+        "검사 후 파편을 제거하고 가방에 다시 밀봉합니다. 그런 다음 돌풍이 판독판 프레임을 움직입니다. Quiver가 검사를 시작하기 전에 잠깐 멈추자고 합니다. 수신기는 아직 비어 있고 검사도 시작하지 않았으니, 바람이 잦아들기를 기다릴 수 있습니다.",
+        "오후가 되자 바람이 잦아들었습니다. Flare 및 Pop은 대각선 버팀대를 추가하고 안정성 검사를 반복합니다. 누군가 받침대를 붙잡고 서 있을 필요가 없으며 Rain의 몸에는 아무것도 묶여 있지 않습니다.",
+        "저녁 무렵, Rain은 별도의 저전력 테스트 램프를 사용하여 정지를 연습합니다. 그가 단어를 말하고 손을 올리면 Mend가 제어 장치를 해제하고 해당 램프가 어두워집니다. 실제 판독 장치는 덮개를 닫고 전원을 끈 상태로 둡니다.",
+        "점검은 끝났지만 하루가 길었습니다. Rain은 휴식을 취하고 아침을 시작하기로 결정했습니다. 그들은 고정된 장치를 덮어 전원을 끈 채로 둔 다음 정렬을 다시 확인하고 밤이 지나면 다시 그의 허락을 구하는 데 동의합니다."
+      ],
+      "captions": [
+        "다음날 아침, Quest와 Quiver는 Rain의 휴게소에서 키트의 포장을 풉니다. 그들은 받침대를 단단한 땅에 수평으로 놓고 고정합니다. 그 위치는 그가 움직일 수 있고 모든 사람이 정지 제어 장치에 도달할 수 있는 공간을 남겨 둡니다.\n\nQuest: \"받침대 양쪽 다리가 수평이에요. 렌즈를 장착하기 전에 앵커를 확인하세요.\"",
+        "Bash는 두 렌즈 아래에 걸쇠가 달린 수신기를 장착합니다. Quest는 램프에서 플레이트 및 빛 입력 창까지의 경로를 따릅니다. 버팀대로 보강한 렌즈에는 여전히 금이 갔으며 짝이 되는 다른 렌즈는 손상 없이 온전합니다.\n\nBash: \"가이드는 수신기의 입구 창에서 끝납니다. 아무것도 막지 않습니다.\"",
+        "격리 점검을 위해 Bitter는 장치가 꺼져 있는 동안 가방에서 연습용 조각을 꺼내 점검구로 넣은 다음 래치로 닫았습니다. 검사하는 동안 동일한 흰색 조각이 내부에 남아 있습니다. 스캔 전에 제거됩니다.\n\nBitter: \"걸쇠는 안전합니다. 이 조각들이 새어 나올 틈이 없습니다.\"",
+        "검사 후 파편을 제거하고 가방에 다시 밀봉합니다. 그런 다음 돌풍이 판독판 프레임을 움직입니다. Quiver가 검사를 시작하기 전에 잠깐 멈추자고 합니다. 수신기는 아직 비어 있고 검사도 시작하지 않았으니, 바람이 잦아들기를 기다릴 수 있습니다.\n\nQuiver: \"아직은 아닙니다. 틀이 흔들리고 있어요.\"",
+        "오후가 되자 바람이 잦아들었습니다. Flare 및 Pop은 대각선 버팀대를 추가하고 안정성 검사를 반복합니다. 누군가 받침대를 붙잡고 서 있을 필요가 없으며 Rain의 몸에는 아무것도 묶여 있지 않습니다.\n\nFlare: \"이제 스탠드가 저절로 고정됩니다. 다시 한 번 확인해 보겠습니다.\"",
+        "저녁 무렵, Rain은 별도의 저전력 테스트 램프를 사용하여 정지를 연습합니다. 그가 단어를 말하고 손을 올리면 Mend가 제어 장치를 해제하고 해당 램프가 어두워집니다. 실제 판독 장치는 덮개를 닫고 전원을 끈 상태로 둡니다.\n\nRain: \"그만해.\"\nMend: \"멈췄습니다. 결정은 당신이 해요.\"",
+        "점검은 끝났지만 하루가 길었습니다. Rain은 휴식을 취하고 아침을 시작하기로 결정했습니다. 그들은 고정된 장치를 덮어 전원을 끈 채로 둔 다음 정렬을 다시 확인하고 밤이 지나면 다시 그의 허락을 구하는 데 동의합니다.\n\nRain: \"내일 아침. 그때 다시 물어보세요. 그리고 제가 들을 수 있는 곳에 머물러 주세요.\""
+      ],
+      "introduction": "다음날 아침은 Rain 옆에서 조립 및 점검을 합니다. 두 렌즈를 짝지은 판독 장치는 먼 길을 여행했고, 이 초원은 시험했던 바람이 덜 드는 안뜰과 다릅니다. 바람이 준비를 방해하여 Rain에게 언제 검사를 시작해야 하는지에 대한 실질적인 선택권을 줍니다.",
+      "title": "보기에 충분히 안전한 장소"
+    },
+    "pl": {
+      "altTexts": [
+        "Następnego ranka Quest i Quiver rozpakowują zestaw przy miejscu odpoczynku Raina. Wyrównują i kotwią stojak na twardym podłożu. Jego położenie zostawia Rainowi miejsce na ruch, a wszystkim zapewnia dostęp do przycisku zatrzymania.",
+        "Bash montuje zamknięty na zatrzask odbiornik pod dwiema soczewkami. Quest podąża ścieżką od lampy do płyty i okna wlotu światła. Usztywniona soczewka jest nadal pęknięta, a pasująca soczewka jest nadal nienaruszona.",
+        "W celu sprawdzenia bezpieczeństwa Bitter załadował wyjęte z torby odłamki używane do ćwiczeń przez właz serwisowy, przy wyłączonym urządzeniu, a następnie zamknął właz na zatrzask. Te same białe kawałki pozostają w środku podczas sprawdzania. Zostaną one usunięte przed jakimkolwiek skanowaniem.",
+        "Po sprawdzeniu fragmenty są usuwane i zamykane z powrotem w torbie. Następnie podmuch przesuwa ramę płytki odczytowej. Quiver prosi o przerwę, zanim zaczną; pusty odbiornik i jeszcze nierozpoczęte skanowanie mogą poczekać.",
+        "Późnym popołudniem wiatr osłabł. Flare i Pop dodają stężenia ukośne i powtarzają kontrolę stabilności. Nikt nie musi trzymać stojaka w pozycji pionowej i nic nie jest przywiązane do ciała Raina.",
+        "Pod wieczór Rain wykonuje próbę zatrzymania z oddzielną lampą próbną małej mocy. Kiedy wypowie słowo i podniesie rękę, Mend zwalnia sterowanie i lampa gaśnie. Właściwy czytnik pozostaje wyłączony, z zamkniętą przesłoną.",
+        "Kontrole się skończyły, ale dzień był długi. Rain postanawia odpocząć i rozpocząć pracę rano. Zakrywają zabezpieczony aparat, pozostawiają go wyłączonego i zgadzają się ponownie sprawdzić ustawienie i ponownie poprosić go o pozwolenie po nocy."
+      ],
+      "captions": [
+        "Następnego ranka Quest i Quiver rozpakowują zestaw przy miejscu odpoczynku Raina. Wyrównują i kotwią stojak na twardym podłożu. Jego położenie zostawia Rainowi miejsce na ruch, a wszystkim zapewnia dostęp do przycisku zatrzymania.\n\nQuest: \"Obie nóżki są wypoziomowane. Zanim zamontujemy soczewki, sprawdź mocowania. \"",
+        "Bash montuje zamknięty na zatrzask odbiornik pod dwiema soczewkami. Quest podąża ścieżką od lampy do płyty i okna wlotu światła. Usztywniona soczewka jest nadal pęknięta, a pasująca soczewka jest nadal nienaruszona.\n\nBash: \"Prowadnica kończy się w oknie odbiornika. Nic jej nie blokuje.\"",
+        "W celu sprawdzenia bezpieczeństwa Bitter załadował wyjęte z torby odłamki używane do ćwiczeń przez właz serwisowy, przy wyłączonym urządzeniu, a następnie zamknął właz na zatrzask. Te same białe kawałki pozostają w środku podczas sprawdzania. Zostaną one usunięte przed jakimkolwiek skanowaniem.\n\nBitter: \"Zatrzask jest bezpieczny. Nie ma szczeliny, przez którą te elementy mogłyby się przedostać. \"",
+        "Po sprawdzeniu fragmenty są usuwane i zamykane z powrotem w torbie. Następnie podmuch przesuwa ramę płytki odczytowej. Quiver prosi o przerwę, zanim zaczną; pusty odbiornik i jeszcze nierozpoczęte skanowanie mogą poczekać.\n\nQuiver: \"Jeszcze nie. Rama się porusza.\"",
+        "Późnym popołudniem wiatr osłabł. Flare i Pop dodają stężenia ukośne i powtarzają kontrolę stabilności. Nikt nie musi trzymać stojaka w pozycji pionowej i nic nie jest przywiązane do ciała Raina.\n\nFlare: \"Teraz stojak trzyma się sam. Sprawdźmy to jeszcze raz.\"",
+        "Pod wieczór Rain wykonuje próbę zatrzymania z oddzielną lampą próbną małej mocy. Kiedy wypowie słowo i podniesie rękę, Mend zwalnia sterowanie i lampa gaśnie. Właściwy czytnik pozostaje wyłączony, z zamkniętą przesłoną.\n\nRain: „Stop”.\nMend: \"Zatrzymano. Ty tu rządzisz.\"",
+        "Kontrole się skończyły, ale dzień był długi. Rain postanawia odpocząć i rozpocząć pracę rano. Zakrywają zabezpieczony aparat, pozostawiają go wyłączonego i zgadzają się ponownie sprawdzić ustawienie i ponownie poprosić go o pozwolenie po nocy.\n\nRain: \"Jutro rano. W takim razie zapytaj mnie ponownie - i pozostań tam, gdzie cię usłyszę.\""
+      ],
+      "introduction": "Następny ranek przeznaczony jest na montaż i kontrolę przy Rainie. Czytnik z dwiema soczewkami przebył długą drogę, a łąka różni się od osłoniętego dziedzińca, na którym był testowany. Wiatr przerywa przygotowania, dając Rainowi realny wybór, kiedy rozpocząć badanie.",
+      "title": "Miejsce wystarczająco bezpieczne, aby patrzeć"
+    },
+    "pt": {
+      "altTexts": [
+        "Na manhã seguinte, Quest e Quiver desempacotam o kit no local de descanso de Rain. Eles nivelam e ancoram o suporte em solo firme. Sua posição deixa espaço para ele se movimentar e para que todos alcancem o controle de parada.",
+        "Bash monta o receptor travado abaixo das duas lentes. Quest segue o caminho da lâmpada até a placa e a janela de entrada de luz. A lente reforçada ainda está rachada e a lente correspondente ainda está intacta.",
+        "Para verificar se o receptor mantém os fragmentos lá dentro, Bitter tira as peças de prática do saco. Com o aparelho desligado, coloca-as pela escotilha de serviço e fecha a trava. As mesmas peças brancas ficam dentro durante a verificação. Elas serão removidas antes de qualquer varredura.",
+        "Após a verificação, os fragmentos são retirados e lacrados novamente em sua bolsa. Então uma rajada move a moldura da placa de leitura. Quiver pede uma pausa antes de começar; o receptor vazio e o exame que ainda não começou podem esperar.",
+        "No final da tarde, o vento diminuiu. Flare e Pop adicionam reforços diagonais e repetem a verificação de estabilidade. Ninguém precisa manter o suporte em pé e nada está preso ao corpo de Rain.",
+        "Perto da noite, Rain ensaia a parada com uma lâmpada de teste separada de baixa potência. Quando ele diz a palavra e levanta a mão, Mend libera o controle e a lâmpada apaga. O leitor real permanece com o obturador fechado e desligado.",
+        "As verificações terminaram, mas o dia foi longo. Rain opta por descansar e começar pela manhã. Eles cobrem o aparelho protegido, deixam-no desligado e concordam em verificar novamente o alinhamento e pedir sua permissão novamente após a noite."
+      ],
+      "captions": [
+        "Na manhã seguinte, Quest e Quiver desempacotam o kit no local de descanso de Rain. Eles nivelam e ancoram o suporte em solo firme. Sua posição deixa espaço para ele se movimentar e para que todos alcancem o controle de parada.\n\nQuest: \"Ambos os pés estão nivelados. Verifique as âncoras antes de montarmos as lentes.\"",
+        "Bash monta o receptor travado abaixo das duas lentes. Quest segue o caminho da lâmpada até a placa e a janela de entrada de luz. A lente reforçada ainda está rachada e a lente correspondente ainda está intacta.\n\nBash: \"A guia termina na janela do receptor. Nada a bloqueia.\"",
+        "Para verificar se o receptor mantém os fragmentos lá dentro, Bitter tira as peças de prática do saco. Com o aparelho desligado, coloca-as pela escotilha de serviço e fecha a trava. As mesmas peças brancas ficam dentro durante a verificação. Elas serão removidas antes de qualquer varredura.\n\nBitter: \"A trava está segura. Não há espaço para essas peças passarem.\"",
+        "Após a verificação, os fragmentos são retirados e lacrados novamente em sua bolsa. Então uma rajada move a moldura da placa de leitura. Quiver pede uma pausa antes de começar; o receptor vazio e o exame que ainda não começou podem esperar.\n\nQuiver: \"Ainda não. O quadro está se movendo.\"",
+        "No final da tarde, o vento diminuiu. Flare e Pop adicionam reforços diagonais e repetem a verificação de estabilidade. Ninguém precisa manter o suporte em pé e nada está preso ao corpo de Rain.\n\nFlare: \"Agora o suporte se sustenta sozinho. Vamos verificar mais uma vez.\"",
+        "Perto da noite, Rain ensaia a parada com uma lâmpada de teste separada de baixa potência. Quando ele diz a palavra e levanta a mão, Mend libera o controle e a lâmpada apaga. O leitor real permanece com o obturador fechado e desligado.\n\nRain: “Pare.”\nMend: \"Parado. Você está no comando.\"",
+        "As verificações terminaram, mas o dia foi longo. Rain opta por descansar e começar pela manhã. Eles cobrem o aparelho protegido, deixam-no desligado e concordam em verificar novamente o alinhamento e pedir sua permissão novamente após a noite.\n\nRain: \"Amanhã de manhã. Perguntem de novo nessa hora e fiquem onde eu possa ouvir vocês.\""
+      ],
+      "introduction": "A manhã seguinte é para montagem e verificações ao lado de Rain. O leitor de duas lentes percorreu um longo caminho e o campo não é o pátio abrigado onde foi testado. O vento interrompe os preparativos, dando ao Rain uma escolha real sobre quando o exame deve começar.",
+      "title": "Um lugar seguro o suficiente para olhar"
+    },
+    "ru": {
+      "altTexts": [
+        "На следующее утро Quest и Quiver распаковывают комплект на месте отдыха Rain. Они выравнивают и закрепляют стойку на твердой поверхности. Стойку размещают так, чтобы Rain мог двигаться, а каждый мог добраться до кнопки остановки.",
+        "Bash устанавливает приемник с защелкой под двумя линзами. Quest следует по пути от лампы к пластине и световому окну. Закрепленная линза все еще треснута, а соответствующая линза все еще цела.",
+        "Для проверки удержания осколков Bitter загрузил вынутые из пакета тренировочные осколки через сервисный люк при выключенном аппарате, а затем закрыл люк на защелку. Те же белые осколки остаются внутри во время проверки. Они будут удалены перед любым сканированием.",
+        "После проверки фрагменты извлекаются и запечатываются обратно в пакет. Затем порыв ветра сдвигает рамку пластины для чтения. Quiver просит сделать паузу до начала работы; пустой приемник и еще не начатое сканирование могут подождать.",
+        "К вечеру ветер утих. Flare и Pop добавляют диагональные распорки и повторяют проверку устойчивости. Никто не должен держать подставку вертикально, и к телу Rain ничего не привязано.",
+        "Ближе к вечеру Rain репетирует остановку с помощью отдельной маломощной контрольной лампы. Когда он произносит слово и поднимает руку, Mend отпускает кнопку управления, и лампа гаснет. Сам считыватель остается выключенным, с закрытой заслонкой.",
+        "Проверки закончены, но день был длинный. Rain предпочитает отдохнуть и начать работу утром. Они накрывают закрепленный аппарат, оставляют его выключенным, соглашаются перепроверить юстировку и снова спросить его разрешения после ночи."
+      ],
+      "captions": [
+        "На следующее утро Quest и Quiver распаковывают комплект на месте отдыха Rain. Они выравнивают и закрепляют стойку на твердой поверхности. Стойку размещают так, чтобы Rain мог двигаться, а каждый мог добраться до кнопки остановки.\n\nQuest: \"Обе ножки выровнены. Прежде чем устанавливать линзы, проверьте крепления\".",
+        "Bash устанавливает приемник с защелкой под двумя линзами. Quest следует по пути от лампы к пластине и световому окну. Закрепленная линза все еще треснута, а соответствующая линза все еще цела.\n\nBash: \"Направляющая заканчивается у окна приемника. Ее ничто не загораживает\".",
+        "Для проверки удержания осколков Bitter загрузил вынутые из пакета тренировочные осколки через сервисный люк при выключенном аппарате, а затем закрыл люк на защелку. Те же белые осколки остаются внутри во время проверки. Они будут удалены перед любым сканированием.\n\nBitter: \"Защелка надежная. Нет зазора, через который эти детали могли бы выпасть\".",
+        "После проверки фрагменты извлекаются и запечатываются обратно в пакет. Затем порыв ветра сдвигает рамку пластины для чтения. Quiver просит сделать паузу до начала работы; пустой приемник и еще не начатое сканирование могут подождать.\n\nQuiver: \"Пока нет. Рамка движется.\"",
+        "К вечеру ветер утих. Flare и Pop добавляют диагональные распорки и повторяют проверку устойчивости. Никто не должен держать подставку вертикально, и к телу Rain ничего не привязано.\n\nFlare: \"Теперь подставка держится. Давайте проверим ее еще раз.\"",
+        "Ближе к вечеру Rain репетирует остановку с помощью отдельной маломощной контрольной лампы. Когда он произносит слово и поднимает руку, Mend отпускает кнопку управления, и лампа гаснет. Сам считыватель остается выключенным, с закрытой заслонкой.\n\nRain: «Стоп».\nMend: \"Остановлено. Решение за тобой.\"",
+        "Проверки закончены, но день был длинный. Rain предпочитает отдохнуть и начать работу утром. Они накрывают закрепленный аппарат, оставляют его выключенным, соглашаются перепроверить юстировку и снова спросить его разрешения после ночи.\n\nRain: \"Завтра утром. Тогда спроси меня еще раз — и оставайся там, где я тебя услышу\"."
+      ],
+      "introduction": "На следующее утро сборка и проверка рядом с Rain. Считыватель с парой линз проделал долгий путь, и поле — это не тот защищенный двор, где его испытывали. Ветер прерывает подготовку, давая Rain реальный выбор, когда начать обследование.",
+      "title": "Место для безопасного обследования"
+    },
+    "tr": {
+      "altTexts": [
+        "Ertesi sabah Quest ve Quiver, Rain'in dinlenme yerinde kiti paketinden çıkarır. Standı sağlam bir zemine düzleştirir ve sabitlerler. Konumu ona hareket etme ve herkesin durdurma kontrolüne ulaşması için alan bırakır.",
+        "Bash, mandallı alıcıyı iki merceğin altına monte eder. Quest, lambadan plakaya ve ışık giriş penceresine giden yolu takip ediyor. Destekli mercek hâlâ çatlaktır ve eşleşen mercek hâlâ sağlamdır.",
+        "Muhafaza kontrolü için Bitter, torbadan çıkardığı alıştırma parçalarını cihaz kapalıyken servis kapağından yükledi ve ardından mandalla kapattı. Kontrol sırasında aynı beyaz parçalar içeride kalıyor. Herhangi bir taramadan önce kaldırılacaklardır.",
+        "Kontrolden sonra parçalar çıkarılıp poşetlerine geri kapatılıyor. Sonra bir rüzgar okuma plakasının çerçevesini hareket ettiriyor. Quiver başlamadan önce ara verilmesini ister; boş alıcı ve henüz başlamayan tarama bekleyebilir.",
+        "Öğleden sonra rüzgar hafifledi. Flare ve Pop çapraz destekler ekler ve denge kontrolünü tekrarlar. Hiç kimsenin standı dik tutmasına gerek yok ve Rain'in vücuduna hiçbir şey bağlı değil.",
+        "Akşama doğru Rain ayrı bir düşük güçlü test lambasıyla durma provası yapıyor. Sözcüğü söyleyip elini kaldırdığında Mend kontrolü bırakıyor ve lamba sönüyor. Asıl okuma cihazı çalıştırılmaz; ışık yolunu kapatan sürgüsü de kapalı kalır.",
+        "Kontroller bitti ama gün uzun oldu. Rain dinlenmeyi ve sabah başlamayı seçiyor. Güvenli aparatın üzerini örtüyorlar, kapalı tutuyorlar ve geceden sonra hizalamayı yeniden kontrol edip ondan tekrar izin istemeyi kabul ediyorlar."
+      ],
+      "captions": [
+        "Ertesi sabah Quest ve Quiver, Rain'in dinlenme yerinde kiti paketinden çıkarır. Standı sağlam bir zemine düzleştirir ve sabitlerler. Konumu ona hareket etme ve herkesin durdurma kontrolüne ulaşması için alan bırakır.\n\nQuest: \"Her iki ayak da aynı seviyede. Lensleri monte etmeden önce bağlantı noktalarını kontrol edin.\"",
+        "Bash, mandallı alıcıyı iki merceğin altına monte eder. Quest, lambadan plakaya ve ışık giriş penceresine giden yolu takip ediyor. Destekli mercek hâlâ çatlaktır ve eşleşen mercek hâlâ sağlamdır.\n\nBash: \"Kılavuz alıcı penceresinde bitiyor. Hiçbir şey onu engellemiyor.\"",
+        "Muhafaza kontrolü için Bitter, torbadan çıkardığı alıştırma parçalarını cihaz kapalıyken servis kapağından yükledi ve ardından mandalla kapattı. Kontrol sırasında aynı beyaz parçalar içeride kalıyor. Herhangi bir taramadan önce kaldırılacaklardır.\n\nBitter: \"Mandal sağlam. Bu parçaların dışarı taşabileceği boşluk yok.\"",
+        "Kontrolden sonra parçalar çıkarılıp poşetlerine geri kapatılıyor. Sonra bir rüzgar okuma plakasının çerçevesini hareket ettiriyor. Quiver başlamadan önce ara verilmesini ister; boş alıcı ve henüz başlamayan tarama bekleyebilir.\n\nQuiver: \"Henüz değil. Çerçeve hareket ediyor.\"",
+        "Öğleden sonra rüzgar hafifledi. Flare ve Pop çapraz destekler ekler ve denge kontrolünü tekrarlar. Hiç kimsenin standı dik tutmasına gerek yok ve Rain'in vücuduna hiçbir şey bağlı değil.\n\nFlare: \"Artık stand kendini tutuyor. Haydi bir kez daha kontrol edelim.\"",
+        "Akşama doğru Rain ayrı bir düşük güçlü test lambasıyla durma provası yapıyor. Sözcüğü söyleyip elini kaldırdığında Mend kontrolü bırakıyor ve lamba sönüyor. Asıl okuma cihazı çalıştırılmaz; ışık yolunu kapatan sürgüsü de kapalı kalır.\n\nRain: \"Dur.\"\nMend: \"Durduruldu. Karar senin.\"",
+        "Kontroller bitti ama gün uzun oldu. Rain dinlenmeyi ve sabah başlamayı seçiyor. Güvenli aparatın üzerini örtüyorlar, kapalı tutuyorlar ve geceden sonra hizalamayı yeniden kontrol edip ondan tekrar izin istemeyi kabul ediyorlar.\n\nRain: \"Yarın sabah. Bana tekrar sor o zaman ve seni duyabileceğim bir yerde kal.\""
+      ],
+      "introduction": "Ertesi sabah Rain'in yanında montaj ve kontroller yapılacak. Eşleştirilmiş okuyucu uzun bir yol kat etti ve alan, test edildiği korunaklı avlu değil. Rüzgar hazırlıkları yarıda keserek Rain'e muayenenin ne zaman başlaması gerektiği konusunda gerçek bir seçim şansı veriyor.",
+      "title": "Bakılacak Kadar Güvenli Bir Yer"
+    },
+    "vi": {
+      "altTexts": [
+        "Sáng hôm sau, Quest và Quiver mở gói đồ đạc tại chỗ nghỉ của Rain. Họ san bằng và neo giá đỡ trên mặt đất vững chắc. Vị trí của nó chừa chỗ cho anh di chuyển và cho mọi người tiếp cận bộ điều khiển dừng.",
+        "Bash gắn bộ thu có chốt bên dưới hai thấu kính. Quest đi theo đường dẫn từ đèn đến tấm định vị rồi cửa sổ nhận ánh sáng. Thấu kính có nẹp đỡ vẫn bị nứt và thấu kính phù hợp vẫn còn nguyên.",
+        "Để kiểm tra khả năng giữ kín, Bitter đã nạp các mảnh vỏ thực hành đã lấy ra khỏi túi qua cửa bảo trì trong khi thiết bị tắt, sau đó đóng chốt lại. Những mảnh vỏ trắng ấy vẫn ở bên trong trong quá trình kiểm tra. Chúng sẽ được lấy ra trước khi quét.",
+        "Sau khi kiểm tra, các mảnh vỡ được lấy ra và niêm phong lại trong túi. Sau đó một cơn gió mạnh làm di chuyển khung tấm định vị. Quiver gọi tạm dừng trước khi bắt đầu; bộ thu trống và việc quét chưa bắt đầu có thể đợi.",
+        "Đến chiều muộn, gió đã dịu dần. Flare và Pop thêm các thanh giằng chéo và lặp lại quá trình kiểm tra độ ổn định. Không ai phải giữ cho giá đỡ đứng thẳng và không có gì buộc vào cơ thể của Rain.",
+        "Gần tối, Rain diễn tập phần dừng bằng đèn thử nghiệm công suất thấp riêng biệt. Khi anh nói từ đó và giơ tay lên, Mend nhả nút điều khiển và đèn đó tối đi. Máy đọc chính vẫn tắt, màn chắn đường ánh sáng vẫn đóng.",
+        "Việc kiểm tra đã hoàn tất nhưng một ngày dài đã trôi qua. Rain chọn nghỉ ngơi và bắt đầu vào buổi sáng. Họ phủ thiết bị đã được cố định chắc chắn, giữ thiết bị ở trạng thái tắt và đồng ý kiểm tra lại căn chỉnh và xin phép anh lần nữa sau đêm."
+      ],
+      "captions": [
+        "Sáng hôm sau, Quest và Quiver mở gói đồ đạc tại chỗ nghỉ của Rain. Họ san bằng và neo giá đỡ trên mặt đất vững chắc. Vị trí của nó chừa chỗ cho anh di chuyển và cho mọi người tiếp cận bộ điều khiển dừng.\n\nQuest: \"Cả hai chân đều cân bằng. Kiểm tra các chốt trước khi chúng tôi lắp thấu kính.\"",
+        "Bash gắn bộ thu có chốt bên dưới hai thấu kính. Quest đi theo đường dẫn từ đèn đến tấm định vị rồi cửa sổ nhận ánh sáng. Thấu kính có nẹp đỡ vẫn bị nứt và thấu kính phù hợp vẫn còn nguyên.\n\nBash: \"Thanh dẫn hướng kết thúc ở cửa sổ bộ thu. Không có gì chặn nó.\"",
+        "Để kiểm tra khả năng giữ kín, Bitter đã nạp các mảnh vỏ thực hành đã lấy ra khỏi túi qua cửa bảo trì trong khi thiết bị tắt, sau đó đóng chốt lại. Những mảnh vỏ trắng ấy vẫn ở bên trong trong quá trình kiểm tra. Chúng sẽ được lấy ra trước khi quét.\n\nBitter: \"Chốt chắc chắn. Không có khe hở để các mảnh này tràn qua.\"",
+        "Sau khi kiểm tra, các mảnh vỡ được lấy ra và niêm phong lại trong túi. Sau đó một cơn gió mạnh làm di chuyển khung tấm định vị. Quiver gọi tạm dừng trước khi bắt đầu; bộ thu trống và việc quét chưa bắt đầu có thể đợi.\n\nQuiver: \"Chưa. Khung đang rung.\"",
+        "Đến chiều muộn, gió đã dịu dần. Flare và Pop thêm các thanh giằng chéo và lặp lại quá trình kiểm tra độ ổn định. Không ai phải giữ cho giá đỡ đứng thẳng và không có gì buộc vào cơ thể của Rain.\n\nFlare: \"Bây giờ chân đế đã tự đứng vững. Hãy kiểm tra lại một lần nữa.\"",
+        "Gần tối, Rain diễn tập phần dừng bằng đèn thử nghiệm công suất thấp riêng biệt. Khi anh nói từ đó và giơ tay lên, Mend nhả nút điều khiển và đèn đó tối đi. Máy đọc chính vẫn tắt, màn chắn đường ánh sáng vẫn đóng.\n\nRain: “Dừng lại.”\nMend: \"Đã dừng. Cậu là người quyết định.\"",
+        "Việc kiểm tra đã hoàn tất nhưng một ngày dài đã trôi qua. Rain chọn nghỉ ngơi và bắt đầu vào buổi sáng. Họ phủ thiết bị đã được cố định chắc chắn, giữ thiết bị ở trạng thái tắt và đồng ý kiểm tra lại căn chỉnh và xin phép anh lần nữa sau đêm.\n\nRain: \"Sáng mai. Hãy hỏi lại tôi nhé—và ở nơi tôi có thể nghe thấy bạn.\""
+      ],
+      "introduction": "Sáng hôm sau là buổi lắp ráp và kiểm tra bên cạnh Rain. Máy đọc dùng cặp thấu kính đã đi một chặng đường dài và cánh đồng không phải là sân có mái che nơi nó được thử nghiệm. Gió làm gián đoạn quá trình chuẩn bị, khiến Rain phải lựa chọn thực sự về thời điểm bắt đầu cuộc kiểm tra.",
+      "title": "Một nơi đủ an toàn để nhìn"
+    },
+    "zh": {
+      "altTexts": [
+        "第二天早上，Quest和Quiver在Rain的休息处拆开套件。他们将支架调平并将其固定在坚固的地面上。它的位置为他移动和每个人到达停止控制留下了空间。",
+        "Bash 将锁定接收器安装在两片镜片下方。 Quest检查了从灯到定位板、再到入光窗的整条路径。加了支架的镜片仍保留着裂纹，配套镜片仍然完好无损。",
+        "为了进行收容检查，Bitter 在设备关闭时从袋子里取出练习碎片，再通过检修口把它们装进接收器，然后将其关闭。在检查过程中，相同的白色碎片留在里面。它们会在任何扫描开始前取出。",
+        "检查后，碎片被取出并密封回袋子中。然后一阵风吹动了读数板框架。 Quiver在开始前暂停；接收器还是空的，检查也还没开始，他们可以等一等。",
+        "到了下午晚些时候，风势减弱了。 Flare和Pop添加斜撑并重复稳定性检查。无需任何人将支架保持直立，Rain 的身上也没有任何东西被束缚。",
+        "临近傍晚时，Rain 使用单独的低功率测试灯来演练停止信号。当他说出这个词并举起手时，Mend 释放控制，灯熄灭。真正的读取装置仍然关闭，光路挡板也没有打开。",
+        "检查已经完成，但这一天已经很漫长了。 Rain选择休息，早上开始。他们把已固定好的装置盖住，保持关闭，并同意隔夜之后重新检查对齐情况并再次征求他的许可。"
+      ],
+      "captions": [
+        "第二天早上，Quest和Quiver在Rain的休息处拆开套件。他们将支架调平并将其固定在坚固的地面上。它的位置为他移动和每个人到达停止控制留下了空间。\n\nQuest：“支架的两只脚都放平了。在安装镜片之前检查锚固件。”",
+        "Bash 将锁定接收器安装在两片镜片下方。 Quest检查了从灯到定位板、再到入光窗的整条路径。加了支架的镜片仍保留着裂纹，配套镜片仍然完好无损。\n\nBash：“引导线终止于接收器窗口。没有任何东西阻挡它。”",
+        "为了进行收容检查，Bitter 在设备关闭时从袋子里取出练习碎片，再通过检修口把它们装进接收器，然后将其关闭。在检查过程中，相同的白色碎片留在里面。它们会在任何扫描开始前取出。\n\nBitter：“闩锁很牢固。没有能让这些碎片漏出的缝隙。”",
+        "检查后，碎片被取出并密封回袋子中。然后一阵风吹动了读数板框架。 Quiver在开始前暂停；接收器还是空的，检查也还没开始，他们可以等一等。\n\nQuiver：“还没有，框架正在移动。”",
+        "到了下午晚些时候，风势减弱了。 Flare和Pop添加斜撑并重复稳定性检查。无需任何人将支架保持直立，Rain 的身上也没有任何东西被束缚。\n\nFlare：“现在支架已经固定住了，我们再检查一下。”",
+        "临近傍晚时，Rain 使用单独的低功率测试灯来演练停止信号。当他说出这个词并举起手时，Mend 释放控制，灯熄灭。真正的读取装置仍然关闭，光路挡板也没有打开。\n\nRain：“停。”\nMend：“已经停了。由你决定。”",
+        "检查已经完成，但这一天已经很漫长了。 Rain选择休息，早上开始。他们把已固定好的装置盖住，保持关闭，并同意隔夜之后重新检查对齐情况并再次征求他的许可。\n\nRain：“明天早上。然后再问我一次——并且呆在我能听到的地方。”"
+      ],
+      "introduction": "第二天早上在Rain旁边进行组装和检查。配对读取装置走了很长一段路，而且场地并不是测试时的遮蔽庭院。风打断了准备工作，让Rain可以真正选择检查何时开始。",
+      "title": "一个足够安全的地方"
+    }
+  },
+  "number": 24,
+  "panels": [
+    {
+      "altText": "The next morning, Quest and Quiver unpack the kit at Rain's resting place. They level and anchor the stand on firm ground. Its position leaves room for him to move and for everyone to reach the stop control.",
+      "image": "N01E24P01.png"
+    },
+    {
+      "altText": "Bash mounts the latched receiver below the two lenses. Quest follows the path from the lamp to the plate and the light-entry window. The braced lens is still cracked, and the matching lens is still intact.",
+      "image": "N01E24P02.png"
+    },
+    {
+      "altText": "For the containment check, Bitter has taken the practice fragments from their bag and loaded them through the service hatch while the apparatus is off, then latched it shut. The same white pieces stay inside during the check. They will be removed before any scan.",
+      "image": "N01E24P03.png"
+    },
+    {
+      "altText": "After the check, the fragments are removed and sealed back in their bag. Then a gust moves the reading-plate frame. Quiver calls a pause before they start; the empty receiver and unused scan can wait.",
+      "image": "N01E24P04.png"
+    },
+    {
+      "altText": "By late afternoon, the wind has eased. Flare and Pop add diagonal braces and repeat the stability check. No one has to hold the stand upright, and nothing is tied to Rain's body.",
+      "image": "N01E24P05.png"
+    },
+    {
+      "altText": "Near evening, Rain rehearses the stop with a separate low-power test lamp. When he says the word and raises his hand, Mend releases the control and that lamp goes dark. The actual reader remains shuttered and off.",
+      "image": "N01E24P06.png"
+    },
+    {
+      "altText": "The checks are finished, but the day has been long. Rain chooses to rest and begin in the morning. They cover the secured apparatus, leave it off, and agree to recheck the alignment and ask his permission again after the night.",
+      "image": "N01E24P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

@@ -1,0 +1,442 @@
+{
+  "id": "N02E11",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "تسلم ميند الكتاب المجلد لهاش كي يفحصه.",
+        "يتتبع إصبع هاش الخط البارز في صفحات مفتوحة ومستوية.",
+        "يتلاشى الشريط البنفسجي قرب الكتاب الذي قبله هاش.",
+        "تتبادل ميند وهاش نظرة مرحة فوق الكتاب.",
+        "يحمل هاش الكتاب برضا وتتابع ميند رده.",
+        "تزال علامة الكتاب بينما تبقى بقية الخانات مزدحمة.",
+        "ثلاث علامات بلدات موضوعة بوضوح في الوقت نفسه."
+      ],
+      "captions": [
+        "قبل الظهر اكتمل الكتاب. أعطته ميند لهاش ليجربه، بدل أن تقرر وحدها أنه مناسب.",
+        "فتح هاش الكتاب مستويًا وتتبع بإصبعه خطوط الطرق البارزة. ثم أشار إلى أنه يعمل بالطريقة التي يحتاجها.",
+        "انفك الشريط البنفسجي واختفى. للمرة الأولى، اكتمل أحد وعود ميند حقًا. بقيت ستة أشرطة.",
+        "قالت ميند: «كنت تحتاج إلى كتاب مفيد، وكدت أمضي الليل كله في تزيينه». أجابت عينا هاش المرحتان قبل أن تجيب يداه.",
+        "أضاف هاش بلغة الإشارة: «لقد أصغيتِ». لمست ميند الغلاف البسيط. بساطته لم تعنِ أنه صُنع باهتمام أقل.",
+        "أزالوا علامة الكتاب من التقويم. لكن إنجاز عمل واحد لم يجعل الوعود الستة الأخرى تتسع فيه فجأة.",
+        "نظرت ميند إلى العلامات الثلاث عند الظهر نفسه. قالت بهدوء: «الآن، لنتوقف عن التظاهر بأن هذه ثلاثة أوقات مختلفة»."
+      ],
+      "introduction": "يكتمل الكتاب، لكن الوعود الستة الباقية تحتاج إلى قرارات.",
+      "title": "وعد واحد يتحقق"
+    },
+    "bn": {
+      "altTexts": [
+        "মেন্ড বাঁধানো বই হাশকে পরীক্ষা করতে দিচ্ছে।",
+        "হাশের আঙুল সমান খোলা পাতার উঁচু পথ অনুসরণ করছে।",
+        "গ্রহণ করা বইয়ের পাশে বেগুনি ফিতা মিলিয়ে যাচ্ছে।",
+        "মেন্ড হাশের সঙ্গে কথা বলছে; তার চোখে হাসি ফুটে উঠেছে।",
+        "হাশ সন্তুষ্ট হয়ে বই ধরে, মেন্ড তার উত্তর দেখছে।",
+        "বইয়ের চিহ্ন সরানো, কিন্তু অন্য সময়গুলো এখনও ভরা।",
+        "তিন শহরের চিহ্ন একই সময়ে স্পষ্টভাবে রাখা।"
+      ],
+      "captions": [
+        "দুপুরের আগেই বইটির বাঁধাই শেষ হলো। নিজে ভালো হয়েছে বলে দেওয়ার বদলে মেন্ড হাশকে সেটি ব্যবহার করে দেখতে বলল।",
+        "হাশ বই সমান করে খুলে উঁচু পথের রেখায় আঙুল বোলাল। তারপর ইশারায় জানাল, ঠিক তার দরকারমতো কাজ করছে।",
+        "বেগুনি ফিতা খুলে মিলিয়ে গেল। প্রথমবার মেন্ডের একটি প্রতিশ্রুতি সত্যি শেষ হলো। ছয় ফিতা বাকি।",
+        "“তুমি চেয়েছিলে কাজে লাগে এমন একটা বই,” মেন্ড বলল। “আমি তো প্রায় সারা রাত সেটা সাজাতেই কাটিয়ে দিতাম।” নিজের হাত দিয়ে উত্তর দেওয়ার আগেই হাশের চোখে হাসি ফুটল।",
+        "“তুমি আমার কথা বুঝেছ,” হাশ ইশারা ভাষায় যোগ করল। সাধারণ বই মানেই অবহেলা নয়। যে সেটি ব্যবহার করবে, তার প্রয়োজন মিটেছিল।",
+        "তারা বইয়ের চিহ্ন ক্যালেন্ডার থেকে সরাল। কিন্তু একটি কাজ শেষ বলেই বাকি ছয় প্রতিশ্রুতি সব এঁটে গেল না।",
+        "টাভি একই দুপুরের ঘরে তিনটি চিহ্ন রাখল। “এবার সব একসঙ্গে দেখি,” মেন্ড বলল। এবার তারা আর ভান করল না যে কাজগুলোর সময় আলাদা।"
+      ],
+      "introduction": "বই শেষ হলেও বাকি ছয়টি প্রতিশ্রুতি নিয়ে সিদ্ধান্ত দরকার।",
+      "title": "একটি কথা রাখা"
+    },
+    "cs": {
+      "altTexts": [
+        "Mend podává Hushovi nově svázanou knihu tras.",
+        "Hush otevírá svázanou knihu naplocho na stole.",
+        "Fialová stuha mizí vedle hotové modré knihy.",
+        "Mend a Hush si nad knihou vyměňují pobavený pohled.",
+        "Mend pokládá ruku na jednoduché modré desky.",
+        "Tavi odstraňuje značku knihy z přeplněného kalendáře.",
+        "Mend ukazuje na tři městské značky v jednom políčku."
+      ],
+      "captions": [
+        "Před polednem Mend vazbu dokončila. Položila knihu na stůl a počkala, až ji Hush vyzkouší, místo aby hádala, že je vše správně.",
+        "Hush knihu otevřel. Stránky ležely naplocho a vystouplé trasy se daly snadno sledovat. Spokojeně znakoval poděkování.",
+        "Fialová stuha se rozvázala a rozpustila v jemném světélku. Jeden slib byl splněný. Mend jich zbývalo šest.",
+        "„Chtěl jsi užitečnou knihu,“ řekla Mend. „Málem jsem ji celou noc zdobila.“ Hushovy pobavené oči odpověděly dřív než jeho ruce.",
+        "Hush znakoval: „Naslouchala jsi.“ Mend se dotkla prostých desek. Jednoduchost neznamenala méně pozornosti.",
+        "Tavi odložil značku knihy. Ostatní úkoly se však do kalendáře stále nevešly. Dokončený úkol ostatní termíny neposunul.",
+        "Mend se podívala na tři značky v jediném poledni. „Teď,“ řekla tiše, „přestaňme předstírat, že jsou to tři různé časy.“"
+      ],
+      "introduction": "Hotová kniha ukáže rozdíl mezi potřebnou péčí a zbytečnými ozdobami.",
+      "title": "Jeden splněný slib"
+    },
+    "de": {
+      "altTexts": [
+        "Mend reicht Hush das frisch gebundene Wegebuch.",
+        "Hush öffnet das gebundene Buch flach auf dem Tisch.",
+        "Das violette Band verschwindet neben dem fertigen blauen Buch.",
+        "Mend und Hush wechseln einen belustigten Blick über dem Buch.",
+        "Mend legt eine Hand auf den schlichten blauen Einband.",
+        "Tavi nimmt das Buchplättchen aus einem überfüllten Kalender.",
+        "Mend zeigt auf drei Ortsplättchen im selben Mittagskästchen."
+      ],
+      "captions": [
+        "Vor zwölf wurde Mend fertig. Sie legte das Buch hin und wartete, bis Hush es ausprobierte, statt einfach anzunehmen, dass es passte.",
+        "Hush öffnete das Buch. Die Seiten lagen flach, die erhabenen Wege ließen sich gut verfolgen. Zufrieden bedankte er sich in Gebärdensprache.",
+        "Das violette Band löste sich und verging in einem sanften Schimmer. Ein Versprechen war erfüllt. Sechs blieben für Mend übrig.",
+        "„Du wolltest ein brauchbares Buch“, sagte Mend. „Beinahe hätte ich die ganze Nacht mit Verzieren verbracht.“ Hushs belustigte Augen antworteten vor seinen Händen.",
+        "Hush gebärdete: „Du hast zugehört.“ Mend berührte den schlichten Einband. Einfach bedeutete nicht weniger durchdacht.",
+        "Tavi legte das Buchplättchen beiseite. Die übrigen Aufgaben passten noch immer nicht in den Kalender. Eine erledigte Aufgabe hatte die anderen Termine nicht verschoben.",
+        "Mend sah auf die drei Plättchen zur selben Mittagszeit. „Jetzt“, sagte sie leise, „hören wir auf, so zu tun, als wären das drei verschiedene Zeiten.“"
+      ],
+      "introduction": "Ein fertiges Buch zeigt den Unterschied zwischen nützlicher Sorgfalt und unnötigem Schmuck.",
+      "title": "Ein gehaltenes Versprechen"
+    },
+    "en": {
+      "altTexts": [
+        "Mend presents the newly bound route book to Hush.",
+        "Hush opens the bound book flat on the table.",
+        "The violet ribbon dissolves beside the finished blue route book.",
+        "Mend and mouthless Hush share an amused look over the book.",
+        "Mend rests a hand on the book’s plain blue cover.",
+        "Tavi removes the book tile from an overcrowded calendar.",
+        "Mend points to three town tokens in the same noon square."
+      ],
+      "captions": [
+        "Before noon, Mend finished the binding. She set the book down and waited for Hush to try it, rather than guessing it was right.",
+        "Hush opened the book. Its pages lay flat, and the raised routes were easy to follow. Hush signed a pleased thank-you.",
+        "The violet ribbon untied and dissolved into a soft glimmer. One promise was complete. Mend still had six.",
+        "“You wanted a useful book,” Mend said. “I nearly spent all night decorating one.” Hush’s amused eyes answered before his hands did.",
+        "Hush signed, “You listened.” Mend touched the plain cover. It was not less thoughtful because it was simple.",
+        "Tavi put the book tile aside. The remaining calendar still would not fit. Finishing one task had not moved the other deadlines.",
+        "Mend looked at the three tokens sharing one noon. “Now,” she said quietly, “let us stop pretending they are three different times.”"
+      ],
+      "introduction": "A finished book shows the difference between useful care and unnecessary extras.",
+      "title": "One Promise Kept"
+    },
+    "es": {
+      "altTexts": [
+        "Mend presenta a Hush el libro recién encuadernado.",
+        "Hush abre el libro encuadernado sobre la mesa.",
+        "La cinta violeta desaparece junto al libro azul terminado.",
+        "Mend y Hush intercambian una mirada divertida sobre el libro.",
+        "Mend apoya una mano sobre la sencilla cubierta azul.",
+        "Tavi retira la ficha del libro de un calendario abarrotado.",
+        "Mend señala tres fichas de pueblos en una sola casilla."
+      ],
+      "captions": [
+        "Antes del mediodía, Mend terminó la encuadernación. Dejó el libro y esperó a que Hush lo probara, en lugar de suponer que estaba bien.",
+        "Hush abrió el libro. Las páginas quedaban planas y era fácil seguir las rutas en relieve. Dio las gracias mediante señas, satisfecho.",
+        "La cinta violeta se desató y se disolvió en un brillo suave. Una promesa estaba cumplida. A Mend le quedaban seis.",
+        "«Querías un libro útil», dijo Mend. «Casi me paso la noche decorándolo». Los ojos divertidos de Hush respondieron antes que sus manos.",
+        "Hush dijo con señas: «Escuchaste». Mend tocó la cubierta lisa. Ser sencilla no significaba que llevara menos cuidado.",
+        "Tavi apartó la ficha del libro. El resto del calendario seguía sin encajar. Terminar una tarea no había cambiado las otras fechas.",
+        "Mend miró las tres fichas en el mismo mediodía. «Ahora», dijo suavemente, «dejemos de fingir que son tres horas diferentes»."
+      ],
+      "introduction": "Un libro terminado distingue el cuidado útil de los adornos innecesarios.",
+      "title": "Una promesa cumplida"
+    },
+    "fr": {
+      "altTexts": [
+        "Mend présente à Hush le guide nouvellement relié.",
+        "Hush ouvre le guide relié à plat sur la table.",
+        "Le ruban violet se dissipe près du guide bleu terminé.",
+        "Mend et Hush échangent un regard amusé au-dessus du guide.",
+        "Mend pose une main sur la couverture bleue toute simple.",
+        "Tavi retire le jeton du guide d’un calendrier surchargé.",
+        "Mend montre trois jetons de villages dans la même case de midi."
+      ],
+      "captions": [
+        "Avant midi, Mend termina la reliure. Elle posa le guide et attendit que Hush l’essaie, au lieu de supposer qu’il convenait.",
+        "Hush ouvrit le guide. Les pages restaient à plat et les itinéraires en relief étaient faciles à suivre. Il signa un remerciement satisfait.",
+        "Le ruban violet se dénoua et se dissipa dans une douce lueur. Une promesse était tenue. Il en restait six à Mend.",
+        "« Tu voulais un guide utile, dit Mend. J’ai failli passer la nuit à le décorer. » Les yeux amusés de Hush répondirent avant ses mains.",
+        "Hush signa : « Tu as écouté. » Mend toucha la couverture unie. Sa simplicité ne signifiait pas qu’elle avait reçu moins de soin.",
+        "Tavi retira le jeton du guide. Les autres tâches ne tenaient toujours pas dans le calendrier. Terminer une tâche n’avait pas déplacé les autres échéances.",
+        "Mend regarda les trois jetons réunis au même midi. « Maintenant, dit-elle doucement, cessons de faire comme s’il s’agissait de trois heures différentes. »"
+      ],
+      "introduction": "Un livre terminé distingue les soins utiles des ornements superflus.",
+      "title": "Une promesse tenue"
+    },
+    "hi": {
+      "altTexts": [
+        "मेंड बँधी किताब हश को जाँचने देती है।",
+        "हश की उँगली सपाट खुले पन्ने की उभरी राह पर चलती है।",
+        "स्वीकार की गई किताब के पास बैंगनी रिबन मिटता है।",
+        "मेंड हश से बात करती है; उसकी आँखों में हँसी चमकती है।",
+        "हश किताब संतोष से पकड़े है, मेंड उसका जवाब देखती है।",
+        "किताब का निशान हटा है; बाकी कैलेंडर अब भी भरा है।",
+        "तीन कस्बों के निशान साफ़ तौर पर एक ही समय पर हैं।"
+      ],
+      "captions": [
+        "दोपहर से पहले किताब बन गई। मेंड ने खुद अच्छा घोषित करने के बजाय हश को देकर इस्तेमाल जाँचने को कहा।",
+        "हश ने किताब सपाट खोली और उभरी राह पर उँगली फेरी। फिर संकेत से बताया कि वह उसकी ज़रूरत के अनुसार काम करती है।",
+        "बैंगनी रिबन खुलकर गायब हो गया। पहली बार मेंड का एक वादा सच में पूरा हुआ। छह रिबन बाकी थे।",
+        "“तुम्हें काम की किताब चाहिए थी,” मेंड ने कहा। “मैं तो उसे सजाने में पूरी रात लगाने वाली थी।” हश के हाथ जवाब देते, उससे पहले ही उसकी आँखों में हँसी चमक उठी।",
+        "“तुमने मेरी बात समझी,” हश ने संकेत भाषा में जोड़ा। साधारण किताब लापरवाही से नहीं बनी थी। वह इस्तेमाल करने वाले के लिए सही थी।",
+        "उन्होंने किताब का निशान कैलेंडर से हटाया। पर एक काम पूरा होने से बाकी छह वादे अपने आप उसमें नहीं समा गए।",
+        "तावी ने एक ही दोपहर पर तीन निशान रखे। “अब सब साथ देखें,” मेंड ने कहा। इस बार वे अलग-अलग समय होने का नाटक नहीं कर रहे थे।"
+      ],
+      "introduction": "किताब तैयार है, लेकिन बाकी छह वादों पर अभी निर्णय चाहिए।",
+      "title": "एक वादा पूरा"
+    },
+    "id": {
+      "altTexts": [
+        "Mend memberikan buku terjilid kepada Hush.",
+        "Buku terbuka rata; jari Hush mengikuti garis rute timbul.",
+        "Pita ungu memudar di samping buku yang sudah diterima.",
+        "Mend dan Hush saling memandang geli di atas buku itu.",
+        "Hush memegang buku dengan puas; Mend memperhatikan jawabannya.",
+        "Penanda buku diangkat; bagian kalender lainnya masih penuh.",
+        "Tiga penanda kota berjajar pada waktu yang sama."
+      ],
+      "captions": [
+        "Menjelang tengah hari, buku selesai. Mend menyerahkannya kepada Hush untuk diuji, bukan memutuskan sendiri bahwa hasilnya sudah cukup.",
+        "Hush membukanya rata dan menelusuri garis timbul dengan jari. Lalu ia berisyarat bahwa buku itu bekerja sesuai kebutuhannya.",
+        "Pita ungu terlepas dan lenyap. Untuk pertama kalinya, salah satu janji Mend benar-benar selesai. Enam pita tersisa.",
+        "“Kau membutuhkan buku yang berguna,” kata Mend. “Aku hampir menghabiskan semalaman menghiasnya.” Mata Hush tampak geli sebelum kedua tangannya menjawab.",
+        "Hush melanjutkan dengan bahasa isyarat, “Kau mendengarkan.” Mend menyentuh sampul yang sederhana. Kesederhanaannya tidak berarti buku itu dibuat dengan kurang perhatian.",
+        "Mereka menyingkirkan penanda buku dari kalender. Namun, enam janji lainnya tidak mendadak muat hanya karena satu pekerjaan selesai.",
+        "Mend memandang tiga penanda pada tengah hari yang sama. “Sekarang,” katanya pelan, “jangan berpura-pura ini tiga waktu yang berbeda.”"
+      ],
+      "introduction": "Buku Hush selesai; enam janji lainnya masih membutuhkan keputusan.",
+      "title": "Satu Janji Ditepati"
+    },
+    "it": {
+      "altTexts": [
+        "Mend presenta a Hush il libro appena rilegato.",
+        "Hush apre il libro rilegato piatto sul tavolo.",
+        "Il nastro viola scompare vicino al libro blu finito.",
+        "Mend e Hush si scambiano uno sguardo divertito sopra il libro.",
+        "Mend posa una mano sulla semplice copertina blu.",
+        "Tavi toglie il gettone del libro da un calendario affollato.",
+        "Mend indica tre gettoni di paesi nella stessa casella."
+      ],
+      "captions": [
+        "Prima di mezzogiorno Mend finì la rilegatura. Posò il libro e aspettò che Hush lo provasse, invece di supporre che andasse bene.",
+        "Hush aprì il libro. Le pagine restavano piatte e i percorsi in rilievo erano facili da seguire. Ringraziò soddisfatto con i segni.",
+        "Il nastro viola si sciolse in un bagliore delicato. Una promessa era mantenuta. A Mend ne restavano sei.",
+        "«Volevi un libro utile», disse Mend. «Ho quasi passato la notte a decorarlo». Gli occhi divertiti di Hush risposero prima delle sue mani.",
+        "Hush disse con i segni: «Hai ascoltato». Mend toccò la copertina semplice. Non era meno curata perché era semplice.",
+        "Tavi mise da parte il gettone del libro. Il resto del calendario ancora non funzionava. Finire un compito non aveva spostato le altre scadenze.",
+        "Mend guardò i tre gettoni nello stesso mezzogiorno. «Adesso», disse piano, «smettiamo di fingere che siano tre orari diversi»."
+      ],
+      "introduction": "Un libro finito distingue la cura utile dagli abbellimenti superflui.",
+      "title": "Una promessa mantenuta"
+    },
+    "ja": {
+      "altTexts": [
+        "メンドが完成した本をハッシュに手渡しています。",
+        "ハッシュの指が、平らに開いたページの立体的な線をたどっています。",
+        "受け取られた本のそばで、紫のリボンが消えています。",
+        "メンドとハッシュが、本を挟んで楽しそうに目を合わせています。",
+        "ハッシュが本を大切に持ち、メンドが返事を見ています。",
+        "本の印は外れていますが、ほかの予定はまだ詰まっています。",
+        "三つの町の印が、同じ時間の上に並んでいます。"
+      ],
+      "captions": [
+        "正午前、本ができました。メンドは自分だけで完成を決めず、ハッシュに渡して使い心地を確かめてもらいました。",
+        "ハッシュは本を平らに開き、盛り上がった道の線を指でたどりました。そして、必要なとおりに使える、と手話で伝えました。",
+        "紫のリボンがほどけ、消えました。初めて、メンドの約束が一つ本当に終わりました。残りは六本です。",
+        "「必要だったのは、使いやすい本だったんだね」とメンドは言いました。「私は、ひと晩じゅう飾りつけをするところだった」ハッシュは自分の手で答えるより先に、目で楽しそうに笑いました。",
+        "「話を聞いてくれた」とハッシュは手話で伝えました。メンドは簡素な表紙に触れました。簡素だからといって、込めた思いやりが少ないわけではありません。",
+        "本の印をカレンダーから外しました。それでも、仕事が一つ終わっただけで、残る六つの約束が全部収まるわけではありません。",
+        "メンドは同じ正午に置かれた三つの印を見ました。「もう、三つの違う時刻だと思うのはやめよう」と静かに言いました。"
+      ],
+      "introduction": "ハッシュの本は完成しますが、残る約束には判断が必要です。",
+      "title": "一つの約束を果たす"
+    },
+    "ko": {
+      "altTexts": [
+        "멘드가 완성된 책을 허시에게 건넵니다.",
+        "허시가 평평하게 펼친 책장의 도드라진 길을 만져 봅니다.",
+        "허시가 받은 책 곁에서 보라 리본이 사라집니다.",
+        "멘드와 허시가 책 너머로 웃음 어린 눈길을 주고받습니다.",
+        "허시가 만족스럽게 책을 들고 멘드는 그의 답을 봅니다.",
+        "책 표시는 빠졌지만 다른 일정은 여전히 빽빽합니다.",
+        "세 마을 표시가 같은 시간 위에 분명하게 놓여 있습니다."
+      ],
+      "captions": [
+        "정오 전에 책이 완성되었습니다. 멘드는 혼자 충분하다고 판단하지 않고 허시에게 써 보라고 건넸습니다.",
+        "허시는 책을 평평하게 펴고 도드라진 길을 손가락으로 따라갔습니다. 그런 다음 원하는 대로 쓸 수 있다고 수어로 말했습니다.",
+        "보라 리본이 풀려 사라졌습니다. 처음으로 약속 하나가 정말 끝났습니다. 여섯 리본이 남았습니다.",
+        "“네가 원한 건 쓸모 있는 책이었구나.” 멘드가 말했습니다. “나는 하마터면 밤새 장식만 할 뻔했어.” 허시의 손이 대답하기 전에 그의 눈이 먼저 웃었습니다.",
+        "“내 말을 들어 줬어.” 허시가 수어로 덧붙였습니다. 멘드는 단순한 표지를 만졌습니다. 단순하다고 정성이 덜 들어간 것은 아니었습니다.",
+        "달력에서 책 표시를 치웠습니다. 그러나 하나를 끝냈다고 나머지 여섯 약속이 모두 들어가는 것은 아니었습니다.",
+        "멘드는 같은 정오에 놓인 표시 세 개를 바라봤습니다. “이제 서로 다른 시간인 척하지 말자.” 조용히 말했습니다."
+      ],
+      "introduction": "허시의 책은 완성되지만 나머지 약속에는 새로운 결정이 필요합니다.",
+      "title": "약속 하나를 지키다"
+    },
+    "pl": {
+      "altTexts": [
+        "Mend podaje Hushowi świeżo oprawiony przewodnik.",
+        "Hush otwiera oprawiony przewodnik płasko na stole.",
+        "Fioletowa wstążka znika przy gotowej niebieskiej książce.",
+        "Mend i Hush wymieniają rozbawione spojrzenie nad książką.",
+        "Mend kładzie dłoń na prostej niebieskiej okładce.",
+        "Tavi usuwa znacznik książki z zatłoczonego kalendarza.",
+        "Mend wskazuje trzy znaczniki miasteczek w jednej kratce."
+      ],
+      "captions": [
+        "Przed południem Mend skończyła oprawę. Odłożyła książkę i poczekała, aż Hush ją wypróbuje, zamiast zakładać, że wszystko się udało.",
+        "Hush otworzył książkę. Strony leżały płasko, a wypukłe trasy łatwo było śledzić. Zadowolony podziękował w języku migowym.",
+        "Fioletowa wstążka rozwiązała się i rozpłynęła w delikatnym blasku. Jedna obietnica była spełniona. Mend zostało sześć.",
+        "„Chciałeś użytecznej książki” — powiedziała Mend. „A ja o mało nie poświęciłam całej nocy na jej ozdabianie”. Rozbawione oczy Husha odpowiedziały szybciej niż jego dłonie.",
+        "Hush zamigał: „Słuchałaś”. Mend dotknęła prostej okładki. Prostota nie oznaczała mniejszej troski.",
+        "Tavi odłożył znacznik książki. Pozostałych zobowiązań nadal nie dało się zmieścić w kalendarzu. Skończenie jednego zadania nie przesunęło innych terminów.",
+        "Mend spojrzała na trzy znaczniki w jednym południu. „Teraz” — powiedziała cicho — „przestańmy udawać, że to trzy różne godziny”."
+      ],
+      "introduction": "Gotowa książka odróżnia potrzebną troskę od zbędnych ozdób.",
+      "title": "Jedna dotrzymana obietnica"
+    },
+    "pt": {
+      "altTexts": [
+        "Mend apresenta a Hush o livro recém-encadernado.",
+        "Hush abre o livro encadernado sobre a mesa.",
+        "A fita violeta desaparece perto do livro azul pronto.",
+        "Mend e Hush trocam um olhar divertido sobre o livro.",
+        "Mend apoia a mão na capa azul simples.",
+        "Tavi tira a ficha do livro de um calendário lotado.",
+        "Mend aponta três fichas de vilas no mesmo quadrado do calendário."
+      ],
+      "captions": [
+        "Antes do meio-dia, Mend terminou a encadernação. Pousou o livro e esperou Hush experimentar, em vez de adivinhar se estava bom.",
+        "Hush abriu o livro. As páginas ficavam planas, e os caminhos em relevo eram fáceis de acompanhar. Agradeceu satisfeito em língua de sinais.",
+        "A fita violeta se desamarrou e virou um brilho suave. Uma promessa estava cumprida. Restavam seis para Mend.",
+        "“Você queria um livro útil”, disse Mend. “Quase passei a noite decorando um.” Os olhos divertidos de Hush responderam antes de suas mãos.",
+        "Hush disse em sinais: “Você escutou”. Mend tocou a capa lisa. Ser simples não significava ter menos cuidado.",
+        "Tavi separou a ficha do livro. O restante dos compromissos ainda não cabia no calendário. Terminar uma tarefa não mudara os outros prazos.",
+        "Mend olhou para as três fichas no mesmo meio-dia. “Agora”, disse baixinho, “vamos parar de fingir que são três horários diferentes”."
+      ],
+      "introduction": "Um livro pronto mostra a diferença entre cuidado útil e enfeites desnecessários.",
+      "title": "Uma promessa cumprida"
+    },
+    "ru": {
+      "altTexts": [
+        "Менд передаёт Хашу только что переплетённую книгу.",
+        "Хаш открывает переплетённую книгу ровно на столе.",
+        "Фиолетовая лента исчезает возле готовой синей книги.",
+        "Менд и Хаш обмениваются весёлым взглядом над книгой.",
+        "Менд кладёт руку на простую синюю обложку.",
+        "Тави убирает жетон книги из переполненного календаря.",
+        "Менд указывает на три жетона городков в одной клетке."
+      ],
+      "captions": [
+        "До полудня Менд закончила переплёт. Она положила книгу и подождала, пока Хаш её проверит, вместо того чтобы решать за него.",
+        "Хаш раскрыл книгу. Страницы лежали ровно, а выпуклые маршруты легко читались пальцами. Он с удовольствием поблагодарил её жестами.",
+        "Фиолетовая лента развязалась и растаяла мягким сиянием. Одно обещание было выполнено. У Менд оставалось шесть.",
+        "«Тебе нужна была удобная книга, — сказала Менд. — А я чуть не потратила всю ночь на её украшение». Весёлые глаза Хаша ответили раньше, чем его руки.",
+        "Хаш сказал жестами: «Ты слушала». Менд коснулась простой обложки. Простота не означала, что в ней меньше заботы.",
+        "Тави отложил жетон книги. Оставшиеся дела всё равно не помещались в расписание. Завершение одной задачи не изменило остальных сроков.",
+        "Менд посмотрела на три жетона в одном полудне. «Теперь, — тихо сказала она, — перестанем делать вид, что это три разных времени»."
+      ],
+      "introduction": "Готовая книга отличает полезную заботу от лишних украшений.",
+      "title": "Одно выполненное обещание"
+    },
+    "tr": {
+      "altTexts": [
+        "Mend yeni ciltlenmiş kitabı Hush’a sunuyor.",
+        "Hush ciltlenmiş kitabı masaya düz açıyor.",
+        "Mor kurdele bitmiş mavi kitabın yanında kayboluyor.",
+        "Mend ve Hush kitabın üzerinden neşeli bakışlar paylaşıyor.",
+        "Mend elini sade mavi kapağa koyuyor.",
+        "Tavi kitap simgesini dolu takvimden çıkarıyor.",
+        "Mend aynı kutucuktaki üç kasaba simgesini gösteriyor."
+      ],
+      "captions": [
+        "Öğlenden önce cilt bitti. Mend kitabı bırakıp doğru olduğunu varsaymak yerine Hush’ın denemesini bekledi.",
+        "Hush kitabı açtı. Sayfalar düz duruyor, kabartma yollar kolayca izleniyordu. Memnuniyetle işaret dilinde teşekkür etti.",
+        "Mor kurdele çözülüp yumuşak bir parıltıyla kayboldu. Bir söz tutulmuştu. Mend’in altı sözü kalmıştı.",
+        "“Kullanışlı bir kitap istiyordun,” dedi Mend. “Az kalsın bütün gece onu süsleyecektim.” Hush’ın gülümseyen gözleri, elleri harekete geçmeden önce cevap verdi.",
+        "Hush işaret diliyle, “Dinledin,” dedi. Mend sade kapağa dokundu. Sade olması, daha az özenli olduğu anlamına gelmiyordu.",
+        "Tavi kitap simgesini ayırdı. Kalan işler hâlâ takvime sığmıyordu. Bir işi bitirmek diğer tarihleri değiştirmemişti.",
+        "Mend aynı öğle vaktindeki üç simgeye baktı. “Artık,” dedi sessizce, “bunlar üç farklı saatmiş gibi davranmayalım.”"
+      ],
+      "introduction": "Bitmiş bir kitap, yararlı özenle gereksiz süsü ayırır.",
+      "title": "Tutulan Bir Söz"
+    },
+    "vi": {
+      "altTexts": [
+        "Mend trao sách đã đóng cho Hush kiểm tra.",
+        "Ngón tay Hush lần theo đường nổi trên trang sách mở phẳng.",
+        "Dải tím tan đi cạnh cuốn sách đã được nhận.",
+        "Mend và Hush trao nhau ánh mắt vui vẻ qua cuốn sách.",
+        "Hush hài lòng cầm sách, Mend chú ý lời đáp của cậu.",
+        "Dấu sách được lấy ra, các phần lịch khác vẫn chật.",
+        "Ba dấu thị trấn được xếp rõ trên cùng một thời điểm."
+      ],
+      "captions": [
+        "Trước trưa, sách đã xong. Mend đưa Hush thử dùng, thay vì tự quyết rằng như thế đã đủ tốt.",
+        "Hush mở sách phẳng và lần ngón tay theo đường nổi. Cậu ra ký hiệu rằng cuốn sách dùng đúng như mình cần.",
+        "Dải tím tháo ra rồi biến mất. Lần đầu tiên, một lời hứa của Mend thật sự hoàn thành. Còn sáu dải.",
+        "“Cậu cần một cuốn sách dùng được,” Mend nói. “Mình suýt thức cả đêm chỉ để trang trí nó.” Đôi mắt Hush đã ánh lên vẻ thích thú trước khi đôi tay cậu kịp đáp lời.",
+        "“Cậu đã lắng nghe,” Hush nói tiếp bằng ngôn ngữ ký hiệu. Mend chạm vào bìa sách giản dị. Đơn giản không có nghĩa là thiếu sự chăm chút.",
+        "Họ bỏ dấu cuốn sách khỏi lịch. Nhưng xong một việc không khiến sáu lời hứa còn lại tự nhiên vừa vào đó.",
+        "Mend nhìn ba dấu hẹn vào cùng một buổi trưa. “Bây giờ,” cô nói khẽ, “mình đừng giả vờ đây là ba thời điểm khác nhau nữa.”"
+      ],
+      "introduction": "Cuốn sách hoàn thành, nhưng sáu lời hứa còn lại vẫn cần quyết định.",
+      "title": "Giữ được một lời hứa"
+    },
+    "zh": {
+      "altTexts": [
+        "门德将装订好的书递给哈什检查。",
+        "哈什的手指沿着平展书页上的凸起路线移动。",
+        "紫色丝带在被接受的书旁渐渐消散。",
+        "门德和哈什隔着书，交换了一个带着笑意的眼神。",
+        "哈什满意地拿着书，门德认真看他的回应。",
+        "书本标记被拿走，其余日程仍然很满。",
+        "三个小镇标记清楚地放在同一时段。"
+      ],
+      "captions": [
+        "正午前，书装订好了。门德把它交给哈什试用，而不是自己宣布已经够好。",
+        "哈什把书平放打开，手指沿着凸起的路线移动。他用手语表示：这正是他需要的。",
+        "紫色丝带解开，消失了。门德终于真正兑现了一个承诺。还剩六条丝带。",
+        "“你需要的是一本好用的书，”门德说，“我却差点花一整夜去装饰它。”哈什的双手还没回应，眼里就先露出了笑意。",
+        "哈什继续用手语说：“你听进去了。”门德摸摸朴素的书皮。简单，并不代表少了一分用心。",
+        "他们从日历上移走书的标记。但完成一个任务，并没有让其他六个承诺自动排得进去。",
+        "门德看着放在同一个正午的三个标记。“现在，”她轻声说，“我们别再假装这是三个不同的时间了。”"
+      ],
+      "introduction": "书装订好了，但剩下的六个承诺仍然需要重新安排。",
+      "title": "兑现一个承诺"
+    }
+  },
+  "number": 11,
+  "panels": [
+    {
+      "altText": "Mend presents the newly bound route book to Hush.",
+      "image": "N02E11P01.png"
+    },
+    {
+      "altText": "Hush opens the bound book flat on the table.",
+      "image": "N02E11P02.png"
+    },
+    {
+      "altText": "The violet ribbon dissolves beside the finished blue route book.",
+      "image": "N02E11P03.png"
+    },
+    {
+      "altText": "Mend and mouthless Hush share an amused look over the book.",
+      "image": "N02E11P04.png"
+    },
+    {
+      "altText": "Mend rests a hand on the book’s plain blue cover.",
+      "image": "N02E11P05.png"
+    },
+    {
+      "altText": "Tavi removes the book tile from an overcrowded calendar.",
+      "image": "N02E11P06.png"
+    },
+    {
+      "altText": "Mend points to three town tokens in the same noon square.",
+      "image": "N02E11P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

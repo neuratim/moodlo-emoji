@@ -1,0 +1,439 @@
+{
+  "id": "N01E16",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "في صباح اليوم التالي، ترسو العبّارة عند رصيف جزيرة Nacre. Quest وNova يُظهران لـ Tangle تفاصيل شباك الوصول التي تم التحقق منها من Adore. ينتظر المسافرون الأربعة الآخرون مع الحقيبة في الطابور نفسه.",
+        "عندما يصل Bash إلى المكتب، يتوقف Tangle مؤقتًا فوق اسم غير مألوف في المستند. يمنحه Bash وقتًا لينطق الاسم على نحو صحيح. لا يجب أن يصبح التوقف عند المنضدة مزحة على حساب شخص ما.",
+        "مع فحص أوراق الوصول، لاحظ Tangle أن مذكرة سجل المناولة الملطخة أرسلتهم نحو شباك السجلات الخطأ. يصحح الخطأ ويقودهم إلى المنضدة المجاورة، التي لا تزال داخل نفس الممر المغطى.",
+        "على المكتب الصحيح، يضع Hush رسم الغلاف وإيصال Sigh المنسوخ. ويصبح السؤال واضحا: أي طرد كان يحمل العدسة المطابقة، وأين ذهب هذا الطرد بعد ذلك؟",
+        "يعثر Tangle على الإدخال المطابق في دفتر حسابات الميناء الملطخ بالمياه. أعادت الورشة العدسة للفحص، لكن اسم الوجهة في القيد غير مقروء. يتعامل متجر المعرض مع هذا الإرجاع ويجب أن يكون له سجل إرسال خاص به.",
+        "المتجر يقع على طول طريق الميناء، وليس عبر حدود أخرى. يقوم Quest بنسخ عنوانه بينما يقوم Bash بإغلاق الحقيبة. خطوتهم التالية هي العثور على سجل الإرجاع قبل اختيار وجهة أخرى.",
+        "في ذلك المساء، في Meadowfold، توقف Puff عند درجة المشاهدة الصغيرة وطلب الاقتراب. يختار Rain الجانب الذي توجد فيه مساحة خالية. كونه أكبر بكثير لم يسلبه حقه في تقرير كيفية اقتراب الزوار."
+      ],
+      "captions": [
+        "في صباح اليوم التالي، ترسو العبّارة عند رصيف جزيرة Nacre. Quest وNova يُظهران لـ Tangle تفاصيل شباك الوصول التي تم التحقق منها من Adore. ينتظر المسافرون الأربعة الآخرون مع الحقيبة في الطابور نفسه.\n\nTangle: “أهلًا بكم. نتحقق أولًا من أوراق وصولكم، ثم من سجلات الشحنة.”",
+        "عندما يصل Bash إلى المكتب، يتوقف Tangle مؤقتًا فوق اسم غير مألوف في المستند. يمنحه Bash وقتًا لينطق الاسم على نحو صحيح. لا يجب أن يصبح التوقف عند المنضدة مزحة على حساب شخص ما.\n\nBash: “يمكنني أن أقول اسمي مرة أخرى. لا داعي للعجلة.”",
+        "مع فحص أوراق الوصول، لاحظ Tangle أن مذكرة سجل المناولة الملطخة أرسلتهم نحو شباك السجلات الخطأ. يصحح الخطأ ويقودهم إلى المنضدة المجاورة، التي لا تزال داخل نفس الممر المغطى.\n\nTangle: \"كان هذا خطأي. سجل الشحنة عند الشباك المجاور.\"",
+        "على المكتب الصحيح، يضع Hush رسم الغلاف وإيصال Sigh المنسوخ. ويصبح السؤال واضحا: أي طرد كان يحمل العدسة المطابقة، وأين ذهب هذا الطرد بعد ذلك؟\n\nHush [بلغة الإشارة]: \"نحن نتبع العدسة المطابقة في هذه الشحنة.\"",
+        "يعثر Tangle على الإدخال المطابق في دفتر حسابات الميناء الملطخ بالمياه. أعادت الورشة العدسة للفحص، لكن اسم الوجهة في القيد غير مقروء. يتعامل متجر المعرض مع هذا الإرجاع ويجب أن يكون له سجل إرسال خاص به.\n\nTangle: \"تم تسجيل الإرجاع. ربما لا يزال لدى المتجر نسخة إرسالية قابلة للقراءة.\"",
+        "المتجر يقع على طول طريق الميناء، وليس عبر حدود أخرى. يقوم Quest بنسخ عنوانه بينما يقوم Bash بإغلاق الحقيبة. خطوتهم التالية هي العثور على سجل الإرجاع قبل اختيار وجهة أخرى.\n\nQuest: “إذن فهذه محطتنا التالية.”",
+        "في ذلك المساء، في Meadowfold، توقف Puff عند درجة المشاهدة الصغيرة وطلب الاقتراب. يختار Rain الجانب الذي توجد فيه مساحة خالية. كونه أكبر بكثير لم يسلبه حقه في تقرير كيفية اقتراب الزوار.\n\nPuff: \"هل يمكنني الاقتراب؟\"\nRain: \"نعم. من هذا الجانب.\""
+      ],
+      "introduction": "جلبت العبارة الباحثين إلى Nacre، الجزيرة المذكورة في إيصال Sigh. عند شبابيك الميناء، تبطئ الأسماء غير المألوفة وقيدٌ تالف عملية البحث. يساعد Tangle في تصحيح المسار، ويتبين أن الخيط التالي هو طرد آخر أُعيد إلى مرسله.",
+      "title": "اسم على الحدود"
+    },
+    "bn": {
+      "altTexts": [
+        "পরদিন সকালে ফেরি Nacre দ্বীপের ঘাটে ভেড়ে। Adore-এর যাচাই করা আগমন কাউন্টারের তথ্য Quest আর Nova Tangle-কে দেখায়। বাকি চারজন একই সারিতে সরঞ্জামের বাক্স নিয়ে অপেক্ষা করে।",
+        "Bash কাউন্টারে এলে Tangle কাগজের অপরিচিত একটি নাম পড়তে গিয়ে থামে। Bash তাকে সঠিকভাবে বলার সময় দেয়। একটু থামতে হয়েছে বলে কাউকে নিয়ে ঠাট্টা করতে হবে না।",
+        "আগমনের কাগজ পরীক্ষা করতে গিয়ে Tangle দেখে, নথির ঝাপসা নোট পড়ে সে তাদের ভুল কাউন্টারে পাঠিয়েছে। ভুল সংশোধন করে একই ছাওয়া পথের পাশের কাউন্টারে নিয়ে যায়।",
+        "সঠিক কাউন্টারে Hush খোলসের নকশা আর Sigh-এর রসিদের নকল রাখে। প্রশ্নটি পরিষ্কার: জোড়ার অন্য লেন্সটি কোন পার্সেলে ছিল, আর পার্সেলটি এরপর কোথায় গেছে?",
+        "পানির দাগ পড়া বন্দরের খাতায় Tangle মিলে যাওয়া নথিটি পায়। পরীক্ষা করার জন্য কারখানা লেন্সটি ফেরত পাঠিয়েছিল। কিন্তু গন্তব্যের নামটি পড়া যাচ্ছে না। প্রদর্শনীর দোকান ফেরত পাঠানোর কাজটি সামলেছিল, তাই তাদের আলাদা নথি থাকার কথা।",
+        "দোকানটি বন্দরের রাস্তা ধরেই, অন্য কোনো সীমান্তের ওপারে নয়। Quest ঠিকানা লিখে নেয়, আর Bash বাক্স বন্ধ করে। নতুন গন্তব্য ঠিক করার আগে ফেরত পাঠানোর নথিটি খুঁজতে হবে।",
+        "সেই সন্ধ্যায় Meadowfold-এ Puff দেখার ছোট ধাপটির কাছে থেমে কাছে আসার অনুমতি চায়। Rain খালি জায়গা আছে এমন দিকটি দেখায়। অনেক বড় হয়ে গেলেও কে কীভাবে কাছে আসবে, তা ঠিক করার অধিকার তারই।"
+      ],
+      "captions": [
+        "পরদিন সকালে ফেরি Nacre দ্বীপের ঘাটে ভেড়ে। Adore-এর যাচাই করা আগমন কাউন্টারের তথ্য Quest আর Nova Tangle-কে দেখায়। বাকি চারজন একই সারিতে সরঞ্জামের বাক্স নিয়ে অপেক্ষা করে।\n\nTangle: \"স্বাগত। আগে আগমনের কাগজপত্র দেখব, তারপর চালানের নথি।\"",
+        "Bash কাউন্টারে এলে Tangle কাগজের অপরিচিত একটি নাম পড়তে গিয়ে থামে। Bash তাকে সঠিকভাবে বলার সময় দেয়। একটু থামতে হয়েছে বলে কাউকে নিয়ে ঠাট্টা করতে হবে না।\n\nBash: \"আমার নামটা আবার বলতে পারি। তাড়া নেই।\"",
+        "আগমনের কাগজ পরীক্ষা করতে গিয়ে Tangle দেখে, নথির ঝাপসা নোট পড়ে সে তাদের ভুল কাউন্টারে পাঠিয়েছে। ভুল সংশোধন করে একই ছাওয়া পথের পাশের কাউন্টারে নিয়ে যায়।\n\nTangle: \"আমার ভুল হয়েছে। চালানের খাতাটি পাশের কাউন্টারে।\"",
+        "সঠিক কাউন্টারে Hush খোলসের নকশা আর Sigh-এর রসিদের নকল রাখে। প্রশ্নটি পরিষ্কার: জোড়ার অন্য লেন্সটি কোন পার্সেলে ছিল, আর পার্সেলটি এরপর কোথায় গেছে?\n\nHush [ইশারার ভাষায়]: \"এই চালানে জোড়ার অন্য লেন্সটিকে খুঁজছি।\"",
+        "পানির দাগ পড়া বন্দরের খাতায় Tangle মিলে যাওয়া নথিটি পায়। পরীক্ষা করার জন্য কারখানা লেন্সটি ফেরত পাঠিয়েছিল। কিন্তু গন্তব্যের নামটি পড়া যাচ্ছে না। প্রদর্শনীর দোকান ফেরত পাঠানোর কাজটি সামলেছিল, তাই তাদের আলাদা নথি থাকার কথা।\n\nTangle: \"ফেরত যাওয়ার কথা লেখা আছে। দোকানে পাঠানোর কাগজের পাঠযোগ্য নকল থাকতে পারে।\"",
+        "দোকানটি বন্দরের রাস্তা ধরেই, অন্য কোনো সীমান্তের ওপারে নয়। Quest ঠিকানা লিখে নেয়, আর Bash বাক্স বন্ধ করে। নতুন গন্তব্য ঠিক করার আগে ফেরত পাঠানোর নথিটি খুঁজতে হবে।\n\nQuest: \"তাহলে ওখানেই এবার যাব।\"",
+        "সেই সন্ধ্যায় Meadowfold-এ Puff দেখার ছোট ধাপটির কাছে থেমে কাছে আসার অনুমতি চায়। Rain খালি জায়গা আছে এমন দিকটি দেখায়। অনেক বড় হয়ে গেলেও কে কীভাবে কাছে আসবে, তা ঠিক করার অধিকার তারই।\n\nPuff: \"কাছে আসতে পারি?\"\nRain: \"হ্যাঁ। এই দিক দিয়ে।\""
+      ],
+      "introduction": "ফেরি বন্ধুদের Sigh-এর রসিদে লেখা Nacre দ্বীপে নিয়ে এসেছে। বন্দরের কাউন্টারে অপরিচিত নাম আর নষ্ট হয়ে যাওয়া নথির কিছু অংশ খোঁজের গতি কমায়। Tangle ভুল পথ শুধরে দেয়। পরের সূত্রটি আরেকটি ফেরত পাঠানো পার্সেলের।",
+      "title": "সীমান্তে একটি নাম"
+    },
+    "cs": {
+      "altTexts": [
+        "Následující ráno trajekt zakotví u ostrovního nábřeží v Nacre. Quest a Nova ukážou Tanglovi údaje o příjmové přepážce po ověření u Adore. Ostatní čtyři cestovatelé čekají s pouzdrem ve stejné frontě.",
+        "Když Bash přijde k přepážce, Tangle se zarazí u neznámého jména v dokladu. Bash mu dá čas, aby je vyslovil správně. Pauza u přepážky se nemusí proměnit ve vtip na něčí účet.",
+        "Po kontrole vstupních dokladů si Tangle všimne, že je rozmazaný zápis poslal k nesprávnému okénku evidence. Opraví chybu a dovede je k sousední přepážce na téže kryté chodbě.",
+        "U správné přepážky Hush rozloží kresbu pouzdra a kopii Sighova dokladu. Otázka je jasná: která zásilka obsahovala druhou čočku a kam pak putovala?",
+        "Tangle najde odpovídající zápis v přístavní knize poškozené vodou. Dílna vrátila čočku ke kontrole, ale údaj o cíli je nečitelný. Vrácení vyřizoval výstavní obchod, který by měl mít vlastní doklad o odeslání.",
+        "Obchod je dál po přístavní cestě, ne za další hranicí. Quest si opíše jeho adresu, zatímco Bash zavře pouzdro. Než zvolí další cíl, musejí najít záznam o vrácení.",
+        "Toho večera se Puff na louce Meadowfold zastaví u malého stupínku a zeptá se, zda může blíž. Rain zvolí stranu s volným prostorem. Ani mnohem větší tělo ho nepřipravilo o právo rozhodovat, jak se k němu návštěvy přiblíží."
+      ],
+      "captions": [
+        "Následující ráno trajekt zakotví u ostrovního nábřeží v Nacre. Quest a Nova ukážou Tanglovi údaje o příjmové přepážce po ověření u Adore. Ostatní čtyři cestovatelé čekají s pouzdrem ve stejné frontě.\n\nTangle: „Vítejte. Nejdřív vaše vstupní doklady, potom záznamy o zásilce.“",
+        "Když Bash přijde k přepážce, Tangle se zarazí u neznámého jména v dokladu. Bash mu dá čas, aby je vyslovil správně. Pauza u přepážky se nemusí proměnit ve vtip na něčí účet.\n\nBash: „Svoje jméno můžu zopakovat. Nespěchej.“",
+        "Po kontrole vstupních dokladů si Tangle všimne, že je rozmazaný zápis poslal k nesprávnému okénku evidence. Opraví chybu a dovede je k sousední přepážce na téže kryté chodbě.\n\nTangle: „To byla moje chyba. Kniha zásilek je vedle.“",
+        "U správné přepážky Hush rozloží kresbu pouzdra a kopii Sighova dokladu. Otázka je jasná: která zásilka obsahovala druhou čočku a kam pak putovala?\n\nHush [znakuje]: „Hledáme druhou čočku z tohoto páru v téhle zásilce.“",
+        "Tangle najde odpovídající zápis v přístavní knize poškozené vodou. Dílna vrátila čočku ke kontrole, ale údaj o cíli je nečitelný. Vrácení vyřizoval výstavní obchod, který by měl mít vlastní doklad o odeslání.\n\nTangle: „Vrácení je zapsané. Obchod možná stále má čitelnou kopii dokladu o odeslání.“",
+        "Obchod je dál po přístavní cestě, ne za další hranicí. Quest si opíše jeho adresu, zatímco Bash zavře pouzdro. Než zvolí další cíl, musejí najít záznam o vrácení.\n\nQuest: „Tam tedy zamíříme dál.“",
+        "Toho večera se Puff na louce Meadowfold zastaví u malého stupínku a zeptá se, zda může blíž. Rain zvolí stranu s volným prostorem. Ani mnohem větší tělo ho nepřipravilo o právo rozhodovat, jak se k němu návštěvy přiblíží.\n\nPuff: „Můžu přijít blíž?“\nRain: „Ano. Z téhle strany.“"
+      ],
+      "introduction": "Trajekt přivezl pátrací skupinu do Nacre, na ostrov uvedený v Sighově dokladu. U přístavních přepážek zpomalí hledání neznámá jména a poškozený záznam. Tangle pomůže opravit trasu a další stopou se stane vrácená zásilka.",
+      "title": "Jméno na hranici"
+    },
+    "de": {
+      "altTexts": [
+        "Am nächsten Morgen macht die Fähre am Inselkai von Nacre fest. Quest und Nova zeigen Tangle die von Adore überprüften Angaben zum Ankunftsschalter. Die anderen vier Reisenden warten mit dem Koffer in derselben Warteschlange.",
+        "Als Bash den Schreibtisch erreicht, hält Tangle über einem unbekannten Namen auf dem Dokument inne. Bash gibt ihm Zeit, es richtig zu machen. Eine Pause an einem Schalter muss nicht zu einem Scherz auf Kosten anderer werden.",
+        "Bei der Überprüfung der Ankunftspapiere stellt Tangle fest, dass sie aufgrund eines verschmierten Hauptbuchbelegs an den falschen Aktenschalter weitergeleitet wurden. Er korrigiert den Fehler und führt sie zum benachbarten Schalter, der sich immer noch auf demselben überdachten Gang befindet.",
+        "Am richtigen Schreibtisch legt Hush die Gehäuseskizze und die Kopie der Quittung von Sigh aus. Die Frage wird klar: Welches Paket enthielt die passende Linse und wohin ging dieses Paket als nächstes?",
+        "Tangle findet den passenden Eintrag in einem wassergetränkten Hafenbuch. Die Werkstatt hat die Linse zur Inspektion zurückgeschickt, aber der Zielort ist im Eintrag nicht mehr lesbar. Der Ausstellungsladen kümmerte sich um die Rücksendung und sollte über ein eigenes Versandprotokoll verfügen.",
+        "Der Laden liegt an der Hafenstraße, nicht jenseits einer anderen Grenze. Quest kopiert seine Adresse, während Bash den Koffer schließt. Ihr nächster Schritt besteht darin, den Rücksendenachweis zu finden, bevor sie ein anderes Ziel auswählen.",
+        "An diesem Abend, zurück bei Meadowfold, bleibt Puff an der kleinen Aussichtsstufe stehen und bittet darum, näher zu kommen. Rain wählt die Seite mit freiem Platz. Dass er viel größer ist, hat ihm nicht das Recht genommen, darüber zu entscheiden, wie Besucher in die Nähe kommen."
+      ],
+      "captions": [
+        "Am nächsten Morgen macht die Fähre am Inselkai von Nacre fest. Quest und Nova zeigen Tangle die von Adore überprüften Angaben zum Ankunftsschalter. Die anderen vier Reisenden warten mit dem Koffer in derselben Warteschlange.\n\nTangle: „Willkommen. Zuerst Ihre Ankunftspapiere, dann die Sendungsunterlagen.“",
+        "Als Bash den Schreibtisch erreicht, hält Tangle über einem unbekannten Namen auf dem Dokument inne. Bash gibt ihm Zeit, es richtig zu machen. Eine Pause an einem Schalter muss nicht zu einem Scherz auf Kosten anderer werden.\n\nBash: „Ich kann meinen Namen noch einmal sagen. Keine Eile.“",
+        "Bei der Überprüfung der Ankunftspapiere stellt Tangle fest, dass sie aufgrund eines verschmierten Hauptbuchbelegs an den falschen Aktenschalter weitergeleitet wurden. Er korrigiert den Fehler und führt sie zum benachbarten Schalter, der sich immer noch auf demselben überdachten Gang befindet.\n\nTangle: „Das war mein Fehler. Das Einlieferungsbuch liegt nebenan.“",
+        "Am richtigen Schreibtisch legt Hush die Gehäuseskizze und die Kopie der Quittung von Sigh aus. Die Frage wird klar: Welches Paket enthielt die passende Linse und wohin ging dieses Paket als nächstes?\n\nHush [gebärdet]: „Wir verfolgen die passende Linse in dieser Lieferung.“",
+        "Tangle findet den passenden Eintrag in einem wassergetränkten Hafenbuch. Die Werkstatt hat die Linse zur Inspektion zurückgeschickt, aber der Zielort ist im Eintrag nicht mehr lesbar. Der Ausstellungsladen kümmerte sich um die Rücksendung und sollte über ein eigenes Versandprotokoll verfügen.\n\nTangle: „Die Rücksendung ist vermerkt. Das Geschäft verfügt möglicherweise noch über die lesbare Versandkopie.“",
+        "Der Laden liegt an der Hafenstraße, nicht jenseits einer anderen Grenze. Quest kopiert seine Adresse, während Bash den Koffer schließt. Ihr nächster Schritt besteht darin, den Rücksendenachweis zu finden, bevor sie ein anderes Ziel auswählen.\n\nQuest: „Dann ist das unser nächster Halt.“",
+        "An diesem Abend, zurück bei Meadowfold, bleibt Puff an der kleinen Aussichtsstufe stehen und bittet darum, näher zu kommen. Rain wählt die Seite mit freiem Platz. Dass er viel größer ist, hat ihm nicht das Recht genommen, darüber zu entscheiden, wie Besucher in die Nähe kommen.\n\nPuff: „Darf ich näher kommen?“\nRain: „Ja. Von dieser Seite.“"
+      ],
+      "introduction": "Die Fähre hat die Ermittler zur Insel Nacre gebracht, der in der Quittung von Sigh genannten Insel. An den Hafenschaltern verlangsamen unbekannte Namen und ein beschädigter Eintrag die Suche. Tangle hilft dabei, die Route zu korrigieren, und der nächste Hinweis entpuppt sich als ein weiteres zurückgegebenes Paket.",
+      "title": "Ein Name an der Grenze"
+    },
+    "en": {
+      "altTexts": [
+        "The next morning, the ferry ties up at Nacre's island quay. Quest and Nova show Tangle the arrival-counter details Adore checked. The other four travelers wait with the case in the same queue.",
+        "When Bash reaches the desk, Tangle pauses over an unfamiliar name on the document. Bash gives him time to get it right. A pause at a counter need not become a joke at someone's expense.",
+        "With the arrival papers checked, Tangle notices that a smudged ledger note sent them toward the wrong records window. He corrects the mistake and leads them to the neighboring counter, still within the same covered walkway.",
+        "At the correct desk, Hush lays out the housing sketch and Sigh's copied receipt. The question becomes clear: which parcel carried the matching lens, and where did that parcel go next?",
+        "Tangle finds the matching entry in a water-stained harbor ledger. The workshop returned the lens for inspection, but the destination in the entry is unreadable. The exhibition store handled that return and should have its own dispatch record.",
+        "The store is along the harbor road, not across another border. Quest copies its address while Bash closes the case. Their next step is to find the return record before choosing another destination.",
+        "That evening, back at Meadowfold, Puff stops at the little viewing step and asks to approach. Rain chooses the side with clear space. Being much larger has not taken away his right to decide how visitors come near."
+      ],
+      "captions": [
+        "The next morning, the ferry ties up at Nacre's island quay. Quest and Nova show Tangle the arrival-counter details Adore checked. The other four travelers wait with the case in the same queue.\n\nTangle: “Welcome. First your arrival papers, then the consignment records.”",
+        "When Bash reaches the desk, Tangle pauses over an unfamiliar name on the document. Bash gives him time to get it right. A pause at a counter need not become a joke at someone's expense.\n\nBash: “I can say mine again. No rush.”",
+        "With the arrival papers checked, Tangle notices that a smudged ledger note sent them toward the wrong records window. He corrects the mistake and leads them to the neighboring counter, still within the same covered walkway.\n\nTangle: “That was my mistake. The consignment book is next door.”",
+        "At the correct desk, Hush lays out the housing sketch and Sigh's copied receipt. The question becomes clear: which parcel carried the matching lens, and where did that parcel go next?\n\nHush [signing]: “We're following the matching lens in this shipment.”",
+        "Tangle finds the matching entry in a water-stained harbor ledger. The workshop returned the lens for inspection, but the destination in the entry is unreadable. The exhibition store handled that return and should have its own dispatch record.\n\nTangle: “The return is recorded. The store may still have the readable dispatch copy.”",
+        "The store is along the harbor road, not across another border. Quest copies its address while Bash closes the case. Their next step is to find the return record before choosing another destination.\n\nQuest: “Then that's our next stop.”",
+        "That evening, back at Meadowfold, Puff stops at the little viewing step and asks to approach. Rain chooses the side with clear space. Being much larger has not taken away his right to decide how visitors come near.\n\nPuff: “May I come closer?”\nRain: “Yes. From this side.”"
+      ],
+      "introduction": "The ferry has brought the investigators to Nacre, the island named in Sigh's receipt. At the harbor counters, unfamiliar names and a damaged entry slow the search. Tangle helps correct the route, and the next clue turns out to be another returned parcel.",
+      "title": "A Name at the Border"
+    },
+    "es": {
+      "altTexts": [
+        "A la mañana siguiente, el ferry atraca en el muelle de la isla Nacre. Quest y Nova muestran a Tangle los datos del mostrador de llegadas que Adore verificó. Los otros cuatro viajeros esperan con el maletín en la misma cola.",
+        "Cuando Bash llega al escritorio, Tangle se detiene ante un nombre desconocido en el documento. Bash le da tiempo para hacerlo bien. Una pausa en un mostrador no tiene por qué convertirse en una broma a costa de alguien.",
+        "Con los documentos de llegada revisados, Tangle se da cuenta de que una nota del libro mayor borrosa los envió hacia la ventanilla de registros equivocada. Corrige el error y los lleva al mostrador vecino, todavía dentro del mismo pasillo cubierto.",
+        "En el escritorio correcto, Hush presenta el boceto de la carcasa y la copia del recibo de Sigh. La pregunta queda clara: ¿qué paquete llevaba la lente correspondiente y adónde fue después?",
+        "Tangle encuentra la entrada correspondiente en un libro de contabilidad del puerto manchado de agua. El taller devolvió la lente para su inspección, pero el destino ya no se puede leer en el registro. La tienda de exhibición se encargó de esa devolución y debería tener su propio registro de despacho.",
+        "La tienda está a lo largo de la carretera del puerto, no al otro lado de la frontera. Quest copia su dirección mientras Bash cierra el maletín. Su siguiente paso es encontrar el registro de devolución antes de elegir otro destino.",
+        "Esa noche, de vuelta en Meadowfold, Puff se detiene en el pequeño escalón de observación y pide acercarse. Rain elige el lado con espacio libre. Ser mucho más grande no le ha quitado el derecho a decidir cómo se acercan los visitantes."
+      ],
+      "captions": [
+        "A la mañana siguiente, el ferry atraca en el muelle de la isla Nacre. Quest y Nova muestran a Tangle los datos del mostrador de llegadas que Adore verificó. Los otros cuatro viajeros esperan con el maletín en la misma cola.\n\nTangle: \"Bienvenidos. Primero sus documentos de llegada, luego los registros de envío\".",
+        "Cuando Bash llega al escritorio, Tangle se detiene ante un nombre desconocido en el documento. Bash le da tiempo para hacerlo bien. Una pausa en un mostrador no tiene por qué convertirse en una broma a costa de alguien.\n\nBash: \"Puedo repetir el mío. No hay prisa\".",
+        "Con los documentos de llegada revisados, Tangle se da cuenta de que una nota del libro mayor borrosa los envió hacia la ventanilla de registros equivocada. Corrige el error y los lleva al mostrador vecino, todavía dentro del mismo pasillo cubierto.\n\nTangle: \"Ese fue mi error. El libro de envío está al lado\".",
+        "En el escritorio correcto, Hush presenta el boceto de la carcasa y la copia del recibo de Sigh. La pregunta queda clara: ¿qué paquete llevaba la lente correspondiente y adónde fue después?\n\nHush [en lengua de signos]: \"Estamos siguiendo la lente correspondiente en este envío\".",
+        "Tangle encuentra la entrada correspondiente en un libro de contabilidad del puerto manchado de agua. El taller devolvió la lente para su inspección, pero el destino ya no se puede leer en el registro. La tienda de exhibición se encargó de esa devolución y debería tener su propio registro de despacho.\n\nTangle: \"La devolución queda registrada. Es posible que la tienda aún tenga la copia de envío legible\".",
+        "La tienda está a lo largo de la carretera del puerto, no al otro lado de la frontera. Quest copia su dirección mientras Bash cierra el maletín. Su siguiente paso es encontrar el registro de devolución antes de elegir otro destino.\n\nQuest: \"Entonces esa será nuestra próxima parada\".",
+        "Esa noche, de vuelta en Meadowfold, Puff se detiene en el pequeño escalón de observación y pide acercarse. Rain elige el lado con espacio libre. Ser mucho más grande no le ha quitado el derecho a decidir cómo se acercan los visitantes.\n\nPuff: \"¿Puedo acercarme?\"\nRain: \"Sí. De este lado\"."
+      ],
+      "introduction": "El ferry llevó a los investigadores a Nacre, la isla nombrada en el recibo de Sigh. En los mostradores del puerto, nombres desconocidos y una anotación dañada ralentizan la búsqueda. Tangle ayuda a corregir la ruta y la siguiente pista resulta ser otro paquete devuelto.",
+      "title": "Un nombre en la frontera"
+    },
+    "fr": {
+      "altTexts": [
+        "Le lendemain matin, le ferry accoste au quai de l'île Nacre. Quest et Nova montrent à Tangle les renseignements sur le guichet d'arrivée vérifiés par Adore. Les quatre autres voyageurs attendent avec la valise dans la même file d'attente.",
+        "Lorsque Bash atteint le bureau, Tangle s'arrête sur un nom inconnu sur le document. Bash lui laisse le temps de bien faire les choses. Une pause au comptoir ne doit pas nécessairement devenir une plaisanterie aux dépens de quelqu'un.",
+        "Une fois les papiers d'arrivée vérifiés, Tangle remarque qu'une note tachée dans le grand livre les a envoyés vers le mauvais guichet des archives. Il corrige l'erreur et les conduit au comptoir voisin, toujours dans le même passage couvert.",
+        "Au bon bureau, Hush présente le croquis du boîtier et la copie du reçu de Sigh. La question devient claire : quel colis transportait la seconde lentille, et où est ensuite passé ce colis ?",
+        "Tangle trouve l'entrée correspondante dans un grand livre de port taché d'eau. L'atelier a renvoyé la lentille pour inspection, mais la destination est illisible dans le registre. Le magasin d'exposition s'occupait de ce retour et devrait disposer de son propre dossier d'expédition.",
+        "Le magasin se trouve le long de la route du port et non de l'autre côté d'une autre frontière. Quest copie son adresse tandis que Bash ferme la mallette. Leur prochaine étape consiste à retrouver l’enregistrement du retour avant de choisir une autre destination.",
+        "Ce soir-là, de retour à Meadowfold, Puff s'arrête à la petite plateforme à marches et demande à s'approcher. Rain choisit le côté avec un espace libre. Le fait d'être beaucoup plus grand ne lui a pas enlevé le droit de décider de la manière dont les visiteurs s'approchent."
+      ],
+      "captions": [
+        "Le lendemain matin, le ferry accoste au quai de l'île Nacre. Quest et Nova montrent à Tangle les renseignements sur le guichet d'arrivée vérifiés par Adore. Les quatre autres voyageurs attendent avec la valise dans la même file d'attente.\n\nTangle : « Bienvenue. D'abord vos papiers d'arrivée, puis les registres d'envoi. »",
+        "Lorsque Bash atteint le bureau, Tangle s'arrête sur un nom inconnu sur le document. Bash lui laisse le temps de bien faire les choses. Une pause au comptoir ne doit pas nécessairement devenir une plaisanterie aux dépens de quelqu'un.\n\nBash : « Je peux répéter mon nom. Prends ton temps. »",
+        "Une fois les papiers d'arrivée vérifiés, Tangle remarque qu'une note tachée dans le grand livre les a envoyés vers le mauvais guichet des archives. Il corrige l'erreur et les conduit au comptoir voisin, toujours dans le même passage couvert.\n\nTangle : « C'était mon erreur. Le livret de consignation est à côté. »",
+        "Au bon bureau, Hush présente le croquis du boîtier et la copie du reçu de Sigh. La question devient claire : quel colis transportait la seconde lentille, et où est ensuite passé ce colis ?\n\nHush [signe] : « Nous suivons la seconde lentille dans cet envoi. »",
+        "Tangle trouve l'entrée correspondante dans un grand livre de port taché d'eau. L'atelier a renvoyé la lentille pour inspection, mais la destination est illisible dans le registre. Le magasin d'exposition s'occupait de ce retour et devrait disposer de son propre dossier d'expédition.\n\nTangle : « Le retour est enregistré. Le magasin peut encore disposer de la copie d'expédition lisible. »",
+        "Le magasin se trouve le long de la route du port et non de l'autre côté d'une autre frontière. Quest copie son adresse tandis que Bash ferme la mallette. Leur prochaine étape consiste à retrouver l’enregistrement du retour avant de choisir une autre destination.\n\nQuest : « Alors ce sera notre prochaine étape. »",
+        "Ce soir-là, de retour à Meadowfold, Puff s'arrête à la petite plateforme à marches et demande à s'approcher. Rain choisit le côté avec un espace libre. Le fait d'être beaucoup plus grand ne lui a pas enlevé le droit de décider de la manière dont les visiteurs s'approchent.\n\nPuff : « Puis-je me rapprocher ? »\nRain : « Oui. De ce côté. »"
+      ],
+      "introduction": "Le ferry a amené les enquêteurs à Nacre, l'île mentionnée sur le reçu de Sigh. Aux guichets du port, des noms inconnus et une inscription abîmée ralentissent les recherches. Tangle aide à corriger l'itinéraire, et le prochain indice s'avère être un autre colis retourné.",
+      "title": "Un nom à la frontière"
+    },
+    "hi": {
+      "altTexts": [
+        "अगली सुबह नौका Nacre के द्वीप-घाट पर लगती है। Quest और Nova, Tangle को आगमन काउंटर का वह विवरण दिखाते हैं जिसे Adore ने जाँचा था। बाकी चार यात्री सामान के बक्से के साथ उसी कतार में प्रतीक्षा करते हैं।",
+        "Bash काउंटर पर आता है तो Tangle कागज़ में अनजान नाम पढ़ते हुए रुकता है। Bash उसे सही बोलने का समय देता है। नाम बोलने में देर लगे तो भी किसी का मज़ाक नहीं बनाना चाहिए।",
+        "आगमन के कागज़ देखते हुए Tangle समझता है कि बही-खाते का धुँधला नोट पढ़कर उसने गलत काउंटर बताया था। वह गलती सुधारकर उसी छत वाले रास्ते के पास के काउंटर पर ले जाता है।",
+        "सही काउंटर पर Hush खोल का नक्शा और Sigh की रसीद की प्रति रखता है। सवाल साफ़ है: जोड़ी का दूसरा लेंस किस पार्सल में था और वह आगे कहाँ गया?",
+        "पानी के दाग वाले बंदरगाह के बही-खाते में Tangle सही प्रविष्टि पाता है। कार्यशाला ने लेंस जाँच के लिए लौटाया था, मगर दर्ज गंतव्य पढ़ा नहीं जा रहा। प्रदर्शनी की दुकान ने उसे वापस भेजा था, इसलिए वहाँ अपना रिकॉर्ड होना चाहिए।",
+        "दुकान बंदरगाह की सड़क पर ही है, किसी और सीमा के पार नहीं। Quest पता लिखता है और Bash बक्सा बंद करता है। नया गंतव्य चुनने से पहले वापसी का रिकॉर्ड खोजना होगा।",
+        "उस शाम Meadowfold में Puff छोटे देखने वाले चबूतरे पर रुककर पास आने की अनुमति माँगता है। Rain खाली जगह वाली तरफ़ दिखाता है। बड़ा हो जाने पर भी कौन कैसे पास आए, यह तय करने का हक उसका है।"
+      ],
+      "captions": [
+        "अगली सुबह नौका Nacre के द्वीप-घाट पर लगती है। Quest और Nova, Tangle को आगमन काउंटर का वह विवरण दिखाते हैं जिसे Adore ने जाँचा था। बाकी चार यात्री सामान के बक्से के साथ उसी कतार में प्रतीक्षा करते हैं।\n\nTangle: “स्वागत है। पहले आपके आगमन के कागज़ात, फिर खेप के अभिलेख।”",
+        "Bash काउंटर पर आता है तो Tangle कागज़ में अनजान नाम पढ़ते हुए रुकता है। Bash उसे सही बोलने का समय देता है। नाम बोलने में देर लगे तो भी किसी का मज़ाक नहीं बनाना चाहिए।\n\nBash: \"अपना नाम फिर बता सकता हूँ। कोई जल्दी नहीं।\"",
+        "आगमन के कागज़ देखते हुए Tangle समझता है कि बही-खाते का धुँधला नोट पढ़कर उसने गलत काउंटर बताया था। वह गलती सुधारकर उसी छत वाले रास्ते के पास के काउंटर पर ले जाता है।\n\nTangle: \"मेरी गलती थी। माल का बही-खाता बगल में है।\"",
+        "सही काउंटर पर Hush खोल का नक्शा और Sigh की रसीद की प्रति रखता है। सवाल साफ़ है: जोड़ी का दूसरा लेंस किस पार्सल में था और वह आगे कहाँ गया?\n\nHush [सांकेतिक भाषा में]: \"इस खेप में जोड़ी का दूसरा लेंस खोज रहे हैं।\"",
+        "पानी के दाग वाले बंदरगाह के बही-खाते में Tangle सही प्रविष्टि पाता है। कार्यशाला ने लेंस जाँच के लिए लौटाया था, मगर दर्ज गंतव्य पढ़ा नहीं जा रहा। प्रदर्शनी की दुकान ने उसे वापस भेजा था, इसलिए वहाँ अपना रिकॉर्ड होना चाहिए।\n\nTangle: \"लौटाने की बात दर्ज है। दुकान में भेजने के कागज़ की पढ़ने लायक प्रति हो सकती है।\"",
+        "दुकान बंदरगाह की सड़क पर ही है, किसी और सीमा के पार नहीं। Quest पता लिखता है और Bash बक्सा बंद करता है। नया गंतव्य चुनने से पहले वापसी का रिकॉर्ड खोजना होगा।\n\nQuest: \"तो वही हमारा अगला पड़ाव है।\"",
+        "उस शाम Meadowfold में Puff छोटे देखने वाले चबूतरे पर रुककर पास आने की अनुमति माँगता है। Rain खाली जगह वाली तरफ़ दिखाता है। बड़ा हो जाने पर भी कौन कैसे पास आए, यह तय करने का हक उसका है।\n\nPuff: \"पास आ सकता हूँ?\"\nRain: \"हाँ। इस तरफ़ से।\""
+      ],
+      "introduction": "नौका दोस्तों को Sigh की रसीद में लिखे Nacre द्वीप लाई है। बंदरगाह पर अनजान नाम और खराब रिकॉर्ड खोज धीमी करते हैं। Tangle रास्ता सुधारता है। अगला सुराग फिर लौटाए गए एक पार्सल का निकलता है।",
+      "title": "सीमा पर एक नाम"
+    },
+    "id": {
+      "altTexts": [
+        "Keesokan paginya, kapal feri berhenti di dermaga pulau Nacre. Quest dan Nova menunjukkan kepada Tangle rincian loket kedatangan yang diperiksa Adore. Empat teman lainnya menunggu dengan membawa koper dalam antrian yang sama.",
+        "Saat Bash sampai di meja, Tangle berhenti sejenak di atas nama asing di dokumen. Bash memberinya waktu untuk melakukannya dengan benar. Jeda di konter tidak perlu menjadi lelucon yang merugikan seseorang.",
+        "Setelah kertas kedatangan diperiksa, Tangle menyadari bahwa catatan buku besar yang tercoreng mengirim mereka ke loket pencatatan yang salah. Dia memperbaiki kesalahannya dan membawa mereka ke konter tetangga, masih di lorong beratap yang sama.",
+        "Di meja yang benar, Hush memaparkan sketsa rumah wadah dan salinan tanda terima Sigh. Pertanyaannya menjadi jelas: paket manakah yang membawa lensa yang cocok, dan ke mana paket tersebut selanjutnya?",
+        "Tangle menemukan entri yang cocok di buku besar pelabuhan yang ternoda air. Bengkel mengembalikan lensa untuk diperiksa, tetapi tujuannya tidak lagi terbaca. Toko pameran menangani pengembalian tersebut dan harus memiliki catatan pengirimannya sendiri.",
+        "Toko itu berada di sepanjang jalan pelabuhan, bukan di seberang perbatasan. Quest menyalin alamatnya sementara Bash menutup kopernya. Langkah mereka selanjutnya adalah menemukan catatan pengembalian barang sebelum memilih tujuan lain.",
+        "Malam itu, kembali ke Meadowfold, Puff berhenti di anak tangga kecil dan meminta untuk mendekat. Rain memilih sisi dengan ruang kosong. Menjadi jauh lebih besar tidak menghilangkan haknya untuk memutuskan bagaimana pengunjung akan mendekat."
+      ],
+      "captions": [
+        "Keesokan paginya, kapal feri berhenti di dermaga pulau Nacre. Quest dan Nova menunjukkan kepada Tangle rincian loket kedatangan yang diperiksa Adore. Empat teman lainnya menunggu dengan membawa koper dalam antrian yang sama.\n\nTangle: \"Selamat datang. Pertama surat kedatangan kamu, lalu catatan pengiriman.\"",
+        "Saat Bash sampai di meja, Tangle berhenti sejenak di atas nama asing di dokumen. Bash memberinya waktu untuk melakukannya dengan benar. Jeda di konter tidak perlu menjadi lelucon yang merugikan seseorang.\n\nBash: “Aku bisa mengatakannya lagi. Jangan terburu-buru.”",
+        "Setelah kertas kedatangan diperiksa, Tangle menyadari bahwa catatan buku besar yang tercoreng mengirim mereka ke loket pencatatan yang salah. Dia memperbaiki kesalahannya dan membawa mereka ke konter tetangga, masih di lorong beratap yang sama.\n\nTangle: \"Itu kesalahanku. Buku konsinyasi ada di sebelah.\"",
+        "Di meja yang benar, Hush memaparkan sketsa rumah wadah dan salinan tanda terima Sigh. Pertanyaannya menjadi jelas: paket manakah yang membawa lensa yang cocok, dan ke mana paket tersebut selanjutnya?\n\nHush [berbahasa isyarat]: “Kami mengikuti lensa yang cocok dalam pengiriman ini.”",
+        "Tangle menemukan entri yang cocok di buku besar pelabuhan yang ternoda air. Bengkel mengembalikan lensa untuk diperiksa, tetapi tujuannya tidak lagi terbaca. Toko pameran menangani pengembalian tersebut dan harus memiliki catatan pengirimannya sendiri.\n\nTangle: \"Pengembalian dicatat. Toko mungkin masih memiliki salinan pengiriman yang dapat dibaca.\"",
+        "Toko itu berada di sepanjang jalan pelabuhan, bukan di seberang perbatasan. Quest menyalin alamatnya sementara Bash menutup kopernya. Langkah mereka selanjutnya adalah menemukan catatan pengembalian barang sebelum memilih tujuan lain.\n\nQuest: “Kalau begitu, itulah tujuan kita berikutnya.”",
+        "Malam itu, kembali ke Meadowfold, Puff berhenti di anak tangga kecil dan meminta untuk mendekat. Rain memilih sisi dengan ruang kosong. Menjadi jauh lebih besar tidak menghilangkan haknya untuk memutuskan bagaimana pengunjung akan mendekat.\n\nPuff: “Bolehkah aku mendekat?”\nRain: \"Ya. Dari sisi ini.\""
+      ],
+      "introduction": "Kapal feri telah membawa penyelidik ke Nacre, pulau yang disebutkan dalam kuitansi Sigh. Di loket pelabuhan, nama-nama asing dan entri yang rusak memperlambat pencarian. Tangle membantu memperbaiki rute, dan petunjuk selanjutnya adalah paket lain yang dikembalikan.",
+      "title": "Sebuah Nama di Perbatasan"
+    },
+    "it": {
+      "altTexts": [
+        "La mattina successiva, il traghetto attracca al molo dell'isola di Nacre. Quest e Nova mostrano a Tangle i dati dello sportello arrivi verificati da Adore. Gli altri quattro viaggiatori aspettano con la valigia nella stessa fila.",
+        "Quando Bash raggiunge la scrivania, Tangle si ferma su un nome sconosciuto sul documento. Bash gli dà il tempo di farlo bene. Una sosta al bancone non deve diventare uno scherzo a spese di qualcuno.",
+        "Dopo aver controllato i documenti di arrivo, Tangle nota che una nota macchiata sul registro li ha inviati allo sportello dei registri sbagliato. Corregge l'errore e li conduce al bancone vicino, sempre all'interno dello stesso passaggio coperto.",
+        "Alla scrivania corretta, Hush espone lo schizzo dell'alloggiamento e la ricevuta copiata di Sigh. La domanda diventa chiara: quale pacco trasportava la lente corrispondente e dove è andato poi quel pacco?",
+        "Tangle trova la voce corrispondente in un registro portuale macchiato d'acqua. L'officina ha restituito la lente per l'ispezione, ma la destinazione annotata è illeggibile. Il negozio espositivo ha gestito il reso e dovrebbe avere un proprio registro delle spedizioni.",
+        "Il negozio è lungo la strada del porto, non oltre il confine. Quest copia il suo indirizzo mentre Bash chiude la valigetta. Il passo successivo è trovare il registro del reso prima di scegliere un'altra destinazione.",
+        "Quella sera, a Meadowfold, Puff si ferma al piccolo gradino di osservazione e chiede di avvicinarsi. Rain sceglie il lato con spazio libero. Il fatto di essere molto più grande non gli ha tolto il diritto di decidere come possono avvicinarsi i visitatori."
+      ],
+      "captions": [
+        "La mattina successiva, il traghetto attracca al molo dell'isola di Nacre. Quest e Nova mostrano a Tangle i dati dello sportello arrivi verificati da Adore. Gli altri quattro viaggiatori aspettano con la valigia nella stessa fila.\n\nTangle: \"Benvenuti. Prima i documenti di arrivo, poi i registri di spedizione.\"",
+        "Quando Bash raggiunge la scrivania, Tangle si ferma su un nome sconosciuto sul documento. Bash gli dà il tempo di farlo bene. Una sosta al bancone non deve diventare uno scherzo a spese di qualcuno.\n\nBash: \"Posso ripetere il mio nome. Senza fretta.\"",
+        "Dopo aver controllato i documenti di arrivo, Tangle nota che una nota macchiata sul registro li ha inviati allo sportello dei registri sbagliato. Corregge l'errore e li conduce al bancone vicino, sempre all'interno dello stesso passaggio coperto.\n\nTangle: \"È stato un mio errore. Il libretto di spedizione è lì accanto.\"",
+        "Alla scrivania corretta, Hush espone lo schizzo dell'alloggiamento e la ricevuta copiata di Sigh. La domanda diventa chiara: quale pacco trasportava la lente corrispondente e dove è andato poi quel pacco?\n\nHush [in lingua dei segni]: \"Stiamo seguendo la seconda lente in questa spedizione.\"",
+        "Tangle trova la voce corrispondente in un registro portuale macchiato d'acqua. L'officina ha restituito la lente per l'ispezione, ma la destinazione annotata è illeggibile. Il negozio espositivo ha gestito il reso e dovrebbe avere un proprio registro delle spedizioni.\n\nTangle: \"Il reso è registrato. Il negozio potrebbe ancora avere la copia leggibile della spedizione.\"",
+        "Il negozio è lungo la strada del porto, non oltre il confine. Quest copia il suo indirizzo mentre Bash chiude la valigetta. Il passo successivo è trovare il registro del reso prima di scegliere un'altra destinazione.\n\nQuest: \"Allora sarà la nostra prossima tappa.\"",
+        "Quella sera, a Meadowfold, Puff si ferma al piccolo gradino di osservazione e chiede di avvicinarsi. Rain sceglie il lato con spazio libero. Il fatto di essere molto più grande non gli ha tolto il diritto di decidere come possono avvicinarsi i visitatori.\n\nPuff: “Posso avvicinarmi?”\nRain: \"Sì. Da questa parte.\""
+      ],
+      "introduction": "Il traghetto ha portato gli investigatori a Nacre, l'isola menzionata nella ricevuta di Sigh. Agli sportelli del porto, nomi sconosciuti e una registrazione illeggibile rallentano la ricerca. Tangle aiuta a correggere il percorso e l'indizio successivo risulta essere un altro pacco restituito.",
+      "title": "Un nome al confine"
+    },
+    "ja": {
+      "altTexts": [
+        "翌朝、フェリーはNacreの島の岸壁に到着します。 Quest および Nova は、Adore がチェックした到着窓口の資料をTangleに見せます。他の 4 人の旅行者は同じ列でケースを持って待っています。",
+        "Bash がデスクに着くと、Tangleは書類にある見慣れない名前を見て、言葉に詰まります。Bashは、正しく読めるよう落ち着いて待ちます。カウンターでの一時停止が、誰かを犠牲にして冗談になる必要はありません。",
+        "到着書類をチェックした Tangle は、にじんだ帳簿の記載を読み違え、みんなを別の記録窓口に案内してしまったことに気づきました。彼は間違いを正し、同じ屋根付き通路内にある隣のカウンターに案内します。",
+        "正しいデスクでは、Hush が筐体のスケッチと Sigh のコピーした領収書を並べます。問題は明らかになります。どの小包に適合するレンズが入っていたのか、そしてその小包は次にどこへ行ったのでしょうか?",
+        "Tangle は、水で汚れた港の台帳から一致するエントリを見つけます。工房は検査のためレンズを返送したが、送り先の記載が傷んで読めなくなっていました。展示ストアはその返品を処理しており、独自の発送記録を持っているはずです。",
+        "店は港沿いの道にあり、また国境を越える必要はありません。Bashがケースを閉じる間、Questは住所を書き写します。次のステップは、別の目的地を選択する前に返送記録を見つけることです。",
+        "その夜、Meadowfold に戻ると、Puff は小さな展望台で立ち止まり、近づいてもよいか尋ねました。 Rain はスペースのある側を選択します。はるかに大きくなっても、訪問者がどのように近づくかを決定する権利が奪われたわけではありません。"
+      ],
+      "captions": [
+        "翌朝、フェリーはNacreの島の岸壁に到着します。 Quest および Nova は、Adore がチェックした到着窓口の資料をTangleに見せます。他の 4 人の旅行者は同じ列でケースを持って待っています。\n\nTangle: 「ようこそ。まず到着書類、それから積荷記録です。」",
+        "Bash がデスクに着くと、Tangleは書類にある見慣れない名前を見て、言葉に詰まります。Bashは、正しく読めるよう落ち着いて待ちます。カウンターでの一時停止が、誰かを犠牲にして冗談になる必要はありません。\n\nBash: 「もう一度言ってみます。急ぐ必要はありません。」",
+        "到着書類をチェックした Tangle は、にじんだ帳簿の記載を読み違え、みんなを別の記録窓口に案内してしまったことに気づきました。彼は間違いを正し、同じ屋根付き通路内にある隣のカウンターに案内します。\n\nTangle: 「それは私の間違いでした。積荷の台帳は隣にあります。」",
+        "正しいデスクでは、Hush が筐体のスケッチと Sigh のコピーした領収書を並べます。問題は明らかになります。どの小包に適合するレンズが入っていたのか、そしてその小包は次にどこへ行ったのでしょうか?\n\nHush [手話]: 「この荷物に入っていた、対になるレンズを追っています。」",
+        "Tangle は、水で汚れた港の台帳から一致するエントリを見つけます。工房は検査のためレンズを返送したが、送り先の記載が傷んで読めなくなっていました。展示ストアはその返品を処理しており、独自の発送記録を持っているはずです。\n\nTangle: 「返品は記録されています。ストアには読み取り可能な発送コピーがまだ残っている可能性があります。」",
+        "店は港沿いの道にあり、また国境を越える必要はありません。Bashがケースを閉じる間、Questは住所を書き写します。次のステップは、別の目的地を選択する前に返送記録を見つけることです。\n\nQuest: 「では、次はその店を訪ねましょう。」",
+        "その夜、Meadowfold に戻ると、Puff は小さな展望台で立ち止まり、近づいてもよいか尋ねました。 Rain はスペースのある側を選択します。はるかに大きくなっても、訪問者がどのように近づくかを決定する権利が奪われたわけではありません。\n\nPuff: 「もっと近づいてもいいですか？」\nRain: 「はい。こちら側からです。」"
+      ],
+      "introduction": "フェリーは調査する仲間らをSighの領収書に記載されている島であるNacreに連れて行った。港のカウンターでは、見慣れない名前と傷んだ記録のため、捜索が遅れています。 Tangle はルートの修正に役立ち、次の手掛かりは別の返送された小包であることが判明します。",
+      "title": "国境にある名前"
+    },
+    "ko": {
+      "altTexts": [
+        "다음날 아침 페리는 Nacre의 섬 부두에 정박합니다. Quest와 Nova는 Adore가 확인해 준 입국 창구 정보를 Tangle에게 보여 줍니다. 다른 네 명의 여행자는 같은 대기열에 케이스를 들고 기다립니다.",
+        "Bash가 책상에 도착하자 Tangle은 문서에 적힌 낯선 이름 위에 잠시 멈춥니다. Bash는 그가 이름을 제대로 읽을 수 있도록 기다려 줍니다. 잠깐 말이 막혔다고 누군가를 놀림거리로 삼을 필요는 없습니다.",
+        "도착 서류를 확인한 Tangle은 얼룩진 장부 메모를 잘못 읽어 엉뚱한 기록 창구로 안내했음을 알아차립니다. 그는 실수를 정정하고 여전히 지붕이 덮인 동일한 통로 내에 있는 옆 카운터로 안내합니다.",
+        "올바른 책상에 Hush가 하우징 스케치와 Sigh의 영수증 사본을 배치합니다. 질문은 명확해집니다. 어느 소포에 일치하는 렌즈가 들어 있었고, 그 소포는 다음에는 어디로 갔습니까?",
+        "Tangle은 물에 젖은 항구 장부에서 일치하는 항목을 찾습니다. 작업장에서 검사를 위해 렌즈를 반송했는데 장부의 배송지 기록이 손상되어 읽을 수 없습니다. 전시 매장에서는 해당 반품을 처리했으며 자체 배송 기록을 보유해야 합니다.",
+        "가게는 다른 국경 너머가 아닌 항구 도로를 따라 위치해 있습니다. Quest는 주소를 복사하고 Bash는 케이스를 닫습니다. 다음 단계는 다른 목적지를 선택하기 전에 반송 기록을 찾는 것입니다.",
+        "그날 저녁, Meadowfold로 돌아온 Puff는 작은 관찰용 발판에서 멈추고 접근을 요청합니다. Rain은 공간이 있는 쪽을 선택합니다. 훨씬 더 크다고 해서 방문자가 어떻게 접근할지 결정할 권리가 박탈된 것은 아닙니다."
+      ],
+      "captions": [
+        "다음날 아침 페리는 Nacre의 섬 부두에 정박합니다. Quest와 Nova는 Adore가 확인해 준 입국 창구 정보를 Tangle에게 보여 줍니다. 다른 네 명의 여행자는 같은 대기열에 케이스를 들고 기다립니다.\n\nTangle: \"환영합니다. 먼저 도착 서류를 확인하고, 그다음 운송 기록을 살펴보죠.\"",
+        "Bash가 책상에 도착하자 Tangle은 문서에 적힌 낯선 이름 위에 잠시 멈춥니다. Bash는 그가 이름을 제대로 읽을 수 있도록 기다려 줍니다. 잠깐 말이 막혔다고 누군가를 놀림거리로 삼을 필요는 없습니다.\n\nBash: \"다시 한 번 말씀드리겠습니다. 서두르지 마세요.\"",
+        "도착 서류를 확인한 Tangle은 얼룩진 장부 메모를 잘못 읽어 엉뚱한 기록 창구로 안내했음을 알아차립니다. 그는 실수를 정정하고 여전히 지붕이 덮인 동일한 통로 내에 있는 옆 카운터로 안내합니다.\n\nTangle: \"그건 내 실수였어요. 위탁장은 옆집에 있어요.\"",
+        "올바른 책상에 Hush가 하우징 스케치와 Sigh의 영수증 사본을 배치합니다. 질문은 명확해집니다. 어느 소포에 일치하는 렌즈가 들어 있었고, 그 소포는 다음에는 어디로 갔습니까?\n\nHush [수어]: “우리는 이번 배송에서 일치하는 렌즈를 따르고 있습니다.”",
+        "Tangle은 물에 젖은 항구 장부에서 일치하는 항목을 찾습니다. 작업장에서 검사를 위해 렌즈를 반송했는데 장부의 배송지 기록이 손상되어 읽을 수 없습니다. 전시 매장에서는 해당 반품을 처리했으며 자체 배송 기록을 보유해야 합니다.\n\nTangle: \"반품이 기록되었습니다. 상점에는 여전히 읽을 수 있는 발송 사본이 있을 수 있습니다.\"",
+        "가게는 다른 국경 너머가 아닌 항구 도로를 따라 위치해 있습니다. Quest는 주소를 복사하고 Bash는 케이스를 닫습니다. 다음 단계는 다른 목적지를 선택하기 전에 반송 기록을 찾는 것입니다.\n\nQuest: \"그럼 다음에는 그 가게로 가 봅시다.\"",
+        "그날 저녁, Meadowfold로 돌아온 Puff는 작은 관찰용 발판에서 멈추고 접근을 요청합니다. Rain은 공간이 있는 쪽을 선택합니다. 훨씬 더 크다고 해서 방문자가 어떻게 접근할지 결정할 권리가 박탈된 것은 아닙니다.\n\nPuff: “더 가까이 와도 될까요?”\nRain: \"네. 이쪽에서요.\""
+      ],
+      "introduction": "페리는 조사관을 Sigh의 영수증에 이름이 지정된 섬인 Nacre로 데려왔습니다. 항구 카운터에서는 낯선 이름과 손상된 항목으로 인해 조사 속도가 느려집니다. Tangle은 경로를 수정하는 데 도움을 주었고 다음 단서는 또 다른 반송된 소포로 밝혀졌습니다.",
+      "title": "국경의 이름"
+    },
+    "pl": {
+      "altTexts": [
+        "Następnego ranka prom wpływa do nabrzeża na wyspie Nacre. Quest i Nova pokazują dane stanowiska obsługi przybywających, sprawdzone wcześniej w warsztacie Adore. Tangle przyjmuje ich dokumenty. Pozostali czterej podróżni czekają z walizką w tej samej kolejce.",
+        "Kiedy Bash dotrze do biurka, Tangle zatrzymuje się nad nieznanym nazwiskiem na dokumencie. Bash daje mu czas na zrobienie tego dobrze. Przerwa przy ladzie nie musi stać się żartem czyimś kosztem.",
+        "Po sprawdzeniu dokumentów przybycia Tangle zauważa, że zamazana notatka księgowa skierowała ich do niewłaściwego okienka ewidencji. Naprawia błąd i prowadzi ich do sąsiedniego kontuaru, wciąż w tym samym zadaszonym przejściu.",
+        "Na właściwym biurku Hush kładzie szkic obudowy i skopiowane pokwitowanie Sigha. Pytanie staje się jasne: w której paczce znajdowała się druga soczewka i dokąd ta paczka trafiła dalej?",
+        "Tangle znajduje pasujący wpis w zalanej wodą księdze portowej. Warsztat zwrócił soczewkę do sprawdzenia, ale we wpisie nie da się odczytać miejsca docelowego. Sklep wystawowy zajął się tym zwrotem i powinien mieć własny rejestr wysyłek.",
+        "Sklep znajduje się przy drodze portowej, a nie za inną granicą. Quest przepisuje adres sklepu, a Bash zamyka walizkę. Następnym krokiem jest znalezienie zapisu dotyczącego zwrotu przed wybraniem innego miejsca docelowego.",
+        "Tego wieczoru, na łące Meadowfold, Puff zatrzymuje się na małym stopniu widokowym i prosi o podejście. Rain wybiera stronę z wolną przestrzenią. To, że jest znacznie większy, nie odbiera mu prawa do decydowania o tym, w jaki sposób odwiedzający się zbliżają."
+      ],
+      "captions": [
+        "Następnego ranka prom wpływa do nabrzeża na wyspie Nacre. Quest i Nova pokazują dane stanowiska obsługi przybywających, sprawdzone wcześniej w warsztacie Adore. Tangle przyjmuje ich dokumenty. Pozostali czterej podróżni czekają z walizką w tej samej kolejce.\n\nTangle: \"Witamy. Najpierw dokumenty przybycia, potem zapisy przesyłek.\"",
+        "Kiedy Bash dotrze do biurka, Tangle zatrzymuje się nad nieznanym nazwiskiem na dokumencie. Bash daje mu czas na zrobienie tego dobrze. Przerwa przy ladzie nie musi stać się żartem czyimś kosztem.\n\nBash: \"Mogę jeszcze raz powiedzieć, jak mam na imię. Bez pośpiechu.\"",
+        "Po sprawdzeniu dokumentów przybycia Tangle zauważa, że zamazana notatka księgowa skierowała ich do niewłaściwego okienka ewidencji. Naprawia błąd i prowadzi ich do sąsiedniego kontuaru, wciąż w tym samym zadaszonym przejściu.\n\nTangle: \"To był mój błąd. Książka przewozowa jest obok.\"",
+        "Na właściwym biurku Hush kładzie szkic obudowy i skopiowane pokwitowanie Sigha. Pytanie staje się jasne: w której paczce znajdowała się druga soczewka i dokąd ta paczka trafiła dalej?\n\nHush [w języku migowym]: „Śledzimy trasę drugiej soczewki w tej dostawie”.",
+        "Tangle znajduje pasujący wpis w zalanej wodą księdze portowej. Warsztat zwrócił soczewkę do sprawdzenia, ale we wpisie nie da się odczytać miejsca docelowego. Sklep wystawowy zajął się tym zwrotem i powinien mieć własny rejestr wysyłek.\n\nTangle: \"Zwrot został odnotowany. Sklep może nadal posiadać czytelny dokument wysyłki. \"",
+        "Sklep znajduje się przy drodze portowej, a nie za inną granicą. Quest przepisuje adres sklepu, a Bash zamyka walizkę. Następnym krokiem jest znalezienie zapisu dotyczącego zwrotu przed wybraniem innego miejsca docelowego.\n\nQuest: „W takim razie to nasz następny przystanek.”",
+        "Tego wieczoru, na łące Meadowfold, Puff zatrzymuje się na małym stopniu widokowym i prosi o podejście. Rain wybiera stronę z wolną przestrzenią. To, że jest znacznie większy, nie odbiera mu prawa do decydowania o tym, w jaki sposób odwiedzający się zbliżają.\n\nPuff: „Czy mogę podejść bliżej?”\nRain: \"Tak. Z tej strony.\""
+      ],
+      "introduction": "Prom przywiózł badaczy na Nacre, wyspę wymienioną na pokwitowaniu Sigha. Na stanowiskach portowych nieznane nazwiska i uszkodzony wpis spowalniają poszukiwania. Tangle pomaga skorygować trasę, a kolejną wskazówką okazuje się kolejna zwrócona przesyłka.",
+      "title": "Imię na granicy"
+    },
+    "pt": {
+      "altTexts": [
+        "Na manhã seguinte, a balsa atraca no cais da ilha de Nacre. Quest e Nova mostram a Tangle os dados do balcão de chegada que Adore verificou. Os outros quatro viajantes aguardam com a maleta na mesma fila.",
+        "Quando Bash chega à mesa, Tangle faz uma pausa sobre um nome desconhecido no documento. Bash dá a ele tempo para acertar. Uma pausa no balcão não precisa se tornar uma piada às custas de alguém.",
+        "Com os documentos de chegada verificados, Tangle percebe que uma nota contábil borrada os enviou para o guichê de registros errado. Ele corrige o erro e os conduz até o balcão vizinho, ainda na mesma passarela coberta.",
+        "Na mesa correta, Hush expõe o desenho da carcaça e a cópia do recibo de Sigh. A questão fica clara: qual pacote carregava a lente correspondente e para onde foi esse pacote em seguida?",
+        "Tangle encontra a entrada correspondente em um livro-razão do porto manchado de água. A oficina devolveu a lente para inspeção, mas não é possível ler o destino na anotação. A loja expositora cuidou dessa devolução e deverá ter seu próprio registro de despacho.",
+        "A loja fica ao longo da estrada do porto, e não do outro lado da fronteira. Quest copia seu endereço enquanto Bash fecha a maleta. O próximo passo é encontrar o registro de retorno antes de escolher outro destino.",
+        "Naquela noite, de volta a Meadowfold, Puff para no pequeno degrau de observação e pede para se aproximar. Rain escolhe o lado com espaço livre. Ser muito maior não lhe tirou o direito de decidir como os visitantes se aproximam."
+      ],
+      "captions": [
+        "Na manhã seguinte, a balsa atraca no cais da ilha de Nacre. Quest e Nova mostram a Tangle os dados do balcão de chegada que Adore verificou. Os outros quatro viajantes aguardam com a maleta na mesma fila.\n\nTangle: \"Bem-vindos. Primeiro seus documentos de chegada, depois os registros de remessa.\"",
+        "Quando Bash chega à mesa, Tangle faz uma pausa sobre um nome desconhecido no documento. Bash dá a ele tempo para acertar. Uma pausa no balcão não precisa se tornar uma piada às custas de alguém.\n\nBash: \"Posso dizer o meu novamente. Sem pressa.\"",
+        "Com os documentos de chegada verificados, Tangle percebe que uma nota contábil borrada os enviou para o guichê de registros errado. Ele corrige o erro e os conduz até o balcão vizinho, ainda na mesma passarela coberta.\n\nTangle: \"Esse foi meu erro. O livro de remessa está ao lado.\"",
+        "Na mesa correta, Hush expõe o desenho da carcaça e a cópia do recibo de Sigh. A questão fica clara: qual pacote carregava a lente correspondente e para onde foi esse pacote em seguida?\n\nHush [em língua de sinais]: “Estamos seguindo a lente correspondente nesta remessa.”",
+        "Tangle encontra a entrada correspondente em um livro-razão do porto manchado de água. A oficina devolveu a lente para inspeção, mas não é possível ler o destino na anotação. A loja expositora cuidou dessa devolução e deverá ter seu próprio registro de despacho.\n\nTangle: \"A devolução está registrada. A loja ainda pode ter a cópia de despacho legível.\"",
+        "A loja fica ao longo da estrada do porto, e não do outro lado da fronteira. Quest copia seu endereço enquanto Bash fecha a maleta. O próximo passo é encontrar o registro de retorno antes de escolher outro destino.\n\nQuest: “Então essa será nossa próxima parada.”",
+        "Naquela noite, de volta a Meadowfold, Puff para no pequeno degrau de observação e pede para se aproximar. Rain escolhe o lado com espaço livre. Ser muito maior não lhe tirou o direito de decidir como os visitantes se aproximam.\n\nPuff: “Posso chegar mais perto?”\nRain: \"Sim. Deste lado.\""
+      ],
+      "introduction": "A balsa trouxe os investigadores para Nacre, a ilha mencionada no recibo de Sigh. Nos balcões do porto, nomes desconhecidos e uma anotação danificada retardam a busca. Tangle ajuda a corrigir a rota, e a próxima pista é outro pacote devolvido.",
+      "title": "Um nome na fronteira"
+    },
+    "ru": {
+      "altTexts": [
+        "На следующее утро паром пришвартовывается у островной пристани Nacre. Quest и Nova показывают Tangle данные стойки прибытия, проверенные Adore. Остальные четверо путешественников ждут с чемоданом в той же очереди.",
+        "Когда Bash достигает стола, Tangle останавливается на незнакомом имени в документе. Bash дает ему время все исправить. Пауза у стойки не обязательно должна становиться шуткой в адрес кого-то.",
+        "Проверив документы о прибытии, Tangle замечает, что нечеткая записка в бухгалтерской книге отправила их не в то окно записей. Он исправляет ошибку и ведет их к соседнему прилавку, все еще находящемуся в том же крытом переходе.",
+        "На нужном столе Hush выкладывает эскиз корпуса и копию квитанции Sigh. Становится ясным вопрос: в какой посылке была соответствующая линза и куда эта посылка отправилась дальше?",
+        "Tangle находит соответствующую запись в залитой водой портовой книге. Мастерская вернула линзу на проверку, но место назначения в записи не читается. Выставочный магазин обрабатывал этот возврат и должен иметь собственный отчет об отправке.",
+        "Магазин находится вдоль гавани, а не за границей. Quest записывает адрес магазина, а Bash закрывает кейс. Их следующий шаг — найти запись о возврате, прежде чем выбирать другой пункт назначения.",
+        "В тот вечер, на лугу Meadowfold, Puff останавливается на маленькой ступеньке и просит подойти. Rain выбирает сторону со свободным пространством. То, что он намного больше, не лишило его права решать, как посетители приближаются."
+      ],
+      "captions": [
+        "На следующее утро паром пришвартовывается у островной пристани Nacre. Quest и Nova показывают Tangle данные стойки прибытия, проверенные Adore. Остальные четверо путешественников ждут с чемоданом в той же очереди.\n\nTangle: \"Добро пожаловать. Сначала документы о прибытии, затем записи о доставке\".",
+        "Когда Bash достигает стола, Tangle останавливается на незнакомом имени в документе. Bash дает ему время все исправить. Пауза у стойки не обязательно должна становиться шуткой в адрес кого-то.\n\nBash: \"Я могу еще раз назвать свое имя. Не спеши.\"",
+        "Проверив документы о прибытии, Tangle замечает, что нечеткая записка в бухгалтерской книге отправила их не в то окно записей. Он исправляет ошибку и ведет их к соседнему прилавку, все еще находящемуся в том же крытом переходе.\n\nTangle: \"Это была моя ошибка. Товарная книга находится рядом.\"",
+        "На нужном столе Hush выкладывает эскиз корпуса и копию квитанции Sigh. Становится ясным вопрос: в какой посылке была соответствующая линза и куда эта посылка отправилась дальше?\n\nHush [на языке жестов]: «Мы ищем парную линзу из этой отправки».",
+        "Tangle находит соответствующую запись в залитой водой портовой книге. Мастерская вернула линзу на проверку, но место назначения в записи не читается. Выставочный магазин обрабатывал этот возврат и должен иметь собственный отчет об отправке.\n\nTangle: \"Возврат зарегистрирован. В магазине все еще может храниться читаемая копия документа об отправке\".",
+        "Магазин находится вдоль гавани, а не за границей. Quest записывает адрес магазина, а Bash закрывает кейс. Их следующий шаг — найти запись о возврате, прежде чем выбирать другой пункт назначения.\n\nQuest: «Значит, это наша следующая остановка».",
+        "В тот вечер, на лугу Meadowfold, Puff останавливается на маленькой ступеньке и просит подойти. Rain выбирает сторону со свободным пространством. То, что он намного больше, не лишило его права решать, как посетители приближаются.\n\nPuff: «Можно подойти поближе?»\nRain: \"Да. С этой стороны.\""
+      ],
+      "introduction": "Паром доставил следователей на Nacre, остров, указанный в квитанции Sigh. На портовых стойках поиск замедляется из-за незнакомых имен и поврежденной записи. Tangle помогает скорректировать маршрут, и следующей подсказкой оказывается еще одна возвращенная посылка.",
+      "title": "Имя на границе"
+    },
+    "tr": {
+      "altTexts": [
+        "Ertesi sabah feribot Nacre'nin ada iskelesine yanaşıyor. Quest ve Nova, Tangle'a Adore'un kontrol ettiği varış gişesi ayrıntılarını gösterir. Diğer dört yolcu da aynı kuyrukta çantayla birlikte bekliyor.",
+        "Bash masaya ulaştığında, Tangle belgedeki tanıdık olmayan bir adın üzerinde duraklar. Bash ona doğruyu yapması için zaman veriyor. Tezgahtaki bir duraklamanın birinin pahasına bir şakaya dönüşmesi gerekmez.",
+        "Varış belgeleri kontrol edildiğinde Tangle, lekeli bir defter notunun onları yanlış kayıt gişesine gönderdiğini fark eder. Hatayı düzeltir ve onları hâlâ aynı kapalı geçit içinde bulunan komşu tezgaha yönlendirir.",
+        "Hush, doğru masaya mahfaza taslağını ve Sigh'ın kopyalanan makbuzunu yerleştirir. Soru netleşiyor: Eşleşen merceği hangi paket taşıdı ve bu paket daha sonra nereye gitti?",
+        "Tangle, su lekeli bir liman defterinde eşleşen girişi bulur. Atölye lensi inceleme için iade etti ancak kayıttaki varış yeri okunamıyor. Sergi mağazası bu iade işlemini gerçekleştirdi ve kendi sevk kaydına sahip olması gerekiyor.",
+        "Mağaza liman yolu üzerinde, başka bir sınırın karşı tarafında değil. Quest adresini kopyalarken Bash çantayı kapatır. Bir sonraki adım, başka bir varış noktası seçmeden önce iade kaydını bulmaktır.",
+        "O akşam, Meadowfold çayırında, Puff küçük seyir basamağında duruyor ve yaklaşmak istiyor. Rain boş alana sahip tarafı seçer. Çok daha büyük olması, ziyaretçilerin nasıl yaklaşacağına karar verme hakkını elinden almadı."
+      ],
+      "captions": [
+        "Ertesi sabah feribot Nacre'nin ada iskelesine yanaşıyor. Quest ve Nova, Tangle'a Adore'un kontrol ettiği varış gişesi ayrıntılarını gösterir. Diğer dört yolcu da aynı kuyrukta çantayla birlikte bekliyor.\n\nTangle: \"Hoş geldiniz. Önce varış evraklarınız, sonra sevkiyat kayıtları.\"",
+        "Bash masaya ulaştığında, Tangle belgedeki tanıdık olmayan bir adın üzerinde duraklar. Bash ona doğruyu yapması için zaman veriyor. Tezgahtaki bir duraklamanın birinin pahasına bir şakaya dönüşmesi gerekmez.\n\nBash: \"Adımı tekrar söyleyebilirim. Aceleye gerek yok.\"",
+        "Varış belgeleri kontrol edildiğinde Tangle, lekeli bir defter notunun onları yanlış kayıt gişesine gönderdiğini fark eder. Hatayı düzeltir ve onları hâlâ aynı kapalı geçit içinde bulunan komşu tezgaha yönlendirir.\n\nTangle: \"Bu benim hatamdı. Sevkiyat defteri yan tarafta.\"",
+        "Hush, doğru masaya mahfaza taslağını ve Sigh'ın kopyalanan makbuzunu yerleştirir. Soru netleşiyor: Eşleşen merceği hangi paket taşıdı ve bu paket daha sonra nereye gitti?\n\nHush [işaret diliyle]: \"Bu sevkiyatta eşleşen lensi takip ediyoruz.\"",
+        "Tangle, su lekeli bir liman defterinde eşleşen girişi bulur. Atölye lensi inceleme için iade etti ancak kayıttaki varış yeri okunamıyor. Sergi mağazası bu iade işlemini gerçekleştirdi ve kendi sevk kaydına sahip olması gerekiyor.\n\nTangle: \"İade kaydedilmiş. Mağazada hâlâ okunabilir sevk irsaliyesi bulunabilir.\"",
+        "Mağaza liman yolu üzerinde, başka bir sınırın karşı tarafında değil. Quest adresini kopyalarken Bash çantayı kapatır. Bir sonraki adım, başka bir varış noktası seçmeden önce iade kaydını bulmaktır.\n\nQuest: \"O halde sonraki durağımız orası.\"",
+        "O akşam, Meadowfold çayırında, Puff küçük seyir basamağında duruyor ve yaklaşmak istiyor. Rain boş alana sahip tarafı seçer. Çok daha büyük olması, ziyaretçilerin nasıl yaklaşacağına karar verme hakkını elinden almadı.\n\nPuff: \"Yaklaşabilir miyim?\"\nRain: \"Evet. Bu taraftan.\""
+      ],
+      "introduction": "Feribot, araştırmacıları Sigh'ın makbuzunda adı geçen ada olan Nacre'ye getirdi. Liman gişelerinde tanıdık olmayan isimler ve hasarlı bir kayıt, arama çalışmalarını yavaşlatıyor. Tangle rotanın düzeltilmesine yardımcı oluyor ve bir sonraki ipucunun iade edilen başka bir paket olduğu ortaya çıkıyor.",
+      "title": "Sınırda Bir İsim"
+    },
+    "vi": {
+      "altTexts": [
+        "Sáng hôm sau, phà cập bến cảng đảo Nacre. Quest và Nova đưa cho Tangle xem thông tin chi tiết về quầy đến mà Adore đã kiểm tra. Bốn du khách còn lại xếp hàng chờ cùng chiếc vali.",
+        "Khi Bash đến bàn làm việc, Tangle dừng lại trước một cái tên lạ trên tài liệu. Bash cho anh ấy thời gian để làm đúng. Việc dừng lại ở quầy không nhất thiết phải trở thành một trò đùa nhằm gây tổn hại cho ai đó.",
+        "Khi các giấy tờ đến đã được kiểm tra, Tangle nhận thấy rằng một ghi chú sổ cái bị nhòe đã dẫn họ đến nhầm quầy hồ sơ. Anh ta sửa lỗi và dẫn họ đến quầy hàng bên cạnh, vẫn nằm trong lối đi có mái che.",
+        "Tại đúng quầy, Hush đặt bản phác thảo vỏ thiết bị và biên lai sao chép của Sigh. Câu hỏi trở nên rõ ràng: bưu kiện nào mang thấu kính phù hợp và bưu kiện đó tiếp theo sẽ đi đâu?",
+        "Tangle tìm thấy mục nhập phù hợp trong sổ cái bến cảng bị dính nước. Xưởng đã trả lại thấu kính để kiểm tra nhưng địa chỉ đích trong mục ghi đã không còn đọc được. Cửa hàng triển lãm đã xử lý việc trả lại hàng đó và phải có hồ sơ gửi hàng riêng.",
+        "Cửa hàng nằm dọc theo con đường bến cảng, không qua biên giới khác. Quest sao chép địa chỉ của nó trong khi Bash đóng vali. Bước tiếp theo của họ là tìm hồ sơ gửi trả trước khi chọn điểm đến khác.",
+        "Tối hôm đó, tại đồng cỏ Meadowfold, Puff dừng lại ở bậc quan sát nhỏ và yêu cầu được tiếp cận. Rain chọn bên có không gian thoáng đãng. Việc trở nên to lớn hơn nhiều vẫn không tước đi quyền quyết định cách du khách đến gần."
+      ],
+      "captions": [
+        "Sáng hôm sau, phà cập bến cảng đảo Nacre. Quest và Nova đưa cho Tangle xem thông tin chi tiết về quầy đến mà Adore đã kiểm tra. Bốn du khách còn lại xếp hàng chờ cùng chiếc vali.\n\nTangle: \"Chào mừng. Đầu tiên là giấy tờ đến của bạn, sau đó là hồ sơ lô hàng.\"",
+        "Khi Bash đến bàn làm việc, Tangle dừng lại trước một cái tên lạ trên tài liệu. Bash cho anh ấy thời gian để làm đúng. Việc dừng lại ở quầy không nhất thiết phải trở thành một trò đùa nhằm gây tổn hại cho ai đó.\n\nBash: \"Tôi có thể nói lại lần nữa. Không cần vội.\"",
+        "Khi các giấy tờ đến đã được kiểm tra, Tangle nhận thấy rằng một ghi chú sổ cái bị nhòe đã dẫn họ đến nhầm quầy hồ sơ. Anh ta sửa lỗi và dẫn họ đến quầy hàng bên cạnh, vẫn nằm trong lối đi có mái che.\n\nTangle: \"Đó là lỗi của tôi. Sổ gửi hàng ở ngay bên cạnh.\"",
+        "Tại đúng quầy, Hush đặt bản phác thảo vỏ thiết bị và biên lai sao chép của Sigh. Câu hỏi trở nên rõ ràng: bưu kiện nào mang thấu kính phù hợp và bưu kiện đó tiếp theo sẽ đi đâu?\n\nHush [bằng ngôn ngữ ký hiệu]: “Chúng tôi đang theo dõi thấu kính phù hợp trong lô hàng này.”",
+        "Tangle tìm thấy mục nhập phù hợp trong sổ cái bến cảng bị dính nước. Xưởng đã trả lại thấu kính để kiểm tra nhưng địa chỉ đích trong mục ghi đã không còn đọc được. Cửa hàng triển lãm đã xử lý việc trả lại hàng đó và phải có hồ sơ gửi hàng riêng.\n\nTangle: \"Việc trả lại được ghi lại. Cửa hàng có thể vẫn còn bản sao phiếu gửi hàng còn đọc được.\"",
+        "Cửa hàng nằm dọc theo con đường bến cảng, không qua biên giới khác. Quest sao chép địa chỉ của nó trong khi Bash đóng vali. Bước tiếp theo của họ là tìm hồ sơ gửi trả trước khi chọn điểm đến khác.\n\nQuest: “Vậy đó là điểm dừng tiếp theo của chúng ta.”",
+        "Tối hôm đó, tại đồng cỏ Meadowfold, Puff dừng lại ở bậc quan sát nhỏ và yêu cầu được tiếp cận. Rain chọn bên có không gian thoáng đãng. Việc trở nên to lớn hơn nhiều vẫn không tước đi quyền quyết định cách du khách đến gần.\n\nPuff: “Tôi có thể lại gần hơn được không?”\nRain: \"Ừ. Từ phía này.\""
+      ],
+      "introduction": "Chiếc phà đã đưa các nhà điều tra đến Nacre, hòn đảo có tên trong biên lai của Sigh. Tại quầy bến cảng, những cái tên xa lạ và một mục bị hư hỏng làm chậm quá trình tìm kiếm. Tangle giúp sửa lại lộ trình và manh mối tiếp theo hóa ra là một bưu kiện khác được trả lại.",
+      "title": "Một cái tên ở biên giới"
+    },
+    "zh": {
+      "altTexts": [
+        "第二天早上，轮渡在Nacre岛码头停靠。 Quest 和 Nova 把 Adore 核对过的入境柜台资料交给 Tangle。其他四名旅客带着箱子在同一队列中等待。",
+        "当 Bash 到达办公桌时，Tangle 停在文档上一个陌生的名字上。 Bash耐心等他把名字念对。在柜台前的停留不一定会成为以某人为代价的笑话。",
+        "检查入境文件后，Tangle 注意到一张污迹斑斑的账本将他们引向了错误的记录窗口。他纠正了错误，并带领他们到邻近的柜台，仍然在同一条有盖走道内。",
+        "在正确的办公桌上，Hush摊开外壳草图和 Sigh 的收据复印件。问题变得清晰起来：哪个包裹携带着匹配的镜片，该包裹接下来去了哪里？",
+        "Tangle 在沾满水的港口账本中找到了匹配的条目。车间将镜片退回检查，但记录中的目的地已经模糊得无法辨认。展览商店负责处理该退货，并且应该有自己的发货记录。",
+        "这家商店位于海港路沿线，而不是跨越另一个边界。 Quest 复制其地址，同时 Bash 关闭箱子。他们的下一步是在选择另一个目的地之前找到退回包裹的发货记录。",
+        "当天晚上，回到Meadowfold，Puff停在观景小台阶处，要求靠近。 Rain选择空间宽敞的一侧。体型大得多并没有剥夺他决定游客如何靠近的权利。"
+      ],
+      "captions": [
+        "第二天早上，轮渡在Nacre岛码头停靠。 Quest 和 Nova 把 Adore 核对过的入境柜台资料交给 Tangle。其他四名旅客带着箱子在同一队列中等待。\n\nTangle：“欢迎光临。首先是您的入境文件，然后是托运记录。”",
+        "当 Bash 到达办公桌时，Tangle 停在文档上一个陌生的名字上。 Bash耐心等他把名字念对。在柜台前的停留不一定会成为以某人为代价的笑话。\n\nBash：“我可以再说一遍我的名字。不着急。”",
+        "检查入境文件后，Tangle 注意到一张污迹斑斑的账本将他们引向了错误的记录窗口。他纠正了错误，并带领他们到邻近的柜台，仍然在同一条有盖走道内。\n\nTangle：“那是我的错误。寄售簿就在隔壁。”",
+        "在正确的办公桌上，Hush摊开外壳草图和 Sigh 的收据复印件。问题变得清晰起来：哪个包裹携带着匹配的镜片，该包裹接下来去了哪里？\n\nHush [手语]：“我们正在跟踪这批货物中的匹配镜片。”",
+        "Tangle 在沾满水的港口账本中找到了匹配的条目。车间将镜片退回检查，但记录中的目的地已经模糊得无法辨认。展览商店负责处理该退货，并且应该有自己的发货记录。\n\nTangle：“退货已记录。商店可能仍然有可读的发货副本。”",
+        "这家商店位于海港路沿线，而不是跨越另一个边界。 Quest 复制其地址，同时 Bash 关闭箱子。他们的下一步是在选择另一个目的地之前找到退回包裹的发货记录。\n\nQuest：“那就是我们接下来要去的地方。”",
+        "当天晚上，回到Meadowfold，Puff停在观景小台阶处，要求靠近。 Rain选择空间宽敞的一侧。体型大得多并没有剥夺他决定游客如何靠近的权利。\n\nPuff：“我可以靠近一点吗？”\nRain：“是的。从这边。”"
+      ],
+      "introduction": "渡轮已将调查人员带到 Nacre，即 Sigh 收据中指定的岛屿。在港口柜台，陌生的名字和模糊的记录减缓了搜索速度。 Tangle帮助纠正路线，下一条线索原来是另一个退回的包裹。",
+      "title": "边境的名字"
+    }
+  },
+  "number": 16,
+  "panels": [
+    {
+      "altText": "The next morning, the ferry ties up at Nacre's island quay. Quest and Nova show Tangle the arrival-counter details Adore checked. The other four travelers wait with the case in the same queue.",
+      "image": "N01E16P01.png"
+    },
+    {
+      "altText": "When Bash reaches the desk, Tangle pauses over an unfamiliar name on the document. Bash gives him time to get it right. A pause at a counter need not become a joke at someone's expense.",
+      "image": "N01E16P02.png"
+    },
+    {
+      "altText": "With the arrival papers checked, Tangle notices that a smudged ledger note sent them toward the wrong records window. He corrects the mistake and leads them to the neighboring counter, still within the same covered walkway.",
+      "image": "N01E16P03.png"
+    },
+    {
+      "altText": "At the correct desk, Hush lays out the housing sketch and Sigh's copied receipt. The question becomes clear: which parcel carried the matching lens, and where did that parcel go next?",
+      "image": "N01E16P04.png"
+    },
+    {
+      "altText": "Tangle finds the matching entry in a water-stained harbor ledger. The workshop returned the lens for inspection, but the destination in the entry is unreadable. The exhibition store handled that return and should have its own dispatch record.",
+      "image": "N01E16P05.png"
+    },
+    {
+      "altText": "The store is along the harbor road, not across another border. Quest copies its address while Bash closes the case. Their next step is to find the return record before choosing another destination.",
+      "image": "N01E16P06.png"
+    },
+    {
+      "altText": "That evening, back at Meadowfold, Puff stops at the little viewing step and asks to approach. Rain chooses the side with clear space. Being much larger has not taken away his right to decide how visitors come near.",
+      "image": "N01E16P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

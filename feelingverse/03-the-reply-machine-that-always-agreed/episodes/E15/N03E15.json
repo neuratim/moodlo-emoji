@@ -1,0 +1,439 @@
+{
+  "id": "N03E15",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يعرض تافي ست بطاقات تصحيح بجوار حقيبة إيفو.",
+        "تعرض سيلي مسار السفر على تافي وإيفو.",
+        "يجلس تافي وإيفو بأمان داخل ترام البستان.",
+        "يحمل تافي مسودة اعتذار وينظر إيفو إليها.",
+        "يعدل تافي بطاقة فوق الملف في حجره.",
+        "يشير إيفو إلى قاعة البستان عبر نافذة الترام المغلقة.",
+        "يحمل تافي ملفه المغلق نحو قاعة البستان."
+      ],
+      "captions": [
+        "عند فجر اليوم التالي، التقى تافي إيفو في مركز البريد. حملا ستة تصحيحات للإعلانات الستة البعيدة.",
+        "تحققت سيلي من المسار. كان ترام البستان يعمل، أما عبور الجزيرة فسيتوقف على ريح بعد الظهر.",
+        "صعد الترام بين الأعشاب الفضية. وفي الأسفل، بدا ممشى الفوانيس غير المكتمل صغيرا بجوار النهر.",
+        "تدرب تافي على اعتذار فخم. سأله إيفو: «أي جزء يوضح للناس ما كان خطأ بالفعل؟»",
+        "شطب تافي الخطبة الفخمة. وبدلا منها، حدد الادعاء الخاطئ الذي نشره، وذكر الحقيقة، وشرح ما سيفعله بشكل مختلف.",
+        "بعد المنعطف الأخير، لمعت أسطح البستان بين أوراق حمراء. أشار إيفو إلى القاعة التي ينتظر فيها إعلانان.",
+        "نزل تافي حاملا الملف. هذه المرة، سيبدأ سماع الناس له باعترافه بأنه لم يستمع."
+      ],
+      "introduction": "يسافر تافي مع البريد، حاملا تصحيحات محددة لا مطالبة بالمغفرة.",
+      "title": "الطريق خارج البلدة"
+    },
+    "bn": {
+      "altTexts": [
+        "টাভি ইভোর ব্যাগের পাশে ছয়টি সংশোধনের কার্ড দেখাচ্ছে।",
+        "সেলি টাভি ও ইভোকে যাত্রাপথ দেখাচ্ছে।",
+        "টাভি ও ইভো ফলবাগানের ট্রামের ভেতর নিরাপদে বসে আছে।",
+        "টাভি ক্ষমা চাওয়ার খসড়া ধরে আছে, ইভো দেখছে।",
+        "টাভি কোলের ফাইলের ওপর একটি কার্ড সংশোধন করছে।",
+        "ইভো ট্রামের বন্ধ জানালা দিয়ে ফলবাগানের সভাঘর দেখাচ্ছে।",
+        "টাভি বন্ধ ফাইল নিয়ে ফলবাগানের সভাঘরে যাচ্ছে।"
+      ],
+      "captions": [
+        "পরদিন ভোরে ডাকঘরে টাভি ইভোর সঙ্গে মিলল। দূরের ছয় ঘোষণার জন্য তাদের সঙ্গে ছয়টি সংশোধন ছিল।",
+        "সেলি পথ পরীক্ষা করেছিল। ফলবাগানের ট্রাম চলছে, কিন্তু দ্বীপের ফেরি নির্ভর করবে বিকেলের বাতাসের ওপর।",
+        "ট্রাম রুপালি ঘাসের মধ্যে দিয়ে উঠল। নিচে নদীর পাশে শহরের অসমাপ্ত লণ্ঠন-পথ ছোট দেখাচ্ছিল।",
+        "টাভি চমৎকার শোনায় এমন ক্ষমার কথা অনুশীলন করছিল। ইভো জিজ্ঞেস করল, “আসল ভুলটা কোথায় বলা আছে?”",
+        "টাভি জাঁকালো বক্তৃতা কেটে দিল। তার বদলে সে নিজের কোন দাবিটি ভুল ছিল তা স্পষ্ট করল, সঠিক তথ্য লিখল, আর এবার কীভাবে আলাদা আচরণ করবে তা জানাল।",
+        "শেষ বাঁক পেরিয়ে লাল পাতার মধ্যে ফলবাগানের ছাদ ঝলমল করল। ইভো দুটি ঘোষণা থাকা সভাঘর দেখাল।",
+        "টাভি ফাইল নিয়ে নামল। এবার তার কথা শোনার শুরু হবে, সে নিজে শোনেনি তা স্বীকার করার মধ্যে দিয়ে।"
+      ],
+      "introduction": "টাভি ক্ষমার দাবি নয়, নির্দিষ্ট সংশোধন নিয়ে সরবরাহের পথে বেরিয়ে পড়ে।",
+      "title": "শহরের বাইরের পথ"
+    },
+    "cs": {
+      "altTexts": [
+        "Tavi ukazuje šest oprav vedle Ivovy brašny.",
+        "Seli ukazuje Tavimu a Ivovi cestovní trasu.",
+        "Tavi a Ivo bezpečně sedí uvnitř tramvaje do sadu.",
+        "Tavi drží návrh omluvy a Ivo si ho prohlíží.",
+        "Tavi upravuje kartičku na složce položené na klíně.",
+        "Ivo ukazuje přes zavřené okno tramvaje na síň v sadu.",
+        "Tavi nese zavřenou složku směrem k síni v sadu."
+      ],
+      "captions": [
+        "Dalšího dne za úsvitu se Tavi sešel s Ivem na poště. Nesli šest oprav pro šest vzdálených oznámení.",
+        "Seli ověřila trasu. Tramvaj do sadu jezdila; plavba na ostrov bude záležet na odpoledním větru.",
+        "Tramvaj stoupala stříbrnou trávou. Dole vypadala nedokončená světelná stezka maličká vedle řeky.",
+        "Tavi si nacvičoval velkolepě znějící omluvu. Ivo se zeptal: „Která část lidem říká, co bylo opravdu špatně?“",
+        "Tavi velkolepý proslov přeškrtl. Místo něj uvedl, v čem se jeho tvrzení mýlilo, jaká byla skutečnost a co příště udělá jinak.",
+        "Za poslední zatáčkou se mezi červenými listy zaleskly střechy sadu. Ivo ukázal na síň, kde čekala dvě oznámení.",
+        "Tavi vystoupil se složkou. Tentokrát začne tím, že přizná, že sám nenaslouchal."
+      ],
+      "introduction": "Tavi cestuje s poštou a veze konkrétní opravy, ne požadavek na odpuštění.",
+      "title": "Cesta za město"
+    },
+    "de": {
+      "altTexts": [
+        "Tavi zeigt sechs Berichtigungskarten neben Ivos Tasche.",
+        "Seli zeigt Tavi und Ivo die Reiseroute.",
+        "Tavi und Ivo sitzen sicher in der geschlossenen Obstgartenbahn.",
+        "Tavi hält einen Entschuldigungsentwurf, während Ivo ihn betrachtet.",
+        "Tavi überarbeitet eine Karte auf der Mappe in seinem Schoß.",
+        "Ivo zeigt durch das geschlossene Straßenbahnfenster auf die Obstgartenhalle.",
+        "Tavi trägt seine geschlossene Mappe zur Obstgartenhalle."
+      ],
+      "captions": [
+        "Am nächsten Morgen traf Tavi Ivo bei Tagesanbruch im Depot. Sie hatten sechs Berichtigungen für die sechs entfernten Mitteilungen dabei.",
+        "Seli hatte die Route geprüft. Die Obstgartenbahn fuhr; die Inselüberfahrt würde vom Nachmittagswind abhängen.",
+        "Die Bahn stieg durch silbernes Gras hinauf. Unter ihnen wirkte der unfertige Lichterweg winzig neben dem Fluss.",
+        "Tavi übte eine großartig klingende Entschuldigung. Ivo fragte: „Welche Stelle sagt den Leuten, was tatsächlich falsch war?“",
+        "Tavi strich die große Rede durch. Stattdessen benannte er seine falsche Behauptung, stellte die Tatsachen richtig und erklärte, was er künftig anders machen würde.",
+        "Hinter der letzten Kurve glänzten Dächer zwischen roten Blättern. Ivo zeigte auf die Halle, in der zwei Mitteilungen warteten.",
+        "Tavi stieg mit der Mappe aus. Diesmal würde er zuerst zugeben müssen, dass er selbst nicht zugehört hatte."
+      ],
+      "introduction": "Tavi reist mit der Post und trägt konkrete Berichtigungen bei sich, keinen Anspruch auf Vergebung.",
+      "title": "Der Weg aus der Stadt"
+    },
+    "en": {
+      "altTexts": [
+        "Tavi shows six correction cards beside Ivo’s satchel.",
+        "Seli shows Tavi and Ivo the travel route.",
+        "Tavi and Ivo sit safely inside the orchard tram.",
+        "Tavi holds an apology draft while Ivo looks at it.",
+        "Tavi revises one card on the folder in his lap.",
+        "Ivo points through the closed tram window toward the orchard hall.",
+        "Tavi carries his closed folder toward the orchard hall."
+      ],
+      "captions": [
+        "At dawn the next day, Tavi met Ivo at the depot. They carried six corrections for the six distant notices.",
+        "Seli had checked the route. The orchard tram was running; the island ferry would depend on the afternoon wind.",
+        "The tram climbed through silver grass. Below them, the town’s unfinished lantern walk looked small beside the river.",
+        "Tavi practiced an apology that sounded splendid. Ivo asked, “Which part tells people what was actually wrong?”",
+        "Tavi crossed out the grand speech. Instead, he named his false claim, stated the correct fact, and explained what he would do differently.",
+        "Beyond the last bend, orchard roofs shone among red leaves. Ivo pointed to the hall where two notices were waiting.",
+        "Tavi stepped down with the folder. This time, being heard would begin with admitting he had not listened."
+      ],
+      "introduction": "Tavi travels with the deliveries, carrying specific corrections rather than a demand to be forgiven.",
+      "title": "The Road Beyond Town"
+    },
+    "es": {
+      "altTexts": [
+        "Tavi muestra seis tarjetas de corrección junto a la bolsa de Ivo.",
+        "Seli muestra a Tavi e Ivo el recorrido del viaje.",
+        "Tavi e Ivo viajan sentados de forma segura en el tranvía cerrado.",
+        "Tavi sostiene un borrador de disculpa mientras Ivo lo mira.",
+        "Tavi revisa una tarjeta sobre la carpeta apoyada en sus piernas.",
+        "Ivo señala el salón del huerto a través de la ventana cerrada del tranvía.",
+        "Tavi lleva la carpeta cerrada hacia el salón del huerto."
+      ],
+      "captions": [
+        "Al amanecer del día siguiente, Tavi se reunió con Ivo en la oficina. Llevaban seis correcciones para los seis avisos lejanos.",
+        "Seli había revisado la ruta. El tranvía del huerto funcionaba; el ferry a la isla dependería del viento de la tarde.",
+        "El tranvía subió entre hierbas plateadas. Abajo, el sendero sin terminar parecía pequeño al lado del río.",
+        "Tavi ensayaba una disculpa espléndida. Ivo preguntó: «¿Qué parte explica lo que estaba realmente mal?».",
+        "Tavi tachó el gran discurso. En su lugar, señaló qué había afirmado falsamente, explicó los hechos y dijo qué haría de otra manera.",
+        "Tras la última curva, los tejados del huerto brillaron entre hojas rojas. Ivo señaló el salón donde esperaban dos avisos.",
+        "Tavi bajó con la carpeta. Esta vez, hacerse escuchar empezaría por admitir que él no había escuchado."
+      ],
+      "introduction": "Tavi viaja con el reparto llevando correcciones concretas, no una exigencia de perdón.",
+      "title": "El camino más allá de la ciudad"
+    },
+    "fr": {
+      "altTexts": [
+        "Tavi montre six cartes de rectification près de la sacoche d’Ivo.",
+        "Seli montre l’itinéraire à Tavi et Ivo.",
+        "Tavi et Ivo sont assis en sécurité dans le tramway fermé.",
+        "Tavi tient un brouillon d’excuses pendant qu’Ivo le regarde.",
+        "Tavi corrige une carte sur la pochette posée sur ses genoux.",
+        "Ivo montre la halle du verger à travers la fenêtre fermée du tramway.",
+        "Tavi porte sa pochette fermée vers la halle du verger."
+      ],
+      "captions": [
+        "À l’aube du lendemain, Tavi retrouva Ivo au dépôt. Ils emportaient six rectifications pour les six avis éloignés.",
+        "Seli avait vérifié la route. Le tramway du verger circulait ; la traversée vers l’île dépendrait du vent de l’après-midi.",
+        "Le tramway monta à travers les herbes argentées. En contrebas, le parcours inachevé semblait petit près de la rivière.",
+        "Tavi répétait de magnifiques excuses. Ivo demanda : « Quelle partie explique aux gens ce qui était réellement faux ? »",
+        "Tavi barra son grand discours. À la place, il nomma sa fausse affirmation, rétablit les faits et expliqua ce qu’il ferait différemment.",
+        "Après le dernier virage, les toits du verger brillèrent parmi les feuilles rouges. Ivo montra la halle où attendaient deux avis.",
+        "Tavi descendit avec sa pochette. Cette fois, être entendu commencerait par reconnaître qu’il n’avait pas écouté."
+      ],
+      "introduction": "Tavi voyage avec le courrier en portant des rectifications précises, sans exiger le pardon.",
+      "title": "La route au-delà de la ville"
+    },
+    "hi": {
+      "altTexts": [
+        "तावी ईवो की थैली के पास सुधार वाले छह कार्ड दिखा रहा है।",
+        "सेली तावी और ईवो को यात्रा का रास्ता दिखा रही है।",
+        "तावी और ईवो बगीचे की ट्राम के अंदर सुरक्षित बैठे हैं।",
+        "तावी माफी का मसौदा पकड़े है और ईवो उसे देख रहा है।",
+        "तावी गोद की फाइल पर रखे कार्ड में सुधार कर रहा है।",
+        "ईवो ट्राम की बंद खिड़की से बगीचे के सभा-भवन की ओर इशारा कर रहा है।",
+        "तावी बंद फाइल लेकर बगीचे के सभा-भवन की ओर जा रहा है।"
+      ],
+      "captions": [
+        "अगले दिन भोर में तावी डाकघर पर ईवो से मिला। दूर की छह घोषणाओं के लिए उनके पास छह सुधार थे।",
+        "सेली ने रास्ता जाँचा था। बगीचे की ट्राम चल रही थी, लेकिन द्वीप की नौका दोपहर की हवा पर निर्भर थी।",
+        "ट्राम चाँदी-सी घास के बीच ऊपर चढ़ी। नीचे नदी के पास कस्बे का अधूरा लालटेन रास्ता छोटा लग रहा था।",
+        "तावी शानदार सुनाई देने वाली माफी दोहरा रहा था। ईवो ने पूछा, “इसमें कहाँ बताया है कि असल गलती क्या थी?”",
+        "तावी ने भव्य भाषण काट दिया। उसकी जगह उसने साफ बताया कि उसका कौन-सा दावा गलत था, सही तथ्य क्या थे और आगे वह क्या अलग करेगा।",
+        "आखिरी मोड़ के बाद लाल पत्तों के बीच बगीचे की छतें चमकीं। ईवो ने उस भवन को दिखाया जहाँ दो घोषणाएँ थीं।",
+        "तावी फाइल लेकर उतरा। इस बार उसकी बात सुनी जाए, इसकी शुरुआत यह मानने से होगी कि उसने दूसरों को नहीं सुना था।"
+      ],
+      "introduction": "तावी माफी की माँग नहीं, साफ सुधार लेकर डिलीवरी के साथ यात्रा पर निकलता है।",
+      "title": "कस्बे से आगे का रास्ता"
+    },
+    "id": {
+      "altTexts": [
+        "Tavi menunjukkan enam kartu pembetulan di dekat tas Ivo.",
+        "Seli menunjukkan rute perjalanan kepada Tavi dan Ivo.",
+        "Tavi dan Ivo duduk aman di dalam trem kebun buah yang tertutup.",
+        "Tavi memegang draf permintaan maaf sementara Ivo membacanya.",
+        "Tavi memperbaiki satu kartu di atas map pada pangkuannya.",
+        "Ivo menunjuk aula kebun melalui jendela trem yang tertutup.",
+        "Tavi membawa map tertutup menuju aula kebun buah."
+      ],
+      "captions": [
+        "Saat fajar esok hari, Tavi menemui Ivo di kantor. Mereka membawa enam pembetulan untuk enam pengumuman yang jauh.",
+        "Seli sudah memeriksa rute. Trem kebun buah berjalan; penyeberangan ke pulau bergantung pada angin sore nanti.",
+        "Trem mendaki melewati rerumputan perak. Di bawah mereka, jalur lentera yang belum selesai tampak kecil di samping sungai.",
+        "Tavi berlatih mengucapkan permintaan maaf yang indah. Ivo bertanya, “Bagian mana yang menjelaskan apa yang sebenarnya salah?”",
+        "Tavi mencoret pidato itu. Sebagai gantinya, ia menyebutkan klaimnya yang keliru, menjelaskan fakta yang benar, dan menyatakan apa yang akan ia lakukan secara berbeda.",
+        "Selepas tikungan terakhir, atap-atap kebun berkilau di antara daun merah. Ivo menunjuk aula tempat dua pengumuman menunggu.",
+        "Tavi turun membawa map. Kali ini, agar didengar, ia akan mulai dengan mengakui bahwa ia belum mendengarkan."
+      ],
+      "introduction": "Tavi ikut perjalanan kiriman dengan membawa pembetulan yang jelas, bukan tuntutan untuk dimaafkan.",
+      "title": "Jalan ke Luar Kota"
+    },
+    "it": {
+      "altTexts": [
+        "Tavi mostra sei cartoline di rettifica vicino alla borsa di Ivo.",
+        "Seli mostra a Tavi e Ivo l’itinerario del viaggio.",
+        "Tavi e Ivo siedono al sicuro nel tram chiuso del frutteto.",
+        "Tavi tiene una bozza di scuse mentre Ivo la guarda.",
+        "Tavi corregge una cartolina sulla cartella appoggiata in grembo.",
+        "Ivo indica la sala del frutteto attraverso il finestrino chiuso del tram.",
+        "Tavi porta la cartella chiusa verso la sala del frutteto."
+      ],
+      "captions": [
+        "All’alba del giorno dopo, Tavi incontrò Ivo all’ufficio consegne. Portavano sei rettifiche per i sei avvisi lontani.",
+        "Seli aveva controllato il tragitto. Il tram del frutteto viaggiava; il traghetto per l’isola sarebbe dipeso dal vento pomeridiano.",
+        "Il tram salì fra erbe argentate. Sotto di loro, il percorso incompleto sembrava minuscolo accanto al fiume.",
+        "Tavi provava delle scuse splendide. Ivo domandò: «Quale parte dice alle persone che cosa era davvero sbagliato?»",
+        "Tavi cancellò il grande discorso. Al suo posto indicò la propria affermazione falsa, chiarì i fatti e spiegò che cosa avrebbe fatto diversamente.",
+        "Oltre l’ultima curva, i tetti del frutteto brillavano fra le foglie rosse. Ivo indicò la sala dove aspettavano due avvisi.",
+        "Tavi scese con la cartella. Stavolta farsi ascoltare sarebbe cominciato ammettendo di non aver ascoltato."
+      ],
+      "introduction": "Tavi viaggia con la posta portando rettifiche precise, senza pretendere il perdono.",
+      "title": "La strada oltre la città"
+    },
+    "ja": {
+      "altTexts": [
+        "タヴィがイヴォのかばんのそばで六枚の訂正カードを見せています。",
+        "セリがタヴィとイヴォに移動経路を示しています。",
+        "タヴィとイヴォが果樹園行きの電車の中で安全に座っています。",
+        "タヴィが謝罪の下書きを持ち、イヴォが見ています。",
+        "タヴィが膝のファイルの上でカードを直しています。",
+        "イヴォが閉じた電車の窓越しに果樹園の集会所を指しています。",
+        "タヴィが閉じたファイルを持って果樹園の集会所へ向かっています。"
+      ],
+      "captions": [
+        "翌日の夜明け、タヴィは郵便所でイヴォと会いました。遠方の六枚に届ける、六枚の訂正を持っています。",
+        "セリは道を確認済みでした。果樹園行きの電車は運行中。島への渡し船は、午後の風次第です。",
+        "電車は銀色の草原を登りました。下に見える町の未完成の散歩道は、川のそばで小さく見えました。",
+        "タヴィは立派な謝罪を練習しました。イヴォが聞きました。「実際に何を間違えたかは、どこに書いてある？」",
+        "タヴィは立派な演説を消しました。代わりに、自分のどの主張が間違っていたかを示し、正しい事実と、これから変える行動を書きました。",
+        "最後の曲がり角を越えると、赤い葉の間で果樹園の屋根が光りました。イヴォは二枚が待つ集会所を指しました。",
+        "タヴィはファイルを持って降りました。聞いてもらうための始まりは、自分が聞いていなかったと認めることでした。"
+      ],
+      "introduction": "タヴィは許しを迫らず、具体的な訂正を携えて配達の旅に出ます。",
+      "title": "町の向こうへ"
+    },
+    "ko": {
+      "altTexts": [
+        "타비가 이보의 가방 옆에서 정정 카드 여섯 장을 보여 줘요.",
+        "셀리가 타비와 이보에게 이동 경로를 보여 줘요.",
+        "타비와 이보가 과수원 전차 안에 안전하게 앉아 있어요.",
+        "타비가 사과 초안을 들고 있고, 이보가 그것을 봐요.",
+        "타비가 무릎의 서류철 위에서 카드를 고쳐 써요.",
+        "이보가 닫힌 전차 창문 너머로 과수원 회관을 가리켜요.",
+        "타비가 닫힌 서류철을 들고 과수원 회관으로 가요."
+      ],
+      "captions": [
+        "다음 날 동틀 무렵 타비는 우편소에서 이보를 만났어요. 먼 곳의 여섯 공지문에 보낼 정정문 여섯 장을 가져왔어요.",
+        "셀리가 경로를 확인했어요. 과수원 전차는 운행 중이었고, 섬으로 가는 배는 오후 바람에 달려 있었어요.",
+        "전차는 은빛 풀밭 사이로 올라갔어요. 아래쪽 미완성 등불 길은 강 옆에서 작게 보였어요.",
+        "타비가 근사한 사과를 연습하자 이보가 물었어요. “실제로 무엇이 잘못됐는지는 어디에 있어?”",
+        "타비는 긴 연설을 지웠어요. 대신 자신이 어떤 잘못된 주장을 했는지 밝히고, 올바른 사실과 앞으로 무엇을 달리 할지 썼어요.",
+        "마지막 굽이를 돌자 붉은 잎 사이로 과수원 지붕이 빛났어요. 이보가 공지문 두 부가 있는 회관을 가리켰어요.",
+        "타비는 서류철을 들고 내렸어요. 이번에 자기 말을 듣게 하려면, 먼저 자신이 듣지 않았음을 인정해야 했어요."
+      ],
+      "introduction": "타비는 용서를 요구하는 대신 구체적인 정정문을 들고 배달길에 나섭니다.",
+      "title": "마을 너머의 길"
+    },
+    "pl": {
+      "altTexts": [
+        "Tavi pokazuje sześć kartek sprostowań obok torby Iva.",
+        "Seli pokazuje Taviemu i Ivowi trasę podróży.",
+        "Tavi i Ivo siedzą bezpiecznie w zamkniętym tramwaju do sadu.",
+        "Tavi trzyma szkic przeprosin, a Ivo na niego patrzy.",
+        "Tavi poprawia kartkę na teczce leżącej na kolanach.",
+        "Ivo wskazuje salę w sadzie przez zamknięte okno tramwaju.",
+        "Tavi niesie zamkniętą teczkę w stronę sali w sadzie."
+      ],
+      "captions": [
+        "O świcie następnego dnia Tavi spotkał Iva w punkcie wysyłkowym. Mieli sześć sprostowań dla sześciu odległych ogłoszeń.",
+        "Seli sprawdziła trasę. Tramwaj do sadu kursował; przeprawa na wyspę miała zależeć od popołudniowego wiatru.",
+        "Tramwaj wspinał się pośród srebrzystych traw. Niedokończona ścieżka w dole wydawała się maleńka przy rzece.",
+        "Tavi ćwiczył pięknie brzmiące przeprosiny. Ivo zapytał: „Która część mówi ludziom, co naprawdę było nieprawdą?”",
+        "Tavi skreślił uroczystą przemowę. Zamiast niej wskazał swoje fałszywe twierdzenie, podał prawdziwą informację i wyjaśnił, co zrobi inaczej.",
+        "Za ostatnim zakrętem dachy sadu zabłysły wśród czerwonych liści. Ivo wskazał salę, w której czekały dwa ogłoszenia.",
+        "Tavi wysiadł z teczką. Tym razem zacznie od przyznania, że sam nie słuchał."
+      ],
+      "introduction": "Tavi jedzie z dostawami, wioząc konkretne sprostowania, a nie żądanie wybaczenia.",
+      "title": "Droga poza miasto"
+    },
+    "pt": {
+      "altTexts": [
+        "Tavi mostra seis cartões de correção perto da bolsa de Ivo.",
+        "Seli mostra a Tavi e Ivo a rota da viagem.",
+        "Tavi e Ivo estão sentados em segurança dentro do bonde fechado.",
+        "Tavi segura um rascunho de desculpas enquanto Ivo o observa.",
+        "Tavi revisa um cartão sobre a pasta apoiada no colo.",
+        "Ivo aponta o salão do pomar pela janela fechada do bonde.",
+        "Tavi leva a pasta fechada em direção ao salão do pomar."
+      ],
+      "captions": [
+        "Ao amanhecer do dia seguinte, Tavi encontrou Ivo na central. Levavam seis correções para os seis avisos distantes.",
+        "Seli havia conferido a rota. O bonde do pomar estava funcionando; a travessia para a ilha dependeria do vento da tarde.",
+        "O bonde subiu entre capins prateados. Lá embaixo, a trilha inacabada parecia pequena ao lado do rio.",
+        "Tavi ensaiava um pedido de desculpas esplêndido. Ivo perguntou: “Que parte diz às pessoas o que realmente estava errado?”",
+        "Tavi riscou o grande discurso. Em seu lugar, identificou sua afirmação falsa, explicou o fato correto e disse o que faria de outro jeito.",
+        "Depois da última curva, os telhados do pomar brilharam entre folhas vermelhas. Ivo apontou o salão onde dois avisos esperavam.",
+        "Tavi desceu com a pasta. Dessa vez, ser ouvido começaria por admitir que ele não tinha escutado."
+      ],
+      "introduction": "Tavi viaja com as entregas levando correções concretas, não uma exigência de perdão.",
+      "title": "A estrada além da cidade"
+    },
+    "ru": {
+      "altTexts": [
+        "Тави показывает шесть карточек рядом с сумкой Иво.",
+        "Сели показывает Тави и Иво маршрут поездки.",
+        "Тави и Иво безопасно сидят внутри садового трамвая.",
+        "Тави держит черновик извинения; Иво смотрит на него.",
+        "Тави исправляет карточку на папке у себя на коленях.",
+        "Иво указывает на садовый зал через закрытое окно трамвая.",
+        "Тави несёт закрытую папку к садовому залу."
+      ],
+      "captions": [
+        "На рассвете следующего дня Тави встретился с Иво на почте. Они взяли шесть исправлений для шести дальних объявлений.",
+        "Сели проверила маршрут. Трамвай до сада ходил; островной паром зависел от послеобеденного ветра.",
+        "Трамвай поднимался среди серебристой травы. Внизу недоделанная фонарная дорожка казалась крошечной рядом с рекой.",
+        "Тави репетировал великолепно звучавшее извинение. Иво спросил: «А где ты говоришь, что именно было неверно?»",
+        "Тави зачеркнул пышную речь. Вместо неё он указал, в чём состояло его ложное утверждение, изложил верные факты и объяснил, что будет делать иначе.",
+        "За поворотом среди красных листьев блеснули крыши сада. Иво указал на зал, где ждали два объявления.",
+        "Тави сошёл с папкой в руках. Теперь, чтобы быть услышанным, нужно было признать, что он сам не слушал."
+      ],
+      "introduction": "Тави едет с доставкой, неся конкретные исправления, а не требование простить его.",
+      "title": "Дорога за город"
+    },
+    "tr": {
+      "altTexts": [
+        "Tavi, Ivo’nun çantasının yanında altı düzeltme kartını gösteriyor.",
+        "Seli, Tavi ile Ivo’ya yolculuk güzergâhını gösteriyor.",
+        "Tavi ile Ivo, kapalı bahçe tramvayında güvenle oturuyor.",
+        "Tavi özür taslağını tutarken Ivo ona bakıyor.",
+        "Tavi, kucağındaki dosyanın üzerinde bir kartı düzeltiyor.",
+        "Ivo, tramvayın kapalı penceresinden bahçe salonunu gösteriyor.",
+        "Tavi, kapalı dosyasını bahçe salonuna taşıyor."
+      ],
+      "captions": [
+        "Ertesi gün şafakta Tavi, merkezde Ivo’yla buluştu. Uzaktaki altı duyuru için altı düzeltme taşıyorlardı.",
+        "Seli yolu kontrol etmişti. Meyve bahçesi tramvayı çalışıyordu; ada vapuru ise öğleden sonraki rüzgâra bağlıydı.",
+        "Tramvay gümüş rengi otların arasından yükseldi. Aşağıda, tamamlanmamış fener yolu nehrin yanında küçücük görünüyordu.",
+        "Tavi kulağa harika gelen bir özür deniyordu. Ivo, “Hangi bölümü insanlara gerçekten neyin yanlış olduğunu anlatıyor?” diye sordu.",
+        "Tavi gösterişli konuşmanın üzerini çizdi. Bunun yerine, hangi yanlış iddiada bulunduğunu belirtti, doğru bilgiyi verdi ve bundan sonra neyi farklı yapacağını açıkladı.",
+        "Son virajdan sonra bahçe çatıları kızıl yapraklar arasında parladı. Ivo, iki duyurunun beklediği salonu gösterdi.",
+        "Tavi dosyasıyla indi. Bu kez duyulmak, önce kendisinin dinlemediğini kabul etmekle başlayacaktı."
+      ],
+      "introduction": "Tavi teslimatlarla yola çıkar; yanında bağışlanma talebi değil, somut düzeltmeler vardır.",
+      "title": "Kasabanın Ötesindeki Yol"
+    },
+    "vi": {
+      "altTexts": [
+        "Tavi cho xem sáu thẻ đính chính cạnh túi của Ivo.",
+        "Seli chỉ lộ trình chuyến đi cho Tavi và Ivo.",
+        "Tavi và Ivo ngồi an toàn trong toa tàu điện kín.",
+        "Tavi cầm bản nháp xin lỗi trong khi Ivo xem.",
+        "Tavi sửa một tấm thẻ trên bìa hồ sơ đặt trong lòng.",
+        "Ivo chỉ nhà sinh hoạt vườn cây qua cửa sổ đóng kín của tàu điện.",
+        "Tavi mang tập hồ sơ đóng đến nhà sinh hoạt vườn cây."
+      ],
+      "captions": [
+        "Bình minh hôm sau, Tavi gặp Ivo ở trạm. Họ mang sáu bản đính chính cho sáu thông báo ở xa.",
+        "Seli đã kiểm tra lộ trình. Tàu điện đến vườn cây vẫn chạy; chuyến phà ra đảo còn tùy gió buổi chiều.",
+        "Tàu điện leo qua những bãi cỏ bạc. Bên dưới, con đường đèn lồng chưa xong trông nhỏ bé cạnh dòng sông.",
+        "Tavi tập một lời xin lỗi thật hay. Ivo hỏi: “Đoạn nào nói rõ điều gì thực sự sai?”",
+        "Tavi gạch bỏ bài diễn văn. Thay vào đó, cậu nêu rõ mình đã nói sai điều gì, trình bày sự thật và giải thích việc mình sẽ làm khác đi.",
+        "Qua khúc cua cuối, mái nhà giữa vườn cây sáng lên trong lá đỏ. Ivo chỉ nhà sinh hoạt nơi hai thông báo đang chờ.",
+        "Tavi bước xuống với tập hồ sơ. Lần này, muốn được nghe, cậu sẽ bắt đầu bằng việc nhận mình đã không lắng nghe."
+      ],
+      "introduction": "Tavi đi theo chuyến giao hàng, mang các đính chính cụ thể chứ không đòi được tha thứ.",
+      "title": "Con đường ngoài thị trấn"
+    },
+    "zh": {
+      "altTexts": [
+        "塔维在伊沃的邮包旁展示六张更正卡。",
+        "塞莉向塔维和伊沃展示行程路线。",
+        "塔维和伊沃安全地坐在果园电车车厢里。",
+        "塔维拿着道歉草稿，伊沃看着它。",
+        "塔维在膝上的文件夹上修改一张卡片。",
+        "伊沃透过电车关闭的车窗指向果园大厅。",
+        "塔维拿着合上的文件夹走向果园大厅。"
+      ],
+      "captions": [
+        "第二天黎明，塔维在邮递站与伊沃会合。他们带着六张更正，去替换远处的六份公告。",
+        "塞莉检查过路线。果园电车正常运行，去岛上的渡船则要看下午的风。",
+        "电车穿过银色草坡向上爬。下方尚未完成的灯笼步道，在河边显得很小。",
+        "塔维练习着一段漂亮的道歉。伊沃问：“哪一句告诉大家，你具体错在哪里？”",
+        "塔维划掉了那段华丽的演说，改为指出自己哪一句话不属实，说明正确的事实，并写清今后会怎样做。",
+        "转过最后一道弯，果园屋顶在红叶间闪光。伊沃指向等着两份公告的大厅。",
+        "塔维拿着文件夹走下车。这一次，想让别人听见自己，得先承认自己没有认真听。"
+      ],
+      "introduction": "塔维随送货路线出发，带着明确的更正，而不是要求别人原谅自己。",
+      "title": "小镇以外的路"
+    }
+  },
+  "number": 15,
+  "panels": [
+    {
+      "altText": "Tavi shows six correction cards beside Ivo’s satchel.",
+      "image": "N03E15P01.png"
+    },
+    {
+      "altText": "Seli shows Tavi and Ivo the travel route.",
+      "image": "N03E15P02.png"
+    },
+    {
+      "altText": "Tavi and Ivo sit safely inside the orchard tram.",
+      "image": "N03E15P03.png"
+    },
+    {
+      "altText": "Tavi holds an apology draft while Ivo looks at it.",
+      "image": "N03E15P04.png"
+    },
+    {
+      "altText": "Tavi revises one card on the folder in his lap.",
+      "image": "N03E15P05.png"
+    },
+    {
+      "altText": "Ivo points through the closed tram window toward the orchard hall.",
+      "image": "N03E15P06.png"
+    },
+    {
+      "altText": "Tavi carries his closed folder toward the orchard hall.",
+      "image": "N03E15P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "communication",
+    "listening",
+    "responsibility"
+  ],
+  "version": 1
+}

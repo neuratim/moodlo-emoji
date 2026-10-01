@@ -1,0 +1,439 @@
+{
+  "id": "N03E02",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يراقب تافي ونيري خروج ورقة رد كريمية اللون.",
+        "يقرأ تافي ورقة كريمية اللون عند كشك نيري.",
+        "تشير نيري بجوار الرسالة، بينما يمسك تافي بالرد.",
+        "تدفع نيري الآلة عبر المنضدة نحو تافي.",
+        "ينسخ تافي الرد بجوار أنبوب البريد في الورشة.",
+        "يدخل تافي بطاقة في كبسولة زرقاء واحدة.",
+        "تدخل كبسولة زرقاء مغلقة إلى الأنبوب بجوار تافي."
+      ],
+      "captions": [
+        "في كشك نيري، أصدرت الآلة طنينا. وانزلقت ورقة رد بلون كريمي إلى صينيتها النحاسية الصغيرة.",
+        "قال الرد: «من الواضح أنك لا تحترمين وقتي». قرأه تافي مرتين. بدا واثقا جدا.",
+        "أشارت نيري إلى الفراغ بجوار رسالته. «سمعت الآلة شكواك، لا تفسير لوما».",
+        "اشترى تافي الآلة رغم ذلك. أراد أن تفهم لوما ألمه من دون أن يضطر إلى قوله بصوته.",
+        "عاد تافي إلى ورشته ووضع الآلة بجوار أنبوب بريد البلدة. ثم نسخ جوابها على بطاقة.",
+        "كان لا يزال يستطيع إضافة: «ماذا حدث؟» لكنه أدخل البطاقة في كبسولة بريد زرقاء بدلا من ذلك.",
+        "اختفت الكبسولة داخل الأنبوب. شعر تافي بالراحة للحظة. لم تكن لوما قد استلمتها بعد."
+      ],
+      "introduction": "تحول الآلة الحزن إلى اتهام واثق، ويختار تافي إرساله.",
+      "title": "رد مصقول"
+    },
+    "bn": {
+      "altTexts": [
+        "টাভি ও নেরি ক্রিম রঙের উত্তর বের হতে দেখছে।",
+        "টাভি নেরির দোকানে ক্রিম রঙের কাগজ পড়ছে।",
+        "নেরি চিরকুটের পাশে দেখাচ্ছে, আর টাভি উত্তরটি ধরে আছে।",
+        "নেরি কাউন্টারের ওপর যন্ত্রটি টাভির দিকে ঠেলে দিচ্ছে।",
+        "টাভি কর্মশালার ডাকের নলের পাশে উত্তর নকল করছে।",
+        "টাভি একটি নীল ক্যাপসুলে কার্ড ঢোকাচ্ছে।",
+        "টাভির পাশে একটি বন্ধ নীল ক্যাপসুল নলে ঢুকছে।"
+      ],
+      "captions": [
+        "নেরির দোকানে যন্ত্রটি গুনগুন করল। হালকা ক্রিম রঙের উত্তর ছোট পিতলের ট্রেতে বেরিয়ে এল।",
+        "উত্তরে লেখা ছিল, “তুমি স্পষ্টতই আমার সময়কে সম্মান করো না।” টাভি দুবার পড়ল। কতটা আত্মবিশ্বাসের সঙ্গে বলা কথা!",
+        "নেরি চিরকুটের পাশের ফাঁকা জায়গায় টোকা দিল। “এটা তোমার অভিযোগ শুনেছে, লুমার ব্যাখ্যা নয়।”",
+        "তবুও টাভি যন্ত্রটি কিনল। মুখে না বলেও সে চাইছিল লুমা তার কষ্ট বুঝুক।",
+        "নিজের কর্মশালায় ফিরে টাভি যন্ত্রটি শহরের ডাক পাঠানোর নলের পাশে রাখল। তার উত্তর একটি কার্ডে লিখে নিল।",
+        "সে এখনও যোগ করতে পারত, “কী হয়েছিল?” কিন্তু তার বদলে কার্ডটি নীল ডাক-ক্যাপসুলে ঢুকিয়ে দিল।",
+        "ক্যাপসুলটি নলের মধ্যে মিলিয়ে গেল। এক মুহূর্তের জন্য টাভির হালকা লাগল। লুমা এখনও সেটি পায়নি।"
+      ],
+      "introduction": "যন্ত্রটি কষ্টকে নিশ্চিত অভিযোগে বদলে দেয়, আর টাভি সেটি পাঠানোর সিদ্ধান্ত নেয়।",
+      "title": "নিখুঁত শোনানো উত্তর"
+    },
+    "cs": {
+      "altTexts": [
+        "Tavi a Neri sledují, jak ze stroje vyjíždí odpověď.",
+        "Tavi čte krémový list u stánku Neri.",
+        "Neri ukazuje vedle vzkazu; Tavi drží odpověď.",
+        "Neri posouvá stroj přes pult k Tavimu.",
+        "Tavi opisuje odpověď vedle potrubní pošty v dílně.",
+        "Tavi vkládá kartičku do jedné modré kapsle.",
+        "Uzavřená modrá kapsle vjíždí do potrubí vedle Taviho."
+      ],
+      "captions": [
+        "U stánku Neri stroj tiše zabzučel. Do malé mosazné přihrádky vyklouzla odpověď na krémovém papíře.",
+        "Stálo v ní: „Zjevně si nevážíš mého času.“ Tavi si ji přečetl dvakrát. Zněla tak jistě.",
+        "Neri poklepala na prázdné místo vedle vzkazu. „Zná tvoji stížnost, ne Lumino vysvětlení.“",
+        "Tavi přesto stroj koupil. Chtěl, aby Luma pochopila jeho zklamání, aniž by jí o něm musel říct nahlas.",
+        "Doma v dílně postavil stroj vedle městské potrubní pošty. Jeho odpověď přepsal na kartičku.",
+        "Ještě mohl připsat: „Co se stalo?“ Místo toho zasunul kartičku do modré poštovní kapsle.",
+        "Kapsle zmizela v potrubí. Tavimu se na chvíli ulevilo. Luma ji ještě nedostala."
+      ],
+      "introduction": "Stroj změní zklamání v jistotu a Tavi se rozhodne odeslat obvinění.",
+      "title": "Uhlazená odpověď"
+    },
+    "de": {
+      "altTexts": [
+        "Tavi und Neri beobachten, wie eine cremefarbene Antwort herauskommt.",
+        "Tavi liest an Neris Stand ein cremefarbenes Blatt.",
+        "Neri zeigt neben die Nachricht; Tavi hält die Antwort.",
+        "Neri schiebt die Maschine über den Tresen zu Tavi.",
+        "Tavi schreibt neben der Rohrpost in der Werkstatt eine Antwort ab.",
+        "Tavi steckt eine Karte in eine einzelne blaue Kapsel.",
+        "Eine geschlossene blaue Kapsel fährt neben Tavi in das Rohr."
+      ],
+      "captions": [
+        "An Neris Stand summte die Maschine. Eine Antwort auf cremefarbenem Papier glitt in ihre kleine Messingschale.",
+        "Darin stand: „Offenbar respektierst du meine Zeit nicht.“ Tavi las es zweimal. Es klang so sicher.",
+        "Neri tippte auf die freie Stelle neben seiner Nachricht. „Sie kennt deine Beschwerde, aber nicht Lumas Erklärung.“",
+        "Tavi kaufte die Maschine trotzdem. Luma sollte verstehen, wie verletzt er war, ohne dass er es aussprechen musste.",
+        "Zurück in seiner Werkstatt stellte Tavi sie neben die städtische Rohrpost. Er schrieb ihre Antwort auf eine Karte ab.",
+        "Noch hätte er hinzufügen können: „Was ist passiert?“ Stattdessen schob er die Karte in eine blaue Postkapsel.",
+        "Die Kapsel verschwand im Rohr. Für einen Moment fühlte Tavi sich leichter. Luma hatte sie noch nicht erhalten."
+      ],
+      "introduction": "Die Maschine verwandelt Verletztheit in Gewissheit, und Tavi verschickt den Vorwurf.",
+      "title": "Eine geschliffene Antwort"
+    },
+    "en": {
+      "altTexts": [
+        "A cream reply emerges while Tavi and Neri watch.",
+        "Tavi reads a cream sheet at Neri’s stall.",
+        "Neri points beside the note while Tavi holds the reply.",
+        "Neri slides the machine across the counter to Tavi.",
+        "Tavi copies a reply beside the workshop’s message tube.",
+        "Tavi inserts a card into one blue capsule.",
+        "A closed blue capsule enters the tube beside Tavi."
+      ],
+      "captions": [
+        "At Neri’s stall, the machine hummed. A cream-colored reply slipped into its little brass tray.",
+        "The reply said, “You clearly do not respect my time.” Tavi read it twice. It sounded so certain.",
+        "Neri tapped the empty space beside his note. “It has heard your complaint, not Luma’s explanation.”",
+        "Tavi bought the machine anyway. He wanted Luma to understand his hurt without having to say it aloud.",
+        "Back in his workshop, Tavi placed it beside the town’s message tube. He copied its answer onto a card.",
+        "He could still have added, “What happened?” Instead, he slid the card into a blue message capsule.",
+        "The capsule vanished into the tube. For a moment, Tavi felt lighter. Luma had not received it yet."
+      ],
+      "introduction": "The machine converts hurt into certainty, and Tavi chooses to send the accusation.",
+      "title": "A Polished Reply"
+    },
+    "es": {
+      "altTexts": [
+        "Tavi y Neri observan cómo sale una respuesta color crema.",
+        "Tavi lee una hoja color crema en el puesto de Neri.",
+        "Neri señala junto a la nota mientras Tavi sostiene la respuesta.",
+        "Neri desliza la máquina por el mostrador hacia Tavi.",
+        "Tavi copia una respuesta junto al tubo de correo del taller.",
+        "Tavi introduce una tarjeta en una sola cápsula azul.",
+        "Una cápsula azul cerrada entra en el tubo junto a Tavi."
+      ],
+      "captions": [
+        "En el puesto de Neri, la máquina zumbó. Una respuesta en papel color crema salió a su pequeña bandeja de latón.",
+        "La respuesta decía: «Está claro que no respetas mi tiempo». Tavi la leyó dos veces. Sonaba tan segura.",
+        "Neri tocó el espacio vacío junto a su nota. «Ha recibido tu queja, no la explicación de Luma».",
+        "Tavi compró la máquina de todos modos. Quería que Luma entendiera su dolor sin tener que expresarlo en voz alta.",
+        "De vuelta en su taller, Tavi la colocó junto al correo neumático de la ciudad. Copió la respuesta en una tarjeta.",
+        "Todavía podía haber añadido: «¿Qué pasó?». En cambio, metió la tarjeta en una cápsula azul.",
+        "La cápsula desapareció por el tubo. Por un momento, Tavi se sintió más ligero. Luma todavía no la había recibido."
+      ],
+      "introduction": "La máquina convierte el dolor en certeza, y Tavi decide enviar una acusación.",
+      "title": "Una respuesta impecable"
+    },
+    "fr": {
+      "altTexts": [
+        "Tavi et Neri regardent sortir une réponse sur papier crème.",
+        "Tavi lit une feuille crème sur l’étal de Neri.",
+        "Neri montre l’espace près du mot ; Tavi tient la réponse.",
+        "Neri fait glisser la machine vers Tavi sur le comptoir.",
+        "Tavi recopie une réponse près du tube postal de l’atelier.",
+        "Tavi introduit une carte dans une seule capsule bleue.",
+        "Une capsule bleue fermée entre dans le tube près de Tavi."
+      ],
+      "captions": [
+        "Sur l’étal de Neri, la machine bourdonna. Une réponse sur papier crème glissa dans son petit plateau en laiton.",
+        "La réponse disait : « Manifestement, tu ne respectes pas mon temps. » Tavi la lut deux fois. Elle semblait si sûre d’elle.",
+        "Neri tapota l’espace vide près de son mot. « Elle a reçu ta plainte, pas l’explication de Luma. »",
+        "Tavi acheta tout de même la machine. Il voulait que Luma comprenne sa peine sans avoir à la dire à voix haute.",
+        "De retour à l’atelier, Tavi l’installa près du courrier pneumatique de la ville. Il recopia sa réponse sur une carte.",
+        "Il aurait encore pu ajouter : « Que s’est-il passé ? » À la place, il glissa la carte dans une capsule bleue.",
+        "La capsule disparut dans le tube. Un instant, Tavi se sentit plus léger. Luma ne l’avait pas encore reçue."
+      ],
+      "introduction": "La machine transforme la peine en certitude, et Tavi choisit d’envoyer l’accusation.",
+      "title": "Une réponse bien tournée"
+    },
+    "hi": {
+      "altTexts": [
+        "तावी और नेरी क्रीम रंग का जवाब बाहर आते देख रहे हैं।",
+        "तावी नेरी की दुकान पर क्रीम रंग का कागज़ पढ़ रहा है।",
+        "नेरी पर्चे के पास इशारा कर रही है और तावी जवाब पकड़े है।",
+        "नेरी काउंटर पर मशीन तावी की ओर सरका रही है।",
+        "तावी कार्यशाला की डाक-नली के पास जवाब नकल कर रहा है।",
+        "तावी एक नीले कैप्सूल में कार्ड डाल रहा है।",
+        "तावी के पास एक बंद नीला कैप्सूल नली में जा रहा है।"
+      ],
+      "captions": [
+        "नेरी की दुकान पर मशीन गुनगुनाई। हलके क्रीम रंग का जवाब पीतल की छोटी तश्तरी में निकल आया।",
+        "जवाब था, “तुम साफ तौर पर मेरे समय की कद्र नहीं करती।” तावी ने दो बार पढ़ा। कितने भरोसे से लिखा था!",
+        "नेरी ने उसके पर्चे के पास खाली जगह छुई। “इसने तुम्हारी शिकायत सुनी है, लूमा का कारण नहीं।”",
+        "फिर भी तावी ने मशीन खरीद ली। वह चाहता था कि बिना मुँह से कहे ही लूमा उसका दुख समझ जाए।",
+        "अपनी कार्यशाला में तावी ने मशीन को कस्बे की डाक-नली के पास रखा। उसने उसका जवाब एक कार्ड पर उतार लिया।",
+        "वह अब भी जोड़ सकता था, “क्या हुआ था?” लेकिन उसने कार्ड नीले डाक-कैप्सूल में डाल दिया।",
+        "कैप्सूल नली में गायब हो गया। पल भर को तावी हलका महसूस करने लगा। लूमा को संदेश अभी मिला नहीं था।"
+      ],
+      "introduction": "मशीन दुख को पक्के आरोप में बदल देती है और तावी उसे भेजने का फैसला करता है।",
+      "title": "सधा हुआ जवाब"
+    },
+    "id": {
+      "altTexts": [
+        "Tavi dan Neri memperhatikan balasan berwarna krem keluar dari mesin.",
+        "Tavi membaca kertas krem di kios Neri.",
+        "Neri menunjuk tempat di samping pesan; Tavi memegang balasan.",
+        "Neri menggeser mesin melintasi meja ke arah Tavi.",
+        "Tavi menyalin balasan di samping tabung pos bengkel.",
+        "Tavi memasukkan kartu ke dalam satu kapsul biru.",
+        "Kapsul biru tertutup memasuki tabung di dekat Tavi."
+      ],
+      "captions": [
+        "Di kios Neri, mesin itu berdengung. Balasan di kertas berwarna krem meluncur ke baki kuningan kecilnya.",
+        "Balasan itu berbunyi, “Jelas kamu tidak menghargai waktuku.” Tavi membacanya dua kali. Terdengar begitu yakin.",
+        "Neri mengetuk ruang kosong di sebelah pesan Tavi. “Mesin ini menerima keluhanmu, bukan penjelasan Luma.”",
+        "Tavi tetap membeli mesin itu. Ia ingin Luma memahami rasa sakit hatinya tanpa harus mengatakannya langsung.",
+        "Kembali di bengkelnya, Tavi meletakkan mesin di samping sistem pos tabung kota. Ia menyalin balasannya ke sebuah kartu.",
+        "Ia masih bisa menambahkan, “Apa yang terjadi?” Namun, ia justru memasukkan kartu itu ke dalam kapsul biru.",
+        "Kapsul menghilang ke dalam tabung. Sesaat, Tavi merasa lebih lega. Luma belum menerimanya."
+      ],
+      "introduction": "Mesin mengubah rasa kecewa menjadi kepastian, dan Tavi memilih mengirim tuduhan itu.",
+      "title": "Balasan yang Rapi"
+    },
+    "it": {
+      "altTexts": [
+        "Tavi e Neri osservano una risposta color crema uscire dalla macchina.",
+        "Tavi legge un foglio color crema alla bancarella di Neri.",
+        "Neri indica accanto al biglietto mentre Tavi tiene la risposta.",
+        "Neri fa scivolare la macchina sul banco verso Tavi.",
+        "Tavi copia una risposta accanto al tubo postale del laboratorio.",
+        "Tavi inserisce una cartolina in un’unica capsula blu.",
+        "Una capsula blu chiusa entra nel tubo accanto a Tavi."
+      ],
+      "captions": [
+        "Alla bancarella di Neri, la macchina ronzò. Una risposta su carta color crema scivolò nel piccolo vassoio d’ottone.",
+        "La risposta diceva: «È evidente che non rispetti il mio tempo». Tavi la lesse due volte. Sembrava così sicura.",
+        "Neri toccò lo spazio vuoto accanto al biglietto. «Ha ricevuto la tua lamentela, non la spiegazione di Luma».",
+        "Tavi comprò comunque la macchina. Voleva che Luma capisse quanto era ferito senza doverglielo dire ad alta voce.",
+        "Tornato in laboratorio, Tavi la sistemò accanto alla posta pneumatica della città. Copiò la risposta su una cartolina.",
+        "Avrebbe ancora potuto aggiungere: «Che cosa è successo?». Invece infilò la cartolina in una capsula blu.",
+        "La capsula scomparve nel tubo. Per un momento Tavi si sentì più leggero. Luma non l’aveva ancora ricevuta."
+      ],
+      "introduction": "La macchina trasforma il dispiacere in certezza e Tavi sceglie di spedire l’accusa.",
+      "title": "Una risposta impeccabile"
+    },
+    "ja": {
+      "altTexts": [
+        "タヴィとネリの前で、クリーム色の返信が出てきます。",
+        "タヴィがネリの店でクリーム色の紙を読んでいます。",
+        "ネリがメモの横を指し、タヴィが返信を持っています。",
+        "ネリがカウンターの上で機械をタヴィのほうへ押しています。",
+        "タヴィが作業場の郵便管のそばで返信を書き写しています。",
+        "タヴィが一つの青いカプセルにカードを入れています。",
+        "タヴィのそばで、閉じた青いカプセルが管へ入っています。"
+      ],
+      "captions": [
+        "ネリの店で機械がうなりました。クリーム色の返信用紙が、小さな真ちゅうの受け皿に滑り出ました。",
+        "「君は明らかに、ぼくの時間を大切にしていない」。タヴィは二度読みました。ずいぶん確かな言葉に聞こえます。",
+        "ネリはメモの隣を指しました。「この機械が聞いたのはあなたの不満。ルマの説明ではないわ」",
+        "それでもタヴィは機械を買いました。傷ついた気持ちを、自分の声で話さずにルマへ伝えたかったのです。",
+        "作業場に戻ると、タヴィは町の郵便管のそばに機械を置き、返信をカードに写しました。",
+        "「何があったの？」と付け加えることもできました。でもタヴィは、そのまま青い郵便カプセルにカードを入れました。",
+        "カプセルは管の中へ消えました。タヴィは少し楽になりました。ルマには、まだ届いていません。"
+      ],
+      "introduction": "機械は悲しさを断定的な非難に変え、タヴィはそのまま送ることを選びます。",
+      "title": "立派な返信"
+    },
+    "ko": {
+      "altTexts": [
+        "타비와 네리가 크림색 답장이 나오는 모습을 지켜봐요.",
+        "타비가 네리의 가게에서 크림색 종이를 읽어요.",
+        "네리가 쪽지 옆을 가리키고, 타비는 답장을 들고 있어요.",
+        "네리가 계산대 위의 기계를 타비 쪽으로 밀어 줘요.",
+        "타비가 작업실 우편관 옆에서 답장을 베껴 써요.",
+        "타비가 파란 캡슐 하나에 카드를 넣어요.",
+        "타비 옆에서 닫힌 파란 캡슐이 우편관 안으로 들어가요."
+      ],
+      "captions": [
+        "네리의 가게에서 기계가 윙윙거렸어요. 크림색 답장 한 장이 작은 놋쇠 받침으로 미끄러져 나왔어요.",
+        "“너는 분명 내 시간을 존중하지 않아.” 타비는 답장을 두 번 읽었어요. 얼마나 확신에 찬 말인가요.",
+        "네리는 쪽지 옆 빈 곳을 짚었어요. “이 기계는 네 불만만 들었어. 루마의 설명은 못 들었지.”",
+        "그래도 타비는 기계를 샀어요. 직접 입을 열지 않고도 루마가 자기 상처를 알아주길 바랐거든요.",
+        "작업실에 돌아온 타비는 마을 우편관 옆에 기계를 놓고, 기계의 답을 카드에 옮겨 썼어요.",
+        "“무슨 일이 있었어?”를 덧붙일 수도 있었어요. 하지만 타비는 그대로 카드를 파란 우편 캡슐에 넣었어요.",
+        "캡슐이 관 속으로 사라졌어요. 타비는 잠시 마음이 가벼워졌어요. 루마는 아직 그 답장을 받지 못했어요."
+      ],
+      "introduction": "기계는 서운함을 확신에 찬 비난으로 바꾸고, 타비는 그 말을 보내기로 합니다.",
+      "title": "그럴듯한 답장"
+    },
+    "pl": {
+      "altTexts": [
+        "Tavi i Neri patrzą, jak z maszyny wysuwa się kremowa odpowiedź.",
+        "Tavi czyta kremową kartkę przy straganie Neri.",
+        "Neri wskazuje miejsce obok wiadomości, a Tavi trzyma odpowiedź.",
+        "Neri przesuwa maszynę po ladzie w stronę Taviego.",
+        "Tavi przepisuje odpowiedź obok rury pocztowej w warsztacie.",
+        "Tavi wkłada kartonik do jednej niebieskiej kapsuły.",
+        "Zamknięta niebieska kapsuła wjeżdża do rury obok Taviego."
+      ],
+      "captions": [
+        "Na straganie Neri maszyna zabuczała. Na małą mosiężną tackę wysunęła się odpowiedź na kremowym papierze.",
+        "Odpowiedź brzmiała: „Wyraźnie nie szanujesz mojego czasu”. Tavi przeczytał ją dwa razy. Brzmiała tak pewnie.",
+        "Neri stuknęła w puste miejsce obok jego wiadomości. „Poznała twoją skargę, a nie wyjaśnienie Lumy”.",
+        "Tavi mimo wszystko kupił maszynę. Chciał, żeby Luma zrozumiała jego przykrość, bez konieczności mówienia o niej na głos.",
+        "Po powrocie do warsztatu postawił ją obok miejskiej poczty pneumatycznej. Przepisał odpowiedź na kartonik.",
+        "Wciąż mógł dopisać: „Co się stało?” Zamiast tego wsunął kartonik do niebieskiej kapsuły.",
+        "Kapsuła zniknęła w rurze. Przez chwilę Tavi poczuł ulgę. Luma jeszcze jej nie otrzymała."
+      ],
+      "introduction": "Maszyna zmienia przykrość w pewność, a Tavi postanawia wysłać oskarżenie.",
+      "title": "Gładka odpowiedź"
+    },
+    "pt": {
+      "altTexts": [
+        "Tavi e Neri observam uma resposta em papel creme sair da máquina.",
+        "Tavi lê uma folha creme na barraca de Neri.",
+        "Neri aponta ao lado do bilhete enquanto Tavi segura a resposta.",
+        "Neri desliza a máquina pelo balcão até Tavi.",
+        "Tavi copia uma resposta perto do tubo de correio da oficina.",
+        "Tavi coloca um cartão em uma única cápsula azul.",
+        "Uma cápsula azul fechada entra no tubo perto de Tavi."
+      ],
+      "captions": [
+        "Na barraca de Neri, a máquina zumbiu. Uma resposta em papel creme deslizou para a pequena bandeja de latão.",
+        "A resposta dizia: “Está claro que você não respeita meu tempo.” Tavi leu duas vezes. Parecia tão segura.",
+        "Neri tocou o espaço vazio ao lado do bilhete. “Ela recebeu sua reclamação, não a explicação de Luma.”",
+        "Mesmo assim, Tavi comprou a máquina. Queria que Luma entendesse sua mágoa sem precisar falar sobre ela em voz alta.",
+        "De volta à oficina, Tavi a colocou ao lado do correio pneumático da cidade. Copiou a resposta em um cartão.",
+        "Ainda podia acrescentar: “O que aconteceu?” Em vez disso, colocou o cartão em uma cápsula azul.",
+        "A cápsula desapareceu pelo tubo. Por um instante, Tavi se sentiu mais leve. Luma ainda não a havia recebido."
+      ],
+      "introduction": "A máquina transforma mágoa em certeza, e Tavi decide enviar a acusação.",
+      "title": "Uma resposta bem escrita"
+    },
+    "ru": {
+      "altTexts": [
+        "Тави и Нери смотрят, как из машины выходит кремовый лист.",
+        "Тави читает кремовый лист у прилавка Нери.",
+        "Нери указывает на стол рядом с запиской; Тави держит ответ.",
+        "Нери передвигает машину по прилавку к Тави.",
+        "Тави переписывает ответ возле почтовой трубы в мастерской.",
+        "Тави вкладывает карточку в одну синюю капсулу.",
+        "Закрытая синяя капсула входит в трубу рядом с Тави."
+      ],
+      "captions": [
+        "У прилавка Нери машина загудела. В маленький латунный лоток выскользнул кремовый лист с ответом.",
+        "«Ты явно не уважаешь моё время», — гласил ответ. Тави прочёл его дважды. Как уверенно это звучало!",
+        "Нери указала на место возле его записки. «Машина услышала твою жалобу, но не объяснение Лумы».",
+        "И всё же Тави купил машину. Он хотел, чтобы Лума поняла его обиду, но не хотел говорить о ней вслух.",
+        "В мастерской Тави поставил машину рядом с городской почтовой трубой. Он переписал ответ на карточку.",
+        "Он ещё мог добавить: «Что случилось?» Но вместо этого вложил карточку в синюю почтовую капсулу.",
+        "Капсула исчезла в трубе. На мгновение Тави стало легче. Лума ещё не получила его послание."
+      ],
+      "introduction": "Машина превращает обиду в уверенное обвинение, и Тави решает его отправить.",
+      "title": "Безупречный ответ"
+    },
+    "tr": {
+      "altTexts": [
+        "Tavi ile Neri, makineden çıkan krem renkli yanıtı izliyor.",
+        "Tavi, Neri’nin tezgâhında krem renkli bir kâğıdı okuyor.",
+        "Neri notun yanını gösterirken Tavi yanıtı tutuyor.",
+        "Neri, makineyi tezgâhın üzerinden Tavi’ye doğru kaydırıyor.",
+        "Tavi, atölyedeki posta borusunun yanında yanıtı kopyalıyor.",
+        "Tavi, bir kartı tek bir mavi kapsüle koyuyor.",
+        "Kapalı mavi bir kapsül, Tavi’nin yanındaki boruya giriyor."
+      ],
+      "captions": [
+        "Neri’nin tezgâhında makine vızıldadı. Krem renkli kâğıda yazılmış bir yanıt, küçük pirinç tepsisine kaydı.",
+        "Yanıtta, “Zamanıma saygı duymadığın açık,” yazıyordu. Tavi iki kez okudu. Ne kadar da kesin konuşuyordu.",
+        "Neri, notun yanındaki boşluğa dokundu. “Senin şikâyetini duydu, Luma’nın açıklamasını değil.”",
+        "Tavi yine de makineyi satın aldı. Kırgınlığını yüksek sesle anlatmadan Luma’nın anlamasını istiyordu.",
+        "Atölyesine dönünce makineyi kasabanın borulu posta sisteminin yanına koydu. Yanıtı bir karta geçirdi.",
+        "Hâlâ “Ne oldu?” diye ekleyebilirdi. Bunun yerine kartı mavi bir posta kapsülüne yerleştirdi.",
+        "Kapsül boruda kayboldu. Tavi bir an için hafifledi. Luma henüz mesajı almamıştı."
+      ],
+      "introduction": "Makine kırgınlığı kesinliğe dönüştürür ve Tavi suçlamayı göndermeyi seçer.",
+      "title": "Özenli Bir Yanıt"
+    },
+    "vi": {
+      "altTexts": [
+        "Tavi và Neri nhìn tờ giấy màu kem đi ra khỏi máy.",
+        "Tavi đọc tờ giấy màu kem tại quầy Neri.",
+        "Neri chỉ cạnh lời nhắn, còn Tavi cầm câu trả lời.",
+        "Neri đẩy chiếc máy qua quầy về phía Tavi.",
+        "Tavi chép câu trả lời cạnh ống chuyển thư trong xưởng.",
+        "Tavi cho một tấm thẻ vào ống đựng thư màu xanh duy nhất.",
+        "Ống đựng thư màu xanh đã đóng đi vào đường ống cạnh Tavi."
+      ],
+      "captions": [
+        "Tại quầy của Neri, chiếc máy kêu vo vo. Một câu trả lời trên giấy màu kem trượt ra khay đồng nhỏ.",
+        "Câu trả lời viết: “Rõ ràng cậu không tôn trọng thời gian của mình.” Tavi đọc hai lần. Nó nghe thật chắc chắn.",
+        "Neri chạm vào chỗ trống cạnh lời nhắn. “Nó nhận được lời phàn nàn của cậu, chứ không phải lời giải thích của Luma.”",
+        "Tavi vẫn mua chiếc máy. Cậu muốn Luma hiểu mình bị tổn thương mà không phải nói thành lời.",
+        "Về xưởng, Tavi đặt máy cạnh hệ thống chuyển thư bằng ống của thị trấn. Cậu chép câu trả lời lên một tấm thẻ.",
+        "Cậu vẫn có thể thêm: “Chuyện gì đã xảy ra?” Nhưng thay vào đó, cậu bỏ thẻ vào một ống đựng thư màu xanh.",
+        "Ống đựng thư biến mất trong đường ống. Tavi thấy nhẹ lòng trong chốc lát. Luma vẫn chưa nhận được nó."
+      ],
+      "introduction": "Chiếc máy biến nỗi buồn thành sự chắc chắn, và Tavi chọn gửi lời buộc tội.",
+      "title": "Câu trả lời trau chuốt"
+    },
+    "zh": {
+      "altTexts": [
+        "塔维和内莉看着米白色的回复纸从机器里滑出。",
+        "塔维在内莉的摊位前读一张米白色的纸。",
+        "内莉指着纸条旁边，塔维拿着回复。",
+        "内莉把机器沿柜台推向塔维。",
+        "塔维在工作室的邮递管旁抄写回复。",
+        "塔维把卡片放进一个蓝色邮递胶囊。",
+        "一个合好的蓝色胶囊正进入塔维旁边的管道。"
+      ],
+      "captions": [
+        "在内莉的摊位上，机器嗡嗡作响。一张米白色的回复纸滑进了小铜托盘。",
+        "回复写着：“你显然不尊重我的时间。”塔维读了两遍。它的语气多么肯定。",
+        "内莉点了点纸条旁边的空处：“它听到了你的抱怨，却没听到卢玛的解释。”",
+        "塔维还是买下了机器。他希望卢玛懂得他的难过，却不愿亲口说出来。",
+        "回到工作室，塔维把它放在小镇的邮递管旁，把回复抄到一张卡片上。",
+        "他本来还可以加一句：“发生了什么事？”可他只是把卡片塞进了蓝色邮递胶囊。",
+        "胶囊消失在管道里。塔维暂时轻松了一些。卢玛这时还没有收到它。"
+      ],
+      "introduction": "机器把难过变成了肯定的指责，塔维选择把它寄出去。",
+      "title": "漂亮的回复"
+    }
+  },
+  "number": 2,
+  "panels": [
+    {
+      "altText": "A cream reply emerges while Tavi and Neri watch.",
+      "image": "N03E02P01.png"
+    },
+    {
+      "altText": "Tavi reads a cream sheet at Neri’s stall.",
+      "image": "N03E02P02.png"
+    },
+    {
+      "altText": "Neri points beside the note while Tavi holds the reply.",
+      "image": "N03E02P03.png"
+    },
+    {
+      "altText": "Neri slides the machine across the counter to Tavi.",
+      "image": "N03E02P04.png"
+    },
+    {
+      "altText": "Tavi copies a reply beside the workshop’s message tube.",
+      "image": "N03E02P05.png"
+    },
+    {
+      "altText": "Tavi inserts a card into one blue capsule.",
+      "image": "N03E02P06.png"
+    },
+    {
+      "altText": "A closed blue capsule enters the tube beside Tavi.",
+      "image": "N03E02P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "communication",
+    "listening",
+    "responsibility"
+  ],
+  "version": 1
+}

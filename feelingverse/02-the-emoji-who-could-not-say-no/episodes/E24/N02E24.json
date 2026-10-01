@@ -1,0 +1,442 @@
+{
+  "id": "N02E24",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يعيد روك فحص العبّارة وهي لا تزال مربوطة.",
+        "تستريح ميند تحت المظلة الزرقاء وروك يقود العبّارة.",
+        "تصل العبّارة إلى لوما والقوس المنخفض والفوانيس الستة في البعيد.",
+        "يخاطب بورو ميند بصراحة قرب القوس المنخفض.",
+        "تصغي ميند لبورو ولا يظهر شريط مهمة جديد.",
+        "أدوات الغد جاهزة بجانب الطائرة التي لم تُصلح بعد.",
+        "تغلق ميند الباب وشريط واحد مرتخٍ قربها."
+      ],
+      "captions": [
+        "في وقت لاحق بعد الظهر، خف المطر وهدأ النهر. فحص روك القارب والطريق مرة أخرى قبل السماح بالصعود.",
+        "لم يغادروا إلى لوما إلا بعد الفحوص. جلست ميند تحت المظلة التي أصلحتها، بينما قاد روك القارب.",
+        "بعد ساعتين، ظهرت فوانيس لوما الستة خلف الرصيف. كان القوس منخفضًا بما يكفي لترى ميند السماء فوقه.",
+        "قابلهم بورو في الساحة. قال: «تم الافتتاح، لكنني ما زلت مستاءً من تغيير الخطة في هذا الوقت المتأخر».",
+        "أجابت ميند: «أفهم. في المرة المقبلة أتحقق قبل الإجابة». لم تعده بألا يشعر بخيبة أمل مرة أخرى أبدًا.",
+        "في الورشة، انتظرت الطائرة على الرف. وضعت ميند الأدوات قربها، استعدادًا للصباح المتفق عليه، لا لليلة أخرى بلا نوم.",
+        "تمنى تافي وهاش لها ليلة طيبة. أغلقت ميند الورشة. بقي شريط برتقالي واحد، وصار في الغد متسع أخيرًا."
+      ],
+      "introduction": "تعود ميند بعد فحص السلامة وتسمع استياء بورو الذي لم يختفِ.",
+      "title": "عودة بلا تصفيق"
+    },
+    "bn": {
+      "altTexts": [
+        "রুক এখনও বাঁধা নৌকা আবার দেখছে।",
+        "মেন্ড নীল ছাউনির নিচে বিশ্রাম করে, রুক নৌকা চালায়।",
+        "ফেরার নৌকা থেকে দূরে নিচু তোরণ ও ছয় লণ্ঠন দেখা যায়।",
+        "বোরো নিচু তোরণের পাশে মেন্ডকে সত্যি অনুভূতি জানায়।",
+        "মেন্ড বোরোকে শোনে; কোনও নতুন কাজের ফিতা তৈরি হয় না।",
+        "এখনও ভাঙা ঘুড়ির পাশে সকালের যন্ত্র প্রস্তুত।",
+        "মেন্ড দরজা বন্ধ করে; একমাত্র কমলা ফিতা আলগা।"
+      ],
+      "captions": [
+        "বিকেলের শেষ দিকে বৃষ্টি কমল, নদী শান্ত হলো। কাউকে ওঠানোর আগে রুক নৌকা ও পথ আবার পরীক্ষা করল।",
+        "পরীক্ষার পরেই লুমার পথে ছাড়ল। রুক চালাচ্ছিল, মেন্ড নিজের সারানো ছাউনির নিচে বসল।",
+        "দু ঘণ্টা পরে ঘাটের ওপারে লুমার ছয় লণ্ঠন দেখা গেল। তোরণ নিচু বলে তার ওপরের আকাশও দেখা যাচ্ছিল।",
+        "চত্বরে বোরোর সঙ্গে দেখা। “উদ্বোধন হয়েছে,” সে বলল। “তবু এত কাছে এসে বদলাতে হওয়ায় এখনও খারাপ লাগছে।”",
+        "“বুঝি,” মেন্ড বলল। “পরের বার উত্তর দেওয়ার আগে দেখব।” বোরোকে আর কখনও হতাশ হতে হবে না, এমন কথা দিল না।",
+        "কর্মশালায় ঘুড়িটি তাকের ওপর অপেক্ষা করছিল। মেন্ড পাশে যন্ত্র রাখল—ঠিক করা সকালের জন্য, আরেকটি জাগা রাতের জন্য নয়।",
+        "টাভি ও হাশ শুভরাত্রি বলল। মেন্ড কর্মশালা বন্ধ করল। একটি কমলা ফিতা বাকি, আর কালকের দিনে অবশেষে ফাঁকা জায়গা আছে।"
+      ],
+      "introduction": "নিরাপদে ফিরে মেন্ড বোরোর বাকি মনখারাপও শোনে।",
+      "title": "করতালি ছাড়া ঘরে ফেরা"
+    },
+    "cs": {
+      "altTexts": [
+        "Rook kontroluje zastřešený přívoz a tři přátelé čekají na břehu.",
+        "Mend a přátelé plují pod opravenou modrou stříškou.",
+        "Přátelé přijíždějí do městečka Luma se šesti nízkými světly za nábřežím.",
+        "Boro mluví s Mend u nízkého lampionového oblouku.",
+        "Mend naslouchá a odpovídá Borovi s otevřenou dlaní.",
+        "Mend ukládá nástroje vedle stále rozbitého draka.",
+        "Mend zavírá dveře dílny a Tavi s Hushem odcházejí."
+      ],
+      "captions": [
+        "Později odpoledne déšť zeslábl a řeka se uklidnila. Rook znovu zkontroloval loď i trasu, než dovolil nastoupit.",
+        "Teprve po kontrole vypluli do městečka Luma. Mend seděla pod opravenou stříškou a Rook řídil loď.",
+        "O dvě hodiny později se za nábřežím objevilo šest lampionů v městečku Luma. Oblouk byl tak nízký, že Mend nad ním viděla nebe.",
+        "Na náměstí je potkal Boro. „Zahájení proběhlo,“ řekl. „Pořád mě mrzí, že se muselo tak pozdě změnit.“",
+        "„Rozumím,“ odpověděla Mend. „Příště si vše ověřím před odpovědí.“ Neslíbila, že Boro už nikdy nebude zklamaný.",
+        "V dílně čekal drak na polici. Mend vedle něj nachystala nástroje na dohodnuté ráno, ne na další probdělou noc.",
+        "Tavi a Hush popřáli dobrou noc. Mend zavřela dílnu. Zůstala jedna oranžová stuha a kolem zítřka bylo konečně volné místo."
+      ],
+      "introduction": "Mend se vrací do městečka Luma a obyčejným rozhovorem začíná obnovovat důvěru.",
+      "title": "Domů bez potlesku"
+    },
+    "de": {
+      "altTexts": [
+        "Rook prüft die überdachte Fähre, während drei Freunde an Land warten.",
+        "Mend und ihre Freunde fahren unter dem reparierten blauen Dach.",
+        "Die Freunde kommen in Luma an, wo sechs niedrige Laternen hinter dem Kai leuchten.",
+        "Boro spricht mit Mend neben dem niedrigen Laternenbogen.",
+        "Mend hört Boro zu und antwortet mit offener Hand.",
+        "Mend legt ihre Werkzeugrolle neben den noch kaputten Drachen.",
+        "Mend schließt die Werkstatttür, während Tavi und Hush gehen."
+      ],
+      "captions": [
+        "Später am Nachmittag ließ der Regen nach, und der Fluss beruhigte sich. Rook prüfte Boot und Strecke erneut, bevor jemand einsteigen durfte.",
+        "Erst nach den Kontrollen fuhren sie nach Luma. Mend saß unter dem Dach, das sie repariert hatte, während Rook das Boot steuerte.",
+        "Zwei Stunden später erschienen Lumas sechs Laternen hinter dem Kai. Der Bogen war so niedrig, dass Mend darüber den Himmel sehen konnte.",
+        "Auf dem Platz trafen sie Boro. „Die Eröffnung fand statt“, sagte er. „Ich ärgere mich noch immer, dass wir so spät alles ändern mussten.“",
+        "„Das verstehe ich“, antwortete Mend. „Nächstes Mal prüfe ich erst, bevor ich antworte.“ Sie versprach nicht, dass Boro nie wieder enttäuscht wäre.",
+        "In der Werkstatt wartete der Drachen im Regal. Mend legte das Werkzeug daneben, bereit für den vereinbarten Morgen – nicht für eine weitere schlaflose Nacht.",
+        "Tavi und Hush sagten gute Nacht. Mend schloss die Werkstatt. Ein orangefarbenes Band blieb, und der morgige Tag hatte endlich Platz darum herum."
+      ],
+      "introduction": "Mend kehrt nach Luma zurück und beginnt mit einem gewöhnlichen Gespräch, Vertrauen aufzubauen.",
+      "title": "Ohne Applaus nach Hause"
+    },
+    "en": {
+      "altTexts": [
+        "Rook checks the covered ferry while the three friends wait ashore.",
+        "Mend and friends travel beneath the repaired blue awning.",
+        "The friends arrive at Luma with six low lanterns beyond the quay.",
+        "Boro speaks with Mend beside the low lantern arch.",
+        "Mend listens and answers Boro with an open hand.",
+        "Mend sets her tool roll beside the still-broken kite.",
+        "Mend closes the workshop door as Tavi and Hush leave."
+      ],
+      "captions": [
+        "Later that afternoon, the rain eased and the river settled. Rook checked the boat and route again before allowing anyone aboard.",
+        "Only after the checks did they leave for Luma. Mend sat beneath the awning she had repaired, while Rook steered the boat.",
+        "Two hours later, Luma's six lanterns appeared beyond the quay. The arch was small enough for Mend to see the sky above it.",
+        "In the square, Boro met them. “The opening happened,” he said. “I am still unhappy about changing it so late.”",
+        "“I understand,” Mend replied. “Next time, I will check before answering.” She did not promise that Boro would never be disappointed again.",
+        "Back at the workshop, the kite waited on its shelf. Mend put the tools beside it, ready for their agreed morning—not for another sleepless night.",
+        "Tavi and Hush said goodnight. Mend closed the workshop. One orange ribbon remained, and tomorrow finally had room around it."
+      ],
+      "introduction": "Mend returns to Luma and begins repairing trust through an ordinary conversation.",
+      "title": "Home Without Applause"
+    },
+    "es": {
+      "altTexts": [
+        "Rook revisa el transbordador cubierto mientras los amigos esperan en tierra.",
+        "Mend y sus amigos viajan bajo el toldo azul reparado.",
+        "Los amigos llegan a Luma, con seis luces bajas más allá del muelle.",
+        "Boro habla con Mend junto al arco bajo de faroles.",
+        "Mend escucha y responde a Boro con una mano abierta.",
+        "Mend deja sus herramientas junto a la cometa todavía rota.",
+        "Mend cierra la puerta del taller mientras Tavi y Hush se marchan."
+      ],
+      "captions": [
+        "Más tarde, la lluvia disminuyó y el río se calmó. Rook revisó otra vez el barco y la ruta antes de permitir que nadie subiera.",
+        "Solo después de las revisiones salieron hacia Luma. Mend se sentó bajo el toldo que había reparado, mientras Rook dirigía el barco.",
+        "Dos horas después aparecieron los seis faroles de Luma detrás del muelle. El arco era tan bajo que Mend podía ver el cielo por encima.",
+        "En la plaza los recibió Boro. «La inauguración se celebró», dijo. «Sigo molesto por haber tenido que cambiarla tan tarde».",
+        "«Lo entiendo», respondió Mend. «La próxima vez comprobaré antes de responder». No prometió que Boro nunca volvería a sentirse decepcionado.",
+        "En el taller, la cometa esperaba en su estantería. Mend dejó las herramientas al lado, listas para la mañana acordada, no para otra noche sin dormir.",
+        "Tavi y Hush se despidieron. Mend cerró el taller. Quedaba una cinta naranja, y el día siguiente por fin tenía espacio a su alrededor."
+      ],
+      "introduction": "Mend regresa a Luma y empieza a reparar la confianza mediante una conversación sencilla.",
+      "title": "Volver sin aplausos"
+    },
+    "fr": {
+      "altTexts": [
+        "Rook vérifie le bac couvert tandis que trois amis attendent à terre.",
+        "Mend et ses amis voyagent sous l’auvent bleu réparé.",
+        "Les amis arrivent à Luma avec six lumières basses derrière le quai.",
+        "Boro parle à Mend près de l’arche basse de lanternes.",
+        "Mend écoute et répond à Boro, une main ouverte.",
+        "Mend pose sa trousse près du cerf-volant toujours cassé.",
+        "Mend ferme la porte de l’atelier pendant que Tavi et Hush partent."
+      ],
+      "captions": [
+        "Plus tard dans l’après-midi, la pluie faiblit et le fleuve se calma. Rook vérifia de nouveau le bateau et le trajet avant de laisser monter quiconque.",
+        "Ils partirent pour Luma seulement après les contrôles. Mend s’assit sous l’auvent qu’elle avait réparé pendant que Rook pilotait le bateau.",
+        "Deux heures plus tard, les six lanternes de Luma apparurent derrière le quai. L’arche était assez basse pour que Mend voie le ciel au-dessus.",
+        "Boro les retrouva sur la place. « L’ouverture a eu lieu, dit-il. Je suis encore contrarié d’avoir dû la modifier si tard. »",
+        "« Je comprends, répondit Mend. La prochaine fois, je vérifierai avant de répondre. » Elle ne promit pas que Boro ne serait plus jamais déçu.",
+        "À l’atelier, le cerf-volant attendait sur son étagère. Mend posa les outils à côté, pour le matin convenu, pas pour une nouvelle nuit blanche.",
+        "Tavi et Hush lui souhaitèrent bonne nuit. Mend ferma l’atelier. Un seul ruban orange restait, et le lendemain avait enfin de la place autour de lui."
+      ],
+      "introduction": "Mend revient à Luma et commence à rétablir la confiance par une conversation ordinaire.",
+      "title": "Rentrer sans applaudissements"
+    },
+    "hi": {
+      "altTexts": [
+        "रूक अभी बँधी नाव की दोबारा जाँच करता है।",
+        "मेंड नीले छाजन तले आराम करती है, रूक नाव चलाता है।",
+        "लौटती नाव से नीचे द्वार और छह लालटेनें दूर दिखाई देती हैं।",
+        "बोरो नीचे द्वार के पास मेंड से अपनी बात खुलकर कहता है।",
+        "मेंड बोरो को सुनती है; कोई नया काम वाला रिबन नहीं बनता।",
+        "अब भी टूटी पतंग के पास सुबह के औज़ार तैयार हैं।",
+        "मेंड दरवाज़ा बंद करती है; अकेला नारंगी रिबन ढीला है।"
+      ],
+      "captions": [
+        "देर दोपहर बारिश थमी और नदी शांत हुई। रूक ने किसी को चढ़ाने से पहले नाव और रास्ता फिर जाँचा।",
+        "जाँच के बाद ही वे लूमा चले। रूक नाव चला रहा था और मेंड अपने सुधारे छाजन के नीचे बैठी थी।",
+        "दो घंटे बाद घाट के पार लूमा की छह लालटेनें दिखीं। द्वार इतना छोटा था कि उसके ऊपर का आसमान भी दिख रहा था।",
+        "चौक में बोरो मिला। “उद्घाटन हो गया,” उसने कहा। “लेकिन इतनी देर से बदलना पड़ा, उसका दुख अभी है।”",
+        "“समझती हूँ,” मेंड बोली। “अगली बार जवाब से पहले जाँचूँगी।” उसने बोरो के फिर कभी निराश न होने का वादा नहीं किया।",
+        "कार्यशाला में पतंग शेल्फ पर थी। मेंड ने उसके पास औज़ार रखे—तय सुबह के लिए, एक और जागी रात के लिए नहीं।",
+        "तावी और हश ने शुभरात्रि कहा। मेंड ने कार्यशाला बंद की। एक नारंगी रिबन बचा था और कल के दिन में आखिर खाली जगह थी।"
+      ],
+      "introduction": "सुरक्षित यात्रा के बाद मेंड बोरो की बची हुई नाराज़गी भी सुनती है।",
+      "title": "बिना तालियों के घर वापसी"
+    },
+    "id": {
+      "altTexts": [
+        "Rook melakukan pemeriksaan di feri yang masih tertambat.",
+        "Mend beristirahat di bawah tudung biru; Rook mengendalikan feri.",
+        "Feri tiba di Luma dengan gerbang rendah tampak di kejauhan.",
+        "Boro berbicara terus terang kepada Mend di dekat gerbang rendah.",
+        "Mend mendengarkan Boro tanpa membuat janji tugas baru.",
+        "Alat disiapkan di dekat layang-layang yang masih perlu diperbaiki.",
+        "Mend menutup pintu bengkel dengan satu pita jingga longgar."
+      ],
+      "captions": [
+        "Sore harinya, hujan mereda dan sungai tenang. Rook memeriksa kembali perahu dan jalur sebelum mengizinkan siapa pun naik.",
+        "Baru setelah pemeriksaan mereka berangkat ke Luma. Mend duduk di bawah tudung hasil perbaikannya, sementara Rook mengemudikan perahu.",
+        "Dua jam kemudian, enam lampion Luma tampak di belakang dermaga. Gerbangnya cukup rendah sehingga Mend dapat melihat langit di atasnya.",
+        "Di alun-alun, Boro menemui mereka. “Pembukaannya tetap berlangsung,” katanya. “Tetapi aku masih kecewa harus mengubahnya begitu dekat waktunya.”",
+        "“Aku mengerti,” jawab Mend. “Lain kali, aku memeriksa sebelum menjawab.” Ia tidak menjanjikan bahwa Boro tak akan pernah kecewa lagi.",
+        "Di bengkel, layang-layang menunggu di rak. Mend menyiapkan alat di dekatnya untuk pagi yang disepakati, bukan untuk kembali bekerja tanpa tidur.",
+        "Tavi dan Hush mengucapkan selamat malam. Mend menutup bengkel. Satu pita jingga tersisa, dan akhirnya jadwal besok tidak sesak."
+      ],
+      "introduction": "Mend pulang setelah pemeriksaan keselamatan dan menerima kekecewaan Boro.",
+      "title": "Pulang Tanpa Tepuk Tangan"
+    },
+    "it": {
+      "altTexts": [
+        "Rook controlla il traghetto coperto mentre tre amici aspettano a terra.",
+        "Mend e gli amici viaggiano sotto la copertura blu riparata.",
+        "Gli amici arrivano a Luma, con sei luci basse oltre il molo.",
+        "Boro parla con Mend vicino all’arco basso di lanterne.",
+        "Mend ascolta e risponde a Boro con una mano aperta.",
+        "Mend posa gli attrezzi vicino all’aquilone ancora rotto.",
+        "Mend chiude la porta mentre Tavi e Hush se ne vanno."
+      ],
+      "captions": [
+        "Più tardi la pioggia diminuì e il fiume si calmò. Rook controllò di nuovo barca e percorso prima di far salire qualcuno.",
+        "Solo dopo i controlli partirono verso Luma. Mend sedeva sotto la copertura che aveva riparato, mentre Rook guidava la barca.",
+        "Due ore dopo apparvero le sei lanterne di Luma oltre il molo. L’arco era tanto basso che Mend poteva vedere il cielo sopra.",
+        "In piazza incontrarono Boro. «L’inaugurazione si è fatta», disse. «Sono ancora dispiaciuto per averla cambiata così tardi».",
+        "«Capisco», rispose Mend. «La prossima volta controllerò prima di rispondere». Non promise che Boro non sarebbe mai più stato deluso.",
+        "In laboratorio l’aquilone aspettava sullo scaffale. Mend sistemò gli attrezzi accanto, pronti per la mattina concordata, non per un’altra notte insonne.",
+        "Tavi e Hush augurarono la buonanotte. Mend chiuse il laboratorio. Rimaneva un nastro arancione e il domani aveva finalmente spazio intorno."
+      ],
+      "introduction": "Mend torna a Luma e comincia a ricostruire la fiducia con una semplice conversazione.",
+      "title": "Tornare senza applausi"
+    },
+    "ja": {
+      "altTexts": [
+        "ルークが係留中の渡し船を再点検しています。",
+        "メンドが青い雨よけの下で休み、ルークが船を操っています。",
+        "ルマに着く船から、低い門と六つのちょうちんが見えます。",
+        "ボロが低い門のそばで、メンドに率直な気持ちを伝えています。",
+        "メンドがボロの話を聞き、新しい仕事のリボンは現れていません。",
+        "未修理のたこの横に、翌朝使う道具が置かれています。",
+        "メンドが扉を閉め、一本のリボンがゆるく垂れています。"
+      ],
+      "captions": [
+        "その午後遅く、雨が弱まり、川も落ち着きました。ルークは誰かを乗せる前に、船と航路をもう一度確かめました。",
+        "確認が済んでから、ルマへ出発しました。ルークが船を操り、メンドは自分が直した雨よけの下に座りました。",
+        "二時間後、船着き場の向こうにルマの六つのちょうちんが見えました。低い門の上には、空も見えていました。",
+        "広場でボロに会いました。「開会はできた」と言いました。「でも、間近になって変えることになったのは、まだ不満だよ」",
+        "「わかる」とメンド。「次は答える前に確かめるね」ボロを二度とがっかりさせないとは、約束しませんでした。",
+        "作業場では、たこが棚で待っていました。メンドは道具をそばへ置きました。約束した朝のためで、また徹夜するためではありません。",
+        "タヴィとハッシュがおやすみを言いました。メンドは作業場を閉めました。オレンジのリボンは一本。明日には、やっと余白がありました。"
+      ],
+      "introduction": "安全を確かめて帰ったメンドは、ボロの残る不満にも耳を傾けます。",
+      "title": "拍手のない帰り道"
+    },
+    "ko": {
+      "altTexts": [
+        "루크가 아직 묶인 나룻배를 다시 점검합니다.",
+        "멘드가 파란 차양 아래 쉬고 루크가 배를 몹니다.",
+        "루마에 다가가는 배에서 낮은 아치와 여섯 등불이 보입니다.",
+        "보로가 낮은 아치 곁에서 멘드에게 솔직한 마음을 전합니다.",
+        "멘드가 보로의 말을 듣고 새 작업 리본은 생기지 않습니다.",
+        "아직 고칠 연 옆에 다음 날 쓸 도구가 놓입니다.",
+        "멘드가 문을 닫고 주황 리본 하나가 느슨하게 늘어집니다."
+      ],
+      "captions": [
+        "그날 늦은 오후 비가 잦아들고 강이 고요해졌습니다. 루크는 누구도 태우기 전에 배와 뱃길을 다시 점검했습니다.",
+        "확인을 마친 뒤에야 루마로 출발했습니다. 루크가 배를 몰고 멘드는 자신이 고친 차양 아래 앉았습니다.",
+        "두 시간 뒤 선착장 너머 루마의 등불 여섯 개가 보였습니다. 아치가 낮아 그 위의 하늘도 보였습니다.",
+        "광장에서 보로를 만났습니다. “개막식은 열었어. 그래도 이렇게 임박해서 바꾼 건 아직 불만이야.” 그가 말했습니다.",
+        "“이해해.” 멘드가 대답했습니다. “다음에는 답하기 전에 확인할게.” 보로가 다시는 실망하지 않게 하겠다는 약속은 하지 않았습니다.",
+        "작업실에서는 연이 선반에서 기다렸습니다. 멘드는 도구를 옆에 놓았습니다. 또 밤을 새우려는 것이 아니라 약속한 아침을 준비한 것입니다.",
+        "타비와 허시가 잘 자라고 인사했습니다. 멘드는 작업실을 닫았습니다. 주황 리본 하나가 남았고 내일에는 마침내 여유가 있었습니다."
+      ],
+      "introduction": "안전 점검 뒤 집으로 돌아온 멘드는 보로의 남은 서운함을 듣습니다.",
+      "title": "박수 없는 귀가"
+    },
+    "pl": {
+      "altTexts": [
+        "Rook sprawdza osłonięty prom, a troje przyjaciół czeka na brzegu.",
+        "Mend i przyjaciele płyną pod naprawioną niebieską osłoną.",
+        "Przyjaciele docierają do miasteczka Luma z sześcioma niskimi światłami za nabrzeżem.",
+        "Boro rozmawia z Mend przy niskiej bramie z lampionami.",
+        "Mend słucha i odpowiada Borowi z otwartą dłonią.",
+        "Mend odkłada narzędzia obok nadal zepsutego latawca.",
+        "Mend zamyka drzwi warsztatu, gdy Tavi i Hush odchodzą."
+      ],
+      "captions": [
+        "Później deszcz osłabł, a rzeka się uspokoiła. Rook ponownie sprawdził łódź i trasę, zanim pozwolił komuś wejść na pokład.",
+        "Dopiero po kontroli ruszyli do miasteczka Luma. Mend usiadła pod osłoną, którą naprawiła, a Rook prowadził łódź.",
+        "Dwie godziny później za nabrzeżem ukazało się sześć lampionów miasteczku miasteczku Luma. Brama była tak niska, że Mend widziała nad nią niebo.",
+        "Na placu spotkał ich Boro. „Otwarcie się odbyło” — powiedział. „Nadal nie podoba mi się, że musiałem tak późno je zmieniać”.",
+        "„Rozumiem” — odpowiedziała Mend. „Następnym razem sprawdzę, zanim odpowiem”. Nie obiecała, że Boro już nigdy nie będzie rozczarowany.",
+        "W warsztacie latawiec czekał na półce. Mend położyła obok narzędzia na umówiony poranek, nie na kolejną bezsenną noc.",
+        "Tavi i Hush powiedzieli dobranoc. Mend zamknęła warsztat. Została jedna pomarańczowa wstążka, a wokół jutrzejszego dnia było wreszcie trochę miejsca."
+      ],
+      "introduction": "Mend wraca do domu i zwyczajną rozmową zaczyna odbudowywać zaufanie.",
+      "title": "Powrót bez oklasków"
+    },
+    "pt": {
+      "altTexts": [
+        "Rook verifica a balsa coberta enquanto os três amigos esperam em terra.",
+        "Mend e os amigos viajam sob a cobertura azul consertada.",
+        "Os amigos chegam a Luma com seis luzes baixas além do cais.",
+        "Boro conversa com Mend junto do arco baixo de lanternas.",
+        "Mend escuta e responde a Boro com uma mão aberta.",
+        "Mend coloca as ferramentas junto da pipa ainda quebrada.",
+        "Mend fecha a porta da oficina enquanto Tavi e Hush vão embora."
+      ],
+      "captions": [
+        "Mais tarde, a chuva diminuiu e o rio se acalmou. Rook conferiu novamente barco e rota antes de deixar alguém embarcar.",
+        "Só depois das verificações partiram para Luma. Mend se sentou sob a cobertura que reparara, enquanto Rook conduzia o barco.",
+        "Duas horas depois, as seis lanternas de Luma apareceram além do cais. O arco era baixo o bastante para Mend ver o céu acima dele.",
+        "Na praça, encontraram Boro. “A abertura aconteceu”, disse ele. “Ainda estou chateado por ter mudado tudo tão tarde.”",
+        "“Eu entendo”, respondeu Mend. “Da próxima vez, vou conferir antes de responder.” Não prometeu que Boro nunca mais ficaria decepcionado.",
+        "Na oficina, a pipa esperava na prateleira. Mend deixou as ferramentas ao lado, prontas para a manhã combinada, não para outra noite sem dormir.",
+        "Tavi e Hush deram boa-noite. Mend fechou a oficina. Restava uma fita laranja, e o dia seguinte enfim tinha espaço ao redor dela."
+      ],
+      "introduction": "Mend volta a Luma e começa a reconstruir a confiança em uma conversa comum.",
+      "title": "Voltar sem aplausos"
+    },
+    "ru": {
+      "altTexts": [
+        "Рук проверяет крытый паром, пока трое друзей ждут на берегу.",
+        "Менд с друзьями плывёт под починенным синим навесом.",
+        "Друзья прибывают в Луму, за пристанью видны шесть низких огней.",
+        "Боро разговаривает с Менд возле низкой арки.",
+        "Менд слушает и отвечает Боро с открытой ладонью.",
+        "Менд кладёт инструменты возле всё ещё сломанного змея.",
+        "Менд закрывает дверь мастерской, пока Тави и Хаш уходят."
+      ],
+      "captions": [
+        "Позднее дождь ослаб, а река успокоилась. Рук снова проверил лодку и маршрут, прежде чем разрешить кому-либо подняться на борт.",
+        "Только после проверки они отправились в Луму. Менд сидела под починенным ею навесом, а Рук управлял лодкой.",
+        "Через два часа за пристанью показались шесть фонариков Лумы. Арка была такой низкой, что Менд видела над ней небо.",
+        "На площади их встретил Боро. «Открытие состоялось, — сказал он. — Я всё ещё недоволен тем, что пришлось всё менять так поздно».",
+        "«Понимаю, — ответила Менд. — В следующий раз проверю, прежде чем отвечать». Она не обещала, что Боро больше никогда не разочаруется.",
+        "В мастерской змей ждал на полке. Менд положила инструменты рядом — для условленного утра, а не для ещё одной бессонной ночи.",
+        "Тави и Хаш пожелали доброй ночи. Менд закрыла мастерскую. Осталась одна оранжевая лента, и у завтрашнего дня наконец появилось свободное место."
+      ],
+      "introduction": "Менд возвращается в Луму и обычным разговором начинает восстанавливать доверие.",
+      "title": "Домой без аплодисментов"
+    },
+    "tr": {
+      "altTexts": [
+        "Rook örtülü feribotu kontrol ederken üç arkadaş kıyıda bekliyor.",
+        "Mend ve arkadaşları onarılmış mavi tentenin altında yolculuk ediyor.",
+        "Arkadaşlar iskelenin ötesinde altı alçak fener görünen Luma’ya ulaşıyor.",
+        "Boro alçak fener kemerinin yanında Mend’le konuşuyor.",
+        "Mend Boro’yu dinleyip açık eliyle cevap veriyor.",
+        "Mend alet rulosunu hâlâ kırık uçurtmanın yanına koyuyor.",
+        "Tavi ile Hush ayrılırken Mend atölye kapısını kapatıyor."
+      ],
+      "captions": [
+        "Öğleden sonra yağmur hafifledi, nehir sakinleşti. Rook kimseyi bindirmeden önce tekneyi ve güzergâhı yeniden kontrol etti.",
+        "Ancak kontrollerden sonra Luma’ya doğru yola çıktılar. Rook tekneyi sürerken Mend onardığı tentenin altında oturdu.",
+        "İki saat sonra Luma’nın altı feneri iskele ötesinde göründü. Kemer, Mend’in üstündeki gökyüzünü görebileceği kadar alçaktı.",
+        "Meydanda Boro onları karşıladı. “Açılış yapıldı,” dedi. “Bu kadar geç değiştirmek zorunda kalmaktan hâlâ hoşnut değilim.”",
+        "“Anlıyorum,” dedi Mend. “Bir dahaki sefere cevap vermeden kontrol edeceğim.” Boro’nun bir daha hiç üzülmeyeceğine söz vermedi.",
+        "Atölyede uçurtma rafta bekliyordu. Mend aletleri yanına koydu; kararlaştırılan sabah için, yeni bir uykusuz gece için değil.",
+        "Tavi ile Hush iyi geceler dedi. Mend atölyeyi kapattı. Bir turuncu kurdele kalmıştı; yarının çevresinde sonunda boşluk vardı."
+      ],
+      "introduction": "Mend, sıradan bir konuşmayla güveni onarmaya başlar.",
+      "title": "Alkışsız Eve Dönüş"
+    },
+    "vi": {
+      "altTexts": [
+        "Rook kiểm tra lại phà còn buộc ở bến.",
+        "Mend nghỉ dưới mái xanh trong khi Rook lái phà.",
+        "Phà đến Luma, cổng thấp và sáu đèn hiện ở xa.",
+        "Boro nói thật với Mend bên cổng thấp.",
+        "Mend lắng nghe Boro mà không tạo thêm lời hứa công việc.",
+        "Dụng cụ được chuẩn bị cạnh cánh diều vẫn cần sửa.",
+        "Mend đóng cửa xưởng, dải cam duy nhất thả lỏng."
+      ],
+      "captions": [
+        "Chiều muộn, mưa nhẹ đi và sông lặng lại. Rook kiểm tra thuyền và tuyến đi lần nữa trước khi cho ai lên.",
+        "Chỉ sau kiểm tra họ mới về Luma. Mend ngồi dưới mái che mình đã sửa, còn Rook điều khiển thuyền.",
+        "Hai giờ sau, sáu đèn Luma hiện ra sau bến. Chiếc cổng đủ thấp để Mend nhìn thấy cả trời phía trên.",
+        "Ở quảng trường, Boro gặp họ. “Lễ đã diễn ra,” anh nói. “Nhưng mình vẫn không vui vì phải đổi kế hoạch sát ngày như thế.”",
+        "“Mình hiểu,” Mend đáp. “Lần tới, mình sẽ kiểm tra trước khi trả lời.” Cô không hứa rằng Boro sẽ chẳng bao giờ thất vọng nữa.",
+        "Về xưởng, diều vẫn chờ trên kệ. Mend đặt dụng cụ bên cạnh để sẵn cho buổi sáng đã hẹn, không phải cho một đêm mất ngủ nữa.",
+        "Tavi và Hush chúc ngủ ngon. Mend đóng xưởng. Còn một dải cam, và ngày mai cuối cùng có khoảng trống quanh lời hứa ấy."
+      ],
+      "introduction": "Mend trở về sau khi kiểm tra an toàn và lắng nghe nỗi thất vọng còn lại của Boro.",
+      "title": "Về nhà không có tiếng vỗ tay"
+    },
+    "zh": {
+      "altTexts": [
+        "鲁克在仍系岸的渡船旁重新检查。",
+        "门德在蓝色雨篷下休息，鲁克驾驶渡船。",
+        "渡船抵达卢马，远处可见低拱门与六盏灯笼。",
+        "博罗在低拱门旁向门德坦白失望。",
+        "门德听着博罗的话，没有制造新的任务丝带。",
+        "工具放在待修风筝旁，门德没有开始夜间工作。",
+        "门德关门休息，橙色丝带轻松地垂在身旁。"
+      ],
+      "captions": [
+        "那天下午晚些时候，雨小了，河面也平静了。鲁克再次检查渡船和航道，才允许大家上船。",
+        "检查完成后，他们才出发回卢马。鲁克掌舵，门德坐在自己修好的雨篷下面。",
+        "两个小时后，卢马的六盏灯笼出现在码头后方。拱门低低的，门德还能看见它上面的天空。",
+        "广场上，博罗遇见他们。“开幕还是办成了，”他说，“但这么晚才改计划，我仍然不高兴。”",
+        "“我明白。”门德说，“下次，我会先查看再回答。”她没有保证博罗以后永远不会失望。",
+        "回到修理屋，风筝还在架子上。门德把工具放在旁边，准备按约定明早修，而不是再熬一夜。",
+        "塔维和哈什道了晚安。门德关上修理屋。还剩一条橙色丝带，明天终于有了空余的时间。"
+      ],
+      "introduction": "门德安全回家，也听见博罗仍然存在的失望。",
+      "title": "没有掌声的归途"
+    }
+  },
+  "number": 24,
+  "panels": [
+    {
+      "altText": "Rook checks the covered ferry while the three friends wait ashore.",
+      "image": "N02E24P01.png"
+    },
+    {
+      "altText": "Mend and friends travel beneath the repaired blue awning.",
+      "image": "N02E24P02.png"
+    },
+    {
+      "altText": "The friends arrive at Luma with six low lanterns beyond the quay.",
+      "image": "N02E24P03.png"
+    },
+    {
+      "altText": "Boro speaks with Mend beside the low lantern arch.",
+      "image": "N02E24P04.png"
+    },
+    {
+      "altText": "Mend listens and answers Boro with an open hand.",
+      "image": "N02E24P05.png"
+    },
+    {
+      "altText": "Mend sets her tool roll beside the still-broken kite.",
+      "image": "N02E24P06.png"
+    },
+    {
+      "altText": "Mend closes the workshop door as Tavi and Hush leave.",
+      "image": "N02E24P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

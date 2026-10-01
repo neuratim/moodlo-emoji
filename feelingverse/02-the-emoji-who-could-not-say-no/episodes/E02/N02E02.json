@@ -1,0 +1,442 @@
+{
+  "id": "N02E02",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يعرض روك عينة قماش زرقاء ذات حافة ممزقة.",
+        "يشير روك إلى مظلة في رسم بسيط للقارب.",
+        "يمتد الشريط الأزرق الرابع نحو نافذة الورشة اليمنى.",
+        "تعرض سيلا على ميند صينية فيها شتلات صغيرة.",
+        "ينضم شريط أخضر بنقوش أوراق إلى الأشرطة الأربعة.",
+        "تمد سيلا يدًا مفتوحة وتقترح مشاركة آخرين في العمل.",
+        "تبقى خمس حصيات مهملة عند طرف التقويم."
+      ],
+      "captions": [
+        "بعد الظهر، وصل روك من نيري، وهي بلدة تبعد ساعتين بالعبّارة إلى الشرق. أرى ميند قطعة قماش صغيرة ليشرح لها موضع الدرزة الممزقة في مظلة المطر الخاصة بعبّارته.",
+        "أراها روك رسمًا للعبّارة. كان القارب نفسه سليمًا؛ ما احتاج إلى الإصلاح هو السقف القماشي فوق الركاب. وأراد تركيبه في نيري عند ظهر اليوم الخامس.",
+        "قالت ميند: «سآتي وأركبها». ظهر شريط أزرق متموج وامتد برفق نحو النافذة الشرقية.",
+        "بعد رحيل روك، جاءت سيلا، بستانية نيري. كان المطر متوقعًا مساء اليوم الرابع، واحتاجت شتلاتها إلى أغطية قبل ذلك.",
+        "قالت ميند: «سأساعد في تغطيتها قبل غروب اليوم الرابع». ظهر شريط أخضر. صار لدى ميند خمسة أشرطة.",
+        "عرضت سيلا طلب المساعدة من بستانيين آخرين. «لست مضطرة إلى فعل كل شيء». ابتسمت ميند: «أظنني أستطيع تدبر الأمر».",
+        "حين رحل الزوار، وضع هاش خمس حصيات قرب تقويم ميند. أزاحتها جانبًا ومدت يدها إلى أداة أخرى."
+      ],
+      "introduction": "تضيف مظلة القارب والشتلات وعدَين جديدَين إلى يوم ميند.",
+      "title": "طلبان من نيري"
+    },
+    "bn": {
+      "altTexts": [
+        "রুক ছেঁড়া কিনারাওয়ালা নীল কাপড়ের নমুনা দেখাচ্ছে।",
+        "রুক নৌকার একটি সহজ ছবিতে ছাউনিটি দেখাচ্ছে।",
+        "চতুর্থ নীল ফিতা ডানদিকের জানালায় বাড়ছে।",
+        "সেলা মেন্ডকে ছোট চারাভর্তি একটি ট্রে দেখাচ্ছে।",
+        "পাতার নকশাওয়ালা সবুজ ফিতা আগের চারটির সঙ্গে যুক্ত হচ্ছে।",
+        "সেলা খোলা হাত তুলে আরও সাহায্যের প্রস্তাব দিচ্ছে।",
+        "পাঁচটি নুড়ি ক্যালেন্ডারের ধারে অবহেলায় পড়ে আছে।"
+      ],
+      "captions": [
+        "সেই বিকেলে রুক নেরি থেকে এল। পূর্ব দিকে খেয়ানৌকায় ওই শহরে পৌঁছতে দু ঘণ্টা লাগে। সে ছোট এক টুকরো কাপড় দেখিয়ে মেন্ডকে বোঝাল, তার খেয়ানৌকার বৃষ্টির ছাউনির সেলাই কোথায় ছিঁড়েছে।",
+        "রুক তাকে খেয়ানৌকার একটি ছবি দেখাল। নৌকা ঠিকই ছিল; যাত্রীদের ওপরের কাপড়ের ছাউনিটি সারানো দরকার। সে চেয়েছিল পঞ্চম দিনের দুপুরে নেরিতে ছাউনিটি লাগানো হোক।",
+        "“আমি গিয়ে লাগিয়ে দেব,” মেন্ড বলল। ঢেউয়ের নকশাওয়ালা নীল ফিতা দেখা দিয়ে পূর্বের জানালার দিকে আলতো বাড়ল।",
+        "রুক চলে গেলে নেরির মালি সেলা এল। চতুর্থ দিনের সন্ধ্যায় বৃষ্টি হতে পারে; তার আগে ছোট চারাগুলো ঢাকতে হবে।",
+        "“চতুর্থ দিনের সূর্য ডোবার আগে চারাগুলো ঢাকতে সাহায্য করব,” মেন্ড বলল। সবুজ ফিতা দেখা দিল। এখন পাঁচটি ফিতা।",
+        "সেলা অন্য মালিদেরও সাহায্য চাইতে বলল। “সব তোমাকেই করতে হবে না।” মেন্ড হাসল। “মনে হয় সামলে নিতে পারব।”",
+        "অতিথিরা চলে গেলে হাশ ক্যালেন্ডারের পাশে পাঁচটি নুড়ি রাখল। মেন্ড নুড়িগুলো সরিয়ে অন্য একটি যন্ত্র তুলে নিল।"
+      ],
+      "introduction": "নৌকার ছাউনি আর চারাগাছের জন্য নতুন কাজ যোগ হয়।",
+      "title": "নেরি থেকে দুটি অনুরোধ"
+    },
+    "cs": {
+      "altTexts": [
+        "Rook pokládá na ponk vzorek potrhané modré plachty.",
+        "Rook ukazuje stříšku na jednoduchém nákresu lodi.",
+        "Modrá stuha s vlnkami míří od Mend k východnímu oknu.",
+        "Sela ukazuje Mend tác s malými sazenicemi.",
+        "U Mend a sazenic vzniká zelená stuha s lístky.",
+        "Sela gestem nabízí pomoc, Mend se nejistě usmívá.",
+        "Hush pokládá pět oblázků vedle obrázkového kalendáře."
+      ],
+      "captions": [
+        "To odpoledne přijel Rook z Neri, městečka vzdáleného dvě hodiny přívozem na východ. Ukázal Mend malý vzorek látky a vysvětlil jí, kde se roztrhl šev na stříšce jeho přívozu.",
+        "Rook jí ukázal nákres přívozu. Loď samotná byla v pořádku; opravu potřebovala látková stříška nad cestujícími. Chtěl ji mít namontovanou v Neri v poledne pátého dne.",
+        "„Přijedu ji namontovat,“ řekla Mend. Objevila se modrá stuha s vlnkami a jemně se natáhla k východnímu oknu.",
+        "Když Rook odešel, přišla zahradnice Sela z Neri. Čtvrtý večer měl přijít déšť; mladé rostlinky potřebovaly ochranu dřív.",
+        "„Pomohu je zakrýt před západem slunce čtvrtého dne.“ Objevila se zelená stuha. Mend už jich měla pět.",
+        "Sela nabídla, že osloví i další zahradníky. „Nemusíš dělat všechno,“ řekla. Mend se usmála. „Myslím, že to zvládnu.“",
+        "Po odchodu návštěv položil Hush vedle Mendina kalendáře pět oblázků. Mend je odsunula a sáhla po dalším nástroji."
+      ],
+      "introduction": "Dvě žádosti z východního města přidají další stuhy.",
+      "title": "Dvě prosby z Neri"
+    },
+    "de": {
+      "altTexts": [
+        "Rook legt ein zerrissenes Stück blauen Stoff auf Mends Werkbank.",
+        "Rook zeigt das Dach auf einer einfachen Bootszeichnung.",
+        "Ein blaues Wellenband zeigt von Mend zum Ostfenster.",
+        "Sela zeigt Mend eine Schale mit kleinen Pflanzen.",
+        "Neben Mend und den Pflanzen erscheint ein grünes Band mit Blättern.",
+        "Sela deutet auf ihre Pflanzen, während Mend unsicher lächelt.",
+        "Hush legt fünf Kiesel neben einen Bilderkalender."
+      ],
+      "captions": [
+        "An diesem Nachmittag kam Rook aus Neri, einer Stadt zwei Fährstunden weiter östlich. Er zeigte Mend ein kleines Stoffmuster und erklärte ihr, wo die Naht im Regendach seiner Fähre gerissen war.",
+        "Rook zeigte ihr eine Zeichnung der Fähre. Das Boot selbst war in gutem Zustand; das Stoffdach über den Fahrgästen musste repariert werden. Er wollte es am fünften Tag um zwölf in Neri montieren lassen.",
+        "„Ich komme und montiere es“, sagte Mend. Ein blaues Band mit Wellenmuster erschien und streckte sich sanft zum Ostfenster.",
+        "Als Rook gegangen war, kam Sela, die Gärtnerin aus Neri. Für den vierten Abend war Regen angekündigt; vorher brauchten ihre Jungpflanzen Schutz.",
+        "„Ich helfe, sie vor Sonnenuntergang am vierten Tag abzudecken.“ Ein grünes Band erschien. Nun hatte Mend fünf.",
+        "Sela bot an, weitere Gärtner zu fragen. „Du musst nicht alles machen“, sagte sie. Mend lächelte. „Ich glaube, ich schaffe das.“",
+        "Nach den Besuchen legte Hush fünf Kiesel neben Mends Kalender. Mend schob sie zur Seite und griff nach einem weiteren Werkzeug."
+      ],
+      "introduction": "Zwei Aufträge aus dem östlichen Ort bringen zwei weitere Bänder.",
+      "title": "Zwei Bitten aus Neri"
+    },
+    "en": {
+      "altTexts": [
+        "Rook lays a torn blue awning sample on Mend's bench.",
+        "Rook points to an awning on a simple boat drawing.",
+        "A blue wave-patterned ribbon points from Mend toward the east window.",
+        "Sela shows Mend a tray of small seedlings.",
+        "A green leaf-patterned ribbon forms beside Mend and the seedlings.",
+        "Sela gestures toward her seedlings while Mend smiles uncertainly.",
+        "Hush places five pebbles beside a pictorial calendar."
+      ],
+      "captions": [
+        "That afternoon, Rook arrived from Neri, a town two hours east by ferry. He showed Mend a small piece of cloth to explain the torn seam in his ferry's rain awning.",
+        "Rook showed her a drawing of the ferry. The boat itself was in good repair; it was the cloth roof over the passengers that needed work. He wanted it fitted in Neri at noon on the fifth day.",
+        "“I will come and fit it,” Mend said. A blue, wavy ribbon appeared and stretched gently toward the eastern window.",
+        "When Rook left, Neri's gardener, Sela, arrived. Rain was expected on the fourth evening; her young plants needed covers first.",
+        "“I will help cover them before sunset on the fourth day.” A green ribbon curled into view. Mend now had five.",
+        "Sela offered to ask other gardeners too. “You need not do everything,” she said. Mend smiled. “I think I can manage.”",
+        "After the visitors left, Hush laid five pebbles beside Mend's calendar. Mend put the pebbles aside and reached for another tool."
+      ],
+      "introduction": "Requests from the eastern town add two more ribbons.",
+      "title": "Two Requests from Neri"
+    },
+    "es": {
+      "altTexts": [
+        "Rook deja una muestra de lona azul rasgada sobre el banco.",
+        "Rook señala el toldo en un dibujo sencillo del barco.",
+        "Una cinta azul con ondas apunta desde Mend hacia la ventana del este.",
+        "Sela muestra a Mend una bandeja de pequeñas plantas.",
+        "Aparece una cinta verde con hojas junto a Mend y las plantas.",
+        "Sela señala sus plantas mientras Mend sonríe con inseguridad.",
+        "Hush coloca cinco piedras junto a un calendario de imágenes."
+      ],
+      "captions": [
+        "Esa tarde llegó Rook desde Neri, un pueblo situado a dos horas hacia el este en transbordador. Le mostró a Mend una pequeña muestra de tela para explicarle dónde se había rasgado la costura del toldo de su barco.",
+        "Rook le enseñó un dibujo del transbordador. El barco estaba en buen estado; lo que necesitaba reparación era el techo de tela sobre los pasajeros. Quería tenerlo instalado en Neri al mediodía del quinto día.",
+        "«Iré a instalarlo», dijo Mend. Apareció una cinta azul con ondas que se estiró suavemente hacia la ventana oriental.",
+        "Cuando Rook se marchó, llegó Sela, jardinera de Neri. Se esperaba lluvia la cuarta noche; sus plantas jóvenes necesitaban protección antes.",
+        "«Ayudaré a cubrirlas antes del atardecer del cuarto día». Apareció una cinta verde. Mend ya tenía cinco.",
+        "Sela ofreció pedir ayuda a otros jardineros. «No tienes que hacerlo todo», dijo. Mend sonrió. «Creo que puedo arreglármelas».",
+        "Cuando terminaron las visitas, Hush puso cinco piedras junto al calendario. Mend las apartó y buscó otra herramienta."
+      ],
+      "introduction": "Dos encargos del pueblo oriental añaden otras dos cintas.",
+      "title": "Dos peticiones de Neri"
+    },
+    "fr": {
+      "altTexts": [
+        "Rook pose un morceau de toile bleue déchirée sur l’établi.",
+        "Rook indique l’auvent sur un dessin simple du bateau.",
+        "Un ruban bleu à vagues pointe vers la fenêtre à l’est.",
+        "Sela montre à Mend un plateau de jeunes plants.",
+        "Un ruban vert à feuilles apparaît près de Mend et des plants.",
+        "Sela désigne les plants tandis que Mend sourit avec hésitation.",
+        "Hush place cinq cailloux près d’un calendrier illustré."
+      ],
+      "captions": [
+        "Cet après-midi-là, Rook arriva de Neri, une ville située à deux heures de bac vers l’est. Il montra à Mend un petit échantillon de tissu pour lui expliquer où la couture de l’auvent de son bac s’était déchirée.",
+        "Rook lui montra un dessin du bac. Le bateau lui-même était en bon état ; c’était le toit de toile au-dessus des passagers qui avait besoin d’une réparation. Il voulait le faire installer à Neri à midi, le cinquième jour.",
+        "« Je viendrai l’installer », dit Mend. Un ruban bleu à vagues apparut et s’étira doucement vers la fenêtre orientale.",
+        "Après Rook arriva Sela, la jardinière de Neri. La pluie était annoncée pour le quatrième soir ; ses jeunes plants devaient être protégés avant.",
+        "« J’aiderai à les couvrir avant le coucher du soleil du quatrième jour. » Un ruban vert apparut. Mend en avait désormais cinq.",
+        "Sela proposa de demander aussi à d’autres jardiniers. « Tu n’as pas à tout faire », dit-elle. Mend sourit. « Je pense pouvoir me débrouiller. »",
+        "Après les visites, Hush posa cinq cailloux près du calendrier. Mend les écarta et chercha un autre outil."
+      ],
+      "introduction": "Deux demandes venues de l’est ajoutent deux rubans.",
+      "title": "Deux demandes de Neri"
+    },
+    "hi": {
+      "altTexts": [
+        "रूक नीले कपड़े का फटा किनारा दिखाता है।",
+        "रूक नाव के एक साधारण चित्र में शामियाने की ओर इशारा करता है।",
+        "चौथा नीला रिबन कार्यशाला की दाहिनी खिड़की की ओर बढ़ता है।",
+        "सेला मेंड को छोटे पौधों वाली ट्रे दिखाती है।",
+        "पत्तियों के नमूने वाला हरा रिबन चार रिबनों से जुड़ता है।",
+        "सेला खुले हाथ से और लोगों की मदद का प्रस्ताव रखती है।",
+        "पाँच कंकड़ कैलेंडर के किनारे उपेक्षित पड़े हैं।"
+      ],
+      "captions": [
+        "उस दोपहर रूक नेरी से आया। नाव से पूर्व की ओर उस कस्बे तक पहुँचने में दो घंटे लगते थे। उसने मेंड को कपड़े का एक छोटा नमूना दिखाकर समझाया कि उसकी नाव के छाजन की सिलाई कहाँ उधड़ गई थी।",
+        "रूक ने उसे नाव का चित्र दिखाया। नाव खुद सही थी; यात्रियों के ऊपर लगे कपड़े के छाजन को ठीक करना था। वह चाहता था कि पाँचवें दिन दोपहर में नेरी में छाजन लगा दिया जाए।",
+        "“मैं आकर लगा दूँगी,” मेंड बोली। लहरदार नीला रिबन प्रकट हुआ और धीरे से पूर्व की खिड़की की ओर बढ़ा।",
+        "रूक के बाद नेरी की माली सेला आई। चौथी शाम बारिश होने की उम्मीद थी; उससे पहले नन्हे पौधों को ढकना था।",
+        "“चौथे दिन सूरज डूबने से पहले पौधों को ढकने में मदद करूँगी,” मेंड ने कहा। हरा रिबन दिखाई दिया। अब पाँच रिबन थे।",
+        "सेला ने दूसरे मालियों से भी मदद माँगने को कहा। “तुम्हें सब कुछ नहीं करना।” मेंड मुसकराई। “मुझे लगता है, मैं सँभाल लूँगी।”",
+        "मेहमानों के जाने पर हश ने कैलेंडर के पास पाँच कंकड़ रखे। मेंड ने उन्हें किनारे किया और दूसरा औज़ार उठा लिया।"
+      ],
+      "introduction": "नाव के छाजन और पौधों की सुरक्षा के लिए दो नए वादे जुड़ते हैं।",
+      "title": "नेरी से आई दो विनतियाँ"
+    },
+    "id": {
+      "altTexts": [
+        "Rook menunjukkan potongan kain biru yang tepinya robek.",
+        "Rook menunjuk tenda pada gambar perahu sederhana.",
+        "Empat pita terlihat; pita biru mengarah ke jendela kanan.",
+        "Sela menunjukkan baki berisi bibit kecil kepada Mend.",
+        "Pita hijau bermotif daun bergabung dengan empat pita lainnya.",
+        "Sela menawarkan bantuan tambahan dengan telapak tangan terbuka.",
+        "Lima kerikil terabaikan di dekat kalender bengkel."
+      ],
+      "captions": [
+        "Sore itu, Rook tiba dari Neri, kota kecil yang berjarak dua jam ke timur dengan feri. Ia menunjukkan contoh kain kecil kepada Mend untuk menjelaskan jahitan yang robek pada tudung pelindung hujan ferinya.",
+        "Rook menunjukkan gambar ferinya. Perahunya sendiri dalam kondisi baik; yang perlu diperbaiki adalah atap kain di atas para penumpang. Ia ingin tudung itu dipasang di Neri pada tengah hari kelima.",
+        "“Aku akan datang dan memasangnya,” kata Mend. Pita biru bergelombang muncul dan merentang lembut menuju jendela timur.",
+        "Setelah Rook pergi, Sela, pekebun dari Neri, datang. Hujan diperkirakan turun pada malam keempat; bibitnya perlu dilindungi sebelumnya.",
+        "“Aku akan membantu menutupinya sebelum matahari terbenam pada hari keempat.” Pita hijau muncul. Kini ada lima pita.",
+        "Sela menawarkan untuk meminta bantuan pekebun lain. “Kau tidak perlu mengerjakan semuanya.” Mend tersenyum. “Kurasa aku bisa mengatasinya.”",
+        "Setelah para tamu pergi, Hush meletakkan lima kerikil di samping kalender. Mend menyingkirkannya dan mengambil alat lain."
+      ],
+      "introduction": "Janji tentang perahu dan tanaman menambah kesibukan Mend.",
+      "title": "Dua Permintaan dari Neri"
+    },
+    "it": {
+      "altTexts": [
+        "Rook posa un campione di tela blu strappata sul banco.",
+        "Rook indica la copertura su un semplice disegno della barca.",
+        "Un nastro blu con onde punta da Mend alla finestra a est.",
+        "Sela mostra a Mend un vassoio di piccole piantine.",
+        "Un nastro verde con foglie appare vicino a Mend e alle piantine.",
+        "Sela indica le piantine mentre Mend sorride incerta.",
+        "Hush dispone cinque sassolini vicino a un calendario illustrato."
+      ],
+      "captions": [
+        "Quel pomeriggio arrivò Rook da Neri, un paese due ore a est in traghetto. Mostrò a Mend un piccolo campione di stoffa per spiegarle dove si era strappata una cucitura della copertura antipioggia del suo traghetto.",
+        "Rook le mostrò un disegno del traghetto. La barca era in buone condizioni: era il tetto di stoffa sopra i passeggeri ad aver bisogno di una riparazione. Voleva montarlo a Neri a mezzogiorno del quinto giorno.",
+        "«Verrò a montarla», disse Mend. Apparve un nastro blu con onde, che si tese dolcemente verso la finestra orientale.",
+        "Quando Rook se ne andò, arrivò Sela, la giardiniera di Neri. Era prevista pioggia la quarta sera; le sue piantine andavano protette prima.",
+        "«Aiuterò a coprirle prima del tramonto del quarto giorno». Apparve un nastro verde. Ora Mend ne aveva cinque.",
+        "Sela propose di chiedere anche ad altri giardinieri. «Non devi fare tutto tu», disse. Mend sorrise. «Credo di potercela fare».",
+        "Dopo le visite Hush mise cinque sassolini accanto al calendario. Mend li spostò e cercò un altro attrezzo."
+      ],
+      "introduction": "Due incarichi dal paese orientale aggiungono altri due nastri.",
+      "title": "Due richieste da Neri"
+    },
+    "ja": {
+      "altTexts": [
+        "ルークが、端の破れた青い布の見本を見せています。",
+        "ルークが簡単な船の絵に描かれた雨よけを指しています。",
+        "四本目の青いリボンが、右側の窓へ伸びています。",
+        "セラがメンドに、小さな苗を入れたトレーを見せています。",
+        "葉模様の緑のリボンが、ほかの四本に加わっています。",
+        "セラが手を開いて、ほかの人の助けも提案しています。",
+        "五つの小石が、使われないままカレンダーの端にあります。"
+      ],
+      "captions": [
+        "その午後、ルークがネリから来ました。東へ渡し船で二時間の町です。彼はメンドに小さな布の見本を見せ、自分の渡し船の雨よけは縫い目が破れているのだと説明しました。",
+        "ルークは渡し船の絵を見せました。船そのものは無事で、修理が必要なのは乗客の上を覆う布の屋根でした。五日目の正午、ネリで取りつけたいのでした。",
+        "「行って取りつけるね」とメンド。波模様の青いリボンが現れ、東の窓へそっと伸びました。",
+        "ルークが帰ったあと、ネリの庭師セラが来ました。四日目の夜は雨の予報で、その前に若い苗を覆う必要がありました。",
+        "「四日目の日暮れまでに、覆うのを手伝うね」緑のリボンが現れました。これで五本です。",
+        "セラはほかの庭師にも頼もうと言いました。「全部やらなくていいのよ」メンドはほほえみます。「たぶん、大丈夫だと思う」",
+        "客が帰ると、ハッシュはカレンダーの横に小石を五つ置きました。メンドは小石を脇へ寄せ、別の道具を取りました。"
+      ],
+      "introduction": "船の雨よけと苗を守る仕事が、新たなリボンになります。",
+      "title": "ネリから来た二つのお願い"
+    },
+    "ko": {
+      "altTexts": [
+        "루크가 가장자리가 찢어진 파란 천 견본을 보여 줍니다.",
+        "루크가 간단한 배 그림에서 차양을 가리킵니다.",
+        "네 번째 파랑 리본이 작업실 오른쪽 창문으로 뻗습니다.",
+        "셀라가 멘드에게 작은 모종이 담긴 쟁반을 보여 줍니다.",
+        "잎무늬 초록 리본이 다른 네 리본에 더해집니다.",
+        "셀라가 손을 펴며 다른 이들의 도움도 제안합니다.",
+        "조약돌 다섯 개가 달력 옆으로 밀려나 있습니다."
+      ],
+      "captions": [
+        "그날 오후 루크가 네리에서 왔습니다. 동쪽으로 나룻배를 타고 두 시간 가야 하는 마을입니다. 그는 작은 천 견본을 보여 주며 자기 배의 비 가림 차양에서 이음매가 찢어졌다고 설명했습니다.",
+        "루크는 멘드에게 나룻배 그림을 보여 주었습니다. 배 자체는 멀쩡했고, 고칠 곳은 승객 위를 덮는 천 지붕이었습니다. 그는 다섯째 날 정오에 네리에서 차양을 설치하고 싶어 했습니다.",
+        "“가서 설치해 줄게.” 멘드가 말했습니다. 물결무늬 파랑 리본이 나타나 동쪽 창문으로 부드럽게 뻗었습니다.",
+        "루크가 떠나자 네리의 정원사 셀라가 왔습니다. 넷째 날 저녁에 비가 올 예정이라 그 전에 어린 모종을 덮어야 했습니다.",
+        "“넷째 날 해 지기 전에 덮는 일을 도울게.” 초록 리본이 나타났습니다. 이제 다섯 개였습니다.",
+        "셀라는 다른 정원사에게도 부탁하겠다고 했습니다. “네가 다 할 필요는 없어.” 멘드는 웃었습니다. “해낼 수 있을 것 같아.”",
+        "손님들이 떠난 뒤 허시는 달력 옆에 조약돌 다섯 개를 놓았습니다. 멘드는 돌을 옆으로 밀고 다른 도구를 집었습니다."
+      ],
+      "introduction": "배의 차양과 어린 모종을 위한 약속이 더해집니다.",
+      "title": "네리에서 온 두 부탁"
+    },
+    "pl": {
+      "altTexts": [
+        "Rook kładzie na stole próbkę rozdartego niebieskiego płótna.",
+        "Rook wskazuje osłonę na prostym rysunku łodzi.",
+        "Niebieska wstążka z falami wskazuje od Mend ku wschodniemu oknu.",
+        "Sela pokazuje Mend tacę z małymi sadzonkami.",
+        "Przy Mend i sadzonkach pojawia się zielona wstążka w listki.",
+        "Sela wskazuje sadzonki, a Mend uśmiecha się niepewnie.",
+        "Hush układa pięć kamyków przy obrazkowym kalendarzu."
+      ],
+      "captions": [
+        "Po południu przyjechał Rook z miasteczka Neri, oddalonego o dwie godziny promem na wschód. Pokazał Mend małą próbkę tkaniny, by wyjaśnić, gdzie rozdarł się szew przeciwdeszczowej osłony jego promu.",
+        "Rook pokazał jej rysunek promu. Sama łódź była sprawna; naprawy wymagał płócienny dach nad pasażerami. Chciał go zamontować w Neri w południe piątego dnia.",
+        "„Przyjadę ją zamontować” — powiedziała Mend. Pojawiła się niebieska wstążka z falami i łagodnie wyciągnęła się ku wschodniemu oknu.",
+        "Kiedy Rook odszedł, przyszła Sela, ogrodniczka z Neri. Na czwarty wieczór zapowiadano deszcz; jej młode rośliny potrzebowały wcześniejszej osłony.",
+        "„Pomogę je przykryć przed zachodem słońca czwartego dnia”. Pojawiła się zielona wstążka. Mend miała już pięć.",
+        "Sela zaproponowała, że poprosi też innych ogrodników. „Nie musisz robić wszystkiego” — powiedziała. Mend się uśmiechnęła. „Chyba sobie poradzę”.",
+        "Po odejściu gości Hush położył przy kalendarzu pięć kamyków. Mend odsunęła je i sięgnęła po kolejne narzędzie."
+      ],
+      "introduction": "Dwa zadania ze wschodniego miasteczka dodają kolejne wstążki.",
+      "title": "Dwie prośby z Neri"
+    },
+    "pt": {
+      "altTexts": [
+        "Rook coloca uma amostra de lona azul rasgada na bancada.",
+        "Rook aponta a cobertura em um desenho simples do barco.",
+        "Uma fita azul com ondas aponta de Mend para a janela do leste.",
+        "Sela mostra a Mend uma bandeja com pequenas mudas.",
+        "Uma fita verde com folhas aparece junto de Mend e das mudas.",
+        "Sela indica as mudas enquanto Mend sorri com incerteza.",
+        "Hush coloca cinco pedrinhas ao lado de um calendário ilustrado."
+      ],
+      "captions": [
+        "Naquela tarde, Rook chegou de Neri, uma vila a duas horas de balsa para o leste. Mostrou a Mend uma pequena amostra de tecido para explicar o rasgo na costura da cobertura contra chuva de sua balsa.",
+        "Rook mostrou um desenho da balsa. O barco estava em boas condições; era o teto de tecido sobre os passageiros que precisava de reparo. Ele queria instalá-lo em Neri ao meio-dia do quinto dia.",
+        "“Vou até lá instalá-la”, disse Mend. Surgiu uma fita azul com ondas, que se esticou suavemente até a janela do leste.",
+        "Quando Rook saiu, chegou Sela, jardineira de Neri. Havia previsão de chuva na quarta noite; as mudinhas precisavam de proteção antes.",
+        "“Vou ajudar a cobri-las antes do pôr do sol do quarto dia.” Surgiu uma fita verde. Agora Mend tinha cinco.",
+        "Sela se ofereceu para chamar outros jardineiros. “Você não precisa fazer tudo”, disse. Mend sorriu. “Acho que consigo dar conta.”",
+        "Depois das visitas, Hush colocou cinco pedrinhas junto do calendário. Mend as afastou e procurou outra ferramenta."
+      ],
+      "introduction": "Dois pedidos da vila do leste acrescentam duas fitas.",
+      "title": "Dois pedidos de Neri"
+    },
+    "ru": {
+      "altTexts": [
+        "Рук кладёт образец порванной синей ткани на верстак.",
+        "Рук указывает на навес на простом рисунке лодки.",
+        "Синяя лента с волнами тянется от Менд к восточному окну.",
+        "Села показывает Менд поднос с маленькими ростками.",
+        "Возле Менд и рассады появляется зелёная лента с листьями.",
+        "Села указывает на рассаду, а Менд неуверенно улыбается.",
+        "Хаш кладёт пять камешков возле календаря с картинками."
+      ],
+      "captions": [
+        "Днём из Нери приехал Рук. Этот городок находился в двух часах пути на пароме к востоку. Рук показал Менд небольшой образец ткани, чтобы объяснить, где разошёлся шов дождевого навеса на его пароме.",
+        "Рук показал ей рисунок парома. Сама лодка была исправна; починить нужно было тканевую крышу над пассажирами. Он хотел установить её в Нери в полдень пятого дня.",
+        "«Я приеду и установлю его», — сказала Менд. Появилась синяя лента с волнами и мягко потянулась к восточному окну.",
+        "Когда Рук ушёл, пришла Села, садовница из Нери. На четвёртый вечер ожидался дождь; молодые растения нужно было укрыть заранее.",
+        "«Я помогу укрыть их до заката четвёртого дня». Появилась зелёная лента. Теперь у Менд их было пять.",
+        "Села предложила позвать и других садовников. «Тебе не нужно делать всё», — сказала она. Менд улыбнулась. «Думаю, я справлюсь».",
+        "Когда посетители ушли, Хаш положил рядом с календарём пять камешков. Менд отодвинула их и потянулась за новым инструментом."
+      ],
+      "introduction": "Два поручения из восточного городка добавляют ещё две ленты.",
+      "title": "Две просьбы из Нери"
+    },
+    "tr": {
+      "altTexts": [
+        "Rook, yırtık mavi kumaş örneğini tezgâha koyuyor.",
+        "Rook, basit bir tekne çizimindeki tenteyi işaret ediyor.",
+        "Dalga desenli mavi kurdele Mend’den doğu penceresine uzanıyor.",
+        "Sela, küçük fidelerle dolu bir tepsiyi Mend’e gösteriyor.",
+        "Mend ile fidelerin yanında yaprak desenli yeşil kurdele oluşuyor.",
+        "Sela fideleri gösterirken Mend kararsızca gülümsüyor.",
+        "Hush, resimli takvimin yanına beş çakıl taşı yerleştiriyor."
+      ],
+      "captions": [
+        "O öğleden sonra Rook, doğuda feribotla iki saat uzaklıktaki Neri kasabasından geldi. Feribotunun yağmur tentesindeki sökülmüş dikişi anlatmak için Mend’e küçük bir kumaş örneği gösterdi.",
+        "Rook ona feribotun bir çizimini gösterdi. Teknenin kendisi sağlamdı; onarılması gereken, yolcuların üstünü örten kumaş çatıydı. Tentenin beşinci gün öğlen Neri’de takılmasını istiyordu.",
+        "“Gelip takacağım,” dedi Mend. Dalga desenli mavi bir kurdele belirdi ve yavaşça doğu penceresine uzandı.",
+        "Rook gidince Neri’nin bahçıvanı Sela geldi. Dördüncü akşam yağmur bekleniyordu; genç fidelerini önceden korumak gerekiyordu.",
+        "“Dördüncü gün güneş batmadan onları örtmeye yardım edeceğim.” Yeşil bir kurdele belirdi. Mend’in artık beş kurdelesi vardı.",
+        "Sela başka bahçıvanlara da sorabileceğini söyledi. “Her şeyi sen yapmak zorunda değilsin.” Mend gülümsedi. “Sanırım yetiştiririm.”",
+        "Ziyaretçiler gidince Hush, takvimin yanına beş çakıl taşı koydu. Mend taşları kenara itip başka bir alete uzandı."
+      ],
+      "introduction": "Doğudaki kasabadan gelen iki iş, iki kurdele daha ekler.",
+      "title": "Neri’den İki Rica"
+    },
+    "vi": {
+      "altTexts": [
+        "Rook cho Mend xem mảnh vải xanh có mép rách.",
+        "Rook chỉ mái che trên bản vẽ con thuyền đơn giản.",
+        "Dải xanh thứ tư hướng về cửa sổ bên phải xưởng.",
+        "Sela cho Mend xem một khay cây con.",
+        "Dải xanh lá có họa tiết lá nhập cùng bốn dải khác.",
+        "Sela mở bàn tay, đề nghị có thêm người cùng giúp.",
+        "Năm viên sỏi bị gạt ra mép lịch trong xưởng."
+      ],
+      "captions": [
+        "Chiều ấy, Rook đến từ Neri, thị trấn cách Luma hai giờ đi phà về phía đông. Anh cho Mend xem một mảnh vải mẫu nhỏ để giải thích chỗ đường may bị rách trên mái che mưa của phà.",
+        "Rook cho cô xem bản vẽ chiếc phà. Bản thân con thuyền vẫn tốt; phần cần sửa là mái vải che phía trên hành khách. Anh muốn lắp mái che ở Neri vào trưa ngày thứ năm.",
+        "“Mình sẽ đến lắp,” Mend nói. Dải xanh dương có sóng xuất hiện, nhẹ nhàng vươn về cửa sổ phía đông.",
+        "Rook đi rồi, Sela, người làm vườn ở Neri, đến. Dự báo tối ngày thứ tư sẽ mưa; cây non cần được che trước đó.",
+        "“Mình sẽ giúp che cây trước hoàng hôn ngày thứ tư.” Dải xanh lá xuất hiện. Mend đã có năm dải.",
+        "Sela đề nghị nhờ thêm người làm vườn. “Cậu không cần làm hết.” Mend cười. “Mình nghĩ mình lo được.”",
+        "Khách đi rồi, Hush đặt năm viên sỏi cạnh lịch của Mend. Cô gạt sỏi sang bên và với lấy một dụng cụ khác."
+      ],
+      "introduction": "Mái che thuyền và cây non khiến Mend nhận thêm việc.",
+      "title": "Hai lời nhờ từ Neri"
+    },
+    "zh": {
+      "altTexts": [
+        "鲁克展示一块边缘撕裂的蓝色篷布样本。",
+        "鲁克指着简笔渡船图上的雨篷。",
+        "第四条蓝色丝带伸向修理屋右侧的窗户。",
+        "塞拉给门德看一盘小苗。",
+        "叶纹绿色丝带加入另外四条丝带。",
+        "塞拉摊开手，提出让更多人一起分担。",
+        "五颗石子被推到日历边缘，没有纳入安排。"
+      ],
+      "captions": [
+        "那天下午，鲁克从内里赶来。那座小镇在东边，坐渡船要两个小时。他给门德看了一小块布样，说明自己渡船的雨篷有一条接缝破了。",
+        "鲁克给她看渡船的图画。船本身完好，需要修补的是乘客头顶的布篷。他希望第五天正午在内里把雨篷装好。",
+        "“我会过去安装。”门德说。一条波浪纹的蓝色丝带出现，轻轻伸向东面的窗户。",
+        "鲁克离开后，内里的园丁塞拉来了。预计第四天晚上会下雨，她的幼苗需要提前遮护。",
+        "“我会在第四天日落前帮忙盖好。”一条绿色丝带卷了出来。门德现在有五条丝带了。",
+        "塞拉提议再找其他园丁帮忙。“你不必包下全部。”她说。门德笑了笑：“我想我应付得来。”",
+        "客人走后，哈什在门德的日历旁放了五颗小石子。门德把石子推到一边，又拿起一件工具。"
+      ],
+      "introduction": "渡船雨篷和幼苗又让门德多了两项任务。",
+      "title": "来自内里的两个请求"
+    }
+  },
+  "number": 2,
+  "panels": [
+    {
+      "altText": "Rook lays a torn blue awning sample on Mend's bench.",
+      "image": "N02E02P01.png"
+    },
+    {
+      "altText": "Rook points to an awning on a simple boat drawing.",
+      "image": "N02E02P02.png"
+    },
+    {
+      "altText": "A blue wave-patterned ribbon points from Mend toward the east window.",
+      "image": "N02E02P03.png"
+    },
+    {
+      "altText": "Sela shows Mend a tray of small seedlings.",
+      "image": "N02E02P04.png"
+    },
+    {
+      "altText": "A green leaf-patterned ribbon forms beside Mend and the seedlings.",
+      "image": "N02E02P05.png"
+    },
+    {
+      "altText": "Sela gestures toward her seedlings while Mend smiles uncertainly.",
+      "image": "N02E02P06.png"
+    },
+    {
+      "altText": "Hush places five pebbles beside a pictorial calendar.",
+      "image": "N02E02P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

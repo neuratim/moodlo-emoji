@@ -1,0 +1,442 @@
+{
+  "id": "N02E15",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يمتد البرتقالي نحو البيت أثناء طعام الأصدقاء الثلاثة.",
+        "تشير ميند إلى التقويم وتقترح صباحًا آخر.",
+        "يجيب تافي بهدوء بجانب التقويم المفتوح.",
+        "يمتد التقويم إلى اليوم السادس ويبقى الشريط البرتقالي.",
+        "يضع هاش رموز الطعام والراحة حول الموعد الجديد.",
+        "تضع ميند أدوات الخياطة والقياس في لفة أدوات صغيرة.",
+        "خمسة أشرطة مرتخية بجانب مكان نوم ميند."
+      ],
+      "captions": [
+        "تلك الليلة، عند الطعام، أشار الشريط البرتقالي نحو البيت. تذكرت ميند الطائرة والحديث الذي ما زالت تتجنبه.",
+        "قالت ميند لتافي: «لن أنهيها قبل شروق اليوم الخامس. هل يمكن أن نجعلها في صباح اليوم السادس؟»",
+        "فكر تافي ثم قال: «نعم، صباح السادس يناسبني. لكنني أريد وقتًا معك، لا طائرة أفخم».",
+        "أكدت ميند: «عارضة مُصلحة وصباح معًا». طال الشريط البرتقالي واسترخى. تغير الوعد، لكنه لم يختفِ.",
+        "سجل هاش اليوم الجديد. وتركوا مكانًا للطعام والراحة أيضًا، بدل إنفاق الوقت نفسه مرتين من دون أن يلاحظوا.",
+        "غدًا يعودون إلى لوما ثم يتابعون إلى نيري. حزمت ميند فقط الأدوات اللازمة للعملين المحددين.",
+        "ناموا في القاعة ليلة أخرى. استراحت خمسة أشرطة بجانب بطانية ميند. هذه المرة لم تضف وعدًا جديدًا بسبب شعورها بالذنب."
+      ],
+      "introduction": "يقبل تافي اليوم الجديد ويوضح أنه يريد وقتًا مع ميند.",
+      "title": "صباح بعد صباح"
+    },
+    "bn": {
+      "altTexts": [
+        "তিন বন্ধু খাচ্ছে, কমলা ফিতা বাড়ির দিকে বাড়ছে।",
+        "মেন্ড ক্যালেন্ডার দেখিয়ে অন্য সকাল প্রস্তাব করে।",
+        "টাভি খোলা ক্যালেন্ডারের পাশে নিজের চাওয়া বলে।",
+        "ক্যালেন্ডার ষষ্ঠ দিন পর্যন্ত বাড়ে; কমলা ফিতা থাকে।",
+        "হাশ নতুন দিনের পাশে খাওয়া ও বিশ্রামের চিহ্ন রাখে।",
+        "মেন্ড সেলাই ও মাপের যন্ত্র ছোট পুটলিতে রাখে।",
+        "পাঁচ আলগা ফিতা মেন্ডের শোবার জায়গার পাশে আছে।"
+      ],
+      "captions": [
+        "সেই রাতে খাওয়ার সময় কমলা ফিতা বাড়ির দিকে ছিল। মেন্ডের ঘুড়ি আর এড়িয়ে চলা কথোপকথনের কথা মনে পড়ল।",
+        "“পঞ্চম দিনের সূর্য ওঠার আগে পারব না,” মেন্ড টাভিকে বলল। “ষষ্ঠ দিনের সকাল করা যায়?”",
+        "টাভি ভাবল। “হ্যাঁ, ষষ্ঠ সকাল ঠিক আছে। কিন্তু আরও বড়সড় ঘুড়ি নয়, তোমার সঙ্গে সময় চাই।”",
+        "“সারানো কাঠি আর একসঙ্গে একটি সকাল,” মেন্ড নিশ্চিত করল। কমলা ফিতা লম্বা হয়ে আলগা হলো। কথা বদলেছে, মিলিয়ে যায়নি।",
+        "হাশ নতুন দিন লিখল। খাওয়া আর বিশ্রামের জায়গাও রাখল। একই সময় চুপিচুপি দুবার ব্যবহার করল না।",
+        "কাল আগে লুমা, তারপর নেরি যাবে। মেন্ড শুধু দুটি প্রয়োজনীয় কাজের যন্ত্র গুছোল।",
+        "তারা আবার মিলনায়তনে ঘুমোল। মেন্ডের কম্বলের পাশে পাঁচ ফিতা। এবার অপরাধবোধ থেকে সে আর একটি কথা দিল না।"
+      ],
+      "introduction": "টাভি নতুন দিন মেনে নিয়ে একসঙ্গে সময় কাটানোর ইচ্ছা জানায়।",
+      "title": "এক সকাল পিছিয়ে"
+    },
+    "cs": {
+      "altTexts": [
+        "Mend při večeři s přáteli sleduje oranžovou stuhu.",
+        "Mend žádá Taviho o změnu termínu opravy draka.",
+        "Tavi souhlasí a ukazuje na jednoduchý nákres draka.",
+        "Oranžová stuha se u upraveného kalendáře uvolňuje.",
+        "Hush přidává draka k šestému dni vedle jídla a odpočinku.",
+        "Mend balí malé pouzdro s nástroji na další den.",
+        "Vedle Mendina lůžka leží pět volných stuh."
+      ],
+      "captions": [
+        "Večer přátelé jedli v sále. Mend pozorovala oranžovou stuhu směřující k drakovi, kterého nechala v městečku Luma.",
+        "„Do pátého východu slunce draka neopravím,“ řekla Mend Tavimu. „Mohli bychom zvolit šesté ráno?“",
+        "Tavi se zamyslel. „Ano, šesté ráno mi vyhovuje. Ale chci čas s tebou, ne honosnějšího draka.“",
+        "„Opravená příčka a společné ráno,“ souhlasila Mend. Oranžová stuha se prodloužila a uvolnila. Slib se změnil, nezmizel.",
+        "Hush zaznamenal nový den. Nechali místo i na jídlo a odpočinek, místo aby stejný čas potají použili dvakrát.",
+        "Zítra se vrátí do městečka Luma a pak pojedou do Neri. Mend zabalila jen nástroje na dvě potřebné opravy.",
+        "Znovu přespali v sále. Vedle Mendiny deky odpočívalo pět stuh. Poprvé ze samých výčitek nepřidala další."
+      ],
+      "introduction": "Tavi a Mend zvolí nový konkrétní čas na draka.",
+      "title": "Přesunuté ráno"
+    },
+    "de": {
+      "altTexts": [
+        "Mend schaut beim Abendessen mit den Freunden auf ein orangefarbenes Band.",
+        "Mend bittet Tavi, den Reparaturtermin für den Drachen zu ändern.",
+        "Tavi stimmt zu und zeigt auf eine einfache Drachenzeichnung.",
+        "Mends orangefarbenes Band wird neben dem geänderten Kalender lockerer.",
+        "Hush legt ein Drachenplättchen auf den sechsten Tag neben Ruhezeichen.",
+        "Mend packt eine kleine Werkzeugrolle für den nächsten Tag.",
+        "Fünf lockere Bänder liegen neben Mends Schlafplatz."
+      ],
+      "captions": [
+        "An diesem Abend aßen die Freunde in Velas Saal. Mend sah dem orangefarbenen Band nach, das zu ihrem Drachen in Luma zeigte.",
+        "„Ich kann den Drachen nicht bis zum fünften Sonnenaufgang reparieren“, sagte Mend zu Tavi. „Können wir stattdessen den sechsten Morgen nehmen?“",
+        "Tavi dachte nach. „Ja, der sechste Morgen passt. Aber ich möchte Zeit mit dir, keinen noch prächtigeren Drachen.“",
+        "„Eine reparierte Strebe und ein Morgen zusammen“, stimmte Mend zu. Das orangefarbene Band wurde länger und lockerer; das Versprechen war geändert, nicht verschwunden.",
+        "Hush trug den neuen Tag ein. Sie ließen auch Platz für Mahlzeiten und Ruhe, statt dieselbe Zeit heimlich doppelt zu verbrauchen.",
+        "Morgen würden sie nach Luma zurückkehren und dann nach Neri weiterfahren. Mend packte nur das Werkzeug für die zwei praktischen Arbeiten ein.",
+        "Sie schliefen noch einmal im Saal. Fünf Bänder ruhten neben Mends Decke. Zum ersten Mal hatte sie aus Schuldgefühl kein weiteres hinzugefügt."
+      ],
+      "introduction": "Tavi und Mend vereinbaren einen neuen, festen Termin für den Drachen.",
+      "title": "Ein anderer Morgen"
+    },
+    "en": {
+      "altTexts": [
+        "Mend looks at an orange ribbon during supper with her friends.",
+        "Mend asks Tavi to change the kite’s repair time.",
+        "Tavi agrees while pointing to a simple kite sketch.",
+        "Mend’s orange ribbon relaxes beside the revised calendar.",
+        "Hush adds a sixth-day kite token beside meal and rest symbols.",
+        "Mend packs a small tool roll for the next day’s work.",
+        "Five loose ribbons rest beside Mend’s sleeping place."
+      ],
+      "captions": [
+        "That evening, the friends ate in Vela's hall. Mend watched the orange ribbon point toward the kite she had left in Luma.",
+        "“I cannot mend the kite by the fifth sunrise,” Mend told Tavi. “Could we choose the sixth morning instead?”",
+        "Tavi thought about it. “Yes, the sixth morning works. But I want time with you, not a grander kite.”",
+        "“A repaired spar and a morning together,” Mend agreed. The orange ribbon lengthened and relaxed; the promise had changed, not vanished.",
+        "Hush recorded the new day. They also left room for meals and rest, rather than quietly spending that time twice.",
+        "Tomorrow they would return to Luma, then continue to Neri. Mend packed only the tools needed for the two practical jobs.",
+        "They slept in the hall again. Five ribbons rested beside Mend's blanket. For the first time, she had not added another while feeling guilty."
+      ],
+      "introduction": "Tavi and Mend choose a new, specific time for the kite.",
+      "title": "Moving One Morning"
+    },
+    "es": {
+      "altTexts": [
+        "Mend mira una cinta naranja durante la cena con sus amigos.",
+        "Mend pide a Tavi cambiar el momento de reparar la cometa.",
+        "Tavi acepta mientras señala un dibujo sencillo de la cometa.",
+        "La cinta naranja se afloja junto al calendario revisado.",
+        "Hush añade una ficha de cometa al sexto día junto a símbolos de descanso.",
+        "Mend prepara un pequeño estuche de herramientas para el día siguiente.",
+        "Cinco cintas sueltas descansan junto al lugar donde duerme Mend."
+      ],
+      "captions": [
+        "Aquella noche cenaron en el salón de Vela. Mend observó la cinta naranja que señalaba hacia la cometa que había dejado en Luma.",
+        "«No puedo arreglar la cometa para el quinto amanecer», dijo Mend a Tavi. «¿Podríamos elegir la sexta mañana?».",
+        "Tavi lo pensó. «Sí, la sexta mañana me viene bien. Pero quiero tiempo contigo, no una cometa más grandiosa».",
+        "«Una varilla reparada y una mañana juntos», acordó Mend. La cinta naranja se alargó y aflojó; la promesa había cambiado, no desaparecido.",
+        "Hush anotó el nuevo día. Dejaron espacio para comer y descansar, en lugar de gastar el mismo tiempo dos veces sin reconocerlo.",
+        "Mañana volverían a Luma y después seguirían hacia Neri. Mend guardó solo las herramientas necesarias para los dos trabajos prácticos.",
+        "Volvieron a dormir en el salón. Cinco cintas descansaban junto a la manta de Mend. Por primera vez, sentirse culpable no le había hecho añadir otra."
+      ],
+      "introduction": "Tavi y Mend eligen una nueva hora concreta para la cometa.",
+      "title": "Cambiar una mañana"
+    },
+    "fr": {
+      "altTexts": [
+        "Mend regarde son ruban orange pendant le dîner avec ses amis.",
+        "Mend demande à Tavi de déplacer la réparation du cerf-volant.",
+        "Tavi accepte en montrant un simple dessin de cerf-volant.",
+        "Le ruban orange se détend près du calendrier modifié.",
+        "Hush place le cerf-volant au sixième jour près des symboles de repos.",
+        "Mend prépare une petite trousse d’outils pour le lendemain.",
+        "Cinq rubans lâches reposent près du couchage de Mend."
+      ],
+      "captions": [
+        "Ce soir-là, les amis dînèrent dans la salle de Vela. Mend regarda le ruban orange pointant vers le cerf-volant resté à Luma.",
+        "« Je ne pourrai pas réparer le cerf-volant pour le cinquième lever du soleil, dit Mend. Pourrions-nous choisir le sixième matin ? »",
+        "Tavi réfléchit. « Oui, le sixième matin me convient. Mais je veux passer du temps avec toi, pas avoir un cerf-volant plus grandiose. »",
+        "« Une baguette réparée et une matinée ensemble », convint Mend. Le ruban orange s’allongea et se détendit ; la promesse avait changé, pas disparu.",
+        "Hush nota le nouveau jour. Ils laissèrent aussi du temps pour manger et se reposer, au lieu de dépenser discrètement les mêmes heures deux fois.",
+        "Demain, ils retourneraient à Luma, puis iraient à Neri. Mend n’emporta que les outils nécessaires aux deux travaux pratiques.",
+        "Ils dormirent encore dans la salle. Cinq rubans reposaient près de la couverture de Mend. Pour la première fois, la culpabilité ne lui en avait pas fait ajouter un."
+      ],
+      "introduction": "Tavi et Mend choisissent un nouveau moment précis pour le cerf-volant.",
+      "title": "Déplacer un matin"
+    },
+    "hi": {
+      "altTexts": [
+        "तीन दोस्तों के भोजन के समय नारंगी रिबन घर की दिशा में बढ़ता है।",
+        "मेंड कैलेंडर दिखाकर नई सुबह का प्रस्ताव रखती है।",
+        "तावी खुले कैलेंडर के पास अपनी इच्छा बताता है।",
+        "कैलेंडर छठे दिन तक बढ़ता है और नारंगी रिबन बना रहता है।",
+        "हश नए समय के आसपास भोजन और आराम के निशान रखता है।",
+        "मेंड सिलाई और माप के औज़ार छोटी पोटली में रखती है।",
+        "पाँच ढीले रिबन मेंड के सोने की जगह के पास हैं।"
+      ],
+      "captions": [
+        "उस रात खाने पर नारंगी रिबन घर की ओर था। मेंड को पतंग और वह बातचीत याद आई जिसे वह टाल रही थी।",
+        "“पाँचवें दिन सूरज निकलने से पहले पतंग नहीं बना पाऊँगी,” मेंड ने तावी से कहा। “क्या छठे दिन सुबह कर लें?”",
+        "तावी ने सोचा। “हाँ, छठी सुबह ठीक है। लेकिन मुझे तुम्हारे साथ समय चाहिए, और शानदार पतंग नहीं।”",
+        "“ठीक की हुई कमानी और साथ बिताई सुबह,” मेंड ने दोहराया। नारंगी रिबन लंबा होकर ढीला हुआ। वादा बदला था, गायब नहीं हुआ।",
+        "हश ने नई तारीख लिखी। उन्होंने भोजन और आराम की जगह भी रखी, एक समय को चुपचाप दो बार खर्च नहीं किया।",
+        "कल पहले लूमा, फिर नेरी जाना था। मेंड ने केवल दो व्यावहारिक कामों के लिए ज़रूरी औज़ार रखे।",
+        "वे फिर सभागार में सोए। मेंड के कंबल के पास पाँच रिबन थे। इस बार अपराधबोध में उसने एक और वादा नहीं जोड़ा।"
+      ],
+      "introduction": "तावी नई तारीख मानता है और साथ समय बिताने की इच्छा बताता है।",
+      "title": "एक सुबह आगे"
+    },
+    "id": {
+      "altTexts": [
+        "Pita jingga merentang ke arah rumah saat tiga teman makan.",
+        "Mend mengusulkan perubahan waktu sambil menunjuk kalender.",
+        "Tavi menjawab dengan tenang di samping kalender terbuka.",
+        "Pita jingga tetap terlihat setelah kalender diperluas ke hari keenam.",
+        "Hush menempatkan penanda istirahat di sekitar jadwal layang-layang.",
+        "Mend memasukkan alat jahit dan pengukur ke gulungan alat kecil.",
+        "Lima pita terletak longgar di dekat tempat tidur Mend."
+      ],
+      "captions": [
+        "Malam itu, saat makan bersama, pita jingga menunjuk pulang. Mend teringat layang-layang dan percakapan yang masih ia hindari.",
+        "“Aku tidak sanggup menyelesaikannya sebelum matahari terbit hari kelima,” kata Mend kepada Tavi. “Bagaimana kalau pagi hari keenam?”",
+        "Tavi berpikir sejenak. “Ya, pagi keenam cocok. Tetapi aku ingin waktu bersamamu, bukan layang-layang yang lebih megah.”",
+        "“Bilah yang diperbaiki dan satu pagi bersama,” Mend menyetujui. Pita jingga memanjang dan mengendur; janji itu berubah, bukan hilang.",
+        "Hush mencatat hari yang baru. Mereka juga menyisakan waktu makan dan istirahat, bukan menggunakan waktu yang sama dua kali.",
+        "Besok mereka akan kembali ke Luma, lalu melanjutkan ke Neri. Mend hanya mengemas alat untuk dua pekerjaan praktis yang diperlukan.",
+        "Mereka kembali tidur di gedung itu. Lima pita beristirahat di sisi selimut Mend. Kali ini, rasa bersalah tidak membuatnya menambah satu janji lagi."
+      ],
+      "introduction": "Tavi menyetujui waktu baru untuk layang-layang dan kebersamaan mereka.",
+      "title": "Memindahkan Satu Pagi"
+    },
+    "it": {
+      "altTexts": [
+        "Mend osserva un nastro arancione durante la cena con gli amici.",
+        "Mend chiede a Tavi di cambiare il momento della riparazione.",
+        "Tavi accetta indicando un semplice disegno dell’aquilone.",
+        "Il nastro arancione si allenta vicino al calendario aggiornato.",
+        "Hush mette l’aquilone nel sesto giorno vicino ai simboli di riposo.",
+        "Mend prepara un piccolo rotolo di attrezzi per il giorno seguente.",
+        "Cinque nastri sciolti riposano accanto al posto dove dorme Mend."
+      ],
+      "captions": [
+        "Quella sera gli amici cenarono nella sala di Vela. Mend osservò il nastro arancione che indicava l’aquilone lasciato a Luma.",
+        "«Non riuscirò a riparare l’aquilone entro la quinta alba», disse Mend a Tavi. «Potremmo scegliere la sesta mattina?»",
+        "Tavi ci pensò. «Sì, la sesta mattina va bene. Ma voglio tempo con te, non un aquilone più grandioso».",
+        "«Una stecca riparata e una mattina insieme», concordò Mend. Il nastro arancione si allungò e si allentò: la promessa era cambiata, non sparita.",
+        "Hush registrò il nuovo giorno. Lasciarono anche spazio per pasti e riposo, invece di spendere lo stesso tempo due volte senza dirlo.",
+        "Domani sarebbero tornati a Luma, poi avrebbero proseguito per Neri. Mend preparò solo gli attrezzi necessari ai due lavori pratici.",
+        "Dormirono di nuovo nella sala. Cinque nastri riposavano vicino alla coperta di Mend. Per la prima volta, il senso di colpa non ne aveva aggiunto un altro."
+      ],
+      "introduction": "Tavi e Mend scelgono un nuovo momento preciso per l’aquilone.",
+      "title": "Spostare una mattina"
+    },
+    "ja": {
+      "altTexts": [
+        "三人の食事中、オレンジのリボンが家の方へ伸びています。",
+        "メンドがカレンダーを示し、別の朝を提案しています。",
+        "タヴィが、開いたカレンダーのそばで答えています。",
+        "カレンダーが六日目まで広がり、オレンジのリボンは残っています。",
+        "ハッシュが、新しい予定の周りに食事と休みの印を置いています。",
+        "メンドが縫う道具と測る道具を小さな道具巻きに入れています。",
+        "五本のリボンが、メンドの寝床の脇で休んでいます。"
+      ],
+      "captions": [
+        "その夜、食卓でオレンジのリボンが家の方を向きました。メンドはたこと、まだ避けていた話を思い出しました。",
+        "「五日目の日の出までには直せない」とメンドはタヴィに言いました。「六日目の朝に変えられる？」",
+        "タヴィは考えました。「うん、六日目の朝でいい。でも欲しいのは一緒にいる時間で、もっと立派なたこじゃないよ」",
+        "「骨を直して、朝を一緒に過ごそう」とメンド。オレンジのリボンが長くなり、ゆるみました。約束は変わっても、消えてはいません。",
+        "ハッシュは新しい日を記しました。食事と休息の時間も残し、同じ時間を二度使ったことにはしませんでした。",
+        "明日はルマへ戻り、それからネリへ向かいます。メンドは、二つの必要な作業の道具だけをまとめました。",
+        "三人はもう一晩、会館で眠りました。メンドの毛布の隣には五本のリボン。今度は、後ろめたさから新しい約束を増やしませんでした。"
+      ],
+      "introduction": "タヴィは新しい日程に同意し、一緒に過ごしたい気持ちを伝えます。",
+      "title": "朝を一日ずらして"
+    },
+    "ko": {
+      "altTexts": [
+        "세 친구가 식사하는 동안 주황 리본이 집 방향으로 뻗습니다.",
+        "멘드가 달력을 가리키며 새 날짜를 제안합니다.",
+        "타비가 열린 달력 옆에서 자신의 바람을 말합니다.",
+        "달력이 여섯째 날까지 늘어나고 주황 리본은 남습니다.",
+        "허시가 새 약속 주변에 식사와 휴식 표시를 놓습니다.",
+        "멘드가 바느질 도구와 측정 도구를 작은 도구집에 넣습니다.",
+        "다섯 리본이 멘드의 잠자리 옆에 느슨하게 놓여 있습니다."
+      ],
+      "captions": [
+        "그날 저녁 식탁에서 주황 리본이 집 쪽으로 향했습니다. 멘드는 연과 아직 피하고 있던 대화를 떠올렸습니다.",
+        "“다섯째 날 해 뜨기 전까지는 못 고치겠어.” 멘드가 타비에게 말했습니다. “여섯째 날 아침으로 바꿀 수 있을까?”",
+        "타비는 잠시 생각했습니다. “응, 여섯째 날 아침도 좋아. 하지만 더 멋진 연보다 너와 보내는 시간이 필요해.”",
+        "“살대를 고치고 아침을 함께 보내자.” 멘드가 확인했습니다. 주황 리본이 길어지고 느슨해졌습니다. 약속은 바뀌었지만 사라지지 않았습니다.",
+        "허시가 새 날짜를 기록했습니다. 식사와 휴식 시간도 남겨 두었습니다. 같은 시간을 조용히 두 번 쓰지는 않았습니다.",
+        "내일은 루마로 돌아갔다가 네리로 갈 예정이었습니다. 멘드는 실제로 필요한 두 작업의 도구만 챙겼습니다.",
+        "다시 회관에서 하룻밤 잤습니다. 다섯 리본이 멘드의 담요 옆에 놓였습니다. 이번에는 미안한 마음 때문에 약속을 더하지 않았습니다."
+      ],
+      "introduction": "타비는 새 날짜에 동의하고 함께 보내는 시간이 중요하다고 말합니다.",
+      "title": "하루 뒤의 아침"
+    },
+    "pl": {
+      "altTexts": [
+        "Mend obserwuje pomarańczową wstążkę podczas kolacji z przyjaciółmi.",
+        "Mend prosi Taviego o zmianę terminu naprawy latawca.",
+        "Tavi zgadza się, wskazując prosty rysunek latawca.",
+        "Pomarańczowa wstążka rozluźnia się przy poprawionym kalendarzu.",
+        "Hush dodaje latawiec do szóstego dnia obok symboli odpoczynku.",
+        "Mend pakuje małe zwijane etui z narzędziami na następny dzień.",
+        "Przy miejscu do spania Mend leży pięć luźnych wstążek."
+      ],
+      "captions": [
+        "Wieczorem przyjaciele zjedli w sali. Mend patrzyła na pomarańczową wstążkę wskazującą latawiec zostawiony w miasteczku miasteczku Luma.",
+        "„Nie naprawię latawca przed piątym wschodem słońca” — powiedziała Mend Taviemu. „Możemy wybrać szósty poranek?”",
+        "Tavi się zastanowił. „Tak, szósty poranek mi pasuje. Ale chcę czasu z tobą, nie wspanialszego latawca”.",
+        "„Naprawiona listewka i wspólny poranek” — zgodziła się Mend. Pomarańczowa wstążka wydłużyła się i rozluźniła. Obietnica się zmieniła, nie zniknęła.",
+        "Hush zapisał nowy dzień. Zostawili też czas na posiłki i odpoczynek, zamiast niepostrzeżenie zużywać te same godziny dwa razy.",
+        "Jutro wrócą do miasteczka Luma, a potem popłyną do Neri. Mend spakowała tylko narzędzia potrzebne do dwóch praktycznych prac.",
+        "Znów spali w sali. Pięć wstążek odpoczywało obok koca Mend. Po raz pierwszy poczucie winy nie sprawiło, że dodała kolejną."
+      ],
+      "introduction": "Tavi i Mend wybierają nowy, konkretny termin dla latawca.",
+      "title": "Przesunięty poranek"
+    },
+    "pt": {
+      "altTexts": [
+        "Mend olha uma fita laranja durante o jantar com os amigos.",
+        "Mend pede a Tavi uma mudança no horário de consertar a pipa.",
+        "Tavi concorda apontando para um desenho simples de pipa.",
+        "A fita laranja afrouxa ao lado do calendário revisto.",
+        "Hush coloca a pipa no sexto dia junto de símbolos de descanso.",
+        "Mend prepara um pequeno conjunto de ferramentas para o dia seguinte.",
+        "Cinco fitas frouxas descansam perto da cama de Mend."
+      ],
+      "captions": [
+        "Naquela noite, os amigos jantaram no salão de Vela. Mend olhou a fita laranja apontando para a pipa que deixara em Luma.",
+        "“Não consigo consertar a pipa até o quinto amanhecer”, disse Mend a Tavi. “Podemos escolher a sexta manhã?”",
+        "Tavi pensou. “Sim, a sexta manhã serve. Mas quero tempo com você, não uma pipa mais grandiosa.”",
+        "“Uma vareta consertada e uma manhã juntos”, combinou Mend. A fita laranja se alongou e afrouxou; a promessa havia mudado, não desaparecido.",
+        "Hush anotou o novo dia. Também deixaram espaço para refeições e descanso, em vez de gastar o mesmo tempo duas vezes sem admitir.",
+        "Amanhã voltariam a Luma e depois seguiriam para Neri. Mend guardou apenas as ferramentas necessárias para os dois trabalhos práticos.",
+        "Dormiram no salão outra vez. Cinco fitas descansavam junto da manta de Mend. Pela primeira vez, a culpa não a fizera acrescentar mais uma."
+      ],
+      "introduction": "Tavi e Mend escolhem um novo momento específico para a pipa.",
+      "title": "Mudar uma manhã"
+    },
+    "ru": {
+      "altTexts": [
+        "Менд смотрит на оранжевую ленту за ужином с друзьями.",
+        "Менд просит Тави перенести ремонт воздушного змея.",
+        "Тави соглашается, показывая простой рисунок воздушного змея.",
+        "Оранжевая лента ослабевает возле исправленного календаря.",
+        "Хаш добавляет змея на шестой день рядом со значками отдыха.",
+        "Менд собирает маленький свёрток инструментов на следующий день.",
+        "Пять свободных лент лежат возле спального места Менд."
+      ],
+      "captions": [
+        "Вечером друзья ужинали в зале Велы. Менд следила за оранжевой лентой, указывавшей на змея, оставленного в Луме.",
+        "«Я не успею починить змея к пятому рассвету, — сказала Менд Тави. — Можно выбрать шестое утро?»",
+        "Тави подумал. «Да, шестое утро подходит. Но я хочу побыть с тобой, а не получить более роскошного змея».",
+        "«Починенная перекладина и утро вместе», — согласилась Менд. Оранжевая лента удлинилась и ослабла. Обещание изменилось, а не исчезло.",
+        "Хаш отметил новый день. Они оставили место для еды и отдыха, вместо того чтобы незаметно потратить одни и те же часы дважды.",
+        "Завтра они вернутся в Луму, затем отправятся в Нери. Менд взяла лишь инструменты для двух необходимых работ.",
+        "Они снова спали в зале. Пять лент лежали возле одеяла Менд. Впервые чувство вины не заставило её добавить ещё одну."
+      ],
+      "introduction": "Тави и Менд выбирают новое точное время для воздушного змея.",
+      "title": "Перенести одно утро"
+    },
+    "tr": {
+      "altTexts": [
+        "Mend arkadaşlarıyla yemek yerken turuncu kurdeleye bakıyor.",
+        "Mend, Tavi’den uçurtma onarımının zamanını değiştirmesini istiyor.",
+        "Tavi basit uçurtma çizimini göstererek kabul ediyor.",
+        "Turuncu kurdele yenilenen takvimin yanında gevşiyor.",
+        "Hush altıncı güne, dinlenme simgelerinin yanına uçurtma simgesi koyuyor.",
+        "Mend ertesi gün için küçük bir alet rulosu hazırlıyor.",
+        "Mend’in yatağının yanında beş gevşek kurdele duruyor."
+      ],
+      "captions": [
+        "O akşam arkadaşlar Vela’nın salonunda yemek yedi. Mend, Luma’da bıraktığı uçurtmayı gösteren turuncu kurdeleyi izledi.",
+        "“Uçurtmayı beşinci günün şafağına yetiştiremem,” dedi Mend. “Onun yerine altıncı sabahı seçebilir miyiz?”",
+        "Tavi düşündü. “Evet, altıncı sabah uygun. Ama daha gösterişli bir uçurtma değil, seninle zaman istiyorum.”",
+        "“Onarılmış bir çıta ve birlikte bir sabah,” diye anlaştı Mend. Turuncu kurdele uzayıp gevşedi; söz değişmişti, kaybolmamıştı.",
+        "Hush yeni günü kaydetti. Aynı zamanı gizlice iki kez harcamak yerine yemek ve dinlenmeye de yer bıraktılar.",
+        "Yarın Luma’ya dönüp sonra Neri’ye gideceklerdi. Mend yalnızca iki gerekli iş için gereken aletleri topladı.",
+        "Yine salonda uyudular. Mend’in battaniyesinin yanında beş kurdele dinleniyordu. İlk kez suçluluk hissi yeni bir kurdele eklemesine yol açmamıştı."
+      ],
+      "introduction": "Tavi ve Mend uçurtma için yeni ve belirli bir zaman seçer.",
+      "title": "Bir Sabahı Değiştirmek"
+    },
+    "vi": {
+      "altTexts": [
+        "Dải cam hướng về nhà khi ba người cùng ăn.",
+        "Mend chỉ lịch và đề nghị một buổi sáng khác.",
+        "Tavi trả lời bên tờ lịch mở.",
+        "Lịch được mở thêm ngày thứ sáu, dải cam vẫn còn.",
+        "Hush đặt dấu nghỉ và bữa ăn quanh lịch hẹn mới.",
+        "Mend cuộn dụng cụ khâu và đo vào túi đồ nhỏ.",
+        "Năm dải băng thả lỏng cạnh chỗ ngủ của Mend."
+      ],
+      "captions": [
+        "Tối đó, trong bữa ăn, dải cam chỉ về nhà. Mend nhớ cánh diều và cuộc nói chuyện cô vẫn tránh.",
+        "“Mình không sửa kịp trước bình minh ngày thứ năm,” Mend nói với Tavi. “Đổi sang sáng ngày thứ sáu được không?”",
+        "Tavi suy nghĩ. “Được, sáng ngày thứ sáu cũng được. Nhưng mình muốn thời gian với cậu, không phải một cánh diều hoành tráng hơn.”",
+        "“Một thanh diều được sửa và một buổi sáng bên nhau,” Mend xác nhận. Dải cam dài ra, thả lỏng. Lời hứa đã đổi, chưa biến mất.",
+        "Hush ghi ngày mới. Họ cũng chừa giờ ăn và nghỉ, thay vì lặng lẽ dùng cùng một khoảng thời gian hai lần.",
+        "Ngày mai họ sẽ về Luma rồi sang Neri. Mend chỉ mang dụng cụ cần cho hai việc thực tế.",
+        "Họ ngủ thêm một đêm trong hội trường. Năm dải băng nằm cạnh chăn Mend. Lần này, cô không vì áy náy mà thêm lời hứa mới."
+      ],
+      "introduction": "Tavi đồng ý ngày mới và nói rằng cậu muốn có thời gian bên Mend.",
+      "title": "Dời lại một buổi sáng"
+    },
+    "zh": {
+      "altTexts": [
+        "三个朋友吃饭，橙色丝带伸向回家的方向。",
+        "门德指着日历，向塔维提出改期。",
+        "塔维在日历旁认真回答门德。",
+        "日历延到第六天，橙色丝带仍然存在。",
+        "哈什在新约定旁加入进餐和休息标记。",
+        "门德把缝补和测量工具装进小工具卷。",
+        "五条松散丝带垂在门德的睡处旁。"
+      ],
+      "captions": [
+        "当晚吃饭时，橙色丝带指着家的方向。门德想起了风筝，还有那场一直回避的谈话。",
+        "“第五天日出前，我修不好风筝。”门德对塔维说，“能改到第六天早晨吗？”",
+        "塔维想了一会儿。“可以，第六天早晨行。不过我想要的是和你一起玩，不是更华丽的风筝。”",
+        "“修好骨架，再一起过一个早晨。”门德确认。橙色丝带变长、放松了；承诺变了，却没有消失。",
+        "哈什记下新的日期。他们还留出吃饭和休息的时间，不再把同一段时间悄悄用上两次。",
+        "明天，他们要先回卢马，再去内里。门德只带上两项实际工作需要的工具。",
+        "他们又在会堂住了一夜。五条丝带躺在门德的毯子旁。这一次，内疚没有让她再添一个承诺。"
+      ],
+      "introduction": "塔维同意延后修风筝，也说出了自己真正想要的陪伴。",
+      "title": "换一个早晨"
+    }
+  },
+  "number": 15,
+  "panels": [
+    {
+      "altText": "Mend looks at an orange ribbon during supper with her friends.",
+      "image": "N02E15P01.png"
+    },
+    {
+      "altText": "Mend asks Tavi to change the kite’s repair time.",
+      "image": "N02E15P02.png"
+    },
+    {
+      "altText": "Tavi agrees while pointing to a simple kite sketch.",
+      "image": "N02E15P03.png"
+    },
+    {
+      "altText": "Mend’s orange ribbon relaxes beside the revised calendar.",
+      "image": "N02E15P04.png"
+    },
+    {
+      "altText": "Hush adds a sixth-day kite token beside meal and rest symbols.",
+      "image": "N02E15P05.png"
+    },
+    {
+      "altText": "Mend packs a small tool roll for the next day’s work.",
+      "image": "N02E15P06.png"
+    },
+    {
+      "altText": "Five loose ribbons rest beside Mend’s sleeping place.",
+      "image": "N02E15P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

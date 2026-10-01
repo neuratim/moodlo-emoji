@@ -1,0 +1,439 @@
+{
+  "id": "N01E22",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "بحلول الفجر بعد الرحلة الليلية، يعبر القطار الجسر الحدودي إلى Tessara. لا يزال الستة معًا، ولا تزال العلبة مثبتة أسفل الحامل. تبقى رحلة متصلة واحدة من محطة التقاطع قبل الوصول إلى Mosaic.",
+        "عند محطة تقاطع الخطوط في Tessara، يقوم Bash بفحص الحقيبة قبل تغيير القطارات. تظل حجرتا العدسات مبطنتين وتظل حجرة جهاز الاستقبال مغلقة. يقوم Quest بالتحقق من تذكرة القطار المتصل إلى Mosaic.",
+        "بعد الرحلة المتصلة، يصل القطار إلى Mosaic. يلتقي Still بجميع المسافرين الستة بعربة النقل التي رتبها. بقي Rain في Meadowfold، حيث أصبح طريق المزرعة الواسع جاهزًا لعودتهم.",
+        "خارج المحطة، يتولى Bash التحكم في عربة النقل. يتبع الستة نفس طريق المزرعة الذي جلب Rain إلى Meadowfold. تثبت المعدات بأحزمة في حوض الشحن، فلا تتدحرج بين أقدام المسافرين.",
+        "في Meadowfold، يتعرف Rain على أصواتهم قبل أن يتمكن من تمييز وجوههم الصغيرة. يتوقف Beam وNova بجانب يده بينما يفرغ الآخرون الحقيبة. لقد عادوا دون أن يطلبوا منه أن يكون أصغر قبل أن يفعلوا ذلك.",
+        "بجوار المزرعة، يضع Quest علبة المعدات المغلقة على طاولة العمل ويعطي Mend الملاحظات. تبقى العدسات وجهاز الاستقبال داخل الحقيبة. ويأتي الشرح قبل أي محاولة لاستخدام ما أحضره المسافرون إلى الوطن.",
+        "بعد ذلك بقليل، بعيدًا عن تفريغ الحقيبة والأسئلة، يقدم Rain لـ Nova حافة يده. في الوقت الحالي، يريد استعادة الجزء العادي من صداقتهما. يمكن أن ينتظر التحقيق حتى يجلسوا معًا."
+      ],
+      "captions": [
+        "بحلول الفجر بعد الرحلة الليلية، يعبر القطار الجسر الحدودي إلى Tessara. لا يزال الستة معًا، ولا تزال العلبة مثبتة أسفل الحامل. تبقى رحلة متصلة واحدة من محطة التقاطع قبل الوصول إلى Mosaic.\n\nQuest: \"عدنا إلى الوطن. بقي تبديل قطار واحد.\"",
+        "عند محطة تقاطع الخطوط في Tessara، يقوم Bash بفحص الحقيبة قبل تغيير القطارات. تظل حجرتا العدسات مبطنتين وتظل حجرة جهاز الاستقبال مغلقة. يقوم Quest بالتحقق من تذكرة القطار المتصل إلى Mosaic.\n\nBash: \"الحقيبة نفسها. كلتا العدستين آمنتان.\"",
+        "بعد الرحلة المتصلة، يصل القطار إلى Mosaic. يلتقي Still بجميع المسافرين الستة بعربة النقل التي رتبها. بقي Rain في Meadowfold، حيث أصبح طريق المزرعة الواسع جاهزًا لعودتهم.\n\nStill: \"طريق المرج سالك. العربة تنتظر في الخارج.\"",
+        "خارج المحطة، يتولى Bash التحكم في عربة النقل. يتبع الستة نفس طريق المزرعة الذي جلب Rain إلى Meadowfold. تثبت المعدات بأحزمة في حوض الشحن، فلا تتدحرج بين أقدام المسافرين.\n\nNova: \"هذا هو المرج. انظر!\"",
+        "في Meadowfold، يتعرف Rain على أصواتهم قبل أن يتمكن من تمييز وجوههم الصغيرة. يتوقف Beam وNova بجانب يده بينما يفرغ الآخرون الحقيبة. لقد عادوا دون أن يطلبوا منه أن يكون أصغر قبل أن يفعلوا ذلك.\n\nRain: \"لقد أتيتم حقًا.\"\nBeam: \"بالطبع فعلنا ذلك.\"",
+        "بجوار المزرعة، يضع Quest علبة المعدات المغلقة على طاولة العمل ويعطي Mend الملاحظات. تبقى العدسات وجهاز الاستقبال داخل الحقيبة. ويأتي الشرح قبل أي محاولة لاستخدام ما أحضره المسافرون إلى الوطن.\n\nQuest: \"سنشرح ذلك قبل أن نستخدم أي شيء.\"",
+        "بعد ذلك بقليل، بعيدًا عن تفريغ الحقيبة والأسئلة، يقدم Rain لـ Nova حافة يده. في الوقت الحالي، يريد استعادة الجزء العادي من صداقتهما. يمكن أن ينتظر التحقيق حتى يجلسوا معًا.\n\nRain: \"ابقي قليلًا قبل الأسئلة.\""
+      ],
+      "introduction": "الباحثون الستة ومعداتهم التي تم اختبارها موجودون في القطار الليلي إلى المنزل. لا يزال هناك معبر حدودي ومحطة لتبديل القطارات وطريق زراعي مألوف بينهم وبين Rain. تجلب عودتهم طريقة لفحصه يستطيعون شرحها - والأصدقاء الذين يمكنهم أخيرًا الجلوس بجانبه مرة أخرى.",
+      "title": "طريق العودة الطويل"
+    },
+    "bn": {
+      "altTexts": [
+        "সারারাত চলার পর ভোরে ট্রেন সীমান্তের সেতু পেরিয়ে Tessara-এ ঢোকে। ছয়জন একসঙ্গে আছে, বাক্সটিও তাকের নিচে বাঁধা। Mosaic পৌঁছানোর আগে সংযোগ স্টেশনে আর একবার ট্রেন বদলাতে হবে।",
+        "Tessara-এর সংযোগ স্টেশনে ট্রেন বদলানোর আগে Bash বাক্সটি পরীক্ষা করে। দুটি লেন্স নরম আবরণের ভেতর নিরাপদে আছে। গ্রহণপাত্রের খোপও বন্ধ। Quest Mosaic যাওয়ার পরের ট্রেনের টিকিট দেখে।",
+        "পরের ট্রেনটি Mosaic-এ পৌঁছায়। Still ছয় বন্ধুকে নিতে আনা গাড়ি নিয়ে অপেক্ষা করে। Rain Meadowfold-এই আছে। চওড়া খামারের পথ ধরে এবার বন্ধুরা তার কাছে ফিরবে।",
+        "স্টেশনের বাইরে Bash গাড়ি চালানোর দায়িত্ব নেয়। ছয়জন সেই খামারের পথ ধরে যায়, যে পথে Rain হেঁটে Meadowfold-এ গিয়েছিল। সরঞ্জাম মাল রাখার জায়গায় বাঁধা, কারও পায়ের কাছে আলগা পড়ে নেই।",
+        "Meadowfold-এ Rain ছোট ছোট মুখগুলো স্পষ্ট দেখার আগেই বন্ধুদের গলা চেনে। অন্যরা জিনিস নামায়, আর Beam ও Nova তার হাতের পাশে দাঁড়ায়। ফিরে আসার শর্ত হিসেবে তারা Rain-কে ছোট হতে বলেনি।",
+        "খামারবাড়ির পাশে Quest বন্ধ সরঞ্জামের বাক্সটি কাজের টেবিলে রাখে, Mend-কে নোট দেয়। লেন্স আর গ্রহণপাত্র এখনও বাক্সের ভেতরে। যা আনা হয়েছে তা ব্যবহার করার আগে বুঝিয়ে বলা হবে।",
+        "কিছুক্ষণ পরে, জিনিস নামানো আর প্রশ্ন থেকে দূরে, Rain Nova-কে নিজের হাতের ধারে বসার জায়গা দেয়। এখন সে তাদের বন্ধুত্বের সাধারণ মুহূর্তটুকু ফিরে পেতে চায়। দুজনে বসে থাকা পর্যন্ত অনুসন্ধান অপেক্ষা করতে পারে।"
+      ],
+      "captions": [
+        "সারারাত চলার পর ভোরে ট্রেন সীমান্তের সেতু পেরিয়ে Tessara-এ ঢোকে। ছয়জন একসঙ্গে আছে, বাক্সটিও তাকের নিচে বাঁধা। Mosaic পৌঁছানোর আগে সংযোগ স্টেশনে আর একবার ট্রেন বদলাতে হবে।\n\nQuest: \"নিজের দেশে ফিরলাম। আর একবার ট্রেন বদলাতে হবে।\"",
+        "Tessara-এর সংযোগ স্টেশনে ট্রেন বদলানোর আগে Bash বাক্সটি পরীক্ষা করে। দুটি লেন্স নরম আবরণের ভেতর নিরাপদে আছে। গ্রহণপাত্রের খোপও বন্ধ। Quest Mosaic যাওয়ার পরের ট্রেনের টিকিট দেখে।\n\nBash: \"সেই একই বাক্স। দুটি লেন্সই নিরাপদে আছে।\"",
+        "পরের ট্রেনটি Mosaic-এ পৌঁছায়। Still ছয় বন্ধুকে নিতে আনা গাড়ি নিয়ে অপেক্ষা করে। Rain Meadowfold-এই আছে। চওড়া খামারের পথ ধরে এবার বন্ধুরা তার কাছে ফিরবে।\n\nStill: \"তৃণভূমির পথ খালি আছে। বাইরে গাড়ি দাঁড়িয়ে।\"",
+        "স্টেশনের বাইরে Bash গাড়ি চালানোর দায়িত্ব নেয়। ছয়জন সেই খামারের পথ ধরে যায়, যে পথে Rain হেঁটে Meadowfold-এ গিয়েছিল। সরঞ্জাম মাল রাখার জায়গায় বাঁধা, কারও পায়ের কাছে আলগা পড়ে নেই।\n\nNova: \"ওই তো তৃণভূমি। দেখো!\"",
+        "Meadowfold-এ Rain ছোট ছোট মুখগুলো স্পষ্ট দেখার আগেই বন্ধুদের গলা চেনে। অন্যরা জিনিস নামায়, আর Beam ও Nova তার হাতের পাশে দাঁড়ায়। ফিরে আসার শর্ত হিসেবে তারা Rain-কে ছোট হতে বলেনি।\n\nRain: \"তোমরা সত্যিই এসেছ।\"\nBeam: \"অবশ্যই এসেছি।\"",
+        "খামারবাড়ির পাশে Quest বন্ধ সরঞ্জামের বাক্সটি কাজের টেবিলে রাখে, Mend-কে নোট দেয়। লেন্স আর গ্রহণপাত্র এখনও বাক্সের ভেতরে। যা আনা হয়েছে তা ব্যবহার করার আগে বুঝিয়ে বলা হবে।\n\nQuest: \"কিছু ব্যবহার করার আগেই সব ব্যাখ্যা করব।\"",
+        "কিছুক্ষণ পরে, জিনিস নামানো আর প্রশ্ন থেকে দূরে, Rain Nova-কে নিজের হাতের ধারে বসার জায়গা দেয়। এখন সে তাদের বন্ধুত্বের সাধারণ মুহূর্তটুকু ফিরে পেতে চায়। দুজনে বসে থাকা পর্যন্ত অনুসন্ধান অপেক্ষা করতে পারে।\n\nRain: \"প্রশ্ন করার আগে একটু পাশে থাকো।\""
+      ],
+      "introduction": "ছয় বন্ধু পরীক্ষিত সরঞ্জাম নিয়ে রাতের ট্রেনে বাড়ি ফিরছে। এখনও সীমান্ত পার হতে হবে, ট্রেন বদলাতে হবে, তারপর চেনা খামারের পথ। তারা Rain-কে বোঝানোর মতো একটি পরীক্ষার উপায় আনছে। আর আনছে সেই সঙ্গ, যার জন্য এতদিন অপেক্ষা ছিল।",
+      "title": "বাড়ি ফেরার দীর্ঘ পথ"
+    },
+    "cs": {
+      "altTexts": [
+        "Za svítání, po noční jízdě, vlak přejede po hraničním mostě do Tessary. Všech šest je stále pohromadě a pouzdro zůstává zajištěné pod policí. Před příjezdem do města Mosaic je čeká ještě jeden přestup v železničním uzlu.",
+        "V železničním uzlu v Tessaře Bash před přestupem zkontroluje pouzdro. Obě čočky zůstávají v polstrovaných přihrádkách a oddíl přijímací komory je zajištěný. Quest ověří jízdenku na přípoj do města Mosaic.",
+        "Po navazující jízdě vlak dorazí do města Mosaic. Still přivítá všech šest cestovatelů; zajistil jim užitkový vůz. Rain zůstal na louce Meadowfold, kam vede široká příjezdová cesta připravená na jejich návrat.",
+        "Před nádražím se Bash ujme řízení užitkového vozu. Všech šest jede stejnou cestou ke statku, po které na louku Meadowfold přišel Rain. Vybavení je upevněné v nákladovém prostoru, ne volně mezi jejich nohama.",
+        "Na louce Meadowfold Rain pozná jejich hlasy dřív, než rozezná drobné obličeje. Beam a Nova se zastaví vedle jeho odpočívající ruky, zatímco ostatní vykládají. Vrátili se, aniž by po něm žádali, aby se nejdřív zmenšil.",
+        "Vedle statku Quest položí zavřené pouzdro s vybavením na pracovní stůl a předá Mend poznámky. Přijímací komora i čočky zůstávají zabalené. Než zkusí cokoli z přivezeného vybavení použít, nejdřív vše vysvětlí.",
+        "O něco později, stranou balení a otázek, Rain nabídne Nově okraj své ruky. Prozatím chce zpátky obyčejnou část jejich přátelství. Pátrání může počkat, než spolu chvíli posedí."
+      ],
+      "captions": [
+        "Za svítání, po noční jízdě, vlak přejede po hraničním mostě do Tessary. Všech šest je stále pohromadě a pouzdro zůstává zajištěné pod policí. Před příjezdem do města Mosaic je čeká ještě jeden přestup v železničním uzlu.\n\nQuest: „Jsme doma v Tessaře. Ještě jeden přípoj.“",
+        "V železničním uzlu v Tessaře Bash před přestupem zkontroluje pouzdro. Obě čočky zůstávají v polstrovaných přihrádkách a oddíl přijímací komory je zajištěný. Quest ověří jízdenku na přípoj do města Mosaic.\n\nBash: „Stejné pouzdro. Obě čočky jsou v bezpečí.“",
+        "Po navazující jízdě vlak dorazí do města Mosaic. Still přivítá všech šest cestovatelů; zajistil jim užitkový vůz. Rain zůstal na louce Meadowfold, kam vede široká příjezdová cesta připravená na jejich návrat.\n\nStill: „Cesta k louce je volná. Vůz čeká venku.“",
+        "Před nádražím se Bash ujme řízení užitkového vozu. Všech šest jede stejnou cestou ke statku, po které na louku Meadowfold přišel Rain. Vybavení je upevněné v nákladovém prostoru, ne volně mezi jejich nohama.\n\nNova: „Tamhle je louka. Podívejte!“",
+        "Na louce Meadowfold Rain pozná jejich hlasy dřív, než rozezná drobné obličeje. Beam a Nova se zastaví vedle jeho odpočívající ruky, zatímco ostatní vykládají. Vrátili se, aniž by po něm žádali, aby se nejdřív zmenšil.\n\nRain: „Vy jste opravdu přijeli.“\nBeam: „Samozřejmě.“",
+        "Vedle statku Quest položí zavřené pouzdro s vybavením na pracovní stůl a předá Mend poznámky. Přijímací komora i čočky zůstávají zabalené. Než zkusí cokoli z přivezeného vybavení použít, nejdřív vše vysvětlí.\n\nQuest: „Než cokoli použijeme, vysvětlíme to.“",
+        "O něco později, stranou balení a otázek, Rain nabídne Nově okraj své ruky. Prozatím chce zpátky obyčejnou část jejich přátelství. Pátrání může počkat, než spolu chvíli posedí.\n\nRain: „Než přijdou otázky, chvíli zůstaň.“"
+      ],
+      "introduction": "Šestice cestovatelů se svým vyzkoušeným vybavením jede nočním vlakem domů. Od Raina je stále dělí hraniční přejezd, přestup v železničním uzlu a známá cesta ke statku. Přivážejí metodu, kterou mu vysvětlí — a přátele, kteří si k němu konečně mohou znovu sednout.",
+      "title": "Dlouhá cesta zpátky"
+    },
+    "de": {
+      "altTexts": [
+        "Im Morgengrauen nach der Nachtfahrt überquert der Zug die Grenzbrücke nach Tessara. Die sechs sind immer noch zusammen und der Koffer ist immer noch unter der Gepäckablage befestigt. Vor Mosaic steht noch ein Umstieg am Knotenbahnhof an.",
+        "Am Knotenpunkt Tessara prüft Bash den Koffer, bevor sie umsteigen. Die beiden Linsenfächer bleiben gepolstert und das Empfängerfach bleibt verriegelt. Quest prüft das Ticket für den Anschlusszug nach Mosaic.",
+        "Nach der Anschlussfahrt erreicht der Zug Mosaic. Still trifft alle sechs Reisenden mit dem von ihm arrangierten Nutzwagen. Rain ist bei Meadowfold geblieben, wo der breite Feldweg für ihre Rückkehr bereit ist.",
+        "Außerhalb des Bahnhofs übernimmt Bash die Kontrolle über den Nutzwagen. Die sechs folgen demselben Feldweg, der Rain nach Meadowfold führte. Die Ausrüstung wird in der festgebundenen Ladeschale transportiert, nicht lose zwischen den Füßen.",
+        "Bei Meadowfold erkennt Rain ihre Stimmen, bevor er ihre kleinen Gesichter erkennen kann. Beam und Nova bleiben neben seiner ruhenden Hand stehen, während die anderen entladen. Sie sind zurückgekommen, ohne ihn zu bitten, kleiner zu werden, bevor sie es tun.",
+        "Neben dem Bauernhaus stellt Quest den geschlossenen Gerätekoffer auf den Arbeitstisch und gibt Mend die Notizen. Der Empfänger und die Linsen bleiben verpackt. Die Erklärung steht vor jedem Versuch, das zu nutzen, was die Reisenden mit nach Hause gebracht haben.",
+        "Etwas später, abseits vom Auspacken und den Fragen, bietet Rain Nova den Rand seiner Hand an. Vorerst will er den gewöhnlichen Teil ihrer Freundschaft zurück. Die Ermittlungen können warten, bis sie zusammengesessen haben."
+      ],
+      "captions": [
+        "Im Morgengrauen nach der Nachtfahrt überquert der Zug die Grenzbrücke nach Tessara. Die sechs sind immer noch zusammen und der Koffer ist immer noch unter der Gepäckablage befestigt. Vor Mosaic steht noch ein Umstieg am Knotenbahnhof an.\n\nQuest: „Heimatland. Noch eine Verbindung.“",
+        "Am Knotenpunkt Tessara prüft Bash den Koffer, bevor sie umsteigen. Die beiden Linsenfächer bleiben gepolstert und das Empfängerfach bleibt verriegelt. Quest prüft das Ticket für den Anschlusszug nach Mosaic.\n\nBash: „Derselbe Koffer. Beide Linsen sind sicher.“",
+        "Nach der Anschlussfahrt erreicht der Zug Mosaic. Still trifft alle sechs Reisenden mit dem von ihm arrangierten Nutzwagen. Rain ist bei Meadowfold geblieben, wo der breite Feldweg für ihre Rückkehr bereit ist.\n\nStill: „Die Wiesenstraße ist frei. Der Wagen wartet draußen.“",
+        "Außerhalb des Bahnhofs übernimmt Bash die Kontrolle über den Nutzwagen. Die sechs folgen demselben Feldweg, der Rain nach Meadowfold führte. Die Ausrüstung wird in der festgebundenen Ladeschale transportiert, nicht lose zwischen den Füßen.\n\nNova: „Da ist die Wiese. Schau!“",
+        "Bei Meadowfold erkennt Rain ihre Stimmen, bevor er ihre kleinen Gesichter erkennen kann. Beam und Nova bleiben neben seiner ruhenden Hand stehen, während die anderen entladen. Sie sind zurückgekommen, ohne ihn zu bitten, kleiner zu werden, bevor sie es tun.\n\nRain: „Ihr seid wirklich gekommen.“\nBeam: „Natürlich sind wir gekommen.“",
+        "Neben dem Bauernhaus stellt Quest den geschlossenen Gerätekoffer auf den Arbeitstisch und gibt Mend die Notizen. Der Empfänger und die Linsen bleiben verpackt. Die Erklärung steht vor jedem Versuch, das zu nutzen, was die Reisenden mit nach Hause gebracht haben.\n\nQuest: „Wir erklären es, bevor wir etwas verwenden.“",
+        "Etwas später, abseits vom Auspacken und den Fragen, bietet Rain Nova den Rand seiner Hand an. Vorerst will er den gewöhnlichen Teil ihrer Freundschaft zurück. Die Ermittlungen können warten, bis sie zusammengesessen haben.\n\nRain: „Bleib erst eine Weile, bevor die Fragen kommen.“"
+      ],
+      "introduction": "Die sechs Ermittler fahren mit ihrer getesteten Ausrüstung im Nachtzug nach Hause. Zwischen ihnen und Rain liegen noch ein Grenzübergang, ein Umstieg am Knotenbahnhof und ein bekannter Wirtschaftsweg. Sie kehren mit einer Methode zurück, die sie erklären können – und als Freunde, die endlich wieder neben ihm sitzen können.",
+      "title": "Der lange Weg zurück"
+    },
+    "en": {
+      "altTexts": [
+        "By dawn after the overnight journey, the train is crossing the border bridge into Tessara. The six are still together, and the case is still secured below the rack. One junction transfer remains before Mosaic.",
+        "At the Tessara junction, Bash checks the case before they change trains. The two lens compartments remain padded and the receiver compartment stays latched. Quest checks the ticket for the connecting Mosaic service.",
+        "After the connecting ride, the train reaches Mosaic. Still meets all six travelers with the utility wagon he arranged. Rain has remained at Meadowfold, where the broad farm road is ready for their return.",
+        "Outside the station, Bash takes the utility wagon's controls. The six follow the same farm road that brought Rain to Meadowfold. The equipment rides in its tied cargo tray, not loose between their feet.",
+        "At Meadowfold, Rain recognizes their voices before he can make out their small faces. Beam and Nova stop beside his resting hand while the others unload. They have come back without asking him to be smaller before they do.",
+        "Beside the farmhouse, Quest puts the closed equipment case on the worktable and gives Mend the notes. The receiver and lenses remain packed. Explanation comes before any attempt to use what the travelers brought home.",
+        "A little later, away from the packing and questions, Rain offers Nova the edge of his hand. For now, he wants the ordinary part of their friendship back. The investigation can wait until they have sat together."
+      ],
+      "captions": [
+        "By dawn after the overnight journey, the train is crossing the border bridge into Tessara. The six are still together, and the case is still secured below the rack. One junction transfer remains before Mosaic.\n\nQuest: “Home country. One more connection.”",
+        "At the Tessara junction, Bash checks the case before they change trains. The two lens compartments remain padded and the receiver compartment stays latched. Quest checks the ticket for the connecting Mosaic service.\n\nBash: “Same case. Both lenses secure.”",
+        "After the connecting ride, the train reaches Mosaic. Still meets all six travelers with the utility wagon he arranged. Rain has remained at Meadowfold, where the broad farm road is ready for their return.\n\nStill: “The meadow road is clear. The wagon's waiting outside.”",
+        "Outside the station, Bash takes the utility wagon's controls. The six follow the same farm road that brought Rain to Meadowfold. The equipment rides in its tied cargo tray, not loose between their feet.\n\nNova: “There's the meadow. Look!”",
+        "At Meadowfold, Rain recognizes their voices before he can make out their small faces. Beam and Nova stop beside his resting hand while the others unload. They have come back without asking him to be smaller before they do.\n\nRain: “You really came.”\nBeam: “Of course we did.”",
+        "Beside the farmhouse, Quest puts the closed equipment case on the worktable and gives Mend the notes. The receiver and lenses remain packed. Explanation comes before any attempt to use what the travelers brought home.\n\nQuest: “We'll explain before we use anything.”",
+        "A little later, away from the packing and questions, Rain offers Nova the edge of his hand. For now, he wants the ordinary part of their friendship back. The investigation can wait until they have sat together.\n\nRain: “Stay for a while before the questions.”"
+      ],
+      "introduction": "The six investigators and their tested equipment are on the overnight train home. A border crossing, junction transfer and familiar farm road still lie between them and Rain. Their return brings a method to explain—and friends who can finally sit beside him again.",
+      "title": "The Long Way Back"
+    },
+    "es": {
+      "altTexts": [
+        "Al amanecer, después del viaje nocturno, el tren cruza el puente fronterizo hacia Tessara. Los seis todavía están juntos y el estuche todavía está asegurado debajo del estante. Queda un transbordo antes de Mosaic.",
+        "En la estación de enlace de Tessara, Bash revisa el maletín antes de cambiar de tren. Los dos compartimentos para lentes permanecen acolchados y el compartimento del receptor permanece cerrado. Quest verifica el billete del tren de conexión a Mosaic.",
+        "Después del viaje de conexión, el tren llega a Mosaic. Still recibe a los seis viajeros con el vehículo utilitario que ha dispuesto para ellos. Rain se ha quedado en Meadowfold, donde el amplio camino agrícola está listo para su regreso.",
+        "Fuera de la estación, Bash toma los controles del vehículo utilitario. Los seis siguen el mismo camino agrícola que llevó a Rain a Meadowfold. El equipo va sujeto en la plataforma de carga, en lugar de quedar suelto entre sus pies.",
+        "En Meadowfold, Rain reconoce sus voces antes de poder distinguir sus pequeños rostros. Beam y Nova se detienen junto a su mano en reposo mientras los demás descargan. Han vuelto sin pedirle que fuera más pequeño antes de su regreso.",
+        "Al lado de la granja, Quest coloca la caja cerrada del equipo sobre la mesa de trabajo y le da las notas a Mend. El receptor y las lentes permanecen embalados. La explicación precede a cualquier intento de utilizar lo que los viajeros trajeron a casa.",
+        "Un poco más tarde, apartados del desembalaje y las preguntas, Rain ofrece a Nova el borde de su mano. Por ahora, quiere recuperar la parte ordinaria de su amistad. La investigación puede esperar hasta que se hayan sentado juntos."
+      ],
+      "captions": [
+        "Al amanecer, después del viaje nocturno, el tren cruza el puente fronterizo hacia Tessara. Los seis todavía están juntos y el estuche todavía está asegurado debajo del estante. Queda un transbordo antes de Mosaic.\n\nQuest: \"De vuelta en nuestro país. Una conexión más\".",
+        "En la estación de enlace de Tessara, Bash revisa el maletín antes de cambiar de tren. Los dos compartimentos para lentes permanecen acolchados y el compartimento del receptor permanece cerrado. Quest verifica el billete del tren de conexión a Mosaic.\n\nBash: \"Mismo maletín. Ambas lentes aseguradas\".",
+        "Después del viaje de conexión, el tren llega a Mosaic. Still recibe a los seis viajeros con el vehículo utilitario que ha dispuesto para ellos. Rain se ha quedado en Meadowfold, donde el amplio camino agrícola está listo para su regreso.\n\nStill: \"El camino del prado está despejado. El carro espera afuera\".",
+        "Fuera de la estación, Bash toma los controles del vehículo utilitario. Los seis siguen el mismo camino agrícola que llevó a Rain a Meadowfold. El equipo va sujeto en la plataforma de carga, en lugar de quedar suelto entre sus pies.\n\nNova: \"Ahí está el prado. ¡Mira!\"",
+        "En Meadowfold, Rain reconoce sus voces antes de poder distinguir sus pequeños rostros. Beam y Nova se detienen junto a su mano en reposo mientras los demás descargan. Han vuelto sin pedirle que fuera más pequeño antes de su regreso.\n\nRain: \"De verdad han vuelto\".\nBeam: \"Por supuesto que sí\".",
+        "Al lado de la granja, Quest coloca la caja cerrada del equipo sobre la mesa de trabajo y le da las notas a Mend. El receptor y las lentes permanecen embalados. La explicación precede a cualquier intento de utilizar lo que los viajeros trajeron a casa.\n\nQuest: \"Te lo explicaremos antes de usar cualquier cosa\".",
+        "Un poco más tarde, apartados del desembalaje y las preguntas, Rain ofrece a Nova el borde de su mano. Por ahora, quiere recuperar la parte ordinaria de su amistad. La investigación puede esperar hasta que se hayan sentado juntos.\n\nRain: “Quédate un rato antes de las preguntas”."
+      ],
+      "introduction": "Los seis investigadores y su equipo probado están en el tren nocturno a casa. Entre ellos y Rain todavía hay un paso fronterizo, un cruce y un conocido camino agrícola. Su regreso trae un método que explicar y amigos que finalmente pueden volver a sentarse a su lado.",
+      "title": "El largo camino de regreso"
+    },
+    "fr": {
+      "altTexts": [
+        "À l'aube, après le voyage de nuit, le train traverse le pont frontalier vers Tessara. Les six sont toujours ensemble et la mallette est toujours attachée sous le porte-bagages. Il reste une correspondance au nœud ferroviaire avant Mosaic.",
+        "À la gare de correspondance de Tessara, Bash vérifie la mallette avant de changer de train. Les deux compartiments à lentilles restent rembourrés et le compartiment récepteur reste verrouillé. Quest vérifie le ticket pour le train de correspondance pour Mosaic.",
+        "Après la correspondance, le train atteint Mosaic. Still rencontre les six voyageurs avec le véhicule utilitaire qu'il a fait préparer. Rain est resté à Meadowfold, où la large route agricole est prête pour leur retour.",
+        "À l'extérieur de la gare, Bash prend les commandes du véhicule utilitaire. Les six suivent la même route agricole qui a amené Rain à Meadowfold. L'équipement est solidement attaché dans le compartiment de chargement, plutôt que posé entre leurs pieds.",
+        "À Meadowfold, Rain reconnaît leurs voix avant de pouvoir distinguer leurs petits visages. Beam et Nova s'arrêtent à côté de sa main au repos pendant que les autres déchargent. Ils sont revenus sans lui demander de rapetisser avant leur retour.",
+        "À côté de la ferme, Quest pose la mallette d'équipement fermée sur la table de travail et donne les notes à Mend. Le récepteur et les lentilles restent rangés. L’explication précède toute tentative d’utilisation de ce que les voyageurs ont rapporté.",
+        "Un peu plus tard, à l'écart des bagages et des questions, Rain offre à Nova le bord de sa main. Pour l’instant, il souhaite récupérer la partie ordinaire de leur amitié. L'enquête peut attendre qu'ils se soient assis ensemble."
+      ],
+      "captions": [
+        "À l'aube, après le voyage de nuit, le train traverse le pont frontalier vers Tessara. Les six sont toujours ensemble et la mallette est toujours attachée sous le porte-bagages. Il reste une correspondance au nœud ferroviaire avant Mosaic.\n\nQuest : « Nous sommes de retour à Tessara. Encore une correspondance. »",
+        "À la gare de correspondance de Tessara, Bash vérifie la mallette avant de changer de train. Les deux compartiments à lentilles restent rembourrés et le compartiment récepteur reste verrouillé. Quest vérifie le ticket pour le train de correspondance pour Mosaic.\n\nBash : « Même mallette. Les deux lentilles sont bien protégées. »",
+        "Après la correspondance, le train atteint Mosaic. Still rencontre les six voyageurs avec le véhicule utilitaire qu'il a fait préparer. Rain est resté à Meadowfold, où la large route agricole est prête pour leur retour.\n\nStill : « La route de la prairie est dégagée. Le chariot attend dehors. »",
+        "À l'extérieur de la gare, Bash prend les commandes du véhicule utilitaire. Les six suivent la même route agricole qui a amené Rain à Meadowfold. L'équipement est solidement attaché dans le compartiment de chargement, plutôt que posé entre leurs pieds.\n\nNova : « Voilà le pré. Regardez ! »",
+        "À Meadowfold, Rain reconnaît leurs voix avant de pouvoir distinguer leurs petits visages. Beam et Nova s'arrêtent à côté de sa main au repos pendant que les autres déchargent. Ils sont revenus sans lui demander de rapetisser avant leur retour.\n\nRain : « Vous êtes vraiment revenus. »\nBeam : « Bien sûr. »",
+        "À côté de la ferme, Quest pose la mallette d'équipement fermée sur la table de travail et donne les notes à Mend. Le récepteur et les lentilles restent rangés. L’explication précède toute tentative d’utilisation de ce que les voyageurs ont rapporté.\n\nQuest : « Nous vous expliquerons avant d'utiliser quoi que ce soit. »",
+        "Un peu plus tard, à l'écart des bagages et des questions, Rain offre à Nova le bord de sa main. Pour l’instant, il souhaite récupérer la partie ordinaire de leur amitié. L'enquête peut attendre qu'ils se soient assis ensemble.\n\nRain : « Reste un moment avant les questions. »"
+      ],
+      "introduction": "Les six enquêteurs et leur équipement testé sont dans le train de nuit pour rentrer chez eux. Un poste frontière, une correspondance ferroviaire et une route agricole familière se trouvent toujours entre eux et Rain. Leur retour apporte une méthode à expliquer et des amis qui peuvent enfin s’asseoir à nouveau à ses côtés.",
+      "title": "Le long chemin du retour"
+    },
+    "hi": {
+      "altTexts": [
+        "रात भर चलने के बाद भोर में ट्रेन सीमा का पुल पार करके Tessara में प्रवेश करती है। छहों साथ हैं, बक्सा रैक के नीचे बँधा है। Mosaic पहुँचने से पहले जंक्शन पर एक बार ट्रेन बदलनी है।",
+        "Tessara जंक्शन पर ट्रेन बदलने से पहले Bash बक्सा जाँचता है। दोनों लेंस गद्देदार खानों में सुरक्षित हैं, रिसीवर का खाना बंद है। Quest Mosaic की अगली ट्रेन का टिकट देखता है।",
+        "अगली ट्रेन Mosaic पहुँचती है। Still छहों को लेने के लिए लाई गाड़ी के साथ मिलता है। Rain Meadowfold में ही रहा है। खेत की चौड़ी सड़क अब दोस्तों को वापस उसके पास ले जाएगी।",
+        "स्टेशन के बाहर Bash गाड़ी चलाता है। छहों उसी खेत की सड़क पर जाते हैं जिस पर Rain पैदल Meadowfold गया था। उपकरण सामान वाली जगह में बँधे हैं, पैरों के बीच खुले नहीं पड़े।",
+        "Meadowfold में Rain छोटे चेहरे साफ़ देखने से पहले दोस्तों की आवाज़ पहचानता है। बाकी सामान उतारते हैं और Beam व Nova उसके हाथ के पास रुकते हैं। लौटने से पहले उन्होंने उसके छोटे होने की शर्त नहीं रखी।",
+        "फार्महाउस के पास Quest बंद बक्सा काम की मेज़ पर रखकर Mend को नोट्स देता है। लेंस और रिसीवर अभी अंदर हैं। घर लाए उपकरण इस्तेमाल करने से पहले समझाए जाएँगे।",
+        "कुछ देर बाद, सामान उतारने और सवालों से दूर, Rain अपने हाथ के पास Nova को बैठने की जगह देता है। अभी उसे दोस्ती का साधारण साथ चाहिए। खोज कुछ देर रुक सकती है।"
+      ],
+      "captions": [
+        "रात भर चलने के बाद भोर में ट्रेन सीमा का पुल पार करके Tessara में प्रवेश करती है। छहों साथ हैं, बक्सा रैक के नीचे बँधा है। Mosaic पहुँचने से पहले जंक्शन पर एक बार ट्रेन बदलनी है।\n\nQuest: \"अपने देश लौट आए। बस एक बार और ट्रेन बदलनी है।\"",
+        "Tessara जंक्शन पर ट्रेन बदलने से पहले Bash बक्सा जाँचता है। दोनों लेंस गद्देदार खानों में सुरक्षित हैं, रिसीवर का खाना बंद है। Quest Mosaic की अगली ट्रेन का टिकट देखता है।\n\nBash: \"वही बक्सा। दोनों लेंस सुरक्षित हैं।\"",
+        "अगली ट्रेन Mosaic पहुँचती है। Still छहों को लेने के लिए लाई गाड़ी के साथ मिलता है। Rain Meadowfold में ही रहा है। खेत की चौड़ी सड़क अब दोस्तों को वापस उसके पास ले जाएगी।\n\nStill: \"मैदान की सड़क खुली है। गाड़ी बाहर है।\"",
+        "स्टेशन के बाहर Bash गाड़ी चलाता है। छहों उसी खेत की सड़क पर जाते हैं जिस पर Rain पैदल Meadowfold गया था। उपकरण सामान वाली जगह में बँधे हैं, पैरों के बीच खुले नहीं पड़े।\n\nNova: \"वह रहा मैदान। देखो!\"",
+        "Meadowfold में Rain छोटे चेहरे साफ़ देखने से पहले दोस्तों की आवाज़ पहचानता है। बाकी सामान उतारते हैं और Beam व Nova उसके हाथ के पास रुकते हैं। लौटने से पहले उन्होंने उसके छोटे होने की शर्त नहीं रखी।\n\nRain: \"तुम सचमुच आए।\"\nBeam: \"बेशक आए।\"",
+        "फार्महाउस के पास Quest बंद बक्सा काम की मेज़ पर रखकर Mend को नोट्स देता है। लेंस और रिसीवर अभी अंदर हैं। घर लाए उपकरण इस्तेमाल करने से पहले समझाए जाएँगे।\n\nQuest: \"कुछ इस्तेमाल करने से पहले सब बताएँगे।\"",
+        "कुछ देर बाद, सामान उतारने और सवालों से दूर, Rain अपने हाथ के पास Nova को बैठने की जगह देता है। अभी उसे दोस्ती का साधारण साथ चाहिए। खोज कुछ देर रुक सकती है।\n\nRain: \"सवालों से पहले थोड़ी देर साथ बैठो।\""
+      ],
+      "introduction": "छह दोस्त जाँचे उपकरण लेकर रात की ट्रेन से घर लौट रहे हैं। अभी सीमा पार करनी है, ट्रेन बदलनी है और खेत की परिचित सड़क पर जाना है। वे Rain को समझाने लायक जाँच का तरीका ला रहे हैं, और फिर उसके पास बैठने वाला साथ भी।",
+      "title": "वापसी का लंबा रास्ता"
+    },
+    "id": {
+      "altTexts": [
+        "Saat fajar setelah perjalanan semalam, kereta melintasi jembatan perbatasan menuju Tessara. Keenamnya masih bersama, dan kopernya masih diamankan di bawah rak. Satu pergantian kereta tersisa sebelum Mosaic.",
+        "Di stasiun penghubung Tessara, Bash memeriksa koper sebelum berganti kereta. Kedua kompartemen lensa tetap empuk dan kompartemen penerima tetap terkunci. Quest memeriksa tiket untuk layanan penghubung Mosaic.",
+        "Setelah perjalanan lanjutan, kereta mencapai Mosaic. Still menemui keenam pelancong dengan kendaraan angkut yang dia atur. Rain tetap berada di Meadowfold, di mana jalan pertanian yang luas siap menyambut kepulangan mereka.",
+        "Di luar stasiun, Bash mengambil kendali kendaraan angkut. Keenamnya mengikuti jalan pertanian yang sama yang membawa Rain ke Meadowfold. Peralatan tersebut berada di dalam baki kargo yang diikat, bukan dibiarkan lepas di antara kaki para penumpang.",
+        "Di Meadowfold, Rain mengenali suara mereka sebelum dia dapat melihat wajah-wajah kecil mereka. Beam dan Nova berhenti di samping tangannya yang beristirahat sementara yang lain menurunkan barang. Mereka kembali tanpa memintanya menjadi lebih kecil sebelum mereka pulang.",
+        "Di samping rumah pertanian, Quest meletakkan kotak peralatan tertutup di meja kerja dan memberikan catatan kepada Mend. Penerima dan lensa tetap dikemas. Penjelasan diberikan sebelum segala upaya untuk menggunakan apa yang dibawa pulang oleh para pelancong.",
+        "Beberapa saat kemudian, menjauh dari kesibukan membongkar barang dan berbagai pertanyaan, Rain menawarkan Nova ujung tangannya. Untuk saat ini, dia ingin bagian biasa dari persahabatan mereka kembali. Penyelidikan bisa menunggu sampai mereka duduk bersama."
+      ],
+      "captions": [
+        "Saat fajar setelah perjalanan semalam, kereta melintasi jembatan perbatasan menuju Tessara. Keenamnya masih bersama, dan kopernya masih diamankan di bawah rak. Satu pergantian kereta tersisa sebelum Mosaic.\n\nQuest: \"Sudah kembali ke negeri kita. Tinggal satu kali berganti kereta.\"",
+        "Di stasiun penghubung Tessara, Bash memeriksa koper sebelum berganti kereta. Kedua kompartemen lensa tetap empuk dan kompartemen penerima tetap terkunci. Quest memeriksa tiket untuk layanan penghubung Mosaic.\n\nBash: \"Koper yang sama. Kedua lensa aman.\"",
+        "Setelah perjalanan lanjutan, kereta mencapai Mosaic. Still menemui keenam pelancong dengan kendaraan angkut yang dia atur. Rain tetap berada di Meadowfold, di mana jalan pertanian yang luas siap menyambut kepulangan mereka.\n\nStill: \"Jalan di padang rumput bersih. Gerobak menunggu di luar.\"",
+        "Di luar stasiun, Bash mengambil kendali kendaraan angkut. Keenamnya mengikuti jalan pertanian yang sama yang membawa Rain ke Meadowfold. Peralatan tersebut berada di dalam baki kargo yang diikat, bukan dibiarkan lepas di antara kaki para penumpang.\n\nNova: “Itu padang rumputnya. Lihat!”",
+        "Di Meadowfold, Rain mengenali suara mereka sebelum dia dapat melihat wajah-wajah kecil mereka. Beam dan Nova berhenti di samping tangannya yang beristirahat sementara yang lain menurunkan barang. Mereka kembali tanpa memintanya menjadi lebih kecil sebelum mereka pulang.\n\nRain: “Kalian benar-benar kembali.”\nBeam: “Tentu saja.”",
+        "Di samping rumah pertanian, Quest meletakkan kotak peralatan tertutup di meja kerja dan memberikan catatan kepada Mend. Penerima dan lensa tetap dikemas. Penjelasan diberikan sebelum segala upaya untuk menggunakan apa yang dibawa pulang oleh para pelancong.\n\nQuest: “Kami akan menjelaskannya sebelum kami menggunakan apa pun.”",
+        "Beberapa saat kemudian, menjauh dari kesibukan membongkar barang dan berbagai pertanyaan, Rain menawarkan Nova ujung tangannya. Untuk saat ini, dia ingin bagian biasa dari persahabatan mereka kembali. Penyelidikan bisa menunggu sampai mereka duduk bersama.\n\nRain: “Tinggallah sebentar sebelum bertanya.”"
+      ],
+      "introduction": "Keenam penyelidik dan peralatan yang sudah mereka uji berada di kereta semalam untuk pulang. Penyeberangan perbatasan, pergantian kereta di stasiun penghubung, dan jalan pertanian yang familiar masih terletak di antara mereka dan Rain. Kembalinya mereka membawa sebuah metode untuk menjelaskan—dan teman-teman yang akhirnya bisa duduk di sampingnya lagi.",
+      "title": "Perjalanan Panjang Kembali"
+    },
+    "it": {
+      "altTexts": [
+        "All'alba, dopo il viaggio notturno, il treno attraversa il ponte di confine per entrare in Tessara. I sei sono ancora insieme e la valigia è ancora fissata sotto lo scaffale. Rimane un cambio al nodo ferroviario prima di Mosaic.",
+        "Al nodo ferroviario di Tessara, Bash controlla la valigetta prima di cambiare treno. I due scomparti per le lenti rimangono imbottiti e il vano del ricevitore rimane chiuso. Quest controlla il biglietto per il treno in coincidenza verso Mosaic.",
+        "Dopo la corsa in coincidenza, il treno raggiunge Mosaic. Still incontra tutti e sei i viaggiatori con il carro utilitario da lui organizzato. Rain è rimasto a Meadowfold, dove l'ampia strada agricola è pronta per il loro ritorno.",
+        "Fuori dalla stazione, Bash prende i comandi del carro utilitario. I sei seguono la stessa strada agricola che ha portato Rain a Meadowfold. L'attrezzatura è ben fissata al piano di carico, invece di restare sciolta tra i loro piedi.",
+        "A Meadowfold, Rain riconosce le loro voci prima di poter distinguere i loro piccoli volti. Beam e Nova si fermano accanto alla sua mano appoggiata mentre gli altri scaricano. Sono tornati senza chiedergli di tornare piccolo prima del loro arrivo.",
+        "Accanto alla fattoria, Quest mette la valigetta chiusa dell'attrezzatura sul tavolo da lavoro e consegna gli appunti a Mend. Il ricevitore e le lenti rimangono imballati. La spiegazione viene prima di ogni tentativo di utilizzare ciò che i viaggiatori hanno portato a casa.",
+        "Un po' più tardi, lontano dalla confusione e dalle domande, Rain offre a Nova il bordo della sua mano. Per ora, rivuole la parte ordinaria della loro amicizia. L'indagine può attendere finché non avranno passato un po' di tempo seduti insieme."
+      ],
+      "captions": [
+        "All'alba, dopo il viaggio notturno, il treno attraversa il ponte di confine per entrare in Tessara. I sei sono ancora insieme e la valigia è ancora fissata sotto lo scaffale. Rimane un cambio al nodo ferroviario prima di Mosaic.\n\nQuest: \"Siamo di nuovo nel nostro paese. Un altro collegamento.\"",
+        "Al nodo ferroviario di Tessara, Bash controlla la valigetta prima di cambiare treno. I due scomparti per le lenti rimangono imbottiti e il vano del ricevitore rimane chiuso. Quest controlla il biglietto per il treno in coincidenza verso Mosaic.\n\nBash: \"Stessa valigetta. Entrambe le lenti sono ben fissate.\"",
+        "Dopo la corsa in coincidenza, il treno raggiunge Mosaic. Still incontra tutti e sei i viaggiatori con il carro utilitario da lui organizzato. Rain è rimasto a Meadowfold, dove l'ampia strada agricola è pronta per il loro ritorno.\n\nStill: \"La strada del prato è libera. Il carro aspetta fuori.\"",
+        "Fuori dalla stazione, Bash prende i comandi del carro utilitario. I sei seguono la stessa strada agricola che ha portato Rain a Meadowfold. L'attrezzatura è ben fissata al piano di carico, invece di restare sciolta tra i loro piedi.\n\nNova: \"Ecco il prato. Guarda!\"",
+        "A Meadowfold, Rain riconosce le loro voci prima di poter distinguere i loro piccoli volti. Beam e Nova si fermano accanto alla sua mano appoggiata mentre gli altri scaricano. Sono tornati senza chiedergli di tornare piccolo prima del loro arrivo.\n\nRain: \"Siete tornati davvero.\"\nBeam: \"Certo che l'abbiamo fatto.\"",
+        "Accanto alla fattoria, Quest mette la valigetta chiusa dell'attrezzatura sul tavolo da lavoro e consegna gli appunti a Mend. Il ricevitore e le lenti rimangono imballati. La spiegazione viene prima di ogni tentativo di utilizzare ciò che i viaggiatori hanno portato a casa.\n\nQuest: \"Spiegheremo prima di usare qualsiasi cosa.\"",
+        "Un po' più tardi, lontano dalla confusione e dalle domande, Rain offre a Nova il bordo della sua mano. Per ora, rivuole la parte ordinaria della loro amicizia. L'indagine può attendere finché non avranno passato un po' di tempo seduti insieme.\n\nRain: \"Resta un po' prima delle domande.\""
+      ],
+      "introduction": "I sei investigatori e le loro attrezzature testate sono sul treno notturno verso casa. Tra loro e Rain si trovano ancora un passaggio di frontiera, un cambio di treno e una strada agricola familiare. Il loro ritorno porta con sé un metodo da spiegare e amici che possono finalmente sedersi di nuovo accanto a lui.",
+      "title": "La lunga strada del ritorno"
+    },
+    "ja": {
+      "altTexts": [
+        "一晩の旅を終えた夜明けまでに、列車は国境の橋を渡って Tessara に入ります。 6人はまだ一緒にいて、ケースはまだラックの下に固定されています。 Mosaic の前に接続駅での乗り換えが 1 つ残っています。",
+        "Tessara ジャンクションでは、Bash が乗り換え前にケースを確認します。 二枚のレンズはそれぞれクッション付きの区画に収まり、受け入れ容器の区画も留め金で閉じたままです。 QuestはMosaic行きの乗り継ぎ列車の切符を確かめます。",
+        "乗り継ぎ後、電車はMosaicに到着します。 Still は、手配した運搬用の荷車で 旅に出た六人全員を出迎えます。 Rain は Meadowfold に留まり、広い農道が、戻ってくる仲間を迎えます。",
+        "駅の外では、Bash が運搬用の荷車を運転します。 6人はRainをMeadowfoldに連れて行ったのと同じ農道をたどります。機器は荷台にしっかり固定されています。みんなの足元で転がる心配はありません。",
+        "Meadowfold では、Rain は彼らの小さな顔を認識する前に彼らの声を認識します。 Beam と Nova は、他の人が荷物を降ろしている間、彼の休んでいる手の横で止まります。彼らは、体が小さくなることを条件にせず、帰ってきました。",
+        "農家の横で、Quest は閉じた機器ケースを作業台に置き、Mend にメモを渡します。受け入れ容器とレンズは梱包されたままです。旅行者が持ち帰ったものを使用する前に説明が行われます。",
+        "少し後、梱包や質問から離れて、Rain が Nova に手を差し伸べます。今のところ、彼は彼らの友情の普通の部分を取り戻したいと考えています。捜査は彼らが一緒に座るまで待つことができる。"
+      ],
+      "captions": [
+        "一晩の旅を終えた夜明けまでに、列車は国境の橋を渡って Tessara に入ります。 6人はまだ一緒にいて、ケースはまだラックの下に固定されています。 Mosaic の前に接続駅での乗り換えが 1 つ残っています。\n\nQuest: 「故郷の国です。あと一回乗り換えれば着きます。」",
+        "Tessara ジャンクションでは、Bash が乗り換え前にケースを確認します。 二枚のレンズはそれぞれクッション付きの区画に収まり、受け入れ容器の区画も留め金で閉じたままです。 QuestはMosaic行きの乗り継ぎ列車の切符を確かめます。\n\nBash: 「同じケースです。どちらのレンズもしっかりしています。」",
+        "乗り継ぎ後、電車はMosaicに到着します。 Still は、手配した運搬用の荷車で 旅に出た六人全員を出迎えます。 Rain は Meadowfold に留まり、広い農道が、戻ってくる仲間を迎えます。\n\nStill: 「草原の道は空いています。ワゴンは外で待っています。」",
+        "駅の外では、Bash が運搬用の荷車を運転します。 6人はRainをMeadowfoldに連れて行ったのと同じ農道をたどります。機器は荷台にしっかり固定されています。みんなの足元で転がる心配はありません。\n\nNova: 「そこに草原があります。見てください!」",
+        "Meadowfold では、Rain は彼らの小さな顔を認識する前に彼らの声を認識します。 Beam と Nova は、他の人が荷物を降ろしている間、彼の休んでいる手の横で止まります。彼らは、体が小さくなることを条件にせず、帰ってきました。\n\nRain: 「本当に来てくれましたね。」\nBeam: 「もちろんです。」",
+        "農家の横で、Quest は閉じた機器ケースを作業台に置き、Mend にメモを渡します。受け入れ容器とレンズは梱包されたままです。旅行者が持ち帰ったものを使用する前に説明が行われます。\n\nQuest: 「何かを使用する前に説明します。」",
+        "少し後、梱包や質問から離れて、Rain が Nova に手を差し伸べます。今のところ、彼は彼らの友情の普通の部分を取り戻したいと考えています。捜査は彼らが一緒に座るまで待つことができる。\n\nRain: 「質問の前に、少しそばにいてください。」"
+      ],
+      "introduction": "調査に出た六人の仲間は、テストを済ませた装置を持って夜行列車で帰る途中です。 Rainとの間には、国境越え、ジャンクション乗り換え、そしておなじみの農道がまだあります。仲間たちは、Rainに説明したい方法を持ち帰ります。そして何より、再び彼の隣に座ることができます。",
+      "title": "長い道のり"
+    },
+    "ko": {
+      "altTexts": [
+        "밤새 여행을 마치고 새벽이 되자 열차는 국경 다리를 건너 Tessara로 향합니다. 여섯 명은 여전히 함께 있고 케이스는 여전히 랙 아래에 고정되어 있습니다. Mosaic 이전에 환승역에서 한 번 갈아타는 일이 남아 있습니다.",
+        "Tessara 환승역에서 Bash는 열차를 갈아 타기 전에 케이스를 확인합니다. 두 개의 렌즈 수납칸은 패딩 처리된 상태로 유지되고 수신기 수납칸은 고정된 상태로 유지됩니다. Quest는 Mosaic행 연결 열차의 승차권을 확인합니다.",
+        "환승 후 열차는 Mosaic에 도달합니다. Still은 자신이 준비한 다용도 차량으로 6명의 여행자 모두를 만납니다. Rain은 Meadowfold에 그대로 있고, 넓은 농장 길은 돌아오는 친구들을 맞을 준비가 되어 있습니다.",
+        "역 밖에서는 Bash가 다용도 차량을 조종합니다. 6명은 Rain이 Meadowfold로 걸어왔던 동일한 농장 도로를 따릅니다. 장비는 발 사이에 헐거워지지 않고 묶인 화물 트레이에 실립니다.",
+        "Meadowfold에서 Rain은 그들의 작은 얼굴을 알아보기 전에 그들의 목소리를 인식합니다. Beam과 Nova는 다른 친구들이 짐을 내리는 동안 Rain이 편히 내려놓은 손 옆에 멈춥니다. 그들은 먼저 몸이 작아져야 한다고 요구하지 않고 돌아왔습니다.",
+        "농가 옆에 있는 Quest는 닫힌 장비 케이스를 작업대 위에 올려놓고 Mend에게 메모를 건네줍니다. 수신기와 렌즈는 포장된 상태로 유지됩니다. 여행자가 집으로 가져온 것을 사용하려고 시도하기 전에 설명이 나옵니다.",
+        "잠시 후, 짐과 질문은 잠시 내려놓고 Rain이 Nova에게 손 끝을 내밀었습니다. 지금 그는 그들의 우정의 평범한 부분을 되찾고 싶어합니다. 조사는 그들이 함께 앉을 때까지 기다릴 수 있습니다."
+      ],
+      "captions": [
+        "밤새 여행을 마치고 새벽이 되자 열차는 국경 다리를 건너 Tessara로 향합니다. 여섯 명은 여전히 함께 있고 케이스는 여전히 랙 아래에 고정되어 있습니다. Mosaic 이전에 환승역에서 한 번 갈아타는 일이 남아 있습니다.\n\nQuest: \"본국. 한 번만 더 갈아타면 됩니다.\"",
+        "Tessara 환승역에서 Bash는 열차를 갈아 타기 전에 케이스를 확인합니다. 두 개의 렌즈 수납칸은 패딩 처리된 상태로 유지되고 수신기 수납칸은 고정된 상태로 유지됩니다. Quest는 Mosaic행 연결 열차의 승차권을 확인합니다.\n\nBash: \"같은 케이스입니다. 두 렌즈 모두 안전합니다.\"",
+        "환승 후 열차는 Mosaic에 도달합니다. Still은 자신이 준비한 다용도 차량으로 6명의 여행자 모두를 만납니다. Rain은 Meadowfold에 그대로 있고, 넓은 농장 길은 돌아오는 친구들을 맞을 준비가 되어 있습니다.\n\nStill: \"초원 길이 깨끗합니다. 차량이 밖에서 기다리고 있습니다.\"",
+        "역 밖에서는 Bash가 다용도 차량을 조종합니다. 6명은 Rain이 Meadowfold로 걸어왔던 동일한 농장 도로를 따릅니다. 장비는 발 사이에 헐거워지지 않고 묶인 화물 트레이에 실립니다.\n\nNova: \"저기 초원이 있습니다. 보세요!\"",
+        "Meadowfold에서 Rain은 그들의 작은 얼굴을 알아보기 전에 그들의 목소리를 인식합니다. Beam과 Nova는 다른 친구들이 짐을 내리는 동안 Rain이 편히 내려놓은 손 옆에 멈춥니다. 그들은 먼저 몸이 작아져야 한다고 요구하지 않고 돌아왔습니다.\n\nRain: “정말 오셨어요.”\nBeam: “물론이죠.”",
+        "농가 옆에 있는 Quest는 닫힌 장비 케이스를 작업대 위에 올려놓고 Mend에게 메모를 건네줍니다. 수신기와 렌즈는 포장된 상태로 유지됩니다. 여행자가 집으로 가져온 것을 사용하려고 시도하기 전에 설명이 나옵니다.\n\nQuest: “무언가를 사용하기 전에 설명하겠습니다.”",
+        "잠시 후, 짐과 질문은 잠시 내려놓고 Rain이 Nova에게 손 끝을 내밀었습니다. 지금 그는 그들의 우정의 평범한 부분을 되찾고 싶어합니다. 조사는 그들이 함께 앉을 때까지 기다릴 수 있습니다.\n\nRain: \"질문하기 전에 잠깐만 곁에 있어 주세요.\""
+      ],
+      "introduction": "6명의 조사관과 시험을 마친 장비는 집으로 가는 야간 열차에 있습니다. 국경 통과, 환승역에서의 갈아타기, 친숙한 농장 도로가 여전히 그들과 Rain 사이에 놓여 있습니다. 친구들은 Rain에게 설명할 방법을 가지고 돌아옵니다. 무엇보다 마침내 다시 그의 곁에 앉을 수 있습니다.",
+      "title": "먼 길을 돌아"
+    },
+    "pl": {
+      "altTexts": [
+        "O świcie, po nocnej podróży, pociąg przekracza most graniczny do Tessary. Szóstka jest nadal razem, a walizka jest nadal zabezpieczona pod stojakiem. Przed Mosaic pozostaje jedna przesiadka.",
+        "Na węźle w Tessarze Bash sprawdza walizkę przed zmianą pociągu. Obie wyściełane komory na soczewki dobrze je chronią, a komora odbiornika jest zamknięta na zatrzask. Quest sprawdza bilet na pociąg do miasta Mosaic.",
+        "Po przejeździe pociąg dojeżdża do miasta Mosaic. Still wita całą szóstkę podróżnych przy przygotowanym wozie transportowym. Rain pozostał na łące Meadowfold, gdzie szeroka droga rolnicza jest gotowa na ich powrót.",
+        "Poza stacją Bash przejmuje kontrolę nad wozem transportowym. Szóstka podąża tą samą drogą rolniczą, która doprowadziła Raina na łąkę Meadowfold. Sprzęt przewozi się w zabezpieczonym pasami bagażniku, nie luźno między nogami.",
+        "Na łące Meadowfold Rain rozpoznaje ich głosy, zanim jest w stanie rozpoznać ich małe twarze. Beam i Nova zatrzymują się obok jego dłoni, podczas gdy pozostali rozładowują bagaże. Nie uzależnili powrotu od tego, czy Rain zdąży się zmniejszyć.",
+        "Obok domu Quest kładzie zamkniętą skrzynkę ze sprzętem na stole roboczym i przekazuje Mend notatki. Odbiornik i soczewki pozostają zapakowane. Wyjaśnienie następuje przed jakąkolwiek próbą wykorzystania tego, co podróżnicy przywieźli do domu.",
+        "Nieco później, z dala od rozpakowywania bagaży i pytań, Rain podaje Novie krawędź swojej dłoni. Na razie chce odzyskać zwyczajną część ich przyjaźni. Śledztwo może poczekać, aż usiądą razem."
+      ],
+      "captions": [
+        "O świcie, po nocnej podróży, pociąg przekracza most graniczny do Tessary. Szóstka jest nadal razem, a walizka jest nadal zabezpieczona pod stojakiem. Przed Mosaic pozostaje jedna przesiadka.\n\nQuest: \"Kraj ojczysty. Jeszcze jedna przesiadka.\"",
+        "Na węźle w Tessarze Bash sprawdza walizkę przed zmianą pociągu. Obie wyściełane komory na soczewki dobrze je chronią, a komora odbiornika jest zamknięta na zatrzask. Quest sprawdza bilet na pociąg do miasta Mosaic.\n\nBash: \"Ta sama walizka. Obie soczewki są bezpieczne.\"",
+        "Po przejeździe pociąg dojeżdża do miasta Mosaic. Still wita całą szóstkę podróżnych przy przygotowanym wozie transportowym. Rain pozostał na łące Meadowfold, gdzie szeroka droga rolnicza jest gotowa na ich powrót.\n\nStill: \"Droga po łące jest wolna. Wóz czeka na zewnątrz.\"",
+        "Poza stacją Bash przejmuje kontrolę nad wozem transportowym. Szóstka podąża tą samą drogą rolniczą, która doprowadziła Raina na łąkę Meadowfold. Sprzęt przewozi się w zabezpieczonym pasami bagażniku, nie luźno między nogami.\n\nNova: „Oto łąka. Spójrz!”",
+        "Na łące Meadowfold Rain rozpoznaje ich głosy, zanim jest w stanie rozpoznać ich małe twarze. Beam i Nova zatrzymują się obok jego dłoni, podczas gdy pozostali rozładowują bagaże. Nie uzależnili powrotu od tego, czy Rain zdąży się zmniejszyć.\n\nRain: „Naprawdę wróciliście”.\nBeam: „Oczywiście, że tak.”",
+        "Obok domu Quest kładzie zamkniętą skrzynkę ze sprzętem na stole roboczym i przekazuje Mend notatki. Odbiornik i soczewki pozostają zapakowane. Wyjaśnienie następuje przed jakąkolwiek próbą wykorzystania tego, co podróżnicy przywieźli do domu.\n\nQuest: „Wyjaśnimy, zanim cokolwiek wykorzystamy.”",
+        "Nieco później, z dala od rozpakowywania bagaży i pytań, Rain podaje Novie krawędź swojej dłoni. Na razie chce odzyskać zwyczajną część ich przyjaźni. Śledztwo może poczekać, aż usiądą razem.\n\nRain: „Zatrzymaj się na chwilę, zanim zadasz pytania.”"
+      ],
+      "introduction": "Sześcioro przyjaciół i ich przetestowany sprzęt są w nocnym pociągu do domu. Między nimi a Rainem nadal znajduje się przejście graniczne, przesiadka na węźle kolejowym i znana droga rolnicza. Wracają z metodą, którą trzeba mu wyjaśnić, i wreszcie znów mogą przy nim usiąść.",
+      "title": "Długa droga powrotna"
+    },
+    "pt": {
+      "altTexts": [
+        "Ao amanhecer, após a viagem noturna, o trem atravessa a ponte da fronteira para Tessara. Os seis ainda estão juntos e a maleta continua presa sob o bagageiro. Resta uma baldeação antes de Mosaic.",
+        "No entroncamento Tessara, Bash verifica a maleta antes de trocar de trem. Os dois compartimentos das lentes permanecem acolchoados e o compartimento do receptor permanece travado. Quest verifica o bilhete do trem de conexão para Mosaic.",
+        "Após a viagem de conexão, o trem chega a Mosaic. Still recebe os seis viajantes com o veículo utilitário que ele organizou. Rain permaneceu em Meadowfold, onde a larga estrada agrícola está pronta para seu retorno.",
+        "Fora da estação, Bash assume os controles do veículo utilitário. Os seis seguem a mesma estrada agrícola que levou Rain a Meadowfold. O equipamento vai preso na plataforma de carga, em vez de ficar solto entre os pés.",
+        "Em Meadowfold, Rain reconhece suas vozes antes de conseguir distinguir seus rostinhos. Beam e Nova param ao lado de sua mão em repouso enquanto os outros descarregam. Eles voltaram sem pedir que ele voltasse ao tamanho normal antes do retorno deles.",
+        "Ao lado da casa da fazenda, Quest coloca a caixa fechada do equipamento na mesa de trabalho e entrega as anotações a Mend. O receptor e as lentes permanecem embalados. A explicação vem antes de qualquer tentativa de usar o que os viajantes trouxeram para casa.",
+        "Um pouco mais tarde, longe das malas e das perguntas, Rain oferece a Nova a ponta da mão. Por enquanto, ele quer a parte normal da amizade deles de volta. A investigação pode esperar até que eles se sentem juntos."
+      ],
+      "captions": [
+        "Ao amanhecer, após a viagem noturna, o trem atravessa a ponte da fronteira para Tessara. Os seis ainda estão juntos e a maleta continua presa sob o bagageiro. Resta uma baldeação antes de Mosaic.\n\nQuest: \"De volta ao nosso país. Mais uma conexão.\"",
+        "No entroncamento Tessara, Bash verifica a maleta antes de trocar de trem. Os dois compartimentos das lentes permanecem acolchoados e o compartimento do receptor permanece travado. Quest verifica o bilhete do trem de conexão para Mosaic.\n\nBash: \"Mesma maleta. Ambas as lentes seguras.\"",
+        "Após a viagem de conexão, o trem chega a Mosaic. Still recebe os seis viajantes com o veículo utilitário que ele organizou. Rain permaneceu em Meadowfold, onde a larga estrada agrícola está pronta para seu retorno.\n\nStill: \"A estrada do prado está livre. A carroça está esperando lá fora.\"",
+        "Fora da estação, Bash assume os controles do veículo utilitário. Os seis seguem a mesma estrada agrícola que levou Rain a Meadowfold. O equipamento vai preso na plataforma de carga, em vez de ficar solto entre os pés.\n\nNova: \"Lá está a campina. Olhe!\"",
+        "Em Meadowfold, Rain reconhece suas vozes antes de conseguir distinguir seus rostinhos. Beam e Nova param ao lado de sua mão em repouso enquanto os outros descarregam. Eles voltaram sem pedir que ele voltasse ao tamanho normal antes do retorno deles.\n\nRain: “Vocês vieram mesmo.”\nBeam: “Claro que sim.”",
+        "Ao lado da casa da fazenda, Quest coloca a caixa fechada do equipamento na mesa de trabalho e entrega as anotações a Mend. O receptor e as lentes permanecem embalados. A explicação vem antes de qualquer tentativa de usar o que os viajantes trouxeram para casa.\n\nQuest: “Explicaremos antes de usar qualquer coisa.”",
+        "Um pouco mais tarde, longe das malas e das perguntas, Rain oferece a Nova a ponta da mão. Por enquanto, ele quer a parte normal da amizade deles de volta. A investigação pode esperar até que eles se sentem juntos.\n\nRain: “Fique um pouco antes das perguntas.”"
+      ],
+      "introduction": "Os seis investigadores e seus equipamentos testados estão no trem noturno para casa. Uma passagem de fronteira, uma troca de trem no entroncamento e uma estrada agrícola familiar ainda existem entre eles e Rain. O retorno deles traz um método para explicar – e amigos que finalmente poderão sentar ao lado dele novamente.",
+      "title": "O longo caminho de volta"
+    },
+    "ru": {
+      "altTexts": [
+        "На рассвете после ночной поездки поезд пересекает пограничный мост в Tessara. Шестеро все еще вместе, а кейс по-прежнему закреплен под стойкой. Перед Mosaic остается одна пересадка.",
+        "На узловой станции Tessara Bash проверяет чемодан перед пересадкой на поезд. Обе линзы защищены мягкими стенками своих отсеков, а отсек приемника закрыт на защелку. Quest проверяет билет на поезд до Mosaic.",
+        "После пересадки поезд достигает Mosaic. Still встречает всех шестерых путешественников у подготовленной им грузовой повозки. Rain остался на лугу Meadowfold, где широкая проселочная дорога готова к их возвращению.",
+        "За пределами станции Bash берет на себя управление грузовой повозкой. Все шестеро следуют по той же дороге, по которой Rain добрался до Meadowfold. Оборудование едет в привязанном грузовом лотке и не болтается между ног.",
+        "На лугу Meadowfold Rain узнает их голоса раньше, чем сможет разглядеть их маленькие лица. Beam и Nova останавливаются рядом с его рукой, пока остальные разгружаются. Они не ставили условием своего возвращения, чтобы Rain сначала уменьшился.",
+        "Рядом с фермерским домом Quest ставит закрытый ящик с оборудованием на рабочий стол и передает Mend записи. Приемник и линзы остаются упакованными. Объяснение предшествует любой попытке использовать то, что путешественники привезли домой.",
+        "Чуть позже, в стороне от распаковки вещей и вопросов, Rain протягивает Nova ладонь. На данный момент он хочет вернуть обычную часть их дружбы. Расследование может подождать, пока они сядут вместе."
+      ],
+      "captions": [
+        "На рассвете после ночной поездки поезд пересекает пограничный мост в Tessara. Шестеро все еще вместе, а кейс по-прежнему закреплен под стойкой. Перед Mosaic остается одна пересадка.\n\nQuest: \"Родная страна. Еще одна пересадка\".",
+        "На узловой станции Tessara Bash проверяет чемодан перед пересадкой на поезд. Обе линзы защищены мягкими стенками своих отсеков, а отсек приемника закрыт на защелку. Quest проверяет билет на поезд до Mosaic.\n\nBash: \"Тот же футляр. Обе линзы надежно закреплены\".",
+        "После пересадки поезд достигает Mosaic. Still встречает всех шестерых путешественников у подготовленной им грузовой повозки. Rain остался на лугу Meadowfold, где широкая проселочная дорога готова к их возвращению.\n\nStill: \"Дорога на лугу свободна. Повозка ждет снаружи\".",
+        "За пределами станции Bash берет на себя управление грузовой повозкой. Все шестеро следуют по той же дороге, по которой Rain добрался до Meadowfold. Оборудование едет в привязанном грузовом лотке и не болтается между ног.\n\nNova: «Вот луг, смотри!»",
+        "На лугу Meadowfold Rain узнает их голоса раньше, чем сможет разглядеть их маленькие лица. Beam и Nova останавливаются рядом с его рукой, пока остальные разгружаются. Они не ставили условием своего возвращения, чтобы Rain сначала уменьшился.\n\nRain: «Вы правда вернулись».\nBeam: «Конечно».",
+        "Рядом с фермерским домом Quest ставит закрытый ящик с оборудованием на рабочий стол и передает Mend записи. Приемник и линзы остаются упакованными. Объяснение предшествует любой попытке использовать то, что путешественники привезли домой.\n\nQuest: «Мы объясним, прежде чем что-либо использовать».",
+        "Чуть позже, в стороне от распаковки вещей и вопросов, Rain протягивает Nova ладонь. На данный момент он хочет вернуть обычную часть их дружбы. Расследование может подождать, пока они сядут вместе.\n\nRain: «Подожди немного, прежде чем задавать вопросы»."
+      ],
+      "introduction": "Шестеро следователей и проверенное ими оборудование отправляются ночным поездом домой. Между ними и Rain по-прежнему лежит пограничный переход, пересадка на узловой станции и знакомая проселочная дорога. Друзья возвращаются с методом, который нужно объяснить Rain, и наконец могут снова посидеть рядом с ним.",
+      "title": "Долгий путь назад"
+    },
+    "tr": {
+      "altTexts": [
+        "Gece yolculuğunun ardından şafak vakti tren, sınır köprüsünü geçerek Tessara'ya doğru ilerliyor. Altısı hâlâ bir arada ve kutu hâlâ rafın altında sabitlenmiş durumda. Mosaic'ten önce bir tren aktarması kaldı.",
+        "Tessara kavşağında Bash, tren değiştirmeden önce çantayı kontrol ediyor. İki lens bölmesi dolgulu kalır ve alıcı bölmesi mandallı kalır. Quest, Mosaic'e giden aktarma treninin biletini kontrol eder.",
+        "Bağlantı yolculuğunun ardından tren Mosaic'e ulaşıyor. Still, ayarladığı yük aracıyla altı yolcunun hepsini karşılıyor. Rain, geniş çiftlik yolunun dönüşe hazır olduğu Meadowfold çayırında kaldı.",
+        "İstasyonun dışında Bash, yük aracının kontrollerini ele alıyor. Altısı, Rain'i Meadowfold çayırına getiren aynı çiftlik yolunu takip ediyor. Ekipman yük bölümüne sıkıca bağlanmıştır; yolcuların ayakları arasında serbestçe durmaz.",
+        "Meadowfold çayırında Rain, küçük yüzlerini seçemeden onların seslerini tanıyor. Diğerleri yüklerini boşaltırken Beam ve Nova dinlenen elinin yanında duruyor. Dönüşlerinden önce küçülmesini şart koşmadan geri geldiler.",
+        "Quest, çiftlik evinin yanındaki kapalı ekipman kutusunu çalışma masasına koyar ve Mend'e notları verir. Alıcı ve lensler ambalajlı halde kalır. Açıklama, gezginlerin eve getirdikleri şeyleri kullanma girişiminden önce gelir.",
+        "Kısa bir süre sonra, toparlanma ve sorulardan uzakta, Rain, Nova'ya elini uzatıyor. Şimdilik arkadaşlıklarının sıradan kısmını geri istiyor. Araştırma, birlikte bir süre oturmalarını bekleyebilir."
+      ],
+      "captions": [
+        "Gece yolculuğunun ardından şafak vakti tren, sınır köprüsünü geçerek Tessara'ya doğru ilerliyor. Altısı hâlâ bir arada ve kutu hâlâ rafın altında sabitlenmiş durumda. Mosaic'ten önce bir tren aktarması kaldı.\n\nQuest: \"Memleket. Bir aktarma daha.\"",
+        "Tessara kavşağında Bash, tren değiştirmeden önce çantayı kontrol ediyor. İki lens bölmesi dolgulu kalır ve alıcı bölmesi mandallı kalır. Quest, Mosaic'e giden aktarma treninin biletini kontrol eder.\n\nBash: \"Aynı çanta. Her iki lens de güvende.\"",
+        "Bağlantı yolculuğunun ardından tren Mosaic'e ulaşıyor. Still, ayarladığı yük aracıyla altı yolcunun hepsini karşılıyor. Rain, geniş çiftlik yolunun dönüşe hazır olduğu Meadowfold çayırında kaldı.\n\nStill: \"Çayır yolu açık. Araba dışarıda bekliyor.\"",
+        "İstasyonun dışında Bash, yük aracının kontrollerini ele alıyor. Altısı, Rain'i Meadowfold çayırına getiren aynı çiftlik yolunu takip ediyor. Ekipman yük bölümüne sıkıca bağlanmıştır; yolcuların ayakları arasında serbestçe durmaz.\n\nNova: \"Çayır orada. Bakın!\"",
+        "Meadowfold çayırında Rain, küçük yüzlerini seçemeden onların seslerini tanıyor. Diğerleri yüklerini boşaltırken Beam ve Nova dinlenen elinin yanında duruyor. Dönüşlerinden önce küçülmesini şart koşmadan geri geldiler.\n\nRain: \"Gerçekten geldiniz.\"\nBeam: \"Elbette.\"",
+        "Quest, çiftlik evinin yanındaki kapalı ekipman kutusunu çalışma masasına koyar ve Mend'e notları verir. Alıcı ve lensler ambalajlı halde kalır. Açıklama, gezginlerin eve getirdikleri şeyleri kullanma girişiminden önce gelir.\n\nQuest: \"Herhangi bir şeyi kullanmadan önce açıklayacağız.\"",
+        "Kısa bir süre sonra, toparlanma ve sorulardan uzakta, Rain, Nova'ya elini uzatıyor. Şimdilik arkadaşlıklarının sıradan kısmını geri istiyor. Araştırma, birlikte bir süre oturmalarını bekleyebilir.\n\nRain: “Sorulardan önce bir süre yanımda kal.”"
+      ],
+      "introduction": "Altı araştırmacı ve test edilen ekipmanları gece treniyle eve dönüyor. Rain ile aralarında bir sınır kapısı, bir aktarma istasyonunda tren değişikliği ve tanıdık bir çiftlik yolu hâlâ bulunmaktadır. Geri dönüşleri, açıklama için bir yöntem ve sonunda yeniden onun yanına oturabilecek arkadaşlar getirir.",
+      "title": "Uzun Dönüş Yolu"
+    },
+    "vi": {
+      "altTexts": [
+        "Đến rạng sáng sau hành trình qua đêm, đoàn tàu băng qua cây cầu biên giới để vào Tessara. Cả sáu người vẫn ở cùng nhau và chiếc hộp vẫn được cố định bên dưới giá đỡ. Họ còn phải đổi tàu một lần nữa mới tới Mosaic.",
+        "Tại ga giao tuyến Tessara, Bash kiểm tra vali trước khi họ đổi tàu. Hai ngăn đựng thấu kính vẫn được đệm và ngăn đựng máy thu vẫn được chốt. Quest kiểm tra vé cho chuyến tàu nối tới Mosaic.",
+        "Sau lần đổi tàu, tàu đến Mosaic. Still đón cả sáu người bên chiếc xe chở hàng đã chuẩn bị. Rain vẫn ở Meadowfold, nơi con đường nông trại rộng lớn đã sẵn sàng cho sự trở lại của họ.",
+        "Bên ngoài nhà ga, Bash nắm quyền điều khiển chiếc xe chở hàng. Sáu người đi theo cùng một con đường nông trại đã đưa Rain đến Meadowfold. Thiết bị nằm trong khay chở hàng được buộc chặt, không bị lỏng giữa các chân.",
+        "Tại Meadowfold, Rain nhận ra giọng nói của họ trước khi anh có thể nhận ra khuôn mặt nhỏ của họ. Beam và Nova dừng lại bên cạnh bàn tay đang nghỉ ngơi của anh ấy trong khi những người khác dỡ hàng. Họ đã quay lại mà không yêu cầu anh phải nhỏ hơn trước khi họ làm vậy.",
+        "Bên cạnh trang trại, Quest đặt hộp đựng thiết bị đã đóng kín trên bàn làm việc và đưa cho Mend các ghi chú. Đầu thu và thấu kính vẫn được đóng gói. Lời giải thích được đưa ra trước mọi nỗ lực sử dụng những gì du khách mang về nhà.",
+        "Một lát sau, rời khỏi việc dỡ hành lý và các câu hỏi, Rain đưa cho Nova cạnh bàn tay của mình. Hiện tại, anh ấy muốn phần bình thường trong tình bạn của họ trở lại. Cuộc điều tra có thể đợi cho đến khi họ ngồi lại với nhau."
+      ],
+      "captions": [
+        "Đến rạng sáng sau hành trình qua đêm, đoàn tàu băng qua cây cầu biên giới để vào Tessara. Cả sáu người vẫn ở cùng nhau và chiếc hộp vẫn được cố định bên dưới giá đỡ. Họ còn phải đổi tàu một lần nữa mới tới Mosaic.\n\nQuest: \"Về đến quê nhà rồi. Chỉ cần đổi tàu thêm một lần nữa.\"",
+        "Tại ga giao tuyến Tessara, Bash kiểm tra vali trước khi họ đổi tàu. Hai ngăn đựng thấu kính vẫn được đệm và ngăn đựng máy thu vẫn được chốt. Quest kiểm tra vé cho chuyến tàu nối tới Mosaic.\n\nBash: \"Vẫn chiếc vali ấy. Cả hai thấu kính đều an toàn.\"",
+        "Sau lần đổi tàu, tàu đến Mosaic. Still đón cả sáu người bên chiếc xe chở hàng đã chuẩn bị. Rain vẫn ở Meadowfold, nơi con đường nông trại rộng lớn đã sẵn sàng cho sự trở lại của họ.\n\nStill: \"Con đường đồng cỏ thông thoáng. Xe đang đợi bên ngoài.\"",
+        "Bên ngoài nhà ga, Bash nắm quyền điều khiển chiếc xe chở hàng. Sáu người đi theo cùng một con đường nông trại đã đưa Rain đến Meadowfold. Thiết bị nằm trong khay chở hàng được buộc chặt, không bị lỏng giữa các chân.\n\nNova: \"Có đồng cỏ kìa. Nhìn kìa!\"",
+        "Tại Meadowfold, Rain nhận ra giọng nói của họ trước khi anh có thể nhận ra khuôn mặt nhỏ của họ. Beam và Nova dừng lại bên cạnh bàn tay đang nghỉ ngơi của anh ấy trong khi những người khác dỡ hàng. Họ đã quay lại mà không yêu cầu anh phải nhỏ hơn trước khi họ làm vậy.\n\nRain: “Các cậu đã về thật rồi.”\nBeam: “Tất nhiên rồi.”",
+        "Bên cạnh trang trại, Quest đặt hộp đựng thiết bị đã đóng kín trên bàn làm việc và đưa cho Mend các ghi chú. Đầu thu và thấu kính vẫn được đóng gói. Lời giải thích được đưa ra trước mọi nỗ lực sử dụng những gì du khách mang về nhà.\n\nQuest: “Chúng tôi sẽ giải thích trước khi sử dụng bất cứ thứ gì.”",
+        "Một lát sau, rời khỏi việc dỡ hành lý và các câu hỏi, Rain đưa cho Nova cạnh bàn tay của mình. Hiện tại, anh ấy muốn phần bình thường trong tình bạn của họ trở lại. Cuộc điều tra có thể đợi cho đến khi họ ngồi lại với nhau.\n\nRain: “Ở lại một lúc trước khi đặt câu hỏi.”"
+      ],
+      "introduction": "Sáu điều tra viên và thiết bị đã được kiểm tra của họ đang ở trên chuyến tàu đêm về nhà. Một lần qua biên giới, một lần đổi tàu ở ga giao tuyến và con đường nông trại quen thuộc vẫn nằm giữa họ và Rain. Sự trở lại của họ mang đến một phương pháp để giải thích—và những người bạn cuối cùng cũng có thể ngồi bên cạnh anh một lần nữa.",
+      "title": "Con đường dài trở lại"
+    },
+    "zh": {
+      "altTexts": [
+        "经过一夜的旅程后，黎明时分，火车正穿过边境大桥进入Tessara。六个人仍然在一起，箱子仍然固定在架子下面。 到 Mosaic 之前还要在交汇站换乘一次。",
+        "在Tessara的铁路交汇站，Bash 在换车前检查箱子。两片镜片仍稳稳放在带软垫的隔间里，接收器隔间保持锁定状态。 Quest 核对前往 Mosaic 的接续列车车票。",
+        "转乘后，列车到达Mosaic。 Still用他安排的运货车与所有六名旅行者见面。 Rain一直留在Meadowfold，那里宽阔的农道已经准备好迎接他们的归来。",
+        "在车站外，Bash 接管运货车的控制。六人沿着当初 Rain 前往 Meadowfold 的同一条农场道路行驶。设备固定在货物托盘里，没有散放在大家脚边。",
+        "在Meadowfold，Rain在看清他们的小脸之前就认出了他们的声音。 Beam 和 Nova 停在他休息的手旁边，而其他人则在卸货。他们回来之前并没有要求他变小。",
+        "农舍旁，Quest将封闭的设备箱放在工作台上，并将笔记交给Mend。接收器和镜片仍然包装完好。在尝试使用旅行者带回家的东西之前先进行解释。",
+        "过了一会儿，暂时放下行李和问题，Rain 向 Nova 伸出了手。现在，他想要恢复他们友谊中普通的部分。调查可以等到他们坐在一起之后进行。"
+      ],
+      "captions": [
+        "经过一夜的旅程后，黎明时分，火车正穿过边境大桥进入Tessara。六个人仍然在一起，箱子仍然固定在架子下面。 到 Mosaic 之前还要在交汇站换乘一次。\n\nQuest：“回国了。再换乘一次就到。”",
+        "在Tessara的铁路交汇站，Bash 在换车前检查箱子。两片镜片仍稳稳放在带软垫的隔间里，接收器隔间保持锁定状态。 Quest 核对前往 Mosaic 的接续列车车票。\n\nBash：“还是这个箱子。两片镜片都固定好了。”",
+        "转乘后，列车到达Mosaic。 Still用他安排的运货车与所有六名旅行者见面。 Rain一直留在Meadowfold，那里宽阔的农道已经准备好迎接他们的归来。\n\nStill：“草地道路畅通无阻，车就在外面等着。”",
+        "在车站外，Bash 接管运货车的控制。六人沿着当初 Rain 前往 Meadowfold 的同一条农场道路行驶。设备固定在货物托盘里，没有散放在大家脚边。\n\nNova：“那儿就是草地，看！”",
+        "在Meadowfold，Rain在看清他们的小脸之前就认出了他们的声音。 Beam 和 Nova 停在他休息的手旁边，而其他人则在卸货。他们回来之前并没有要求他变小。\n\nRain：“你们真的回来了。”\nBeam：“当然要来。”",
+        "农舍旁，Quest将封闭的设备箱放在工作台上，并将笔记交给Mend。接收器和镜片仍然包装完好。在尝试使用旅行者带回家的东西之前先进行解释。\n\nQuest：“我们在使用任何东西之前都会解释一下。”",
+        "过了一会儿，暂时放下行李和问题，Rain 向 Nova 伸出了手。现在，他想要恢复他们友谊中普通的部分。调查可以等到他们坐在一起之后进行。\n\nRain：“提问之前先呆一会儿。”"
+      ],
+      "introduction": "六名调查员和他们测试过的设备正在乘夜班火车回家。他们和Rain之间仍然有过境点、路口换乘和熟悉的农家小路。他们带回了一个需要向Rain解释的方法，也终于能再次以朋友的身份坐在他身边。",
+      "title": "漫长的归途"
+    }
+  },
+  "number": 22,
+  "panels": [
+    {
+      "altText": "By dawn after the overnight journey, the train is crossing the border bridge into Tessara. The six are still together, and the case is still secured below the rack. One junction transfer remains before Mosaic.",
+      "image": "N01E22P01.png"
+    },
+    {
+      "altText": "At the Tessara junction, Bash checks the case before they change trains. The two lens compartments remain padded and the receiver compartment stays latched. Quest checks the ticket for the connecting Mosaic service.",
+      "image": "N01E22P02.png"
+    },
+    {
+      "altText": "After the connecting ride, the train reaches Mosaic. Still meets all six travelers with the utility wagon he arranged. Rain has remained at Meadowfold, where the broad farm road is ready for their return.",
+      "image": "N01E22P03.png"
+    },
+    {
+      "altText": "Outside the station, Bash takes the utility wagon's controls. The six follow the same farm road that brought Rain to Meadowfold. The equipment rides in its tied cargo tray, not loose between their feet.",
+      "image": "N01E22P04.png"
+    },
+    {
+      "altText": "At Meadowfold, Rain recognizes their voices before he can make out their small faces. Beam and Nova stop beside his resting hand while the others unload. They have come back without asking him to be smaller before they do.",
+      "image": "N01E22P05.png"
+    },
+    {
+      "altText": "Beside the farmhouse, Quest puts the closed equipment case on the worktable and gives Mend the notes. The receiver and lenses remain packed. Explanation comes before any attempt to use what the travelers brought home.",
+      "image": "N01E22P06.png"
+    },
+    {
+      "altText": "A little later, away from the packing and questions, Rain offers Nova the edge of his hand. For now, he wants the ordinary part of their friendship back. The investigation can wait until they have sat together.",
+      "image": "N01E22P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

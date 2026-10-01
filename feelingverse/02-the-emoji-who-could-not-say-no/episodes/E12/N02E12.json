@@ -1,0 +1,442 @@
+{
+  "id": "N02E12",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يجلس الأصدقاء حول خريطة توضح مواقع البلدات الثلاث.",
+        "يشير تافي إلى مقطعين من الرحلة على الخريطة.",
+        "يمسك تافي بعلامة القوس بينما تهز ميند رأسها برفق رافضة.",
+        "يقترح هاش المساعدة وتظل علامة ميند مرتبطة بفيلا.",
+        "حصاة واحدة تتحرك بين ثلاث علامات للبلدات.",
+        "تخفض ميند رأسها ويبقى تافي وهاش بجانبها.",
+        "تمتد ستة أشرطة من ميند فوق الخريطة المفتوحة."
+      ],
+      "captions": [
+        "بعد ظهر ذلك اليوم، حددوا مواقع البلدات على خريطة كتاب هاش الذي اكتمل إصلاحه. كانت لوما بين نيري شرقاً وفيلا غرباً.",
+        "من لوما إلى كل جهة ساعتان. ومن نيري إلى فيلا أربع ساعات على الأقل. والظهر لا ينتظر.",
+        "قال تافي: «أستطيع المساعدة في الفوانيس». لكن ميند وعدت بالحضور بنفسها عند القوس. المساعدة لا تغير الوعد سرًا.",
+        "عرض هاش بلغة الإشارة أن يساعد ليلت. لكن ذلك الوعد أيضًا اشترط حضور ميند. تقاسم العمل لا يغير الاتفاق من دون إخبار ليلت.",
+        "حرك تافي حصاة واحدة بين البلدات الثلاث. قال بهدوء: «هناك ميند واحدة، لا ثلاث».",
+        "قالت ميند: «لا أستطيع الوفاء بكل هذه الوعود». ساد الهدوء، وبقي صديقاها جالسين معها.",
+        "بقيت الأشرطة الستة. الاعتراف بالمشكلة للأصدقاء لا يخبر الأشخاص الذين ينتظرون العمل."
+      ],
+      "introduction": "يفهم الأصدقاء لماذا لا تستطيع ميند الوفاء بكل وعودها وفق الاتفاقات الأصلية.",
+      "title": "ثلاثة أماكن عند الظهر"
+    },
+    "bn": {
+      "altTexts": [
+        "তিন বন্ধু তিন শহরের মানচিত্র ঘিরে বসেছে।",
+        "টাভি মানচিত্রে যাত্রার দুটি অংশ দেখাচ্ছে।",
+        "টাভি তোরণের চিহ্নটি ধরে আছে; মেন্ড আলতো করে মাথা নেড়ে না বলছে।",
+        "হাশ সাহায্য জানায়, তবু ভেলায় মেন্ডের চিহ্ন থাকে।",
+        "একটি নুড়ি তিন শহরের চিহ্নের মাঝখানে আছে।",
+        "মেন্ড মাথা নিচু করে; টাভি ও হাশ দুপাশে থাকে।",
+        "ছয় ফিতা খোলা মানচিত্রের ওপর মেন্ডের কাছ থেকে ছড়ায়।"
+      ],
+      "captions": [
+        "সেদিন বিকেলে তারা হাশের বাঁধানো বইয়ের মানচিত্রে শহরগুলোর অবস্থান দেখল। লুমা ছিল মাঝখানে, পূর্বে নেরি আর পশ্চিমে ভেলা।",
+        "লুমা থেকে দুই দিকেই দু ঘণ্টা। নেরি থেকে ভেলা অন্তত চার ঘণ্টা। দুপুর অপেক্ষা করে না।",
+        "“লণ্ঠনে সাহায্য করব,” টাভি বলল। কিন্তু মেন্ড নিজে তোরণে আসবে বলেছিল। সাহায্য করলেই সেই কথা চুপিচুপি বদলে যায় না।",
+        "হাশ ইশারা ভাষায় লিল্টকে সাহায্য করার প্রস্তাব দিল। কিন্তু সেই প্রতিশ্রুতিতেও মেন্ডেরই যাওয়ার কথা ছিল। লিল্টকে না জানিয়ে শুধু কাজ ভাগ করে নিলেই সেই কথা বদলে যেত না।",
+        "টাভি একটি নুড়ি তিন শহরের মাঝে সরাল। “মেন্ড একজন,” সে আস্তে বলল। “তিনজন নয়।”",
+        "“সব কথা রাখতে পারব না,” মেন্ড বলল। মিলনায়তন চুপ। বন্ধুরা তার পাশেই বসে রইল।",
+        "ছয় ফিতা রয়ে গেল। বন্ধুদের কাছে সমস্যা মানা মানেই যারা কাজের অপেক্ষায়, তাদের খবর দেওয়া নয়।"
+      ],
+      "introduction": "বন্ধুরা বুঝতে পারে, মেন্ড কেন আগের পরিকল্পনামতো সব প্রতিশ্রুতি রাখতে পারবে না।",
+      "title": "এক দুপুরে তিন জায়গা"
+    },
+    "cs": {
+      "altTexts": [
+        "Přátelé rozmisťují tři městské značky na mapě údolí.",
+        "Tavi sleduje dlouhou trasu mezi Neri a městečkem Vela.",
+        "Tavi drží značku oblouku a Mend jemně vrtí hlavou.",
+        "Hush nabízí přes stůl značku hudby.",
+        "Tavi drží jediný oblázek mezi třemi městskými značkami.",
+        "Mend tiše sedí s přáteli u nemožného rozvrhu.",
+        "Kolem Mend u otevřené knihy zůstává šest stuh."
+      ],
+      "captions": [
+        "To odpoledne rozmístili města na Hushově hotové mapě. Městečko Luma leželo mezi Neri na východě a městečkem Vela na západě.",
+        "Z městečka Luma do obou měst to trvalo nejméně dvě hodiny. Z Neri do městečka Vela nejméně čtyři. Poledne na Mendinu cestu nepočká.",
+        "„Mohl bych vzít lampiony,“ nabídl Tavi. Mend zavrtěla hlavou. „Slíbila jsem Borovi, že tam budu osobně.“",
+        "Hush znakovým jazykem nabídl, že pomůže Lilt. Ale i tento slib se týkal přímo Mend. Rozdělit si práci nestačilo ke změně dohody; museli o tom říct Lilt.",
+        "Tavi přesouval jediný oblázek představující Mend mezi třemi místy. „Máme jednu Mend,“ řekl, „ne tři.“",
+        "Nakonec Mend vyslovila: „Tyto sliby nemůžeme splnit všechny.“ V místnosti zůstalo ticho. Její přátelé neodešli.",
+        "Stuhy nezmizely. Přiznat problém byl začátek, ne zpráva pro ty, kteří na ni stále čekali."
+      ],
+      "introduction": "Přátelé pochopí, proč Mend nemůže splnit všechny sliby tak, jak je původně domluvila.",
+      "title": "Tři místa v poledne"
+    },
+    "de": {
+      "altTexts": [
+        "Die Freunde ordnen drei Ortsplättchen auf einer Talkarte an.",
+        "Tavi fährt die lange Strecke zwischen Neri und Vela nach.",
+        "Tavi hält ein Bogenplättchen, während Mend leicht den Kopf schüttelt.",
+        "Hush bietet über den Tisch das Musikplättchen an.",
+        "Tavi hält einen einzigen Kiesel zwischen drei Ortsplättchen.",
+        "Mend sitzt ruhig mit ihren Freunden beim unmöglichen Zeitplan.",
+        "Sechs Bänder bleiben um Mend neben dem offenen Wegebuch."
+      ],
+      "captions": [
+        "Am Nachmittag legten sie die Orte auf Hushs fertige Karte. Luma lag zwischen Neri im Osten und Vela im Westen.",
+        "Von Luma in einen der beiden Orte brauchte man mindestens zwei Stunden; von Neri nach Vela mindestens vier. Mittag wartete nicht auf Mends Reise.",
+        "„Ich könnte die Laternen übernehmen“, bot Tavi an. Mend schüttelte den Kopf. „Ich habe Boro versprochen, persönlich dort zu sein.“",
+        "Hush bot in Gebärdensprache an, Lilt zu helfen. Doch auch in diesem Versprechen war ausdrücklich Mend gemeint. Die Arbeit aufzuteilen änderte die Vereinbarung nicht; sie mussten mit Lilt darüber sprechen.",
+        "Tavi bewegte einen einzigen Kiesel für Mend zwischen drei Orten hin und her. „Wir haben eine Mend“, sagte er, „nicht drei.“",
+        "Endlich sagte Mend es: „Diese Versprechen können nicht alle gehalten werden.“ Im Raum blieb es still. Ihre Freunde gingen nicht fort.",
+        "Die Bänder verschwanden nicht. Das Problem einzugestehen war ein Anfang, aber noch keine Nachricht an die Menschen, die weiterhin auf sie warteten."
+      ],
+      "introduction": "Die Freunde erkennen, warum Mend nicht alle Versprechen so halten kann, wie sie ursprünglich vereinbart wurden.",
+      "title": "Drei Orte zur Mittagszeit"
+    },
+    "en": {
+      "altTexts": [
+        "The friends arrange three town tokens on a valley map.",
+        "Tavi traces the long route between Neri and Vela.",
+        "Tavi holds an arch token while Mend gently shakes her head.",
+        "Hush offers the music token across the table.",
+        "Tavi holds one pebble between three town tokens.",
+        "Mend sits quietly with both friends beside the impossible timetable.",
+        "Six ribbons remain around Mend beside the open route book."
+      ],
+      "captions": [
+        "That afternoon, they placed the towns on Hush's finished map. Luma stood between Neri in the east and Vela in the west.",
+        "Luma to either town took at least two hours. Neri to Vela took at least four. Noon would not wait for Mend to travel.",
+        "“I could take the lanterns,” Tavi offered. Mend shook her head. “I promised Boro that I would be there myself.”",
+        "Hush signed an offer to help Lilt. But that promise, too, named Mend. Sharing the work could not change the agreement without telling Lilt.",
+        "Tavi placed one pebble for Mend in three places, moving it each time. “We have one Mend,” Tavi said, “not three.”",
+        "At last, Mend said it: “These promises cannot all be kept.” The room stayed quiet. Her friends did not leave.",
+        "The ribbons did not disappear. Admitting the problem was a beginning, not a message to the people who were still expecting her."
+      ],
+      "introduction": "The friends see why Mend cannot keep all her promises as originally agreed.",
+      "title": "Three Places at Noon"
+    },
+    "es": {
+      "altTexts": [
+        "Los amigos ordenan tres fichas de pueblos en un mapa del valle.",
+        "Tavi recorre con un dedo la larga ruta entre Neri y Vela.",
+        "Tavi sostiene una ficha con un arco mientras Mend niega suavemente con la cabeza.",
+        "Hush ofrece la ficha de música al otro lado de la mesa.",
+        "Tavi sostiene una piedra entre tres fichas de pueblos.",
+        "Mend permanece sentada con sus amigos junto al horario imposible.",
+        "Seis cintas rodean a Mend junto al libro abierto."
+      ],
+      "captions": [
+        "Esa tarde colocaron los pueblos en el mapa terminado de Hush. Luma estaba entre Neri, al este, y Vela, al oeste.",
+        "De Luma a cualquiera de los otros pueblos se tardaban al menos dos horas; de Neri a Vela, cuatro. El mediodía no esperaría a Mend.",
+        "«Yo podría llevar los faroles», ofreció Tavi. Mend negó con la cabeza. «Prometí a Boro estar allí en persona».",
+        "Hush ofreció con señas ayudar a Lilt. Pero aquella promesa también requería la presencia de Mend. Repartirse el trabajo no bastaba para cambiar el acuerdo sin hablar con Lilt.",
+        "Tavi movió una sola piedra, que representaba a Mend, entre tres lugares. «Tenemos una Mend», dijo, «no tres».",
+        "Al fin, Mend lo dijo: «No podemos cumplir todas estas promesas». La sala quedó en silencio. Sus amigos no se marcharon.",
+        "Las cintas no desaparecieron. Admitir el problema era un comienzo, no un aviso a quienes todavía la esperaban."
+      ],
+      "introduction": "Los amigos comprenden por qué Mend no puede cumplir todas sus promesas tal como las acordó al principio.",
+      "title": "Tres lugares al mediodía"
+    },
+    "fr": {
+      "altTexts": [
+        "Les amis disposent trois jetons de villages sur une carte de la vallée.",
+        "Tavi suit du doigt le long itinéraire entre Neri et Vela.",
+        "Tavi tient un jeton représentant une arche tandis que Mend secoue doucement la tête.",
+        "Hush tend le jeton de musique de l’autre côté de la table.",
+        "Tavi tient un seul caillou entre trois jetons de villages.",
+        "Mend reste assise avec ses amis devant le programme impossible.",
+        "Six rubans entourent Mend près du guide ouvert."
+      ],
+      "captions": [
+        "Cet après-midi-là, ils placèrent les villages sur la carte achevée de Hush. Luma se trouvait entre Neri à l’est et Vela à l’ouest.",
+        "De Luma à chacun des autres villages, il fallait au moins deux heures ; de Neri à Vela, quatre. Midi n’attendrait pas Mend.",
+        "« Je pourrais prendre les lanternes », proposa Tavi. Mend secoua la tête. « J’ai promis à Boro que je serais là moi-même. »",
+        "Hush proposa en langue des signes d’aider Lilt. Mais cette promesse concernait elle aussi Mend en personne. Se partager le travail ne suffisait pas à modifier l’accord sans en parler à Lilt.",
+        "Tavi déplaça un seul caillou représentant Mend entre trois lieux. « Nous avons une Mend, dit-il, pas trois. »",
+        "Enfin, Mend le dit : « Toutes ces promesses ne peuvent pas être tenues. » La pièce resta silencieuse. Ses amis ne partirent pas.",
+        "Les rubans ne disparurent pas. Reconnaître le problème était un début, pas un message aux personnes qui l’attendaient encore."
+      ],
+      "introduction": "Les amis comprennent pourquoi Mend ne peut pas tenir toutes ses promesses telles qu’elles ont été convenues au départ.",
+      "title": "Trois lieux à midi"
+    },
+    "hi": {
+      "altTexts": [
+        "तीन दोस्त तीन कस्बों वाले नक्शे के चारों ओर बैठे हैं।",
+        "तावी नक्शे पर यात्रा के दो हिस्से दिखाता है।",
+        "तावी द्वार का निशान पकड़े है; मेंड धीरे से सिर हिलाकर मना करती है।",
+        "हश मदद सुझाता है, लेकिन वेला के पास मेंड का निशान रहता है।",
+        "एक कंकड़ तीन कस्बों के निशानों के बीच है।",
+        "मेंड सिर झुकाती है; तावी और हश उसके दोनों ओर हैं।",
+        "छह रिबन खुले नक्शे पर मेंड के पास से फैलते हैं।"
+      ],
+      "captions": [
+        "उस दोपहर उन्होंने हश की तैयार किताब के नक्शे पर कस्बों की जगह देखी। लूमा बीच में था, नेरी पूरब में और वेला पश्चिम में।",
+        "लूमा से दोनों ओर दो-दो घंटे। नेरी से वेला कम से कम चार घंटे। दोपहर उनके लिए नहीं रुकती।",
+        "“लालटेनों में मदद कर सकता हूँ,” तावी बोला। लेकिन मेंड ने खुद द्वार पर आने का वादा किया था। मदद से वह वादा चुपचाप बदल नहीं जाता।",
+        "हश ने संकेत भाषा में लिल्ट की मदद करने की पेशकश की। लेकिन उस वादे में भी मेंड को खुद वहाँ होना था। काम बाँट लेने से लिल्ट को बताए बिना उनका समझौता नहीं बदल सकता था।",
+        "तावी ने एक कंकड़ तीन कस्बों के बीच सरकाया। “मेंड एक है,” उसने धीरे कहा। “तीन नहीं।”",
+        "“मैं ये सब वादे नहीं निभा सकती,” मेंड ने कहा। सभागार शांत हो गया। दोस्त उसके पास बैठे रहे।",
+        "छह रिबन बने रहे। दोस्तों से मुश्किल मान लेने का मतलब यह नहीं था कि काम का इंतज़ार करने वालों को खबर मिल गई।"
+      ],
+      "introduction": "दोस्त समझते हैं कि मेंड अपने सभी वादे मूल योजना के अनुसार क्यों नहीं निभा सकती।",
+      "title": "दोपहर में तीन जगह"
+    },
+    "id": {
+      "altTexts": [
+        "Tiga teman mengelilingi peta dengan tiga kota yang jelas posisinya.",
+        "Tavi menunjukkan dua ruas perjalanan di peta.",
+        "Tavi memegang penanda gerbang, sementara Mend menggeleng pelan.",
+        "Hush menawarkan bantuan; penanda Mend tetap terhubung ke Vela.",
+        "Satu kerikil berpindah di antara tiga penanda kota.",
+        "Mend menunduk; Tavi dan Hush tetap berada di sisinya.",
+        "Enam pita terbentang dari Mend di atas peta yang terbuka."
+      ],
+      "captions": [
+        "Siang itu, mereka mencari letak ketiga kota di peta dalam buku Hush yang sudah selesai. Luma berada di antara Neri di timur dan Vela di barat.",
+        "Dari Luma, masing-masing perjalanan memerlukan dua jam. Dari Neri ke Vela perlu sedikitnya empat jam. Tengah hari tidak menunggu.",
+        "“Aku bisa membantu lampion,” kata Tavi. Tetapi Mend telah berjanji hadir sendiri di gerbang. Bantuan tidak diam-diam mengubah janji itu.",
+        "Hush menawarkan bantuan kepada Lilt dengan bahasa isyarat. Namun, janji itu juga menyebut Mend. Membagi pekerjaan tidak bisa mengubah kesepakatan tanpa memberi tahu Lilt.",
+        "Tavi memindahkan satu kerikil di antara tiga kota. “Hanya ada satu Mend,” katanya pelan. “Bukan tiga.”",
+        "“Aku tidak bisa menepati semuanya,” kata Mend. Gedung itu sunyi. Teman-temannya tetap duduk bersamanya.",
+        "Enam pita tetap ada. Mengakui masalah kepada teman belum memberi tahu orang-orang yang menunggu pekerjaan itu."
+      ],
+      "introduction": "Ketiga teman memahami mengapa Mend tidak bisa menepati semua janjinya sesuai kesepakatan semula.",
+      "title": "Tiga Tempat pada Tengah Hari"
+    },
+    "it": {
+      "altTexts": [
+        "Gli amici sistemano tre gettoni di paesi su una mappa della valle.",
+        "Tavi segue il lungo percorso tra Neri e Vela.",
+        "Tavi tiene un gettone con un arco e Mend scuote delicatamente la testa.",
+        "Hush offre il gettone della musica dall’altra parte del tavolo.",
+        "Tavi tiene un solo sassolino tra tre gettoni di paesi.",
+        "Mend siede in silenzio con gli amici davanti al calendario impossibile.",
+        "Sei nastri restano intorno a Mend vicino al libro aperto."
+      ],
+      "captions": [
+        "Quel pomeriggio disposero i paesi sulla mappa finita di Hush. Luma era tra Neri a est e Vela a ovest.",
+        "Da Luma a ciascun paese servivano almeno due ore; da Neri a Vela almeno quattro. Mezzogiorno non avrebbe aspettato il viaggio di Mend.",
+        "«Potrei occuparmi delle lanterne», offrì Tavi. Mend scosse la testa. «Ho promesso a Boro che sarei stata lì di persona».",
+        "Hush si offrì con i segni di aiutare Lilt. Ma anche quella promessa prevedeva la presenza di Mend. Dividersi il lavoro non poteva cambiare l’accordo senza avvisare Lilt.",
+        "Tavi spostò un solo sassolino, che rappresentava Mend, tra tre luoghi. «Abbiamo una Mend», disse, «non tre».",
+        "Alla fine Mend lo disse: «Queste promesse non possono essere mantenute tutte». La stanza rimase silenziosa. I suoi amici non se ne andarono.",
+        "I nastri non scomparvero. Ammettere il problema era un inizio, non un messaggio alle persone che la stavano ancora aspettando."
+      ],
+      "introduction": "Gli amici capiscono perché Mend non può mantenere tutte le promesse secondo gli accordi iniziali.",
+      "title": "Tre luoghi a mezzogiorno"
+    },
+    "ja": {
+      "altTexts": [
+        "三人が、三つの町の位置のわかる地図を囲んでいます。",
+        "タヴィが地図の二つの区間を指しています。",
+        "タヴィが門の印を持ち、メンドがそっと首を横に振っています。",
+        "ハッシュが手伝いを申し出ても、メンドの印はヴェラに残っています。",
+        "一つの小石が、三つの町の印の間に置かれています。",
+        "うつむくメンドの両側に、タヴィとハッシュが座っています。",
+        "開いた地図の上に、六本のリボンが伸びています。"
+      ],
+      "captions": [
+        "その日の午後、みんなはハッシュの仕上がった本の地図で、町の位置を確かめました。東のネリと西のヴェラの間に、ルマがありました。",
+        "ルマから左右の町へ、それぞれ二時間。ネリからヴェラへは少なくとも四時間。正午は待ってくれません。",
+        "「ちょうちんは手伝える」とタヴィ。でも、メンドは門に自分で来ると約束していました。手伝いだけで、約束がひそかに変わることはありません。",
+        "ハッシュはリルトを手伝うと手話で申し出ました。でも、その約束でも待たれているのはメンド本人です。仕事を分けても、リルトに知らせずに約束を変えることはできませんでした。",
+        "タヴィは一つの小石を三つの町の間で動かしました。「メンドは一人だよ」と静かに言いました。「三人じゃない」",
+        "「全部は守れない」とメンドは言いました。会館は静かでした。友達は、そのまま一緒に座っていました。",
+        "六本のリボンは残りました。友達に困っていると話しても、仕事を待つ人たちにはまだ届いていません。"
+      ],
+      "introduction": "友達は、最初に決めたとおりにはメンドがすべての約束を守れない理由に気づきます。",
+      "title": "正午に三つの場所"
+    },
+    "ko": {
+      "altTexts": [
+        "세 친구가 마을 위치가 분명한 지도를 둘러앉습니다.",
+        "타비가 지도에서 두 이동 구간을 짚습니다.",
+        "타비가 아치 표시를 들고, 멘드는 부드럽게 고개를 가로젓습니다.",
+        "허시가 도움을 제안해도 벨라에는 멘드의 표시가 남아 있습니다.",
+        "조약돌 하나가 세 마을 표시 사이에 놓입니다.",
+        "고개를 숙인 멘드 양옆에 타비와 허시가 남아 있습니다.",
+        "펼친 지도 위로 여섯 리본이 뻗어 있습니다."
+      ],
+      "captions": [
+        "그날 오후, 셋은 완성된 허시의 지도책에서 마을들의 위치를 확인했습니다. 루마는 동쪽의 네리와 서쪽의 벨라 사이에 있었습니다.",
+        "루마에서 양쪽 마을까지 각각 두 시간, 네리에서 벨라까지는 적어도 네 시간이었습니다. 정오는 기다려 주지 않습니다.",
+        "“등불은 내가 도울 수 있어.” 타비가 말했습니다. 하지만 멘드는 자신이 직접 아치에 오겠다고 했습니다. 도움만으로 그 약속이 몰래 바뀌지는 않습니다.",
+        "허시는 릴트를 돕겠다고 수어로 제안했습니다. 하지만 그 약속에서도 기다리는 사람은 멘드였습니다. 일을 나눈다고 해서 릴트에게 알리지 않고 약속을 바꿀 수는 없었습니다.",
+        "타비가 조약돌 하나를 세 마을 사이로 옮겼습니다. “멘드는 한 명이야.” 조용히 말했습니다. “세 명이 아니야.”",
+        "“모두 지킬 수는 없어.” 멘드가 말했습니다. 회관이 조용해졌습니다. 친구들은 그대로 곁에 앉아 있었습니다.",
+        "여섯 리본은 그대로였습니다. 친구에게 어려움을 털어놓아도 일을 기다리는 사람들에게 소식이 전해진 것은 아니었습니다."
+      ],
+      "introduction": "친구들은 멘드가 처음 정한 대로는 모든 약속을 지킬 수 없는 이유를 이해합니다.",
+      "title": "정오의 세 장소"
+    },
+    "pl": {
+      "altTexts": [
+        "Przyjaciele rozmieszczają trzy znaczniki miasteczek na mapie doliny.",
+        "Tavi śledzi długą trasę między Neri a Vela.",
+        "Tavi trzyma znacznik bramy, a Mend łagodnie kręci głową.",
+        "Hush podaje przez stół znacznik muzyki.",
+        "Tavi trzyma jeden kamyk między trzema znacznikami miasteczek.",
+        "Mend siedzi spokojnie z przyjaciółmi przy niemożliwym rozkładzie.",
+        "Wokół Mend przy otwartej książce pozostaje sześć wstążek."
+      ],
+      "captions": [
+        "Tego popołudnia rozłożyli miasteczka na gotowej mapie Husha. Miasteczko Luma leżało między Neri na wschodzie i Vela na zachodzie.",
+        "Z miasteczka Luma do każdego z tych miejsc było przynajmniej dwie godziny; z Neri do miasteczka Vela — cztery. Południe nie poczeka na podróż Mend.",
+        "„Mógłbym zająć się lampionami” — zaproponował Tavi. Mend pokręciła głową. „Obiecałam Borowi, że będę tam osobiście”.",
+        "Hush zaproponował w języku migowym, że pomoże Lilt. Lecz ta obietnica także wymagała obecności Mend. Podział pracy nie mógł zmienić ustaleń bez powiadomienia Lilt.",
+        "Tavi przesuwał jeden kamyk oznaczający Mend między trzema miejscami. „Mamy jedną Mend” — powiedział — „nie trzy”.",
+        "W końcu Mend powiedziała: „Nie da się dotrzymać wszystkich tych obietnic”. W sali zapadła cisza. Przyjaciele nie odeszli.",
+        "Wstążki nie zniknęły. Przyznanie się do problemu było początkiem, nie wiadomością dla ludzi, którzy wciąż na nią czekali."
+      ],
+      "introduction": "Przyjaciele dostrzegają, dlaczego Mend nie może dotrzymać wszystkich obietnic zgodnie z pierwotnymi ustaleniami.",
+      "title": "Trzy miejsca w południe"
+    },
+    "pt": {
+      "altTexts": [
+        "Os amigos organizam três fichas de vilas num mapa do vale.",
+        "Tavi acompanha o longo caminho entre Neri e Vela.",
+        "Tavi segura uma ficha com um arco enquanto Mend nega suavemente com a cabeça.",
+        "Hush oferece a ficha de música do outro lado da mesa.",
+        "Tavi segura uma única pedrinha entre três fichas de vilas.",
+        "Mend fica sentada com os amigos diante do calendário impossível.",
+        "Seis fitas continuam ao redor de Mend perto do livro aberto."
+      ],
+      "captions": [
+        "Naquela tarde, colocaram as vilas no mapa pronto de Hush. Luma ficava entre Neri, a leste, e Vela, a oeste.",
+        "De Luma a qualquer uma das outras vilas eram pelo menos duas horas; de Neri a Vela, quatro. O meio-dia não esperaria a viagem de Mend.",
+        "“Eu poderia levar as lanternas”, ofereceu Tavi. Mend balançou a cabeça. “Prometi a Boro que estaria lá pessoalmente.”",
+        "Hush se ofereceu em sinais para ajudar Lilt. Mas aquela promessa também exigia a presença de Mend. Dividir o trabalho não podia mudar o acordo sem avisar Lilt.",
+        "Tavi moveu uma única pedrinha representando Mend entre três lugares. “Temos uma Mend”, disse, “não três”.",
+        "Por fim, Mend disse: “Não é possível cumprir todas essas promessas”. A sala ficou quieta. Seus amigos não foram embora.",
+        "As fitas não desapareceram. Admitir o problema era um começo, não um aviso às pessoas que ainda esperavam por ela."
+      ],
+      "introduction": "Os amigos entendem por que Mend não pode cumprir todas as promessas como foram combinadas.",
+      "title": "Três lugares ao meio-dia"
+    },
+    "ru": {
+      "altTexts": [
+        "Друзья расставляют три жетона городков на карте долины.",
+        "Тави проводит пальцем по долгому пути между Нери и Велой.",
+        "Тави держит жетон с аркой, а Менд мягко качает головой.",
+        "Хаш протягивает через стол жетон музыки.",
+        "Тави держит один камешек между тремя жетонами городков.",
+        "Менд тихо сидит с друзьями перед невозможным расписанием.",
+        "Шесть лент остаются вокруг Менд возле открытой книги."
+      ],
+      "captions": [
+        "Днём они разложили городки на готовой карте Хаша. Лума находилась между Нери на востоке и Велой на западе.",
+        "От Лумы до каждого городка было не меньше двух часов пути, от Нери до Велы — четырёх. Полдень не стал бы ждать, пока Менд доберётся из одного места в другое.",
+        "«Я мог бы заняться фонариками», — предложил Тави. Менд покачала головой. «Я обещала Боро прийти лично».",
+        "Хаш жестами предложил помочь Лилт. Но и это обещание требовало присутствия Менд. Разделив работу, они не могли изменить договорённость, не предупредив Лилт.",
+        "Тави передвигал один камешек, обозначавший Менд, между тремя местами. «У нас одна Менд, — сказал он, — не три».",
+        "Наконец Менд произнесла: «Все эти обещания выполнить нельзя». В комнате стало тихо. Друзья не ушли.",
+        "Ленты не исчезли. Признать проблему было началом, но не сообщением людям, которые всё ещё её ждали."
+      ],
+      "introduction": "Друзья понимают, почему Менд не может выполнить все обещания на первоначальных условиях.",
+      "title": "Три места в полдень"
+    },
+    "tr": {
+      "altTexts": [
+        "Arkadaşlar vadi haritasına üç kasaba simgesi koyuyor.",
+        "Tavi, Neri ile Vela arasındaki uzun yolu izliyor.",
+        "Tavi kemer simgesini tutarken Mend hafifçe başını iki yana sallıyor.",
+        "Hush masanın karşısına müzik simgesini uzatıyor.",
+        "Tavi üç kasaba simgesinin arasında tek bir çakıl taşı tutuyor.",
+        "Mend imkânsız takvimin yanında arkadaşlarıyla sessizce oturuyor.",
+        "Açık kitabın yanında Mend’in çevresinde altı kurdele duruyor."
+      ],
+      "captions": [
+        "O öğleden sonra kasabaları Hush’ın bitmiş haritasına yerleştirdiler. Luma, doğudaki Neri ile batıdaki Vela’nın arasındaydı.",
+        "Luma’dan iki kasabanın her birine en az iki saat, Neri’den Vela’ya en az dört saat gerekiyordu. Öğlen, Mend’in yolculuğunu beklemezdi.",
+        "“Fenerleri ben üstlenebilirim,” dedi Tavi. Mend başını iki yana salladı. “Boro’ya orada bizzat olacağımı söyledim.”",
+        "Hush işaret diliyle Lilt’e yardım etmeyi önerdi. Ama o söz de Mend’in orada olmasını gerektiriyordu. İş bölümü yapmak, Lilt’e haber vermeden anlaşmayı değiştiremezdi.",
+        "Tavi, Mend’i temsil eden tek çakıl taşını üç yer arasında dolaştırdı. “Bir Mend’imiz var,” dedi, “üç değil.”",
+        "Sonunda Mend söyledi: “Bu sözlerin hepsi tutulamaz.” Oda sessiz kaldı. Arkadaşları gitmedi.",
+        "Kurdeleler kaybolmadı. Sorunu kabul etmek bir başlangıçtı; onu hâlâ bekleyenlere gönderilmiş bir haber değildi."
+      ],
+      "introduction": "Arkadaşlar, Mend’in bütün sözlerini ilk anlaştıkları biçimde neden tutamayacağını anlar.",
+      "title": "Öğlen Üç Ayrı Yer"
+    },
+    "vi": {
+      "altTexts": [
+        "Ba người ngồi quanh bản đồ có vị trí ba thị trấn rõ ràng.",
+        "Tavi chỉ hai chặng đường trên bản đồ.",
+        "Tavi cầm dấu hình cổng, còn Mend khẽ lắc đầu.",
+        "Hush đề nghị hỗ trợ, dấu Mend vẫn gắn với Vela.",
+        "Một viên sỏi nằm giữa ba dấu thị trấn.",
+        "Mend cúi xuống, Tavi và Hush vẫn ngồi hai bên.",
+        "Sáu dải băng vươn từ Mend qua tấm bản đồ."
+      ],
+      "captions": [
+        "Chiều hôm đó, cả ba tìm vị trí các thị trấn trên bản đồ trong cuốn sách đã sửa xong của Hush. Luma nằm giữa Neri ở phía đông và Vela ở phía tây.",
+        "Từ Luma đến mỗi bên mất hai giờ. Neri sang Vela cần ít nhất bốn giờ. Buổi trưa không chờ ai.",
+        "“Mình giúp đèn được,” Tavi nói. Nhưng Mend đã hứa tự đến dựng cổng. Có người giúp không âm thầm thay đổi lời hứa ấy.",
+        "Hush dùng ngôn ngữ ký hiệu đề nghị giúp Lilt. Nhưng lời hứa ấy cũng yêu cầu chính Mend có mặt. Chia nhau công việc không thể thay đổi thỏa thuận mà chưa báo cho Lilt.",
+        "Tavi di chuyển một viên sỏi giữa ba thị trấn. “Chỉ có một Mend thôi,” cậu nói khẽ. “Không phải ba.”",
+        "“Mình không thể giữ hết những lời hứa này,” Mend nói. Hội trường yên lặng. Các bạn vẫn ngồi bên cô.",
+        "Sáu dải băng vẫn còn. Thừa nhận với bạn bè chưa có nghĩa là những người đợi công việc đã được báo tin."
+      ],
+      "introduction": "Các bạn hiểu vì sao Mend không thể giữ tất cả lời hứa theo đúng thỏa thuận ban đầu.",
+      "title": "Ba nơi cùng một buổi trưa"
+    },
+    "zh": {
+      "altTexts": [
+        "三个朋友围着位置清楚的三镇地图坐下。",
+        "塔维指示地图上的两段路程。",
+        "塔维拿着拱门标记，门德轻轻摇头。",
+        "哈什提出帮忙，维拉旁仍放着门德的标记。",
+        "一颗小石子在三个小镇标记间移动。",
+        "门德低下头，塔维和哈什留在她两侧。",
+        "六条丝带仍从门德身边伸向地图外。"
+      ],
+      "captions": [
+        "那天下午，他们在哈什修好的书中找到三座小镇的位置。卢马位于中间，东边是内里，西边是维拉。",
+        "从卢马到两边都要两个小时；内里到维拉至少四个小时。正午不会等着他们。",
+        "“灯笼我可以帮忙。”塔维说。可是门德答应的是亲自去立拱门，朋友帮忙不会悄悄改变这份约定。",
+        "哈什用手语提出，可以去帮莉尔特。但那个承诺也指明要门德到场。大家分担工作，不能代替先告诉莉尔特、重新商量约定。",
+        "塔维把一颗石子在三个小镇之间移动。“只有一个门德，”他轻声说，“不是三个。”",
+        "“这些承诺，我没法全部兑现。”门德说。会堂安静下来，朋友们仍然陪她坐着。",
+        "六条丝带没有消失。向朋友承认困难，还不等于已经通知那些等她工作的人。"
+      ],
+      "introduction": "朋友们明白了，门德为什么无法按最初的约定兑现所有承诺。",
+      "title": "正午的三个地方"
+    }
+  },
+  "number": 12,
+  "panels": [
+    {
+      "altText": "The friends arrange three town tokens on a valley map.",
+      "image": "N02E12P01.png"
+    },
+    {
+      "altText": "Tavi traces the long route between Neri and Vela.",
+      "image": "N02E12P02.png"
+    },
+    {
+      "altText": "Tavi holds an arch token while Mend gently shakes her head.",
+      "image": "N02E12P03.png"
+    },
+    {
+      "altText": "Hush offers the music token across the table.",
+      "image": "N02E12P04.png"
+    },
+    {
+      "altText": "Tavi holds one pebble between three town tokens.",
+      "image": "N02E12P05.png"
+    },
+    {
+      "altText": "Mend sits quietly with both friends beside the impossible timetable.",
+      "image": "N02E12P06.png"
+    },
+    {
+      "altText": "Six ribbons remain around Mend beside the open route book.",
+      "image": "N02E12P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

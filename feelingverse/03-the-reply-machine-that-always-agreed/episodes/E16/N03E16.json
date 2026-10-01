@@ -1,0 +1,439 @@
+{
+  "id": "N03E16",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يعلق إعلانان في إطارين منفصلين تحت سقف البستان.",
+        "يتوقف تافي أمام إعلان بينما يحمل إيفو بديله.",
+        "يضع تافي وإيفو تصحيحين في الإطارين.",
+        "يعرض إيفو على تافي ورقة من رف البريد تثبت إعادة إرسال الإعلان.",
+        "يضيف تافي بطاقة فارغة إلى أربعة تصحيحات متبقية.",
+        "يكتب تافي بينما يضع إيفو ملاحظة في دفتر المسار.",
+        "يسير تافي وإيفو نزولا نحو محطة البحيرة."
+      ],
+      "captions": [
+        "في قاعة البستان، علق الإعلانان تحت سقف عريض. أحدهما لزوار الصباح والآخر لمجموعة المساء.",
+        "مد تافي يده لنزعهما. أوقفه إيفو: «لدينا إذن بالاستبدال. لنترك التصحيح، لا فراغا».",
+        "وضعا تصحيحا في كل مكان. ذكرت البطاقتان خطأ تافي من دون كشف كلمات لوما الخاصة.",
+        "وجدا على رف البريد ورقة تثبت إعادة إرسال الإعلان. كان زائر قد نسخه وأرسله إلى جزيرة المنارة.",
+        "أصبح عدد النسخ المعروفة عشرا، لا تسعا. استعادة الورق أسهل من استعادة اليقين الذي نشره تافي.",
+        "كتب تصحيحا إضافيا للجزيرة. وسجل إيفو النسخة الزائدة حتى لا ينساها أحد.",
+        "غادرا البستان نحو محطة البحيرة. وخلفهما، واجه تصحيحان واضحان القاعة المفتوحة."
+      ],
+      "introduction": "يفيد التصحيح الأول البعيد، لكن اتهاما نسخه آخرون لا يمكن جمعه بمجرد جمع الورق.",
+      "title": "تحت سقف البستان"
+    },
+    "bn": {
+      "altTexts": [
+        "ফলবাগানের ছাদের নিচে দুটি আলাদা ফ্রেমে ঘোষণা রয়েছে।",
+        "টাভি ঘোষণার সামনে থেমেছে, ইভো বদলি কাগজ ধরে আছে।",
+        "টাভি ও ইভো দুই ফ্রেমে সংশোধন রাখছে।",
+        "ইভো ডাকের তাকের একটি পাঠানোর রসিদ টাভিকে দেখাচ্ছে।",
+        "টাভি বাকি চারটি সংশোধনের সঙ্গে একটি খালি কার্ড যোগ করছে।",
+        "টাভি লিখছে, ইভো পথের নোটবুকে চিহ্ন দিচ্ছে।",
+        "টাভি ও ইভো ঢাল বেয়ে হ্রদের স্টেশনে নামছে।"
+      ],
+      "captions": [
+        "ফলবাগানের সভাঘরের চওড়া ছাদের নিচে দুটি ঘোষণা ছিল। একটি সকালের আগন্তুকদের জন্য, অন্যটি সন্ধ্যার দলের জন্য।",
+        "টাভি টেনে খুলতে গেল। ইভো থামাল। “বদলানোর অনুমতি পেয়েছি। ফাঁকা জায়গা নয়, সংশোধন রেখে যাই।”",
+        "তারা দুই জায়গায় সংশোধন রাখল। নতুন কার্ডে টাভির ভুল লেখা হলো, লুমার ব্যক্তিগত কথা প্রকাশ করা হলো না।",
+        "ডাকের তাকে একটি পাঠানোর রসিদ পেল। এক দর্শনার্থী ঘোষণা নকল করে বাতিঘর দ্বীপে পাঠিয়েছিল।",
+        "তাহলে জানা কপি নয়টি নয়, দশটি। টাভির ছড়ানো নিশ্চয়তা ফিরিয়ে নেওয়ার চেয়ে কাগজ ফিরিয়ে নেওয়া সহজ ছিল।",
+        "সে দ্বীপের জন্য আরেকটি সংশোধন লিখল। ইভো বাড়তি কপির কথা লিখে রাখল, যেন ভুলে না যায়।",
+        "তারা ফলবাগান ছেড়ে হ্রদের স্টেশনের দিকে গেল। পেছনের খোলা সভাঘরে দুটি স্পষ্ট সংশোধন রইল।"
+      ],
+      "introduction": "দূরের প্রথম সংশোধন কাজে লাগে, কিন্তু নকল হয়ে যাওয়া অভিযোগ শুধু কাগজ তুলে ফিরিয়ে নেওয়া যায় না।",
+      "title": "ফলবাগানের ছাদের নিচে"
+    },
+    "cs": {
+      "altTexts": [
+        "Pod střechou sadu visí dvě oznámení v samostatných rámech.",
+        "Tavi se zastavuje před oznámením a Ivo drží jeho náhradu.",
+        "Tavi a Ivo umísťují opravy do obou rámů.",
+        "Ivo ukazuje Tavimu doklad o přeposlání z poštovní poličky.",
+        "Tavi přidává čistou kartičku ke čtyřem zbývajícím opravám.",
+        "Tavi píše a Ivo si dělá poznámku do cestovního sešitu.",
+        "Tavi a Ivo jdou z kopce k nádraží u jezera."
+      ],
+      "captions": [
+        "V síni sadu visela obě oznámení pod širokou střechou. Jedno sloužilo ranním návštěvníkům, druhé večerní skupině.",
+        "Tavi je chtěl strhnout. Ivo ho zastavil. „Smíme je nahradit. Nechme tu opravu, ne prázdné místo.“",
+        "Na každé místo dali opravu. Nové kartičky pojmenovaly Taviho chybu, aniž odhalily Lumina soukromá slova.",
+        "Na poštovní poličce našli doklad o přeposlání. Jeden návštěvník oznámení opsal pro Majákový ostrov.",
+        "To znamenalo deset známých kopií, ne devět. Papír mohl Tavi posbírat snáz než jistotu, kterou rozeslal.",
+        "Napsal pro ostrov ještě jednu opravu. Ivo další kopii zaznamenal, aby na ni nezapomněli.",
+        "Ze sadu vyrazili k nádraží u jezera. Za nimi zůstaly směrem do otevřené síně dvě jasné opravy."
+      ],
+      "introduction": "První vzdálené opravy pomohou, ale jednou opsané obvinění už nelze jednoduše posbírat.",
+      "title": "Pod střechou sadu"
+    },
+    "de": {
+      "altTexts": [
+        "Zwei Mitteilungen hängen in getrennten Rahmen unter dem Obstgartendach.",
+        "Tavi hält vor einer Mitteilung inne; Ivo hält den Ersatz bereit.",
+        "Tavi und Ivo setzen Berichtigungen in die beiden Rahmen.",
+        "Ivo zeigt Tavi einen Weiterleitungsbeleg von der Postablage.",
+        "Tavi legt eine leere Karte zu vier übrigen Berichtigungen.",
+        "Tavi schreibt; Ivo macht einen Eintrag in sein Routenbuch.",
+        "Tavi und Ivo gehen bergab zum Seebahnhof."
+      ],
+      "captions": [
+        "An der Obstgartenhalle hingen beide Mitteilungen unter einem breiten Dach. Eine war für die Morgengäste, die andere für die Abendgruppe.",
+        "Tavi wollte sie herunterziehen. Ivo hielt ihn an. „Wir dürfen sie ersetzen. Hinterlassen wir eine Berichtigung, keine Lücke.“",
+        "Sie brachten an beiden Stellen Berichtigungen an. Die neuen Karten benannten Tavis Fehler, ohne Lumas private Worte offenzulegen.",
+        "Auf der Postablage fanden sie einen Versandbeleg. Ein Besucher hatte die Ankündigung für die Leuchtfeuerinsel abgeschrieben.",
+        "Damit gab es zehn bekannte Exemplare, nicht neun. Papier konnte Tavi leichter zurückholen als die Gewissheit, die er verbreitet hatte.",
+        "Er schrieb eine weitere Berichtigung für die Insel. Ivo vermerkte die zusätzliche Kopie, damit sie nicht vergessen wurde.",
+        "Sie verließen den Obstgarten in Richtung Seebahnhof. Hinter ihnen blickten zwei klare Berichtigungen in die offene Halle."
+      ],
+      "introduction": "Die ersten entfernten Berichtigungen helfen, doch eine abgeschriebene Beschuldigung lässt sich nicht einfach einsammeln.",
+      "title": "Unter dem Obstgartendach"
+    },
+    "en": {
+      "altTexts": [
+        "Two notices hang in separate frames beneath the orchard roof.",
+        "Tavi pauses before a notice while Ivo holds its replacement.",
+        "Tavi and Ivo place corrections in the two frames.",
+        "Ivo shows Tavi a forwarding slip from the mail shelf.",
+        "Tavi adds a blank card to four remaining corrections.",
+        "Tavi writes while Ivo marks his route notebook.",
+        "Tavi and Ivo walk downhill toward the lake station."
+      ],
+      "captions": [
+        "At the orchard hall, both notices hung beneath a wide roof. One served the morning visitors, the other the evening group.",
+        "Tavi reached to pull them down. Ivo stopped him. “We have permission to replace them. Let’s leave the correction, not a gap.”",
+        "They put a correction in each place. The new cards named Tavi’s mistake without exposing Luma’s private words.",
+        "On the hall’s mail shelf, they found a delivery slip. A visitor had copied the announcement for Beacon Island.",
+        "That made ten known copies, not nine. Tavi could retrieve paper more easily than the certainty he had passed along.",
+        "He wrote one more correction for the island. Ivo recorded the extra copy so it would not be forgotten.",
+        "They left the orchard for the lakeside station. Behind them, two clear corrections faced the open hall."
+      ],
+      "introduction": "A first distant correction is useful, but an already-copied accusation cannot simply be collected away.",
+      "title": "Under the Orchard Roof"
+    },
+    "es": {
+      "altTexts": [
+        "Dos avisos cuelgan en marcos separados bajo el tejado del huerto.",
+        "Tavi se detiene ante un aviso e Ivo sostiene el reemplazo.",
+        "Tavi e Ivo colocan correcciones en ambos marcos.",
+        "Ivo muestra a Tavi un comprobante de reenvío del estante.",
+        "Tavi añade una tarjeta en blanco a las cuatro correcciones restantes.",
+        "Tavi escribe e Ivo hace una anotación en su cuaderno de ruta.",
+        "Tavi e Ivo bajan hacia la estación del lago."
+      ],
+      "captions": [
+        "En el salón del huerto, ambos avisos colgaban bajo un tejado ancho. Uno era para las visitas matutinas y otro para el grupo vespertino.",
+        "Tavi quiso arrancarlos. Ivo lo detuvo. «Tenemos permiso para sustituirlos. Dejemos una corrección, no un hueco».",
+        "Pusieron una corrección en cada lugar. Las tarjetas señalaban el error de Tavi sin revelar las palabras privadas de Luma.",
+        "En el estante de correo encontraron un comprobante. Una persona había copiado el anuncio para la Isla del Faro.",
+        "Eso sumaba diez copias conocidas, no nueve. A Tavi le resultaba más fácil recuperar papel que la certeza que había difundido.",
+        "Escribió una corrección más para la isla. Ivo anotó la copia adicional para que no se les olvidara.",
+        "Dejaron el huerto rumbo a la estación del lago. Detrás quedaron dos correcciones claras, a la vista desde el salón abierto."
+      ],
+      "introduction": "Las primeras correcciones lejanas ayudan, pero una acusación ya copiada no se recupera tan fácilmente.",
+      "title": "Bajo el tejado del huerto"
+    },
+    "fr": {
+      "altTexts": [
+        "Deux avis sont suspendus dans des cadres distincts sous le toit du verger.",
+        "Tavi s’arrête devant un avis ; Ivo tient son remplacement.",
+        "Tavi et Ivo placent des rectifications dans les deux cadres.",
+        "Ivo montre à Tavi un bordereau de réexpédition pris sur l’étagère.",
+        "Tavi ajoute une carte vierge aux quatre rectifications restantes.",
+        "Tavi écrit tandis qu’Ivo note un élément dans son carnet de tournée.",
+        "Tavi et Ivo descendent vers la gare du lac."
+      ],
+      "captions": [
+        "À la halle du verger, les deux avis étaient sous un large toit. L’un servait aux visiteurs du matin, l’autre au groupe du soir.",
+        "Tavi voulut les arracher. Ivo l’arrêta. « Nous avons le droit de les remplacer. Laissons une rectification, pas un vide. »",
+        "Ils mirent une rectification à chaque place. Les nouvelles cartes reconnaissaient la faute de Tavi sans dévoiler les mots privés de Luma.",
+        "Sur l’étagère du courrier, ils trouvèrent un bordereau. Une personne avait recopié l’annonce pour l’île du Phare.",
+        "Cela faisait dix exemplaires connus, et non neuf. Tavi pouvait récupérer le papier plus facilement que la certitude qu’il avait propagée.",
+        "Il écrivit une rectification supplémentaire pour l’île. Ivo nota la copie de plus afin de ne pas l’oublier.",
+        "Ils quittèrent le verger pour la gare du lac. Derrière eux, deux rectifications claires faisaient face à la halle ouverte."
+      ],
+      "introduction": "Les premières rectifications lointaines sont utiles, mais une accusation recopiée ne se récupère pas si facilement.",
+      "title": "Sous le toit du verger"
+    },
+    "hi": {
+      "altTexts": [
+        "बगीचे की छत के नीचे दो अलग चौखटों में घोषणाएँ लगी हैं।",
+        "तावी घोषणा के सामने रुकता है और ईवो बदलने वाला कार्ड पकड़े है।",
+        "तावी और ईवो दो चौखटों में सुधार वाले कार्ड लगा रहे हैं।",
+        "ईवो डाक शेल्फ से मिली आगे भेजने की रसीद तावी को दिखा रहा है।",
+        "तावी बाकी चार सुधारों में एक खाली कार्ड जोड़ रहा है।",
+        "तावी लिख रहा है और ईवो रास्ते की नोटबुक में निशान लगा रहा है।",
+        "तावी और ईवो ढलान से झील के स्टेशन की ओर जा रहे हैं।"
+      ],
+      "captions": [
+        "सभा-भवन की चौड़ी छत के नीचे दोनों घोषणाएँ लगी थीं। एक सुबह आने वालों के लिए थी, दूसरी शाम के समूह के लिए।",
+        "तावी उन्हें खींचने लगा। ईवो ने रोका, “हमें बदलने की अनुमति है। खाली जगह नहीं, सुधार छोड़ेंगे।”",
+        "उन्होंने दोनों जगह सुधार रख दिए। नए कार्डों ने तावी की गलती बताई, लूमा की निजी बातें नहीं खोलीं।",
+        "डाक की शेल्फ पर उन्हें भेजने की रसीद मिली। किसी आगंतुक ने घोषणा की नकल करके प्रकाशस्तंभ द्वीप भेजी थी।",
+        "अब पता चली प्रतियाँ नौ नहीं, दस थीं। कागज़ वापस लेना उस भरोसे को वापस लेने से आसान था जो तावी ने फैलाया था।",
+        "उसने द्वीप के लिए एक और सुधार लिखा। ईवो ने अतिरिक्त प्रति दर्ज की ताकि वे उसे भूलें नहीं।",
+        "वे बगीचा छोड़कर झील के स्टेशन की ओर चले। पीछे खुले सभा-भवन में दो साफ सुधार दिखाई दे रहे थे।"
+      ],
+      "introduction": "पहला दूर का सुधार मदद करता है, मगर आगे नकल हो चुका आरोप केवल कागज़ इकट्ठा करने से नहीं मिटता।",
+      "title": "बगीचे की छत के नीचे"
+    },
+    "id": {
+      "altTexts": [
+        "Dua pengumuman tergantung dalam bingkai terpisah di bawah atap kebun.",
+        "Tavi berhenti di depan pengumuman sementara Ivo memegang penggantinya.",
+        "Tavi dan Ivo memasang pembetulan di kedua bingkai.",
+        "Ivo menunjukkan bukti penerusan dari rak surat kepada Tavi.",
+        "Tavi menambahkan kartu kosong ke empat pembetulan yang tersisa.",
+        "Tavi menulis sementara Ivo menandai buku rutenya.",
+        "Tavi dan Ivo berjalan menuruni jalan menuju stasiun danau."
+      ],
+      "captions": [
+        "Di aula kebun, kedua pengumuman tergantung di bawah atap lebar. Satu untuk pengunjung pagi, satu lagi untuk kelompok malam.",
+        "Tavi hendak mencabutnya. Ivo menghentikan tangannya. “Kita diizinkan mengganti. Mari tinggalkan pembetulan, bukan tempat kosong.”",
+        "Mereka memasang pembetulan di kedua tempat. Kartu baru menyebut kesalahan Tavi tanpa membuka kata-kata pribadi Luma.",
+        "Di rak surat aula, mereka menemukan bukti pengiriman. Seorang pengunjung telah menyalin pengumuman itu untuk Pulau Mercusuar.",
+        "Berarti ada sepuluh salinan yang diketahui, bukan sembilan. Kertas lebih mudah ditarik kembali daripada keyakinan yang sudah Tavi sebarkan.",
+        "Ia menulis satu pembetulan tambahan untuk pulau. Ivo mencatat salinan ekstra itu agar tidak terlupakan.",
+        "Mereka meninggalkan kebun menuju stasiun tepi danau. Di belakang mereka, dua pembetulan yang jelas menghadap aula terbuka."
+      ],
+      "introduction": "Pembetulan jauh yang pertama berguna, tetapi tuduhan yang sudah disalin tidak mudah dikumpulkan kembali.",
+      "title": "Di Bawah Atap Kebun"
+    },
+    "it": {
+      "altTexts": [
+        "Due avvisi sono in cornici separate sotto il tetto del frutteto.",
+        "Tavi si ferma davanti a un avviso; Ivo tiene il sostituto.",
+        "Tavi e Ivo sistemano rettifiche nelle due cornici.",
+        "Ivo mostra a Tavi una ricevuta d’inoltro presa dalla mensola.",
+        "Tavi aggiunge una cartolina bianca alle quattro rettifiche rimaste.",
+        "Tavi scrive e Ivo aggiorna il quaderno del percorso.",
+        "Tavi e Ivo scendono verso la stazione sul lago."
+      ],
+      "captions": [
+        "Alla sala del frutteto, entrambi gli avvisi erano sotto un tetto ampio. Uno serviva ai visitatori del mattino, l’altro al gruppo serale.",
+        "Tavi allungò la mano per strapparli. Ivo lo fermò. «Possiamo sostituirli. Lasciamo una rettifica, non un vuoto».",
+        "Misero una rettifica in ogni spazio. Le nuove cartoline descrivevano l’errore di Tavi senza rivelare le parole private di Luma.",
+        "Sulla mensola della posta trovarono una ricevuta. Un visitatore aveva ricopiato l’annuncio per l’Isola del Faro.",
+        "Le copie note erano quindi dieci, non nove. Tavi poteva recuperare i fogli più facilmente della certezza che aveva diffuso.",
+        "Scrisse una rettifica in più per l’isola. Ivo segnò la copia aggiuntiva, per non dimenticarla.",
+        "Lasciarono il frutteto verso la stazione sul lago. Dietro di loro, due rettifiche chiare erano visibili dalla sala aperta."
+      ],
+      "introduction": "Le prime rettifiche lontane sono utili, ma un’accusa già ricopiata non si raccoglie semplicemente.",
+      "title": "Sotto il tetto del frutteto"
+    },
+    "ja": {
+      "altTexts": [
+        "果樹園の屋根の下に、別々の額に入った二枚のお知らせがあります。",
+        "タヴィがお知らせの前で手を止め、イヴォが差し替え用紙を持っています。",
+        "タヴィとイヴォが二つの額へ訂正を入れています。",
+        "イヴォが郵便棚で見つけた転送の控えをタヴィに見せています。",
+        "タヴィが残った四枚の訂正に、白紙のカードを一枚加えています。",
+        "タヴィが書き、イヴォが経路手帳に印を付けています。",
+        "タヴィとイヴォが湖の駅へ坂道を下っています。"
+      ],
+      "captions": [
+        "果樹園の集会所では、広い屋根の下に二枚のお知らせがありました。一枚は朝の人たち、もう一枚は夕方の人たち用です。",
+        "タヴィが外そうとすると、イヴォが止めました。「差し替える許可をもらったんだ。空白ではなく、訂正を残そう」",
+        "二人はそれぞれの場所に訂正を入れました。タヴィの間違いは説明し、ルマの私的な言葉は公開しません。",
+        "郵便棚には発送の控えがありました。訪問者の一人が、お知らせを写して灯台島へ送っていたのです。",
+        "分かっている写しは九枚でなく十枚になりました。紙を集めるほうが、広めた思い込みを取り消すより簡単でした。",
+        "タヴィは島へもう一枚の訂正を書きました。イヴォも余分な写しを忘れないよう記録しました。",
+        "二人は果樹園を出て、湖畔の駅へ向かいました。後ろの開かれた集会所には、二枚の明確な訂正が残りました。"
+      ],
+      "introduction": "訂正は役に立ちますが、すでに写された非難まで紙だけで回収することはできません。",
+      "title": "果樹園の屋根の下"
+    },
+    "ko": {
+      "altTexts": [
+        "과수원 지붕 아래 서로 다른 액자에 공지문 두 부가 걸려 있어요.",
+        "타비가 공지문 앞에서 멈추고, 이보가 교체할 종이를 들어요.",
+        "타비와 이보가 두 액자에 정정문을 넣어요.",
+        "이보가 우편 선반에서 찾은 전달 기록표를 타비에게 보여 줘요.",
+        "타비가 남은 정정문 네 장에 빈 카드 한 장을 더해요.",
+        "타비가 글을 쓰고, 이보가 경로 수첩에 표시해요.",
+        "타비와 이보가 호숫가 역으로 내리막길을 걸어요."
+      ],
+      "captions": [
+        "과수원 회관의 넓은 지붕 아래 두 공지문이 걸려 있었어요. 하나는 아침 방문객용, 다른 하나는 저녁 모임용이었어요.",
+        "타비가 떼려 하자 이보가 말렸어요. “교체 허락을 받았잖아. 빈자리 말고 정정문을 남기자.”",
+        "둘은 각 자리에 정정문을 넣었어요. 타비의 잘못을 적되, 루마의 사적인 말은 드러내지 않았어요.",
+        "회관 우편 선반에서 전달 기록표를 발견했어요. 어떤 방문객이 공지문을 베껴 등대섬으로 보냈던 거예요.",
+        "확인된 사본은 이제 아홉 부가 아니라 열 부였어요. 종이를 거두는 일보다 퍼뜨린 확신을 되돌리는 일이 훨씬 어려웠어요.",
+        "타비는 섬에 가져갈 정정문을 한 장 더 썼어요. 이보도 추가 사본을 잊지 않도록 기록했어요.",
+        "둘은 과수원을 떠나 호숫가 역으로 갔어요. 뒤에는 열린 회관을 향한 두 장의 분명한 정정문이 남았어요."
+      ],
+      "introduction": "정정은 도움이 되지만, 이미 베껴 간 비난까지 종이만 거둬 해결할 수는 없습니다.",
+      "title": "과수원 지붕 아래"
+    },
+    "pl": {
+      "altTexts": [
+        "Dwa ogłoszenia wiszą w osobnych ramach pod dachem sadu.",
+        "Tavi zatrzymuje rękę przed ogłoszeniem; Ivo trzyma zamiennik.",
+        "Tavi i Ivo umieszczają sprostowania w obu ramach.",
+        "Ivo pokazuje Taviemu potwierdzenie przekazania wiadomości z półki pocztowej.",
+        "Tavi dodaje czystą kartkę do czterech pozostałych sprostowań.",
+        "Tavi pisze, a Ivo zaznacza coś w notesie trasy.",
+        "Tavi i Ivo schodzą w stronę stacji nad jeziorem."
+      ],
+      "captions": [
+        "Przy sali w sadzie oba ogłoszenia wisiały pod szerokim dachem. Jedno dla porannych gości, drugie dla wieczornej grupy.",
+        "Tavi chciał je zerwać. Ivo go powstrzymał. „Mamy zgodę na wymianę. Zostawmy sprostowanie, nie pustkę”.",
+        "W obu miejscach umieścili sprostowania. Nowe kartki nazywały błąd Taviego, nie ujawniając prywatnych słów Lumy.",
+        "Na półce pocztowej znaleźli potwierdzenie wysyłki. Ktoś przepisał ogłoszenie dla Wyspy Latarni.",
+        "To dawało dziesięć znanych kopii, nie dziewięć. Papier łatwiej było odzyskać niż pewność, którą Tavi przekazał dalej.",
+        "Napisał dodatkowe sprostowanie dla wyspy. Ivo odnotował kolejną kopię, żeby jej nie pominęli.",
+        "Ruszyli z sadu w stronę stacji nad jeziorem. Za nimi zostały dwa wyraźne sprostowania widoczne z otwartej sali."
+      ],
+      "introduction": "Pierwsze odległe sprostowania pomagają, ale raz przepisane oskarżenie trudniej zebrać.",
+      "title": "Pod dachem sadu"
+    },
+    "pt": {
+      "altTexts": [
+        "Dois avisos estão em molduras separadas sob o telhado do pomar.",
+        "Tavi para diante de um aviso e Ivo segura seu substituto.",
+        "Tavi e Ivo colocam correções nas duas molduras.",
+        "Ivo mostra a Tavi um comprovante de encaminhamento retirado da prateleira.",
+        "Tavi acrescenta um cartão em branco às quatro correções restantes.",
+        "Tavi escreve enquanto Ivo faz uma anotação no caderno de rota.",
+        "Tavi e Ivo descem em direção à estação do lago."
+      ],
+      "captions": [
+        "No salão do pomar, os dois avisos estavam sob um telhado largo. Um atendia às visitas da manhã; o outro, ao grupo da noite.",
+        "Tavi tentou arrancá-los. Ivo o deteve. “Temos permissão para substituí-los. Vamos deixar uma correção, não um espaço vazio.”",
+        "Colocaram uma correção em cada lugar. Os novos cartões reconheciam o erro de Tavi sem revelar as palavras particulares de Luma.",
+        "Na prateleira de correspondência, encontraram um comprovante. Uma pessoa havia copiado o anúncio para a Ilha do Farol.",
+        "Agora eram dez cópias conhecidas, não nove. Tavi podia recolher os papéis mais facilmente do que a certeza que havia espalhado.",
+        "Escreveu mais uma correção para a ilha. Ivo registrou a cópia extra para que não fosse esquecida.",
+        "Saíram do pomar rumo à estação do lago. Atrás deles, duas correções claras ficaram voltadas para o salão aberto."
+      ],
+      "introduction": "As primeiras correções distantes ajudam, mas uma acusação já copiada não é tão fácil de recolher.",
+      "title": "Sob o telhado do pomar"
+    },
+    "ru": {
+      "altTexts": [
+        "Два объявления висят в отдельных рамках под садовой крышей.",
+        "Тави останавливается у объявления; Иво держит замену.",
+        "Тави и Иво помещают исправления в две рамки.",
+        "Иво показывает Тави квитанцию с почтовой полки.",
+        "Тави добавляет чистую карточку к четырём оставшимся исправлениям.",
+        "Тави пишет; Иво делает отметку в маршрутном блокноте.",
+        "Тави и Иво идут вниз к озёрной станции."
+      ],
+      "captions": [
+        "В садовом зале оба объявления висели под широкой крышей. Одно читала утренняя группа, другое — вечерняя.",
+        "Тави потянулся сорвать их. Иво остановил: «Нам разрешили заменить листы. Оставим исправления, а не пустые места».",
+        "Они поместили исправление в каждую рамку. Новые карточки называли ошибку Тави, не раскрывая личных слов Лумы.",
+        "На почтовой полке они нашли квитанцию. Посетитель переписал объявление и отправил его на Маячный остров.",
+        "Значит, известно уже о десяти экземплярах, не девяти. Собрать бумагу было легче, чем вернуть распространённую им уверенность.",
+        "Он написал ещё одно исправление для острова. Иво отметил лишний экземпляр, чтобы о нём не забыли.",
+        "Они вышли из сада к станции у озера. Позади, в открытом зале, оставались два ясных исправления."
+      ],
+      "introduction": "Первые дальние исправления помогают, но обвинение уже успели переписать.",
+      "title": "Под крышей сада"
+    },
+    "tr": {
+      "altTexts": [
+        "Bahçe çatısının altında ayrı çerçevelerde iki duyuru asılı.",
+        "Tavi duyurunun önünde duraksarken Ivo yenisini tutuyor.",
+        "Tavi ile Ivo, iki çerçeveye düzeltmeler yerleştiriyor.",
+        "Ivo, posta rafından aldığı iletim fişini Tavi’ye gösteriyor.",
+        "Tavi, kalan dört düzeltmenin yanına boş bir kart ekliyor.",
+        "Tavi yazarken Ivo güzergâh defterine işaret koyuyor.",
+        "Tavi ile Ivo, göl istasyonuna doğru yokuş aşağı yürüyor."
+      ],
+      "captions": [
+        "Bahçe salonunda iki duyuru geniş çatının altındaydı. Biri sabah gelenlere, diğeri akşam grubuna ayrılmıştı.",
+        "Tavi onları çekip almak istedi. Ivo durdurdu. “Değiştirme iznimiz var. Boşluk değil, düzeltme bırakalım.”",
+        "İki yere de düzeltme koydular. Yeni kartlar Luma’nın özel sözlerini açığa çıkarmadan Tavi’nin hatasını anlatıyordu.",
+        "Salonun posta rafında bir gönderi fişi buldular. Bir ziyaretçi duyuruyu Fener Adası için kopyalamıştı.",
+        "Böylece bilinen kopya sayısı dokuz değil, on oldu. Tavi için kâğıtları toplamak, yaydığı kesinliği geri almaktan daha kolaydı.",
+        "Ada için bir düzeltme daha yazdı. Ivo, ek kopyayı unutmamak için kaydetti.",
+        "Bahçeden ayrılıp göl kıyısındaki istasyona yöneldiler. Arkalarında, açık salona bakan iki anlaşılır düzeltme kaldı."
+      ],
+      "introduction": "İlk uzak düzeltmeler işe yarar, ancak kopyalanmış bir suçlama kolayca geri toplanamaz.",
+      "title": "Bahçenin Çatısı Altında"
+    },
+    "vi": {
+      "altTexts": [
+        "Hai thông báo nằm trong khung riêng dưới mái nhà vườn cây.",
+        "Tavi dừng trước thông báo, Ivo cầm bản thay thế.",
+        "Tavi và Ivo đặt bản đính chính vào hai khung.",
+        "Ivo cho Tavi xem phiếu chuyển lấy từ kệ thư.",
+        "Tavi thêm một thẻ trắng vào bốn bản đính chính còn lại.",
+        "Tavi viết, còn Ivo đánh dấu trong sổ tuyến đường.",
+        "Tavi và Ivo đi xuống dốc về phía ga bên hồ."
+      ],
+      "captions": [
+        "Tại nhà sinh hoạt vườn cây, hai thông báo treo dưới mái rộng. Một dành cho khách buổi sáng, một cho nhóm buổi tối.",
+        "Tavi định giật chúng xuống. Ivo ngăn lại. “Chúng ta được phép thay. Hãy để lại đính chính, không phải chỗ trống.”",
+        "Họ đặt một bản đính chính vào mỗi chỗ. Các thẻ mới nêu lỗi của Tavi mà không tiết lộ lời riêng của Luma.",
+        "Trên kệ thư, họ tìm thấy phiếu chuyển. Một người đã chép thông báo để gửi đến Đảo Hải Đăng.",
+        "Vậy là có mười bản đã biết, không phải chín. Tavi có thể thu giấy về dễ hơn thu lại sự chắc chắn mình đã truyền đi.",
+        "Cậu viết thêm một bản đính chính cho đảo. Ivo ghi lại bản sao mới để không quên.",
+        "Họ rời vườn cây, đi về ga bên hồ. Sau lưng họ, hai bản đính chính rõ ràng hướng vào nhà sinh hoạt mở cửa."
+      ],
+      "introduction": "Những đính chính đầu tiên ở xa có ích, nhưng lời buộc tội đã bị chép lại không dễ thu về.",
+      "title": "Dưới mái vườn cây"
+    },
+    "zh": {
+      "altTexts": [
+        "两份公告分别挂在果园屋顶下的两个框内。",
+        "塔维在公告前停手，伊沃拿着替换卡。",
+        "塔维和伊沃把更正放进两个公告框。",
+        "伊沃把邮架上的转寄单给塔维看。",
+        "塔维在剩下的四张更正旁添一张空白卡片。",
+        "塔维书写，伊沃在路线本上作记录。",
+        "塔维和伊沃沿下坡路走向湖边车站。"
+      ],
+      "captions": [
+        "果园大厅里，两份公告挂在宽屋顶下。一份供早班访客阅读，另一份供晚班人群阅读。",
+        "塔维伸手想扯下来，伊沃拦住他：“我们得到的是替换许可。留下更正，不要只留下空白。”",
+        "他们在两个位置各放上一份更正。新卡片说明塔维的错误，没有泄露卢玛的私人话语。",
+        "在大厅的邮架上，他们发现一张转寄单。有位访客抄了公告，寄去了灯塔岛。",
+        "这就有了十份已知副本，而不是九份。收回纸张，比收回他传出去的确信容易得多。",
+        "他为岛上多写一份更正。伊沃记下这张额外副本，免得他们忘记。",
+        "他们离开果园，走向湖边车站。身后的开放大厅里，两份清楚的更正留在原处。"
+      ],
+      "introduction": "第一批远处的更正有了作用，但被抄走的指责无法只靠回收纸张消除。",
+      "title": "果园屋顶下"
+    }
+  },
+  "number": 16,
+  "panels": [
+    {
+      "altText": "Two notices hang in separate frames beneath the orchard roof.",
+      "image": "N03E16P01.png"
+    },
+    {
+      "altText": "Tavi pauses before a notice while Ivo holds its replacement.",
+      "image": "N03E16P02.png"
+    },
+    {
+      "altText": "Tavi and Ivo place corrections in the two frames.",
+      "image": "N03E16P03.png"
+    },
+    {
+      "altText": "Ivo shows Tavi a forwarding slip from the mail shelf.",
+      "image": "N03E16P04.png"
+    },
+    {
+      "altText": "Tavi adds a blank card to four remaining corrections.",
+      "image": "N03E16P05.png"
+    },
+    {
+      "altText": "Tavi writes while Ivo marks his route notebook.",
+      "image": "N03E16P06.png"
+    },
+    {
+      "altText": "Tavi and Ivo walk downhill toward the lake station.",
+      "image": "N03E16P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "communication",
+    "listening",
+    "responsibility"
+  ],
+  "version": 1
+}

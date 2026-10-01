@@ -1,0 +1,439 @@
+{
+  "id": "N03E20",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يقود أومي عبارة العودة بينما يجلس تافي وإيفو.",
+        "يسلم تافي سجل التصحيح إلى سيلي في مركز البريد.",
+        "ترسم سيلي المسار السفلي لتافي وإيفو بإصبعها.",
+        "تقدم سيلي لتافي بطاقة مهمة تجميع.",
+        "يقبل تافي بطاقة المهمة بتعبير خائب قليلا.",
+        "تعرض نيري المنفذ المغلق ووصلة الإرسال داخل صندوق.",
+        "يحمل تافي عصا قياس بجوار إطار المدخل."
+      ],
+      "captions": [
+        "في الصباح التالي، أعادهما أومي عبر البحيرة الهادئة. رجع تافي إلى البلدة حاملا الإعلانات الأصلية التي جمعاها.",
+        "في مركز البريد، سلم تافي سجل التصحيحات إلى سيلي. ورتب أيضا تصحيحات فردية للمساعدين الذين لامتهم آلته.",
+        "غيرت سيلي خطة الافتتاح. مع قلة المساعدين وعدم استقرار الريح، سيستخدم الممشى المسار السفلي المحمي.",
+        "قالت سيلي: «سأتولى تنسيق المسار الآن. يمكنك المساعدة في التجميع، وبالفحوص نفسها التي يخضع لها الجميع».",
+        "شعر تافي بالوخزة القديمة. لم يطلب من الآلة تحويلها إلى جدال. قال: «حسنا».",
+        "في الورشة، كانت نيري قد أغلقت منفذ الأنبوب. تستطيع الآلة إعداد مسودات على الورق، لكنها لا تستطيع إرسال أي شيء.",
+        "على طاولة العمل، استقر إطار المدخل الذي صنعته لوما. أخذ تافي عصا قياس وانتظر تعليمات سيلي."
+      ],
+      "introduction": "يعود تافي إلى مسؤوليات مختلفة وخطة أصغر يمكن إنجازها.",
+      "title": "العودة بيقين أقل"
+    },
+    "bn": {
+      "altTexts": [
+        "ওমি ফেরার ফেরি চালাচ্ছে, টাভি ও ইভো বসে আছে।",
+        "টাভি ডাকঘরে সেলিকে সংশোধনের হিসাব দিচ্ছে।",
+        "সেলি টাভি ও ইভোকে নিচের পথ দেখাচ্ছে।",
+        "সেলি টাভিকে জোড়া লাগানোর কাজের কার্ড দিচ্ছে।",
+        "টাভি হতাশ মুখে কাজের কার্ড নিচ্ছে।",
+        "নেরি ঢাকা মুখ আর বাক্সে রাখা পাঠানোর সংযোগ দেখাচ্ছে।",
+        "টাভি প্রবেশপথের কাঠামোর পাশে মাপার দণ্ড ধরে আছে।"
+      ],
+      "captions": [
+        "পরদিন সকালে ওমি শান্ত হ্রদ পেরিয়ে তাদের ফিরিয়ে আনল। টাভি সংগ্রহ করা মূল ঘোষণাগুলো নিয়ে শহরে ফিরল।",
+        "ডাকঘরে টাভি প্রকাশ্য সংশোধনের হিসাব সেলিকে দিল। যন্ত্র যাদের দোষ দিয়েছিল, সেই সাহায্যকারীদের কাছেও আলাদা সংশোধন পাঠানোর ব্যবস্থা করল।",
+        "সেলি উদ্বোধনের পরিকল্পনা বদলেছে। সাহায্যকারী কম, বাতাসও অনিশ্চিত। তাই হাঁটা হবে নিচের আড়াল-থাকা পথ দিয়ে।",
+        "সেলি বলল, “এখন পথের সমন্বয় আমি করব। তুমি জোড়া লাগাতে সাহায্য করতে পারো। তোমার কাজও সবার মতোই পরীক্ষা হবে।”",
+        "টাভির পুরোনো কষ্টটা জেগে উঠল। সে যন্ত্র দিয়ে সেটাকে তর্ক বানাল না। “ঠিক আছে,” বলল।",
+        "কর্মশালায় নেরি নলের সংযোগমুখ ঢেকে দিয়েছে। যন্ত্র কাগজে খসড়া লিখতে পারে, কিন্তু আর কিছু পাঠাতে পারে না।",
+        "কাজের টেবিলে লুমার তৈরি প্রবেশপথের কাঠামো ছিল। টাভি মাপার দণ্ড নিয়ে সেলির নির্দেশের অপেক্ষা করল।"
+      ],
+      "introduction": "ফিরে এসে টাভি বদলে যাওয়া দায়িত্ব এবং ছোট কিন্তু করা সম্ভব এমন পরিকল্পনা পায়।",
+      "title": "একটু কম নিশ্চয়তা নিয়ে বাড়ি"
+    },
+    "cs": {
+      "altTexts": [
+        "Omi řídí zpáteční loď; Tavi a Ivo sedí.",
+        "Tavi předává Seli na poště přehled oprav.",
+        "Seli ukazuje Tavimu a Ivovi dolní trasu.",
+        "Seli nabízí Tavimu kartičku s montážním úkolem.",
+        "Tavi přijímá úkol se zklamaným výrazem.",
+        "Neri ukazuje zaslepený otvor a spojku uloženou v krabičce.",
+        "Tavi drží měřicí tyč vedle vstupního rámu."
+      ],
+      "captions": [
+        "Další ráno je Omi převezl přes klidné jezero. Tavi se vrátil do města se sesbíranými originály.",
+        "Na poště Tavi předal Seli přehled veřejných oprav. Domluvil také jednotlivé opravy pro pomocníky, které stroj obvinil.",
+        "Seli změnila plán otevření. Kvůli menšímu počtu pomocníků a nejistému větru povede stezka chráněnou dolní trasou.",
+        "„Teď budu trasu koordinovat já,“ řekla Seli. „Můžeš pomáhat s montáží, se stejnými kontrolami jako všichni ostatní.“",
+        "Tavi pocítil známé píchnutí. Nepožádal stroj, aby z něj udělal argument. „Dobře,“ řekl.",
+        "V dílně Neri zaslepila přípojku potrubí. Stroj mohl připravovat text na papíře, ale už nic nemohl odeslat.",
+        "Na stole ležel Lumin vstupní rám. Tavi vzal měřicí tyč a počkal na pokyny Seli."
+      ],
+      "introduction": "Návrat domů přinese změněné úkoly a menší plán, který lze skutečně splnit.",
+      "title": "Domů s menší jistotou"
+    },
+    "de": {
+      "altTexts": [
+        "Omi steuert die Rückfahrt; Tavi und Ivo sitzen auf der Bank.",
+        "Tavi übergibt Seli im Depot das Berichtigungsverzeichnis.",
+        "Seli zeigt Tavi und Ivo den unteren Weg.",
+        "Seli bietet Tavi eine Karte mit einer Montageaufgabe an.",
+        "Tavi nimmt die Aufgabenkarte mit enttäuschtem Gesichtsausdruck an.",
+        "Neri zeigt den verschlossenen Anschluss und das Verbindungsstück in seiner Box.",
+        "Tavi hält einen Messstab neben dem Eingangsrahmen."
+      ],
+      "captions": [
+        "Am nächsten Morgen brachte Omi sie über den ruhigen See zurück. Tavi kehrte mit den eingesammelten Originalen in die Stadt zurück.",
+        "Im Depot gab Tavi Seli das Verzeichnis der öffentlichen Berichtigungen. Er veranlasste auch persönliche Richtigstellungen für die von der Maschine beschuldigten Helfer.",
+        "Seli hatte den Eröffnungsplan geändert. Mit weniger Helfern und unsicherem Wind würde der Lichterweg durch den geschützten unteren Bereich führen.",
+        "„Ich koordiniere den Weg jetzt“, sagte Seli. „Du kannst beim Zusammenbau helfen, mit denselben Prüfungen wie alle anderen.“",
+        "Tavi spürte den vertrauten Stich. Er bat die Maschine nicht, daraus ein Argument zu machen. „In Ordnung“, sagte er.",
+        "In der Werkstatt hatte Neri den Rohranschluss verschlossen. Die Maschine konnte Texte auf Papier entwerfen, aber nichts mehr verschicken.",
+        "Auf der Werkbank lag Lumas Eingangsrahmen. Tavi nahm einen Messstab und wartete auf Selis Anweisungen."
+      ],
+      "introduction": "Zu Hause warten veränderte Aufgaben und ein kleinerer Plan, der sich tatsächlich umsetzen lässt.",
+      "title": "Mit weniger Gewissheit nach Hause"
+    },
+    "en": {
+      "altTexts": [
+        "Omi pilots the return ferry with Tavi and Ivo seated.",
+        "Tavi hands the correction record to Seli at the depot.",
+        "Seli traces the lower route for Tavi and Ivo.",
+        "Seli offers Tavi an assembly task card.",
+        "Tavi accepts the task card with a disappointed expression.",
+        "Neri shows the capped port and boxed sending connector.",
+        "Tavi holds a measuring rod beside the entrance frame."
+      ],
+      "captions": [
+        "The next morning, Omi brought them back across the calm lake. Tavi returned to town carrying the collected originals.",
+        "At the depot, Tavi gave Seli the public correction record. He also arranged individual corrections for the helpers his machine had blamed.",
+        "Seli had changed the opening plan. With fewer helpers and uncertain wind, the lantern walk would use the sheltered lower route.",
+        "“I’ll coordinate the route now,” Seli said. “You can help with assembly, under the same checks as everyone else.”",
+        "Tavi felt the old sting. He did not ask the machine to turn it into an argument. “All right,” he said.",
+        "At the workshop, Neri had capped the tube connection. The machine could draft on paper, but it could no longer send anything.",
+        "On the bench lay Luma’s entrance frame. Tavi picked up a measuring rod and waited for Seli’s instructions."
+      ],
+      "introduction": "Returning home brings changed responsibilities and a smaller, achievable plan.",
+      "title": "Home, with Less Certainty"
+    },
+    "es": {
+      "altTexts": [
+        "Omi conduce el ferry de regreso; Tavi e Ivo van sentados.",
+        "Tavi entrega a Seli el registro de correcciones en la oficina.",
+        "Seli muestra a Tavi e Ivo el recorrido inferior.",
+        "Seli ofrece a Tavi una tarjeta con una tarea de montaje.",
+        "Tavi acepta la tarea con expresión decepcionada.",
+        "Neri muestra el puerto tapado y el conector guardado en su caja.",
+        "Tavi sostiene una vara de medir junto al marco de entrada."
+      ],
+      "captions": [
+        "A la mañana siguiente, Omi los llevó de vuelta por el lago tranquilo. Tavi regresó a la ciudad con los originales recogidos.",
+        "En la oficina, Tavi entregó a Seli el registro de correcciones públicas. También organizó aclaraciones individuales para los ayudantes acusados por la máquina.",
+        "Seli había cambiado el plan de apertura. Con menos ayudantes y un viento incierto, el sendero usaría el recorrido inferior protegido.",
+        "«Ahora coordinaré yo la ruta», dijo Seli. «Puedes ayudar con el montaje, con las mismas revisiones que los demás».",
+        "Tavi sintió el viejo pinchazo. No pidió a la máquina que lo convirtiera en un argumento. «De acuerdo», dijo.",
+        "En el taller, Neri había tapado la conexión del tubo. La máquina podía redactar en papel, pero ya no podía enviar nada.",
+        "Sobre la mesa estaba el marco de entrada de Luma. Tavi tomó una vara de medir y esperó las indicaciones de Seli."
+      ],
+      "introduction": "El regreso trae nuevas responsabilidades y un plan más pequeño que sí puede cumplirse.",
+      "title": "A casa, con menos certezas"
+    },
+    "fr": {
+      "altTexts": [
+        "Omi pilote le bateau du retour ; Tavi et Ivo sont assis.",
+        "Tavi remet le relevé des rectifications à Seli au dépôt.",
+        "Seli montre le parcours inférieur à Tavi et Ivo.",
+        "Seli propose à Tavi une carte indiquant une tâche de montage.",
+        "Tavi accepte la tâche avec une expression déçue.",
+        "Neri montre l’orifice bouché et le raccord rangé dans sa boîte.",
+        "Tavi tient une règle de mesure près du cadre d’entrée."
+      ],
+      "captions": [
+        "Le lendemain matin, Omi les ramena sur le lac calme. Tavi revint en ville avec les originaux récupérés.",
+        "Au dépôt, Tavi remit à Seli le relevé des rectifications publiques. Il organisa aussi des rectifications individuelles pour les bénévoles accusés par la machine.",
+        "Seli avait modifié l’ouverture. Avec moins d’aide et un vent incertain, les lanternes suivraient le parcours inférieur abrité.",
+        "« Je coordonnerai le parcours désormais », dit Seli. « Tu peux aider au montage, avec les mêmes vérifications que tout le monde. »",
+        "Tavi sentit l’ancienne blessure le piquer. Il ne demanda pas à la machine d’en faire un argument. « D’accord », dit-il.",
+        "À l’atelier, Neri avait bouché le raccord du tube. La machine pouvait proposer des textes sur papier, mais ne pouvait plus rien envoyer.",
+        "Le cadre d’entrée de Luma reposait sur l’établi. Tavi prit une règle de mesure et attendit les instructions de Seli."
+      ],
+      "introduction": "Le retour apporte des responsabilités différentes et un projet plus modeste, mais réalisable.",
+      "title": "Rentrer avec moins de certitudes"
+    },
+    "hi": {
+      "altTexts": [
+        "ओमी लौटती नौका चला रहा है और तावी व ईवो बैठे हैं।",
+        "तावी डाकघर में सेली को सुधारों का रिकॉर्ड दे रहा है।",
+        "सेली तावी और ईवो को नीचे का रास्ता दिखा रही है।",
+        "सेली तावी को जोड़ने के काम का कार्ड दे रही है।",
+        "तावी निराश चेहरे से काम का कार्ड ले रहा है।",
+        "नेरी बंद छेद और डिब्बे में रखा भेजने वाला जोड़ दिखा रही है।",
+        "तावी प्रवेश-चौखटे के पास नापने की छड़ी पकड़े है।"
+      ],
+      "captions": [
+        "अगली सुबह ओमी शांत झील से उन्हें वापस लाया। तावी इकट्ठी की गई मूल घोषणाएँ लेकर कस्बे लौटा।",
+        "डाकघर में तावी ने सार्वजनिक सुधारों का रिकॉर्ड सेली को दिया। जिन मददगारों को मशीन ने दोष दिया था, उन्हें अलग-अलग सुधार भेजने का इंतज़ाम भी किया।",
+        "सेली ने उद्घाटन की योजना बदली थी। कम मददगार और बदलती हवा के कारण अब सैर नीचे के सुरक्षित रास्ते पर होगी।",
+        "सेली बोली, “अब रास्ते का तालमेल मैं सँभालूँगी। तुम जोड़ने के काम में मदद करो। जाँच के नियम सबके समान होंगे।”",
+        "तावी को पुरानी चुभन महसूस हुई। उसने मशीन से उसे दलील में नहीं बदला। “ठीक है,” उसने कहा।",
+        "कार्यशाला में नेरी ने नली का छेद ढक दिया था। मशीन कागज़ पर मसौदा लिख सकती थी, लेकिन अब कुछ भेज नहीं सकती थी।",
+        "मेज़ पर लूमा का प्रवेश-चौखटा था। तावी ने नापने की छड़ी उठाई और सेली के निर्देशों का इंतज़ार किया।"
+      ],
+      "introduction": "घर लौटने पर तावी को बदली जिम्मेदारी और छोटा, पूरा किया जा सकने वाला कार्यक्रम मिलता है।",
+      "title": "कम यकीन के साथ घर"
+    },
+    "id": {
+      "altTexts": [
+        "Omi mengemudikan feri pulang sementara Tavi dan Ivo duduk.",
+        "Tavi menyerahkan catatan pembetulan kepada Seli di kantor.",
+        "Seli menunjukkan rute bawah kepada Tavi dan Ivo.",
+        "Seli menawarkan kartu tugas perakitan kepada Tavi.",
+        "Tavi menerima kartu tugas dengan wajah kecewa.",
+        "Neri menunjukkan lubang tertutup dan konektor di dalam kotaknya.",
+        "Tavi memegang tongkat ukur di dekat rangka pintu masuk."
+      ],
+      "captions": [
+        "Keesokan paginya, Omi membawa mereka pulang melintasi danau tenang. Tavi kembali ke kota dengan pengumuman asli yang terkumpul.",
+        "Di kantor, Tavi memberikan catatan pembetulan umum kepada Seli. Ia juga mengatur penjelasan pribadi bagi para pembantu yang dituduh mesin.",
+        "Seli sudah mengubah rencana pembukaan. Dengan lebih sedikit pembantu dan angin tak menentu, jalur lentera akan memakai rute bawah yang terlindung.",
+        "“Sekarang aku yang mengoordinasikan jalurnya,” kata Seli. “Kamu boleh membantu perakitan, dengan pemeriksaan yang sama seperti semua orang.”",
+        "Tavi merasakan perih yang lama. Ia tidak meminta mesin mengubahnya menjadi pembelaan. “Baik,” katanya.",
+        "Di bengkel, Neri telah menutup sambungan tabung. Mesin masih bisa menyusun draf di kertas, tetapi tidak bisa lagi mengirim apa pun.",
+        "Rangka pintu masuk Luma terletak di meja. Tavi mengambil tongkat ukur dan menunggu petunjuk Seli."
+      ],
+      "introduction": "Kepulangan membawa pembagian tanggung jawab baru dan rencana yang lebih kecil tetapi dapat diwujudkan.",
+      "title": "Pulang dengan Lebih Sedikit Kepastian"
+    },
+    "it": {
+      "altTexts": [
+        "Omi guida il traghetto di ritorno; Tavi e Ivo sono seduti.",
+        "Tavi consegna a Seli il registro delle rettifiche nell’ufficio.",
+        "Seli mostra il percorso inferiore a Tavi e Ivo.",
+        "Seli offre a Tavi una scheda con un compito di montaggio.",
+        "Tavi accetta la scheda con un’espressione delusa.",
+        "Neri mostra l’attacco chiuso e il raccordo nella sua scatola.",
+        "Tavi tiene un’asta graduata accanto alla cornice d’ingresso."
+      ],
+      "captions": [
+        "La mattina seguente, Omi li riportò attraverso il lago calmo. Tavi tornò in città con gli originali raccolti.",
+        "All’ufficio, Tavi consegnò a Seli il registro delle rettifiche pubbliche. Organizzò anche chiarimenti individuali per gli aiutanti accusati dalla macchina.",
+        "Seli aveva modificato l’apertura. Con meno aiutanti e un vento incerto, il percorso di lanterne avrebbe seguito il tragitto inferiore riparato.",
+        "«Ora coordinerò io il percorso», disse Seli. «Puoi aiutare con il montaggio, con gli stessi controlli previsti per tutti».",
+        "Tavi sentì la vecchia fitta. Non chiese alla macchina di trasformarla in un argomento. «Va bene», disse.",
+        "In laboratorio, Neri aveva chiuso l’attacco del tubo. La macchina poteva preparare bozze su carta, ma non spedire più nulla.",
+        "Sul banco c’era la cornice d’ingresso di Luma. Tavi prese un’asta graduata e aspettò le istruzioni di Seli."
+      ],
+      "introduction": "Il ritorno porta responsabilità diverse e un progetto più piccolo ma realizzabile.",
+      "title": "A casa, con meno certezze"
+    },
+    "ja": {
+      "altTexts": [
+        "オミが帰りの船を操り、タヴィとイヴォが座っています。",
+        "タヴィが郵便所でセリに訂正記録を渡しています。",
+        "セリがタヴィとイヴォに下の経路を示しています。",
+        "セリがタヴィに組み立ての作業カードを差し出しています。",
+        "タヴィが残念そうな表情で作業カードを受け取っています。",
+        "ネリがふたをした口と、箱に収めた送信用接続具を見せています。",
+        "タヴィが入口の枠のそばで測り棒を持っています。"
+      ],
+      "captions": [
+        "翌朝、オミは穏やかな湖を渡って二人を送りました。タヴィは回収した元のお知らせを持ち、町へ戻りました。",
+        "郵便所でタヴィは訂正の記録をセリへ渡しました。機械が責めた手伝いの人たちにも、個別に訂正を届ける手配をしました。",
+        "セリは公開の計画を変えていました。人手が少なく風も読めないため、散歩道には風を避けられる下の道を使います。",
+        "「道の調整は私が担当するわ。あなたは組み立てを手伝って。確認の決まりは皆と同じよ」",
+        "タヴィはいつもの痛みを感じました。でも、機械に反論へ変えてもらうことはしません。「分かった」と言いました。",
+        "作業場では、ネリが管の接続口にふたをしていました。紙の下書きは作れても、機械はもう何も送れません。",
+        "作業台にはルマの入口の枠がありました。タヴィは測り棒を取り、セリの指示を待ちました。"
+      ],
+      "introduction": "町へ帰ると役割は変わり、計画も小さく、実行できるものになっていました。",
+      "title": "確信を少し手放して帰る"
+    },
+    "ko": {
+      "altTexts": [
+        "오미가 돌아오는 배를 몰고, 타비와 이보가 앉아 있어요.",
+        "타비가 우편소에서 셀리에게 정정 기록을 건네요.",
+        "셀리가 타비와 이보에게 아래쪽 경로를 짚어 줘요.",
+        "셀리가 타비에게 조립 작업 카드를 내밀어요.",
+        "타비가 아쉬운 표정으로 작업 카드를 받아요.",
+        "네리가 막힌 연결구와 상자 속 발송 연결 부품을 보여 줘요.",
+        "타비가 입구 틀 옆에서 측정 막대를 들어요."
+      ],
+      "captions": [
+        "다음 날 아침 오미가 잔잔한 호수를 건너 둘을 데려다줬어요. 타비는 거둔 원본들을 들고 마을로 돌아왔어요.",
+        "우편소에서 타비는 공개 정정 기록을 셀리에게 줬어요. 기계가 탓했던 도우미들에게도 각각 잘못을 바로잡아 전하도록 준비했어요.",
+        "셀리는 개장 계획을 바꿨어요. 일손이 줄고 바람도 불확실해서, 등불 길은 보호된 아래쪽 경로를 쓰게 되었어요.",
+        "“이제 경로 조정은 내가 할게. 너는 조립을 도와줘. 점검 규칙은 다른 사람들과 같아.”",
+        "타비는 익숙한 서운함을 느꼈어요. 하지만 기계에 맡겨 논쟁으로 만들지 않았어요. “알겠어.”",
+        "작업실에서 네리는 관 연결구에 마개를 씌워 두었어요. 기계는 종이에 초안을 쓰지만, 이제 아무것도 보낼 수 없어요.",
+        "작업대에는 루마의 입구 틀이 놓여 있었어요. 타비는 자를 들고 셀리의 안내를 기다렸어요."
+      ],
+      "introduction": "집에 돌아온 타비는 바뀐 역할과 더 작지만 가능한 계획을 마주합니다.",
+      "title": "확신을 조금 내려놓고 집으로"
+    },
+    "pl": {
+      "altTexts": [
+        "Omi steruje promem w drodze powrotnej; Tavi i Ivo siedzą.",
+        "Tavi przekazuje Seli wykaz sprostowań w punkcie wysyłkowym.",
+        "Seli pokazuje dolną trasę Taviemu i Ivowi.",
+        "Seli podaje Taviemu kartkę z zadaniem montażowym.",
+        "Tavi przyjmuje zadanie z rozczarowaną miną.",
+        "Neri pokazuje zaślepione przyłącze i złącze w pudełku.",
+        "Tavi trzyma miarkę obok ramy wejścia."
+      ],
+      "captions": [
+        "Następnego ranka Omi przewiózł ich z powrotem przez spokojne jezioro. Tavi wrócił do miasta ze zebranymi oryginałami.",
+        "W punkcie wysyłkowym Tavi przekazał Seli wykaz publicznych sprostowań. Zorganizował też osobne wyjaśnienia dla pomocników oskarżonych przez maszynę.",
+        "Seli zmieniła plan otwarcia. Przy mniejszej liczbie pomocników i niepewnym wietrze ścieżka miała prowadzić osłoniętą dolną trasą.",
+        "„Teraz ja koordynuję trasę”, powiedziała Seli. „Możesz pomagać przy montażu, z takimi samymi kontrolami jak wszyscy”.",
+        "Tavi poczuł znajome ukłucie. Nie poprosił maszyny, by zamieniła je w argument. „Dobrze”, powiedział.",
+        "W warsztacie Neri zaślepiła przyłącze rury. Maszyna mogła tworzyć szkice na papierze, lecz nie mogła już niczego wysyłać.",
+        "Na stole leżała rama wejścia Lumy. Tavi podniósł miarkę i poczekał na wskazówki Seli."
+      ],
+      "introduction": "Powrót przynosi inne obowiązki i mniejszy plan, który da się zrealizować.",
+      "title": "Do domu z mniejszą pewnością"
+    },
+    "pt": {
+      "altTexts": [
+        "Omi pilota a balsa de volta; Tavi e Ivo permanecem sentados.",
+        "Tavi entrega o registro de correções a Seli na central.",
+        "Seli mostra o percurso inferior a Tavi e Ivo.",
+        "Seli oferece a Tavi um cartão com uma tarefa de montagem.",
+        "Tavi aceita o cartão com uma expressão decepcionada.",
+        "Neri mostra a conexão tampada e o conector guardado na caixa.",
+        "Tavi segura uma régua de medição perto da moldura de entrada."
+      ],
+      "captions": [
+        "Na manhã seguinte, Omi os trouxe de volta pelo lago calmo. Tavi voltou à cidade com os originais recolhidos.",
+        "Na central, Tavi entregou a Seli o registro das correções públicas. Também organizou esclarecimentos individuais para os ajudantes acusados pela máquina.",
+        "Seli havia mudado o plano de abertura. Com menos ajudantes e vento incerto, a trilha usaria o percurso inferior protegido.",
+        "“Agora eu vou coordenar a rota”, disse Seli. “Você pode ajudar na montagem, com as mesmas verificações de todos.”",
+        "Tavi sentiu a velha pontada. Não pediu à máquina que a transformasse em argumento. “Tudo bem”, disse.",
+        "Na oficina, Neri havia tampado a conexão do tubo. A máquina podia preparar textos no papel, mas já não podia enviar nada.",
+        "Na bancada estava a moldura de entrada de Luma. Tavi pegou uma régua de medição e esperou as instruções de Seli."
+      ],
+      "introduction": "O retorno traz responsabilidades diferentes e um plano menor que pode realmente ser realizado.",
+      "title": "De volta, com menos certeza"
+    },
+    "ru": {
+      "altTexts": [
+        "Оми ведёт обратный паром; Тави и Иво сидят.",
+        "Тави передаёт Сели отчёт об исправлениях на почте.",
+        "Сели показывает нижний маршрут Тави и Иво.",
+        "Сели предлагает Тави карточку сборочного задания.",
+        "Тави принимает карточку с огорчённым выражением.",
+        "Нери показывает закрытый порт и соединитель в коробке.",
+        "Тави держит мерную рейку возле входной рамы."
+      ],
+      "captions": [
+        "Утром Оми перевёз их обратно по спокойному озеру. Тави вернулся в город с собранными исходными объявлениями.",
+        "На почте Тави передал Сели отчёт об исправлениях. Он также организовал личные исправления для помощников, которых обвинила машина.",
+        "Сели изменила план открытия. Помощников стало меньше, ветер оставался непредсказуемым, поэтому прогулка пройдёт по защищённому нижнему маршруту.",
+        "«Теперь маршрут координирую я, — сказала Сели. — Ты можешь помогать со сборкой, с такими же проверками, как у всех».",
+        "Тави почувствовал знакомый укол. Он не попросил машину превратить его в довод. «Хорошо», — сказал он.",
+        "В мастерской Нери закрыла соединение с трубой. Машина могла составлять черновики, но больше ничего не отправляла.",
+        "На верстаке лежала входная рама Лумы. Тави взял мерную рейку и стал ждать указаний Сели."
+      ],
+      "introduction": "Дома Тави ждут новые обязанности и более скромный, выполнимый план.",
+      "title": "Домой без прежней уверенности"
+    },
+    "tr": {
+      "altTexts": [
+        "Omi dönüş vapurunu kullanırken Tavi ile Ivo oturuyor.",
+        "Tavi, merkezde Seli’ye düzeltme kaydını veriyor.",
+        "Seli, Tavi ile Ivo’ya alt güzergâhı gösteriyor.",
+        "Seli, Tavi’ye bir montaj görevi kartı uzatıyor.",
+        "Tavi, hayal kırıklığı belli olan bir ifadeyle görev kartını alıyor.",
+        "Neri, kapatılmış girişi ve kutudaki bağlantı parçasını gösteriyor.",
+        "Tavi, giriş çerçevesinin yanında ölçü çubuğu tutuyor."
+      ],
+      "captions": [
+        "Ertesi sabah Omi onları sakin gölden geri getirdi. Tavi topladığı özgün duyurularla kasabaya döndü.",
+        "Merkezde Tavi, Seli’ye kamusal düzeltme kaydını verdi. Makinenin suçladığı yardımcılar için kişisel düzeltmeler de düzenledi.",
+        "Seli açılış planını değiştirmişti. Daha az yardımcı ve belirsiz rüzgâr nedeniyle fener yolu korunaklı alt güzergâhı kullanacaktı.",
+        "“Artık güzergâhı ben yöneteceğim,” dedi Seli. “Herkesle aynı kontroller altında montaja yardım edebilirsin.”",
+        "Tavi o tanıdık sızıyı duydu. Bunu savunmaya çevirmesi için makineye gitmedi. “Peki,” dedi.",
+        "Atölyede Neri boru bağlantısını kapatmıştı. Makine kâğıt üzerinde taslak hazırlayabiliyor, ama artık hiçbir şey gönderemiyordu.",
+        "Tezgâhta Luma’nın giriş çerçevesi duruyordu. Tavi bir ölçü çubuğu aldı ve Seli’nin yönergelerini bekledi."
+      ],
+      "introduction": "Dönüş, değişen sorumlulukları ve daha küçük ama gerçekleştirilebilir bir planı getirir.",
+      "title": "Daha Az Kesinlikle Eve"
+    },
+    "vi": {
+      "altTexts": [
+        "Omi lái phà về, còn Tavi và Ivo ngồi yên.",
+        "Tavi trao bản ghi đính chính cho Seli ở trạm.",
+        "Seli chỉ tuyến đường thấp cho Tavi và Ivo.",
+        "Seli đưa Tavi thẻ công việc lắp ráp.",
+        "Tavi nhận thẻ việc với vẻ thất vọng.",
+        "Neri chỉ cổng đã bịt và đầu nối cất trong hộp.",
+        "Tavi cầm thước đo cạnh khung lối vào."
+      ],
+      "captions": [
+        "Sáng hôm sau, Omi đưa họ về qua mặt hồ yên. Tavi trở lại thị trấn với các bản gốc đã thu được.",
+        "Ở trạm, Tavi đưa Seli bản ghi các đính chính công khai. Cậu cũng sắp xếp việc đính chính riêng với những người bị chiếc máy trách oan.",
+        "Seli đã đổi kế hoạch mở cửa. Vì ít người giúp hơn và gió bất định, đường đèn lồng sẽ đi theo tuyến thấp được che chắn.",
+        "“Từ giờ mình sẽ điều phối tuyến đường,” Seli nói. “Cậu có thể giúp lắp ráp, với các bước kiểm tra giống mọi người.”",
+        "Tavi cảm thấy nhói lên như trước. Cậu không nhờ máy biến cảm giác ấy thành lý lẽ. “Được,” cậu nói.",
+        "Trong xưởng, Neri đã bịt kết nối đường ống. Máy vẫn có thể viết nháp trên giấy, nhưng không gửi được gì nữa.",
+        "Khung lối vào của Luma nằm trên bàn. Tavi cầm thước đo và chờ chỉ dẫn của Seli."
+      ],
+      "introduction": "Khi trở về, Tavi nhận trách nhiệm khác và một kế hoạch nhỏ hơn nhưng có thể thực hiện.",
+      "title": "Trở về với ít chắc chắn hơn"
+    },
+    "zh": {
+      "altTexts": [
+        "奥米驾驶返程渡船，塔维和伊沃坐在船上。",
+        "塔维在邮递站把更正记录交给塞莉。",
+        "塞莉向塔维和伊沃描画下方路线。",
+        "塞莉向塔维递出安装任务卡。",
+        "塔维带着失落的神情接过任务卡。",
+        "内莉展示封好的接口和盒中的发送连接器。",
+        "塔维拿着量尺，站在入口框架旁。"
+      ],
+      "captions": [
+        "第二天早上，奥米载他们渡过平静的湖面。塔维带着收回的原公告回到小镇。",
+        "在邮递站，塔维把公开更正记录交给塞莉，也为被机器责怪的帮手安排了逐一更正。",
+        "塞莉改了开放计划。帮手减少，风向又不确定，灯笼步道将改用避风的下方路线。",
+        "“现在由我协调路线，”塞莉说，“你可以帮忙安装，和大家接受同样的检查。”",
+        "塔维又感到熟悉的刺痛，但没有让机器把它变成争辩。“好。”他说。",
+        "工作室里，内莉封好了管道接口。机器仍能在纸上写草稿，却再也不能发送任何消息。",
+        "卢玛的入口框架躺在工作台上。塔维拿起量尺，等候塞莉的安排。"
+      ],
+      "introduction": "回家后，塔维面对新的分工，也面对一个更小却能实现的计划。",
+      "title": "带着少一些确信回家"
+    }
+  },
+  "number": 20,
+  "panels": [
+    {
+      "altText": "Omi pilots the return ferry with Tavi and Ivo seated.",
+      "image": "N03E20P01.png"
+    },
+    {
+      "altText": "Tavi hands the correction record to Seli at the depot.",
+      "image": "N03E20P02.png"
+    },
+    {
+      "altText": "Seli traces the lower route for Tavi and Ivo.",
+      "image": "N03E20P03.png"
+    },
+    {
+      "altText": "Seli offers Tavi an assembly task card.",
+      "image": "N03E20P04.png"
+    },
+    {
+      "altText": "Tavi accepts the task card with a disappointed expression.",
+      "image": "N03E20P05.png"
+    },
+    {
+      "altText": "Neri shows the capped port and boxed sending connector.",
+      "image": "N03E20P06.png"
+    },
+    {
+      "altText": "Tavi holds a measuring rod beside the entrance frame.",
+      "image": "N03E20P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "communication",
+    "listening",
+    "responsibility"
+  ],
+  "version": 1
+}

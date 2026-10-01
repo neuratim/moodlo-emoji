@@ -1,0 +1,439 @@
+{
+  "id": "N01E17",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "في صباح اليوم التالي، دخلت Nova إلى متجر المعرض لتسأل عن العدسة المستردة. على المنضدة، يبيع Vex رسمًا كاريكاتوريًا مصنوعًا من الصورة القديمة لـ Rain. النكتة ليست دليلاً على ما فعله Rain.",
+        "تضع Nova طبعة المرج الكاملة من Bellara بجانب الرسم الكاريكاتوري. تعيد المزرعة والعشب الفارغ السياق الذي أزالته النكتة. Rain هو شخص يعيش تغييرًا صعبًا، وليس وحشًا ليُعرض في واجهة المتجر.",
+        "ينظر Vex إلى قسائم الاستجابة الساخرة التي قام العملاء بتثبيتها أسفل لوحة عرضه. لم يتوقف أثر الصورة عند ضحكة عابرة. ينتظر Beam بينما يرى Vex نتيجة لم يعد بإمكانه رفضها بالاحتجاج بنيته وحدها.",
+        "Beam لا يطلب من Vex تقديم اعتذار أفضل. ويشير إلى لوحة العرض نفسها. إن إزالة الرسم الكاريكاتوري وتصحيح الادعاء هي أشياء يمكن أن يفعلها Vex، سواء سامحه Rain أم لا.",
+        "يقوم Vex بسحب الرسم الكاريكاتوري من البيع واستبدال لوحة العرض بالصورة الكاملة والتصحيح. تبقى نسخة Nova من الصورة هنا لهذا الغرض. إنه تغيير حقيقي في المتجر، وليس مطالبة Rain بالتوقف عن الشعور بالأذى.",
+        "مع سحب الرسم الكاريكاتوري، يعود Quest إلى العدسة المفقودة. يفتح Vex ملفًا مختلفًا: أوراق إعادة الشحن الخاصة بالمتجر. تُظهر صورة الإرسال غير المقصوصة الطرد وختم المعرض الذي قد يحدد مكان إرساله.",
+        "في ذلك المساء، أبلغت Nova عن التصحيح إلى Meadowfold عبر هاتف Postline السلكي. يشعر Rain بالارتياح لتوقف البيع. ولا يُطلب منه إرسال رسالة موافقة إلى الشخص الذي آذاه."
+      ],
+      "captions": [
+        "في صباح اليوم التالي، دخلت Nova إلى متجر المعرض لتسأل عن العدسة المستردة. على المنضدة، يبيع Vex رسمًا كاريكاتوريًا مصنوعًا من الصورة القديمة لـ Rain. النكتة ليست دليلاً على ما فعله Rain.\n\nVex: \"إنها مجرد صورة.\"",
+        "تضع Nova طبعة المرج الكاملة من Bellara بجانب الرسم الكاريكاتوري. تعيد المزرعة والعشب الفارغ السياق الذي أزالته النكتة. Rain هو شخص يعيش تغييرًا صعبًا، وليس وحشًا ليُعرض في واجهة المتجر.\n\nNova: \"إنها لا تزال حياة شخص ما.\"",
+        "ينظر Vex إلى قسائم الاستجابة الساخرة التي قام العملاء بتثبيتها أسفل لوحة عرضه. لم يتوقف أثر الصورة عند ضحكة عابرة. ينتظر Beam بينما يرى Vex نتيجة لم يعد بإمكانه رفضها بالاحتجاج بنيته وحدها.\n\nVex: \"لم أكن أعتقد أنهم سيستمرون في القيام بذلك.\"",
+        "Beam لا يطلب من Vex تقديم اعتذار أفضل. ويشير إلى لوحة العرض نفسها. إن إزالة الرسم الكاريكاتوري وتصحيح الادعاء هي أشياء يمكن أن يفعلها Vex، سواء سامحه Rain أم لا.\n\nBeam: \"إذاً ساعد في إيقاف ذلك. ابدأ من هنا.\"",
+        "يقوم Vex بسحب الرسم الكاريكاتوري من البيع واستبدال لوحة العرض بالصورة الكاملة والتصحيح. تبقى نسخة Nova من الصورة هنا لهذا الغرض. إنه تغيير حقيقي في المتجر، وليس مطالبة Rain بالتوقف عن الشعور بالأذى.\n\nVex: \"لقد فعلت هذا بطريقة قاسية. Rain لم يفعل لي شيئًا.\"",
+        "مع سحب الرسم الكاريكاتوري، يعود Quest إلى العدسة المفقودة. يفتح Vex ملفًا مختلفًا: أوراق إعادة الشحن الخاصة بالمتجر. تُظهر صورة الإرسال غير المقصوصة الطرد وختم المعرض الذي قد يحدد مكان إرساله.\n\nVex: \"لقد تعاملت مع هذا الإرجاع. هذه هي صورة الإرسال - وليست صورة Rain.\"",
+        "في ذلك المساء، أبلغت Nova عن التصحيح إلى Meadowfold عبر هاتف Postline السلكي. يشعر Rain بالارتياح لتوقف البيع. ولا يُطلب منه إرسال رسالة موافقة إلى الشخص الذي آذاه.\n\nRain [عبر هاتف Postline السلكي]: \"أنا سعيد لأنه توقف. ما زلت أتألم.\"\nNova [عبر هاتف Postline السلكي]: \"أنت لست مدينًا لأي شخص بإجابة مختلفة.\""
+      ],
+      "introduction": "قاد سجل الإرجاع المفقود الأصدقاء إلى متجر المعرض في Nacre. بائعه، Vex، يبيع أيضًا رسمًا كاريكاتوريًا قاسيًا يعتمد على الصورة المتداولة لـ Rain. تصر Nova على أن يتوقف الضرر بينما يبقي Quest التحقيق في الشحنة منفصلاً.",
+      "title": "النكتة التي بقيت"
+    },
+    "bn": {
+      "altTexts": [
+        "পরদিন সকালে Nova ফেরত যাওয়া লেন্সটির খোঁজে প্রদর্শনীর দোকানে ঢোকে। কাউন্টারে Vex Rain-এর পুরোনো ছবি থেকে বানানো নিষ্ঠুর একটি কার্টুন বিক্রি করছে। কার্টুনের ঠাট্টা Rain কী করেছে তার প্রমাণ নয়।",
+        "Nova কার্টুনের পাশে Bellara থেকে আনা তৃণভূমির সম্পূর্ণ ছবিটি রাখে। খামারবাড়ি আর খালি ঘাস দেখা গেলে ঘটনাটির হারানো প্রেক্ষাপট ফিরে আসে। Rain কঠিন একটি পরিবর্তনের মধ্যে দিয়ে যাচ্ছে; দোকানে দেখানোর জন্য সে কোনো দানব নয়।",
+        "Vex প্রদর্শনের নিচে ক্রেতাদের টাঙানো বিদ্রূপের চিরকুটগুলো দেখে। ছবির প্রভাব ক্ষণিকের হাসিতেই থামেনি। Beam অপেক্ষা করে। শুধু নিজের উদ্দেশ্যের কথা বলে এই ফল আর এড়াতে পারে না Vex।",
+        "Beam আরও সুন্দর করে ক্ষমা চাইতে বলে না। সে প্রদর্শনটির দিকে দেখায়। কার্টুন সরানো আর মিথ্যা কথা সংশোধন করা Vex-এর হাতে। Rain তাকে ক্ষমা করুক বা না করুক, এই কাজগুলো সে করতে পারে।",
+        "Vex কার্টুন বিক্রি বন্ধ করে। প্রদর্শনে সম্পূর্ণ ছবি আর সংশোধনটি রাখে। এই কাজেই Nova-এর আনা ছবিটি এখানে থেকে যায়। দোকানে সত্যিকারের পরিবর্তন হয়েছে, কিন্তু Rain-কে কষ্ট পাওয়া বন্ধ করতে বলা হয় না।",
+        "কার্টুন সরানোর পরে Quest আবার লেন্সের খোঁজে মন দেয়। Vex আলাদা একটি ফাইল খোলে: দোকান থেকে ফেরত পাঠানো মালপত্রের নথি। সম্পূর্ণ ছবিতে পার্সেল আর প্রদর্শনীর সিল দেখা যায়। সেটি গন্তব্য চিনতে সাহায্য করতে পারে।",
+        "সেই সন্ধ্যায় Nova Postline ফোনে Meadowfold-এ সংশোধনের খবর জানায়। বিক্রি বন্ধ হয়েছে শুনে Rain স্বস্তি পায়। যে তাকে কষ্ট দিয়েছে, তাকে অনুমোদনের বার্তা দিতে হবে না।"
+      ],
+      "captions": [
+        "পরদিন সকালে Nova ফেরত যাওয়া লেন্সটির খোঁজে প্রদর্শনীর দোকানে ঢোকে। কাউন্টারে Vex Rain-এর পুরোনো ছবি থেকে বানানো নিষ্ঠুর একটি কার্টুন বিক্রি করছে। কার্টুনের ঠাট্টা Rain কী করেছে তার প্রমাণ নয়।\n\nVex: \"এ তো শুধু একটা ছবি।\"",
+        "Nova কার্টুনের পাশে Bellara থেকে আনা তৃণভূমির সম্পূর্ণ ছবিটি রাখে। খামারবাড়ি আর খালি ঘাস দেখা গেলে ঘটনাটির হারানো প্রেক্ষাপট ফিরে আসে। Rain কঠিন একটি পরিবর্তনের মধ্যে দিয়ে যাচ্ছে; দোকানে দেখানোর জন্য সে কোনো দানব নয়।\n\nNova: \"তবু এটা একজনের জীবন।\"",
+        "Vex প্রদর্শনের নিচে ক্রেতাদের টাঙানো বিদ্রূপের চিরকুটগুলো দেখে। ছবির প্রভাব ক্ষণিকের হাসিতেই থামেনি। Beam অপেক্ষা করে। শুধু নিজের উদ্দেশ্যের কথা বলে এই ফল আর এড়াতে পারে না Vex।\n\nVex: \"ভাবিনি ওরা এসব চালিয়ে যাবে।\"",
+        "Beam আরও সুন্দর করে ক্ষমা চাইতে বলে না। সে প্রদর্শনটির দিকে দেখায়। কার্টুন সরানো আর মিথ্যা কথা সংশোধন করা Vex-এর হাতে। Rain তাকে ক্ষমা করুক বা না করুক, এই কাজগুলো সে করতে পারে।\n\nBeam: \"তাহলে থামাতে সাহায্য করুন। এখান থেকেই শুরু করুন।\"",
+        "Vex কার্টুন বিক্রি বন্ধ করে। প্রদর্শনে সম্পূর্ণ ছবি আর সংশোধনটি রাখে। এই কাজেই Nova-এর আনা ছবিটি এখানে থেকে যায়। দোকানে সত্যিকারের পরিবর্তন হয়েছে, কিন্তু Rain-কে কষ্ট পাওয়া বন্ধ করতে বলা হয় না।\n\nVex: \"আমি নিষ্ঠুরভাবে এটা বানিয়েছিলাম। Rain আমার কোনো ক্ষতি করেনি।\"",
+        "কার্টুন সরানোর পরে Quest আবার লেন্সের খোঁজে মন দেয়। Vex আলাদা একটি ফাইল খোলে: দোকান থেকে ফেরত পাঠানো মালপত্রের নথি। সম্পূর্ণ ছবিতে পার্সেল আর প্রদর্শনীর সিল দেখা যায়। সেটি গন্তব্য চিনতে সাহায্য করতে পারে।\n\nVex: \"ওটা ফেরত পাঠানোর কাজ আমি করেছিলাম। এই হলো সেই ছবি, Rain-এর ছবি নয়।\"",
+        "সেই সন্ধ্যায় Nova Postline ফোনে Meadowfold-এ সংশোধনের খবর জানায়। বিক্রি বন্ধ হয়েছে শুনে Rain স্বস্তি পায়। যে তাকে কষ্ট দিয়েছে, তাকে অনুমোদনের বার্তা দিতে হবে না।\n\nRain [Postline-এর তারযুক্ত ফোনে]: \"বন্ধ হয়েছে জেনে ভালো লাগছে। কিন্তু এখনও কষ্ট হচ্ছে।\"\nNova [Postline-এর তারযুক্ত ফোনে]: \"কাউকে অন্য রকম উত্তর দেওয়ার দায় তোমার নেই।\""
+      ],
+      "introduction": "ফেরত পাঠানোর হারানো নথি খুঁজতে বন্ধুরা Nacre-এর প্রদর্শনীর দোকানে আসে। Vex সেখানে Rain-এর ছড়িয়ে পড়া ছবি দিয়ে বানানো নিষ্ঠুর কার্টুনও বিক্রি করে। Nova এই ক্ষতি থামানোর দাবি জানায়। Quest চালানের খোঁজটিকে আলাদা রাখে।",
+      "title": "ঠাট্টার রয়ে যাওয়া ক্ষত"
+    },
+    "cs": {
+      "altTexts": [
+        "Druhý den ráno Nova vejde do výstavního obchodu, aby se zeptala na vrácenou čočku. Vex na pultu prodává karikaturu podle staré Rainovy fotografie. Vtip není důkaz toho, co Rain udělal.",
+        "Nova položí vedle karikatury celý snímek louky z Bellary. Statek a prázdná tráva vrátí souvislosti, které vtip odstranil. Rain prochází obtížnou změnou; není to příšera určená do výlohy.",
+        "Vex se podívá na posměšné vzkazy, které zákazníci připíchli pod vystavený obrázek. Snímek vyvolal víc než jedno zasmání. Beam počká, až Vex uvidí následky, které už nemůže odbýt poukazem na svůj původní záměr.",
+        "Beam nežádá od Vexe lepší výmluvu. Ukáže na výlohu. Vex může karikaturu odstranit a nepravdivé tvrzení opravit bez ohledu na to, jestli mu Rain někdy odpustí.",
+        "Vex stáhne karikaturu z prodeje a vystaví místo ní celý snímek s opravou. Fotografie, kterou přinesla Nova, tu za tímto účelem zůstane. Je to skutečná změna v obchodě, ne požadavek, aby se Rain přestal cítit zraněný.",
+        "Po stažení karikatury se Quest vrátí k chybějící čočce. Vex otevře jinou složku: doklady o vrácené zásilce. Neoříznutá fotografie pořízená při odeslání ukazuje balík a výstavní pečeť, podle níž mohou určit jeho cíl.",
+        "Toho večera Nova přes Postline oznámí Rainovi na louce Meadowfold, že byla zveřejněna oprava. Rainovi se uleví, že prodej skončil. Nemusí člověka, který mu ublížil, ujišťovat, že je všechno v pořádku."
+      ],
+      "captions": [
+        "Druhý den ráno Nova vejde do výstavního obchodu, aby se zeptala na vrácenou čočku. Vex na pultu prodává karikaturu podle staré Rainovy fotografie. Vtip není důkaz toho, co Rain udělal.\n\nVex: „Je to jen obrázek.“",
+        "Nova položí vedle karikatury celý snímek louky z Bellary. Statek a prázdná tráva vrátí souvislosti, které vtip odstranil. Rain prochází obtížnou změnou; není to příšera určená do výlohy.\n\nNova: „Pořád je to něčí život.“",
+        "Vex se podívá na posměšné vzkazy, které zákazníci připíchli pod vystavený obrázek. Snímek vyvolal víc než jedno zasmání. Beam počká, až Vex uvidí následky, které už nemůže odbýt poukazem na svůj původní záměr.\n\nVex: „Nenapadlo mě, že v tom budou pokračovat.“",
+        "Beam nežádá od Vexe lepší výmluvu. Ukáže na výlohu. Vex může karikaturu odstranit a nepravdivé tvrzení opravit bez ohledu na to, jestli mu Rain někdy odpustí.\n\nBeam: „Tak to pomoz zastavit. Začni tady.“",
+        "Vex stáhne karikaturu z prodeje a vystaví místo ní celý snímek s opravou. Fotografie, kterou přinesla Nova, tu za tímto účelem zůstane. Je to skutečná změna v obchodě, ne požadavek, aby se Rain přestal cítit zraněný.\n\nVex: „Já z toho udělal něco krutého. Rain mi nic neudělal.“",
+        "Po stažení karikatury se Quest vrátí k chybějící čočce. Vex otevře jinou složku: doklady o vrácené zásilce. Neoříznutá fotografie pořízená při odeslání ukazuje balík a výstavní pečeť, podle níž mohou určit jeho cíl.\n\nVex: „To vrácení jsem vyřizoval já. Tady je fotografie zásilky při odeslání — ne Rainův portrét.“",
+        "Toho večera Nova přes Postline oznámí Rainovi na louce Meadowfold, že byla zveřejněna oprava. Rainovi se uleví, že prodej skončil. Nemusí člověka, který mu ublížil, ujišťovat, že je všechno v pořádku.\n\nRain [po pevné lince Postline]: „Jsem rád, že to přestalo. Pořád to bolí.“\nNova [po pevné lince Postline]: „Nikomu nedlužíš jinou odpověď.“"
+      ],
+      "introduction": "Chybějící záznam o vrácení přivedl přátele do výstavního obchodu v Nacre. Prodavač Vex tam také prodává krutou karikaturu podle kolující Rainovy fotografie. Nova trvá na tom, aby ubližování skončilo, zatímco Quest drží pátrání po zásilce odděleně.",
+      "title": "Vtip, který zůstal"
+    },
+    "de": {
+      "altTexts": [
+        "Am nächsten Morgen betritt Nova den Ausstellungsladen, um nach der zurückgegebenen Linse zu fragen. An der Theke verkauft Vex eine Karikatur, die aus Rains altem Foto entstanden ist. Der Witz ist kein Beweis dafür, was Rain getan hat.",
+        "Nova platziert den vollständigen Wiesendruck von Bellara neben der Karikatur. Das Bauernhaus und das leere Gras stellen den Kontext wieder her, den der Witz entfernt hat. Rain ist jemand, der eine schwierige Veränderung durchlebt, und kein Monster, das für ein Schaufenster erfunden wurde.",
+        "Vex blickt auf die spöttischen Antwortzettel, die Kunden unter seiner Auslage angeheftet haben. Das Bild hat mehr als ein flüchtiges Lachen hervorgerufen. Beam wartet, während Vex eine Konsequenz sieht, die er nicht länger als private Absicht abtun kann.",
+        "Beam bittet Vex nicht um eine bessere Entschuldigung. Er zeigt auf die Auslage selbst. Vex kann die Karikatur entfernen und die Behauptung korrigieren, unabhängig davon, ob Rain ihm jemals verzeiht oder nicht.",
+        "Vex nimmt die Karikatur aus dem Verkauf und ersetzt die Anzeige durch das vollständige Foto und eine Korrektur. Der von Nova mitgebrachte Fotoabzug bleibt zu diesem Zweck hier. Es ist eine echte Veränderung für den Shop und keine Forderung, dass Rain aufhört, sich verletzt zu fühlen.",
+        "Nachdem die Karikatur zurückgezogen wurde, kehrt Quest zur fehlenden Linse zurück. Vex öffnet eine andere Datei: die Rücksendepapiere des Shops. Das unbeschnittene Versandfoto zeigt das Paket und ein Ausstellungssiegel, das möglicherweise erkennen lässt, wohin es gesendet wurde.",
+        "An diesem Abend meldet Nova die Korrektur über die Postline an Meadowfold. Rain ist erleichtert, dass der Verkauf gestoppt wurde. Er muss der Person, die ihn verletzt hat, nicht versichern, dass alles wieder gut ist."
+      ],
+      "captions": [
+        "Am nächsten Morgen betritt Nova den Ausstellungsladen, um nach der zurückgegebenen Linse zu fragen. An der Theke verkauft Vex eine Karikatur, die aus Rains altem Foto entstanden ist. Der Witz ist kein Beweis dafür, was Rain getan hat.\n\nVex: „Es ist nur ein Bild.“",
+        "Nova platziert den vollständigen Wiesendruck von Bellara neben der Karikatur. Das Bauernhaus und das leere Gras stellen den Kontext wieder her, den der Witz entfernt hat. Rain ist jemand, der eine schwierige Veränderung durchlebt, und kein Monster, das für ein Schaufenster erfunden wurde.\n\nNova: „Es ist immer noch jemandes Leben.“",
+        "Vex blickt auf die spöttischen Antwortzettel, die Kunden unter seiner Auslage angeheftet haben. Das Bild hat mehr als ein flüchtiges Lachen hervorgerufen. Beam wartet, während Vex eine Konsequenz sieht, die er nicht länger als private Absicht abtun kann.\n\nVex: „Ich hätte nicht gedacht, dass sie so weitermachen würden.“",
+        "Beam bittet Vex nicht um eine bessere Entschuldigung. Er zeigt auf die Auslage selbst. Vex kann die Karikatur entfernen und die Behauptung korrigieren, unabhängig davon, ob Rain ihm jemals verzeiht oder nicht.\n\nBeam: „Dann hilf, es zu stoppen. Fang hier an.“",
+        "Vex nimmt die Karikatur aus dem Verkauf und ersetzt die Anzeige durch das vollständige Foto und eine Korrektur. Der von Nova mitgebrachte Fotoabzug bleibt zu diesem Zweck hier. Es ist eine echte Veränderung für den Shop und keine Forderung, dass Rain aufhört, sich verletzt zu fühlen.\n\nVex: „Meine Darstellung war grausam. Rain hat mir nichts angetan.“",
+        "Nachdem die Karikatur zurückgezogen wurde, kehrt Quest zur fehlenden Linse zurück. Vex öffnet eine andere Datei: die Rücksendepapiere des Shops. Das unbeschnittene Versandfoto zeigt das Paket und ein Ausstellungssiegel, das möglicherweise erkennen lässt, wohin es gesendet wurde.\n\nVex: „Ich habe mich um die Rücksendung gekümmert. Hier ist das Versandfoto – nicht das Porträt von Rain.“",
+        "An diesem Abend meldet Nova die Korrektur über die Postline an Meadowfold. Rain ist erleichtert, dass der Verkauf gestoppt wurde. Er muss der Person, die ihn verletzt hat, nicht versichern, dass alles wieder gut ist.\n\nRain [über die Postline-Leitung]: „Ich bin froh, dass es aufgehört hat. Ich bin immer noch verletzt.“\nNova [über die Postline-Leitung]: „Du schuldest niemandem eine andere Antwort.“"
+      ],
+      "introduction": "Der fehlende Rücksendenachweis hat die Freunde zum Ausstellungsladen von Nacre geführt. Sein Verkäufer, Vex, verkauft auch eine grausame Karikatur, die auf Rains kursierendem Foto basiert. Nova besteht darauf, dass der Schaden aufhört, während Quest die Sendungsuntersuchung getrennt hält.",
+      "title": "Der Witz, der blieb"
+    },
+    "en": {
+      "altTexts": [
+        "The next morning, Nova enters the exhibition store to ask about the returned lens. At the counter, Vex is selling a cartoon made from the old photograph of Rain. The joke is not evidence about what Rain has done.",
+        "Nova places the full meadow print from Bellara beside the cartoon. The farmhouse and empty grass restore the context that the joke removed. Rain is a person living through a difficult change, not a monster supplied for the window.",
+        "Vex looks at the mocking response slips customers have pinned beneath his display. The picture has invited more than one passing laugh. Beam waits while Vex sees a consequence he can no longer dismiss as private intent.",
+        "Beam does not ask Vex to perform a better apology. He points to the display itself. Removing the cartoon and correcting the claim are things Vex can do, whether or not Rain ever forgives him.",
+        "Vex withdraws the cartoon from sale and replaces the display with the full photograph and a correction. Nova's carried print stays here for that purpose. It is a real change to the shop, not a demand that Rain stop feeling hurt.",
+        "With the cartoon withdrawn, Quest returns to the missing lens. Vex opens a different file: the store's return-shipment papers. Its uncropped dispatch photograph shows the parcel and an exhibition seal that may identify where it was sent.",
+        "That evening, Nova reports the correction to Meadowfold over the Postline. Rain is relieved that the sale stopped. He is not asked to send an approving message back to the person who hurt him."
+      ],
+      "captions": [
+        "The next morning, Nova enters the exhibition store to ask about the returned lens. At the counter, Vex is selling a cartoon made from the old photograph of Rain. The joke is not evidence about what Rain has done.\n\nVex: “It's only a picture.”",
+        "Nova places the full meadow print from Bellara beside the cartoon. The farmhouse and empty grass restore the context that the joke removed. Rain is a person living through a difficult change, not a monster supplied for the window.\n\nNova: “It's still someone's life.”",
+        "Vex looks at the mocking response slips customers have pinned beneath his display. The picture has invited more than one passing laugh. Beam waits while Vex sees a consequence he can no longer dismiss as private intent.\n\nVex: “I didn't think they'd keep doing it.”",
+        "Beam does not ask Vex to perform a better apology. He points to the display itself. Removing the cartoon and correcting the claim are things Vex can do, whether or not Rain ever forgives him.\n\nBeam: “Then help stop it. Start here.”",
+        "Vex withdraws the cartoon from sale and replaces the display with the full photograph and a correction. Nova's carried print stays here for that purpose. It is a real change to the shop, not a demand that Rain stop feeling hurt.\n\nVex: “I made this cruel. Rain did nothing to me.”",
+        "With the cartoon withdrawn, Quest returns to the missing lens. Vex opens a different file: the store's return-shipment papers. Its uncropped dispatch photograph shows the parcel and an exhibition seal that may identify where it was sent.\n\nVex: “I handled that return. Here's the dispatch photograph—not Rain's portrait.”",
+        "That evening, Nova reports the correction to Meadowfold over the Postline. Rain is relieved that the sale stopped. He is not asked to send an approving message back to the person who hurt him.\n\nRain [wired Postline]: “I'm glad it stopped. I'm still hurt.”\nNova [wired Postline]: “You don't owe anyone a different answer.”"
+      ],
+      "introduction": "The missing return record has led the friends to Nacre's exhibition store. Its seller, Vex, is also selling a cruel cartoon based on the circulating photograph of Rain. Nova insists that the harm stop while Quest keeps the shipment investigation separate.",
+      "title": "The Joke That Stayed"
+    },
+    "es": {
+      "altTexts": [
+        "A la mañana siguiente, Nova entra a la tienda de exhibición para preguntar por la lente devuelta. En el mostrador, Vex vende una caricatura hecha a partir de la fotografía antigua de Rain. El chiste no es evidencia de lo que ha hecho Rain.",
+        "Nova coloca la impresión completa del prado de Bellara al lado de la caricatura. La granja y el césped vacío restauran el contexto que el chiste eliminó. Rain es una persona que vive un cambio difícil, no un monstruo inventado para un escaparate.",
+        "Vex mira las hojas de respuesta burlonas que los clientes han colocado debajo de su expositor. La imagen ha provocado más de una risa pasajera. Beam espera mientras Vex ve una consecuencia que ya no puede descartar como una intención privada.",
+        "Beam no le pide a Vex que realice una mejor disculpa. Señala el propio expositor. Eliminar la caricatura y corregir la afirmación son cosas que Vex puede hacer, ya sea que Rain lo perdone o no.",
+        "Vex retira la caricatura de la venta y reemplaza la exhibición con la fotografía completa y una corrección. La impresión llevada por Nova se queda aquí para ese propósito. Es un cambio real en la tienda, no una exigencia de que Rain deje de sentirse herido.",
+        "Con la caricatura retirada, Quest vuelve a la lente perdida. Vex abre un archivo diferente: los documentos de devolución y envío de la tienda. Su fotografía de envío sin recortar muestra el paquete y un sello de exhibición que puede identificar dónde fue enviado.",
+        "Esa noche, Nova informa la corrección a Meadowfold a través del Postline. Rain se siente aliviado de que la venta se haya detenido. No tiene que asegurarle a la persona que lo lastimó que ya está todo bien."
+      ],
+      "captions": [
+        "A la mañana siguiente, Nova entra a la tienda de exhibición para preguntar por la lente devuelta. En el mostrador, Vex vende una caricatura hecha a partir de la fotografía antigua de Rain. El chiste no es evidencia de lo que ha hecho Rain.\n\nVex: \"Es sólo una imagen\".",
+        "Nova coloca la impresión completa del prado de Bellara al lado de la caricatura. La granja y el césped vacío restauran el contexto que el chiste eliminó. Rain es una persona que vive un cambio difícil, no un monstruo inventado para un escaparate.\n\nNova: “Sigue siendo la vida de alguien”.",
+        "Vex mira las hojas de respuesta burlonas que los clientes han colocado debajo de su expositor. La imagen ha provocado más de una risa pasajera. Beam espera mientras Vex ve una consecuencia que ya no puede descartar como una intención privada.\n\nVex: “No pensé que seguirían haciéndolo”.",
+        "Beam no le pide a Vex que realice una mejor disculpa. Señala el propio expositor. Eliminar la caricatura y corregir la afirmación son cosas que Vex puede hacer, ya sea que Rain lo perdone o no.\n\nBeam: \"Entonces ayuda a detenerlo. Empieza aquí\".",
+        "Vex retira la caricatura de la venta y reemplaza la exhibición con la fotografía completa y una corrección. La impresión llevada por Nova se queda aquí para ese propósito. Es un cambio real en la tienda, no una exigencia de que Rain deje de sentirse herido.\n\nVex: \"Mi dibujo fue cruel. Rain no me hizo nada\".",
+        "Con la caricatura retirada, Quest vuelve a la lente perdida. Vex abre un archivo diferente: los documentos de devolución y envío de la tienda. Su fotografía de envío sin recortar muestra el paquete y un sello de exhibición que puede identificar dónde fue enviado.\n\nVex: \"Yo me encargué de esa devolución. Aquí está la fotografía del envío, no el retrato de Rain\".",
+        "Esa noche, Nova informa la corrección a Meadowfold a través del Postline. Rain se siente aliviado de que la venta se haya detenido. No tiene que asegurarle a la persona que lo lastimó que ya está todo bien.\n\nRain [por Postline con cable]: \"Me alegro de que haya terminado. Todavía estoy herido\".\nNova [por Postline con cable]: “No le debes a nadie una respuesta diferente”."
+      ],
+      "introduction": "El registro de devolución faltante llevó a los amigos a la tienda de exhibición de Nacre. Su vendedor, Vex, también vende una caricatura cruel basada en la fotografía que circula de Rain. Nova insiste en que el daño cese mientras que Quest mantiene la investigación del envío por separado.",
+      "title": "El chiste que se quedó"
+    },
+    "fr": {
+      "altTexts": [
+        "Le lendemain matin, Nova entre dans le magasin d'exposition pour poser des questions sur la lentille renvoyée. Au comptoir, Vex vend une caricature réalisée à partir de l'ancienne photographie de Rain. La blague ne constitue pas une preuve de ce que Rain a fait.",
+        "Nova place le tirage complet de la prairie de Bellara à côté de la caricature. La ferme et l’herbe vide restituent le contexte que la blague a supprimé. Rain est une personne vivant un changement difficile, pas un monstre inventé pour une vitrine.",
+        "Vex examine les réponses moqueuses que les clients ont épinglées sous son présentoir. La photo a suscité plus d’un rire passager. Beam attend pendant que Vex voit des conséquences qu'il ne peut plus justifier en disant qu'il ne les avait pas voulues.",
+        "Beam ne demande pas à Vex de présenter de meilleures excuses. Il montre le présentoir lui-même. Supprimer la caricature et corriger l'affirmation sont des choses que Vex peut faire, que Rain lui pardonne ou non.",
+        "Vex retire la caricature de la vente et remplace l'affichage par la photographie complète et une correction. Le tirage apporté par Nova reste ici à cet effet. Il s'agit d'un véritable changement dans le magasin, et non d'une exigence pour que Rain cesse de se sentir blessé.",
+        "La caricature retirée, Quest revient à la lentille manquante. Vex ouvre un autre fichier : les papiers de retour du magasin. Sa photographie d'expédition non recadrée montre le colis et un sceau d'exposition qui peut identifier l'endroit où il a été envoyé.",
+        "Ce soir-là, Nova rapporte la correction à Meadowfold via Postline. Rain est soulagé que la vente ait été interrompue. On ne lui demande pas d'envoyer un message d'approbation à la personne qui l'a blessé."
+      ],
+      "captions": [
+        "Le lendemain matin, Nova entre dans le magasin d'exposition pour poser des questions sur la lentille renvoyée. Au comptoir, Vex vend une caricature réalisée à partir de l'ancienne photographie de Rain. La blague ne constitue pas une preuve de ce que Rain a fait.\n\nVex : « Ce n'est qu'une image. »",
+        "Nova place le tirage complet de la prairie de Bellara à côté de la caricature. La ferme et l’herbe vide restituent le contexte que la blague a supprimé. Rain est une personne vivant un changement difficile, pas un monstre inventé pour une vitrine.\n\nNova : « C'est toujours la vie de quelqu'un. »",
+        "Vex examine les réponses moqueuses que les clients ont épinglées sous son présentoir. La photo a suscité plus d’un rire passager. Beam attend pendant que Vex voit des conséquences qu'il ne peut plus justifier en disant qu'il ne les avait pas voulues.\n\nVex : « Je ne pensais pas qu'ils continueraient à faire ça. »",
+        "Beam ne demande pas à Vex de présenter de meilleures excuses. Il montre le présentoir lui-même. Supprimer la caricature et corriger l'affirmation sont des choses que Vex peut faire, que Rain lui pardonne ou non.\n\nBeam : « Alors aide à arrêter ça. Commence ici. »",
+        "Vex retire la caricature de la vente et remplace l'affichage par la photographie complète et une correction. Le tirage apporté par Nova reste ici à cet effet. Il s'agit d'un véritable changement dans le magasin, et non d'une exigence pour que Rain cesse de se sentir blessé.\n\nVex : « J'ai rendu cela cruel. Rain ne m'a rien fait. »",
+        "La caricature retirée, Quest revient à la lentille manquante. Vex ouvre un autre fichier : les papiers de retour du magasin. Sa photographie d'expédition non recadrée montre le colis et un sceau d'exposition qui peut identifier l'endroit où il a été envoyé.\n\nVex : « J'ai géré ce retour. Voici la photo d'expédition, pas le portrait de Rain. »",
+        "Ce soir-là, Nova rapporte la correction à Meadowfold via Postline. Rain est soulagé que la vente ait été interrompue. On ne lui demande pas d'envoyer un message d'approbation à la personne qui l'a blessé.\n\nRain [par la ligne filaire Postline] : « Je suis content que ça se soit arrêté. Je suis toujours blessé. »\nNova [par la ligne filaire Postline] : « Tu ne dois une réponse différente à personne. »"
+      ],
+      "introduction": "Le dossier de retour manquant a conduit les amis au magasin d'exposition de Nacre. Son vendeur, Vex, vend également une caricature cruelle basée sur la photographie en circulation de Rain. Nova insiste pour que ces attaques cessent tandis que Quest maintient l'enquête sur l'expédition séparément.",
+      "title": "La blague qui est restée"
+    },
+    "hi": {
+      "altTexts": [
+        "अगली सुबह, Nova लौटे लेंस के बारे में पूछने के लिए प्रदर्शनी स्टोर में प्रवेश करती है। काउंटर पर Vex, Rain की पुरानी तस्वीर से बना कार्टून बेच रहा है। यह मजाक इस बात का सबूत नहीं है कि Rain ने क्या किया है।",
+        "Nova कार्टून के पास Bellara से लाई मैदान की पूरी तस्वीर रखती है। फार्महाउस और खाली घास दिखने पर घटना का छूटा संदर्भ समझ आता है। Rain मुश्किल बदलाव से गुज़र रहा है; वह दुकान में दिखाने के लिए रखा राक्षस नहीं।",
+        "Vex ग्राहकों की टाँगी मज़ाक उड़ाने वाली पर्चियाँ देखता है। तस्वीर का असर एक पल की हँसी पर नहीं रुका। Beam इंतज़ार करता है। अपनी नीयत बताकर अब Vex इस नतीजे को नज़रअंदाज़ नहीं कर सकता।",
+        "Beam बेहतर माफ़ी माँगने को नहीं कहता। वह लगी तस्वीरों की ओर दिखाता है। कार्टून हटाना और झूठ सुधारना Vex के हाथ में है। Rain माफ़ करे या न करे, ये काम किए जा सकते हैं।",
+        "Vex कार्टून बेचना बंद करता है। उसकी जगह पूरी तस्वीर और सुधार लगाता है। Nova की लाई प्रति इसी काम के लिए यहाँ रहती है। दुकान में असली बदलाव है, Rain से दुखी होना बंद करने की माँग नहीं।",
+        "कार्टून हटने पर Quest फिर लेंस की खोज पर ध्यान देता है। Vex अलग फ़ाइल खोलता है: दुकान से लौटाए माल के कागज़। पूरी तस्वीर में पार्सल और प्रदर्शनी की मुहर हैं। उससे पता चल सकता है कि वह कहाँ भेजा गया।",
+        "उस शाम Nova Postline फ़ोन पर Meadowfold में सुधार की खबर देती है। बिक्री रुकने पर Rain को राहत मिलती है। जिसने दुख पहुँचाया, उसे स्वीकृति का संदेश भेजना ज़रूरी नहीं।"
+      ],
+      "captions": [
+        "अगली सुबह, Nova लौटे लेंस के बारे में पूछने के लिए प्रदर्शनी स्टोर में प्रवेश करती है। काउंटर पर Vex, Rain की पुरानी तस्वीर से बना कार्टून बेच रहा है। यह मजाक इस बात का सबूत नहीं है कि Rain ने क्या किया है।\n\nVex: \"यह केवल एक तस्वीर है।\"",
+        "Nova कार्टून के पास Bellara से लाई मैदान की पूरी तस्वीर रखती है। फार्महाउस और खाली घास दिखने पर घटना का छूटा संदर्भ समझ आता है। Rain मुश्किल बदलाव से गुज़र रहा है; वह दुकान में दिखाने के लिए रखा राक्षस नहीं।\n\nNova: \"फिर भी यह किसी की ज़िंदगी है।\"",
+        "Vex ग्राहकों की टाँगी मज़ाक उड़ाने वाली पर्चियाँ देखता है। तस्वीर का असर एक पल की हँसी पर नहीं रुका। Beam इंतज़ार करता है। अपनी नीयत बताकर अब Vex इस नतीजे को नज़रअंदाज़ नहीं कर सकता।\n\nVex: \"नहीं सोचा था कि वे यह करते रहेंगे।\"",
+        "Beam बेहतर माफ़ी माँगने को नहीं कहता। वह लगी तस्वीरों की ओर दिखाता है। कार्टून हटाना और झूठ सुधारना Vex के हाथ में है। Rain माफ़ करे या न करे, ये काम किए जा सकते हैं।\n\nBeam: \"तो इसे रोकने में मदद करो। यहीं से शुरू करो।\"",
+        "Vex कार्टून बेचना बंद करता है। उसकी जगह पूरी तस्वीर और सुधार लगाता है। Nova की लाई प्रति इसी काम के लिए यहाँ रहती है। दुकान में असली बदलाव है, Rain से दुखी होना बंद करने की माँग नहीं।\n\nVex: \"मैंने इसे बेरहमी से बनाया था। Rain ने मेरा कुछ नहीं बिगाड़ा।\"",
+        "कार्टून हटने पर Quest फिर लेंस की खोज पर ध्यान देता है। Vex अलग फ़ाइल खोलता है: दुकान से लौटाए माल के कागज़। पूरी तस्वीर में पार्सल और प्रदर्शनी की मुहर हैं। उससे पता चल सकता है कि वह कहाँ भेजा गया।\n\nVex: \"उसे लौटाने का काम मैंने किया था। यह भेजने की तस्वीर है, Rain की नहीं।\"",
+        "उस शाम Nova Postline फ़ोन पर Meadowfold में सुधार की खबर देती है। बिक्री रुकने पर Rain को राहत मिलती है। जिसने दुख पहुँचाया, उसे स्वीकृति का संदेश भेजना ज़रूरी नहीं।\n\nRain [Postline की तार वाली फ़ोन लाइन पर]: \"अच्छा हुआ रुक गया। पर अभी भी दुख है।\"\nNova [Postline की तार वाली फ़ोन लाइन पर]: \"किसी को अलग जवाब देना तुम्हारी ज़िम्मेदारी नहीं।\""
+      ],
+      "introduction": "वापसी का गायब रिकॉर्ड दोस्तों को Nacre की प्रदर्शनी की दुकान लाता है। Vex, Rain की फैली तस्वीर पर बना बेरहम कार्टून भी बेचता है। Nova नुकसान रोकने की माँग करती है। Quest माल की खोज को उससे अलग रखता है।",
+      "title": "मज़ाक की रह गई चोट"
+    },
+    "id": {
+      "altTexts": [
+        "Keesokan paginya, Nova memasuki toko pameran untuk menanyakan tentang lensa yang dikembalikan. Di konternya, Vex menjual kartun yang dibuat dari foto lama Rain. Lelucon tersebut bukanlah bukti atas apa yang telah dilakukan Rain.",
+        "Nova menempatkan cetakan padang rumput lengkap dari Bellara di samping kartun. Rumah pertanian dan rumput kosong mengembalikan konteks yang dihilangkan oleh lelucon tersebut. Rain adalah seseorang yang sedang mengalami perubahan sulit, bukan monster rekaan untuk dipajang di jendela.",
+        "Vex melihat slip tanggapan mengejek yang disematkan pelanggan di bawah pajangannya. Gambar itu telah mengundang lebih dari satu tawa. Beam menunggu sementara Vex melihat konsekuensi yang tidak dapat lagi dia anggap sebagai niat pribadi.",
+        "Beam tidak meminta Vex untuk melakukan permintaan maaf yang lebih baik. Dia menunjuk ke pajangan itu sendiri. Menghapus kartun tersebut dan memperbaiki klaim adalah hal yang dapat dilakukan Vex, terlepas dari apakah Rain memaafkannya atau tidak.",
+        "Vex menarik kartun tersebut dari penjualan dan mengganti tampilan dengan foto lengkap dan koreksi. Cetakan yang dibawa Nova tetap di sini untuk tujuan itu. Ini adalah perubahan nyata bagi toko, bukan tuntutan agar Rain berhenti merasa dirugikan.",
+        "Dengan ditariknya kartun tersebut, Quest kembali ke lensa yang hilang. Vex membuka file lain: dokumen pengiriman kembali toko. Foto pengirimannya yang tidak dipotong menunjukkan paket tersebut dan segel pameran yang dapat mengidentifikasi ke mana paket tersebut dikirim.",
+        "Malam itu, Nova melaporkan koreksi ke Meadowfold melalui Postline. Rain merasa lega karena penjualannya terhenti. Ia tidak perlu meyakinkan orang yang menyakitinya bahwa semuanya sudah baik-baik saja."
+      ],
+      "captions": [
+        "Keesokan paginya, Nova memasuki toko pameran untuk menanyakan tentang lensa yang dikembalikan. Di konternya, Vex menjual kartun yang dibuat dari foto lama Rain. Lelucon tersebut bukanlah bukti atas apa yang telah dilakukan Rain.\n\nVex: “Itu hanya gambar.”",
+        "Nova menempatkan cetakan padang rumput lengkap dari Bellara di samping kartun. Rumah pertanian dan rumput kosong mengembalikan konteks yang dihilangkan oleh lelucon tersebut. Rain adalah seseorang yang sedang mengalami perubahan sulit, bukan monster rekaan untuk dipajang di jendela.\n\nNova: “Ini tetap kehidupan seseorang.”",
+        "Vex melihat slip tanggapan mengejek yang disematkan pelanggan di bawah pajangannya. Gambar itu telah mengundang lebih dari satu tawa. Beam menunggu sementara Vex melihat konsekuensi yang tidak dapat lagi dia anggap sebagai niat pribadi.\n\nVex: “Aku tidak berpikir mereka akan terus melakukannya.”",
+        "Beam tidak meminta Vex untuk melakukan permintaan maaf yang lebih baik. Dia menunjuk ke pajangan itu sendiri. Menghapus kartun tersebut dan memperbaiki klaim adalah hal yang dapat dilakukan Vex, terlepas dari apakah Rain memaafkannya atau tidak.\n\nBeam: \"Kalau begitu bantu hentikan. Mulai dari sini.\"",
+        "Vex menarik kartun tersebut dari penjualan dan mengganti tampilan dengan foto lengkap dan koreksi. Cetakan yang dibawa Nova tetap di sini untuk tujuan itu. Ini adalah perubahan nyata bagi toko, bukan tuntutan agar Rain berhenti merasa dirugikan.\n\nVex: \"Aku membuat ini kejam. Rain tidak melakukan apa pun terhadap aku.\"",
+        "Dengan ditariknya kartun tersebut, Quest kembali ke lensa yang hilang. Vex membuka file lain: dokumen pengiriman kembali toko. Foto pengirimannya yang tidak dipotong menunjukkan paket tersebut dan segel pameran yang dapat mengidentifikasi ke mana paket tersebut dikirim.\n\nVex: \"Aku yang menangani pengembalian itu. Ini foto pengirimannya—bukan potret Rain.\"",
+        "Malam itu, Nova melaporkan koreksi ke Meadowfold melalui Postline. Rain merasa lega karena penjualannya terhenti. Ia tidak perlu meyakinkan orang yang menyakitinya bahwa semuanya sudah baik-baik saja.\n\nRain [melalui Postline berkabel]: “Aku lega penjualannya sudah dihentikan. Aku masih terluka.”\nNova [melalui Postline berkabel]: “Kamu tidak perlu memberikan jawaban yang berbeda kepada siapa pun.”"
+      ],
+      "introduction": "Catatan pengembalian yang hilang telah membawa teman-teman ke toko pameran Nacre. Penjualnya, Vex, juga menjual kartun kejam berdasarkan foto Rain yang beredar. Nova menegaskan bahwa kerusakan harus dihentikan sementara Quest memisahkan penyelidikan pengiriman.",
+      "title": "Lelucon yang Tetap Ada"
+    },
+    "it": {
+      "altTexts": [
+        "La mattina successiva, Nova entra nel negozio della mostra per chiedere informazioni sulla lente restituita. Allo sportello, Vex vende una vignetta realizzata con la vecchia fotografia di Rain. La battuta non è una prova di ciò che ha fatto Rain.",
+        "Nova posiziona la stampa completa del prato di Bellara accanto alla vignetta. La cascina e l'erba vuota restituiscono il contesto che lo scherzo aveva rimosso. Rain è una persona che vive un cambiamento difficile, non un mostro inventato per una vetrina.",
+        "Vex guarda i biglietti di risposta beffardi che i clienti hanno appuntato sotto il suo display. L'immagine ha suscitato più di una risata fugace. Beam attende mentre Vex vede una conseguenza che non può più ignorare come intento privato.",
+        "Beam non chiede a Vex di scusarsi meglio. Indica il display stesso. Rimuovere la vignetta e correggere l'affermazione sono cose che Vex può fare, indipendentemente dal fatto che Rain lo perdoni o meno.",
+        "Vex ritira la vignetta dalla vendita e sostituisce l'esposizione con la fotografia completa e una correzione. La stampa portata da Nova rimane qui per quello scopo. È un vero cambiamento per il negozio, non una richiesta che Rain smetta di sentirsi ferito.",
+        "Con la vignetta ritirata, Quest ritorna alla lente mancante. Vex apre un file diverso: i documenti di spedizione del reso del negozio. La fotografia di spedizione non ritagliata mostra il pacco e un sigillo espositivo che potrebbe identificare dove è stato inviato.",
+        "Quella sera, Nova segnala la correzione a Meadowfold tramite la Postline. Rain è sollevato dal fatto che la vendita sia stata interrotta. Non deve rassicurare chi lo ha ferito dicendo che ormai va tutto bene."
+      ],
+      "captions": [
+        "La mattina successiva, Nova entra nel negozio della mostra per chiedere informazioni sulla lente restituita. Allo sportello, Vex vende una vignetta realizzata con la vecchia fotografia di Rain. La battuta non è una prova di ciò che ha fatto Rain.\n\nVex: \"È solo un'immagine.\"",
+        "Nova posiziona la stampa completa del prato di Bellara accanto alla vignetta. La cascina e l'erba vuota restituiscono il contesto che lo scherzo aveva rimosso. Rain è una persona che vive un cambiamento difficile, non un mostro inventato per una vetrina.\n\nNova: \"È pur sempre la vita di qualcuno.\"",
+        "Vex guarda i biglietti di risposta beffardi che i clienti hanno appuntato sotto il suo display. L'immagine ha suscitato più di una risata fugace. Beam attende mentre Vex vede una conseguenza che non può più ignorare come intento privato.\n\nVex: \"Non pensavo che avrebbero continuato a farlo.\"",
+        "Beam non chiede a Vex di scusarsi meglio. Indica il display stesso. Rimuovere la vignetta e correggere l'affermazione sono cose che Vex può fare, indipendentemente dal fatto che Rain lo perdoni o meno.\n\nBeam: \"Allora aiutaci a fermarlo. Inizia da qui.\"",
+        "Vex ritira la vignetta dalla vendita e sostituisce l'esposizione con la fotografia completa e una correzione. La stampa portata da Nova rimane qui per quello scopo. È un vero cambiamento per il negozio, non una richiesta che Rain smetta di sentirsi ferito.\n\nVex: \"Ho reso tutto questo crudele. Rain non mi ha fatto nulla.\"",
+        "Con la vignetta ritirata, Quest ritorna alla lente mancante. Vex apre un file diverso: i documenti di spedizione del reso del negozio. La fotografia di spedizione non ritagliata mostra il pacco e un sigillo espositivo che potrebbe identificare dove è stato inviato.\n\nVex: \"Ho gestito io la restituzione. Ecco la fotografia della spedizione, non il ritratto di Rain.\"",
+        "Quella sera, Nova segnala la correzione a Meadowfold tramite la Postline. Rain è sollevato dal fatto che la vendita sia stata interrotta. Non deve rassicurare chi lo ha ferito dicendo che ormai va tutto bene.\n\nRain [via Postline cablata]: \"Sono felice che tutto questo sia finito. Sono ancora ferito.\"\nNova [via Postline cablata]: \"Non devi a nessuno una risposta diversa.\""
+      ],
+      "introduction": "Il registro del reso mancante ha portato gli amici al negozio espositivo di Nacre. Il suo venditore, Vex, vende anche una vignetta crudele basata sulla fotografia circolante di Rain. Nova insiste affinché il danno finisca mentre Quest mantiene separate le indagini sulla spedizione.",
+      "title": "Lo scherzo che è rimasto"
+    },
+    "ja": {
+      "altTexts": [
+        "翌朝、Novaは返品されたレンズについて尋ねるために展示店に入りました。カウンターでは、Vex が Rain の古い写真から作られた漫画を販売しています。このジョークは、Rain が行ったことの証拠ではありません。",
+        "Nova は、Bellara の草原全体のプリントを漫画の横に配置します。農家と広々とした草地が写っていると、漫画が隠した状況が分かります。 Rain は困難な変化を経験している一人の住人であり、店の窓に飾るための怪物ではありません。",
+        "Vex は、顧客がディスプレイの下にピン留めした、あざけりの応答伝票を確認します。その絵は、一度きりの笑いでは済まない、さらなる嘲りを招いていました。 Beam は、Vex が自分の意図だけでは片づけられない結果を認識するまで待ちます。",
+        "Beam は Vex にもっと良い謝罪をするように要求しません。彼はディスプレイ自体を指さした。漫画を削除し、主張を訂正することは、Rainが彼を許すかどうかに関係なく、Vexにできることです。",
+        "Vex は漫画の販売を取り下げ、展示を、全体が写った写真と訂正文に差し替えます。 Nova の携行プリントはその目的のためにここに残ります。店が実際に行動を変えることと、Rainにもう傷つかないでほしいと求めることは別です。",
+        "漫画が撤回されたため、Questは再び、行方不明のレンズの調査に戻ります。 Vex は別のファイル、つまりストアの返送書類を開きます。切り取られていない発送写真には、小包と、発送先を特定できる展覧会の印が写っています。",
+        "その夜、Nova はポストラインで Meadowfold に訂正を報告します。 Rainは販売が止まってホッとしています。彼は、自分を傷つけた人に承認のメッセージを送り返すように求められません。"
+      ],
+      "captions": [
+        "翌朝、Novaは返品されたレンズについて尋ねるために展示店に入りました。カウンターでは、Vex が Rain の古い写真から作られた漫画を販売しています。このジョークは、Rain が行ったことの証拠ではありません。\n\nVex: 「ただの漫画ですよ。」",
+        "Nova は、Bellara の草原全体のプリントを漫画の横に配置します。農家と広々とした草地が写っていると、漫画が隠した状況が分かります。 Rain は困難な変化を経験している一人の住人であり、店の窓に飾るための怪物ではありません。\n\nNova: 「それでも、一人の人生のことなんです。」",
+        "Vex は、顧客がディスプレイの下にピン留めした、あざけりの応答伝票を確認します。その絵は、一度きりの笑いでは済まない、さらなる嘲りを招いていました。 Beam は、Vex が自分の意図だけでは片づけられない結果を認識するまで待ちます。\n\nVex: 「彼らがそれを続けるとは思わなかった。」",
+        "Beam は Vex にもっと良い謝罪をするように要求しません。彼はディスプレイ自体を指さした。漫画を削除し、主張を訂正することは、Rainが彼を許すかどうかに関係なく、Vexにできることです。\n\nBeam: 「それでは、それを止めるのを手伝ってください。ここから始めてください。」",
+        "Vex は漫画の販売を取り下げ、展示を、全体が写った写真と訂正文に差し替えます。 Nova の携行プリントはその目的のためにここに残ります。店が実際に行動を変えることと、Rainにもう傷つかないでほしいと求めることは別です。\n\nVex: 「ひどい扱いをしたのは私です。Rainに何かされたわけでもないのに。」",
+        "漫画が撤回されたため、Questは再び、行方不明のレンズの調査に戻ります。 Vex は別のファイル、つまりストアの返送書類を開きます。切り取られていない発送写真には、小包と、発送先を特定できる展覧会の印が写っています。\n\nVex: 「その返品は私が処理しました。これは発送時の写真です。Rain の肖像画ではありません。」",
+        "その夜、Nova はポストラインで Meadowfold に訂正を報告します。 Rainは販売が止まってホッとしています。彼は、自分を傷つけた人に承認のメッセージを送り返すように求められません。\n\nRain [Postline有線電話]: 「止まってよかったです。まだ傷が残っています。」\nNova [Postline有線電話]: 「あなたは誰にも違う答えをする義務はありません。」"
+      ],
+      "introduction": "紛失した返品記録が友人たちをNacreの展示ストアに導きました。その販売者であるVexは、出回っているRainの写真に基づいた残酷な漫画も販売している。 NovaはRainを傷つける行為をやめるよう求め、Questはそれとは別に荷物の調査を続けます。",
+      "title": "残ったジョーク"
+    },
+    "ko": {
+      "altTexts": [
+        "다음날 아침, Nova는 반품된 렌즈에 대해 묻기 위해 전시장에 들어갑니다. 카운터에서는 Vex가 Rain의 오래된 사진으로 만든 만화를 판매하고 있습니다. 이 농담은 Rain이 한 일에 대한 증거가 아닙니다.",
+        "Nova는 만화 옆에 Bellara에서 가져온 초원 전체 사진을 배치합니다. 농가와 넓은 풀밭이 보이자, 만화가 지워 버린 상황이 드러납니다. Rain은 진열창에 내놓을 괴물이 아닌 어려운 변화를 겪으며 살아가는 사람이다.",
+        "Vex는 고객이 디스플레이 아래에 고정한 조롱 응답 전표를 살펴봅니다. 그 그림은 한 번의 웃음으로 끝나지 않고 더 많은 조롱을 불러왔습니다. Beam은 Vex가 더 이상 개인 의도로 무시할 수 없는 결과를 확인하는 동안 기다립니다.",
+        "Beam은 Vex에게 더 나은 사과를 요구하지 않습니다. 그는 디스플레이 자체를 가리킨다. 만화를 삭제하고 주장을 수정하는 것은 Rain이 그를 용서하든 안 하든 Vex가 할 수 있는 일입니다.",
+        "Vex는 만화 판매를 철회하고 디스플레이를 전체 사진과 수정본으로 교체합니다. Nova의 인쇄물은 그 목적을 위해 여기에 남아 있습니다. 이는 가게가 실제로 행동을 바꾸는 일이지, Rain에게 더는 상처받지 말라고 요구하는 일이 아닙니다.",
+        "만화가 철회된 상태에서 Quest는 사라진 렌즈에 대한 조사로 돌아갑니다. Vex는 상점의 반품 서류라는 다른 파일을 엽니다. 자르지 않은 발송 사진에는 소포와 발송 장소를 식별할 수 있는 전시 봉인이 나와 있습니다.",
+        "그날 저녁 Nova는 Postline을 통해 Meadowfold에 수정 내용을 보고합니다. Rain은 판매가 중단되어 안도하고 있습니다. 그는 자신에게 상처를 준 사람에게 승인 메시지를 보내라는 요청을 받지 않습니다."
+      ],
+      "captions": [
+        "다음날 아침, Nova는 반품된 렌즈에 대해 묻기 위해 전시장에 들어갑니다. 카운터에서는 Vex가 Rain의 오래된 사진으로 만든 만화를 판매하고 있습니다. 이 농담은 Rain이 한 일에 대한 증거가 아닙니다.\n\nVex: “그냥 만화일 뿐이에요.”",
+        "Nova는 만화 옆에 Bellara에서 가져온 초원 전체 사진을 배치합니다. 농가와 넓은 풀밭이 보이자, 만화가 지워 버린 상황이 드러납니다. Rain은 진열창에 내놓을 괴물이 아닌 어려운 변화를 겪으며 살아가는 사람이다.\n\nNova: “그래도 한 사람의 삶에 관한 일이에요.”",
+        "Vex는 고객이 디스플레이 아래에 고정한 조롱 응답 전표를 살펴봅니다. 그 그림은 한 번의 웃음으로 끝나지 않고 더 많은 조롱을 불러왔습니다. Beam은 Vex가 더 이상 개인 의도로 무시할 수 없는 결과를 확인하는 동안 기다립니다.\n\nVex: “그들이 계속 그런 일을 할 거라고는 생각하지 못했어요.”",
+        "Beam은 Vex에게 더 나은 사과를 요구하지 않습니다. 그는 디스플레이 자체를 가리킨다. 만화를 삭제하고 주장을 수정하는 것은 Rain이 그를 용서하든 안 하든 Vex가 할 수 있는 일입니다.\n\nBeam: \"그럼 멈추도록 도와주세요. 여기서 시작하세요.\"",
+        "Vex는 만화 판매를 철회하고 디스플레이를 전체 사진과 수정본으로 교체합니다. Nova의 인쇄물은 그 목적을 위해 여기에 남아 있습니다. 이는 가게가 실제로 행동을 바꾸는 일이지, Rain에게 더는 상처받지 말라고 요구하는 일이 아닙니다.\n\nVex: \"잔인하게 대한 건 저였어요. Rain은 나에게 아무 짓도 하지 않았습니다.\"",
+        "만화가 철회된 상태에서 Quest는 사라진 렌즈에 대한 조사로 돌아갑니다. Vex는 상점의 반품 서류라는 다른 파일을 엽니다. 자르지 않은 발송 사진에는 소포와 발송 장소를 식별할 수 있는 전시 봉인이 나와 있습니다.\n\nVex: \"그 반품을 제가 처리했습니다. 여기 발송 사진이 있습니다. Rain의 초상화가 아닙니다.\"",
+        "그날 저녁 Nova는 Postline을 통해 Meadowfold에 수정 내용을 보고합니다. Rain은 판매가 중단되어 안도하고 있습니다. 그는 자신에게 상처를 준 사람에게 승인 메시지를 보내라는 요청을 받지 않습니다.\n\nRain [Postline 유선 전화]: \"멈춰서 다행이에요. 아직도 마음이 아프네요.\"\nNova [Postline 유선 전화]: “누구에게도 다른 대답을 해줄 필요는 없습니다.”"
+      ],
+      "introduction": "누락된 반품 기록이 친구들을 Nacre의 전시 매장으로 이끌었습니다. 판매자인 Vex는 사람들 사이에 퍼진 Rain의 사진을 바탕으로 한 잔인한 만화도 판매하고 있습니다. Nova는 피해 중단을 주장하고 Quest는 배송 조사를 별도로 유지합니다.",
+      "title": "머물렀던 농담"
+    },
+    "pl": {
+      "altTexts": [
+        "Następnego ranka Nova wchodzi do sklepu wystawowego, aby zapytać o zwróconą soczewkę. Przy ladzie Vex sprzedaje rysunek wykonany na podstawie starej fotografii Raina. Żart nie jest dowodem na to, co zrobił Rain.",
+        "Nova kładzie obok karykatury pełne zdjęcie łąki, które przywiozła z miasta Bellara. Dom wiejski i pusta trawa przywracają kontekst, który usunął żart. Rain to osoba przeżywająca trudną zmianę, a nie potwór wymyślony na potrzeby witryny.",
+        "Vex przegląda kpiące odpowiedzi, które klienci przypinali pod jego ekspozycją. Obrazek stał się czymś więcej niż jednorazowym żartem. Beam czeka, aż Vex zobaczy skutki, których nie da się zbyć stwierdzeniem, że nie miał nic złego na myśli.",
+        "Beam nie prosi Vexa o lepsze przeprosiny. Wskazuje na samą ekspozycję. Usunięcie karykatury i sprostowanie twierdzenia to rzeczy, które Vex może zrobić, niezależnie od tego, czy Rain mu kiedykolwiek wybaczy, czy nie.",
+        "Vex wycofuje karykaturę ze sprzedaży i zastępuje ekspozycję pełnym zdjęciem oraz korektą. Wydruk przyniesiony przez Novę pozostaje tutaj w tym celu. To realna zmiana w sklepie, a nie żądanie, aby Rain przestał czuć się zraniony.",
+        "Po wycofaniu karykatury Quest powraca do poszukiwań brakującej soczewki. Vex otwiera inną teczkę: dokumenty wysyłki zwrotnej sklepu. Niewykadrowane zdjęcie wysyłkowe przedstawia paczkę i pieczęć wystawową, która może wskazywać, dokąd została wysłana.",
+        "Tego wieczoru Nova przekazuje przez linię Postline wiadomość o sprostowaniu na łąkę Meadowfold. Rain odczuwa ulgę, że sprzedaż została zatrzymana. Nie musi zapewniać osoby, która go skrzywdziła, że wszystko jest już w porządku."
+      ],
+      "captions": [
+        "Następnego ranka Nova wchodzi do sklepu wystawowego, aby zapytać o zwróconą soczewkę. Przy ladzie Vex sprzedaje rysunek wykonany na podstawie starej fotografii Raina. Żart nie jest dowodem na to, co zrobił Rain.\n\nVex: „To tylko obrazek”.",
+        "Nova kładzie obok karykatury pełne zdjęcie łąki, które przywiozła z miasta Bellara. Dom wiejski i pusta trawa przywracają kontekst, który usunął żart. Rain to osoba przeżywająca trudną zmianę, a nie potwór wymyślony na potrzeby witryny.\n\nNova: „To wciąż czyjeś życie”.",
+        "Vex przegląda kpiące odpowiedzi, które klienci przypinali pod jego ekspozycją. Obrazek stał się czymś więcej niż jednorazowym żartem. Beam czeka, aż Vex zobaczy skutki, których nie da się zbyć stwierdzeniem, że nie miał nic złego na myśli.\n\nVex: „Nie sądziłem, że będą to dalej robić.”",
+        "Beam nie prosi Vexa o lepsze przeprosiny. Wskazuje na samą ekspozycję. Usunięcie karykatury i sprostowanie twierdzenia to rzeczy, które Vex może zrobić, niezależnie od tego, czy Rain mu kiedykolwiek wybaczy, czy nie.\n\nBeam: \"Więc pomóż to zatrzymać. Zacznij tutaj.\"",
+        "Vex wycofuje karykaturę ze sprzedaży i zastępuje ekspozycję pełnym zdjęciem oraz korektą. Wydruk przyniesiony przez Novę pozostaje tutaj w tym celu. To realna zmiana w sklepie, a nie żądanie, aby Rain przestał czuć się zraniony.\n\nVex: \"To ja nadałem temu okrutny wydźwięk. Rain nic mi nie zrobił. \"",
+        "Po wycofaniu karykatury Quest powraca do poszukiwań brakującej soczewki. Vex otwiera inną teczkę: dokumenty wysyłki zwrotnej sklepu. Niewykadrowane zdjęcie wysyłkowe przedstawia paczkę i pieczęć wystawową, która może wskazywać, dokąd została wysłana.\n\nVex: \"Zajmowałem się tym zwrotem. Oto zdjęcie z wysyłki, a nie portret Raina. \"",
+        "Tego wieczoru Nova przekazuje przez linię Postline wiadomość o sprostowaniu na łąkę Meadowfold. Rain odczuwa ulgę, że sprzedaż została zatrzymana. Nie musi zapewniać osoby, która go skrzywdziła, że wszystko jest już w porządku.\n\nRain [przez przewodową linię Postline]: „Cieszę się, że to się skończyło. Nadal czuję się zraniony”.\nNova [przez przewodową linię Postline]: „Nie jesteś nikomu winien innej odpowiedzi”."
+      ],
+      "introduction": "Brakujący zapis zwrotu doprowadził przyjaciół do sklepu wystawowego na wyspie Nacre. Jego sprzedawca, Vex, sprzedaje również okrutną karykaturę opartą na krążącej fotografii Raina. Nova nalega, by Vex przestał krzywdzić Raina, a Quest osobno prowadzi poszukiwania przesyłki.",
+      "title": "Żart, który pozostał"
+    },
+    "pt": {
+      "altTexts": [
+        "Na manhã seguinte, Nova entra na loja da exposição para perguntar sobre a lente devolvida. No balcão, Vex vende uma caricatura feita a partir da antiga fotografia de Rain. A piada não é uma prova do que Rain fez.",
+        "Nova coloca a impressão completa do prado de Bellara ao lado da caricatura. A casa da fazenda e a grama vazia restauram o contexto que a piada retirou. Rain é uma pessoa que vive uma mudança difícil, não um monstro inventado para uma vitrine.",
+        "Vex analisa os bilhetes de resposta zombeteiros que os clientes afixaram abaixo de seu expositor. A imagem provocou mais de uma risada passageira. Beam espera enquanto Vex vê uma consequência que não pode mais descartar como intenção privada.",
+        "Beam não pede a Vex um pedido de desculpas melhor. Ele aponta para o próprio expositor. Remover a caricatura e corrigir a afirmação são coisas que Vex pode fazer, independentemente de Rain o perdoar ou não.",
+        "Vex retira a caricatura da venda e substitui o display pela fotografia completa e uma correção. A cópia trazida por Nova fica aqui para esse propósito. É uma mudança real na loja, não uma exigência para que Rain pare de se sentir magoado.",
+        "Com o desenho retirado, Quest retorna à lente que faltava. Vex abre um arquivo diferente: os papéis de devolução e remessa da loja. A fotografia de expedição não cortada mostra o pacote e um selo de exposição que pode identificar para onde foi enviado.",
+        "Naquela noite, Nova relata a correção para Meadowfold através do Postline. Rain está aliviado porque a venda foi interrompida. Ele não precisa garantir à pessoa que o feriu que agora está tudo bem."
+      ],
+      "captions": [
+        "Na manhã seguinte, Nova entra na loja da exposição para perguntar sobre a lente devolvida. No balcão, Vex vende uma caricatura feita a partir da antiga fotografia de Rain. A piada não é uma prova do que Rain fez.\n\nVex: “É apenas uma imagem.”",
+        "Nova coloca a impressão completa do prado de Bellara ao lado da caricatura. A casa da fazenda e a grama vazia restauram o contexto que a piada retirou. Rain é uma pessoa que vive uma mudança difícil, não um monstro inventado para uma vitrine.\n\nNova: “Ainda é a vida de alguém.”",
+        "Vex analisa os bilhetes de resposta zombeteiros que os clientes afixaram abaixo de seu expositor. A imagem provocou mais de uma risada passageira. Beam espera enquanto Vex vê uma consequência que não pode mais descartar como intenção privada.\n\nVex: “Não pensei que eles continuariam fazendo isso.”",
+        "Beam não pede a Vex um pedido de desculpas melhor. Ele aponta para o próprio expositor. Remover a caricatura e corrigir a afirmação são coisas que Vex pode fazer, independentemente de Rain o perdoar ou não.\n\nBeam: \"Então ajude a parar com isso. Comece aqui.\"",
+        "Vex retira a caricatura da venda e substitui o display pela fotografia completa e uma correção. A cópia trazida por Nova fica aqui para esse propósito. É uma mudança real na loja, não uma exigência para que Rain pare de se sentir magoado.\n\nVex: \"Minha caricatura foi cruel. Rain não fez nada comigo.\"",
+        "Com o desenho retirado, Quest retorna à lente que faltava. Vex abre um arquivo diferente: os papéis de devolução e remessa da loja. A fotografia de expedição não cortada mostra o pacote e um selo de exposição que pode identificar para onde foi enviado.\n\nVex: \"Eu cuidei dessa devolução. Aqui está a fotografia do despacho - não o retrato de Rain.\"",
+        "Naquela noite, Nova relata a correção para Meadowfold através do Postline. Rain está aliviado porque a venda foi interrompida. Ele não precisa garantir à pessoa que o feriu que agora está tudo bem.\n\nRain [via Postline com fio]: \"Estou feliz que tenha parado. Ainda estou machucado.\"\nNova [via Postline com fio]: “Você não deve uma resposta diferente a ninguém.”"
+      ],
+      "introduction": "A falta do registro de devolução levou os amigos à loja de exposição de Nacre. Seu vendedor, Vex, também está vendendo uma caricatura cruel baseada na fotografia circulante de Rain. Nova insiste que o dano pare enquanto Quest mantém a investigação da remessa separada.",
+      "title": "A piada que ficou"
+    },
+    "ru": {
+      "altTexts": [
+        "На следующее утро Nova заходит в выставочный магазин, чтобы спросить о возвращенной линзе. На прилавке Vex продает карикатуру, сделанную на основе старой фотографии Rain. Шутка не является свидетельством того, что сделал Rain.",
+        "Nova кладет рядом с карикатурой полную фотографию луга, которую привезла из Bellara. Фермерский дом и пустая трава восстанавливают контекст, который удалила шутка. Rain — человек, переживающий трудные перемены, а не монстр, придуманный для витрины.",
+        "Vex смотрит на насмешливые бланки ответов, которые клиенты прикрепили под его стендом. Эта картинка стала поводом для новых насмешек. Beam ждет, пока Vex увидит последствия, от которых уже нельзя отмахнуться словами о своих добрых намерениях.",
+        "Beam не просит Vex извиниться лучше. Он указывает на сам стенд. Удалить карикатуру и исправить ложное утверждение — это то, что может сделать Vex, независимо от того, простит ли его когда-либо Rain.",
+        "Vex снимает карикатуру с продажи и заменяет экспозицию на полную фотографию и исправление. Для этой цели отпечаток Nova остается здесь. Это настоящее изменение в магазине, а не требование, чтобы Rain перестал чувствовать себя обиженным.",
+        "После удаления карикатуры Quest возвращается к отсутствующей линзе. Vex открывает другую папку: документы о возврате товара из магазина. На необрезанной фотографии отправления изображена посылка и выставочная печать, позволяющая определить, куда она была отправлена.",
+        "Вечером того же дня Nova сообщает об опровержении на луг Meadowfold по Postline. Rain рад, что продажи прекратились. Он не обязан уверять того, кто причинил ему боль, что теперь все хорошо."
+      ],
+      "captions": [
+        "На следующее утро Nova заходит в выставочный магазин, чтобы спросить о возвращенной линзе. На прилавке Vex продает карикатуру, сделанную на основе старой фотографии Rain. Шутка не является свидетельством того, что сделал Rain.\n\nVex: «Это всего лишь картинка».",
+        "Nova кладет рядом с карикатурой полную фотографию луга, которую привезла из Bellara. Фермерский дом и пустая трава восстанавливают контекст, который удалила шутка. Rain — человек, переживающий трудные перемены, а не монстр, придуманный для витрины.\n\nNova: «Это всё равно чья-то жизнь».",
+        "Vex смотрит на насмешливые бланки ответов, которые клиенты прикрепили под его стендом. Эта картинка стала поводом для новых насмешек. Beam ждет, пока Vex увидит последствия, от которых уже нельзя отмахнуться словами о своих добрых намерениях.\n\nVex: «Я не думал, что они будут продолжать это делать».",
+        "Beam не просит Vex извиниться лучше. Он указывает на сам стенд. Удалить карикатуру и исправить ложное утверждение — это то, что может сделать Vex, независимо от того, простит ли его когда-либо Rain.\n\nBeam: \"Тогда помоги остановить это. Начни здесь.\"",
+        "Vex снимает карикатуру с продажи и заменяет экспозицию на полную фотографию и исправление. Для этой цели отпечаток Nova остается здесь. Это настоящее изменение в магазине, а не требование, чтобы Rain перестал чувствовать себя обиженным.\n\nVex: \"Я сделал это жестоко. Rain ничего мне не сделал\".",
+        "После удаления карикатуры Quest возвращается к отсутствующей линзе. Vex открывает другую папку: документы о возврате товара из магазина. На необрезанной фотографии отправления изображена посылка и выставочная печать, позволяющая определить, куда она была отправлена.\n\nVex: \"Я занимался этим возвратом. Вот фотография отправления, а не портрет Rain\".",
+        "Вечером того же дня Nova сообщает об опровержении на луг Meadowfold по Postline. Rain рад, что продажи прекратились. Он не обязан уверять того, кто причинил ему боль, что теперь все хорошо.\n\nRain [по проводной линии Postline]: \"Я рад, что это прекратилось. Мне все еще больно\".\nNova [по проводной линии Postline]: «Ты никому не обязан отвечать иначе»."
+      ],
+      "introduction": "Пропавшая запись о возврате привела друзей в выставочный магазин Nacre. Его продавец Vex также продает жестокую карикатуру, основанную на распространенной фотографии Rain. Nova настаивает, чтобы Vex перестал причинять Rain боль, а Quest отдельно выясняет, куда отправили посылку.",
+      "title": "Шутка, которая осталась"
+    },
+    "tr": {
+      "altTexts": [
+        "Ertesi sabah Nova, iade edilen lens hakkında bilgi almak için sergi mağazasına giriyor. Tezgahta Vex, Rain'in eski fotoğrafından yapılmış bir karikatür satıyor. Şaka, Rain'in ne yaptığına dair bir kanıt değil.",
+        "Nova, Bellara'dan getirdiği çayır fotoğrafının tamamını karikatürün yanına yerleştirir. Çiftlik evi ve boş çimenler şakanın ortadan kaldırdığı bağlamı yeniden canlandırıyor. Rain, vitrin için uydurulmuş bir canavar değil, zor bir değişim yaşayan bir kişidir.",
+        "Vex, müşterilerin sergi panosunun altına iliştirdiği alaycı yanıt kağıtlarına bakıyor. Resim birden fazla kişinin kahkaha atmasına neden oldu. Beam, Vex'in artık özel niyet olarak göz ardı edemeyeceği bir sonuç görmesini bekliyor.",
+        "Beam, Vex'ten daha iyi bir özür dilemesini istemez. Sergi panosuna işaret ediyor. Karikatürü kaldırmak ve iddiayı düzeltmek, Rain onu affetse de affetmese de Vex'in yapabileceği şeylerdir.",
+        "Vex, karikatürü satıştan çeker ve sergi panosunu tam fotoğraf ve düzeltmeyle değiştirir. Nova'nın getirdiği fotoğraf baskısı bu amaçla burada kalıyor. Bu, Rain'in incinmeyi bırakması yönünde bir talep değil, mağazada gerçek bir değişiklik.",
+        "Karikatürün geri çekilmesiyle Quest eksik merceğe geri dönüyor. Vex farklı bir dosya açar: mağazanın iade-sevkiyat belgeleri. Kırpılmamış sevkıyat fotoğrafı, paketi ve nereye gönderildiğini belirtebilecek bir sergi mührünü gösteriyor.",
+        "O akşam Nova, düzeltmeyi Postline üzerinden Meadowfold çayırına bildirir. Rain satışın durması nedeniyle rahatladı. Kendisine zarar veren kişiye her şeyin yolunda olduğunu söylemek zorunda değildir."
+      ],
+      "captions": [
+        "Ertesi sabah Nova, iade edilen lens hakkında bilgi almak için sergi mağazasına giriyor. Tezgahta Vex, Rain'in eski fotoğrafından yapılmış bir karikatür satıyor. Şaka, Rain'in ne yaptığına dair bir kanıt değil.\n\nVex: \"Bu yalnızca bir resim.\"",
+        "Nova, Bellara'dan getirdiği çayır fotoğrafının tamamını karikatürün yanına yerleştirir. Çiftlik evi ve boş çimenler şakanın ortadan kaldırdığı bağlamı yeniden canlandırıyor. Rain, vitrin için uydurulmuş bir canavar değil, zor bir değişim yaşayan bir kişidir.\n\nNova: \"Bu hâlâ birinin hayatı.\"",
+        "Vex, müşterilerin sergi panosunun altına iliştirdiği alaycı yanıt kağıtlarına bakıyor. Resim birden fazla kişinin kahkaha atmasına neden oldu. Beam, Vex'in artık özel niyet olarak göz ardı edemeyeceği bir sonuç görmesini bekliyor.\n\nVex: \"Bunu yapmaya devam edeceklerini düşünmemiştim.\"",
+        "Beam, Vex'ten daha iyi bir özür dilemesini istemez. Sergi panosuna işaret ediyor. Karikatürü kaldırmak ve iddiayı düzeltmek, Rain onu affetse de affetmese de Vex'in yapabileceği şeylerdir.\n\nBeam: \"O halde durdurmaya yardım et. Buradan başla.\"",
+        "Vex, karikatürü satıştan çeker ve sergi panosunu tam fotoğraf ve düzeltmeyle değiştirir. Nova'nın getirdiği fotoğraf baskısı bu amaçla burada kalıyor. Bu, Rain'in incinmeyi bırakması yönünde bir talep değil, mağazada gerçek bir değişiklik.\n\nVex: \"Bunu ben zalimce yaptım. Rain bana hiçbir şey yapmadı.\"",
+        "Karikatürün geri çekilmesiyle Quest eksik merceğe geri dönüyor. Vex farklı bir dosya açar: mağazanın iade-sevkiyat belgeleri. Kırpılmamış sevkıyat fotoğrafı, paketi ve nereye gönderildiğini belirtebilecek bir sergi mührünü gösteriyor.\n\nVex: \"O iadeyi ben hallettim. İşte sevk fotoğrafı; Rain'in portresi değil.\"",
+        "O akşam Nova, düzeltmeyi Postline üzerinden Meadowfold çayırına bildirir. Rain satışın durması nedeniyle rahatladı. Kendisine zarar veren kişiye her şeyin yolunda olduğunu söylemek zorunda değildir.\n\nRain [kablolu Postline]: \"Durduğuna sevindim. Hâlâ kırgınım.\"\nNova [kablolu Postline]: \"Kimseye farklı bir cevap borçlu değilsin.\""
+      ],
+      "introduction": "Eksik iade kaydı, arkadaşları Nacre'nin sergi mağazasına yönlendirdi. Satıcısı Vex, aynı zamanda Rain'in dolaşımdaki fotoğrafına dayanan zalim bir karikatür de satıyor. Nova, zararın durdurulması konusunda ısrar ederken, Quest sevkiyat soruşturmasını ayrı tutuyor.",
+      "title": "Kalan Şaka"
+    },
+    "vi": {
+      "altTexts": [
+        "Sáng hôm sau, Nova vào cửa hàng triển lãm để hỏi về chiếc thấu kính được trả lại. Tại quầy, Vex đang bán một bức biếm họa được làm từ bức ảnh cũ của Rain. Trò đùa không phải là bằng chứng về những gì Rain đã làm.",
+        "Nova đặt bức ảnh đồng cỏ đầy đủ mà cô mang từ Bellara về bên cạnh bức biếm họa. Ngôi nhà trang trại và bãi cỏ trống khôi phục lại bối cảnh mà trò đùa đã loại bỏ. Rain là một người đang trải qua một sự thay đổi khó khăn, không phải là một con quái vật để đem trưng trong cửa kính.",
+        "Vex xem xét các phiếu phản hồi chế giễu mà khách hàng đã ghim bên dưới bảng trưng bày của mình. Bức ảnh đã kéo theo nhiều lời chế giễu, chứ không chỉ một tiếng cười thoáng qua. Beam chờ đợi trong khi Vex nhìn thấy những hậu quả mà anh không thể biện minh chỉ bằng ý định riêng của mình.",
+        "Beam không yêu cầu Vex thực hiện lời xin lỗi tốt hơn. Anh ta chỉ vào chính bảng trưng bày. Xóa bức biếm họa và sửa lại tuyên bố là những điều Vex có thể làm, cho dù Rain có tha thứ cho anh hay không.",
+        "Vex ngừng bán bức biếm họa và thay thế bảng trưng bày bằng ảnh đầy đủ và lời đính chính. Bản in mang theo của Nova vẫn ở đây vì mục đích đó. Đó là một sự thay đổi thực sự đối với cửa hàng chứ không phải là yêu cầu Rain ngừng cảm thấy tổn thương.",
+        "Khi bức biếm họa bị rút lại, Quest quay trở lại với thấu kính bị thiếu. Vex mở một tập hồ sơ khác: giấy tờ gửi trả hàng của cửa hàng. Bức ảnh gửi đi chưa cắt xén của nó cho thấy bưu kiện và một con dấu triển lãm có thể xác định nơi nó được gửi.",
+        "Tối hôm đó, Nova báo tin về việc đính chính cho Meadowfold qua Postline. Rain cảm thấy nhẹ nhõm vì việc bán bức biếm họa đã dừng lại. Anh không phải trấn an người đã làm mình tổn thương rằng mọi chuyện giờ đều ổn."
+      ],
+      "captions": [
+        "Sáng hôm sau, Nova vào cửa hàng triển lãm để hỏi về chiếc thấu kính được trả lại. Tại quầy, Vex đang bán một bức biếm họa được làm từ bức ảnh cũ của Rain. Trò đùa không phải là bằng chứng về những gì Rain đã làm.\n\nVex: “Chỉ là một bức vẽ thôi.”",
+        "Nova đặt bức ảnh đồng cỏ đầy đủ mà cô mang từ Bellara về bên cạnh bức biếm họa. Ngôi nhà trang trại và bãi cỏ trống khôi phục lại bối cảnh mà trò đùa đã loại bỏ. Rain là một người đang trải qua một sự thay đổi khó khăn, không phải là một con quái vật để đem trưng trong cửa kính.\n\nNova: “Đó vẫn là cuộc sống của một ai đó.”",
+        "Vex xem xét các phiếu phản hồi chế giễu mà khách hàng đã ghim bên dưới bảng trưng bày của mình. Bức ảnh đã kéo theo nhiều lời chế giễu, chứ không chỉ một tiếng cười thoáng qua. Beam chờ đợi trong khi Vex nhìn thấy những hậu quả mà anh không thể biện minh chỉ bằng ý định riêng của mình.\n\nVex: “Tôi không nghĩ họ sẽ tiếp tục làm việc đó.”",
+        "Beam không yêu cầu Vex thực hiện lời xin lỗi tốt hơn. Anh ta chỉ vào chính bảng trưng bày. Xóa bức biếm họa và sửa lại tuyên bố là những điều Vex có thể làm, cho dù Rain có tha thứ cho anh hay không.\n\nBeam: \"Vậy thì giúp dừng nó lại. Bắt đầu từ đây.\"",
+        "Vex ngừng bán bức biếm họa và thay thế bảng trưng bày bằng ảnh đầy đủ và lời đính chính. Bản in mang theo của Nova vẫn ở đây vì mục đích đó. Đó là một sự thay đổi thực sự đối với cửa hàng chứ không phải là yêu cầu Rain ngừng cảm thấy tổn thương.\n\nVex: \"Tôi đã làm điều này thật tàn nhẫn. Rain không làm gì tôi cả.\"",
+        "Khi bức biếm họa bị rút lại, Quest quay trở lại với thấu kính bị thiếu. Vex mở một tập hồ sơ khác: giấy tờ gửi trả hàng của cửa hàng. Bức ảnh gửi đi chưa cắt xén của nó cho thấy bưu kiện và một con dấu triển lãm có thể xác định nơi nó được gửi.\n\nVex: \"Tôi đã xử lý việc trả lại đó. Đây là bức ảnh gửi đi—không phải chân dung của Rain.\"",
+        "Tối hôm đó, Nova báo tin về việc đính chính cho Meadowfold qua Postline. Rain cảm thấy nhẹ nhõm vì việc bán bức biếm họa đã dừng lại. Anh không phải trấn an người đã làm mình tổn thương rằng mọi chuyện giờ đều ổn.\n\nRain [qua đường dây Postline]: \"Tôi rất vui vì nó đã dừng lại. Tôi vẫn còn đau.\"\nNova [qua đường dây Postline]: “Bạn không nợ ai một câu trả lời khác.”"
+      ],
+      "introduction": "Biên bản trả lại bị mất đã dẫn những người bạn đến cửa hàng triển lãm của Nacre. Người bán của nó, Vex, cũng đang bán một bức biếm họa ác ý dựa trên bức ảnh được lưu hành của Rain. Nova yêu cầu Vex chấm dứt việc làm tổn thương Rain, còn Quest tách riêng việc tìm hiểu lô hàng.",
+      "title": "Trò đùa còn đó"
+    },
+    "zh": {
+      "altTexts": [
+        "第二天一早，Nova进入展示店询问退回镜片的情况。柜台前，Vex正在售卖用Rain的旧照片制作的漫画。这个笑话并不能证明 Rain 做了什么。",
+        "Nova 将 Bellara 的完整草地照片放在漫画旁边。农舍和空旷的草地恢复了笑话所消除的背景。 Rain是一个正在经历艰难变化的人，而不是一个供橱窗展示的怪物。",
+        "Vex 看着顾客钉在他的展板下方的嘲笑回复单。这张照片引起了不止一次的笑声。 Beam 等待着，而 Vex 看到了他不能再用自己的本意来开脱的后果。",
+        "Beam并不要求Vex进行更好的道歉。他指着展板本身。删除漫画并纠正错误说法是Vex可以做的事情，无论Rain是否原谅他。",
+        "Vex 撤回了该漫画的销售，并用完整照片和更正内容替换了展示内容。 Nova带来的那张照片因此留在这里，供大家了解真实情况。这是对商店的真正改变，而不是要求 Rain 不再觉得受伤。",
+        "随着漫画撤回，Quest 又回到了失踪的镜片。 Vex 打开另一个文件：商店的退货单据。其未裁剪的发货照片显示了包裹和一枚可以帮助查明寄送地点的展览印章。",
+        "当晚，Nova通过Postline有线电话向Meadowfold报告更正情况。 Rain 因销售停止而松了口气。他没有被要求向伤害他的人发回一条表示认可的信息。"
+      ],
+      "captions": [
+        "第二天一早，Nova进入展示店询问退回镜片的情况。柜台前，Vex正在售卖用Rain的旧照片制作的漫画。这个笑话并不能证明 Rain 做了什么。\n\nVex：“不过是一幅漫画。”",
+        "Nova 将 Bellara 的完整草地照片放在漫画旁边。农舍和空旷的草地恢复了笑话所消除的背景。 Rain是一个正在经历艰难变化的人，而不是一个供橱窗展示的怪物。\n\nNova：“这仍然是某人的生活。”",
+        "Vex 看着顾客钉在他的展板下方的嘲笑回复单。这张照片引起了不止一次的笑声。 Beam 等待着，而 Vex 看到了他不能再用自己的本意来开脱的后果。\n\nVex：“我没想到他们会继续这样做。”",
+        "Beam并不要求Vex进行更好的道歉。他指着展板本身。删除漫画并纠正错误说法是Vex可以做的事情，无论Rain是否原谅他。\n\nBeam：“那就帮忙阻止它。从这里开始。”",
+        "Vex 撤回了该漫画的销售，并用完整照片和更正内容替换了展示内容。 Nova带来的那张照片因此留在这里，供大家了解真实情况。这是对商店的真正改变，而不是要求 Rain 不再觉得受伤。\n\nVex：“是我把这件事弄得这么刻薄。Rain并没有伤害过我。”",
+        "随着漫画撤回，Quest 又回到了失踪的镜片。 Vex 打开另一个文件：商店的退货单据。其未裁剪的发货照片显示了包裹和一枚可以帮助查明寄送地点的展览印章。\n\nVex：“我处理了退货。这是发货照片，不是 Rain 的肖像。”",
+        "当晚，Nova通过Postline有线电话向Meadowfold报告更正情况。 Rain 因销售停止而松了口气。他没有被要求向伤害他的人发回一条表示认可的信息。\n\nRain [Postline有线电话]：“我很高兴它停止了。可我还是很难过。”\nNova [Postline有线电话]：“你不欠任何人一个不同的答案。”"
+      ],
+      "introduction": "失踪的退货记录让小伙伴们来到了Nacre的展示店。其卖家Vex也在销售根据流传的Rain照片制作的残酷漫画。 Nova要求Vex停止伤害Rain，Quest则把货物调查作为另一件事来处理。",
+      "title": "留下来的笑话"
+    }
+  },
+  "number": 17,
+  "panels": [
+    {
+      "altText": "The next morning, Nova enters the exhibition store to ask about the returned lens. At the counter, Vex is selling a cartoon made from the old photograph of Rain. The joke is not evidence about what Rain has done.",
+      "image": "N01E17P01.png"
+    },
+    {
+      "altText": "Nova places the full meadow print from Bellara beside the cartoon. The farmhouse and empty grass restore the context that the joke removed. Rain is a person living through a difficult change, not a monster supplied for the window.",
+      "image": "N01E17P02.png"
+    },
+    {
+      "altText": "Vex looks at the mocking response slips customers have pinned beneath his display. The picture has invited more than one passing laugh. Beam waits while Vex sees a consequence he can no longer dismiss as private intent.",
+      "image": "N01E17P03.png"
+    },
+    {
+      "altText": "Beam does not ask Vex to perform a better apology. He points to the display itself. Removing the cartoon and correcting the claim are things Vex can do, whether or not Rain ever forgives him.",
+      "image": "N01E17P04.png"
+    },
+    {
+      "altText": "Vex withdraws the cartoon from sale and replaces the display with the full photograph and a correction. Nova's carried print stays here for that purpose. It is a real change to the shop, not a demand that Rain stop feeling hurt.",
+      "image": "N01E17P05.png"
+    },
+    {
+      "altText": "With the cartoon withdrawn, Quest returns to the missing lens. Vex opens a different file: the store's return-shipment papers. Its uncropped dispatch photograph shows the parcel and an exhibition seal that may identify where it was sent.",
+      "image": "N01E17P06.png"
+    },
+    {
+      "altText": "That evening, Nova reports the correction to Meadowfold over the Postline. Rain is relieved that the sale stopped. He is not asked to send an approving message back to the person who hurt him.",
+      "image": "N01E17P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

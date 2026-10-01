@@ -1,0 +1,442 @@
+{
+  "id": "N02E09",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "تقويم مرسوم لخمسة أيام مبسوط على الطاولة.",
+        "تملأ رموز الطعام والراحة والسفر خانات التقويم.",
+        "تتجمع ثلاث علامات مواعيد في يوم واحد.",
+        "يحزم هاش الكتاب وتافي الخيط، ويبقى صندوقا الفوانيس على الأرض.",
+        "يسير الأصدقاء الثلاثة غربًا على طريق تلال واسع بمحاذاة جدار حجري.",
+        "يمتد شريطان في اتجاهين مختلفين وقدما ميند على الأرض.",
+        "تفتح ليلت باب القاعة للأصدقاء المتعبين."
+      ],
+      "captions": [
+        "قبل أن يغادروا ثانية، رسم تافي تقويمًا من خمسة أيام. بدت خطط ميند صغيرة داخل الخانات الفارغة.",
+        "ثم أضاف هاش الوجبات والنوم والرحلات. تقلص الفراغ. اعترفت ميند: «هذه تحتاج إلى وقت أيضًا».",
+        "موعد الكتاب غدًا، وتغطية النباتات مساء اليوم الذي يليه. أما ثلاثة مواعيد أخرى فكانت في اليوم الخامس.",
+        "لكن عليهم أيضًا رؤية مظلة فيلا. حزم هاش الكتاب للرحلة، وتركت ميند صندوقي الفوانيس في البيت.",
+        "ساروا معًا في الطريق الغربي. أمامهم ساعتان من المشي، حتى لو تمنوا أن يطول النهار.",
+        "مع اشتداد الغسق، شد الأصفر نحو فيلا والأحمر نحو لوما. توقفت ميند بينهما وقدماها ثابتتان بأمان على الطريق.",
+        "عند انتهاء مشيهم الذي استغرق ساعتين، رحبت ليلت بهم في قاعة فيلا. وقدمت العشاء وأماكن للنوم قبل أن تريهم أي عمل."
+      ],
+      "introduction": "يملأ الطعام والنوم والسفر الوقت الذي بدا متاحًا.",
+      "title": "خانات التقويم الفارغة"
+    },
+    "bn": {
+      "altTexts": [
+        "পাঁচ দিনের ছবিওয়ালা ক্যালেন্ডার টেবিলে খোলা।",
+        "খাওয়া, বিশ্রাম ও পথের চিহ্ন খালি ঘর ভরছে।",
+        "তিনটি সাক্ষাতের চিহ্ন একই দিনে রাখা।",
+        "হাশ বই আর টাভি সুতো গুছিয়ে নিচ্ছে; লণ্ঠনের দুই বাক্স মেঝেতেই থাকছে।",
+        "তিন বন্ধু পাথরের দেয়ালঘেঁষা চওড়া পাহাড়ি সড়ক ধরে পশ্চিমে হাঁটছে।",
+        "দুই ফিতা বিপরীত দিকে, মেন্ডের পা মাটিতে স্থির।",
+        "লিল্ট মিলনায়তনের দরজা খুলে ক্লান্ত তিন বন্ধুকে স্বাগত জানাচ্ছে।"
+      ],
+      "captions": [
+        "আবার বেরোনোর আগে টাভি পাঁচ দিনের ক্যালেন্ডার আঁকল। খালি ঘরে লিখলে মেন্ডের পরিকল্পনা ছোট মনে হচ্ছিল।",
+        "তারপর হাশ খাওয়া, ঘুম আর যাত্রা যোগ করল। খালি ঘর কমে গেল। “এগুলোরও সময় লাগে,” মেন্ড মানল।",
+        "বই দিতে হবে কাল। তার পরের দিন সন্ধ্যার আগে চারা ঢাকতে হবে। আরও তিনটি দেখা করার কথা পঞ্চম দিনে।",
+        "কিন্তু ভেলার ছাউনি এখনও দেখা বাকি ছিল। হাশ যাত্রার জন্য বইটি ব্যাগে ভরল, আর মেন্ড লণ্ঠনের দুই বাক্স বাড়িতে রেখে দিল।",
+        "তারা পশ্চিমের সড়ক ধরল। দিন বড় হোক চাইলেও দু ঘণ্টার পথ কমে না।",
+        "গোধূলি ঘনালে হলুদ ফিতা ভেলা, লাল ফিতা লুমার দিকে টানল। মেন্ড মাঝখানে থামল, দুই পা নিরাপদে পথেই রাখা।",
+        "দু ঘণ্টার হাঁটা শেষ হলে লিল্ট ভেলার হলে তাদের স্বাগত জানাল। কাজ দেখানোর আগে সে খাবার আর শোবার জায়গা দিল।"
+      ],
+      "introduction": "খাওয়া, ঘুম ও যাতায়াত যোগ করতেই ফাঁকা সময় ভরে যায়।",
+      "title": "ক্যালেন্ডারের খালি ঘর"
+    },
+    "cs": {
+      "altTexts": [
+        "Tavi rozkládá pětidenní obrázkový kalendář.",
+        "Hush přidává do kalendáře obrázky jídla, spánku a cestování.",
+        "Mend porovnává knihu a záhony se třemi schůzkami.",
+        "Hush balí knihu a Tavi nitě; obě krabice lampionů zůstávají na podlaze.",
+        "Tři přátelé jdou na západ po široké cestě ve svahu lemované kamennou zídkou.",
+        "Žlutá a červená stuha míří na západní cestě opačnými směry.",
+        "Lilt vítá tři poutníky v teple osvětleném sále."
+      ],
+      "captions": [
+        "Před další cestou Tavi nakreslil kalendář na pět dní. Mendiny plány v prázdných políčkách vypadaly malé.",
+        "Pak Hush přidal jídlo, spánek a cesty. Prázdného místa ubylo. „I tohle potřebuje čas,“ připustila Mend.",
+        "Kniha měla být hotová zítra. Rostliny potřebovaly ochranu následující večer. Tři další schůzky připadaly na pátý den.",
+        "Ještě však museli prohlédnout plachtu v městečku Vela. Hush zabalil knihu na cestu a Mend nechala obě krabice lampionů doma.",
+        "Společně vyrazili po západní cestě. Čekaly je dvě hodiny chůze, i když si všichni přáli den natáhnout.",
+        "Za soumraku žlutá stuha táhla k městečku Vela a červená k městečku Luma. Mend se mezi nimi zastavila, oběma nohama bezpečně na cestě.",
+        "Po dvouhodinové chůzi je Lilt přivítala v sále městečka Vela. Než jim ukázala práci, nabídla večeři a nocleh."
+      ],
+      "introduction": "Kalendář se zaplní, jakmile do něj přibude skutečná práce a cestování.",
+      "title": "Prázdná políčka"
+    },
+    "de": {
+      "altTexts": [
+        "Tavi breitet einen bebilderten Fünftagekalender aus.",
+        "Hush ergänzt Symbole für Essen, Schlaf und Reisen im Kalender.",
+        "Mend vergleicht Buch- und Pflanzenzeichen mit drei Terminen.",
+        "Hush packt das Buch und Tavi das Garn ein; beide Laternenkisten bleiben auf dem Boden.",
+        "Drei Freunde gehen auf einem breiten Hangweg mit einer Steinmauer nach Westen.",
+        "Gelbes und rotes Band zeigen auf dem Westweg in entgegengesetzte Richtungen.",
+        "Lilt begrüßt drei Reisende in einem warm beleuchteten Saal."
+      ],
+      "captions": [
+        "Vor dem nächsten Aufbruch zeichnete Tavi einen Kalender mit fünf Tagen. In den leeren Kästchen wirkten Mends Pläne klein.",
+        "Dann ergänzte Hush Mahlzeiten, Schlaf und Wege. Die freien Stellen schrumpften. „Auch das braucht Zeit“, gab Mend zu.",
+        "Das Buch war morgen fällig. Die Pflanzen brauchten am folgenden Abend Schutz. Drei andere Verabredungen gehörten zum fünften Tag.",
+        "Doch sie mussten sich noch Velas Stoffdach ansehen. Hush packte das Buch für die Reise ein, und Mend ließ beide Laternenkisten zu Hause.",
+        "Gemeinsam nahmen sie den westlichen Weg. Zwei Stunden zu Fuß lagen vor ihnen, auch wenn sie den Tag gern gedehnt hätten.",
+        "In der Dämmerung zog das gelbe Band nach Vela und das rote nach Luma. Mend blieb dazwischen stehen, mit beiden Füßen sicher auf dem Weg.",
+        "Nach dem zweistündigen Fußweg begrüßte Lilt sie in Velas Saal. Bevor sie ihnen Arbeit zeigte, bot sie Abendessen und Schlafplätze an."
+      ],
+      "introduction": "Wirkliche Arbeit und Reisezeiten füllen den scheinbar leeren Kalender.",
+      "title": "Die leeren Kästchen"
+    },
+    "en": {
+      "altTexts": [
+        "Tavi lays out a five-day pictorial calendar.",
+        "Hush adds meal, sleep, and travel symbols to the calendar.",
+        "Mend compares the book and nursery tiles with three appointment tiles.",
+        "Hush packs the book while Tavi packs thread and both lantern boxes remain on the floor.",
+        "Three friends walk west along a broad hillside road bordered by a stone wall.",
+        "Yellow and red ribbons point in opposite directions on the western road.",
+        "Lilt welcomes the three travelers into a warmly lit hall."
+      ],
+      "captions": [
+        "Before leaving again, Tavi drew a calendar with five days. Mend's plans looked small when written inside empty squares.",
+        "Then Hush added meals, sleep, and journeys. The empty spaces shrank. “Those take time too,” Mend admitted.",
+        "The book was due tomorrow. The plants needed cover the following evening. Three other appointments belonged to the fifth day.",
+        "But they still had to inspect Vela's awning. Hush packed the book for the journey, and Mend left both lantern boxes at home.",
+        "They took the western road together. Two hours of walking lay ahead, even for friends who wished the day would stretch.",
+        "As dusk deepened, the yellow ribbon tugged toward Vela and the red one toward Luma. Mend stopped between them, with both feet safely on the road.",
+        "At the end of their two-hour walk, Lilt welcomed them into Vela's hall. She offered supper and beds before showing them any work."
+      ],
+      "introduction": "A calendar looks spacious until real work and travel are placed on it.",
+      "title": "The Empty Squares"
+    },
+    "es": {
+      "altTexts": [
+        "Tavi extiende un calendario ilustrado de cinco días.",
+        "Hush añade símbolos de comida, descanso y viajes al calendario.",
+        "Mend compara las fichas del libro y las plantas con tres citas.",
+        "Hush guarda el libro y Tavi el hilo; ambas cajas de faroles permanecen en el suelo.",
+        "Tres amigos caminan hacia el oeste por un sendero ancho en la ladera, bordeado por un muro de piedra.",
+        "Las cintas amarilla y roja apuntan en sentidos opuestos en el camino.",
+        "Lilt recibe a tres viajeros en un salón cálidamente iluminado."
+      ],
+      "captions": [
+        "Antes de volver a salir, Tavi dibujó un calendario de cinco días. Los planes de Mend parecían pequeños dentro de las casillas vacías.",
+        "Hush añadió comidas, sueño y trayectos. Los espacios vacíos se redujeron. «Eso también ocupa tiempo», admitió Mend.",
+        "El libro debía estar listo mañana. Las plantas necesitaban protección la tarde siguiente. Otras tres citas correspondían al quinto día.",
+        "Pero aún debían examinar el toldo de Vela. Hush guardó el libro para el viaje y Mend dejó ambas cajas de faroles en casa.",
+        "Tomaron juntos el camino occidental. Les esperaban dos horas a pie, aunque todos desearan que el día se alargara.",
+        "Al oscurecer, la cinta amarilla tiraba hacia Vela y la roja hacia Luma. Mend se detuvo entre ambas, con los dos pies seguros sobre el camino.",
+        "Al terminar las dos horas de camino, Lilt los recibió en el salón de Vela. Les ofreció cena y camas antes de enseñarles ningún trabajo."
+      ],
+      "introduction": "El calendario se llena cuando incluye el trabajo real y los viajes.",
+      "title": "Las casillas vacías"
+    },
+    "fr": {
+      "altTexts": [
+        "Tavi déplie un calendrier illustré de cinq jours.",
+        "Hush ajoute au calendrier des symboles de repas, de repos et de voyage.",
+        "Mend compare les symboles du guide et des plants à trois rendez-vous.",
+        "Hush range le guide et Tavi le fil ; les deux boîtes de lanternes restent au sol.",
+        "Trois amis marchent vers l’ouest sur une large route à flanc de colline bordée d’un muret de pierre.",
+        "Les rubans jaune et rouge tirent en sens opposés sur la route.",
+        "Lilt accueille trois voyageurs dans une salle chaleureusement éclairée."
+      ],
+      "captions": [
+        "Avant de repartir, Tavi dessina un calendrier de cinq jours. Les projets de Mend semblaient petits dans les cases vides.",
+        "Puis Hush ajouta les repas, le sommeil et les trajets. Les espaces libres rétrécirent. « Cela prend aussi du temps », admit Mend.",
+        "Le guide devait être prêt demain. Les plants devaient être abrités le soir suivant. Trois autres rendez-vous tombaient le cinquième jour.",
+        "Mais ils devaient encore examiner l’auvent de Vela. Hush rangea le guide pour le voyage, et Mend laissa les deux boîtes de lanternes chez elle.",
+        "Ils prirent ensemble la route de l’ouest. Deux heures de marche les attendaient, même s’ils souhaitaient tous rallonger la journée.",
+        "Au crépuscule, le ruban jaune tirait vers Vela et le rouge vers Luma. Mend s’arrêta entre les deux, les pieds bien posés sur la route.",
+        "Au terme de leurs deux heures de marche, Lilt les accueillit dans la salle de Vela. Elle leur offrit à dîner et de quoi dormir avant de leur montrer le travail."
+      ],
+      "introduction": "Le calendrier se remplit dès qu’on y inscrit les vrais travaux et trajets.",
+      "title": "Les cases vides"
+    },
+    "hi": {
+      "altTexts": [
+        "पाँच दिनों वाला चित्र-कैलेंडर मेज़ पर खुला है।",
+        "खाने, आराम और यात्रा के चित्र खाली खाने भरते हैं।",
+        "तीन मुलाकातों के निशान एक ही दिन पर रखे हैं।",
+        "हश किताब और तावी धागे बाँध रहे हैं; लालटेनों के दोनों डिब्बे फ़र्श पर रहते हैं।",
+        "तीन दोस्त पत्थर की दीवार के पास से गुज़रती चौड़ी पहाड़ी सड़क पर पश्चिम की ओर चलते हैं।",
+        "दो रिबन उलटी दिशाओं में हैं; मेंड के पैर ज़मीन पर टिके हैं।",
+        "लिल्ट सभागार का दरवाज़ा खोलकर थके दोस्तों का स्वागत करती है।"
+      ],
+      "captions": [
+        "फिर निकलने से पहले तावी ने पाँच दिनों का कैलेंडर बनाया। खाली खानों में मेंड की योजनाएँ छोटी लग रही थीं।",
+        "फिर हश ने भोजन, नींद और यात्राएँ जोड़ीं। खाली जगह घट गई। “इनमें भी समय लगता है,” मेंड ने माना।",
+        "किताब कल देनी थी। उसके अगले दिन शाम तक पौधे ढकने थे। तीन और मुलाकातें पाँचवें दिन थीं।",
+        "लेकिन वेला का छाजन अभी देखना था। हश ने यात्रा के लिए किताब थैले में रखी और मेंड ने लालटेनों के दोनों डिब्बे घर छोड़ दिए।",
+        "वे साथ पश्चिम की सड़क पर चले। दिन लंबा होने की इच्छा से भी दो घंटे का रास्ता कम नहीं होता।",
+        "शाम गहराई तो पीला रिबन वेला और लाल रिबन लूमा की ओर खींचने लगा। मेंड बीच में रुक गई, दोनों पैर सुरक्षित सड़क पर थे।",
+        "दो घंटे की पैदल यात्रा पूरी हुई तो लिल्ट ने वेला के सभागार में उनका स्वागत किया। काम दिखाने से पहले उसने खाना और सोने की जगह दी।"
+      ],
+      "introduction": "भोजन, नींद और यात्रा जोड़ने पर खाली समय भर जाता है।",
+      "title": "कैलेंडर के खाली खाने"
+    },
+    "id": {
+      "altTexts": [
+        "Kalender bergambar lima hari dibentangkan di meja.",
+        "Lambang makan, istirahat, dan perjalanan mengisi kalender.",
+        "Tiga penanda pertemuan berkumpul pada hari yang sama.",
+        "Hush mengemas buku, sementara Tavi mengemas benang; kedua kotak lampion tetap di lantai.",
+        "Ketiga teman berjalan ke barat di jalan bukit yang lebar, dengan tembok batu di sisinya.",
+        "Dua pita merentang berlawanan; Mend tidak terangkat dari jalan.",
+        "Lilt membuka pintu gedung untuk tiga teman yang lelah."
+      ],
+      "captions": [
+        "Sebelum pergi lagi, Tavi menggambar kalender lima hari. Rencana Mend tampak kecil saat ditulis dalam kotak-kotak kosong.",
+        "Lalu Hush menambahkan makan, tidur, dan perjalanan. Ruang kosong menyusut. “Semua itu juga perlu waktu,” aku Mend.",
+        "Buku harus selesai besok. Tanaman perlu ditutup pada sore sesudahnya. Tiga janji lainnya dijadwalkan pada hari kelima.",
+        "Namun, mereka masih perlu melihat tudung di Vela. Hush mengemas buku untuk perjalanan, dan Mend meninggalkan kedua kotak lampion di rumah.",
+        "Mereka berjalan bersama melalui jalan barat. Perjalanan dua jam tetap menanti, meskipun mereka berharap hari bisa bertambah panjang.",
+        "Saat senja semakin gelap, pita kuning menarik ke Vela dan pita merah ke Luma. Mend berhenti di antara keduanya, kedua kaki tetap aman di jalan.",
+        "Setelah perjalanan kaki selama dua jam itu berakhir, Lilt menyambut mereka di gedung Vela. Ia menawarkan makan malam dan tempat tidur sebelum menunjukkan pekerjaan apa pun."
+      ],
+      "introduction": "Makan, tidur, dan perjalanan mengisi ruang yang terlupakan dalam jadwal.",
+      "title": "Kotak-kotak yang Kosong"
+    },
+    "it": {
+      "altTexts": [
+        "Tavi apre un calendario illustrato di cinque giorni.",
+        "Hush aggiunge simboli di pasti, sonno e viaggi al calendario.",
+        "Mend confronta i simboli del libro e delle piante con tre appuntamenti.",
+        "Hush mette il libro in borsa mentre Tavi prepara il filo; le due scatole di lanterne restano a terra.",
+        "Tre amici camminano verso ovest lungo un’ampia strada collinare costeggiata da un muretto di pietra.",
+        "I nastri giallo e rosso indicano direzioni opposte lungo il sentiero.",
+        "Lilt accoglie tre viaggiatori in una sala illuminata con calore."
+      ],
+      "captions": [
+        "Prima di ripartire Tavi disegnò un calendario di cinque giorni. I programmi di Mend sembravano piccoli nelle caselle vuote.",
+        "Poi Hush aggiunse pasti, sonno e tragitti. Gli spazi liberi si ridussero. «Anche queste cose richiedono tempo», ammise Mend.",
+        "Il libro doveva essere pronto domani. Le piante andavano protette la sera successiva. Altri tre appuntamenti erano fissati per il quinto giorno.",
+        "Dovevano però ancora esaminare la copertura di Vela. Hush mise il libro in borsa per il viaggio e Mend lasciò a casa entrambe le scatole di lanterne.",
+        "Presero insieme la strada occidentale. Li aspettavano due ore a piedi, anche se avrebbero voluto allungare la giornata.",
+        "Al calare del buio il nastro giallo tirava verso Vela e il rosso verso Luma. Mend si fermò tra i due, con entrambi i piedi al sicuro sul sentiero.",
+        "Al termine delle due ore di cammino, Lilt li accolse nella sala di Vela. Offrì loro cena e un letto prima di mostrare qualsiasi lavoro."
+      ],
+      "introduction": "Il calendario si riempie quando comprende lavoro reale e spostamenti.",
+      "title": "Le caselle vuote"
+    },
+    "ja": {
+      "altTexts": [
+        "五日分の絵で示したカレンダーが机にあります。",
+        "食事と休息と移動の印が、空いていたマスを埋めています。",
+        "三つの訪問の印が、同じ日に集まっています。",
+        "ハッシュが本を、タヴィが糸を荷物に入れ、二つのちょうちん箱は床に残っています。",
+        "三人が、石の壁に沿った広い丘の道を西へ歩いています。",
+        "反対へ伸びる二本の間で、メンドが安全に立ち止まっています。",
+        "リルトが会館の扉を開け、疲れた三人を迎えています。"
+      ],
+      "captions": [
+        "また出発する前に、タヴィは五日分のカレンダーを描きました。空のマスに入れると、メンドの予定は小さく見えました。",
+        "そこへハッシュが食事、睡眠、移動を加えました。空白が減りました。「それにも時間がかかるのね」とメンドは認めました。",
+        "本の期限は明日。苗はその翌日の夕方まで。そして別の三つの約束は、五日目にありました。",
+        "それでも、ヴェラの雨よけは見ておかなければなりません。ハッシュは本を旅の荷物に入れ、メンドは二つのちょうちん箱を家に残しました。",
+        "三人は西の道を歩き始めました。一日が長くなればと願っても、二時間の道のりは変わりません。",
+        "夕闇の中、黄色いリボンはヴェラへ、赤いリボンはルマへ引きました。メンドは間で止まり、両足をしっかり道につけました。",
+        "二時間の歩き旅を終えると、リルトがヴェラのホールで迎えてくれました。仕事を見せる前に、夕食と寝る場所を用意してくれました。"
+      ],
+      "introduction": "食事、睡眠、移動を入れると、空いていたはずの時間がなくなります。",
+      "title": "カレンダーの空白"
+    },
+    "ko": {
+      "altTexts": [
+        "닷새를 나타내는 그림 달력이 작업대에 펼쳐져 있습니다.",
+        "식사와 휴식과 이동 표시가 달력의 빈칸을 채웁니다.",
+        "방문 약속 세 표시가 같은 날에 모여 있습니다.",
+        "허시가 책을, 타비가 실을 가방에 넣고, 등불 상자 두 개는 바닥에 남아 있습니다.",
+        "세 친구가 돌담을 따라 난 넓은 언덕길을 서쪽으로 걷습니다.",
+        "두 리본이 반대로 뻗어도 멘드의 발은 땅에 붙어 있습니다.",
+        "릴트가 회관 문을 열어 피곤한 세 친구를 맞이합니다."
+      ],
+      "captions": [
+        "다시 떠나기 전 타비는 닷새짜리 달력을 그렸습니다. 빈칸에 넣으니 멘드의 계획들은 작아 보였습니다.",
+        "허시가 식사와 잠, 이동을 더했습니다. 빈칸이 줄었습니다. “이것들도 시간이 필요하구나.” 멘드가 인정했습니다.",
+        "책은 내일까지, 모종은 그다음 날 저녁까지였습니다. 다른 약속 세 가지는 다섯째 날에 잡혀 있었습니다.",
+        "하지만 벨라의 차양도 살펴봐야 했습니다. 허시가 여행에 가져갈 책을 챙겼고, 멘드는 등불 상자 두 개를 집에 두었습니다.",
+        "친구들은 서쪽 길을 함께 걸었습니다. 하루가 길어지길 바라도 두 시간의 걸음은 줄어들지 않았습니다.",
+        "어둑해지자 노랑 리본은 벨라로, 빨강 리본은 루마로 당겼습니다. 멘드는 두 발을 안전하게 길에 둔 채 그 사이에서 멈췄습니다.",
+        "두 시간의 도보 여행이 끝나자 릴트가 벨라 회관에서 셋을 맞이했습니다. 일을 보여 주기 전에 저녁과 잠자리를 마련해 주었습니다."
+      ],
+      "introduction": "식사와 잠, 이동을 넣자 비어 보이던 시간이 사라집니다.",
+      "title": "달력의 빈칸"
+    },
+    "pl": {
+      "altTexts": [
+        "Tavi rozkłada obrazkowy kalendarz na pięć dni.",
+        "Hush dodaje do kalendarza symbole jedzenia, snu i podróży.",
+        "Mend porównuje symbole książki i sadzonek z trzema spotkaniami.",
+        "Hush pakuje książkę, a Tavi nici; oba pudełka lampionów pozostają na podłodze.",
+        "Troje przyjaciół idzie na zachód szeroką drogą na zboczu, wzdłuż kamiennego murku.",
+        "Żółta i czerwona wstążka wskazują na drodze przeciwne kierunki.",
+        "Lilt wita troje podróżnych w ciepło oświetlonej sali."
+      ],
+      "captions": [
+        "Przed kolejną podróżą Tavi narysował kalendarz na pięć dni. Plany Mend wyglądały drobno w pustych kratkach.",
+        "Hush dodał posiłki, sen i podróże. Wolne miejsca się skurczyły. „To też zajmuje czas” — przyznała Mend.",
+        "Książka miała być gotowa jutro. Rośliny potrzebowały osłony kolejnego wieczoru. Trzy inne spotkania przypadały na piąty dzień.",
+        "Musieli jednak obejrzeć jeszcze zadaszenie w miasteczku miasteczku Vela. Hush spakował książkę na podróż, a Mend zostawiła w domu oba pudełka lampionów.",
+        "Ruszyli razem zachodnią drogą. Przed nimi były dwie godziny marszu, nawet jeśli wszyscy chcieli wydłużyć dzień.",
+        "O zmierzchu żółta wstążka ciągnęła ku miasteczku Vela, a czerwona ku miasteczku Luma. Mend zatrzymała się między nimi, obiema stopami bezpiecznie na drodze.",
+        "Po dwóch godzinach marszu Lilt przywitała ich w sali w miasteczku miasteczku Vela. Zanim pokazała im pracę, zaproponowała kolację i nocleg."
+      ],
+      "introduction": "Kalendarz zapełnia się, gdy uwzględnia pracę i podróże.",
+      "title": "Puste kratki"
+    },
+    "pt": {
+      "altTexts": [
+        "Tavi abre um calendário ilustrado de cinco dias.",
+        "Hush acrescenta símbolos de comida, sono e viagem ao calendário.",
+        "Mend compara os símbolos do livro e das plantas com três compromissos.",
+        "Hush guarda o livro enquanto Tavi guarda linha; as duas caixas de lanternas permanecem no chão.",
+        "Três amigos caminham para o oeste por uma estrada larga na encosta, ladeada por um muro de pedra.",
+        "As fitas amarela e vermelha apontam em sentidos opostos na estrada.",
+        "Lilt recebe três viajantes num salão iluminado de forma acolhedora."
+      ],
+      "captions": [
+        "Antes de saírem de novo, Tavi desenhou um calendário de cinco dias. Os planos de Mend pareciam pequenos dentro dos quadradinhos vazios.",
+        "Hush acrescentou refeições, sono e trajetos. Os espaços vazios diminuíram. “Isso também leva tempo”, admitiu Mend.",
+        "O livro era para amanhã. As plantas precisavam de proteção na tarde seguinte. Três outros compromissos estavam marcados para o quinto dia.",
+        "Mas ainda precisavam examinar a cobertura de Vela. Hush guardou o livro para a viagem, e Mend deixou as duas caixas de lanternas em casa.",
+        "Tomaram juntos a estrada oeste. Duas horas a pé os esperavam, mesmo que todos desejassem esticar o dia.",
+        "Ao anoitecer, a fita amarela puxava para Vela e a vermelha para Luma. Mend parou entre elas, com os dois pés seguros sobre o caminho.",
+        "Ao fim das duas horas de caminhada, Lilt os recebeu no salão de Vela. Ofereceu jantar e camas antes de mostrar qualquer trabalho."
+      ],
+      "introduction": "O calendário se enche quando inclui o trabalho real e as viagens.",
+      "title": "Os espaços vazios"
+    },
+    "ru": {
+      "altTexts": [
+        "Тави раскладывает календарь с картинками на пять дней.",
+        "Хаш добавляет в календарь значки еды, сна и поездок.",
+        "Менд сравнивает значки книги и рассады с тремя встречами.",
+        "Хаш упаковывает книгу, а Тави — нитки; обе коробки фонариков остаются на полу.",
+        "Трое друзей идут на запад по широкой дороге на склоне холма, вдоль каменной стены.",
+        "Жёлтая и красная ленты тянутся на дороге в противоположные стороны.",
+        "Лилт встречает троих путников в тепло освещённом зале."
+      ],
+      "captions": [
+        "Перед новой дорогой Тави нарисовал календарь на пять дней. В пустых клетках планы Менд казались небольшими.",
+        "Хаш добавил еду, сон и поездки. Пустого места стало меньше. «На это тоже нужно время», — признала Менд.",
+        "Книга нужна была завтра. Растения следовало укрыть к вечеру четвёртого дня. Ещё три встречи приходились на пятый день.",
+        "Но нужно было ещё осмотреть навес в Веле. Хаш убрал книгу в сумку для поездки, а Менд оставила обе коробки фонариков дома.",
+        "Вместе они вышли на западную дорогу. Впереди было два часа ходьбы, как бы друзьям ни хотелось растянуть день.",
+        "В сумерках жёлтая лента тянула к Веле, красная — к Луме. Менд остановилась между ними, надёжно стоя обеими ногами на дороге.",
+        "После двухчасовой прогулки Лилт встретила их в зале Велы. Прежде чем показывать работу, она предложила ужин и места для сна."
+      ],
+      "introduction": "Календарь заполняется, когда в нём появляются настоящая работа и поездки.",
+      "title": "Пустые клетки"
+    },
+    "tr": {
+      "altTexts": [
+        "Tavi resimli, beş günlük bir takvim açıyor.",
+        "Hush takvime yemek, uyku ve yolculuk simgeleri ekliyor.",
+        "Mend kitap ve bitki simgelerini üç randevuyla karşılaştırıyor.",
+        "Hush kitabı, Tavi iplikleri çantasına koyarken iki fener kutusu yerde kalıyor.",
+        "Üç arkadaş, bir taş duvarla çevrili geniş yamaç yolunda batıya yürüyor.",
+        "Sarı ve kırmızı kurdeleler yolda zıt yönleri gösteriyor.",
+        "Lilt, sıcak ışıklı salonda üç yolcuyu karşılıyor."
+      ],
+      "captions": [
+        "Yeniden çıkmadan Tavi beş günlük bir takvim çizdi. Mend’in planları boş kutucukların içinde küçük görünüyordu.",
+        "Sonra Hush yemekleri, uykuyu ve yolları ekledi. Boşluklar küçüldü. “Bunlar da zaman alıyor,” diye kabul etti Mend.",
+        "Kitap yarına yetişmeliydi. Bitkiler dördüncü gün akşama kadar korunmalıydı. Üç başka randevu beşinci gündeydi.",
+        "Ama Vela’nın tentesini de görmeleri gerekiyordu. Hush kitabı yolculuk için çantasına koydu; Mend iki fener kutusunu da evde bıraktı.",
+        "Birlikte batı yoluna çıktılar. Günü uzatmak isteseler de önlerinde iki saatlik yürüyüş vardı.",
+        "Hava kararırken sarı kurdele Vela’ya, kırmızı kurdele Luma’ya çekti. Mend aralarında durdu; iki ayağı da güvenle yoldaydı.",
+        "İki saatlik yürüyüşleri bittiğinde Lilt onları Vela’nın salonunda karşıladı. İşleri göstermeden önce akşam yemeği ve yatacak yer sundu."
+      ],
+      "introduction": "Gerçek işler ve yolculuklar eklenince takvim dolar.",
+      "title": "Boş Kutucuklar"
+    },
+    "vi": {
+      "altTexts": [
+        "Tờ lịch năm ngày bằng hình được trải trên bàn.",
+        "Biểu tượng ăn, nghỉ và đi lại lấp các ô lịch.",
+        "Ba dấu hẹn tập trung trên cùng một ngày.",
+        "Hush xếp sách, Tavi xếp chỉ vào túi; hai hộp đèn vẫn nằm trên sàn.",
+        "Ba người bạn đi về phía tây trên con đường đồi rộng, dọc theo bức tường đá.",
+        "Hai dải kéo ngược hướng nhưng chân Mend vẫn chạm mặt đường.",
+        "Lilt mở cửa hội trường đón ba người mệt mỏi."
+      ],
+      "captions": [
+        "Trước khi đi tiếp, Tavi vẽ lịch năm ngày. Viết vào những ô trống, kế hoạch của Mend trông không lớn lắm.",
+        "Rồi Hush thêm ăn uống, ngủ và đi đường. Khoảng trống thu hẹp lại. “Những việc ấy cũng cần thời gian,” Mend thừa nhận.",
+        "Sách phải xong ngày mai. Cây cần được che vào tối hôm sau nữa. Ba cuộc hẹn khác cùng rơi vào ngày thứ năm.",
+        "Nhưng họ vẫn phải xem mái che ở Vela. Hush xếp sách để mang theo, còn Mend để cả hai hộp đèn ở nhà.",
+        "Họ cùng đi theo đường phía tây. Phía trước vẫn là hai giờ đi bộ, dù họ ước ngày dài thêm.",
+        "Khi trời sẫm tối, dải vàng kéo về Vela và dải đỏ về Luma. Mend dừng giữa chúng, hai chân vẫn đứng chắc trên đường.",
+        "Khi kết thúc quãng đi bộ hai giờ, họ được Lilt đón vào hội trường Vela. Cô mời ăn tối và chuẩn bị chỗ ngủ trước khi chỉ bất kỳ công việc nào."
+      ],
+      "introduction": "Bữa ăn, giấc ngủ và đường đi lấp đầy thời gian tưởng như còn dư.",
+      "title": "Những ô lịch trống"
+    },
+    "zh": {
+      "altTexts": [
+        "一张五天的图示日历铺在桌面上。",
+        "进餐、休息和旅行的图标占据了日历空格。",
+        "三个见面标记集中在同一天。",
+        "哈什收好书，塔维装好线，两只灯笼箱仍留在地板上。",
+        "三个朋友沿着一侧有石墙的宽阔山路向西走。",
+        "两条丝带朝相反方向伸展，门德没有离开地面。",
+        "莉尔特打开会堂门，迎接三个疲惫的朋友。"
+      ],
+      "captions": [
+        "再次出发前，塔维画了一张五天的日历。把工作填进空格里，门德的计划看起来还不算大。",
+        "哈什又加上吃饭、睡觉和路程。空白一下少了。“这些也需要时间。”门德承认。",
+        "书要明天交。幼苗要在后天傍晚前盖好。还有三个约定，全都落在第五天。",
+        "不过，他们还得查看维拉的雨篷。哈什把书装好带上路，门德把两只灯笼箱都留在家里。",
+        "他们一起走上西边的路。即使希望一天能变长，眼前仍是两个小时的步行路程。",
+        "天色渐暗，黄色丝带拉向维拉，红色丝带拉向卢马。门德停在中间，两只脚都稳稳踩在路面。",
+        "两小时的步行结束后，莉尔特在维拉的大厅迎接他们。她先安排了晚饭和床铺，再给他们看要做的工作。"
+      ],
+      "introduction": "吃饭、睡觉和旅行填满了原本看似空闲的时间。",
+      "title": "日历里的空格"
+    }
+  },
+  "number": 9,
+  "panels": [
+    {
+      "altText": "Tavi lays out a five-day pictorial calendar.",
+      "image": "N02E09P01.png"
+    },
+    {
+      "altText": "Hush adds meal, sleep, and travel symbols to the calendar.",
+      "image": "N02E09P02.png"
+    },
+    {
+      "altText": "Mend compares the book and nursery tiles with three appointment tiles.",
+      "image": "N02E09P03.png"
+    },
+    {
+      "altText": "Hush packs the book while Tavi packs thread and both lantern boxes remain on the floor.",
+      "image": "N02E09P04.png"
+    },
+    {
+      "altText": "Three friends walk west along a broad hillside road bordered by a stone wall.",
+      "image": "N02E09P05.png"
+    },
+    {
+      "altText": "Yellow and red ribbons point in opposite directions on the western road.",
+      "image": "N02E09P06.png"
+    },
+    {
+      "altText": "Lilt welcomes the three travelers into a warmly lit hall.",
+      "image": "N02E09P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

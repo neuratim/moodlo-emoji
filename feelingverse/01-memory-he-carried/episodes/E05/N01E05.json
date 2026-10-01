@@ -1,0 +1,439 @@
+{
+  "id": "N01E05",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "في صباح اليوم التالي، يعود Quest إلى المحطة بعد رسالة Rain. كشف فحص سجلات الشحن عن سجل عبور. يقوم Quest بإزالة مشبك وعاء الذاكرة التالف، مما يترك الصندوق الضخم ووعاء الذاكرة الفارغ بأمان في المحطة.",
+        "لاحقًا، وفي Meadowfold، يكرر Rain النقرات لـ Bitter. يعطي المشبك رنينًا خافتًا مماثلًا من ثلاث نبضات عند اختباره على طاولة العمل. فالتشابه خيط للتحقيق، وليس إثباتًا على ما يحدث بداخله.",
+        "بجانب المرج، تعرض Nova على Rain الملاحظات التي تقترح أخذها في رحلة البحث. يوافق على مشاركة قياساته والنقرات ووصفه للضوء. يظل دفتر ملاحظاته الخاص مغلقًا مع متعلقاته في المزرعة.",
+        "على شرفة المزرعة، يقوم Hush بعمل نسخة واضحة من الإيقاع المتفق عليه لـ Quest ليأخذه في الرحلة. يقوم Quest بفحصه مقابل الأصل قبل وضع النسخة ووصف Rain في دفتر الملاحظات الميداني.",
+        "بعد ظهر ذلك اليوم، يعود Quest وNova إلى محطة Mosaic. يذكر سجل العبور الباقي جناح الشحن في Bellara بوصفه آخر مكتب تولى مناولة الشحنة. إنه مكان حقيقي للبدء، وليس وعدًا بالإجابة.",
+        "Quest، Nova، Beam، Hush، Quiver وBash يستقلون قطار ما بعد الظهر. أحضر Bash حقيبة ميدانية واسعة للأدلة وأي معدات قد يحتاجون إليها. ستة أصدقاء يسافرون. يبقى Rain والأصدقاء الذين يعتنون به في Tessara.",
+        "قبل المغادرة، تعود Nova إلى الرصيف للاتصال بـ Rain. Quest ينتظر عند باب العربة. ستعيد سماعة الهاتف إلى مكانها وتصعد إلى القطار قبل أن يتحرك القطار؛ ستأتي المكالمة التالية من Bellara."
+      ],
+      "captions": [
+        "في صباح اليوم التالي، يعود Quest إلى المحطة بعد رسالة Rain. كشف فحص سجلات الشحن عن سجل عبور. يقوم Quest بإزالة مشبك وعاء الذاكرة التالف، مما يترك الصندوق الضخم ووعاء الذاكرة الفارغ بأمان في المحطة.\n\nQuest: \"هذا هو الجزء الذي يمكننا أخذه معنا. يشير سجل العبور إلى Bellara.\"",
+        "لاحقًا، وفي Meadowfold، يكرر Rain النقرات لـ Bitter. يعطي المشبك رنينًا خافتًا مماثلًا من ثلاث نبضات عند اختباره على طاولة العمل. فالتشابه خيط للتحقيق، وليس إثباتًا على ما يحدث بداخله.\n\nBitter: \"النمط مشابه. الآن نحتاج إلى شخص يعرف هذا الجهاز.\"",
+        "بجانب المرج، تعرض Nova على Rain الملاحظات التي تقترح أخذها في رحلة البحث. يوافق على مشاركة قياساته والنقرات ووصفه للضوء. يظل دفتر ملاحظاته الخاص مغلقًا مع متعلقاته في المزرعة.\n\nRain: \"خذي هذه الأدلة. صفحاتي الخاصة تبقى هنا.\"",
+        "على شرفة المزرعة، يقوم Hush بعمل نسخة واضحة من الإيقاع المتفق عليه لـ Quest ليأخذه في الرحلة. يقوم Quest بفحصه مقابل الأصل قبل وضع النسخة ووصف Rain في دفتر الملاحظات الميداني.\n\nHush [بلغة الإشارة]: \"ثلاث نقرات، ثم توقف مؤقت. احتفظ بطول الوقفة أيضًا.\"",
+        "بعد ظهر ذلك اليوم، يعود Quest وNova إلى محطة Mosaic. يذكر سجل العبور الباقي جناح الشحن في Bellara بوصفه آخر مكتب تولى مناولة الشحنة. إنه مكان حقيقي للبدء، وليس وعدًا بالإجابة.\n\nQuest: \"يمكننا أن نسأل من الذي تعامل مع هذه الشحنة قبل العاصفة.\"",
+        "Quest، Nova، Beam، Hush، Quiver وBash يستقلون قطار ما بعد الظهر. أحضر Bash حقيبة ميدانية واسعة للأدلة وأي معدات قد يحتاجون إليها. ستة أصدقاء يسافرون. يبقى Rain والأصدقاء الذين يعتنون به في Tessara.\n\nBash: \"ستة مقاعد، وستة أصدقاء. والحقيبة مثبتة.\"",
+        "قبل المغادرة، تعود Nova إلى الرصيف للاتصال بـ Rain. Quest ينتظر عند باب العربة. ستعيد سماعة الهاتف إلى مكانها وتصعد إلى القطار قبل أن يتحرك القطار؛ ستأتي المكالمة التالية من Bellara.\n\nRain [عبر هاتف Postline السلكي]: \"استمري في الاتصال.\"\nNova [عبر هاتف Postline السلكي]: \"سنفعل ذلك. Bellara غدًا.\""
+      ],
+      "introduction": "أعطى وصف Rain للضوء لـ Quest مكانًا للتحقيق فيه. يُنتج الصندوق التالف دليلًا محمولاً، وتنتج المقارنة المحلية دليلًا مفيدًا. قبل أن يغادر أي شخص Tessara، يقرر Rain المعلومات التي يسمح لأصدقائه بأخذها.",
+      "title": "السؤال المفيد الأول"
+    },
+    "bn": {
+      "altTexts": [
+        "পরদিন সকালে Rain-এর বার্তা পেয়ে Quest স্টেশনে ফিরে আসে। মাল পাঠানোর নথি খুঁজে একটি যাত্রাপথের রেকর্ড পাওয়া গেছে। Quest ক্ষতিগ্রস্ত স্মৃতির পাত্রের আটকানিটি খুলে নেয়। ভারী বাক্স আর খালি পাত্রটি স্টেশনেই নিরাপদে থাকে।",
+        "পরে Meadowfold-এ Rain তিনটি টোকার ছন্দ Bitter-কে শোনায়। কাজের টেবিলে পরীক্ষা করলে আটকানিটি থেকেও ক্ষীণ তিনটি ধ্বনি শোনা যায়। মিলটি একটি সূত্র, Rain-এর ভেতরে কী হচ্ছে তার প্রমাণ নয়।",
+        "তৃণভূমির পাশে Nova দেখায়, যাত্রায় তারা কোন কোন তথ্য নিতে চায়। Rain নিজের মাপ, টোকার ছন্দ আর আলোর বর্ণনা নেওয়ার অনুমতি দেয়। তার ব্যক্তিগত খাতাটি খামারবাড়িতে অন্য জিনিসের সঙ্গে বন্ধ থাকে।",
+        "খামারবাড়ির বারান্দায় Hush টোকার ছন্দটি পরিষ্কার করে নকল করে, যাতে Quest সঙ্গে নিতে পারে। Quest আসলের সঙ্গে মিলিয়ে দেখে। তারপর ছন্দের নকল আর Rain-এর বর্ণনা নিজের কাজের খাতায় রাখে।",
+        "সেই বিকেলে Quest আর Nova Mosaic স্টেশনে ফেরে। বেঁচে থাকা নথিতে দেখা যায়, Bellara-এর মাল পরিবহনের দপ্তরই শেষবার চালানটি সামলেছিল। অনুসন্ধান শুরু করার একটি ঠিকানা পাওয়া গেছে, উত্তর পাওয়ার নিশ্চয়তা নয়।",
+        "Quest, Nova, Beam, Hush, Quiver আর Bash বিকেলের ট্রেনে ওঠে। Bash বড় একটি সরঞ্জামের বাক্স এনেছে; সূত্রগুলো আর পথে দরকার হতে পারে এমন যন্ত্র এতে রাখা যাবে। ছয় বন্ধু যাত্রা করে। Rain আর বাড়িতে তার যত্ন নেওয়া বন্ধুরা Tessara-এ থাকে।",
+        "ট্রেন ছাড়ার আগে Nova প্ল্যাটফর্মে ফিরে Rain-কে ফোন করে। Quest কামরার দরজায় অপেক্ষা করে। Nova ফোনের রিসিভার রেখে ট্রেন চলার আগেই আবার উঠবে। পরের ফোন আসবে Bellara থেকে।"
+      ],
+      "captions": [
+        "পরদিন সকালে Rain-এর বার্তা পেয়ে Quest স্টেশনে ফিরে আসে। মাল পাঠানোর নথি খুঁজে একটি যাত্রাপথের রেকর্ড পাওয়া গেছে। Quest ক্ষতিগ্রস্ত স্মৃতির পাত্রের আটকানিটি খুলে নেয়। ভারী বাক্স আর খালি পাত্রটি স্টেশনেই নিরাপদে থাকে।\n\nQuest: \"এই অংশটা সঙ্গে নেওয়া যাবে। নথিতে Bellara-এর কথা আছে।\"",
+        "পরে Meadowfold-এ Rain তিনটি টোকার ছন্দ Bitter-কে শোনায়। কাজের টেবিলে পরীক্ষা করলে আটকানিটি থেকেও ক্ষীণ তিনটি ধ্বনি শোনা যায়। মিলটি একটি সূত্র, Rain-এর ভেতরে কী হচ্ছে তার প্রমাণ নয়।\n\nBitter: \"ছন্দটা মিলে যাচ্ছে। এবার এই যন্ত্রাংশ চেনে এমন কাউকে খুঁজতে হবে।\"",
+        "তৃণভূমির পাশে Nova দেখায়, যাত্রায় তারা কোন কোন তথ্য নিতে চায়। Rain নিজের মাপ, টোকার ছন্দ আর আলোর বর্ণনা নেওয়ার অনুমতি দেয়। তার ব্যক্তিগত খাতাটি খামারবাড়িতে অন্য জিনিসের সঙ্গে বন্ধ থাকে।\n\nRain: \"ওই সূত্রগুলো নাও। আমার ব্যক্তিগত লেখাগুলো এখানেই থাক।\"",
+        "খামারবাড়ির বারান্দায় Hush টোকার ছন্দটি পরিষ্কার করে নকল করে, যাতে Quest সঙ্গে নিতে পারে। Quest আসলের সঙ্গে মিলিয়ে দেখে। তারপর ছন্দের নকল আর Rain-এর বর্ণনা নিজের কাজের খাতায় রাখে।\n\nHush [ইশারার ভাষায়]: \"তিনটি টোকা, তারপর বিরতি। বিরতির দৈর্ঘ্যটাও ঠিক রেখো।\"",
+        "সেই বিকেলে Quest আর Nova Mosaic স্টেশনে ফেরে। বেঁচে থাকা নথিতে দেখা যায়, Bellara-এর মাল পরিবহনের দপ্তরই শেষবার চালানটি সামলেছিল। অনুসন্ধান শুরু করার একটি ঠিকানা পাওয়া গেছে, উত্তর পাওয়ার নিশ্চয়তা নয়।\n\nQuest: \"ঝড়ের আগে কারা মালটা সামলেছিল, সেখানে জিজ্ঞেস করা যাবে।\"",
+        "Quest, Nova, Beam, Hush, Quiver আর Bash বিকেলের ট্রেনে ওঠে। Bash বড় একটি সরঞ্জামের বাক্স এনেছে; সূত্রগুলো আর পথে দরকার হতে পারে এমন যন্ত্র এতে রাখা যাবে। ছয় বন্ধু যাত্রা করে। Rain আর বাড়িতে তার যত্ন নেওয়া বন্ধুরা Tessara-এ থাকে।\n\nBash: \"ছয় আসন, ছয় বন্ধু। বাক্সটাও বাঁধা আছে।\"",
+        "ট্রেন ছাড়ার আগে Nova প্ল্যাটফর্মে ফিরে Rain-কে ফোন করে। Quest কামরার দরজায় অপেক্ষা করে। Nova ফোনের রিসিভার রেখে ট্রেন চলার আগেই আবার উঠবে। পরের ফোন আসবে Bellara থেকে।\n\nRain [Postline-এর তারযুক্ত ফোনে]: \"ফোন করতে থেকো।\"\nNova [Postline-এর তারযুক্ত ফোনে]: \"করব। কাল Bellara থেকে।\""
+      ],
+      "introduction": "Rain-এর আলোর বর্ণনা Quest-কে খোঁজার দিশা দেয়। ভাঙা বাক্স থেকে বহনযোগ্য একটি সূত্র মেলে। কাছে পরীক্ষা করে আরেকটি মিল পাওয়া যায়। কেউ Tessara ছাড়ার আগে Rain ঠিক করে দেয়, বন্ধুরা কোন তথ্য সঙ্গে নিতে পারবে।",
+      "title": "প্রথম দরকারি প্রশ্ন"
+    },
+    "cs": {
+      "altTexts": [
+        "Druhý den ráno se Quest po Rainově zprávě vrací na nádraží. Při pátrání po zásilce se našel přepravní záznam. Quest sejme sponu poškozeného pouzdra; rozměrnou bednu a prázdné pouzdro nechá bezpečně na nádraží.",
+        "Později, zpátky na louce Meadowfold, Rain předvede Bitterovi rytmus klepání. Při zkoušce na pracovním stole vydá spona podobné slabé trojí cinknutí. Podobnost je stopa, nikoli důkaz toho, co se děje uvnitř Raina.",
+        "U louky Nova ukáže Rainovi poznámky, které chtějí vzít na cestu. Rain souhlasí se sdílením svých rozměrů, rytmu klepání i vyprávění o světle. Jeho soukromý zápisník zůstane zavřený u ostatních věcí na statku.",
+        "Na verandě statku Hush pořídí přehlednou kopii dohodnutého rytmu pro Questa na cestu. Quest ji porovná s originálem a pak ji spolu s Rainovým vyprávěním uloží do terénního zápisníku.",
+        "To odpoledne se Quest a Nova vracejí na nádraží ve městě Mosaic. Dochovaný přepravní záznam označuje přepravní pavilon v Bellaře za poslední místo odbavení. Je to konkrétní začátek pátrání, nikoli příslib odpovědi.",
+        "Quest, Nova, Beam, Hush, Quiver a Bash nastupují do odpoledního vlaku. Bash přinesl jeden prostorný terénní kufr na důkazy a potřebné vybavení. Na cestu vyráží šest přátel; Rain a jeho domácí tým zůstávají v Tessaře.",
+        "Před odjezdem Nova ještě vystoupí na nástupiště a zavolá Rainovi. Quest čeká u dveří vagonu. Než se vlak rozjede, vrátí sluchátko a znovu nastoupí; příště zavolá z Bellary."
+      ],
+      "captions": [
+        "Druhý den ráno se Quest po Rainově zprávě vrací na nádraží. Při pátrání po zásilce se našel přepravní záznam. Quest sejme sponu poškozeného pouzdra; rozměrnou bednu a prázdné pouzdro nechá bezpečně na nádraží.\n\nQuest: „Tuhle část můžeme vzít s sebou. Přepravní záznam nás vede do Bellary.“",
+        "Později, zpátky na louce Meadowfold, Rain předvede Bitterovi rytmus klepání. Při zkoušce na pracovním stole vydá spona podobné slabé trojí cinknutí. Podobnost je stopa, nikoli důkaz toho, co se děje uvnitř Raina.\n\nBitter: „Rytmus je podobný. Teď potřebujeme někoho, kdo se v tomto zařízení vyzná.“",
+        "U louky Nova ukáže Rainovi poznámky, které chtějí vzít na cestu. Rain souhlasí se sdílením svých rozměrů, rytmu klepání i vyprávění o světle. Jeho soukromý zápisník zůstane zavřený u ostatních věcí na statku.\n\nRain: „Tyhle stopy si vezměte. Moje soukromé stránky zůstanou tady.“",
+        "Na verandě statku Hush pořídí přehlednou kopii dohodnutého rytmu pro Questa na cestu. Quest ji porovná s originálem a pak ji spolu s Rainovým vyprávěním uloží do terénního zápisníku.\n\nHush [znakuje]: „Tři klepnutí, pak pauza. Zachovejte i tu mezeru.“",
+        "To odpoledne se Quest a Nova vracejí na nádraží ve městě Mosaic. Dochovaný přepravní záznam označuje přepravní pavilon v Bellaře za poslední místo odbavení. Je to konkrétní začátek pátrání, nikoli příslib odpovědi.\n\nQuest: „Můžeme se zeptat, kdo se zásilkou zacházel před bouří.“",
+        "Quest, Nova, Beam, Hush, Quiver a Bash nastupují do odpoledního vlaku. Bash přinesl jeden prostorný terénní kufr na důkazy a potřebné vybavení. Na cestu vyráží šest přátel; Rain a jeho domácí tým zůstávají v Tessaře.\n\nBash: „Šest míst, šest přátel. Kufr je zajištěný.“",
+        "Před odjezdem Nova ještě vystoupí na nástupiště a zavolá Rainovi. Quest čeká u dveří vagonu. Než se vlak rozjede, vrátí sluchátko a znovu nastoupí; příště zavolá z Bellary.\n\nRain [po pevné lince Postline]: „Volejte dál.“\nNova [po pevné lince Postline]: „Budeme. Zítra z Bellary.“"
+      ],
+      "introduction": "Rainovo vyprávění o světle dalo Questovi místo, kde začít pátrat. V poškozené bedně najde přenosnou stopu a místní porovnání přinese užitečné vodítko. Než kdokoli opustí Tessaru, Rain rozhodne, jaké informace si smějí vzít s sebou.",
+      "title": "První užitečná otázka"
+    },
+    "de": {
+      "altTexts": [
+        "Am nächsten Morgen kehrt Quest nach der Nachricht von Rain zur Station zurück. Die Suche nach den Lieferunterlagen hat einen Frachtbucheintrag ergeben. Quest entfernt den Verschluss des beschädigten Trägers und lässt die sperrige Kiste und den leeren Träger sicher an der Station zurück.",
+        "Später, zurück bei Meadowfold, wiederholt Rain das Klopfmuster für Bitter. Der Verschluss erzeugt beim Prüfstandstest ein ähnlich schwaches Drei-Takt-Klingeln. Die Ähnlichkeit ist ein Hinweis – kein Beweis dafür, was in ihm vorgeht.",
+        "Neben der Wiese zeigt Nova Rain die vorgeschlagenen Notizen für die Reise. Er erklärt sich bereit, seine Messungen, das Klopfen und seinen Bericht über das Licht mitzuteilen. Sein privates Notizbuch bleibt zusammen mit seinen Sachen im Bauernhaus verschlossen.",
+        "Auf der Veranda des Bauernhauses kopiert Hush klar den vereinbarten Rhythmus, den Quest auf die Reise nehmen soll. Quest vergleicht die Abschrift mit dem Original, bevor er sowohl die Kopie als auch Rains Bericht ins Feldnotizbuch einlegt.",
+        "An diesem Nachmittag kehren Quest und Nova zur Station Mosaic zurück. In den erhaltenen Transitaufzeichnungen wird der Versandpavillon von Bellara als letztes Abfertigungsbüro genannt. Es ist ein echter Ausgangspunkt, kein Versprechen einer Antwort.",
+        "Quest, Nova, Beam, Hush, Quiver und Bash steigen in den Nachmittagszug ein. Bash hat einen geräumigen Feldkoffer für die Beweise und eventuell benötigte Ausrüstung mitgebracht. Sechs Freunde sind unterwegs; Rain und sein Heimteam bleiben in Tessara.",
+        "Vor der Abfahrt tritt Nova zurück auf den Bahnsteig, um Rain anzurufen. Quest wartet an der Wagentür. Sie wird den Hörer zurückgeben und wieder einsteigen, bevor der Zug fährt. Der nächste Anruf kommt von Bellara."
+      ],
+      "captions": [
+        "Am nächsten Morgen kehrt Quest nach der Nachricht von Rain zur Station zurück. Die Suche nach den Lieferunterlagen hat einen Frachtbucheintrag ergeben. Quest entfernt den Verschluss des beschädigten Trägers und lässt die sperrige Kiste und den leeren Träger sicher an der Station zurück.\n\nQuest: „Diesen Teil können wir mitnehmen. Der Frachtbucheintrag führt nach Bellara.“",
+        "Später, zurück bei Meadowfold, wiederholt Rain das Klopfmuster für Bitter. Der Verschluss erzeugt beim Prüfstandstest ein ähnlich schwaches Drei-Takt-Klingeln. Die Ähnlichkeit ist ein Hinweis – kein Beweis dafür, was in ihm vorgeht.\n\nBitter: „Das Muster ist ähnlich. Jetzt brauchen wir jemanden, der sich mit dieser Hardware auskennt.“",
+        "Neben der Wiese zeigt Nova Rain die vorgeschlagenen Notizen für die Reise. Er erklärt sich bereit, seine Messungen, das Klopfen und seinen Bericht über das Licht mitzuteilen. Sein privates Notizbuch bleibt zusammen mit seinen Sachen im Bauernhaus verschlossen.\n\nRain: „Nehmt diese Hinweise mit. Meine privaten Seiten bleiben hier.“",
+        "Auf der Veranda des Bauernhauses kopiert Hush klar den vereinbarten Rhythmus, den Quest auf die Reise nehmen soll. Quest vergleicht die Abschrift mit dem Original, bevor er sowohl die Kopie als auch Rains Bericht ins Feldnotizbuch einlegt.\n\nHush [gebärdet]: „Dreimal klopfen, dann eine Pause. Haltet auch die Länge der Pause fest.“",
+        "An diesem Nachmittag kehren Quest und Nova zur Station Mosaic zurück. In den erhaltenen Transitaufzeichnungen wird der Versandpavillon von Bellara als letztes Abfertigungsbüro genannt. Es ist ein echter Ausgangspunkt, kein Versprechen einer Antwort.\n\nQuest: „Wir können fragen, wer diese Lieferung vor dem Sturm abgewickelt hat.“",
+        "Quest, Nova, Beam, Hush, Quiver und Bash steigen in den Nachmittagszug ein. Bash hat einen geräumigen Feldkoffer für die Beweise und eventuell benötigte Ausrüstung mitgebracht. Sechs Freunde sind unterwegs; Rain und sein Heimteam bleiben in Tessara.\n\nBash: „Sechs Plätze, sechs Freunde. Der Koffer ist gesichert.“",
+        "Vor der Abfahrt tritt Nova zurück auf den Bahnsteig, um Rain anzurufen. Quest wartet an der Wagentür. Sie wird den Hörer zurückgeben und wieder einsteigen, bevor der Zug fährt. Der nächste Anruf kommt von Bellara.\n\nRain [über die Postline-Leitung]: „Ruft weiterhin an.“\nNova [über die Postline-Leitung]: „Das werden wir. Bellara morgen.“"
+      ],
+      "introduction": "Der Bericht von Rain über das Licht hat Quest einen Ort zum Erkunden gegeben. Die beschädigte Kiste liefert ein tragbares Beweisstück, und ein Vergleich vor Ort gibt eine brauchbare Spur. Bevor jemand Tessara verlässt, entscheidet Rain, welche Informationen sie mitnehmen dürfen.",
+      "title": "Die erste nützliche Frage"
+    },
+    "en": {
+      "altTexts": [
+        "The next morning, Quest returns to the station after Rain's message. The delivery search has found a transit record. Quest removes the damaged carrier's clasp, leaving the bulky crate and empty carrier safely at the station.",
+        "Later, back at Meadowfold, Rain repeats the taps for Bitter. The clasp gives a similar faint three-beat ring on the bench test. The resemblance is a lead—not proof of what is happening inside him.",
+        "Beside the meadow, Nova shows Rain the proposed travel notes. He agrees to share his measurements, the taps and his account of the light. His private notebook stays closed with his belongings at the farmhouse.",
+        "On the farmhouse porch, Hush makes a clear copy of the agreed rhythm for Quest to take on the journey. Quest checks it against the original before putting both the copy and Rain's account in the field notebook.",
+        "That afternoon, Quest and Nova return to Mosaic station. The surviving transit record names Bellara's shipping pavilion as the last handling office. It is a real place to begin, not a promise of an answer.",
+        "Quest, Nova, Beam, Hush, Quiver and Bash board the afternoon train. Bash has brought one roomy field case for the evidence and any equipment they may need. Six friends are traveling; Rain and his home team are staying in Tessara.",
+        "Before departure, Nova steps back onto the platform to call Rain. Quest waits at the carriage door. She will return the handset and reboard before the train moves; the next call will come from Bellara."
+      ],
+      "captions": [
+        "The next morning, Quest returns to the station after Rain's message. The delivery search has found a transit record. Quest removes the damaged carrier's clasp, leaving the bulky crate and empty carrier safely at the station.\n\nQuest: “This is the part we can take. The transit record points to Bellara.”",
+        "Later, back at Meadowfold, Rain repeats the taps for Bitter. The clasp gives a similar faint three-beat ring on the bench test. The resemblance is a lead—not proof of what is happening inside him.\n\nBitter: “The pattern is similar. Now we need someone who knows this hardware.”",
+        "Beside the meadow, Nova shows Rain the proposed travel notes. He agrees to share his measurements, the taps and his account of the light. His private notebook stays closed with his belongings at the farmhouse.\n\nRain: “Take those clues. My private pages stay here.”",
+        "On the farmhouse porch, Hush makes a clear copy of the agreed rhythm for Quest to take on the journey. Quest checks it against the original before putting both the copy and Rain's account in the field notebook.\n\nHush [signing]: “Three taps, then a pause. Keep the gap too.”",
+        "That afternoon, Quest and Nova return to Mosaic station. The surviving transit record names Bellara's shipping pavilion as the last handling office. It is a real place to begin, not a promise of an answer.\n\nQuest: “We can ask who handled this shipment before the storm.”",
+        "Quest, Nova, Beam, Hush, Quiver and Bash board the afternoon train. Bash has brought one roomy field case for the evidence and any equipment they may need. Six friends are traveling; Rain and his home team are staying in Tessara.\n\nBash: “Six places, six friends. The case is secured.”",
+        "Before departure, Nova steps back onto the platform to call Rain. Quest waits at the carriage door. She will return the handset and reboard before the train moves; the next call will come from Bellara.\n\nRain [wired Postline]: “Keep calling.”\nNova [wired Postline]: “We will. Bellara tomorrow.”"
+      ],
+      "introduction": "Rain's account of the light has given Quest a place to investigate. The damaged crate yields a portable clue, and a local comparison produces a useful lead. Before anyone leaves Tessara, Rain decides what information they may take with them.",
+      "title": "The First Useful Question"
+    },
+    "es": {
+      "altTexts": [
+        "A la mañana siguiente, Quest regresa a la estación después del mensaje de Rain. La revisión de los envíos ha encontrado un registro de tránsito. Quest quita el cierre del receptáculo dañado, dejando la voluminosa caja y el receptáculo vacío a salvo en la estación.",
+        "Posteriormente, de vuelta en Meadowfold, Rain repite los golpecitos para Bitter. El cierre produce un débil sonido similar de tres tiempos en la prueba de banco. El parecido es una pista, no una prueba de lo que sucede en su interior.",
+        "Al lado del prado, Nova muestra a Rain las notas de viaje propuestas. Acepta compartir sus medidas, los golpecitos y su relato de la luz. Su libreta privada permanece cerrada con sus pertenencias en la granja.",
+        "En el porche de la granja, Hush hace una copia clara del ritmo acordado para que Quest la lleve de viaje. Quest la compara con el original antes de poner tanto la copia como el relato de Rain en el cuaderno de campo.",
+        "Esa tarde, Quest y Nova regresan a la estación Mosaic. El registro de tránsito superviviente nombra el pabellón de envíos de Bellara como la última oficina que tramitó la entrega. Es un punto de partida real, no una promesa de una respuesta.",
+        "Quest, Nova, Beam, Hush, Quiver y Bash abordan el tren de la tarde. Bash ha traído un amplio maletín de campo para guardar las pruebas y cualquier equipo que puedan necesitar. Viajan seis amigos; Rain y su equipo local se quedan en Tessara.",
+        "Antes de la salida, Nova regresa al andén para llamar a Rain. Quest espera en la puerta del vagón. Devolverá el auricular y volverá a subir antes de que el tren se mueva; la próxima llamada será de Bellara."
+      ],
+      "captions": [
+        "A la mañana siguiente, Quest regresa a la estación después del mensaje de Rain. La revisión de los envíos ha encontrado un registro de tránsito. Quest quita el cierre del receptáculo dañado, dejando la voluminosa caja y el receptáculo vacío a salvo en la estación.\n\nQuest: \"Esta es la parte que podemos tomar. El registro de tránsito apunta a Bellara\".",
+        "Posteriormente, de vuelta en Meadowfold, Rain repite los golpecitos para Bitter. El cierre produce un débil sonido similar de tres tiempos en la prueba de banco. El parecido es una pista, no una prueba de lo que sucede en su interior.\n\nBitter: \"El patrón es similar. Ahora necesitamos a alguien que conozca estas piezas\".",
+        "Al lado del prado, Nova muestra a Rain las notas de viaje propuestas. Acepta compartir sus medidas, los golpecitos y su relato de la luz. Su libreta privada permanece cerrada con sus pertenencias en la granja.\n\nRain: \"Toma esas pistas. Mis páginas privadas se quedan aquí\".",
+        "En el porche de la granja, Hush hace una copia clara del ritmo acordado para que Quest la lleve de viaje. Quest la compara con el original antes de poner tanto la copia como el relato de Rain en el cuaderno de campo.\n\nHush [en lengua de signos]: \"Tres toques, luego una pausa. Conserva también la duración de la pausa\".",
+        "Esa tarde, Quest y Nova regresan a la estación Mosaic. El registro de tránsito superviviente nombra el pabellón de envíos de Bellara como la última oficina que tramitó la entrega. Es un punto de partida real, no una promesa de una respuesta.\n\nQuest: “Podemos preguntar quién manejó este envío antes de la tormenta”.",
+        "Quest, Nova, Beam, Hush, Quiver y Bash abordan el tren de la tarde. Bash ha traído un amplio maletín de campo para guardar las pruebas y cualquier equipo que puedan necesitar. Viajan seis amigos; Rain y su equipo local se quedan en Tessara.\n\nBash: \"Seis lugares, seis amigos. El maletín está asegurado\".",
+        "Antes de la salida, Nova regresa al andén para llamar a Rain. Quest espera en la puerta del vagón. Devolverá el auricular y volverá a subir antes de que el tren se mueva; la próxima llamada será de Bellara.\n\nRain [por Postline con cable]: \"Sigue llamando\".\nNova [por Postline con cable]: \"Lo haremos. Bellara mañana\"."
+      ],
+      "introduction": "El relato de Rain sobre la luz le ha dado a Quest un lugar para investigar. La caja dañada proporciona una pista portátil y una comparación local produce una pista útil. Antes de que alguien abandone Tessara, Rain decide qué información pueden llevar consigo.",
+      "title": "La primera pregunta útil"
+    },
+    "fr": {
+      "altTexts": [
+        "Le lendemain matin, Quest revient à la gare après le message de Rain. La recherche dans les registres a permis de retrouver une trace du transport. Quest retire le fermoir du réceptacle endommagé, laissant la caisse volumineuse et le réceptacle vide en toute sécurité à la gare.",
+        "Plus tard, de retour à Meadowfold, Rain répète les coups pour Bitter. Le fermoir donne un léger tintement comparable en trois temps lors de l'essai sur l'établi. La ressemblance est une piste, pas une preuve de ce qui se passe en lui.",
+        "À côté du pré, Nova montre à Rain les notes de voyage proposées. Il accepte de partager ses mesures, les coups et son récit de la lumière. Son carnet privé reste fermé avec ses affaires à la ferme.",
+        "Sur le porche de la ferme, Hush copie clairement le rythme convenu pour le voyage de Quest. Quest le compare à l'original avant de mettre à la fois la copie et le récit de Rain dans le carnet de terrain.",
+        "Cet après-midi-là, Quest et Nova retournent à la gare de Mosaic. Le document de transport conservé désigne le pavillon d'expédition de Bellara comme dernier bureau de manutention. Il s’agit d’un véritable point de départ, et non d’une promesse de réponse.",
+        "Quest, Nova, Beam, Hush, Quiver et Bash montent à bord du train de l'après-midi. Bash a apporté une mallette spacieuse pour les preuves et tout l'équipement dont ils pourraient avoir besoin. Six amis voyagent ; Rain et son équipe locale restent à Tessara.",
+        "Avant le départ, Nova revient sur le quai pour appeler Rain. Quest attend à la porte du wagon. Elle rendra le combiné et remontera à bord avant que le train ne démarre ; le prochain appel viendra de Bellara."
+      ],
+      "captions": [
+        "Le lendemain matin, Quest revient à la gare après le message de Rain. La recherche dans les registres a permis de retrouver une trace du transport. Quest retire le fermoir du réceptacle endommagé, laissant la caisse volumineuse et le réceptacle vide en toute sécurité à la gare.\n\nQuest : « C'est la partie que nous pouvons prendre. Le dossier de transit indique Bellara. »",
+        "Plus tard, de retour à Meadowfold, Rain répète les coups pour Bitter. Le fermoir donne un léger tintement comparable en trois temps lors de l'essai sur l'établi. La ressemblance est une piste, pas une preuve de ce qui se passe en lui.\n\nBitter : « Le rythme est semblable. Nous avons maintenant besoin de quelqu'un qui connaît ce matériel. »",
+        "À côté du pré, Nova montre à Rain les notes de voyage proposées. Il accepte de partager ses mesures, les coups et son récit de la lumière. Son carnet privé reste fermé avec ses affaires à la ferme.\n\nRain : « Prenez ces indices. Mes pages privées restent ici. »",
+        "Sur le porche de la ferme, Hush copie clairement le rythme convenu pour le voyage de Quest. Quest le compare à l'original avant de mettre à la fois la copie et le récit de Rain dans le carnet de terrain.\n\nHush [signe] : « Trois tapotements, puis une pause. Notez aussi la durée de la pause. »",
+        "Cet après-midi-là, Quest et Nova retournent à la gare de Mosaic. Le document de transport conservé désigne le pavillon d'expédition de Bellara comme dernier bureau de manutention. Il s’agit d’un véritable point de départ, et non d’une promesse de réponse.\n\nQuest : « Nous pouvons demander qui a géré cette cargaison avant la tempête. »",
+        "Quest, Nova, Beam, Hush, Quiver et Bash montent à bord du train de l'après-midi. Bash a apporté une mallette spacieuse pour les preuves et tout l'équipement dont ils pourraient avoir besoin. Six amis voyagent ; Rain et son équipe locale restent à Tessara.\n\nBash : « Six places, six amis. La mallette est bien attachée. »",
+        "Avant le départ, Nova revient sur le quai pour appeler Rain. Quest attend à la porte du wagon. Elle rendra le combiné et remontera à bord avant que le train ne démarre ; le prochain appel viendra de Bellara.\n\nRain [par la ligne filaire Postline] : « Continuez à appeler. »\nNova [par la ligne filaire Postline] : « Nous le ferons. Bellara demain. »"
+      ],
+      "introduction": "Le récit de Rain sur la lumière a donné à Quest un endroit pour enquêter. La caisse endommagée fournit un indice portable et une comparaison locale produit une piste utile. Avant que quiconque ne quitte Tessara, Rain décide quelles informations ses amis peuvent emporter.",
+      "title": "La première question utile"
+    },
+    "hi": {
+      "altTexts": [
+        "अगली सुबह Rain का संदेश पाकर Quest स्टेशन लौटता है। माल आने के रिकॉर्ड में उसके रास्ते का विवरण मिला है। Quest स्मृति रखने के टूटे पात्र को बंद करने वाली क्लिप निकालता है। भारी बक्सा और खाली पात्र स्टेशन पर सुरक्षित रहते हैं।",
+        "बाद में Meadowfold में Rain, Bitter को तीन दस्तकों की लय दोहराकर सुनाता है। काम की मेज़ पर जाँचने से क्लिप में भी हल्की तीन ध्वनियाँ सुनाई देती हैं। यह एक सुराग है, Rain के भीतर क्या हो रहा है इसका सबूत नहीं।",
+        "मैदान के पास Nova दिखाती है कि यात्रा में वे कौन-से नोट साथ ले जाना चाहते हैं। Rain अपना माप, दस्तकों की लय और रोशनी का विवरण साझा करने को राज़ी होता है। उसकी निजी नोटबुक फार्महाउस में सामान के साथ बंद रहती है।",
+        "बरामदे में Hush लय की साफ़ प्रति बनाता है, जिसे Quest साथ ले जाएगा। Quest उसे मूल से मिलाता है। फिर प्रति और Rain का विवरण अपने काम के नोट्स में रखता है।",
+        "उस दोपहर Quest और Nova Mosaic स्टेशन लौटते हैं। बचे रिकॉर्ड में माल सँभालने वाले आखिरी दफ़्तर के रूप में Bellara का माल-ढुलाई भवन लिखा है। खोज शुरू करने का पता मिला है, जवाब मिलने की गारंटी नहीं।",
+        "Quest, Nova, Beam, Hush, Quiver और Bash दोपहर की ट्रेन में चढ़ते हैं। Bash सुरागों और रास्ते में ज़रूरी उपकरणों के लिए बड़ा बक्सा लाया है। छह दोस्त यात्रा करते हैं। Rain और घर पर उसकी देखभाल करने वाले दोस्त Tessara में रहते हैं।",
+        "ट्रेन छूटने से पहले Nova प्लेटफ़ॉर्म पर Rain को फ़ोन करने लौटती है। Quest डिब्बे के दरवाज़े पर रुकता है। Nova रिसीवर रखकर ट्रेन चलने से पहले चढ़ जाएगी। अगली कॉल Bellara से आएगी।"
+      ],
+      "captions": [
+        "अगली सुबह Rain का संदेश पाकर Quest स्टेशन लौटता है। माल आने के रिकॉर्ड में उसके रास्ते का विवरण मिला है। Quest स्मृति रखने के टूटे पात्र को बंद करने वाली क्लिप निकालता है। भारी बक्सा और खाली पात्र स्टेशन पर सुरक्षित रहते हैं।\n\nQuest: \"यह हिस्सा साथ ले जा सकते हैं। रिकॉर्ड में Bellara लिखा है।\"",
+        "बाद में Meadowfold में Rain, Bitter को तीन दस्तकों की लय दोहराकर सुनाता है। काम की मेज़ पर जाँचने से क्लिप में भी हल्की तीन ध्वनियाँ सुनाई देती हैं। यह एक सुराग है, Rain के भीतर क्या हो रहा है इसका सबूत नहीं।\n\nBitter: \"लय मिलती है। अब ऐसा कोई चाहिए जो इस पुर्ज़े को जानता हो।\"",
+        "मैदान के पास Nova दिखाती है कि यात्रा में वे कौन-से नोट साथ ले जाना चाहते हैं। Rain अपना माप, दस्तकों की लय और रोशनी का विवरण साझा करने को राज़ी होता है। उसकी निजी नोटबुक फार्महाउस में सामान के साथ बंद रहती है।\n\nRain: \"ये सुराग ले जाओ। मेरे निजी पन्ने यहीं रहेंगे।\"",
+        "बरामदे में Hush लय की साफ़ प्रति बनाता है, जिसे Quest साथ ले जाएगा। Quest उसे मूल से मिलाता है। फिर प्रति और Rain का विवरण अपने काम के नोट्स में रखता है।\n\nHush [सांकेतिक भाषा में]: \"तीन दस्तकें, फिर विराम। विराम की लंबाई भी दर्ज करना।\"",
+        "उस दोपहर Quest और Nova Mosaic स्टेशन लौटते हैं। बचे रिकॉर्ड में माल सँभालने वाले आखिरी दफ़्तर के रूप में Bellara का माल-ढुलाई भवन लिखा है। खोज शुरू करने का पता मिला है, जवाब मिलने की गारंटी नहीं।\n\nQuest: \"वहाँ पूछेंगे कि तूफ़ान से पहले यह माल किसने सँभाला था।\"",
+        "Quest, Nova, Beam, Hush, Quiver और Bash दोपहर की ट्रेन में चढ़ते हैं। Bash सुरागों और रास्ते में ज़रूरी उपकरणों के लिए बड़ा बक्सा लाया है। छह दोस्त यात्रा करते हैं। Rain और घर पर उसकी देखभाल करने वाले दोस्त Tessara में रहते हैं।\n\nBash: \"छह सीटें, छह दोस्त। बक्सा भी बँधा है।\"",
+        "ट्रेन छूटने से पहले Nova प्लेटफ़ॉर्म पर Rain को फ़ोन करने लौटती है। Quest डिब्बे के दरवाज़े पर रुकता है। Nova रिसीवर रखकर ट्रेन चलने से पहले चढ़ जाएगी। अगली कॉल Bellara से आएगी।\n\nRain [Postline की तार वाली फ़ोन लाइन पर]: \"फ़ोन करती रहना।\"\nNova [Postline की तार वाली फ़ोन लाइन पर]: \"करते रहेंगे। कल Bellara से।\""
+      ],
+      "introduction": "रोशनी का Rain का विवरण Quest को खोज का रास्ता देता है। खराब बक्से से साथ ले जाने लायक सुराग मिलता है, और पास की जाँच से एक मिलती लय। किसी के Tessara छोड़ने से पहले Rain तय करता है कि दोस्त कौन-सी जानकारी ले जा सकते हैं।",
+      "title": "पहला उपयोगी सवाल"
+    },
+    "id": {
+      "altTexts": [
+        "Keesokan paginya, Quest kembali ke stasiun setelah pesan Rain. Pencarian pengiriman telah menemukan catatan transit. Quest melepas pengait wadah yang rusak, meninggalkan peti besar dan wadah kosong dengan aman di stasiun.",
+        "Kemudian, di Meadowfold, Rain menirukan ketukan untuk Bitter. Pengaitnya menghasilkan bunyi samar tiga ketukan yang serupa saat diuji di meja kerja. Kemiripannya hanyalah sebuah petunjuk—bukan bukti atas apa yang terjadi di dalam dirinya.",
+        "Di samping padang rumput, Nova menunjukkan kepada Rain catatan perjalanan yang diusulkan. Dia setuju untuk membagikan pengukurannya, ketukannya, dan penjelasannya tentang cahaya. Buku catatan pribadinya tetap tertutup bersama barang-barangnya di rumah pertanian.",
+        "Di teras rumah pertanian, Hush membuat salinan yang jelas dari ritme yang disepakati untuk dibawa Quest dalam perjalanan. Quest memeriksanya dengan aslinya sebelum memasukkan salinan dan cerita Rain ke dalam buku catatan lapangan.",
+        "Sore itu, Quest dan Nova kembali ke stasiun Mosaic. Catatan transit yang masih ada menyebut paviliun pengiriman Bellara sebagai kantor penanganan terakhir. Ini adalah tempat yang nyata untuk memulai, bukan janji akan sebuah jawaban.",
+        "Quest, Nova, Beam, Hush, Quiver dan Bash menaiki kereta sore. Bash telah membawa koper besar untuk bukti dan peralatan apa pun yang mungkin mereka perlukan. Enam orang teman sedang bepergian; Rain dan teman-teman yang merawatnya di rumah tinggal di Tessara.",
+        "Sebelum berangkat, Nova kembali ke peron untuk menelepon Rain. Quest menunggu di pintu kereta. Dia akan mengembalikan gagang telepon dan naik kembali sebelum kereta bergerak; panggilan berikutnya akan datang dari Bellara."
+      ],
+      "captions": [
+        "Keesokan paginya, Quest kembali ke stasiun setelah pesan Rain. Pencarian pengiriman telah menemukan catatan transit. Quest melepas pengait wadah yang rusak, meninggalkan peti besar dan wadah kosong dengan aman di stasiun.\n\nQuest: \"Ini adalah bagian yang dapat kita ambil. Catatan transit menunjuk ke Bellara.\"",
+        "Kemudian, di Meadowfold, Rain menirukan ketukan untuk Bitter. Pengaitnya menghasilkan bunyi samar tiga ketukan yang serupa saat diuji di meja kerja. Kemiripannya hanyalah sebuah petunjuk—bukan bukti atas apa yang terjadi di dalam dirinya.\n\nBitter: \"Polanya mirip. Sekarang kita membutuhkan seseorang yang memahami komponen ini.\"",
+        "Di samping padang rumput, Nova menunjukkan kepada Rain catatan perjalanan yang diusulkan. Dia setuju untuk membagikan pengukurannya, ketukannya, dan penjelasannya tentang cahaya. Buku catatan pribadinya tetap tertutup bersama barang-barangnya di rumah pertanian.\n\nRain: \"Ambil petunjuk itu. Halaman pribadiku tetap di sini.\"",
+        "Di teras rumah pertanian, Hush membuat salinan yang jelas dari ritme yang disepakati untuk dibawa Quest dalam perjalanan. Quest memeriksanya dengan aslinya sebelum memasukkan salinan dan cerita Rain ke dalam buku catatan lapangan.\n\nHush [berbahasa isyarat]: \"Tiga ketukan, lalu jeda. Pertahankan juga panjang jedanya.\"",
+        "Sore itu, Quest dan Nova kembali ke stasiun Mosaic. Catatan transit yang masih ada menyebut paviliun pengiriman Bellara sebagai kantor penanganan terakhir. Ini adalah tempat yang nyata untuk memulai, bukan janji akan sebuah jawaban.\n\nQuest: “Kami dapat menanyakan siapa yang menangani kiriman ini sebelum badai.”",
+        "Quest, Nova, Beam, Hush, Quiver dan Bash menaiki kereta sore. Bash telah membawa koper besar untuk bukti dan peralatan apa pun yang mungkin mereka perlukan. Enam orang teman sedang bepergian; Rain dan teman-teman yang merawatnya di rumah tinggal di Tessara.\n\nBash: \"Enam tempat, enam teman. Kopernya sudah diikat.\"",
+        "Sebelum berangkat, Nova kembali ke peron untuk menelepon Rain. Quest menunggu di pintu kereta. Dia akan mengembalikan gagang telepon dan naik kembali sebelum kereta bergerak; panggilan berikutnya akan datang dari Bellara.\n\nRain [melalui Postline berkabel]: “Teruslah menelepon.”\nNova [melalui Postline berkabel]: “Kami akan melakukannya. Bellara besok.”"
+      ],
+      "introduction": "Kisah cahaya Rain telah memberi Quest tempat untuk diselidiki. Peti yang rusak menghasilkan petunjuk portabel, dan perbandingan lokal menghasilkan petunjuk yang berguna. Sebelum siapa pun meninggalkan Tessara, Rain memutuskan informasi apa yang boleh mereka bawa.",
+      "title": "Pertanyaan Berguna Pertama"
+    },
+    "it": {
+      "altTexts": [
+        "La mattina successiva, Quest ritorna alla stazione dopo il messaggio di Rain. La ricerca della consegna ha trovato una registrazione di transito. Quest rimuove la chiusura del contenitore danneggiato, lasciando la cassa ingombrante e il contenitore vuoto al sicuro alla stazione.",
+        "Più tardi, a Meadowfold, Rain ripete i tocchi per Bitter. La chiusura emette un debole suono simile a tre colpi durante il test al banco. La somiglianza è un indizio, non una prova di ciò che sta accadendo dentro di lui.",
+        "Accanto al prato, Nova mostra a Rain gli appunti di viaggio proposti. Accetta di condividere le sue misurazioni, i colpetti e il suo resoconto della luce. Il suo taccuino privato resta chiuso tra le sue cose alla fattoria.",
+        "Sotto il portico della fattoria, Hush riproduce chiaramente il ritmo concordato che Quest porterà in viaggio. Quest lo confronta con l'originale prima di inserire sia la copia che il racconto di Rain nel taccuino da campo.",
+        "Quel pomeriggio, Quest e Nova ritornano alla stazione Mosaic. Il registro di transito conservato indica il padiglione di spedizione di Bellara come l'ultimo ufficio di movimentazione. È un vero punto di partenza, non una promessa di risposta.",
+        "Quest, Nova, Beam, Hush, Quiver e Bash salgono sul treno pomeridiano. Bash ha portato una valigetta spaziosa per le prove e tutta l'attrezzatura di cui potrebbero aver bisogno. Sei amici sono in viaggio; Rain e la sua squadra di casa rimarranno a Tessara.",
+        "Prima della partenza, Nova torna sul marciapiede della stazione per chiamare Rain. Quest aspetta alla porta della carrozza. Restituirà la cornetta e salirà a bordo prima che il treno si muova; la prossima chiamata arriverà da Bellara."
+      ],
+      "captions": [
+        "La mattina successiva, Quest ritorna alla stazione dopo il messaggio di Rain. La ricerca della consegna ha trovato una registrazione di transito. Quest rimuove la chiusura del contenitore danneggiato, lasciando la cassa ingombrante e il contenitore vuoto al sicuro alla stazione.\n\nQuest: \"Questa è la parte che possiamo prendere. La registrazione del transito punta a Bellara.\"",
+        "Più tardi, a Meadowfold, Rain ripete i tocchi per Bitter. La chiusura emette un debole suono simile a tre colpi durante il test al banco. La somiglianza è un indizio, non una prova di ciò che sta accadendo dentro di lui.\n\nBitter: \"Lo schema è simile. Ora abbiamo bisogno di qualcuno che conosca questi componenti.\"",
+        "Accanto al prato, Nova mostra a Rain gli appunti di viaggio proposti. Accetta di condividere le sue misurazioni, i colpetti e il suo resoconto della luce. Il suo taccuino privato resta chiuso tra le sue cose alla fattoria.\n\nRain: \"Prendi quegli indizi. Le mie pagine private restano qui.\"",
+        "Sotto il portico della fattoria, Hush riproduce chiaramente il ritmo concordato che Quest porterà in viaggio. Quest lo confronta con l'originale prima di inserire sia la copia che il racconto di Rain nel taccuino da campo.\n\nHush [in lingua dei segni]: \"Tre tocchi, poi una pausa. Conserva anche la durata della pausa.\"",
+        "Quel pomeriggio, Quest e Nova ritornano alla stazione Mosaic. Il registro di transito conservato indica il padiglione di spedizione di Bellara come l'ultimo ufficio di movimentazione. È un vero punto di partenza, non una promessa di risposta.\n\nQuest: \"Possiamo chiedere chi ha gestito questa spedizione prima della tempesta.\"",
+        "Quest, Nova, Beam, Hush, Quiver e Bash salgono sul treno pomeridiano. Bash ha portato una valigetta spaziosa per le prove e tutta l'attrezzatura di cui potrebbero aver bisogno. Sei amici sono in viaggio; Rain e la sua squadra di casa rimarranno a Tessara.\n\nBash: \"Sei posti, sei amici. La valigetta è fissata.\"",
+        "Prima della partenza, Nova torna sul marciapiede della stazione per chiamare Rain. Quest aspetta alla porta della carrozza. Restituirà la cornetta e salirà a bordo prima che il treno si muova; la prossima chiamata arriverà da Bellara.\n\nRain [via Postline cablata]: \"Continua a chiamare\".\nNova [via Postline cablata]: \"Lo faremo. Bellara domani.\""
+      ],
+      "introduction": "Il resoconto della luce di Rain ha dato a Quest un posto su cui indagare. La cassa danneggiata fornisce un indizio portatile e un confronto locale produce una pista utile. Prima che qualcuno lasci Tessara, Rain decide quali informazioni i viaggiatori possono portare con sé.",
+      "title": "La prima domanda utile"
+    },
+    "ja": {
+      "altTexts": [
+        "翌朝、Rain のメッセージの後、Quest は駅に戻ります。配送の記録を調べると、中継の記録が見つかりました。 Quest は、破損した記憶容器の留め金を取り外し、かさばる木枠と空の記憶容器を駅に安全に残します。",
+        "その後、Meadowfold に戻り、Rain が聞いたノックを Bitter に再現します。留め金を作業台で調べると、よく似た小さな音が三度鳴ります。類似性は手がかりであり、彼の中で何が起こっているかを証明するものではありません。",
+        "草原の横で、Novaは旅に持っていく調査メモの案をRainに見せます。彼は、測定値、ノックの音、光についての説明を共有することに同意します。彼の個人的なノートは、農家に持ち物と一緒に閉じられたままです。",
+        "農家のベランダで、Hushは、共有してよいと決めたリズムを、Questが旅に持っていけるよう分かりやすく写します。 Quest は、コピーと Rain の説明の両方をフィールド ノートに入れる前に、オリジナルと照合します。",
+        "その日の午後、QuestとNovaはMosaic駅に戻ります。現存する輸送記録には、Bellara の港の荷扱い館が最後の取り扱い事務所として挙げられています。これは実際の出発点であり、答えを約束するものではありません。",
+        "午後の列車には、Quest、Nova、Beam、Hush、Quiver、Bashが乗車します。 Bash は、証拠と必要な機器を入れるために、広々としたフィールドケースを 1 つ持ってきました。友人6人が旅行中です。 Rainと彼を支える地元の仲間はTessaraに滞在します。",
+        "出発前に、Nova はプラットフォームに戻り、Rain に電話します。 Quest は車両のドアで待機しています。彼女は受話器を返し、電車が発車する前に再び乗り込みます。次の呼び出しは Bellara から行われます。"
+      ],
+      "captions": [
+        "翌朝、Rain のメッセージの後、Quest は駅に戻ります。配送の記録を調べると、中継の記録が見つかりました。 Quest は、破損した記憶容器の留め金を取り外し、かさばる木枠と空の記憶容器を駅に安全に残します。\n\nQuest: 「この部品なら持っていけます。通過記録は Bellara を示しています。」",
+        "その後、Meadowfold に戻り、Rain が聞いたノックを Bitter に再現します。留め金を作業台で調べると、よく似た小さな音が三度鳴ります。類似性は手がかりであり、彼の中で何が起こっているかを証明するものではありません。\n\nBitter: 「パターンは似ています。今度は、このハードウェアに詳しい人が必要です。」",
+        "草原の横で、Novaは旅に持っていく調査メモの案をRainに見せます。彼は、測定値、ノックの音、光についての説明を共有することに同意します。彼の個人的なノートは、農家に持ち物と一緒に閉じられたままです。\n\nRain: 「その手がかりは持っていってください。個人的なノートはここに置いておきます。」",
+        "農家のベランダで、Hushは、共有してよいと決めたリズムを、Questが旅に持っていけるよう分かりやすく写します。 Quest は、コピーと Rain の説明の両方をフィールド ノートに入れる前に、オリジナルと照合します。\n\nHush [手話]: 「三度のノックと、その後の間です。間の長さも残してください。」",
+        "その日の午後、QuestとNovaはMosaic駅に戻ります。現存する輸送記録には、Bellara の港の荷扱い館が最後の取り扱い事務所として挙げられています。これは実際の出発点であり、答えを約束するものではありません。\n\nQuest: 「嵐の前に誰がこの荷物を扱ったかを尋ねることができます。」",
+        "午後の列車には、Quest、Nova、Beam、Hush、Quiver、Bashが乗車します。 Bash は、証拠と必要な機器を入れるために、広々としたフィールドケースを 1 つ持ってきました。友人6人が旅行中です。 Rainと彼を支える地元の仲間はTessaraに滞在します。\n\nBash: 「席は六つ、友達も六人。ケースも固定しました。」",
+        "出発前に、Nova はプラットフォームに戻り、Rain に電話します。 Quest は車両のドアで待機しています。彼女は受話器を返し、電車が発車する前に再び乗り込みます。次の呼び出しは Bellara から行われます。\n\nRain [Postline有線電話]: 「電話を続けてください。」\nNova [Postline有線電話]: 「そうします。明日は Bellara です。」"
+      ],
+      "introduction": "Rain の光に関する説明により、Questに調査の出発点が見えてきました。破損した箱からは持ち運び可能な手がかりが得られ、現地での比較から有用な手がかりが得られます。誰かが Tessara を離れる前に、Rain はどの情報を持っていってよいかを決定します。",
+      "title": "最初の役立つ質問"
+    },
+    "ko": {
+      "altTexts": [
+        "다음날 아침, Quest는 Rain의 메시지 후에 역으로 돌아옵니다. 배송 기록을 조사한 결과 운송 기록이 발견되었습니다. Quest는 손상된 기억 보관 용기의 걸쇠를 제거하여 부피가 큰 상자와 빈 기억 보관 용기를 역에 안전하게 남겨둡니다.",
+        "나중에 Meadowfold로 돌아가서 Rain은 들었던 두드림을 Bitter에게 재현해 줍니다. 걸쇠를 작업대에서 시험하자, 비슷한 작은 울림이 세 번 이어집니다. 그 유사성은 단서이지 그 사람 내부에서 무슨 일이 일어나고 있는지에 대한 증거가 아닙니다.",
+        "초원 옆에 Nova는 조사 여행에 가져갈 메모 초안을 Rain에게 보여 줍니다. 그는 자신의 측정값, 두드림 소리 및 빛에 대한 설명을 공유하는 데 동의합니다. 그의 개인 노트는 농가에 소지품과 함께 닫혀 있습니다.",
+        "농가 현관에서 Hush는 Quest가 여행을 떠날 수 있도록 합의된 리듬의 명확한 사본을 만듭니다. Quest는 복사본과 Rain의 설명을 조사 수첩에 넣기 전에 원본과 대조하여 확인합니다.",
+        "그날 오후, Quest와 Nova는 Mosaic 역으로 돌아옵니다. 남아 있는 운송 기록에는 Bellara의 배송 파빌리온이 마지막 처리 사무실로 지정되어 있습니다. 그것은 대답을 약속하는 것이 아니라 시작해야 할 실제 장소입니다.",
+        "Quest, Nova, Beam, Hush, Quiver 및 Bash는 오후 열차에 탑승합니다. Bash는 증거와 필요한 장비를 확보하기 위해 넓은 현장 케이스 하나를 가져왔습니다. 여섯 명의 친구가 여행 중입니다. Rain과 곁을 지키는 친구들은 Tessara에 머물고 있습니다.",
+        "출발하기 전에 Nova는 플랫폼으로 돌아와 Rain을 호출합니다. Quest는 객차 문에서 기다리고 있습니다. 그녀는 기차가 움직이기 전에 송수화기를 반납하고 다시 탑승할 것입니다. 다음 전화는 Bellara에서 올 것입니다."
+      ],
+      "captions": [
+        "다음날 아침, Quest는 Rain의 메시지 후에 역으로 돌아옵니다. 배송 기록을 조사한 결과 운송 기록이 발견되었습니다. Quest는 손상된 기억 보관 용기의 걸쇠를 제거하여 부피가 큰 상자와 빈 기억 보관 용기를 역에 안전하게 남겨둡니다.\n\nQuest: \"이 부품은 가지고 갈 수 있겠어요. 운송 기록은 Bellara를 가리킵니다.\"",
+        "나중에 Meadowfold로 돌아가서 Rain은 들었던 두드림을 Bitter에게 재현해 줍니다. 걸쇠를 작업대에서 시험하자, 비슷한 작은 울림이 세 번 이어집니다. 그 유사성은 단서이지 그 사람 내부에서 무슨 일이 일어나고 있는지에 대한 증거가 아닙니다.\n\nBitter: \"패턴은 비슷합니다. 이제 이 하드웨어를 아는 사람이 필요합니다.\"",
+        "초원 옆에 Nova는 조사 여행에 가져갈 메모 초안을 Rain에게 보여 줍니다. 그는 자신의 측정값, 두드림 소리 및 빛에 대한 설명을 공유하는 데 동의합니다. 그의 개인 노트는 농가에 소지품과 함께 닫혀 있습니다.\n\nRain: \"그 단서들은 가져가세요. 개인적인 노트는 여기에 둘게요.\"",
+        "농가 현관에서 Hush는 Quest가 여행을 떠날 수 있도록 합의된 리듬의 명확한 사본을 만듭니다. Quest는 복사본과 Rain의 설명을 조사 수첩에 넣기 전에 원본과 대조하여 확인합니다.\n\nHush [수어]: \"세 번 두드린 뒤 잠깐 멈춥니다. 간격도 유지하세요.\"",
+        "그날 오후, Quest와 Nova는 Mosaic 역으로 돌아옵니다. 남아 있는 운송 기록에는 Bellara의 배송 파빌리온이 마지막 처리 사무실로 지정되어 있습니다. 그것은 대답을 약속하는 것이 아니라 시작해야 할 실제 장소입니다.\n\nQuest: “폭풍이 오기 전에 누가 이 배송을 처리했는지 물어볼 수 있습니다.”",
+        "Quest, Nova, Beam, Hush, Quiver 및 Bash는 오후 열차에 탑승합니다. Bash는 증거와 필요한 장비를 확보하기 위해 넓은 현장 케이스 하나를 가져왔습니다. 여섯 명의 친구가 여행 중입니다. Rain과 곁을 지키는 친구들은 Tessara에 머물고 있습니다.\n\nBash: \"좌석 여섯 개, 친구 여섯 명. 케이스도 단단히 고정했어요.\"",
+        "출발하기 전에 Nova는 플랫폼으로 돌아와 Rain을 호출합니다. Quest는 객차 문에서 기다리고 있습니다. 그녀는 기차가 움직이기 전에 송수화기를 반납하고 다시 탑승할 것입니다. 다음 전화는 Bellara에서 올 것입니다.\n\nRain [Postline 유선 전화]: “계속 전화하세요.”\nNova [Postline 유선 전화]: \"그럴게요. 내일은 Bellara에서 전화할게요.\""
+      ],
+      "introduction": "Rain의 빛에 대한 설명은 Quest에게 조사할 장소를 제공했습니다. 손상된 상자에서 휴대용 단서를 얻을 수 있으며, 현장 비교를 통해 유용한 단서를 얻을 수 있습니다. Tessara를 떠나기 전에 Rain은 어떤 정보를 가져갈 수 있는지 결정합니다.",
+      "title": "첫 번째 유용한 질문"
+    },
+    "pl": {
+      "altTexts": [
+        "Następnego ranka Quest wraca na stację po wiadomości od Raina. Poszukiwania w dokumentach dostawy ujawniły zapis dotyczący transportu. Quest odczepia zapięcie uszkodzonego pojemnika, pozostawiając nieporęczną skrzynię i pusty pojemnik bezpiecznie na stacji.",
+        "Później, na łące Meadowfold, Rain odtwarza stuknięcia dla Bittera. Zapięcie daje podczas próby na stole roboczym podobny, słaby dźwięk trzech stuknięć. Podobieństwo jest tropem, a nie dowodem na to, co się w nim dzieje.",
+        "Obok łąki Nova pokazuje Rainowi proponowane notatki z podróży. Rain zgadza się udostępnić swoje pomiary, stuknięcia i opis światła. Jego prywatny notatnik pozostaje zamknięty pośród jego rzeczy w domu na farmie.",
+        "Na werandzie domu Hush tworzy wyraźną kopię uzgodnionego rytmu, aby Quest mógł zabrać ją w podróż. Quest porównuje kopię z oryginałem przed umieszczeniem zarówno kopii, jak i relacji Raina w notatniku terenowym.",
+        "Tego popołudnia Quest i Nova wracają na stację w mieście Mosaic. Zachowany zapis tranzytowy określa pawilon przeładunkowy w mieście Bellara jako ostatnie biuro przeładunkowe. To jest prawdziwy punkt wyjścia, a nie obietnica odpowiedzi.",
+        "Quest, Nova, Beam, Hush, Quiver i Bash wsiadają do popołudniowego pociągu. Bash zabrał ze sobą jedną pojemną walizkę terenową na dowody i cały sprzęt, jakiego mogą potrzebować. Podróżuje sześcioro przyjaciół; Rain i jego gospodarze przebywają w Tessarze.",
+        "Przed odjazdem Nova wraca na peron, aby zadzwonić do Raina. Quest czeka przy drzwiach wagonu. Nova odłoży słuchawkę i wsiądzie ponownie, zanim pociąg ruszy; następne połączenie nadejdzie z miasta Bellara."
+      ],
+      "captions": [
+        "Następnego ranka Quest wraca na stację po wiadomości od Raina. Poszukiwania w dokumentach dostawy ujawniły zapis dotyczący transportu. Quest odczepia zapięcie uszkodzonego pojemnika, pozostawiając nieporęczną skrzynię i pusty pojemnik bezpiecznie na stacji.\n\nQuest: \"To jest część, którą możemy zabrać. Zapis tranzytu wskazuje na miasto Bellara. \"",
+        "Później, na łące Meadowfold, Rain odtwarza stuknięcia dla Bittera. Zapięcie daje podczas próby na stole roboczym podobny, słaby dźwięk trzech stuknięć. Podobieństwo jest tropem, a nie dowodem na to, co się w nim dzieje.\n\nBitter: \"Wzorzec jest podobny. Teraz potrzebujemy kogoś, kto zna ten sprzęt. \"",
+        "Obok łąki Nova pokazuje Rainowi proponowane notatki z podróży. Rain zgadza się udostępnić swoje pomiary, stuknięcia i opis światła. Jego prywatny notatnik pozostaje zamknięty pośród jego rzeczy w domu na farmie.\n\nRain: \"Weź te wskazówki. Moje prywatne strony zostaną tutaj.\"",
+        "Na werandzie domu Hush tworzy wyraźną kopię uzgodnionego rytmu, aby Quest mógł zabrać ją w podróż. Quest porównuje kopię z oryginałem przed umieszczeniem zarówno kopii, jak i relacji Raina w notatniku terenowym.\n\nHush [w języku migowym]: \"Trzy stuknięcia, potem pauza. Zachowaj też długość przerwy.\"",
+        "Tego popołudnia Quest i Nova wracają na stację w mieście Mosaic. Zachowany zapis tranzytowy określa pawilon przeładunkowy w mieście Bellara jako ostatnie biuro przeładunkowe. To jest prawdziwy punkt wyjścia, a nie obietnica odpowiedzi.\n\nQuest: „Możemy zapytać, kto zajmował się tą przesyłką przed burzą.”",
+        "Quest, Nova, Beam, Hush, Quiver i Bash wsiadają do popołudniowego pociągu. Bash zabrał ze sobą jedną pojemną walizkę terenową na dowody i cały sprzęt, jakiego mogą potrzebować. Podróżuje sześcioro przyjaciół; Rain i jego gospodarze przebywają w Tessarze.\n\nBash: \"Sześć miejsc dla naszej szóstki. Walizka zabezpieczona.\"",
+        "Przed odjazdem Nova wraca na peron, aby zadzwonić do Raina. Quest czeka przy drzwiach wagonu. Nova odłoży słuchawkę i wsiądzie ponownie, zanim pociąg ruszy; następne połączenie nadejdzie z miasta Bellara.\n\nRain [przez przewodową linię Postline]: „Dzwoń dalej”.\nNova [przez przewodową linię Postline]: „Będziemy. Bellara jutro.”"
+      ],
+      "introduction": "Relacja Raina o światełku wskazała Questowi miejsce do zbadania. Uszkodzona skrzynia dostarcza przenośnej wskazówki, a lokalne porównanie daje przydatny trop. Zanim ktokolwiek opuści Tessarę, Rain decyduje, jakie informacje przyjaciele mogą ze sobą zabrać.",
+      "title": "Pierwsze przydatne pytanie"
+    },
+    "pt": {
+      "altTexts": [
+        "Na manhã seguinte, Quest retorna à estação após a mensagem de Rain. A busca nos registros de entrega encontrou um registro de trânsito. Quest remove o fecho do recipiente danificado, deixando a caixa volumosa e o recipiente vazio em segurança na estação.",
+        "Mais tarde, de volta a Meadowfold, Rain repete os toques para Bitter. O fecho emite um leve toque semelhante de três batidas no teste de bancada. A semelhança é uma pista – não uma prova do que está acontecendo dentro dele.",
+        "Ao lado do prado, Nova mostra a Rain as notas de viagem propostas. Ele concorda em compartilhar suas medidas, as batidas e seu relato sobre a luz. Seu caderno particular fica fechado com seus pertences da fazenda.",
+        "Na varanda da casa da fazenda, Hush faz uma cópia nítida do ritmo combinado para Quest levar na viagem. Quest compara a cópia com o original antes de colocar a cópia e o relato de Rain no caderno de campo.",
+        "Naquela tarde, Quest e Nova retornam à estação Mosaic. O registro de trânsito preservado aponta o pavilhão de expedição de Bellara como a última repartição a cuidar da remessa. É um verdadeiro ponto de partida, não uma promessa de resposta.",
+        "Quest, Nova, Beam, Hush, Quiver e Bash embarcam no trem da tarde. Bash trouxe uma maleta de campo espaçosa para as evidências e qualquer equipamento de que possam precisar. Seis amigos estão viajando; Rain e sua equipe da casa ficarão em Tessara.",
+        "Antes da partida, Nova volta à plataforma para ligar para Rain. Quest espera na porta do vagão. Ela devolverá o aparelho e embarcará novamente antes que o trem se mova; a próxima chamada virá de Bellara."
+      ],
+      "captions": [
+        "Na manhã seguinte, Quest retorna à estação após a mensagem de Rain. A busca nos registros de entrega encontrou um registro de trânsito. Quest remove o fecho do recipiente danificado, deixando a caixa volumosa e o recipiente vazio em segurança na estação.\n\nQuest: \"Esta é a peça que podemos levar. O registro de trânsito aponta para Bellara.\"",
+        "Mais tarde, de volta a Meadowfold, Rain repete os toques para Bitter. O fecho emite um leve toque semelhante de três batidas no teste de bancada. A semelhança é uma pista – não uma prova do que está acontecendo dentro dele.\n\nBitter: \"O padrão é semelhante. Agora precisamos de alguém que conheça essas peças.\"",
+        "Ao lado do prado, Nova mostra a Rain as notas de viagem propostas. Ele concorda em compartilhar suas medidas, as batidas e seu relato sobre a luz. Seu caderno particular fica fechado com seus pertences da fazenda.\n\nRain: \"Pegue essas pistas. Minhas páginas privadas ficam aqui.\"",
+        "Na varanda da casa da fazenda, Hush faz uma cópia nítida do ritmo combinado para Quest levar na viagem. Quest compara a cópia com o original antes de colocar a cópia e o relato de Rain no caderno de campo.\n\nHush [em língua de sinais]: \"Três toques, depois uma pausa. Preserve também a duração da pausa.\"",
+        "Naquela tarde, Quest e Nova retornam à estação Mosaic. O registro de trânsito preservado aponta o pavilhão de expedição de Bellara como a última repartição a cuidar da remessa. É um verdadeiro ponto de partida, não uma promessa de resposta.\n\nQuest: “Podemos perguntar quem administrou esta remessa antes da tempestade.”",
+        "Quest, Nova, Beam, Hush, Quiver e Bash embarcam no trem da tarde. Bash trouxe uma maleta de campo espaçosa para as evidências e qualquer equipamento de que possam precisar. Seis amigos estão viajando; Rain e sua equipe da casa ficarão em Tessara.\n\nBash: \"Seis lugares, seis amigos. A maleta está presa.\"",
+        "Antes da partida, Nova volta à plataforma para ligar para Rain. Quest espera na porta do vagão. Ela devolverá o aparelho e embarcará novamente antes que o trem se mova; a próxima chamada virá de Bellara.\n\nRain [via Postline com fio]: “Continue ligando.”\nNova [via Postline com fio]: \"Vamos continuar. Amanhã, de Bellara.\""
+      ],
+      "introduction": "O relato de Rain sobre a luz deu a Quest um lugar para investigar. A caixa danificada fornece uma pista portátil e uma comparação local produz uma pista útil. Antes de alguém deixar Tessara, Rain decide quais informações podem levar consigo.",
+      "title": "A primeira pergunta útil"
+    },
+    "ru": {
+      "altTexts": [
+        "На следующее утро Quest возвращается на станцию после сообщения Rain. Поиск в документах доставки выявил транзитную запись. Quest снимает застежку поврежденного контейнера, оставляя громоздкий ящик и пустой контейнер в целости и сохранности на станции.",
+        "Позже на лугу Meadowfold Rain повторяет стук для Bitter. Застежка издает такой же слабый трехударный звон при стендовых испытаниях. Сходство — это наводка, а не доказательство того, что происходит внутри него.",
+        "Рядом с лугом Nova показывает Rain предлагаемые путевые заметки. Он соглашается поделиться своими измерениями, стуком и своим описанием света. Его личный блокнот остается закрытым вместе с вещами на ферме.",
+        "На крыльце фермерского дома Hush четко копирует согласованный ритм, чтобы Quest взял его в дорогу. Quest сверяет его с оригиналом, прежде чем поместить копию и рассказ Rain в полевой блокнот.",
+        "В тот же день Quest и Nova возвращаются на станцию Mosaic. В сохранившихся транзитных записях отгрузочный павильон Bellara указан как последний пункт обработки грузов. Это реальная отправная точка, а не обещание ответа.",
+        "Quest, Nova, Beam, Hush, Quiver и Bash садятся на дневной поезд. Bash привез с собой один вместительный полевой чемодан для улик и всего оборудования, которое может им понадобиться. Шестеро друзей путешествуют; Rain и его хозяева остаются в Tessara.",
+        "Перед отъездом Nova возвращается на платформу, чтобы позвонить Rain. Quest ждет у двери вагона. Она вернет трубку и снова сядет в поезд до того, как поезд тронется; в следующий раз она позвонит из Bellara."
+      ],
+      "captions": [
+        "На следующее утро Quest возвращается на станцию после сообщения Rain. Поиск в документах доставки выявил транзитную запись. Quest снимает застежку поврежденного контейнера, оставляя громоздкий ящик и пустой контейнер в целости и сохранности на станции.\n\nQuest: \"Это та деталь, которую мы можем взять с собой. Запись о транзите указывает на Bellara\".",
+        "Позже на лугу Meadowfold Rain повторяет стук для Bitter. Застежка издает такой же слабый трехударный звон при стендовых испытаниях. Сходство — это наводка, а не доказательство того, что происходит внутри него.\n\nBitter: \"Ритм похож. Теперь нам нужен кто-то, кто знает это оборудование\".",
+        "Рядом с лугом Nova показывает Rain предлагаемые путевые заметки. Он соглашается поделиться своими измерениями, стуком и своим описанием света. Его личный блокнот остается закрытым вместе с вещами на ферме.\n\nRain: \"Возьмите эти подсказки. Мои личные страницы останутся здесь\".",
+        "На крыльце фермерского дома Hush четко копирует согласованный ритм, чтобы Quest взял его в дорогу. Quest сверяет его с оригиналом, прежде чем поместить копию и рассказ Rain в полевой блокнот.\n\nHush [на языке жестов]: \"Три стука, потом пауза. Сохраните и длину паузы\".",
+        "В тот же день Quest и Nova возвращаются на станцию Mosaic. В сохранившихся транзитных записях отгрузочный павильон Bellara указан как последний пункт обработки грузов. Это реальная отправная точка, а не обещание ответа.\n\nQuest: «Мы можем спросить, кто занимался этой доставкой до урагана».",
+        "Quest, Nova, Beam, Hush, Quiver и Bash садятся на дневной поезд. Bash привез с собой один вместительный полевой чемодан для улик и всего оборудования, которое может им понадобиться. Шестеро друзей путешествуют; Rain и его хозяева остаются в Tessara.\n\nBash: \"Шесть мест, шесть друзей. Чемодан закреплен\".",
+        "Перед отъездом Nova возвращается на платформу, чтобы позвонить Rain. Quest ждет у двери вагона. Она вернет трубку и снова сядет в поезд до того, как поезд тронется; в следующий раз она позвонит из Bellara.\n\nRain [по проводной линии Postline]: «Продолжайте звонить».\nNova [по проводной линии Postline]: «Будем звонить. Завтра мы в Bellara»."
+      ],
+      "introduction": "Рассказ Rain об огоньке подсказал Quest, где искать. В поврежденном ящике находится деталь, которую можно взять с собой, а сравнение на месте дает полезную зацепку. Прежде чем кто-либо покинет Tessara, Rain решает, какую информацию они могут взять с собой.",
+      "title": "Первый полезный вопрос"
+    },
+    "tr": {
+      "altTexts": [
+        "Ertesi sabah Quest, Rain'in mesajının ardından istasyona geri döner. Teslimat aramasında bir transit kaydı bulundu. Quest hasarlı taşıyıcının tokasını çıkarır ve büyük sandığı ve boş taşıyıcıyı güvenli bir şekilde istasyonda bırakır.",
+        "Daha sonra Meadowfold çayırında Rain, Bitter için duyduğu ritmi tekrarlıyor. Toka, tezgah testinde benzer hafif üç vuruşlu bir tını veriyor. Benzerlik bir ipucudur; içinde olup bitenlerin kanıtı değil.",
+        "Çayırın yanındaki Nova, Rain'e önerilen seyahat notlarını gösteriyor. Ölçümlerini, vuruşları ve ışıkla ilgili açıklamasını paylaşmayı kabul ediyor. Özel defteri çiftlik evinde eşyalarıyla birlikte kapalı kalıyor.",
+        "Çiftlik evinin verandasında Hush, Quest'in yolculukta yanında götürmesi için kararlaştırılan ritmin net bir kopyasını çıkarıyor. Quest, hem kopyayı hem de Rain'in anlattıklarını saha not defterine koymadan önce bunu orijinalle karşılaştırır.",
+        "O öğleden sonra Quest ve Nova, Mosaic istasyonuna geri dönüyor. Korunmuş transit kaydı, Bellara'nın nakliye pavyonunu son elleçleme ofisi olarak adlandırıyor. Bu, bir yanıt vaadi değil, gerçek bir başlangıç noktasıdır.",
+        "Quest, Nova, Beam, Hush, Quiver ve Bash öğleden sonra trenine biner. Bash, deliller ve ihtiyaç duyabilecekleri her türlü ekipman için geniş bir saha çantası getirdi. Altı arkadaş seyahat ediyor; Rain ve evdeki bakım ekibi Tessara'da kalıyor.",
+        "Nova, tren kalkmadan önce perona dönüp Rain'i arar. Quest vagonun kapısında bekliyor. Tren hareket etmeden önce ahizeyi geri verecek ve tekrar binecek; bir sonraki arama Bellara'dan gelecek."
+      ],
+      "captions": [
+        "Ertesi sabah Quest, Rain'in mesajının ardından istasyona geri döner. Teslimat aramasında bir transit kaydı bulundu. Quest hasarlı taşıyıcının tokasını çıkarır ve büyük sandığı ve boş taşıyıcıyı güvenli bir şekilde istasyonda bırakır.\n\nQuest: \"Bu alabileceğimiz kısım. Transit kayıtları Bellara'yı gösteriyor.\"",
+        "Daha sonra Meadowfold çayırında Rain, Bitter için duyduğu ritmi tekrarlıyor. Toka, tezgah testinde benzer hafif üç vuruşlu bir tını veriyor. Benzerlik bir ipucudur; içinde olup bitenlerin kanıtı değil.\n\nBitter: \"Model benzer. Şimdi bu donanımı bilen birine ihtiyacımız var.\"",
+        "Çayırın yanındaki Nova, Rain'e önerilen seyahat notlarını gösteriyor. Ölçümlerini, vuruşları ve ışıkla ilgili açıklamasını paylaşmayı kabul ediyor. Özel defteri çiftlik evinde eşyalarıyla birlikte kapalı kalıyor.\n\nRain: \"Bu ipuçlarını alın. Özel sayfalarım burada kalacak.\"",
+        "Çiftlik evinin verandasında Hush, Quest'in yolculukta yanında götürmesi için kararlaştırılan ritmin net bir kopyasını çıkarıyor. Quest, hem kopyayı hem de Rain'in anlattıklarını saha not defterine koymadan önce bunu orijinalle karşılaştırır.\n\nHush [işaret diliyle]: \"Üç dokunuş, ardından bir duraklama. Aranın süresini de koruyun.\"",
+        "O öğleden sonra Quest ve Nova, Mosaic istasyonuna geri dönüyor. Korunmuş transit kaydı, Bellara'nın nakliye pavyonunu son elleçleme ofisi olarak adlandırıyor. Bu, bir yanıt vaadi değil, gerçek bir başlangıç noktasıdır.\n\nQuest: \"Fırtınadan önce bu sevkiyatı kimin hallettiğini sorabiliriz.\"",
+        "Quest, Nova, Beam, Hush, Quiver ve Bash öğleden sonra trenine biner. Bash, deliller ve ihtiyaç duyabilecekleri her türlü ekipman için geniş bir saha çantası getirdi. Altı arkadaş seyahat ediyor; Rain ve evdeki bakım ekibi Tessara'da kalıyor.\n\nBash: \"Altı yer, altı arkadaş. Çanta sabitlendi.\"",
+        "Nova, tren kalkmadan önce perona dönüp Rain'i arar. Quest vagonun kapısında bekliyor. Tren hareket etmeden önce ahizeyi geri verecek ve tekrar binecek; bir sonraki arama Bellara'dan gelecek.\n\nRain [kablolu Postline]: \"Aramaya devam edin.\"\nNova [kablolu Postline]: \"Yapacağız. Yarın Bellara.\""
+      ],
+      "introduction": "Rain'in ışıkla ilgili açıklaması Quest'e araştırılacak bir yer verdi. Hasarlı sandık taşınabilir bir ipucu verir ve yerel bir karşılaştırma yararlı bir ipucu sağlar. Herhangi biri Tessara'dan ayrılmadan önce, Rain yanlarında hangi bilgileri götürebileceklerine karar verir.",
+      "title": "İlk Yararlı Soru"
+    },
+    "vi": {
+      "altTexts": [
+        "Sáng hôm sau, Quest trở lại nhà ga sau tin nhắn của Rain. Việc tra cứu hồ sơ giao hàng đã tìm ra một mục ghi về lộ trình vận chuyển. Quest tháo móc của khung vận chuyển bị hư hỏng, để lại thùng cồng kềnh và khung vận chuyển trống tại nhà ga một cách an toàn.",
+        "Sau đó, tại đồng cỏ Meadowfold, Rain lặp lại nhịp gõ cho Bitter. Chiếc móc cho ra âm thanh ba nhịp rất khẽ tương tự khi thử trên bàn làm việc. Sự giống nhau là một manh mối - không phải bằng chứng về những gì đang xảy ra bên trong anh.",
+        "Bên cạnh đồng cỏ, Nova cho Rain xem những ghi chú cô dự định mang theo trong chuyến đi. Anh ấy đồng ý chia sẻ số đo, tiếng gõ và lời kể về ánh sáng. Sổ tay riêng của anh ấy được đóng kín cùng với đồ đạc của anh ấy ở trang trại.",
+        "Trên hiên nhà trang trại, Hush tạo ra một bản sao rõ ràng về nhịp điệu đã thống nhất để Quest mang theo trong chuyến đi. Quest kiểm tra nó với bản gốc trước khi cất cả bản sao và lời kể của Rain vào sổ ghi chép hiện trường.",
+        "Chiều hôm đó, Quest và Nova quay trở lại ga Mosaic. Hồ sơ quá cảnh còn sót lại ghi tên gian hàng vận chuyển của Bellara là văn phòng xử lý cuối cùng. Đó là một nơi thực sự để bắt đầu, không phải là một lời hứa hẹn về một câu trả lời.",
+        "Quest, Nova, Beam, Hush, Quiver và Bash lên chuyến tàu buổi chiều. Bash đã mang đến một chiếc vali rộng để đựng bằng chứng và bất kỳ thiết bị nào họ có thể cần. Sáu người bạn đang đi du lịch; Rain và những người ở lại chăm sóc anh đang ở Tessara.",
+        "Trước khi khởi hành, Nova bước trở lại sân ga để gọi Rain. Quest đợi ở cửa toa tàu. Cô ấy sẽ đặt ống nghe xuống và lên tàu trước khi tàu di chuyển; cuộc gọi tiếp theo sẽ đến từ Bellara."
+      ],
+      "captions": [
+        "Sáng hôm sau, Quest trở lại nhà ga sau tin nhắn của Rain. Việc tra cứu hồ sơ giao hàng đã tìm ra một mục ghi về lộ trình vận chuyển. Quest tháo móc của khung vận chuyển bị hư hỏng, để lại thùng cồng kềnh và khung vận chuyển trống tại nhà ga một cách an toàn.\n\nQuest: \"Đây là bộ phận chúng tôi có thể mang theo. Bản ghi quá cảnh trỏ đến Bellara.\"",
+        "Sau đó, tại đồng cỏ Meadowfold, Rain lặp lại nhịp gõ cho Bitter. Chiếc móc cho ra âm thanh ba nhịp rất khẽ tương tự khi thử trên bàn làm việc. Sự giống nhau là một manh mối - không phải bằng chứng về những gì đang xảy ra bên trong anh.\n\nBitter: \"Nhịp gõ giống nhau. Giờ chúng ta cần một người hiểu rõ thiết bị này.\"",
+        "Bên cạnh đồng cỏ, Nova cho Rain xem những ghi chú cô dự định mang theo trong chuyến đi. Anh ấy đồng ý chia sẻ số đo, tiếng gõ và lời kể về ánh sáng. Sổ tay riêng của anh ấy được đóng kín cùng với đồ đạc của anh ấy ở trang trại.\n\nRain: \"Hãy lấy những manh mối đó. Các trang riêng tư của tôi vẫn ở đây.\"",
+        "Trên hiên nhà trang trại, Hush tạo ra một bản sao rõ ràng về nhịp điệu đã thống nhất để Quest mang theo trong chuyến đi. Quest kiểm tra nó với bản gốc trước khi cất cả bản sao và lời kể của Rain vào sổ ghi chép hiện trường.\n\nHush [bằng ngôn ngữ ký hiệu]: \"Ba tiếng gõ rồi một khoảng lặng. Giữ cả độ dài của khoảng lặng nhé.\"",
+        "Chiều hôm đó, Quest và Nova quay trở lại ga Mosaic. Hồ sơ quá cảnh còn sót lại ghi tên gian hàng vận chuyển của Bellara là văn phòng xử lý cuối cùng. Đó là một nơi thực sự để bắt đầu, không phải là một lời hứa hẹn về một câu trả lời.\n\nQuest: “Chúng tôi có thể hỏi ai đã xử lý lô hàng này trước cơn bão.”",
+        "Quest, Nova, Beam, Hush, Quiver và Bash lên chuyến tàu buổi chiều. Bash đã mang đến một chiếc vali rộng để đựng bằng chứng và bất kỳ thiết bị nào họ có thể cần. Sáu người bạn đang đi du lịch; Rain và những người ở lại chăm sóc anh đang ở Tessara.\n\nBash: \"Sáu chỗ ngồi, sáu người bạn. Vali đã được buộc chắc.\"",
+        "Trước khi khởi hành, Nova bước trở lại sân ga để gọi Rain. Quest đợi ở cửa toa tàu. Cô ấy sẽ đặt ống nghe xuống và lên tàu trước khi tàu di chuyển; cuộc gọi tiếp theo sẽ đến từ Bellara.\n\nRain [qua đường dây Postline]: “Hãy tiếp tục gọi.”\nNova [qua đường dây Postline]: \"Chúng tôi sẽ gọi. Ngày mai là Bellara.\""
+      ],
+      "introduction": "Lời kể của Rain về đốm sáng giúp Quest biết nên tìm ở đâu. Trong chiếc thùng hỏng có một bộ phận có thể mang theo; phép so sánh tại chỗ cũng cho họ một hướng tìm kiếm. Trước khi bất kỳ ai rời khỏi Tessara, Rain sẽ quyết định họ có thể mang theo thông tin gì.",
+      "title": "Câu hỏi hữu ích đầu tiên"
+    },
+    "zh": {
+      "altTexts": [
+        "第二天早上，Quest收到Rain的消息后返回车站。查询发货资料后，他们找到了中转记录。 Quest 取下损坏的记忆容器上的扣环，将笨重的板条箱和空的记忆容器安全地留在车站。",
+        "随后，回到 Meadowfold，Rain 向 Bitter 重现那段敲击节奏。在台架测试中，该扣环会发出类似的微弱三拍响声。这种相似只是一种线索，还不能证明他体内发生了什么。",
+        "草地旁边，Nova向Rain展示了准备带上路的调查笔记。他同意分享他的测量结果、敲击声和他对光的描述。他的私人笔记本和他的物品一起留在农舍里。",
+        "农舍门廊上，Hush把商量好的节奏清楚地抄下来，交给Quest带上路。 Quest 将其与原件进行核对，然后将副本和 Rain 的叙述放入现场笔记本中。",
+        "当天下午，Quest、Nova返回Mosaic站。保存下来的中转记录将 Bellara 的航运馆列为最后的处理办公室。这是一个真正的起点，而不是答案的承诺。",
+        "Quest、Nova、Beam、Hush、Quiver、Bash搭乘下午列车。 Bash 带来了一个宽敞的现场箱子，用于存放证据和他们可能需要的任何设备。六个朋友正在旅行； Rain和留在家乡照顾他的朋友们住在Tessara。",
+        "出发前，Nova 回到站台呼叫 Rain。 Quest在车厢门口等候。她将在火车开动前放回电话听筒并重新上车；下一个电话将来自 Bellara。"
+      ],
+      "captions": [
+        "第二天早上，Quest收到Rain的消息后返回车站。查询发货资料后，他们找到了中转记录。 Quest 取下损坏的记忆容器上的扣环，将笨重的板条箱和空的记忆容器安全地留在车站。\n\nQuest：“这一部分可以带走。过境记录指向Bellara。”",
+        "随后，回到 Meadowfold，Rain 向 Bitter 重现那段敲击节奏。在台架测试中，该扣环会发出类似的微弱三拍响声。这种相似只是一种线索，还不能证明他体内发生了什么。\n\nBitter：“模式是类似的。现在我们需要一个了解这个硬件的人。”",
+        "草地旁边，Nova向Rain展示了准备带上路的调查笔记。他同意分享他的测量结果、敲击声和他对光的描述。他的私人笔记本和他的物品一起留在农舍里。\n\nRain：“拿走那些线索。我的私人页面就留在这里。”",
+        "农舍门廊上，Hush把商量好的节奏清楚地抄下来，交给Quest带上路。 Quest 将其与原件进行核对，然后将副本和 Rain 的叙述放入现场笔记本中。\n\nHush [手语]：“轻击三下，然后暂停。也记下停顿的长短。”",
+        "当天下午，Quest、Nova返回Mosaic站。保存下来的中转记录将 Bellara 的航运馆列为最后的处理办公室。这是一个真正的起点，而不是答案的承诺。\n\nQuest：“我们可以问问暴风雨前是谁处理过这批货物的。”",
+        "Quest、Nova、Beam、Hush、Quiver、Bash搭乘下午列车。 Bash 带来了一个宽敞的现场箱子，用于存放证据和他们可能需要的任何设备。六个朋友正在旅行； Rain和留在家乡照顾他的朋友们住在Tessara。\n\nBash：“六个座位，六位朋友，箱子也固定好了。”",
+        "出发前，Nova 回到站台呼叫 Rain。 Quest在车厢门口等候。她将在火车开动前放回电话听筒并重新上车；下一个电话将来自 Bellara。\n\nRain [Postline有线电话]：“记得继续打电话来。”\nNova [Postline有线电话]：“会的。明天从Bellara打给你。”"
+      ],
+      "introduction": "Rain对光的描述给了Quest一个调查的地方。损坏的板条箱里有一件可以带走的线索，在本地进行的比较也为下一步调查指明了方向。在任何人离开 Tessara 之前，Rain 决定他们可以带走哪些信息。",
+      "title": "第一个有用的问题"
+    }
+  },
+  "number": 5,
+  "panels": [
+    {
+      "altText": "The next morning, Quest returns to the station after Rain's message. The delivery search has found a transit record. Quest removes the damaged carrier's clasp, leaving the bulky crate and empty carrier safely at the station.",
+      "image": "N01E05P01.png"
+    },
+    {
+      "altText": "Later, back at Meadowfold, Rain repeats the taps for Bitter. The clasp gives a similar faint three-beat ring on the bench test. The resemblance is a lead—not proof of what is happening inside him.",
+      "image": "N01E05P02.png"
+    },
+    {
+      "altText": "Beside the meadow, Nova shows Rain the proposed travel notes. He agrees to share his measurements, the taps and his account of the light. His private notebook stays closed with his belongings at the farmhouse.",
+      "image": "N01E05P03.png"
+    },
+    {
+      "altText": "On the farmhouse porch, Hush makes a clear copy of the agreed rhythm for Quest to take on the journey. Quest checks it against the original before putting both the copy and Rain's account in the field notebook.",
+      "image": "N01E05P04.png"
+    },
+    {
+      "altText": "That afternoon, Quest and Nova return to Mosaic station. The surviving transit record names Bellara's shipping pavilion as the last handling office. It is a real place to begin, not a promise of an answer.",
+      "image": "N01E05P05.png"
+    },
+    {
+      "altText": "Quest, Nova, Beam, Hush, Quiver and Bash board the afternoon train. Bash has brought one roomy field case for the evidence and any equipment they may need. Six friends are traveling; Rain and his home team are staying in Tessara.",
+      "image": "N01E05P06.png"
+    },
+    {
+      "altText": "Before departure, Nova steps back onto the platform to call Rain. Quest waits at the carriage door. She will return the handset and reboard before the train moves; the next call will come from Bellara.",
+      "image": "N01E05P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

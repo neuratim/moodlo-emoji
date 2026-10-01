@@ -1,0 +1,442 @@
+{
+  "id": "N02E04",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "تصطف سبع لفائف أشرطة مرتبة بجانب ميند.",
+        "ينفك الشريط الفضي ويمتد إلى صندوق العمل الذي لم يبدأ.",
+        "يحضر هاش عشاء لشخصين بجانب مقعد خالٍ من المسند.",
+        "يوضع الطعام على طاولة صغيرة منفصلة عن أدوات الإصلاح.",
+        "تتناول ميند وهاش الطعام وتظل الأشرطة السبعة مرتخية.",
+        "تتردد يد ميند بين ثلاث مجموعات من مواد العمل.",
+        "تعيد ميند الأدوات، ويبقى عدد الأشرطة سبعة."
+      ],
+      "captions": [
+        "ظلت ميند في الورشة تلف كل شريط بعناية. بدت سبع لفائف صغيرة أسهل من سبعة وعود كبيرة.",
+        "لكن ما إن لمست صندوق الفوانيس حتى انبسط الشريط الفضي. ترتيب الأشياء لم يجعل العمل أقل.",
+        "عاد هاش بالعشاء فوجد ميند تعد الفوانيس. سألها بالإشارة: «هل أكلتِ؟» نظرت ميند إلى المقعد الفارغ الذي لا مسند له بجانب الطاولة.",
+        "قالت: «بعد هذا الواحد». لكنها لم تبدأ بإصلاح فانوس واحد. وضع هاش الوعاء من دون أن يسلمها مهمة أخرى.",
+        "أكلا معًا. بقيت الأشرطة، ولم يحدث شيء مخيف حين أمسكت ميند ملعقة بدلًا من إبرة.",
+        "بعد العشاء، سأل هاش بلغة الإشارة أي وعد ينبغي البدء به. مدت ميند يدها نحو ثلاث رزم مختلفة ولم تستطع الاختيار.",
+        "قالت ميند: «لننظر إلى القائمة كاملة غدًا». سيبدآن بترتيب الوعود التي قطعتها بالفعل. لم يظهر شريط جديد."
+      ],
+      "introduction": "لا يقل العمل بلف الأشرطة، فتتوقف ميند لتناول الطعام.",
+      "title": "ترتيب الصندوق ليس خطة"
+    },
+    "bn": {
+      "altTexts": [
+        "সাতটি গোটানো ফিতা মেন্ডের পাশে সাজানো।",
+        "রুপালি ফিতা খুলে অপরিবর্তিত লণ্ঠনের বাক্সে বাড়ছে।",
+        "হাশ দুজনের রাতের খাবার নিয়ে আসে; পাশে একটি খালি টুল।",
+        "যন্ত্র থেকে আলাদা ছোট খাবারের টেবিলে বাটি রাখা হচ্ছে।",
+        "মেন্ড ও হাশ খাচ্ছে; সাতটি ফিতাই আলগা আছে।",
+        "মেন্ডের হাত তিন কাজের জিনিসের মাঝে থেমে আছে।",
+        "মেন্ড যন্ত্র গুছোচ্ছে; ফিতার সংখ্যা সাতই আছে।"
+      ],
+      "captions": [
+        "কর্মশালায় বসেই মেন্ড প্রতিটি ফিতা গুছিয়ে গোটাল। সাতটি ছোট পাক, সাতটি বড় প্রতিশ্রুতির চেয়ে সহজ লাগছিল।",
+        "কিন্তু লণ্ঠনের বাক্স ছুঁতেই রুপালি ফিতা খুলে গেল। গুছিয়ে রাখলেই কাজ কমে যায় না।",
+        "হাশ রাতের খাবার নিয়ে ফিরে দেখল মেন্ড লণ্ঠন গুনছে। সে ইশারা ভাষায় জিজ্ঞেস করল, “খেয়েছ?” মেন্ড টেবিলের পাশের খালি টুলটির দিকে তাকাল।",
+        "“এটা শেষ করেই,” মেন্ড বলল। অথচ একটি লণ্ঠনও শুরু করেনি। হাশ নতুন কাজ না দিয়ে বাটি নামিয়ে রাখল।",
+        "তারা একসঙ্গে খেল। ফিতাগুলো থাকল, কিন্তু মেন্ড সুচের বদলে চামচ ধরায় ভয়ংকর কিছু ঘটল না।",
+        "খাওয়ার পরে হাশ ইশারা ভাষায় জানতে চাইল, কোন প্রতিশ্রুতি আগে রাখতে হবে। মেন্ড তিনটি আলাদা পুটলির দিকে হাত বাড়িয়েও কোনওটি বেছে নিতে পারল না।",
+        "“কাল পুরো তালিকাটা দেখি,” মেন্ড বলল। আগে তারা মেন্ডের দেওয়া প্রতিশ্রুতিগুলো গুছিয়ে বুঝবে। নতুন কোনও ফিতা দেখা দিল না।"
+      ],
+      "introduction": "ফিতা গুটিয়েও কাজ কমে না; মেন্ড খাওয়ার জন্য থামে।",
+      "title": "বাক্স গোছানো মানেই পরিকল্পনা নয়"
+    },
+    "cs": {
+      "altTexts": [
+        "Mend rovná sedm různě vzorovaných stočených stuh.",
+        "Při dotyku krabice se Mendina stříbrná stuha rozvíjí.",
+        "Hush přináší večeři pro dva k prázdné stoličce.",
+        "Hush pokládá večeři vedle dvanácti nedokončených lampionů.",
+        "Mend a Hush večeří, sedm stuh odpočívá vedle nich.",
+        "Mend váhá nad třemi zakázkami a Hush ji pozoruje.",
+        "Mend zavírá nástroje a Hush odnáší misky."
+      ],
+      "captions": [
+        "Ještě v dílně Mend pečlivě stočila každou stuhu. Sedm malých klubíček vypadalo mnohem zvládnutelněji než sedm velkých slibů.",
+        "Když ale sáhla po krabici lampionů, stříbrná stuha se rozvinula. Úklid práci nijak nezmenšil.",
+        "Hush se vrátil s večeří a našel Mend, jak počítá lampiony. Znakoval: „Jedla jsi?“ Mend se podívala na prázdnou stoličku vedle stolu.",
+        "„Až dodělám tenhle,“ řekla Mend. Přitom nezačala ani jeden lampion. Hush položil misku a nepřidal jí další úkol.",
+        "Najedli se spolu. Stuhy zůstaly, ale nic hrozného se nestalo, když Mend držela lžíci místo jehly.",
+        "Po večeři se Hush znakovým jazykem zeptal, který slib je na řadě první. Mend sáhla ke třem různým balíčkům a nedokázala si vybrat.",
+        "„Zítra se podíváme na celý seznam,“ řekla Mend. Nejdřív si ujasní sliby, které už dala. Žádná nová stuha se neobjevila."
+      ],
+      "introduction": "Mend zjistí, že uklizené sliby nejsou menší sliby.",
+      "title": "Krabice není plán"
+    },
+    "de": {
+      "altTexts": [
+        "Mend ordnet sieben aufgerollte Bänder mit verschiedenen Mustern.",
+        "Das silberne Band rollt sich ab, als Mend die Kiste berührt.",
+        "Hush bringt Abendessen für zwei neben einen leeren Hocker.",
+        "Hush stellt das Essen neben die zwölf unfertigen Laternen.",
+        "Mend und Hush essen, während sieben Bänder neben ihnen ruhen.",
+        "Mend zögert vor drei Arbeitsbündeln, während Hush zusieht.",
+        "Mend schließt die Werkzeugschale, während Hush die Essensschalen wegräumt."
+      ],
+      "captions": [
+        "Noch in der Werkstatt rollte Mend jedes Band ordentlich auf. Sieben kleine Rollen sahen viel leichter aus als sieben große Versprechen.",
+        "Doch als sie die Laternenkiste berührte, rollte sich das silberne Band ab. Nur weil sie aufgeräumt hatte, war die Arbeit nicht weniger geworden.",
+        "Hush kam mit Abendessen zurück und fand Mend beim Laternenzählen. Er gebärdete: „Hast du gegessen?“ Mend sah den leeren Hocker neben dem Tisch an.",
+        "„Nach dieser hier“, sagte Mend. Dabei hatte sie noch keine einzige Laterne begonnen. Hush stellte die Schale ab, ohne ihr eine neue Aufgabe zu geben.",
+        "Sie aßen gemeinsam. Die Bänder blieben, aber nichts Schreckliches geschah, während Mend einen Löffel statt einer Nadel hielt.",
+        "Nach dem Essen fragte Hush in Gebärdensprache, welches Versprechen zuerst dran sei. Mend griff nach drei verschiedenen Bündeln und konnte sich nicht entscheiden.",
+        "„Morgen sehen wir uns die ganze Liste an“, sagte Mend. Zuerst wollten sie Ordnung in die Versprechen bringen, die sie bereits gegeben hatte. Kein neues Band erschien."
+      ],
+      "introduction": "Mend entdeckt, dass aufgeräumte Versprechen nicht kleiner werden.",
+      "title": "Eine Kiste ist kein Plan"
+    },
+    "en": {
+      "altTexts": [
+        "Mend arranges seven differently patterned ribbon coils.",
+        "A silver ribbon uncoils as Mend touches the lantern crate.",
+        "Hush brings supper for two beside an empty stool.",
+        "Hush sets supper beside the twelve unfinished lanterns.",
+        "Mend and Hush share supper while seven ribbons rest nearby.",
+        "Mend hesitates over three work bundles as Hush watches.",
+        "Mend closes the tool tray while Hush clears the bowls."
+      ],
+      "captions": [
+        "Still in the workshop, Mend wound each ribbon into a neat coil. Seven small coils looked much easier than seven large promises.",
+        "But when she touched the lantern box, the silver ribbon uncoiled. The work had not become smaller simply because she had tidied it.",
+        "Hush returned with supper and found Mend counting lanterns. He signed, “Have you eaten?” Mend looked at the empty stool beside the table.",
+        "“After this one,” Mend said. She had not started even one lantern. Hush set the bowl down without handing her another task.",
+        "They ate together. The ribbons stayed, but nothing terrible happened while Mend held a spoon instead of a needle.",
+        "After supper, Hush signed a question: which promise came first? Mend reached for three different bundles and could not choose between them.",
+        "“Let’s look at the whole list tomorrow,” Mend said. They would start by sorting out the promises she already had. No new ribbon appeared."
+      ],
+      "introduction": "Mend discovers that tidying promises does not make them smaller.",
+      "title": "A Box Is Not a Plan"
+    },
+    "es": {
+      "altTexts": [
+        "Mend ordena siete rollos de cintas con distintos dibujos.",
+        "La cinta plateada se desenrolla cuando Mend toca la caja.",
+        "Hush trae cena para dos junto a un taburete vacío.",
+        "Hush deja la cena junto a los doce faroles sin terminar.",
+        "Mend y Hush cenan mientras siete cintas descansan cerca.",
+        "Mend duda ante tres paquetes de trabajo mientras Hush observa.",
+        "Mend cierra la bandeja de herramientas y Hush recoge los cuencos."
+      ],
+      "captions": [
+        "Todavía en el taller, Mend enrolló cuidadosamente cada cinta. Siete pequeños rollos parecían mucho más sencillos que siete grandes promesas.",
+        "Pero al tocar la caja de faroles, la cinta plateada se desenrolló. Ordenar las cosas no había reducido el trabajo.",
+        "Hush regresó con la cena y encontró a Mend contando faroles. Preguntó con señas: «¿Has comido?». Mend miró el taburete vacío junto a la mesa.",
+        "«Después de este», dijo Mend. No había empezado ni un solo farol. Hush dejó el cuenco sin darle otra tarea.",
+        "Comieron juntos. Las cintas seguían allí, pero no ocurrió nada terrible mientras Mend sostenía una cuchara en lugar de una aguja.",
+        "Después de cenar, Hush preguntó con señas qué promesa iba primero. Mend alargó la mano hacia tres paquetes distintos y no pudo decidir entre ellos.",
+        "«Mañana miraremos la lista completa», dijo Mend. Empezarían por ordenar las promesas que ya había hecho. No apareció ninguna cinta nueva."
+      ],
+      "introduction": "Mend descubre que ordenar las promesas no las hace más pequeñas.",
+      "title": "Una caja no es un plan"
+    },
+    "fr": {
+      "altTexts": [
+        "Mend aligne sept rouleaux de rubans aux motifs différents.",
+        "Le ruban argenté se déroule lorsque Mend touche la boîte.",
+        "Hush apporte un dîner pour deux près d’un tabouret vide.",
+        "Hush pose le dîner près des douze lanternes inachevées.",
+        "Mend et Hush dînent tandis que sept rubans reposent près d’eux.",
+        "Mend hésite entre trois travaux sous le regard de Hush.",
+        "Mend ferme la boîte à outils et Hush débarrasse les bols."
+      ],
+      "captions": [
+        "Toujours dans l’atelier, Mend enroula soigneusement chaque ruban. Sept petits rouleaux semblaient plus faciles à gérer que sept grandes promesses.",
+        "Mais lorsqu’elle toucha la boîte de lanternes, le ruban argenté se déroula. Ranger les choses n’avait pas réduit le travail.",
+        "Hush revint avec le dîner et trouva Mend en train de compter les lanternes. Il signa : « As-tu mangé ? » Mend regarda le tabouret vide près de la table.",
+        "« Après celle-ci », répondit Mend. Pourtant, elle n’avait commencé aucune lanterne. Hush posa le bol sans lui donner une nouvelle tâche.",
+        "Ils mangèrent ensemble. Les rubans restaient là, mais rien de terrible n’arriva lorsque Mend tint une cuillère au lieu d’une aiguille.",
+        "Après le repas, Hush demanda en langue des signes quelle promesse venait en premier. Mend tendit les mains vers trois paquets et ne sut lequel choisir.",
+        "« Demain, nous regarderons toute la liste », dit Mend. Ils commenceraient par mettre de l’ordre dans les promesses qu’elle avait déjà faites. Aucun nouveau ruban n’apparut."
+      ],
+      "introduction": "Ranger les promesses ne suffit pas à les rendre plus petites.",
+      "title": "Une boîte n’est pas un plan"
+    },
+    "hi": {
+      "altTexts": [
+        "सात छोटे रिबन-घेरे मेंड के पास सजे हैं।",
+        "चाँदी वाला रिबन खुलकर अधूरे काम वाले डिब्बे तक फैलता है।",
+        "हश दो लोगों के लिए खाना लाता है; पास में खाली स्टूल है।",
+        "औज़ारों से अलग छोटी खाने की मेज़ पर कटोरा रखा जाता है।",
+        "मेंड और हश भोजन करते हैं; सातों रिबन ढीले हैं।",
+        "मेंड का हाथ तीन कामों के सामान के बीच ठिठकता है।",
+        "मेंड औज़ार रखती है; रिबन अभी भी सात हैं।"
+      ],
+      "captions": [
+        "कार्यशाला में ही मेंड ने हर रिबन करीने से लपेट दिया। सात छोटे लपेटे, सात बड़े वादों से आसान लग रहे थे।",
+        "लेकिन लालटेन के डिब्बे को छूते ही चाँदी वाला रिबन फिर खुल गया। चीज़ें समेटने से काम छोटा नहीं हुआ था।",
+        "हश खाना लेकर लौटा तो मेंड लालटेनें गिन रही थी। उसने संकेत भाषा में पूछा, “खाया?” मेंड ने मेज़ के पास खाली स्टूल की ओर देखा।",
+        "“यह एक कर लूँ, फिर,” मेंड बोली। उसने एक लालटेन भी शुरू नहीं की थी। हश ने कोई नया काम दिए बिना कटोरा रख दिया।",
+        "दोनों ने साथ खाया। रिबन बने रहे, लेकिन मेंड के सुई की जगह चम्मच पकड़ने से कोई बुरी बात नहीं हुई।",
+        "खाने के बाद हश ने संकेत भाषा में पूछा कि कौन-सा वादा पहले पूरा करना है। मेंड ने तीन अलग गठरियों की ओर हाथ बढ़ाया, पर चुन नहीं सकी।",
+        "“कल पूरी सूची देखते हैं,” मेंड ने कहा। वे पहले उसके मौजूदा वादों को क्रम से समझेंगे। कोई नया रिबन नहीं निकला।"
+      ],
+      "introduction": "रिबन समेटने से काम कम नहीं होता; मेंड भोजन के लिए रुकती है।",
+      "title": "डिब्बा सजाना योजना बनाना नहीं"
+    },
+    "id": {
+      "altTexts": [
+        "Tujuh gulungan pita berjajar di samping Mend.",
+        "Pita perak terbuka kembali menuju kotak yang belum disentuh isinya.",
+        "Hush membawa makan malam untuk dua orang di dekat bangku kosong.",
+        "Mangkuk diletakkan di meja makan kecil, terpisah dari alat kerja.",
+        "Mend dan Hush menikmati makan malam; tujuh pita tetap longgar.",
+        "Tangan Mend ragu di antara tiga kelompok pekerjaan.",
+        "Mend menutup kotak alat; jumlah pita tetap tujuh."
+      ],
+      "captions": [
+        "Masih di bengkel, Mend menggulung setiap pita dengan rapi. Tujuh gulungan kecil tampak lebih mudah ditangani daripada tujuh janji besar.",
+        "Namun, saat ia menyentuh kotak lampion, pita peraknya terurai lagi. Merapikan sesuatu tidak membuat pekerjaannya berkurang.",
+        "Hush kembali membawa makan malam dan mendapati Mend menghitung lampion. Ia bertanya dengan isyarat, “Sudah makan?” Mend memandang bangku kosong di samping meja.",
+        "“Setelah yang ini,” kata Mend. Padahal satu lampion pun belum mulai diperbaiki. Hush meletakkan mangkuk tanpa memberinya tugas baru.",
+        "Mereka makan bersama. Pita-pitanya tetap ada, tetapi tidak terjadi hal buruk ketika Mend memegang sendok, bukan jarum.",
+        "Seusai makan, Hush bertanya dengan bahasa isyarat janji mana yang harus didahulukan. Mend meraih tiga bundel berbeda dan tidak dapat memilih.",
+        "“Besok kita lihat seluruh daftarnya,” kata Mend. Mereka akan mulai dengan menata janji-janji yang sudah dibuatnya. Tidak ada pita baru yang muncul."
+      ],
+      "introduction": "Merapikan pita tidak mengurangi pekerjaan; Mend berhenti untuk makan.",
+      "title": "Kotak Bukanlah Rencana"
+    },
+    "it": {
+      "altTexts": [
+        "Mend ordina sette rotoli di nastri con motivi diversi.",
+        "Il nastro argentato si srotola mentre Mend tocca la scatola.",
+        "Hush porta la cena per due accanto a uno sgabello vuoto.",
+        "Hush posa la cena vicino alle dodici lanterne da finire.",
+        "Mend e Hush cenano mentre sette nastri riposano accanto a loro.",
+        "Mend esita davanti a tre lavori mentre Hush osserva.",
+        "Mend chiude gli attrezzi mentre Hush riordina le ciotole."
+      ],
+      "captions": [
+        "Ancora in laboratorio, Mend arrotolò con cura ogni nastro. Sette piccoli rotoli sembravano più semplici di sette grandi promesse.",
+        "Ma quando toccò la scatola delle lanterne, il nastro argentato si srotolò. Riordinare non aveva ridotto il lavoro.",
+        "Hush tornò con la cena e trovò Mend a contare lanterne. Le chiese con i segni: «Hai mangiato?» Mend guardò lo sgabello vuoto accanto al tavolo.",
+        "«Dopo questa», disse Mend. Non aveva iniziato nemmeno una lanterna. Hush posò la ciotola senza darle un altro compito.",
+        "Mangiarono insieme. I nastri rimasero, ma non accadde nulla di terribile mentre Mend teneva un cucchiaio invece di un ago.",
+        "Dopo cena Hush le chiese con i segni quale promessa venisse prima. Mend allungò le mani verso tre pacchetti diversi e non seppe scegliere.",
+        "«Domani guardiamo tutta la lista», disse Mend. Avrebbero cominciato facendo ordine tra le promesse che aveva già fatto. Non apparve nessun nuovo nastro."
+      ],
+      "introduction": "Mend scopre che riordinare le promesse non le rende più piccole.",
+      "title": "Una scatola non è un piano"
+    },
+    "ja": {
+      "altTexts": [
+        "七つに巻かれたリボンが、メンドの横に並んでいます。",
+        "銀色のリボンがほどけ、未修理のちょうちんの箱へ伸びています。",
+        "ハッシュが二人分の夕食を持ってきて、横には空いた腰かけがあります。",
+        "道具とは別の小さな食卓に、食事が置かれています。",
+        "メンドとハッシュが食事をし、七本のリボンはゆるんだままです。",
+        "メンドの手が、三組の作業材料の間で止まっています。",
+        "メンドが道具をしまい、リボンは七本のままです。"
+      ],
+      "captions": [
+        "まだ作業場にいたメンドは、リボンを一本ずつきれいに巻きました。七つの小さな輪は、七つの大きな約束より簡単そうに見えました。",
+        "けれど箱に触れると、銀色のリボンはまた伸びました。片づけても、仕事そのものは小さくならなかったのです。",
+        "夕食を持って戻ったハッシュは、ちょうちんを数えるメンドを見つけました。手話で「食べた？」と聞くと、メンドは食卓の横の空いた腰かけを見ました。",
+        "「これが終わったら」とメンド。まだ一つも直し始めていません。ハッシュは新しい仕事を渡さず、器を置きました。",
+        "二人は一緒に食べました。リボンは残りましたが、メンドが針ではなくスプーンを持っても、怖いことは何も起きませんでした。",
+        "食後、ハッシュはどの約束から始めるのか、手話で尋ねました。メンドは三つの束に手を伸ばし、どれも選べませんでした。",
+        "「明日、一覧を全部見てみよう」とメンド。まず、すでに引き受けた約束を整理することにしました。新しいリボンは現れませんでした。"
+      ],
+      "introduction": "リボンを巻いても仕事は減らず、メンドはようやく夕食をとります。",
+      "title": "箱を片づけても計画にはならない"
+    },
+    "ko": {
+      "altTexts": [
+        "일곱 리본이 작은 고리 모양으로 정리되어 있습니다.",
+        "은빛 리본이 풀려 아직 손대지 않은 등불 상자로 뻗습니다.",
+        "허시가 두 사람의 저녁을 가져오고, 식탁 옆에는 등받이 없는 의자가 비어 있습니다.",
+        "도구와 떨어진 작은 식탁에 음식 그릇이 놓입니다.",
+        "멘드와 허시가 식사하며 일곱 리본은 느슨하게 남아 있습니다.",
+        "멘드의 손이 세 작업 꾸러미 사이에서 망설입니다.",
+        "멘드가 도구를 정리하고 리본 수는 일곱 개로 유지됩니다."
+      ],
+      "captions": [
+        "멘드는 작업실에 남아 리본을 하나씩 가지런히 감았습니다. 작은 뭉치 일곱 개는 큰 약속 일곱 개보다 쉬워 보였습니다.",
+        "하지만 등불 상자에 손을 대자 은빛 리본이 다시 풀렸습니다. 정리했다고 일이 줄어든 것은 아니었습니다.",
+        "저녁을 가져온 허시는 등불을 세는 멘드를 발견했습니다. 수어로 “밥은 먹었어?” 하고 묻자 멘드는 식탁 옆의 비어 있는 낮은 걸상을 바라봤습니다.",
+        "“이것만 끝내고.” 멘드는 말했지만 등불 하나도 고치기 시작하지 않았습니다. 허시는 새 일을 주지 않고 그릇을 놓았습니다.",
+        "둘은 함께 먹었습니다. 리본은 그대로였지만 멘드가 바늘 대신 숟가락을 든다고 무서운 일이 생기지는 않았습니다.",
+        "식사 뒤 허시는 어느 약속부터 해야 하는지 수어로 물었습니다. 멘드는 서로 다른 꾸러미 세 개에 손을 뻗고도 고르지 못했습니다.",
+        "“내일 목록을 전부 살펴보자.” 멘드가 말했습니다. 이미 한 약속부터 정리해 보기로 했습니다. 새 리본은 생기지 않았습니다."
+      ],
+      "introduction": "리본을 감아도 일이 줄지 않자 멘드는 잠시 식사합니다.",
+      "title": "상자를 정리해도 계획은 되지 않는다"
+    },
+    "pl": {
+      "altTexts": [
+        "Mend porządkuje siedem rolek wstążek z różnymi wzorami.",
+        "Srebrna wstążka rozwija się, gdy Mend dotyka pudełka.",
+        "Hush przynosi kolację dla dwojga obok pustego stołka.",
+        "Hush stawia kolację obok dwunastu niedokończonych lampionów.",
+        "Mend i Hush jedzą, a siedem wstążek spoczywa obok.",
+        "Mend waha się przy trzech pracach, a Hush patrzy.",
+        "Mend zamyka narzędzia, a Hush zbiera miski."
+      ],
+      "captions": [
+        "W warsztacie Mend starannie zwinęła każdą wstążkę. Siedem małych rolek wyglądało znacznie łatwiej niż siedem wielkich obietnic.",
+        "Lecz gdy dotknęła pudełka lampionów, srebrna wstążka się rozwinęła. Samo sprzątanie nie zmniejszyło ilości pracy.",
+        "Hush wrócił z kolacją i zastał Mend liczącą lampiony. Zamigał: „Jadłaś?” Mend spojrzała na pusty stołek przy stole.",
+        "„Po tym jednym” — powiedziała Mend. Tymczasem nie zaczęła nawet pierwszego lampionu. Hush postawił miskę, nie dokładając jej zadania.",
+        "Zjedli razem. Wstążki pozostały, ale nic strasznego się nie stało, kiedy Mend trzymała łyżkę zamiast igły.",
+        "Po kolacji Hush zapytał w języku migowym, którą obietnicą należy zająć się najpierw. Mend sięgnęła ku trzem różnym pakunkom i nie potrafiła wybrać.",
+        "„Jutro przyjrzyjmy się całej liście” — powiedziała Mend. Zaczną od uporządkowania obietnic, które już złożyła. Nie pojawiła się nowa wstążka."
+      ],
+      "introduction": "Mend odkrywa, że uporządkowane obietnice nie stają się mniejsze.",
+      "title": "Pudełko to nie plan"
+    },
+    "pt": {
+      "altTexts": [
+        "Mend organiza sete rolos de fitas com padrões diferentes.",
+        "A fita prateada se desenrola quando Mend toca a caixa.",
+        "Hush traz jantar para dois junto de um banquinho vazio.",
+        "Hush deixa o jantar junto das doze lanternas inacabadas.",
+        "Mend e Hush jantam enquanto sete fitas descansam por perto.",
+        "Mend hesita diante de três trabalhos enquanto Hush observa.",
+        "Mend fecha as ferramentas enquanto Hush recolhe as tigelas."
+      ],
+      "captions": [
+        "Ainda na oficina, Mend enrolou cada fita com cuidado. Sete rolinhos pareciam muito mais fáceis que sete grandes promessas.",
+        "Mas, ao tocar a caixa de lanternas, a fita prateada se desenrolou. Arrumar as coisas não havia diminuído o trabalho.",
+        "Hush voltou com o jantar e encontrou Mend contando lanternas. Perguntou em sinais: “Você já comeu?” Mend olhou para o banquinho vazio ao lado da mesa.",
+        "“Depois desta”, disse Mend. Ela não havia começado sequer uma lanterna. Hush deixou a tigela sem lhe dar outra tarefa.",
+        "Comeram juntos. As fitas ficaram ali, mas nada terrível aconteceu enquanto Mend segurava uma colher em vez de uma agulha.",
+        "Depois do jantar, Hush perguntou em sinais qual promessa vinha primeiro. Mend tentou pegar três pacotes diferentes e não conseguiu escolher.",
+        "“Amanhã vamos olhar a lista inteira”, disse Mend. Começariam organizando as promessas que ela já tinha feito. Nenhuma fita nova apareceu."
+      ],
+      "introduction": "Mend descobre que organizar promessas não as torna menores.",
+      "title": "Uma caixa não é um plano"
+    },
+    "ru": {
+      "altTexts": [
+        "Менд раскладывает семь рулонов лент с разными узорами.",
+        "Серебристая лента разматывается, когда Менд касается коробки.",
+        "Хаш приносит ужин на двоих к пустому табурету.",
+        "Хаш ставит ужин рядом с двенадцатью неготовыми фонариками.",
+        "Менд и Хаш ужинают, а семь лент лежат рядом.",
+        "Менд колеблется над тремя работами, а Хаш наблюдает.",
+        "Менд убирает инструменты, а Хаш убирает миски."
+      ],
+      "captions": [
+        "В мастерской Менд аккуратно скатала каждую ленту. Семь маленьких рулонов казались проще семи больших обещаний.",
+        "Но стоило ей коснуться коробки, как серебристая лента размоталась. Оттого, что Менд навела порядок, работы меньше не стало.",
+        "Хаш вернулся с ужином и застал Менд за подсчётом фонариков. Он спросил жестами: «Ты поела?» Менд посмотрела на пустой табурет возле стола.",
+        "«После этого», — сказала Менд. Она не начала ещё ни одного фонарика. Хаш поставил миску, не поручая ей новой работы.",
+        "Они поели вместе. Ленты остались, но ничего ужасного не произошло, пока Менд держала ложку вместо иголки.",
+        "После ужина Хаш спросил жестами, за какое обещание взяться сначала. Менд потянулась к трём разным свёрткам и не смогла выбрать.",
+        "«Давай завтра посмотрим весь список», — сказала Менд. Они начнут с обещаний, которые она уже дала. Новая лента не появилась."
+      ],
+      "introduction": "Менд узнаёт, что аккуратно сложенные обещания не становятся меньше.",
+      "title": "Коробка — ещё не план"
+    },
+    "tr": {
+      "altTexts": [
+        "Mend, farklı desenli yedi kurdele rulosunu düzenliyor.",
+        "Mend kutuya dokununca gümüş renkli kurdele açılıyor.",
+        "Hush, boş taburenin yanına iki kişilik akşam yemeği getiriyor.",
+        "Hush, yemeği on iki bitmemiş fenerin yanına bırakıyor.",
+        "Mend ve Hush yemek yerken yedi kurdele yanlarında duruyor.",
+        "Mend üç iş paketi arasında kararsız kalıyor, Hush bakıyor.",
+        "Mend alet kutusunu kapatırken Hush kâseleri topluyor."
+      ],
+      "captions": [
+        "Mend atölyede her kurdeleyi düzgünce sardı. Yedi küçük rulo, yedi büyük sözden çok daha kolay görünüyordu.",
+        "Ama fener kutusuna dokunduğunda gümüş renkli kurdele açıldı. Ortalığı toplamak yapılacak işi küçültmemişti.",
+        "Hush akşam yemeğiyle dönüp Mend’i fenerleri sayarken buldu. İşaret diliyle, “Yemek yedin mi?” diye sordu. Mend masanın yanındaki boş tabureye baktı.",
+        "“Şundan sonra,” dedi Mend. Henüz tek bir fenere bile başlamamıştı. Hush ona başka iş vermeden kâseyi bıraktı.",
+        "Birlikte yemek yediler. Kurdeleler kaldı, ama Mend iğne yerine kaşık tutarken korkunç bir şey olmadı.",
+        "Yemekten sonra Hush işaret diliyle önce hangi sözle ilgilenmeleri gerektiğini sordu. Mend üç farklı pakete uzandı, fakat aralarında seçim yapamadı.",
+        "“Yarın bütün listeye bakalım,” dedi Mend. Önce zaten vermiş olduğu sözleri düzene koyacaklardı. Yeni bir kurdele belirmedi."
+      ],
+      "introduction": "Mend, sözleri düzenlemenin onları küçültmediğini görür.",
+      "title": "Bir Kutu, Plan Değildir"
+    },
+    "vi": {
+      "altTexts": [
+        "Bảy cuộn ruy băng được xếp gọn bên Mend.",
+        "Dải bạc bung về phía hộp đèn còn nguyên việc sửa.",
+        "Hush mang bữa tối cho hai người đến cạnh chiếc ghế đẩu trống.",
+        "Bát được đặt trên bàn ăn nhỏ, tách khỏi dụng cụ sửa chữa.",
+        "Mend và Hush ăn tối; bảy dải băng vẫn thả lỏng.",
+        "Tay Mend ngập ngừng giữa ba nhóm vật liệu.",
+        "Mend cất dụng cụ; số dải băng vẫn là bảy."
+      ],
+      "captions": [
+        "Vẫn trong xưởng, Mend cuộn gọn từng dải băng. Bảy cuộn nhỏ trông dễ xoay xở hơn bảy lời hứa lớn.",
+        "Nhưng vừa chạm vào hộp đèn, dải bạc lại bung ra. Dọn gọn không khiến công việc ít đi.",
+        "Hush mang bữa tối trở lại, thấy Mend còn đếm đèn. Cậu hỏi bằng ký hiệu: “Ăn chưa?” Mend nhìn chiếc ghế đẩu trống bên bàn.",
+        "“Xong cái này đã,” Mend nói. Thật ra cô chưa sửa một chiếc nào. Hush đặt bát xuống mà không giao thêm việc.",
+        "Họ ăn cùng nhau. Các dải băng vẫn còn, nhưng không có điều gì đáng sợ xảy ra khi Mend cầm thìa thay vì kim.",
+        "Ăn xong, Hush dùng ngôn ngữ ký hiệu hỏi lời hứa nào cần làm trước. Mend với tay về ba bó đồ khác nhau mà không chọn nổi.",
+        "“Ngày mai mình xem cả danh sách nhé,” Mend nói. Họ sẽ bắt đầu bằng việc sắp xếp những lời cô đã hứa. Không có dải băng mới nào xuất hiện."
+      ],
+      "introduction": "Cuộn ruy băng không làm việc ít đi; Mend dừng lại ăn tối.",
+      "title": "Xếp gọn hộp không phải là lập kế hoạch"
+    },
+    "zh": {
+      "altTexts": [
+        "七卷丝带整齐地排在门德旁边。",
+        "银色丝带重新伸向还装着待修灯笼的箱子。",
+        "哈什带来两人份的晚饭，桌边的凳子还空着。",
+        "哈什把碗放在与工具分开的吃饭小桌上。",
+        "门德和哈什一起吃晚饭，七条丝带仍松松地垂着。",
+        "门德的手停在三组材料之间，显得犹豫。",
+        "门德收起工具，丝带数量仍然是七条。"
+      ],
+      "captions": [
+        "门德还留在修理屋，把丝带一条条卷整齐。七个小卷，看起来比七个大承诺容易应付多了。",
+        "可是她一碰灯笼箱，银色丝带又展开了。收拾得整齐，并不会让工作变少。",
+        "哈什带着晚饭回来，看见门德还在数灯笼。他用手语问：“吃过了吗？”门德看向桌边空着的凳子。",
+        "“做完这一个就吃。”门德说。其实一盏灯笼都还没开始修。哈什放下碗，没有再交给她任何任务。",
+        "他们一起吃饭。丝带仍在，却没有因为门德拿起勺子、放下针而发生什么可怕的事。",
+        "饭后，哈什用手语问，哪个承诺该先做。门德伸手去拿三捆不同的东西，却选不出来。",
+        "“明天我们看看整张清单吧。”门德说。他们要先理清她已经许下的承诺。没有新丝带出现。"
+      ],
+      "introduction": "丝带卷整齐了，工作却没有减少；门德终于停下来吃饭。",
+      "title": "收好箱子不等于安排好工作"
+    }
+  },
+  "number": 4,
+  "panels": [
+    {
+      "altText": "Mend arranges seven differently patterned ribbon coils.",
+      "image": "N02E04P01.png"
+    },
+    {
+      "altText": "A silver ribbon uncoils as Mend touches the lantern crate.",
+      "image": "N02E04P02.png"
+    },
+    {
+      "altText": "Hush brings supper for two beside an empty stool.",
+      "image": "N02E04P03.png"
+    },
+    {
+      "altText": "Hush sets supper beside the twelve unfinished lanterns.",
+      "image": "N02E04P04.png"
+    },
+    {
+      "altText": "Mend and Hush share supper while seven ribbons rest nearby.",
+      "image": "N02E04P05.png"
+    },
+    {
+      "altText": "Mend hesitates over three work bundles as Hush watches.",
+      "image": "N02E04P06.png"
+    },
+    {
+      "altText": "Mend closes the tool tray while Hush clears the bowls.",
+      "image": "N02E04P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

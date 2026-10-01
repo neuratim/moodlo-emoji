@@ -1,0 +1,439 @@
+{
+  "id": "N01E06",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "في صباح اليوم التالي، في Bellara، يغادر الستة المحطة إلى جناح الشحن المذكور في سجل العبور. يكتشفه Quest عبر جسر القناة. لقد أوصلهم الجزء الأول من تتبع السجلات إلى المكان الصحيح.",
+        "في الداخل، يتوقف العمل في مكتب السجلات مؤقتًا أثناء تبديل الورديات. Guff، حمال الجناح، يسلي المسافرين المنتظرين بعرض مضحك باستخدام حقيبة سفر. Beam يضحك. حتى تشبث Quiver بالمقعد يخفّ.",
+        "عندما ينتهي العرض، يتبع Beam Guff عبر مدخل الكواليس. بعيدًا عن قاعة الانتظار، تتعثر ابتسامة Guff. يتذكر Beam مدى سرعة تحول العرض المبهج إلى ضغط على Rain.",
+        "يعترف Guff أن حمل الأمتعة ليس وظيفته الوحيدة المتعبة. الجميع يتوقع الابتسامة أيضًا. يظل سجل المناولة مغلقًا بينما يستمع Beam، دون تحويل الاستراحة إلى مهمة أخرى.",
+        "يصل Flip إلى موعد العرض التالي ويتولى عرض الحقيبة. لا يحتاج Guff إلى كسب هذه الاستراحة بنكتة أخرى. صار بإمكانه أن يقضي فترة الراحة كما يشاء.",
+        "بعد الاستراحة، يفتح Guff سجل المناولة الذي يستخدمه أثناء عمله في نقل الأمتعة. يتطابق سجل العبور مع المشبك الذي يحمله Quest. يتم الاحتفاظ بالصورة الكاملة للوعاء في مكتب عرض المرفأ، والذي سيفتح أبوابه مرة أخرى غدًا.",
+        "في ذلك المساء، في Meadowfold، سمع Rain تقرير Beam من خلال بوق الاتصال في المرج. هناك صورة يمكن فحصها غدًا. هناك أيضًا درس تعلمه Beam من خلال مشاهدة شخص ما يأخذ قسطًا من الراحة أخيرًا."
+      ],
+      "captions": [
+        "في صباح اليوم التالي، في Bellara، يغادر الستة المحطة إلى جناح الشحن المذكور في سجل العبور. يكتشفه Quest عبر جسر القناة. لقد أوصلهم الجزء الأول من تتبع السجلات إلى المكان الصحيح.\n\nQuest: \"عبر هذا الجسر. ثم نطلب سجل المناولة.\"",
+        "في الداخل، يتوقف العمل في مكتب السجلات مؤقتًا أثناء تبديل الورديات. Guff، حمال الجناح، يسلي المسافرين المنتظرين بعرض مضحك باستخدام حقيبة سفر. Beam يضحك. حتى تشبث Quiver بالمقعد يخفّ.\n\nGuff: \"حتى حقيبتي تريد عطلة.\"",
+        "عندما ينتهي العرض، يتبع Beam Guff عبر مدخل الكواليس. بعيدًا عن قاعة الانتظار، تتعثر ابتسامة Guff. يتذكر Beam مدى سرعة تحول العرض المبهج إلى ضغط على Rain.\n\nBeam: \"ليس عليك الترفيه عني هنا.\"",
+        "يعترف Guff أن حمل الأمتعة ليس وظيفته الوحيدة المتعبة. الجميع يتوقع الابتسامة أيضًا. يظل سجل المناولة مغلقًا بينما يستمع Beam، دون تحويل الاستراحة إلى مهمة أخرى.\n\nGuff: \"أحيانًا أريد من شخص آخر أن يتولى إدخال البهجة على الآخرين.\"",
+        "يصل Flip إلى موعد العرض التالي ويتولى عرض الحقيبة. لا يحتاج Guff إلى كسب هذه الاستراحة بنكتة أخرى. صار بإمكانه أن يقضي فترة الراحة كما يشاء.\n\nFlip: \"سأتولى العرض التالي. ابق هنا وأكمل مشروبك.\"",
+        "بعد الاستراحة، يفتح Guff سجل المناولة الذي يستخدمه أثناء عمله في نقل الأمتعة. يتطابق سجل العبور مع المشبك الذي يحمله Quest. يتم الاحتفاظ بالصورة الكاملة للوعاء في مكتب عرض المرفأ، والذي سيفتح أبوابه مرة أخرى غدًا.\n\nGuff: \"لقد احتفظوا بصورة الوصول. قد تظهر ما جرفته مياه العاصفة.\"",
+        "في ذلك المساء، في Meadowfold، سمع Rain تقرير Beam من خلال بوق الاتصال في المرج. هناك صورة يمكن فحصها غدًا. هناك أيضًا درس تعلمه Beam من خلال مشاهدة شخص ما يأخذ قسطًا من الراحة أخيرًا.\n\nRain [عبر هاتف Postline السلكي]: \"هل جعله الضحك أقل تعبًا؟\"\nBeam [عبر هاتف Postline السلكي]: \"لا. لقد ساعدته الراحة. غدًا سنفحص الدليل الموجود في الصورة.\""
+      ],
+      "introduction": "بعد رحلة القطار، وصل الباحثون إلى Bellara بالمشبك وملاحظات Rain. جناح الشحن هو أول خيط يتبعونه. هناك يلتقون بـ Guff، الحمال والمؤدي الذي أصبحت ابتسامته المألوفة وظيفة أخرى لا يمكنه تركها.",
+      "title": "ضحك خلف الستار"
+    },
+    "bn": {
+      "altTexts": [
+        "পরদিন সকালে ছয় বন্ধু Bellara স্টেশন থেকে নথিতে লেখা মাল পরিবহনের দপ্তরের দিকে যায়। খালের সেতুর ওপারে Quest ভবনটি দেখতে পায়। নথি ধরে এগিয়ে তারা প্রথম ঠিকানায় পৌঁছেছে।",
+        "ভেতরে নথির কাউন্টারে পালাবদল চলছে। মালবাহক Guff একটি স্যুটকেস নিয়ে মজার খেলা দেখিয়ে অপেক্ষমাণ যাত্রীদের হাসায়। Beam হাসে। Quiver-ও বেঞ্চটি আগের মতো শক্ত করে ধরে থাকে না।",
+        "খেলা শেষ হলে Beam পিছনের ঘরে Guff-এর সঙ্গে যায়। অপেক্ষার হল থেকে দূরে আসতেই Guff-এর হাসি মিলিয়ে যায়। Beam-এর মনে পড়ে, Rain-কে আনন্দ দিতে চাওয়া কত দ্রুত তার ওপর চাপ হয়ে উঠেছিল।",
+        "Guff বলে, শুধু মাল টানাই তাকে ক্লান্ত করে না। সবাই তার হাসিও আশা করে। খাতাটি বন্ধই থাকে। Beam কথা শোনে, বিশ্রামের সময়টাকেও নতুন কাজে ভরে দেয় না।",
+        "পরের খেলা দেখানোর সময় Flip এসে স্যুটকেসটি নিয়ে নেয়। বিশ্রাম পাওয়ার জন্য Guff-কে আরেকটি কৌতুক শোনাতে হবে না। পরের কিছুটা সময় সে নিজের মতো কাটাতে পারবে।",
+        "বিশ্রামের পর Guff মাল ওঠানো-নামানোর খাতাটি খোলে। নথির তথ্য Quest-এর আটকানির সঙ্গে মিলে যায়। পাত্রটির সম্পূর্ণ ছবি বন্দরের প্রদর্শন দপ্তরে রাখা আছে। সেই দপ্তর আবার কাল খুলবে।",
+        "সেই সন্ধ্যায় Meadowfold-এ Rain কথা বলার শিঙায় Beam-এর খবর শোনে। কাল একটি ছবি পরীক্ষা করা যাবে। কাউকে শেষ পর্যন্ত বিশ্রাম নিতে দেখে Beam আরেকটি কথাও শিখেছে।"
+      ],
+      "captions": [
+        "পরদিন সকালে ছয় বন্ধু Bellara স্টেশন থেকে নথিতে লেখা মাল পরিবহনের দপ্তরের দিকে যায়। খালের সেতুর ওপারে Quest ভবনটি দেখতে পায়। নথি ধরে এগিয়ে তারা প্রথম ঠিকানায় পৌঁছেছে।\n\nQuest: \"এই সেতুর ওপারে। সেখানে মাল ওঠানো-নামানোর খাতাটি চাইব।\"",
+        "ভেতরে নথির কাউন্টারে পালাবদল চলছে। মালবাহক Guff একটি স্যুটকেস নিয়ে মজার খেলা দেখিয়ে অপেক্ষমাণ যাত্রীদের হাসায়। Beam হাসে। Quiver-ও বেঞ্চটি আগের মতো শক্ত করে ধরে থাকে না।\n\nGuff: \"আমার স্যুটকেসটাও ছুটি চাইছে।\"",
+        "খেলা শেষ হলে Beam পিছনের ঘরে Guff-এর সঙ্গে যায়। অপেক্ষার হল থেকে দূরে আসতেই Guff-এর হাসি মিলিয়ে যায়। Beam-এর মনে পড়ে, Rain-কে আনন্দ দিতে চাওয়া কত দ্রুত তার ওপর চাপ হয়ে উঠেছিল।\n\nBeam: \"এখানে আমাকে হাসানোর চেষ্টা করতে হবে না।\"",
+        "Guff বলে, শুধু মাল টানাই তাকে ক্লান্ত করে না। সবাই তার হাসিও আশা করে। খাতাটি বন্ধই থাকে। Beam কথা শোনে, বিশ্রামের সময়টাকেও নতুন কাজে ভরে দেয় না।\n\nGuff: \"মাঝেমধ্যে চাই, অন্য কেউ সবাইকে হাসানোর দায়িত্ব নিক।\"",
+        "পরের খেলা দেখানোর সময় Flip এসে স্যুটকেসটি নিয়ে নেয়। বিশ্রাম পাওয়ার জন্য Guff-কে আরেকটি কৌতুক শোনাতে হবে না। পরের কিছুটা সময় সে নিজের মতো কাটাতে পারবে।\n\nFlip: \"এবার আমি সামলাচ্ছি। তুমি এখানেই থেকে পানীয়টা শেষ করো।\"",
+        "বিশ্রামের পর Guff মাল ওঠানো-নামানোর খাতাটি খোলে। নথির তথ্য Quest-এর আটকানির সঙ্গে মিলে যায়। পাত্রটির সম্পূর্ণ ছবি বন্দরের প্রদর্শন দপ্তরে রাখা আছে। সেই দপ্তর আবার কাল খুলবে।\n\nGuff: \"মাল আসার সময়ের ছবি ওরা রেখেছে। ঝড়ে কী ভেসে গেছে, ছবিতে বোঝা যেতে পারে।\"",
+        "সেই সন্ধ্যায় Meadowfold-এ Rain কথা বলার শিঙায় Beam-এর খবর শোনে। কাল একটি ছবি পরীক্ষা করা যাবে। কাউকে শেষ পর্যন্ত বিশ্রাম নিতে দেখে Beam আরেকটি কথাও শিখেছে।\n\nRain [Postline-এর তারযুক্ত ফোনে]: \"হাসলে কি তার ক্লান্তি কমেছিল?\"\nBeam [Postline-এর তারযুক্ত ফোনে]: \"না। বিশ্রাম নিলে কমেছে। কাল ছবির সূত্রটা দেখব।\""
+      ],
+      "introduction": "ট্রেনে Bellara পৌঁছে বন্ধুরা আটকানি আর Rain-এর নোট নিয়ে মাল পরিবহনের দপ্তরে যায়। সেখানেই প্রথম সূত্র। মালবাহক ও মজার খেলা দেখানো শিল্পী Guff-এর সঙ্গে দেখা হয়। তার পরিচিত হাসিটিও যেন এমন এক কাজ, যার ছুটি নেই।",
+      "title": "পর্দার আড়ালের হাসি"
+    },
+    "cs": {
+      "altTexts": [
+        "Druhý den ráno v Bellaře zamíří šestice z nádraží do přepravního pavilonu uvedeného v záznamu. Quest ho zahlédne za mostem přes kanál. První část pátrání v dokumentech je dovedla na správné místo.",
+        "U přepážky se právě střídají směny. Guff, nosič z pavilonu, baví čekající cestující výstupem s kufrem. Beam se směje; i Quiver se přestane tak pevně držet lavičky.",
+        "Po skončení výstupu Beam následuje Guffa dveřmi do zákulisí. Mimo čekárnu Guffův úsměv pohasne. Beam si vzpomene, jak rychle se veselá nabídka změnila v tlak na Raina.",
+        "Guff přizná, že nošení zavazadel není jeho jediná únavná práce. Všichni očekávají i úsměv. Kniha zůstane zavřená, zatímco Beam naslouchá a nedělá z přestávky další úkol.",
+        "Flip přichází na další vystoupení a přebírá výstup s kufrem. Guff si nemusí přestávku zasloužit dalším vtipem. Následující chvíle patří jen jemu.",
+        "Po přestávce Guff otevře evidenci zásilek, kterou používá při své práci nosiče. Přepravní záznam odpovídá sponě, kterou přinesl Quest. Úplnou fotografii zařízení uchovává přístavní výstavní kancelář, která znovu otevírá zítra.",
+        "Toho večera Rain na louce Meadowfold poslouchá Beamovu zprávu z mluvicí trouby. Zítra prohlédnou fotografii. Beam si také něco uvědomil, když viděl, jak si někdo konečně dopřál přestávku."
+      ],
+      "captions": [
+        "Druhý den ráno v Bellaře zamíří šestice z nádraží do přepravního pavilonu uvedeného v záznamu. Quest ho zahlédne za mostem přes kanál. První část pátrání v dokumentech je dovedla na správné místo.\n\nQuest: „Přejdeme tenhle most. Pak si vyžádáme evidenci zásilek.“",
+        "U přepážky se právě střídají směny. Guff, nosič z pavilonu, baví čekající cestující výstupem s kufrem. Beam se směje; i Quiver se přestane tak pevně držet lavičky.\n\nGuff: „I můj kufr chce na dovolenou.“",
+        "Po skončení výstupu Beam následuje Guffa dveřmi do zákulisí. Mimo čekárnu Guffův úsměv pohasne. Beam si vzpomene, jak rychle se veselá nabídka změnila v tlak na Raina.\n\nBeam: „Tady vzadu mě bavit nemusíš.“",
+        "Guff přizná, že nošení zavazadel není jeho jediná únavná práce. Všichni očekávají i úsměv. Kniha zůstane zavřená, zatímco Beam naslouchá a nedělá z přestávky další úkol.\n\nGuff: „Někdy bych chtěl, aby se o dobrou náladu postaral někdo jiný.“",
+        "Flip přichází na další vystoupení a přebírá výstup s kufrem. Guff si nemusí přestávku zasloužit dalším vtipem. Následující chvíle patří jen jemu.\n\nFlip: „Teď jsem na řadě já. Zůstaň tady a v klidu dopij.“",
+        "Po přestávce Guff otevře evidenci zásilek, kterou používá při své práci nosiče. Přepravní záznam odpovídá sponě, kterou přinesl Quest. Úplnou fotografii zařízení uchovává přístavní výstavní kancelář, která znovu otevírá zítra.\n\nGuff: „Fotografii pořízenou při příjezdu si nechali. Možná ukáže, co bouře odplavila.“",
+        "Toho večera Rain na louce Meadowfold poslouchá Beamovu zprávu z mluvicí trouby. Zítra prohlédnou fotografii. Beam si také něco uvědomil, když viděl, jak si někdo konečně dopřál přestávku.\n\nRain [po pevné lince Postline]: „Byl díky smíchu méně unavený?“\nBeam [po pevné lince Postline]: „Ne. Pomohl odpočinek. Zítra půjdeme po té fotografii.“"
+      ],
+      "introduction": "Po cestě vlakem dorazí pátrací skupina do Bellary se sponou a Rainovými pozorováními. První stopa vede do přepravního pavilonu. Tam potkají Guffa, nosiče a baviče, jehož známý úsměv se stal další prací, od které si nedokáže odpočinout.",
+      "title": "Smích za oponou"
+    },
+    "de": {
+      "altTexts": [
+        "Am nächsten Morgen verlassen die sechs in Bellara den Bahnhof in Richtung des im Transitprotokoll genannten Versandpavillons. Quest entdeckt ihn auf der anderen Seite einer Kanalbrücke. Der erste Teil der Papierspur hat sie an den richtigen Ort gebracht.",
+        "Im Inneren befindet sich am Aktenschalter gerade Schichtwechsel. Guff, der Gepäckträger des Pavillons, unterhält die wartenden Reisenden mit einer Koffernummer. Beam lacht; sogar Quiver umklammert die Bank weniger fest.",
+        "Als die Nummer endet, folgt Beam Guff durch den Backstage-Eingang. Abseits der Wartehalle erlischt das Grinsen von Guff. Beam erinnert sich, wie schnell aus einem fröhlichen Angebot Druck für Rain wurde.",
+        "Guff gibt zu, dass das Tragen von Gepäck nicht seine einzige ermüdende Aufgabe ist. Jeder erwartet auch das Lächeln. Das Frachtbuch bleibt geschlossen, während Beam zuhört, ohne die Pause in eine weitere Aufgabe zu verwandeln.",
+        "Flip kommt zum nächsten Auftritt und übernimmt die Koffernummer. Guff muss sich diese Pause nicht mit einem weiteren Witz verdienen. Die nächste Weile gehört ganz ihm.",
+        "Nach der Pause öffnet Guff das Bearbeitungsbuch, das er für seine Trägerschichten verwendet. Der Transiteintrag entspricht der von Quest mitgebrachten Schließe. Das vollständige Foto der Hardware wird im Hafenausstellungsbüro aufbewahrt, das morgen wieder öffnet.",
+        "An diesem Abend, zurück bei Meadowfold, hört Rain den Bericht von Beam über das Feldhorn. Morgen gibt es ein Foto zur Besichtigung. Es gibt auch eine Lektion, die Beam gelernt hat, als er beobachtete, wie jemand endlich eine Pause machte."
+      ],
+      "captions": [
+        "Am nächsten Morgen verlassen die sechs in Bellara den Bahnhof in Richtung des im Transitprotokoll genannten Versandpavillons. Quest entdeckt ihn auf der anderen Seite einer Kanalbrücke. Der erste Teil der Papierspur hat sie an den richtigen Ort gebracht.\n\nQuest: „Über diese Brücke. Dann fragen wir nach dem Bearbeitungsbuch.“",
+        "Im Inneren befindet sich am Aktenschalter gerade Schichtwechsel. Guff, der Gepäckträger des Pavillons, unterhält die wartenden Reisenden mit einer Koffernummer. Beam lacht; sogar Quiver umklammert die Bank weniger fest.\n\nGuff: „Sogar mein Koffer will Urlaub.“",
+        "Als die Nummer endet, folgt Beam Guff durch den Backstage-Eingang. Abseits der Wartehalle erlischt das Grinsen von Guff. Beam erinnert sich, wie schnell aus einem fröhlichen Angebot Druck für Rain wurde.\n\nBeam: „Du musst mich hier nicht unterhalten.“",
+        "Guff gibt zu, dass das Tragen von Gepäck nicht seine einzige ermüdende Aufgabe ist. Jeder erwartet auch das Lächeln. Das Frachtbuch bleibt geschlossen, während Beam zuhört, ohne die Pause in eine weitere Aufgabe zu verwandeln.\n\nGuff: „Manchmal möchte ich, dass jemand anderes für gute Laune sorgt.“",
+        "Flip kommt zum nächsten Auftritt und übernimmt die Koffernummer. Guff muss sich diese Pause nicht mit einem weiteren Witz verdienen. Die nächste Weile gehört ganz ihm.\n\nFlip: „Jetzt bin ich dran. Bleib hier und trink in Ruhe aus.“",
+        "Nach der Pause öffnet Guff das Bearbeitungsbuch, das er für seine Trägerschichten verwendet. Der Transiteintrag entspricht der von Quest mitgebrachten Schließe. Das vollständige Foto der Hardware wird im Hafenausstellungsbüro aufbewahrt, das morgen wieder öffnet.\n\nGuff: „Sie haben das Ankunftsfoto aufbewahrt. Es könnte zeigen, was der Sturm abgewaschen hat.“",
+        "An diesem Abend, zurück bei Meadowfold, hört Rain den Bericht von Beam über das Feldhorn. Morgen gibt es ein Foto zur Besichtigung. Es gibt auch eine Lektion, die Beam gelernt hat, als er beobachtete, wie jemand endlich eine Pause machte.\n\nRain [über die Postline-Leitung]: „Hat ihn das Lachen weniger müde gemacht?“\nBeam [über die Postline-Leitung]: „Nein. Ruhe hat geholfen. Morgen folgen wir dem Foto.“"
+      ],
+      "introduction": "Nach der Zugfahrt erreichen die Ermittler Bellara mit dem Verschluss und den Beobachtungen von Rain. Ihre erste Spur führt zum Versandpavillon. Dort treffen sie Guff, einen Gepäckträger und Unterhaltungskünstler, dessen vertrautes Lächeln zu einer weiteren Arbeit geworden ist, von der er keine Pause nehmen kann.",
+      "title": "Gelächter hinter dem Vorhang"
+    },
+    "en": {
+      "altTexts": [
+        "The next morning, in Bellara, the six leave the station for the shipping pavilion named in the transit record. Quest spots it across a canal bridge. The first part of the paper trail has brought them to the right place.",
+        "Inside, the records desk is between shifts. Guff, the pavilion's porter, entertains the waiting travelers with a suitcase routine. Beam laughs; even Quiver's grip on the bench loosens.",
+        "When the routine ends, Beam follows Guff through the backstage doorway. Away from the waiting hall, Guff's grin falters. Beam remembers how quickly a cheerful offer became pressure for Rain.",
+        "Guff admits that carrying luggage is not his only tiring job. Everyone expects the smile too. The ledger stays closed while Beam listens, without turning the break into another task.",
+        "Flip arrives for the next performance slot and takes over the suitcase routine. Guff does not need to earn this break with another joke. His next stretch of time is his own.",
+        "After the break, Guff opens the handling ledger he uses for his porter shifts. The transit entry matches Quest's clasp. Its full hardware photograph is kept at the harbor display office, which opens again tomorrow.",
+        "That evening, back at Meadowfold, Rain hears Beam's report through the field horn. There is a photograph to inspect tomorrow. There is also a lesson Beam learned by watching someone finally take a break."
+      ],
+      "captions": [
+        "The next morning, in Bellara, the six leave the station for the shipping pavilion named in the transit record. Quest spots it across a canal bridge. The first part of the paper trail has brought them to the right place.\n\nQuest: “Across this bridge. Then we ask for the handling ledger.”",
+        "Inside, the records desk is between shifts. Guff, the pavilion's porter, entertains the waiting travelers with a suitcase routine. Beam laughs; even Quiver's grip on the bench loosens.\n\nGuff: “Even my suitcase wants a holiday.”",
+        "When the routine ends, Beam follows Guff through the backstage doorway. Away from the waiting hall, Guff's grin falters. Beam remembers how quickly a cheerful offer became pressure for Rain.\n\nBeam: “You don't have to entertain me back here.”",
+        "Guff admits that carrying luggage is not his only tiring job. Everyone expects the smile too. The ledger stays closed while Beam listens, without turning the break into another task.\n\nGuff: “Sometimes I want someone else to carry the good mood.”",
+        "Flip arrives for the next performance slot and takes over the suitcase routine. Guff does not need to earn this break with another joke. His next stretch of time is his own.\n\nFlip: “I've got the next slot. Stay here and finish your drink.”",
+        "After the break, Guff opens the handling ledger he uses for his porter shifts. The transit entry matches Quest's clasp. Its full hardware photograph is kept at the harbor display office, which opens again tomorrow.\n\nGuff: “They kept the arrival photograph. It may show what the storm washed off.”",
+        "That evening, back at Meadowfold, Rain hears Beam's report through the field horn. There is a photograph to inspect tomorrow. There is also a lesson Beam learned by watching someone finally take a break.\n\nRain [wired Postline]: “Did laughing make him less tired?”\nBeam [wired Postline]: “No. Rest helped. Tomorrow we'll follow the photograph.”"
+      ],
+      "introduction": "After the train journey, the investigators reach Bellara with the clasp and Rain's observations. The shipping pavilion is their first lead. There they meet Guff, a porter and performer whose familiar smile has become another job he cannot put down.",
+      "title": "Laughter Behind the Curtain"
+    },
+    "es": {
+      "altTexts": [
+        "A la mañana siguiente, en Bellara, los seis salen de la estación hacia el pabellón de envíos mencionado en el registro de tránsito. Quest lo ve al otro lado del puente de un canal. La primera parte del rastro documental los ha llevado al lugar correcto.",
+        "En el interior, el personal del mostrador de registros está cambiando de turno. Guff, el mozo de equipajes del pabellón, entretiene a los viajeros que esperan con un número cómico con una maleta. Beam se ríe; incluso Quiver deja de aferrarse tanto al banco.",
+        "Cuando termina la rutina, Beam sigue a Guff a través de la puerta detrás del escenario. Lejos de la sala de espera, la sonrisa de Guff se tambalea. Beam recuerda lo rápido que una oferta alegre se convirtió en presión para Rain.",
+        "Guff admite que llevar equipaje no es su único trabajo agotador. Todo el mundo también espera la sonrisa. El libro de registros permanece cerrado mientras Beam escucha, sin convertir la pausa en otra tarea.",
+        "Flip llega para el siguiente turno de actuación y se hace cargo de la rutina de la maleta. Guff no necesita ganarse este descanso con otra broma. Por un rato, puede disponer de su tiempo.",
+        "Después del descanso, Guff abre el registro de envíos que utiliza para sus turnos de mozo de equipajes. La entrada de tránsito coincide con el cierre que trae Quest. La fotografía completa de las piezas se conserva en la oficina de exhibición del puerto, que abre nuevamente mañana.",
+        "Esa noche, de vuelta en Meadowfold, Rain escucha el informe de Beam a través de la bocina del prado. Hay una fotografía para inspeccionar mañana. También hay una lección que Beam aprendió al ver a alguien finalmente tomar un descanso."
+      ],
+      "captions": [
+        "A la mañana siguiente, en Bellara, los seis salen de la estación hacia el pabellón de envíos mencionado en el registro de tránsito. Quest lo ve al otro lado del puente de un canal. La primera parte del rastro documental los ha llevado al lugar correcto.\n\nQuest: \"Al otro lado de este puente. Luego solicitamos el registro de envíos\".",
+        "En el interior, el personal del mostrador de registros está cambiando de turno. Guff, el mozo de equipajes del pabellón, entretiene a los viajeros que esperan con un número cómico con una maleta. Beam se ríe; incluso Quiver deja de aferrarse tanto al banco.\n\nGuff: “Hasta mi maleta quiere vacaciones”.",
+        "Cuando termina la rutina, Beam sigue a Guff a través de la puerta detrás del escenario. Lejos de la sala de espera, la sonrisa de Guff se tambalea. Beam recuerda lo rápido que una oferta alegre se convirtió en presión para Rain.\n\nBeam: \"No tienes que entretenerme aquí\".",
+        "Guff admite que llevar equipaje no es su único trabajo agotador. Todo el mundo también espera la sonrisa. El libro de registros permanece cerrado mientras Beam escucha, sin convertir la pausa en otra tarea.\n\nGuff: “A veces quiero que otra persona se encargue de animar a todos”.",
+        "Flip llega para el siguiente turno de actuación y se hace cargo de la rutina de la maleta. Guff no necesita ganarse este descanso con otra broma. Por un rato, puede disponer de su tiempo.\n\nFlip: \"Me toca la próxima actuación. Quédate aquí y termina tu bebida\".",
+        "Después del descanso, Guff abre el registro de envíos que utiliza para sus turnos de mozo de equipajes. La entrada de tránsito coincide con el cierre que trae Quest. La fotografía completa de las piezas se conserva en la oficina de exhibición del puerto, que abre nuevamente mañana.\n\nGuff: \"Guardaron la fotografía de llegada. Puede mostrar lo que se llevó la tormenta\".",
+        "Esa noche, de vuelta en Meadowfold, Rain escucha el informe de Beam a través de la bocina del prado. Hay una fotografía para inspeccionar mañana. También hay una lección que Beam aprendió al ver a alguien finalmente tomar un descanso.\n\nRain [por Postline con cable]: “¿La risa lo hizo sentir menos cansado?”\nBeam [por Postline con cable]: \"No. El descanso ayudó. Mañana seguiremos la fotografía\"."
+      ],
+      "introduction": "Después del viaje en tren, los investigadores llegan a Bellara con el cierre y las observaciones de Rain. El pabellón de envíos es su primera pista. Allí conocen a Guff, un mozo de equipajes y artista cuya familiar sonrisa se ha convertido en otro trabajo que no puede dejar de lado.",
+      "title": "Risas detrás de la cortina"
+    },
+    "fr": {
+      "altTexts": [
+        "Le lendemain matin, à Bellara, les six quittent la gare pour le pavillon d'expédition mentionné dans le dossier de transit. Quest le repère de l'autre côté du pont sur le canal. La première partie de la trace écrite les a amenés au bon endroit.",
+        "À l’intérieur, le personnel du guichet des archives change d'équipe. Guff, le porteur du pavillon, divertit les voyageurs en attente avec un numéro comique avec une valise. Beam rit ; même Quiver desserre les mains autour du banc.",
+        "À la fin du numéro, Beam suit Guff à travers la porte des coulisses. Loin de la salle d'attente, le sourire de Guff faiblit. Beam se souvient de la rapidité avec laquelle une proposition joyeuse est devenue une pression pour Rain.",
+        "Guff admet que porter des bagages n'est pas son seul travail fatiguant. Tout le monde attend aussi le sourire. Le registre reste fermé pendant que Beam écoute, sans transformer la pause en une autre tâche.",
+        "Flip arrive pour le prochain spectacle et prend en charge le numéro de la valise. Guff n’a pas besoin de mériter cette pause avec une autre blague. Les instants qui suivent lui appartiennent.",
+        "Après la pause, Guff ouvre le registre de manutention qu'il utilise pour ses quarts de travail de porteur. L'entrée de transit correspond au fermoir apporté par Quest. La photographie complète du matériel est conservée au bureau d'exposition du port qui rouvre demain.",
+        "Ce soir-là, de retour à Meadowfold, Rain entend le rapport de Beam via le pavillon acoustique du pré. Il y a une photo à inspecter demain. Il y a aussi une leçon que Beam a apprise en regardant quelqu'un enfin faire une pause."
+      ],
+      "captions": [
+        "Le lendemain matin, à Bellara, les six quittent la gare pour le pavillon d'expédition mentionné dans le dossier de transit. Quest le repère de l'autre côté du pont sur le canal. La première partie de la trace écrite les a amenés au bon endroit.\n\nQuest : « De l'autre côté de ce pont. Ensuite, nous demandons le registre de manutention. »",
+        "À l’intérieur, le personnel du guichet des archives change d'équipe. Guff, le porteur du pavillon, divertit les voyageurs en attente avec un numéro comique avec une valise. Beam rit ; même Quiver desserre les mains autour du banc.\n\nGuff : « Même ma valise veut des vacances. »",
+        "À la fin du numéro, Beam suit Guff à travers la porte des coulisses. Loin de la salle d'attente, le sourire de Guff faiblit. Beam se souvient de la rapidité avec laquelle une proposition joyeuse est devenue une pression pour Rain.\n\nBeam : « Tu n'as pas besoin de me divertir ici. »",
+        "Guff admet que porter des bagages n'est pas son seul travail fatiguant. Tout le monde attend aussi le sourire. Le registre reste fermé pendant que Beam écoute, sans transformer la pause en une autre tâche.\n\nGuff : « Parfois, je veux que quelqu'un d'autre porte la bonne humeur. »",
+        "Flip arrive pour le prochain spectacle et prend en charge le numéro de la valise. Guff n’a pas besoin de mériter cette pause avec une autre blague. Les instants qui suivent lui appartiennent.\n\nFlip : « J'ai le prochain créneau. Reste ici et finis ton verre. »",
+        "Après la pause, Guff ouvre le registre de manutention qu'il utilise pour ses quarts de travail de porteur. L'entrée de transit correspond au fermoir apporté par Quest. La photographie complète du matériel est conservée au bureau d'exposition du port qui rouvre demain.\n\nGuff : « Ils ont gardé la photo d'arrivée. Elle peut montrer ce que la tempête a emporté. »",
+        "Ce soir-là, de retour à Meadowfold, Rain entend le rapport de Beam via le pavillon acoustique du pré. Il y a une photo à inspecter demain. Il y a aussi une leçon que Beam a apprise en regardant quelqu'un enfin faire une pause.\n\nRain [par la ligne filaire Postline] : « Est-ce que rire l'a rendu moins fatigué ? »\nBeam [par la ligne filaire Postline] : « Non. Le repos l'a aidé. Demain, nous examinerons la photo. »"
+      ],
+      "introduction": "Après le voyage en train, les enquêteurs atteignent Bellara avec le fermoir et les observations de Rain. Le pavillon d'expédition est leur première piste. Là, ils rencontrent Guff, un porteur et artiste dont le sourire familier est devenu un autre travail qu'il ne peut lâcher.",
+      "title": "Rire derrière le rideau"
+    },
+    "hi": {
+      "altTexts": [
+        "अगली सुबह छह दोस्त Bellara स्टेशन से रिकॉर्ड में लिखे माल-ढुलाई भवन की ओर जाते हैं। Quest को वह नहर के पुल के पार दिखता है। कागज़ों के सुराग उन्हें पहले सही पते तक ले आए हैं।",
+        "अंदर रिकॉर्ड काउंटर की पाली बदल रही है। वहाँ का कुली Guff एक सूटकेस से मज़ेदार करतब दिखाकर इंतज़ार करते यात्रियों को हँसाता है। Beam हँसता है। बेंच पर Quiver की पकड़ भी ढीली पड़ती है।",
+        "प्रदर्शन के बाद Beam, Guff के साथ पीछे के कमरे में जाता है। प्रतीक्षा कक्ष से दूर आते ही Guff की मुस्कान ढल जाती है। Beam को याद आता है कि Rain को खुश करने की कोशिश कितनी जल्दी दबाव बन गई थी।",
+        "Guff बताता है कि सामान ढोना उसका इकलौता थकाने वाला काम नहीं है। हर कोई उससे मुस्कान की भी उम्मीद करता है। बही-खाता बंद रहता है। Beam बात सुनता है, आराम के समय को दूसरे काम में नहीं बदलता।",
+        "अगला प्रदर्शन करने Flip आता है और सूटकेस सँभाल लेता है। आराम पाने के लिए Guff को एक और चुटकुला सुनाना नहीं पड़ता। अब कुछ समय उसका अपना है।",
+        "आराम के बाद Guff माल ढोने के काम में इस्तेमाल होने वाला बही-खाता खोलता है। दर्ज जानकारी Quest की क्लिप से मेल खाती है। पात्र की पूरी तस्वीर बंदरगाह के प्रदर्शन कार्यालय में है। वह कल फिर खुलेगा।",
+        "उस शाम Meadowfold में Rain भोंपू से Beam की खबर सुनता है। कल एक तस्वीर जाँची जाएगी। किसी को आखिर आराम लेते देखकर Beam ने एक और बात सीखी है।"
+      ],
+      "captions": [
+        "अगली सुबह छह दोस्त Bellara स्टेशन से रिकॉर्ड में लिखे माल-ढुलाई भवन की ओर जाते हैं। Quest को वह नहर के पुल के पार दिखता है। कागज़ों के सुराग उन्हें पहले सही पते तक ले आए हैं।\n\nQuest: \"इस पुल के पार। वहाँ माल सँभालने वाला बही-खाता माँगेंगे।\"",
+        "अंदर रिकॉर्ड काउंटर की पाली बदल रही है। वहाँ का कुली Guff एक सूटकेस से मज़ेदार करतब दिखाकर इंतज़ार करते यात्रियों को हँसाता है। Beam हँसता है। बेंच पर Quiver की पकड़ भी ढीली पड़ती है।\n\nGuff: \"मेरे सूटकेस को भी छुट्टी चाहिए।\"",
+        "प्रदर्शन के बाद Beam, Guff के साथ पीछे के कमरे में जाता है। प्रतीक्षा कक्ष से दूर आते ही Guff की मुस्कान ढल जाती है। Beam को याद आता है कि Rain को खुश करने की कोशिश कितनी जल्दी दबाव बन गई थी।\n\nBeam: \"यहाँ मुझे हँसाने की ज़रूरत नहीं है।\"",
+        "Guff बताता है कि सामान ढोना उसका इकलौता थकाने वाला काम नहीं है। हर कोई उससे मुस्कान की भी उम्मीद करता है। बही-खाता बंद रहता है। Beam बात सुनता है, आराम के समय को दूसरे काम में नहीं बदलता।\n\nGuff: \"कभी चाहता हूँ कि सबको खुश रखने की ज़िम्मेदारी कोई और ले।\"",
+        "अगला प्रदर्शन करने Flip आता है और सूटकेस सँभाल लेता है। आराम पाने के लिए Guff को एक और चुटकुला सुनाना नहीं पड़ता। अब कुछ समय उसका अपना है।\n\nFlip: \"अगला प्रदर्शन मैं करूँगा। तुम यहीं बैठकर अपना पेय खत्म करो।\"",
+        "आराम के बाद Guff माल ढोने के काम में इस्तेमाल होने वाला बही-खाता खोलता है। दर्ज जानकारी Quest की क्लिप से मेल खाती है। पात्र की पूरी तस्वीर बंदरगाह के प्रदर्शन कार्यालय में है। वह कल फिर खुलेगा।\n\nGuff: \"माल आने की तस्वीर उन्होंने रखी है। उसमें दिख सकता है कि तूफ़ान में क्या बहा था।\"",
+        "उस शाम Meadowfold में Rain भोंपू से Beam की खबर सुनता है। कल एक तस्वीर जाँची जाएगी। किसी को आखिर आराम लेते देखकर Beam ने एक और बात सीखी है।\n\nRain [Postline की तार वाली फ़ोन लाइन पर]: \"हँसने से उसकी थकान कम हुई?\"\nBeam [Postline की तार वाली फ़ोन लाइन पर]: \"नहीं। आराम से हुई। कल तस्वीर का सुराग देखेंगे।\""
+      ],
+      "introduction": "ट्रेन से Bellara पहुँचकर दोस्त क्लिप और Rain के नोट्स लेकर माल-ढुलाई भवन जाते हैं। वहीं पहला सुराग है। वे कुली और कलाकार Guff से मिलते हैं। उसकी परिचित मुस्कान भी अब ऐसा काम है जिससे उसे छुट्टी नहीं मिलती।",
+      "title": "पर्दे के पीछे की हँसी"
+    },
+    "id": {
+      "altTexts": [
+        "Keesokan paginya, di Bellara, keenamnya meninggalkan stasiun menuju paviliun pengiriman yang disebutkan dalam catatan transit. Quest melihatnya di seberang jembatan kanal. Bagian pertama dari jejak kertas telah membawa mereka ke tempat yang tepat.",
+        "Di dalam, loket pencatatan sedang dalam pergantian giliran kerja. Guff, porter paviliun, menghibur para pelancong yang menunggu dengan pertunjukan lucu dengan koper. Beam tertawa; bahkan cengkeraman Quiver di bangku mengendur.",
+        "Ketika pertunjukan itu selesai, Beam mengikuti Guff melalui pintu belakang panggung. Jauh dari ruang tunggu, senyum Guff mulai memudar. Beam mengingat betapa cepatnya tawaran ceria menjadi tekanan bagi Rain.",
+        "Guff mengaku membawa barang bawaan bukan satu-satunya pekerjaannya yang melelahkan. Semua orang juga mengharapkan senyuman itu. Buku besar tetap tertutup sementara Beam mendengarkan, tanpa mengubah jeda istirahat menjadi tugas lain.",
+        "Flip hadir untuk giliran pertunjukan berikutnya dan mengambil alih pertunjukan dengan koper. Guff tidak perlu mendapatkan jeda ini dengan lelucon lain. Untuk sementara, ia bebas menikmati waktu istirahatnya.",
+        "Setelah istirahat, Guff membuka buku besar penanganan yang dia gunakan saat bekerja sebagai porter. Entri transit cocok dengan pengait Quest. Foto komponen lengkapnya disimpan di kantor pameran pelabuhan, yang akan dibuka kembali besok.",
+        "Malam itu, di Meadowfold, Rain mendengar laporan Beam melalui corong suara di padang rumput. Ada foto untuk diperiksa besok. Ada juga pelajaran yang dipelajari Beam dengan melihat seseorang akhirnya istirahat."
+      ],
+      "captions": [
+        "Keesokan paginya, di Bellara, keenamnya meninggalkan stasiun menuju paviliun pengiriman yang disebutkan dalam catatan transit. Quest melihatnya di seberang jembatan kanal. Bagian pertama dari jejak kertas telah membawa mereka ke tempat yang tepat.\n\nQuest: \"Seberangi jembatan ini. Lalu kami meminta buku besar penanganannya.\"",
+        "Di dalam, loket pencatatan sedang dalam pergantian giliran kerja. Guff, porter paviliun, menghibur para pelancong yang menunggu dengan pertunjukan lucu dengan koper. Beam tertawa; bahkan cengkeraman Quiver di bangku mengendur.\n\nGuff: “Bahkan koperku pun ingin liburan.”",
+        "Ketika pertunjukan itu selesai, Beam mengikuti Guff melalui pintu belakang panggung. Jauh dari ruang tunggu, senyum Guff mulai memudar. Beam mengingat betapa cepatnya tawaran ceria menjadi tekanan bagi Rain.\n\nBeam: “Kamu tidak perlu menghiburku di sini.”",
+        "Guff mengaku membawa barang bawaan bukan satu-satunya pekerjaannya yang melelahkan. Semua orang juga mengharapkan senyuman itu. Buku besar tetap tertutup sementara Beam mendengarkan, tanpa mengubah jeda istirahat menjadi tugas lain.\n\nGuff: “Terkadang aku ingin orang lain yang menghibur semua orang.”",
+        "Flip hadir untuk giliran pertunjukan berikutnya dan mengambil alih pertunjukan dengan koper. Guff tidak perlu mendapatkan jeda ini dengan lelucon lain. Untuk sementara, ia bebas menikmati waktu istirahatnya.\n\nFlip: \"Giliran pertunjukan berikutnya bagianku. Tetap di sini dan habiskan minuman kamu.\"",
+        "Setelah istirahat, Guff membuka buku besar penanganan yang dia gunakan saat bekerja sebagai porter. Entri transit cocok dengan pengait Quest. Foto komponen lengkapnya disimpan di kantor pameran pelabuhan, yang akan dibuka kembali besok.\n\nGuff: \"Mereka menyimpan foto kedatangannya. Ini mungkin menunjukkan apa yang tersapu badai.\"",
+        "Malam itu, di Meadowfold, Rain mendengar laporan Beam melalui corong suara di padang rumput. Ada foto untuk diperiksa besok. Ada juga pelajaran yang dipelajari Beam dengan melihat seseorang akhirnya istirahat.\n\nRain [melalui Postline berkabel]: “Apakah tertawa membuat dia tidak terlalu lelah?”\nBeam [melalui Postline berkabel]: \"Tidak. Istirahat yang membantu. Besok kita akan menelusuri petunjuk foto itu.\""
+      ],
+      "introduction": "Usai perjalanan kereta api, penyelidik mencapai Bellara dengan pengait dan catatan tentang Rain. Paviliun pengiriman adalah petunjuk pertama mereka. Di sana mereka bertemu Guff, seorang portir dan pemain yang senyum akrabnya telah menjadi pekerjaan lain yang tidak bisa dia tinggalkan.",
+      "title": "Tertawa di Balik Tirai"
+    },
+    "it": {
+      "altTexts": [
+        "La mattina successiva, a Bellara, i sei lasciano la stazione per il padiglione di spedizione indicato nel registro di transito. Quest lo scorge dall'altra parte di un ponte sul canale. La prima parte del percorso cartaceo li ha portati nel posto giusto.",
+        "All'interno, il banco dei registri è in pausa per il cambio di turno. Guff, il facchino del padiglione, intrattiene i viaggiatori in attesa con un numero comico con una valigia. Beam ride; anche la presa di Quiver sulla panca si allenta.",
+        "Quando il numero finisce, Beam segue Guff attraverso la porta del backstage. Lontano dalla sala d'attesa, il sorriso di Guff vacilla. Beam ricorda quanto velocemente un'allegra offerta si trasformò in pressione per Rain.",
+        "Guff ammette che trasportare bagagli non è il suo unico lavoro faticoso. Tutti si aspettano anche il sorriso. Il registro resta chiuso mentre Beam ascolta, senza trasformare la pausa in un altro compito.",
+        "Flip arriva per il prossimo turno di spettacolo e si occupa del numero con la valigia. Guff non ha bisogno di guadagnarsi questa pausa con un'altra battuta. Il prossimo momento libero gli appartiene.",
+        "Dopo la pausa, Guff apre il registro delle movimentazioni che utilizza per i suoi turni da facchino. La registrazione di transito corrisponde alla chiusura di Quest. La fotografia completa dei componenti è conservata presso l'ufficio espositivo del porto, che riaprirà domani.",
+        "Quella sera, a Meadowfold, Rain ascolta il rapporto di Beam attraverso la tromba acustica del prato. Domani c'è una fotografia da controllare. C'è anche una lezione che Beam ha imparato guardando qualcuno prendersi finalmente una pausa."
+      ],
+      "captions": [
+        "La mattina successiva, a Bellara, i sei lasciano la stazione per il padiglione di spedizione indicato nel registro di transito. Quest lo scorge dall'altra parte di un ponte sul canale. La prima parte del percorso cartaceo li ha portati nel posto giusto.\n\nQuest: \"Attraversiamo questo ponte. Poi chiediamo il registro delle movimentazioni.\"",
+        "All'interno, il banco dei registri è in pausa per il cambio di turno. Guff, il facchino del padiglione, intrattiene i viaggiatori in attesa con un numero comico con una valigia. Beam ride; anche la presa di Quiver sulla panca si allenta.\n\nGuff: \"Anche la mia valigia vuole una vacanza.\"",
+        "Quando il numero finisce, Beam segue Guff attraverso la porta del backstage. Lontano dalla sala d'attesa, il sorriso di Guff vacilla. Beam ricorda quanto velocemente un'allegra offerta si trasformò in pressione per Rain.\n\nBeam: \"Non devi intrattenermi qui.\"",
+        "Guff ammette che trasportare bagagli non è il suo unico lavoro faticoso. Tutti si aspettano anche il sorriso. Il registro resta chiuso mentre Beam ascolta, senza trasformare la pausa in un altro compito.\n\nGuff: \"A volte voglio che qualcun altro si occupi di tenere alto il morale.\"",
+        "Flip arriva per il prossimo turno di spettacolo e si occupa del numero con la valigia. Guff non ha bisogno di guadagnarsi questa pausa con un'altra battuta. Il prossimo momento libero gli appartiene.\n\nFlip: \"Al prossimo numero ci penso io. Resta qui e finisci il tuo drink.\"",
+        "Dopo la pausa, Guff apre il registro delle movimentazioni che utilizza per i suoi turni da facchino. La registrazione di transito corrisponde alla chiusura di Quest. La fotografia completa dei componenti è conservata presso l'ufficio espositivo del porto, che riaprirà domani.\n\nGuff: \"Hanno conservato la fotografia dell'arrivo. Potrebbe mostrare ciò che la tempesta ha spazzato via.\"",
+        "Quella sera, a Meadowfold, Rain ascolta il rapporto di Beam attraverso la tromba acustica del prato. Domani c'è una fotografia da controllare. C'è anche una lezione che Beam ha imparato guardando qualcuno prendersi finalmente una pausa.\n\nRain [via Postline cablata]: “Ridere lo rendeva meno stanco?”\nBeam [via Postline cablata]: \"No. Il riposo ha aiutato. Domani seguiremo la fotografia.\""
+      ],
+      "introduction": "Dopo il viaggio in treno, gli investigatori raggiungono Bellara con il fermaglio e le osservazioni di Rain. Il padiglione delle spedizioni è la loro prima pista. Lì incontrano Guff, un facchino e artista il cui sorriso familiare è diventato un altro lavoro a cui non riesce a rinunciare.",
+      "title": "Risate dietro le quinte"
+    },
+    "ja": {
+      "altTexts": [
+        "翌朝、Bellara で、6 人は乗継記録に記載されている港の荷扱い館に向けて駅を出発します。 Quest は運河の橋を渡ってそれを見つけました。書類をたどる調査の最初の部分は、彼らを正しい場所に導きました。",
+        "中では記録窓口が交代の時間を迎えています。パビリオンのポーターであるGuffは、スーツケースを使った芸で待っている旅行者を楽しませます。 Beam は笑います。 Quiverも、握りしめていたベンチから少し手の力を抜きます。",
+        "芸が終わると、Beam は Guff の後を追ってバックステージの出入り口を通ります。待機ホールから離れたところで、Guff の笑みがぐらつく。 Beam は、Rain にとって、陽気な申し出がすぐにプレッシャーになったことを覚えています。",
+        "Guff は、荷物を運ぶことだけが疲れる仕事ではないと認めています。誰もがその笑顔を期待しています。 Beam が話を聞いている間、台帳は閉じられたままであり、休憩を別のタスクに変えることはありません。",
+        "次の出番になり、Flipがスーツケースの芸を引き継ぎます。Guffは休ませてもらうために、もう一つ笑いを取る必要はありません。ここからは自分のための時間です。",
+        "休憩後、Guff はポーターのシフトに使用する取扱元帳を開きます。中継の記録がQuestの持ってきた留め金と一致します。その完全なハードウェアの写真は、明日再びオープンする港の展示オフィスに保管されています。",
+        "その夜、Meadowfoldに戻り、Rainは草原の通話ホーンを通してBeamの報告を聞きました。明日検査する写真があります。 Beam が、誰かがようやく休憩を取るのを見て学んだ教訓もあります。"
+      ],
+      "captions": [
+        "翌朝、Bellara で、6 人は乗継記録に記載されている港の荷扱い館に向けて駅を出発します。 Quest は運河の橋を渡ってそれを見つけました。書類をたどる調査の最初の部分は、彼らを正しい場所に導きました。\n\nQuest: 「この橋の向こうです。そこで荷扱いの台帳を見せてもらいましょう。」",
+        "中では記録窓口が交代の時間を迎えています。パビリオンのポーターであるGuffは、スーツケースを使った芸で待っている旅行者を楽しませます。 Beam は笑います。 Quiverも、握りしめていたベンチから少し手の力を抜きます。\n\nGuff: 「私のスーツケースも休暇を望んでいます。」",
+        "芸が終わると、Beam は Guff の後を追ってバックステージの出入り口を通ります。待機ホールから離れたところで、Guff の笑みがぐらつく。 Beam は、Rain にとって、陽気な申し出がすぐにプレッシャーになったことを覚えています。\n\nBeam: 「ここで私を楽しませる必要はありません。」",
+        "Guff は、荷物を運ぶことだけが疲れる仕事ではないと認めています。誰もがその笑顔を期待しています。 Beam が話を聞いている間、台帳は閉じられたままであり、休憩を別のタスクに変えることはありません。\n\nGuff: 「時々、誰かに場を明るくする役を代わってもらいたいと思うことがあります。」",
+        "次の出番になり、Flipがスーツケースの芸を引き継ぎます。Guffは休ませてもらうために、もう一つ笑いを取る必要はありません。ここからは自分のための時間です。\n\nFlip: 「次の出番は私が引き受けます。ここにいて飲み物を飲み終えてください。」",
+        "休憩後、Guff はポーターのシフトに使用する取扱元帳を開きます。中継の記録がQuestの持ってきた留め金と一致します。その完全なハードウェアの写真は、明日再びオープンする港の展示オフィスに保管されています。\n\nGuff: 「彼らは到着時の写真を保管していました。嵐が洗い流したものを示しているかもしれません。」",
+        "その夜、Meadowfoldに戻り、Rainは草原の通話ホーンを通してBeamの報告を聞きました。明日検査する写真があります。 Beam が、誰かがようやく休憩を取るのを見て学んだ教訓もあります。\n\nRain [Postline有線電話]: 「笑うことで彼の疲れは軽減されましたか?」\nBeam [Postline有線電話]: 「いいえ、休んだおかげで助かりました。明日は写真を追ってみましょう。」"
+      ],
+      "introduction": "列車の旅の後、調査員は留め金と Rain の観察結果を持って Bellara に到着します。港の荷扱い館は彼らの最初の手がかりとなる。そこで彼らは、ポーター兼パフォーマーであるGuffに出会う。そのおなじみの笑顔は、彼にとってもう一つの仕事となっている。",
+      "title": "カーテンの向こうの笑い"
+    },
+    "ko": {
+      "altTexts": [
+        "다음날 아침, Bellara에서 6명은 화물 운송 기록에 명시된 배송 파빌리온으로 역을 떠납니다. Quest는 운하 다리 건너편에서 그것을 발견합니다. 서류를 따라간 첫 조사는 그들을 올바른 장소로 데려왔습니다.",
+        "안쪽 기록 창구는 교대 시간입니다. 파빌리온의 포터인 Guff는 여행 가방을 이용한 공연으로 기다리는 여행자들을 즐겁게 합니다. Beam은 웃는다. Quiver도 꼭 쥐고 있던 벤치에서 손의 힘을 조금 풉니다.",
+        "공연이 끝나면 Beam은 백스테이지 출입구를 통해 Guff를 따라갑니다. 대기실에서 멀리 떨어진 Guff의 미소가 흔들리고 있습니다. Beam은 기분 좋은 제안이 얼마나 빨리 Rain에게 압력이 되었는지 기억합니다.",
+        "Guff는 짐을 나르는 것이 그의 유일한 피곤한 일이 아니라는 것을 인정합니다. 모두가 미소를 기대합니다. 장부는 닫힌 채입니다. Beam은 휴식이 또 다른 일이 되지 않도록 조용히 이야기를 듣습니다.",
+        "다음 공연 시간이 되자 Flip이 여행 가방 공연을 이어받습니다. Guff는 쉬기 위해 또 한 번 웃음을 줄 필요가 없습니다. 이제는 자신을 위한 시간입니다.",
+        "휴식 후 Guff는 포터 근무에 사용하는 처리 장부를 엽니다. 운송 기록은 Quest의 걸쇠와 일치합니다. 전체 하드웨어 사진은 내일 다시 개장하는 항구 전시 사무실에 보관되어 있습니다.",
+        "그날 저녁, Meadowfold에 있는 Rain은 초원 통화용 나팔을 통해 Beam의 보고를 듣습니다. 내일 점검할 사진이 있습니다. 누군가가 마침내 휴식을 취하는 모습을 보면서 Beam이 배운 교훈도 있습니다."
+      ],
+      "captions": [
+        "다음날 아침, Bellara에서 6명은 화물 운송 기록에 명시된 배송 파빌리온으로 역을 떠납니다. Quest는 운하 다리 건너편에서 그것을 발견합니다. 서류를 따라간 첫 조사는 그들을 올바른 장소로 데려왔습니다.\n\nQuest: \"이 다리 건너편이에요. 거기서 화물 취급 장부를 보여 달라고 하죠.\"",
+        "안쪽 기록 창구는 교대 시간입니다. 파빌리온의 포터인 Guff는 여행 가방을 이용한 공연으로 기다리는 여행자들을 즐겁게 합니다. Beam은 웃는다. Quiver도 꼭 쥐고 있던 벤치에서 손의 힘을 조금 풉니다.\n\nGuff: “내 여행가방도 휴가를 원해요.”",
+        "공연이 끝나면 Beam은 백스테이지 출입구를 통해 Guff를 따라갑니다. 대기실에서 멀리 떨어진 Guff의 미소가 흔들리고 있습니다. Beam은 기분 좋은 제안이 얼마나 빨리 Rain에게 압력이 되었는지 기억합니다.\n\nBeam: “여기서 나를 즐겁게 해줄 필요는 없습니다.”",
+        "Guff는 짐을 나르는 것이 그의 유일한 피곤한 일이 아니라는 것을 인정합니다. 모두가 미소를 기대합니다. 장부는 닫힌 채입니다. Beam은 휴식이 또 다른 일이 되지 않도록 조용히 이야기를 듣습니다.\n\nGuff: “가끔은 다른 사람이 좋은 기분을 이어줬으면 좋겠어요.”",
+        "다음 공연 시간이 되자 Flip이 여행 가방 공연을 이어받습니다. Guff는 쉬기 위해 또 한 번 웃음을 줄 필요가 없습니다. 이제는 자신을 위한 시간입니다.\n\nFlip: \"다음 공연은 내가 맡을게요. 여기서 마시던 음료 마저 드세요.\"",
+        "휴식 후 Guff는 포터 근무에 사용하는 처리 장부를 엽니다. 운송 기록은 Quest의 걸쇠와 일치합니다. 전체 하드웨어 사진은 내일 다시 개장하는 항구 전시 사무실에 보관되어 있습니다.\n\nGuff: \"그들은 도착 사진을 보관했습니다. 폭풍이 무엇을 씻어냈는지 보여줄 수 있습니다.\"",
+        "그날 저녁, Meadowfold에 있는 Rain은 초원 통화용 나팔을 통해 Beam의 보고를 듣습니다. 내일 점검할 사진이 있습니다. 누군가가 마침내 휴식을 취하는 모습을 보면서 Beam이 배운 교훈도 있습니다.\n\nRain [Postline 유선 전화]: \"웃음이 그를 덜 피곤하게 만들었나요?\"\nBeam [Postline 유선 전화]: \"아니요. 휴식이 도움이 되었습니다. 내일 그 사진을 더 조사할게요.\""
+      ],
+      "introduction": "기차 여행 후 조사관은 걸쇠와 Rain이 관찰한 내용을 가지고 Bellara에 도착합니다. 배송 파빌리온이 첫 번째 단서입니다. 그곳에서 그들은 친숙한 미소가 내려놓을 수 없는 또 다른 직업이 된 포터 겸 공연자 Guff를 만난다.",
+      "title": "커튼 뒤의 웃음"
+    },
+    "pl": {
+      "altTexts": [
+        "Następnego ranka w mieście Bellara cała szóstka opuszcza stację i udaje się do pawilonu wysyłkowego wymienionego w zapisie tranzytowym. Quest zauważa go za mostem nad kanałem. Pierwsza część szlaku dokumentów doprowadziła ich we właściwe miejsce.",
+        "Wewnątrz w biurze dokumentacji trwa zmiana obsługi. Guff, tragarz pawilonu, zabawia czekających podróżnych komicznym numerem z walizką. Beam się śmieje; nawet Quiver słabiej ściska ławkę.",
+        "Kiedy występ się kończy, Beam podąża za Guffem przez drzwi za kulisami. Z dala od poczekalni uśmiech Guffa słabnie. Beam pamięta, jak szybko próba rozweselenia Raina stała się dla niego presją.",
+        "Guff przyznaje, że noszenie bagażu nie jest jego jedyną męczącą pracą. Każdy też oczekuje uśmiechu. Księga pozostaje zamknięta, podczas gdy Beam słucha, nie zamieniając przerwy w inne zadanie.",
+        "Flip przybywa na kolejny występ i przejmuje numer z walizką. Guff nie musi sobie zasłużyć na tę przerwę kolejnym żartem. Teraz może spędzić wolną chwilę tak, jak chce.",
+        "Po przerwie Guff otwiera księgę obsługi, której używa na swoich zmianach tragarza. Wpis dotyczący transportu pasuje do zapięcia przyniesionego przez Questa. Pełne zdjęcie pojemnika przechowywane jest w biurze wystawowym portu, które jutro zostanie ponownie otwarte.",
+        "Tego wieczoru, na łące Meadowfold, Rain słyszy relację Beama przez tubę na łące. Jutro będzie zdjęcie do sprawdzenia. Beam wyciąga także wnioski z obserwowania, jak ktoś w końcu robi sobie przerwę."
+      ],
+      "captions": [
+        "Następnego ranka w mieście Bellara cała szóstka opuszcza stację i udaje się do pawilonu wysyłkowego wymienionego w zapisie tranzytowym. Quest zauważa go za mostem nad kanałem. Pierwsza część szlaku dokumentów doprowadziła ich we właściwe miejsce.\n\nQuest: \"Po drugiej stronie mostu. Tam zapytamy o księgę przeładunkową. \"",
+        "Wewnątrz w biurze dokumentacji trwa zmiana obsługi. Guff, tragarz pawilonu, zabawia czekających podróżnych komicznym numerem z walizką. Beam się śmieje; nawet Quiver słabiej ściska ławkę.\n\nGuff: „Nawet moja walizka chce wakacji.”",
+        "Kiedy występ się kończy, Beam podąża za Guffem przez drzwi za kulisami. Z dala od poczekalni uśmiech Guffa słabnie. Beam pamięta, jak szybko próba rozweselenia Raina stała się dla niego presją.\n\nBeam: „Nie musisz mnie tu zabawiać.”",
+        "Guff przyznaje, że noszenie bagażu nie jest jego jedyną męczącą pracą. Każdy też oczekuje uśmiechu. Księga pozostaje zamknięta, podczas gdy Beam słucha, nie zamieniając przerwy w inne zadanie.\n\nGuff: „Czasami chcę, żeby ktoś inny rozweselał wszystkich.”",
+        "Flip przybywa na kolejny występ i przejmuje numer z walizką. Guff nie musi sobie zasłużyć na tę przerwę kolejnym żartem. Teraz może spędzić wolną chwilę tak, jak chce.\n\nFlip: \"Teraz moja kolej na występ. Zostań tutaj i dopij swój napój.\"",
+        "Po przerwie Guff otwiera księgę obsługi, której używa na swoich zmianach tragarza. Wpis dotyczący transportu pasuje do zapięcia przyniesionego przez Questa. Pełne zdjęcie pojemnika przechowywane jest w biurze wystawowym portu, które jutro zostanie ponownie otwarte.\n\nGuff: \"Zachowali zdjęcie przybycia. Może pokazać, co zmyła burza.\"",
+        "Tego wieczoru, na łące Meadowfold, Rain słyszy relację Beama przez tubę na łące. Jutro będzie zdjęcie do sprawdzenia. Beam wyciąga także wnioski z obserwowania, jak ktoś w końcu robi sobie przerwę.\n\nRain [przez przewodową linię Postline]: „Czy śmiech sprawił, że był mniej zmęczony?”\nBeam [przez przewodową linię Postline]: „Nie. Odpoczynek pomógł. Jutro sprawdzimy to zdjęcie.”"
+      ],
+      "introduction": "Po podróży pociągiem śledczy docierają do miasta Bellara z zapięciem i obserwacjami Raina. Pawilon wysyłkowy jest ich pierwszym tropem. Tam spotykają Guffa, tragarza i komika, którego znajomy uśmiech stał się kolejną pracą, której nie może odłożyć.",
+      "title": "Śmiech za kurtyną"
+    },
+    "pt": {
+      "altTexts": [
+        "Na manhã seguinte, em Bellara, os seis saem da estação em direção ao pavilhão de embarque mencionado no registro de trânsito. Quest o avista do outro lado de uma ponte sobre o canal. A primeira parte da trilha de papel os trouxe ao lugar certo.",
+        "Lá dentro, os funcionários do balcão de registros estão trocando de turno. Guff, o carregador de bagagens do pavilhão, entretém os viajantes que aguardam com um número cômico com uma mala. Beam ri; até mesmo o aperto do Quiver no banco diminui.",
+        "Quando o número termina, Beam segue Guff pela porta dos bastidores. Longe da sala de espera, o sorriso de Guff vacila. Beam lembra como rapidamente uma oferta alegre se tornou pressão para Rain.",
+        "Guff admite que transportar bagagem não é o seu único trabalho cansativo. Todo mundo espera o sorriso também. O livro permanece fechado enquanto Beam escuta, sem transformar o intervalo em outra tarefa.",
+        "Flip chega para o próximo turno de apresentações e assume o número com a mala. Guff não precisa ganhar essa folga com mais uma brincadeira. O próximo intervalo pertence a ele.",
+        "Após o intervalo, Guff abre o livro de movimentação que utiliza para seus turnos de carregador. A entrada de trânsito corresponde ao fecho que Quest trouxe. A fotografia completa das peças é mantida no escritório de exibição do porto, que abre novamente amanhã.",
+        "Naquela noite, de volta a Meadowfold, Rain ouve o relatório de Beam pela corneta acústica do prado. Há uma fotografia para inspecionar amanhã. Há também uma lição que Beam aprendeu ao observar alguém finalmente fazer uma pausa."
+      ],
+      "captions": [
+        "Na manhã seguinte, em Bellara, os seis saem da estação em direção ao pavilhão de embarque mencionado no registro de trânsito. Quest o avista do outro lado de uma ponte sobre o canal. A primeira parte da trilha de papel os trouxe ao lugar certo.\n\nQuest: \"Vamos atravessar esta ponte. Depois pedimos o livro de movimentação.\"",
+        "Lá dentro, os funcionários do balcão de registros estão trocando de turno. Guff, o carregador de bagagens do pavilhão, entretém os viajantes que aguardam com um número cômico com uma mala. Beam ri; até mesmo o aperto do Quiver no banco diminui.\n\nGuff: “Até minha mala quer férias.”",
+        "Quando o número termina, Beam segue Guff pela porta dos bastidores. Longe da sala de espera, o sorriso de Guff vacila. Beam lembra como rapidamente uma oferta alegre se tornou pressão para Rain.\n\nBeam: “Você não precisa me entreter aqui.”",
+        "Guff admite que transportar bagagem não é o seu único trabalho cansativo. Todo mundo espera o sorriso também. O livro permanece fechado enquanto Beam escuta, sem transformar o intervalo em outra tarefa.\n\nGuff: “Às vezes quero que outra pessoa se encarregue de animar todo mundo.”",
+        "Flip chega para o próximo turno de apresentações e assume o número com a mala. Guff não precisa ganhar essa folga com mais uma brincadeira. O próximo intervalo pertence a ele.\n\nFlip: \"A próxima apresentação é comigo. Fique aqui e termine sua bebida.\"",
+        "Após o intervalo, Guff abre o livro de movimentação que utiliza para seus turnos de carregador. A entrada de trânsito corresponde ao fecho que Quest trouxe. A fotografia completa das peças é mantida no escritório de exibição do porto, que abre novamente amanhã.\n\nGuff: \"Eles guardaram a fotografia da chegada. Pode mostrar o que a tempestade levou.\"",
+        "Naquela noite, de volta a Meadowfold, Rain ouve o relatório de Beam pela corneta acústica do prado. Há uma fotografia para inspecionar amanhã. Há também uma lição que Beam aprendeu ao observar alguém finalmente fazer uma pausa.\n\nRain [via Postline com fio]: “Rir o deixou menos cansado?”\nBeam [via Postline com fio]: \"Não. Descanso ajudou. Amanhã seguiremos a fotografia.\""
+      ],
+      "introduction": "Após a viagem de trem, os investigadores chegam a Bellara com o fecho e as observações de Rain. O pavilhão de embarque é a primeira pista. Lá eles conhecem Guff, um carregador de bagagens e artista cujo sorriso familiar se tornou outro trabalho que ele não consegue largar.",
+      "title": "Risos atrás da cortina"
+    },
+    "ru": {
+      "altTexts": [
+        "На следующее утро, в Bellara, шестеро покидают станцию и направляются в отгрузочный павильон, указанный в транзитной записи. Quest замечает его за мостом через канал. Первый этап поиска по документам привел их в нужное место.",
+        "Внутри у стойки регистрации идет пересменка. Guff, носильщик павильона, развлекает ожидающих путешественников комическим номером с чемоданом. Beam смеется; даже хватка Quiver на скамейке ослабевает.",
+        "Когда программа заканчивается, Beam следует за Guff через дверь за кулисы. Вдали от зала ожидания улыбка Guff гаснет. Beam помнит, как быстро попытка развеселить Rain превратилась для него в давление.",
+        "Guff признает, что переноска багажа — не единственная его утомительная работа. Все тоже ждут улыбки. Книга остается закрытой, пока Beam слушает, не превращая перерыв в еще одну задачу.",
+        "Flip приходит на следующий выход и берет на себя номер с чемоданом. Guff не нужно зарабатывать эту передышку очередной шуткой. Теперь он может провести свободное время так, как хочет.",
+        "После перерыва Guff открывает журнал грузовых операций, с которым работает во время своих смен. Транзитная запись соответствует застежке Quest. Полная фотография оборудования хранится в портовом демонстрационном офисе, который снова откроется завтра.",
+        "В тот вечер, на лугу Meadowfold, Rain слышит доклад Beam через переговорный рупор. Завтра надо посмотреть фотографию. Beam также усвоил урок, наблюдая, как кто-то наконец делает перерыв."
+      ],
+      "captions": [
+        "На следующее утро, в Bellara, шестеро покидают станцию и направляются в отгрузочный павильон, указанный в транзитной записи. Quest замечает его за мостом через канал. Первый этап поиска по документам привел их в нужное место.\n\nQuest: \"Через этот мост. Там попросим журнал грузовых операций\".",
+        "Внутри у стойки регистрации идет пересменка. Guff, носильщик павильона, развлекает ожидающих путешественников комическим номером с чемоданом. Beam смеется; даже хватка Quiver на скамейке ослабевает.\n\nGuff: «Даже мой чемодан хочет отпуска».",
+        "Когда программа заканчивается, Beam следует за Guff через дверь за кулисы. Вдали от зала ожидания улыбка Guff гаснет. Beam помнит, как быстро попытка развеселить Rain превратилась для него в давление.\n\nBeam: «Тебе не обязательно меня здесь развлекать».",
+        "Guff признает, что переноска багажа — не единственная его утомительная работа. Все тоже ждут улыбки. Книга остается закрытой, пока Beam слушает, не превращая перерыв в еще одну задачу.\n\nGuff: «Иногда мне хочется, чтобы кто-то другой принес хорошее настроение».",
+        "Flip приходит на следующий выход и берет на себя номер с чемоданом. Guff не нужно зарабатывать эту передышку очередной шуткой. Теперь он может провести свободное время так, как хочет.\n\nFlip: \"Следующий номер — мой. Оставайся здесь и допивай свой напиток\".",
+        "После перерыва Guff открывает журнал грузовых операций, с которым работает во время своих смен. Транзитная запись соответствует застежке Quest. Полная фотография оборудования хранится в портовом демонстрационном офисе, который снова откроется завтра.\n\nGuff: \"Они сохранили фотографию прибытия. Возможно, на ней видно, что смыл шторм\".",
+        "В тот вечер, на лугу Meadowfold, Rain слышит доклад Beam через переговорный рупор. Завтра надо посмотреть фотографию. Beam также усвоил урок, наблюдая, как кто-то наконец делает перерыв.\n\nRain [по проводной линии Postline]: «Смех сделал его менее уставшим?»\nBeam [по проводной линии Postline]: \"Нет. Отдых помог. Завтра посмотрим фотографию\"."
+      ],
+      "introduction": "После поездки на поезде следователи достигают Bellara с застежкой и наблюдениями Rain. Павильон отправки грузов — их первая зацепка. Там они встречают Guff, носильщика и артиста, чья знакомая улыбка стала еще одной работой, от которой он не может отказаться.",
+      "title": "Смех за кулисами"
+    },
+    "tr": {
+      "altTexts": [
+        "Ertesi sabah, Bellara'da altı kişi, transit kaydında adı geçen nakliye pavyonuna gitmek üzere istasyondan ayrılıyor. Quest onu bir kanal köprüsünün karşısında görüyor. Kağıt izinin ilk kısmı onları doğru yere getirdi.",
+        "İçeride kayıt masasında vardiya değişimi yapılıyor. Pavyonun hamalı Guff, bekleyen yolcuları bavulla yaptığı komik gösteriyle eğlendiriyor. Beam gülüyor; Quiver'ın banktaki tutuşu bile gevşer.",
+        "Gösteri sona erdiğinde Beam, sahne arkası kapısından Guff'ı takip eder. Bekleme salonunun uzağında Guff'ın sırıtışı soldu. Beam, neşeli bir teklifin Rain için ne kadar hızlı bir şekilde baskıya dönüştüğünü hatırlıyor.",
+        "Guff, tek yorucu işinin bagaj taşıma olmadığını itiraf ediyor. Herkes ondan bir de gülümsemesini bekliyor. Beam dinlerken defter kapalı kalıyor, ara başka bir göreve dönüşmüyor.",
+        "Flip bir sonraki performans aralığına geliyor ve bavullu gösteriyi devralıyor. Guff'ın bu molayı başka bir şakayla kazanmasına gerek yok. Şimdi bu dinlenme süresini dilediği gibi geçirebilir.",
+        "Aradan sonra Guff, hamal vardiyaları için kullandığı işlem defterini açar. Geçiş girişi Quest'in tokasıyla eşleşiyor. Tam donanım fotoğrafı yarın tekrar açılacak olan liman teşhir ofisinde tutuluyor.",
+        "O akşam, Meadowfold çayırında Rain, Beam'in raporunu konuşma hunisinden duyar. Yarın incelenecek bir fotoğraf var. Beam'in sonunda birinin ara vermesini izleyerek öğrendiği bir ders de var."
+      ],
+      "captions": [
+        "Ertesi sabah, Bellara'da altı kişi, transit kaydında adı geçen nakliye pavyonuna gitmek üzere istasyondan ayrılıyor. Quest onu bir kanal köprüsünün karşısında görüyor. Kağıt izinin ilk kısmı onları doğru yere getirdi.\n\nQuest: \"Bu köprüyü geçin. Sonra işlem defterini istiyoruz.\"",
+        "İçeride kayıt masasında vardiya değişimi yapılıyor. Pavyonun hamalı Guff, bekleyen yolcuları bavulla yaptığı komik gösteriyle eğlendiriyor. Beam gülüyor; Quiver'ın banktaki tutuşu bile gevşer.\n\nGuff: \"Bavulum bile tatil istiyor.\"",
+        "Gösteri sona erdiğinde Beam, sahne arkası kapısından Guff'ı takip eder. Bekleme salonunun uzağında Guff'ın sırıtışı soldu. Beam, neşeli bir teklifin Rain için ne kadar hızlı bir şekilde baskıya dönüştüğünü hatırlıyor.\n\nBeam: \"Beni burada eğlendirmek zorunda değilsin.\"",
+        "Guff, tek yorucu işinin bagaj taşıma olmadığını itiraf ediyor. Herkes ondan bir de gülümsemesini bekliyor. Beam dinlerken defter kapalı kalıyor, ara başka bir göreve dönüşmüyor.\n\nGuff: \"Bazen başka birinin herkesi neşelendirmesini istiyorum.\"",
+        "Flip bir sonraki performans aralığına geliyor ve bavullu gösteriyi devralıyor. Guff'ın bu molayı başka bir şakayla kazanmasına gerek yok. Şimdi bu dinlenme süresini dilediği gibi geçirebilir.\n\nFlip: \"Sıradaki gösteri bende. Burada kal ve içeceğini bitir.\"",
+        "Aradan sonra Guff, hamal vardiyaları için kullandığı işlem defterini açar. Geçiş girişi Quest'in tokasıyla eşleşiyor. Tam donanım fotoğrafı yarın tekrar açılacak olan liman teşhir ofisinde tutuluyor.\n\nGuff: \"Varış fotoğrafını sakladılar. Fırtınanın sürüklediği şeyi gösterebilir.\"",
+        "O akşam, Meadowfold çayırında Rain, Beam'in raporunu konuşma hunisinden duyar. Yarın incelenecek bir fotoğraf var. Beam'in sonunda birinin ara vermesini izleyerek öğrendiği bir ders de var.\n\nRain [kablolu Postline]: \"Gülmek yorgunluğunu azalttı mı?\"\nBeam [kablolu Postline]: \"Hayır. Dinlenmenin faydası oldu. Yarın fotoğrafı takip edeceğiz.\""
+      ],
+      "introduction": "Tren yolculuğunun ardından araştırmacılar toka ve Rain'in gözlemleriyle Bellara'ya ulaşır. Nakliye pavyonu onların ilk ipucudur. Orada, tanıdık gülümsemesi elinden bırakamayacağı başka bir iş haline gelen bir hamal ve sanatçı olan Guff ile tanışırlar.",
+      "title": "Perde Arkasındaki Kahkahalar"
+    },
+    "vi": {
+      "altTexts": [
+        "Sáng hôm sau, tại Bellara, sáu người rời nhà ga đến gian hàng vận chuyển có tên trong hồ sơ quá cảnh. Quest phát hiện nó qua một cây cầu kênh. Phần đầu tiên của dấu vết giấy tờ đã đưa họ đến đúng nơi.",
+        "Bên trong, quầy hồ sơ đang đổi ca. Guff, người khuân vác của gian hàng, giúp giải trí cho những du khách đang chờ đợi bằng tiết mục với chiếc vali. Beam cười lớn; ngay cả Quiver cũng bớt siết chặt tay vào băng ghế.",
+        "Khi tiết mục kết thúc, Beam đi theo Guff qua ô cửa hậu trường. Rời khỏi sảnh chờ, nụ cười của Guff nhạt dần. Beam nhớ lại việc cố làm Rain vui lên đã nhanh chóng trở thành áp lực đối với Rain như thế nào.",
+        "Guff thừa nhận việc xách hành lý không phải là công việc mệt mỏi duy nhất của anh. Mọi người cũng mong đợi nụ cười. Cuốn sổ vẫn đóng trong khi Beam lắng nghe mà không biến thời gian nghỉ ngơi thành một nhiệm vụ khác.",
+        "Flip đến biểu diễn lượt tiếp theo và tiếp quản tiết mục với chiếc vali. Guff không cần phải giành lấy giờ nghỉ này bằng một trò đùa khác. Khoảng thời gian tiếp theo của anh ấy là của riêng anh ấy.",
+        "Sau giờ giải lao, Guff mở sổ giao nhận hàng mà anh ấy sử dụng cho các ca trực của mình. Mục ghi về lộ trình vận chuyển khớp với chiếc móc cài Quest mang theo. Bức ảnh chụp toàn bộ hộp chứa được lưu giữ tại văn phòng trưng bày bến cảng, sẽ mở cửa trở lại vào ngày mai.",
+        "Tối hôm đó, tại đồng cỏ Meadowfold, Rain nghe thấy báo cáo của Beam qua loa ngoài đồng cỏ. Có một bức ảnh để kiểm tra vào ngày mai. Ngoài ra còn có một bài học mà Beam đã học được khi xem ai đó cuối cùng cũng nghỉ ngơi."
+      ],
+      "captions": [
+        "Sáng hôm sau, tại Bellara, sáu người rời nhà ga đến gian hàng vận chuyển có tên trong hồ sơ quá cảnh. Quest phát hiện nó qua một cây cầu kênh. Phần đầu tiên của dấu vết giấy tờ đã đưa họ đến đúng nơi.\n\nQuest: \"Bên kia cầu. Ở đó chúng ta sẽ hỏi xem sổ giao nhận hàng.\"",
+        "Bên trong, quầy hồ sơ đang đổi ca. Guff, người khuân vác của gian hàng, giúp giải trí cho những du khách đang chờ đợi bằng tiết mục với chiếc vali. Beam cười lớn; ngay cả Quiver cũng bớt siết chặt tay vào băng ghế.\n\nGuff: “Ngay cả chiếc vali của tôi cũng muốn có một kỳ nghỉ.”",
+        "Khi tiết mục kết thúc, Beam đi theo Guff qua ô cửa hậu trường. Rời khỏi sảnh chờ, nụ cười của Guff nhạt dần. Beam nhớ lại việc cố làm Rain vui lên đã nhanh chóng trở thành áp lực đối với Rain như thế nào.\n\nBeam: “Ở đây bạn không cần phải tiếp đãi tôi đâu.”",
+        "Guff thừa nhận việc xách hành lý không phải là công việc mệt mỏi duy nhất của anh. Mọi người cũng mong đợi nụ cười. Cuốn sổ vẫn đóng trong khi Beam lắng nghe mà không biến thời gian nghỉ ngơi thành một nhiệm vụ khác.\n\nGuff: “Đôi khi tôi muốn người khác lo việc làm mọi người vui lên.”",
+        "Flip đến biểu diễn lượt tiếp theo và tiếp quản tiết mục với chiếc vali. Guff không cần phải giành lấy giờ nghỉ này bằng một trò đùa khác. Khoảng thời gian tiếp theo của anh ấy là của riêng anh ấy.\n\nFlip: \"Tiết mục tiếp theo để tôi lo. Hãy ở đây và uống nốt đồ uống của bạn.\"",
+        "Sau giờ giải lao, Guff mở sổ giao nhận hàng mà anh ấy sử dụng cho các ca trực của mình. Mục ghi về lộ trình vận chuyển khớp với chiếc móc cài Quest mang theo. Bức ảnh chụp toàn bộ hộp chứa được lưu giữ tại văn phòng trưng bày bến cảng, sẽ mở cửa trở lại vào ngày mai.\n\nGuff: \"Họ giữ bức ảnh nơi đến. Nó có thể cho thấy những gì cơn bão đã cuốn trôi.\"",
+        "Tối hôm đó, tại đồng cỏ Meadowfold, Rain nghe thấy báo cáo của Beam qua loa ngoài đồng cỏ. Có một bức ảnh để kiểm tra vào ngày mai. Ngoài ra còn có một bài học mà Beam đã học được khi xem ai đó cuối cùng cũng nghỉ ngơi.\n\nRain [qua đường dây Postline]: “Cười có làm anh ấy bớt mệt hơn không?”\nBeam [qua đường dây Postline]: \"Không. Nghỉ ngơi giúp. Ngày mai chúng ta sẽ kiểm tra bức ảnh.\""
+      ],
+      "introduction": "Sau chuyến hành trình bằng tàu hỏa, các nhà điều tra đến Bellara cùng chiếc móc cài và những quan sát của Rain. Gian hàng vận chuyển là đầu mối đầu tiên của họ. Ở đó, họ gặp Guff, một người khuân vác và biểu diễn với nụ cười quen thuộc đã trở thành một công việc khác mà anh không thể bỏ qua.",
+      "title": "Tiếng cười đằng sau bức màn"
+    },
+    "zh": {
+      "altTexts": [
+        "第二天早上，Bellara，六人离开车站前往过境记录中指定的航运馆。 Quest 在运河桥上发现了它。沿着书面记录追查的第一步将他们带到了正确的地方。",
+        "馆内，记录柜台正在换班。 Guff，展馆的搬运工，拿着行李箱招待等待的旅客。 Beam笑了；就连Quiver对板凳的抓握也松开了。",
+        "当表演结束时，Beam跟随Guff穿过后台门口。离开候车大厅，Guff不再勉强撑着笑容。 Beam 想起，一番想逗人开心的好意也能很快变成 Rain 的压力。",
+        "Guff坦言，搬运行李并不是他唯一累的工作。大家还期待他随时面带笑容。账本一直合着。Beam只是倾听，没有把这次休息变成另一项任务。",
+        "Flip 到达下一个表演时段并接过行李箱表演。 Guff不需要通过另一个笑话来赢得这个休息。接下来的时间就是他自己的了。",
+        "休息后，Guff 打开他用于搬运工轮班的货物交接账本。其中一条中转记录与Quest带来的扣环相符。其完整的硬件照片保存在港口展示办公室，明天将再次开放。",
+        "当天晚上，回到Meadowfold，Rain通过喇叭听到Beam的报告。有一张照片明天要检查。 Beam 还通过观察某人终于休息了而学到了一个教训。"
+      ],
+      "captions": [
+        "第二天早上，Bellara，六人离开车站前往过境记录中指定的航运馆。 Quest 在运河桥上发现了它。沿着书面记录追查的第一步将他们带到了正确的地方。\n\nQuest：“过了这座桥，然后我们要账本。”",
+        "馆内，记录柜台正在换班。 Guff，展馆的搬运工，拿着行李箱招待等待的旅客。 Beam笑了；就连Quiver对板凳的抓握也松开了。\n\nGuff：“连我的行李箱也要放假了。”",
+        "当表演结束时，Beam跟随Guff穿过后台门口。离开候车大厅，Guff不再勉强撑着笑容。 Beam 想起，一番想逗人开心的好意也能很快变成 Rain 的压力。\n\nBeam：“你不用在这儿招待我。”",
+        "Guff坦言，搬运行李并不是他唯一累的工作。大家还期待他随时面带笑容。账本一直合着。Beam只是倾听，没有把这次休息变成另一项任务。\n\nGuff：“有时候，我也希望换别人来带动气氛。”",
+        "Flip 到达下一个表演时段并接过行李箱表演。 Guff不需要通过另一个笑话来赢得这个休息。接下来的时间就是他自己的了。\n\nFlip：“下一场我来演。留在这儿喝完你的饮料。”",
+        "休息后，Guff 打开他用于搬运工轮班的货物交接账本。其中一条中转记录与Quest带来的扣环相符。其完整的硬件照片保存在港口展示办公室，明天将再次开放。\n\nGuff：“他们保留了到达照片。它可能会显示暴风雨冲走的东西。”",
+        "当天晚上，回到Meadowfold，Rain通过喇叭听到Beam的报告。有一张照片明天要检查。 Beam 还通过观察某人终于休息了而学到了一个教训。\n\nRain [Postline有线电话]：“笑让他不那么累了吗？”\nBeam [Postline有线电话]：“不。休息有帮助。明天我们会接着查那张照片。”"
+      ],
+      "introduction": "火车旅行结束后，调查人员带着扣环和 Rain 的观察结果到达了 Bellara。航运馆是他们的第一个线索。在那里，他们遇到了Guff，一名搬运工兼表演者，他熟悉的笑容成了他另一项难以放下的工作。",
+      "title": "幕后的笑声"
+    }
+  },
+  "number": 6,
+  "panels": [
+    {
+      "altText": "The next morning, in Bellara, the six leave the station for the shipping pavilion named in the transit record. Quest spots it across a canal bridge. The first part of the paper trail has brought them to the right place.",
+      "image": "N01E06P01.png"
+    },
+    {
+      "altText": "Inside, the records desk is between shifts. Guff, the pavilion's porter, entertains the waiting travelers with a suitcase routine. Beam laughs; even Quiver's grip on the bench loosens.",
+      "image": "N01E06P02.png"
+    },
+    {
+      "altText": "When the routine ends, Beam follows Guff through the backstage doorway. Away from the waiting hall, Guff's grin falters. Beam remembers how quickly a cheerful offer became pressure for Rain.",
+      "image": "N01E06P03.png"
+    },
+    {
+      "altText": "Guff admits that carrying luggage is not his only tiring job. Everyone expects the smile too. The ledger stays closed while Beam listens, without turning the break into another task.",
+      "image": "N01E06P04.png"
+    },
+    {
+      "altText": "Flip arrives for the next performance slot and takes over the suitcase routine. Guff does not need to earn this break with another joke. His next stretch of time is his own.",
+      "image": "N01E06P05.png"
+    },
+    {
+      "altText": "After the break, Guff opens the handling ledger he uses for his porter shifts. The transit entry matches Quest's clasp. Its full hardware photograph is kept at the harbor display office, which opens again tomorrow.",
+      "image": "N01E06P06.png"
+    },
+    {
+      "altText": "That evening, back at Meadowfold, Rain hears Beam's report through the field horn. There is a photograph to inspect tomorrow. There is also a lesson Beam learned by watching someone finally take a break.",
+      "image": "N01E06P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

@@ -1,0 +1,439 @@
+{
+  "id": "N03E12",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يبقي تافي المفتاح منخفضا بجوار الوصلة المفصولة.",
+        "يجمع تافي ورقتي الرد غير المرسلتين من الطاولة.",
+        "يمشي تافي بسرعة نحو مركز البريد حاملا ملفا فارغا.",
+        "تعرض سيلي سجل الإرسال المفتوح على تافي.",
+        "تقسم سيلي تسع علامات مسار إلى أربع وجهات.",
+        "يخفض تافي يده بجوار صينية البريد الصادر الفارغة.",
+        "تدير سيلي سجل الإرسال نحو تافي."
+      ],
+      "captions": [
+        "بعد التجربة، أبقى تافي مفتاح الرد التلقائي منخفضا. وتركت نيري الوصلة مفصولة فوق الطاولة.",
+        "جمع ردود التجربة التي لم ترسل. لن تصبح هذه الأجوبة جزءا مؤلما من صباح شخص آخر.",
+        "طلب: «ساعديني على استرجاع الإعلانات». بقيت نيري لتأمين الآلة، وأسرع تافي إلى مركز البريد.",
+        "راجعت سيلي سجل الإرسال. كانت النسخ التسع قد غادرت مع بريد الفجر.",
+        "ثلاث نسخ للوحات البلدة. وست أبعد: اثنتان للبستان، واثنتان للمحطة، واثنتان لجزيرة المنارة.",
+        "أراد تافي أن يلوم عربة البريد المبكرة. ثم تذكر أنه حمل النسخ إلى هنا بيديه.",
+        "قال: «أخبريني من أين أبدأ». أدارت سيلي السجل نحوه. كان العنوان الأول قريبا."
+      ],
+      "introduction": "يوقف تافي الردود التلقائية، لكن وقف الضرر الجديد لا يمحو الرسائل التي خرجت.",
+      "title": "يبقى المفتاح منخفضا"
+    },
+    "bn": {
+      "altTexts": [
+        "আলাদা সংযোগের অংশের পাশে টাভি সুইচ নিচে রাখছে।",
+        "টাভি টেবিল থেকে পরীক্ষার দুটি না-পাঠানো উত্তর তুলে নিচ্ছে।",
+        "টাভি খালি ফাইল নিয়ে দ্রুত ডাকঘরের দিকে হাঁটছে।",
+        "সেলি টাভিকে খোলা ডাক পাঠানোর খাতা দেখাচ্ছে।",
+        "সেলি নয়টি পথের চিহ্নকে চারটি গন্তব্যে ভাগ করছে।",
+        "টাভি খালি পাঠানোর ট্রের পাশে হাত নামিয়ে নিচ্ছে।",
+        "সেলি ডাক পাঠানোর খাতা টাভির দিকে ঘোরাচ্ছে।"
+      ],
+      "captions": [
+        "পরীক্ষার পর টাভি স্বয়ংক্রিয় সুইচ নিচেই রাখল। নেরি খুলে নেওয়া সংযোগের অংশ টেবিলে রাখল।",
+        "টাভি না-পাঠানো পরীক্ষার উত্তর দুটি তুলে নিল। এই কথাগুলো আর অন্য কারও সকাল নষ্ট করবে না।",
+        "“ঘোষণাগুলো ফেরাতে সাহায্য করো,” সে বলল। নেরি যন্ত্র নিরাপদ করতে রইল, আর টাভি দ্রুত ডাকঘরে গেল।",
+        "ডাকঘরে সেলি পাঠানোর খাতা দেখল। নয়টি কপি ভোরের ডাকে বেরিয়ে গেছে।",
+        "তিনটি শহরের বোর্ডে যাচ্ছে। ছয়টি আরও দূরে: দুটি ফলবাগানে, দুটি স্টেশনে, দুটি বাতিঘর দ্বীপে।",
+        "টাভির ইচ্ছে হলো তাড়াতাড়ি বেরোনো ডাকগাড়িকে দোষ দিতে। তারপর মনে পড়ল, কপিগুলো সে নিজেই এখানে এনেছিল।",
+        "সে বলল, “কোথা থেকে শুরু করব বলো।” সেলি খাতা তার দিকে ঘোরাল। প্রথম ঠিকানা কাছেই ছিল।"
+      ],
+      "introduction": "টাভি নতুন স্বয়ংক্রিয় উত্তর বন্ধ করে, কিন্তু আগে পাঠানো বার্তা তাতে মুছে যায় না।",
+      "title": "সুইচ নিচেই থাকে"
+    },
+    "cs": {
+      "altTexts": [
+        "Tavi nechává přepínač dole vedle odpojené spojky.",
+        "Tavi sbírá ze stolu dvě neodeslané zkušební odpovědi.",
+        "Tavi svižně kráčí k poště s prázdnou složkou.",
+        "Seli ukazuje Tavimu otevřenou knihu zásilek.",
+        "Seli rozděluje devět značek trasy do čtyř skupin.",
+        "Tavi spouští ruku vedle prázdné přihrádky odchozí pošty.",
+        "Seli otáčí knihu zásilek směrem k Tavimu."
+      ],
+      "captions": [
+        "Po pokusu nechal Tavi automatický přepínač dole. Neri položila odpojenou spojku na stůl.",
+        "Sebral neodeslané zkušební odpovědi. Tyhle věty už nikomu nevstoupí do rána.",
+        "„Pomoz mi stáhnout ta oznámení,“ požádal. Neri zůstala zabezpečit stroj, zatímco Tavi pospíchal na poštu.",
+        "Na poště Seli zkontrolovala knihu zásilek. Devět kopií odjelo s rozvozem za úsvitu.",
+        "Tři mířily na místní nástěnky. Šest cestovalo dál: dvě do sadu, dvě na nádraží a dvě na Majákový ostrov.",
+        "Tavi chtěl obvinit příliš časný rozvoz. Pak si vzpomněl, jak sem kopie přinesl vlastníma rukama.",
+        "„Řekni mi, kde začít,“ požádal. Seli k němu otočila knihu. První adresa byla nedaleko."
+      ],
+      "introduction": "Tavi zastaví automatické odpovědi a zjistí, že tím nevymaže zprávy, které už odeslal.",
+      "title": "Přepínač zůstává dole"
+    },
+    "de": {
+      "altTexts": [
+        "Tavi lässt den Schalter neben dem losen Verbindungsstück unten.",
+        "Tavi sammelt zwei unverschickte Testantworten vom Tisch ein.",
+        "Tavi geht mit einer leeren Mappe zügig zum Depot.",
+        "Seli zeigt Tavi das offene Versandbuch.",
+        "Seli verteilt neun Routenmarken auf vier Gruppen.",
+        "Tavi senkt die Hand neben dem leeren Postausgangsfach.",
+        "Seli dreht das Versandbuch zu Tavi."
+      ],
+      "captions": [
+        "Nach dem Versuch ließ Tavi den Automatikschalter unten. Neri legte das abgetrennte Verbindungsstück auf den Tisch.",
+        "Er sammelte die unverschickten Testantworten ein. Diese Antworten würden nicht in den Morgen eines anderen Menschen platzen.",
+        "„Hilf mir, die Mitteilungen zurückzuholen“, bat er. Neri sicherte die Maschine, während Tavi zum Depot eilte.",
+        "Im Depot prüfte Seli das Versandbuch. Die neun Exemplare waren mit der Lieferung im Morgengrauen abgefahren.",
+        "Drei gingen an örtliche Aushänge. Sechs reisten weiter: zwei zum Obstgarten, zwei zum Bahnhof und zwei zur Leuchtfeuerinsel.",
+        "Tavi wollte dem frühen Postwagen die Schuld geben. Dann erinnerte er sich, wie er die Exemplare selbst hergebracht hatte.",
+        "„Sag mir, wo ich anfangen soll“, bat er. Seli drehte das Buch zu ihm. Die erste Adresse war ganz in der Nähe."
+      ],
+      "introduction": "Tavi beendet die automatischen Antworten und erkennt, dass bereits verschickte Nachrichten dadurch nicht verschwinden.",
+      "title": "Der Schalter bleibt unten"
+    },
+    "en": {
+      "altTexts": [
+        "Tavi keeps the switch down beside the detached connector.",
+        "Tavi gathers two unsent test replies from the table.",
+        "Tavi walks briskly toward the depot with an empty folder.",
+        "Seli shows Tavi the open dispatch book.",
+        "Seli groups nine route tokens into four destinations.",
+        "Tavi lowers his hand beside the empty outgoing tray.",
+        "Seli turns the dispatch book toward Tavi."
+      ],
+      "captions": [
+        "After the test, Tavi kept the automatic switch down. Neri left the connector detached on the table.",
+        "He gathered the unsent test replies. These answers would never become somebody else’s morning.",
+        "“Help me recall the notices,” he asked. Neri stayed to secure the machine while Tavi hurried to the depot.",
+        "At the depot, Seli checked the dispatch book. The nine copies had left with the dawn delivery.",
+        "Three were going to local noticeboards. Six were traveling onward: two to the orchard, two to the station, two to Beacon Island.",
+        "Tavi wanted to blame the early cart. Then he remembered carrying the copies here with his own hands.",
+        "“Tell me where to begin,” he said. Seli turned the book toward him. The first address was nearby."
+      ],
+      "introduction": "Tavi ends automatic replies and learns that stopping new harm does not erase messages already sent.",
+      "title": "The Switch Stays Down"
+    },
+    "es": {
+      "altTexts": [
+        "Tavi mantiene el interruptor abajo junto al conector separado.",
+        "Tavi recoge dos respuestas de prueba sin enviar de la mesa.",
+        "Tavi camina deprisa hacia la oficina con una carpeta vacía.",
+        "Seli muestra a Tavi el registro de envíos abierto.",
+        "Seli agrupa nueve fichas de ruta en cuatro destinos.",
+        "Tavi baja la mano junto a la bandeja de salida vacía.",
+        "Seli gira el registro de envíos hacia Tavi."
+      ],
+      "captions": [
+        "Después de la prueba, Tavi dejó abajo el interruptor automático. Neri dejó el conector separado sobre la mesa.",
+        "Recogió las respuestas de prueba que no habían enviado. Esas respuestas nunca irrumpirían en la mañana de otra persona.",
+        "«Ayúdame a recuperar los avisos», pidió. Neri se quedó asegurando la máquina mientras Tavi iba deprisa a la oficina de reparto.",
+        "Allí, Seli consultó el registro de envíos. Las nueve copias habían salido con el reparto del amanecer.",
+        "Tres iban a tablones locales. Seis seguían viaje: dos al huerto, dos a la estación y dos a la Isla del Faro.",
+        "Tavi quiso culpar al carro por salir tan temprano. Entonces recordó haber llevado las copias allí con sus propias manos.",
+        "«Dime por dónde empezar», dijo. Seli giró el registro hacia él. La primera dirección estaba cerca."
+      ],
+      "introduction": "Tavi detiene las respuestas automáticas y descubre que los mensajes enviados no desaparecen por ello.",
+      "title": "El interruptor se queda abajo"
+    },
+    "fr": {
+      "altTexts": [
+        "Tavi garde l’interrupteur baissé près du raccord détaché.",
+        "Tavi ramasse deux réponses d’essai non envoyées sur la table.",
+        "Tavi marche vite vers le dépôt avec une pochette vide.",
+        "Seli montre à Tavi le registre d’expédition ouvert.",
+        "Seli répartit neuf jetons de tournée en quatre groupes.",
+        "Tavi baisse la main près du bac de départ vide.",
+        "Seli tourne le registre d’expédition vers Tavi."
+      ],
+      "captions": [
+        "Après l’essai, Tavi laissa l’interrupteur automatique baissé. Neri posa le raccord détaché sur la table.",
+        "Il ramassa les réponses d’essai non envoyées. Ces réponses n’iraient jamais troubler le matin de quelqu’un d’autre.",
+        "« Aide-moi à récupérer les avis », demanda-t-il. Neri resta sécuriser la machine pendant que Tavi se dépêchait au dépôt.",
+        "Au dépôt, Seli consulta le registre. Les neuf exemplaires étaient partis avec la livraison de l’aube.",
+        "Trois allaient aux panneaux locaux. Six continuaient leur route : deux au verger, deux à la gare et deux à l’île du Phare.",
+        "Tavi voulut accuser la tournée d’être partie trop tôt. Puis il se rappela avoir apporté lui-même les exemplaires.",
+        "« Dis-moi par où commencer », dit-il. Seli tourna le registre vers lui. La première adresse était toute proche."
+      ],
+      "introduction": "Tavi arrête les réponses automatiques et découvre que les messages déjà envoyés ne disparaissent pas pour autant.",
+      "title": "L’interrupteur reste baissé"
+    },
+    "hi": {
+      "altTexts": [
+        "अलग पड़े पुर्जे के पास तावी स्विच नीचे रखे हुए है।",
+        "तावी मेज़ से प्रयोग के दो न भेजे गए जवाब उठा रहा है।",
+        "तावी खाली फाइल लिए तेज़ कदमों से डाकघर जा रहा है।",
+        "सेली तावी को खुला डाक रजिस्टर दिखा रही है।",
+        "सेली नौ रास्ते-चिह्नों को चार गंतव्यों में बाँट रही है।",
+        "तावी खाली बाहर जाने वाली डाक की तश्तरी के पास हाथ नीचे कर रहा है।",
+        "सेली डाक रजिस्टर तावी की ओर घुमा रही है।"
+      ],
+      "captions": [
+        "प्रयोग के बाद तावी ने अपने आप जवाब देने वाला स्विच नीचे ही रखा। नेरी ने अलग किया हुआ पुर्जा मेज़ पर छोड़ दिया।",
+        "उसने प्रयोग के वे जवाब समेट लिए जो भेजे नहीं गए थे। ये शब्द अब किसी और की सुबह नहीं बिगाड़ेंगे।",
+        "उसने कहा, “घोषणाएँ वापस लाने में मदद करो।” नेरी मशीन सुरक्षित करने रुकी और तावी तेज़ कदमों से डाकघर की ओर चला।",
+        "डाकघर में सेली ने भेजी गई डाक का रजिस्टर देखा। नौ प्रतियाँ भोर की डिलीवरी के साथ निकल चुकी थीं।",
+        "तीन कस्बे के सूचना-पटों पर जा रही थीं। छह दूर: दो बगीचे में, दो स्टेशन पर, दो प्रकाशस्तंभ द्वीप पर।",
+        "तावी जल्दी निकली डाकगाड़ी को दोष देना चाहता था। फिर याद आया कि प्रतियाँ यहाँ वह अपने हाथों से लाया था।",
+        "“बताओ, कहाँ से शुरू करूँ?” उसने पूछा। सेली ने रजिस्टर उसकी ओर कर दिया। पहला पता पास ही था।"
+      ],
+      "introduction": "तावी स्वचालित जवाब रोक देता है, लेकिन पहले से भेजे गए संदेश नहीं मिटते।",
+      "title": "स्विच नीचे ही रहेगा"
+    },
+    "id": {
+      "altTexts": [
+        "Tavi membiarkan sakelar turun di dekat konektor yang dilepas.",
+        "Tavi mengumpulkan dua balasan uji yang belum dikirim dari meja.",
+        "Tavi berjalan cepat menuju kantor pengiriman dengan map kosong.",
+        "Seli menunjukkan buku pengiriman yang terbuka kepada Tavi.",
+        "Seli membagi sembilan penanda rute menjadi empat kelompok.",
+        "Tavi menurunkan tangan di samping baki kiriman keluar yang kosong.",
+        "Seli memutar buku pengiriman ke arah Tavi."
+      ],
+      "captions": [
+        "Seusai percobaan, Tavi membiarkan sakelar otomatis tetap turun. Neri meletakkan konektor yang dilepas di atas meja.",
+        "Ia mengumpulkan balasan uji yang belum dikirim. Jawaban-jawaban ini tidak akan mengusik pagi orang lain.",
+        "“Bantu aku menarik kembali pengumuman itu,” pintanya. Neri tinggal untuk mengamankan mesin sementara Tavi bergegas ke kantor pengiriman.",
+        "Di kantor, Seli memeriksa buku pengiriman. Sembilan salinan sudah berangkat bersama kiriman saat fajar.",
+        "Tiga menuju papan pengumuman setempat. Enam melanjutkan perjalanan: dua ke kebun buah, dua ke stasiun, dan dua ke Pulau Mercusuar.",
+        "Tavi ingin menyalahkan gerobak yang berangkat terlalu pagi. Lalu ia teringat bahwa tangannya sendiri yang membawa salinan itu ke sini.",
+        "“Katakan harus mulai dari mana,” pintanya. Seli memutar buku ke arahnya. Alamat pertama berada di dekat sana."
+      ],
+      "introduction": "Tavi menghentikan balasan otomatis dan mengetahui bahwa pesan yang terlanjur dikirim tidak ikut lenyap.",
+      "title": "Sakelar Tetap Turun"
+    },
+    "it": {
+      "altTexts": [
+        "Tavi tiene l’interruttore abbassato accanto al raccordo staccato.",
+        "Tavi raccoglie dal tavolo due risposte di prova non inviate.",
+        "Tavi cammina in fretta verso l’ufficio con una cartella vuota.",
+        "Seli mostra a Tavi il registro delle spedizioni aperto.",
+        "Seli distribuisce nove gettoni del percorso in quattro gruppi.",
+        "Tavi abbassa la mano vicino alla vaschetta delle partenze vuota.",
+        "Seli gira il registro delle spedizioni verso Tavi."
+      ],
+      "captions": [
+        "Dopo la prova, Tavi lasciò abbassato l’interruttore automatico. Neri lasciò il raccordo staccato sul tavolo.",
+        "Raccolse le risposte di prova non spedite. Quelle risposte non sarebbero mai entrate nella mattina di qualcun altro.",
+        "«Aiutami a recuperare gli avvisi», chiese. Neri rimase a mettere in sicurezza la macchina, mentre Tavi corse all’ufficio consegne.",
+        "Lì, Seli controllò il registro delle spedizioni. Le nove copie erano partite con le consegne dell’alba.",
+        "Tre erano dirette alle bacheche locali. Sei proseguivano: due al frutteto, due alla stazione e due all’Isola del Faro.",
+        "Tavi volle incolpare il giro partito troppo presto. Poi ricordò di aver portato lì le copie con le proprie mani.",
+        "«Dimmi da dove iniziare», disse. Seli girò il registro verso di lui. Il primo indirizzo era vicino."
+      ],
+      "introduction": "Tavi ferma le risposte automatiche e scopre che questo non cancella i messaggi già spediti.",
+      "title": "L’interruttore resta abbassato"
+    },
+    "ja": {
+      "altTexts": [
+        "外した接続具のそばで、タヴィがスイッチを下の位置に保っています。",
+        "タヴィが机から未送信の試験用返信を二枚集めています。",
+        "タヴィが空のファイルを持ち、郵便所へ早足で向かっています。",
+        "セリが開いた発送簿をタヴィに見せています。",
+        "セリが九つの経路札を四つの行き先に分けています。",
+        "タヴィが空の発送用受け皿のそばで手を下ろしています。",
+        "セリがタヴィに向けて発送簿を回しています。"
+      ],
+      "captions": [
+        "試験の後、タヴィは自動返信のスイッチを下げたままにしました。ネリは外した接続具を机に置きました。",
+        "タヴィは未送信の試験用返信を集めました。この文章が、誰かの朝を傷つけることはありません。",
+        "「お知らせを取り戻すのを手伝って」。ネリは機械を安全な状態にするため残り、タヴィは郵便所へ急ぎました。",
+        "郵便所でセリが発送簿を確かめました。九枚は、夜明けの配達ですでに出発していました。",
+        "三枚は町の掲示板へ。残る六枚は遠方へ向かっています。果樹園に二枚、駅に二枚、灯台島に二枚です。",
+        "早く出発した配達車を責めたくなったタヴィは、お知らせを自分の手でここへ運んだことを思い出しました。",
+        "「どこから始めればいい？」。セリは発送簿をタヴィへ向けました。最初の宛先は近くにありました。"
+      ],
+      "introduction": "新しい自動返信を止めても、すでに送った言葉が消えるわけではありません。",
+      "title": "下げたままのスイッチ"
+    },
+    "ko": {
+      "altTexts": [
+        "분리된 연결 부품 옆에서 타비가 스위치를 아래로 유지해요.",
+        "타비가 탁자에서 보내지 않은 시험 답장 두 장을 모아요.",
+        "타비가 빈 서류철을 들고 우편소로 빠르게 걸어요.",
+        "셀리가 타비에게 펼친 발송 장부를 보여 줘요.",
+        "셀리가 아홉 경로 표식을 네 목적지로 나눠요.",
+        "타비가 빈 발송 대기함 옆에서 손을 내려요.",
+        "셀리가 발송 장부를 타비 쪽으로 돌려요."
+      ],
+      "captions": [
+        "시험이 끝나도 타비는 자동 스위치를 내려 두었어요. 네리는 분리한 연결 부품을 탁자에 놓았어요.",
+        "타비는 보내지 않은 시험 답장들을 모았어요. 이 말들이 누군가의 아침을 망치지는 않을 거예요.",
+        "“공지문 회수를 도와줘.” 네리는 기계가 발송하지 못하게 정리하려고 남았고, 타비는 우편소로 서둘렀어요.",
+        "우편소에서 셀리가 발송 장부를 확인했어요. 아홉 부는 이미 새벽 배달로 떠났어요.",
+        "세 부는 마을 게시판으로, 여섯 부는 더 멀리 가고 있었어요. 과수원 두 부, 역 두 부, 등대섬 두 부였어요.",
+        "타비는 너무 일찍 출발한 수레를 탓하고 싶었어요. 그러다 자신이 직접 여기까지 가져온 사실을 기억했어요.",
+        "“어디부터 시작할지 알려 줘.” 셀리가 장부를 타비에게 돌렸어요. 첫 주소는 가까운 곳이었어요."
+      ],
+      "introduction": "자동 답장은 멈추지만, 이미 보낸 말까지 사라지는 것은 아닙니다.",
+      "title": "내려 둔 스위치"
+    },
+    "pl": {
+      "altTexts": [
+        "Tavi pozostawia przełącznik na dole obok odłączonego złącza.",
+        "Tavi zbiera ze stołu dwie niewysłane próbne odpowiedzi.",
+        "Tavi idzie szybko do punktu wysyłkowego z pustą teczką.",
+        "Seli pokazuje Taviemu otwartą księgę wysyłek.",
+        "Seli rozdziela dziewięć znaczników tras na cztery grupy.",
+        "Tavi opuszcza rękę obok pustej przegródki poczty wychodzącej.",
+        "Seli obraca księgę wysyłek w stronę Taviego."
+      ],
+      "captions": [
+        "Po próbie Tavi pozostawił automatyczny przełącznik na dole. Neri położyła odłączone złącze na stole.",
+        "Zebrał niewysłane próbne odpowiedzi. Te słowa nigdy nie wkroczą w czyjś poranek.",
+        "„Pomóż mi odzyskać ogłoszenia”, poprosił. Neri została zabezpieczyć maszynę, a Tavi pospieszył do punktu wysyłkowego.",
+        "Na miejscu Seli sprawdziła księgę wysyłek. Dziewięć kopii wyjechało z poranną dostawą o świcie.",
+        "Trzy jechały na miejscowe tablice. Sześć dalej: dwie do sadu, dwie na stację i dwie na Wyspę Latarni.",
+        "Tavi chciał obwinić zbyt wczesny rozwóz. Potem przypomniał sobie, jak sam przyniósł tu kopie.",
+        "„Powiedz, od czego zacząć”, poprosił. Seli odwróciła księgę w jego stronę. Pierwszy adres był niedaleko."
+      ],
+      "introduction": "Tavi zatrzymuje automatyczne odpowiedzi i odkrywa, że wysłane wiadomości przez to nie znikają.",
+      "title": "Przełącznik zostaje na dole"
+    },
+    "pt": {
+      "altTexts": [
+        "Tavi mantém o interruptor abaixado perto do conector separado.",
+        "Tavi recolhe da mesa duas respostas de teste não enviadas.",
+        "Tavi caminha depressa até a central com uma pasta vazia.",
+        "Seli mostra a Tavi o registro de despacho aberto.",
+        "Seli separa nove fichas de rota em quatro grupos.",
+        "Tavi abaixa a mão junto à bandeja de saída vazia.",
+        "Seli vira o registro de despacho para Tavi."
+      ],
+      "captions": [
+        "Depois do teste, Tavi manteve o interruptor automático abaixado. Neri deixou o conector separado sobre a mesa.",
+        "Ele recolheu as respostas de teste não enviadas. Aquelas respostas jamais entrariam na manhã de outra pessoa.",
+        "“Me ajude a recuperar os avisos”, pediu. Neri ficou para proteger a máquina enquanto Tavi se apressava até a central de entregas.",
+        "Na central, Seli consultou o registro de despacho. As nove cópias haviam saído com a entrega do amanhecer.",
+        "Três iam para murais locais. Seis seguiam viagem: duas para o pomar, duas para a estação e duas para a Ilha do Farol.",
+        "Tavi quis culpar o carro de correio por sair cedo. Então lembrou de ter levado as cópias com as próprias mãos.",
+        "“Diga por onde começo”, pediu. Seli virou o registro para ele. O primeiro endereço ficava perto."
+      ],
+      "introduction": "Tavi interrompe as respostas automáticas e percebe que as mensagens já enviadas não desaparecem.",
+      "title": "O interruptor fica abaixado"
+    },
+    "ru": {
+      "altTexts": [
+        "Тави оставляет переключатель опущенным возле снятого соединителя.",
+        "Тави собирает со стола два неотправленных пробных ответа.",
+        "Тави быстро идёт к почтовому отделению с пустой папкой.",
+        "Сели показывает Тави открытую книгу отправлений.",
+        "Сели разделяет девять маршрутных фишек на четыре группы.",
+        "Тави опускает руку возле пустого исходящего лотка.",
+        "Сели разворачивает книгу отправлений к Тави."
+      ],
+      "captions": [
+        "После опыта Тави оставил автоматический переключатель опущенным. Нери положила отсоединённый соединитель на стол.",
+        "Он собрал неотправленные пробные ответы. Эти слова уже не испортят чьё-то утро.",
+        "«Помоги вернуть объявления», — попросил он. Нери осталась привести машину в безопасное состояние, а Тави поспешил на почту.",
+        "На почте Сели проверила книгу отправлений. Девять экземпляров уже ушли с рассветной доставкой.",
+        "Три направлялись на городские доски. Ещё шесть — дальше: два в сад, два на станцию, два на Маячный остров.",
+        "Тави захотел обвинить почтовую службу в слишком ранней отправке. Но вспомнил, как сам принёс сюда все экземпляры.",
+        "«Скажи, с чего начать», — попросил он. Сели повернула к нему книгу. Первый адрес был совсем рядом."
+      ],
+      "introduction": "Тави прекращает автоматические ответы, но уже отправленные сообщения не исчезают.",
+      "title": "Переключатель остаётся внизу"
+    },
+    "tr": {
+      "altTexts": [
+        "Tavi, ayrılmış bağlantının yanında anahtarı aşağıda tutuyor.",
+        "Tavi, masadan gönderilmemiş iki deneme yanıtını topluyor.",
+        "Tavi, boş bir dosyayla dağıtım merkezine hızlı yürüyor.",
+        "Seli, açık gönderi defterini Tavi’ye gösteriyor.",
+        "Seli, dokuz güzergâh işaretini dört gruba ayırıyor.",
+        "Tavi, boş giden posta tepsisinin yanında elini indiriyor.",
+        "Seli, gönderi defterini Tavi’ye doğru çeviriyor."
+      ],
+      "captions": [
+        "Denemeden sonra Tavi otomatik anahtarı aşağıda bıraktı. Neri de ayrılmış bağlantıyı masaya koydu.",
+        "Gönderilmemiş deneme yanıtlarını topladı. Bu yanıtlar başka birinin sabahına karışmayacaktı.",
+        "“Duyuruları geri almama yardım et,” dedi. Neri makineyi güvenceye almak için kalırken Tavi dağıtım merkezine koştu.",
+        "Merkezde Seli gönderi defterine baktı. Dokuz kopya şafak dağıtımıyla yola çıkmıştı.",
+        "Üçü yerel panolara gidiyordu. Altısı ise daha uzağa: ikisi meyve bahçesine, ikisi istasyona, ikisi Fener Adası’na.",
+        "Tavi erken kalkan posta arabasını suçlamak istedi. Sonra kopyaları buraya kendi elleriyle getirdiğini hatırladı.",
+        "“Nereden başlayacağımı söyle,” dedi. Seli defteri ona çevirdi. İlk adres yakındaydı."
+      ],
+      "introduction": "Tavi otomatik yanıtları durdurur, ama gönderilmiş mesajların böylece silinmediğini öğrenir.",
+      "title": "Anahtar Aşağıda Kalıyor"
+    },
+    "vi": {
+      "altTexts": [
+        "Tavi giữ công tắc hạ xuống cạnh đầu nối đã tháo.",
+        "Tavi gom hai câu trả lời thử chưa gửi trên bàn.",
+        "Tavi đi nhanh đến trạm với một bìa hồ sơ trống.",
+        "Seli cho Tavi xem sổ gửi thư đang mở.",
+        "Seli chia chín thẻ lộ trình thành bốn nhóm.",
+        "Tavi hạ tay cạnh khay thư đi đã trống.",
+        "Seli xoay sổ gửi thư về phía Tavi."
+      ],
+      "captions": [
+        "Sau thử nghiệm, Tavi để công tắc tự động ở vị trí hạ xuống. Neri đặt đầu nối đã tháo lên bàn.",
+        "Cậu gom những câu trả lời thử chưa gửi. Những câu này sẽ không chen vào buổi sáng của người khác.",
+        "“Giúp mình thu hồi các thông báo,” cậu nhờ. Neri ở lại khóa kết nối an toàn, còn Tavi vội đến trạm giao nhận.",
+        "Tại trạm, Seli xem sổ gửi thư. Chín bản đã rời đi cùng chuyến giao lúc bình minh.",
+        "Ba bản đến bảng tin trong thị trấn. Sáu bản đi xa hơn: hai đến vườn cây, hai đến nhà ga, hai đến Đảo Hải Đăng.",
+        "Tavi muốn trách xe thư đi quá sớm. Rồi cậu nhớ chính tay mình đã mang những bản đó đến đây.",
+        "“Hãy cho mình biết nên bắt đầu ở đâu,” cậu nói. Seli xoay sổ về phía cậu. Địa chỉ đầu tiên ở gần đó."
+      ],
+      "introduction": "Tavi dừng trả lời tự động và hiểu rằng thư đã gửi không vì thế mà biến mất.",
+      "title": "Công tắc vẫn hạ xuống"
+    },
+    "zh": {
+      "altTexts": [
+        "塔维让开关保持向下，拆开的连接器放在旁边。",
+        "塔维从桌上收起两张未寄出的测试回复。",
+        "塔维拿着空文件夹，快步走向邮递站。",
+        "塞莉给塔维看摊开的发件簿。",
+        "塞莉把九个路线标记分成四组目的地。",
+        "塔维在空的待寄托盘旁放下手。",
+        "塞莉把发件簿转向塔维。"
+      ],
+      "captions": [
+        "测试结束后，塔维让自动开关保持在下方。内莉把拆开的连接器留在桌上。",
+        "他收起没有发出的测试回复。这些句子不会再闯进别人的早晨。",
+        "“帮我收回那些公告吧。”他请求道。内莉留下确保机器不再发送，塔维则赶往邮递站。",
+        "在邮递站，塞莉查了发件簿。九份副本已经随清晨的邮件出发了。",
+        "三份送往镇内公告板。另六份送得更远：果园两份、车站两份、灯塔岛两份。",
+        "塔维差点怪罪早发的邮车，随后想起，是自己亲手把这些副本送来的。",
+        "“告诉我从哪里开始。”他说。塞莉把簿子转向他。第一个地址就在附近。"
+      ],
+      "introduction": "塔维停止自动回复，但停止新的伤害并不能收回已经寄出的消息。",
+      "title": "开关保持关闭"
+    }
+  },
+  "number": 12,
+  "panels": [
+    {
+      "altText": "Tavi keeps the switch down beside the detached connector.",
+      "image": "N03E12P01.png"
+    },
+    {
+      "altText": "Tavi gathers two unsent test replies from the table.",
+      "image": "N03E12P02.png"
+    },
+    {
+      "altText": "Tavi walks briskly toward the depot with an empty folder.",
+      "image": "N03E12P03.png"
+    },
+    {
+      "altText": "Seli shows Tavi the open dispatch book.",
+      "image": "N03E12P04.png"
+    },
+    {
+      "altText": "Seli groups nine route tokens into four destinations.",
+      "image": "N03E12P05.png"
+    },
+    {
+      "altText": "Tavi lowers his hand beside the empty outgoing tray.",
+      "image": "N03E12P06.png"
+    },
+    {
+      "altText": "Seli turns the dispatch book toward Tavi.",
+      "image": "N03E12P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "communication",
+    "listening",
+    "responsibility"
+  ],
+  "version": 1
+}

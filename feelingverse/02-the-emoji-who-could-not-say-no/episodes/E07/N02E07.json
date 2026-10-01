@@ -1,0 +1,442 @@
+{
+  "id": "N02E07",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "تظهر ستة أحواض في صفين بجوار مساحة تخزين مسقوفة.",
+        "تمسك ميند وسيلا بعينة قماش بجانب أحواض الشتلات.",
+        "تشير سيلا إلى مساحة التخزين المسقوفة بينما تمسك ميند بعينة القماش.",
+        "يقيس الصديقان القماش ومساحة المظلة كلًا على حدة.",
+        "ترفع سيلا ركن القماش الذي وقع في تربة المشتل.",
+        "تسجل القياسات في الدفتر وتبقى الأحواض في أماكنها.",
+        "تنتظر ميند العبّارة والأشرطة السبعة ما زالت معها."
+      ],
+      "captions": [
+        "بعد مشي قصير من الرصيف، وصلوا إلى مشتل سيلا. كانت ستة أحواض شتلات بجانب مساحة تخزين جافة ومسقوفة، فيها متسع لبعض الصواني.",
+        "تخيلت ميند سقفًا هائلًا فوق الأحواض الستة. لكن سيلا احتاجت فقط إلى حماية الشتلات الرقيقة في صوانيها قبل المطر.",
+        "سألت سيلا: «هل ننقل بعض الصواني إلى تحت المظلة؟» خشيت ميند أن يبدو العمل الأصغر اهتمامًا أقل.",
+        "قاس تافي القماش وقاس هاش المظلة. كانت المواد تكفي لخطة بسيطة، لا لسقف ميند الهائل.",
+        "حاولت ميند مد العينة أكثر، فانزلق ركن إلى التراب. التقطته سيلا من دون أن تضحك على ميند.",
+        "قالت سيلا: «نقرر بعدما نعرف المساحة». قاسوا معًا، ثم تركوا الأحواض كما كانت تمامًا.",
+        "عند الرصيف، كان روك يفحص عبّارة العودة. عرفت ميند أشياء مفيدة، لكنها لم تتم وعدًا واحدًا من السبعة."
+      ],
+      "introduction": "تحتاج سيلا إلى حماية الشتلات، لا إلى سقف ميند الهائل.",
+      "title": "سقف لكل ورقة"
+    },
+    "bn": {
+      "altTexts": [
+        "দুই সারিতে ছয়টি চারার বেড, পাশে জিনিস রাখার ছাউনি।",
+        "মেন্ড ও সেলা চারার বেডের পাশে কাপড়ের নমুনা ধরে আছে।",
+        "সেলা জিনিস রাখার ছাউনিটি দেখাচ্ছে; মেন্ড কাপড়ের নমুনা ধরে আছে।",
+        "দুই বন্ধু কাপড় ও ছাদের নিচের জায়গা মাপছে।",
+        "সেলা মাটিতে পড়া কাপড়ের কোণা তুলে নিচ্ছে।",
+        "মাপ খাতায় লেখা হচ্ছে; ছয়টি বেড আগের জায়গায় আছে।",
+        "মেন্ড সাত ফিতা নিয়ে ফেরার নৌকার অপেক্ষায়।"
+      ],
+      "captions": [
+        "ঘাট থেকে একটু হেঁটে তারা সেলার চারাবাগানে এল। ছয়টি চারার বেডের পাশে জিনিস রাখার শুকনো ছাউনি ছিল। সেখানে কিছু ট্রে রাখারও জায়গা ছিল।",
+        "মেন্ড ছয়টি বেডের ওপর বিরাট ছাদ ভাবল। সেলার শুধু কোমল চারার ট্রেগুলো বৃষ্টির আগে নিরাপদ করা দরকার।",
+        "“কিছু ট্রে ওই ছাদের নিচে নেওয়া যায়?” সেলা জিজ্ঞেস করল। মেন্ড ভাবল, ছোট কাজ করলে কম যত্নশীল মনে হবে না তো?",
+        "টাভি কাপড় মাপল, হাশ ছাদের জায়গা। জিনিস সহজ পরিকল্পনার জন্য যথেষ্ট, মেন্ডের বিরাট ছাদের জন্য নয়।",
+        "মেন্ড নমুনার কাপড় আরও টানতে গিয়ে এক কোণা মাটিতে ফেলে দিল। সেলা তাকে নিয়ে না হেসে কাপড়ের কোণাটি তুলে নিল।",
+        "“জায়গা বুঝে তারপর ঠিক করব,” সেলা বলল। তারা একসঙ্গে মাপল, বেডগুলো যেমন ছিল তেমন রেখেই ফিরল।",
+        "ঘাটে রুক ফেরার নৌকা পরীক্ষা করছিল। মেন্ড অনেক দরকারি কথা জেনেছে, কিন্তু সাত প্রতিশ্রুতির একটিও শেষ হয়নি।"
+      ],
+      "introduction": "সেলার দরকার চারার সুরক্ষা, মেন্ডের কল্পনার বিরাট ছাদ নয়।",
+      "title": "প্রতিটি পাতার জন্য ছাদ"
+    },
+    "cs": {
+      "altTexts": [
+        "Čtyři přátelé prohlížejí šest záhonů vedle přístřešku.",
+        "Mend a Sela drží vzorek látky vedle záhonů se sazenicemi.",
+        "Sela ukazuje na skladovací přístřešek a Mend drží vzorek látky.",
+        "Tavi měří látku a Hush šířku přístřešku.",
+        "Sela zvedá u Mend zablácený roh látky.",
+        "Přátelé zapisují rozměry u nezměněných záhonů.",
+        "Mend se sedmi stuhami čeká s přáteli u mola v Neri."
+      ],
+      "captions": [
+        "Krátká procházka od mola je zavedla do Selina zahradnictví. Šest záhonů stálo vedle suchého skladovacího přístřešku, kde bylo místo pro část sazenic.",
+        "Mend si představovala obrovskou střechu nad všemi šesti záhony. Sela potřebovala jen ochránit choulostivé sazenice před deštěm.",
+        "„Mohly by některé tácy jít pod přístřešek?“ zeptala se Sela. Mend se obávala, že menší práce bude vypadat jako menší péče.",
+        "Tavi změřil látku, Hush přístřešek. Materiálu měli dost na skromný plán, ale ne na Mendinu obrovskou střechu.",
+        "Mend zkusila vzorek natáhnout dál. Jeden roh sklouzl do hlíny. Sela ho zvedla, aniž by se jí smála.",
+        "„Rozhodneme se, až budeme znát rozměry,“ řekla Sela. Změřili prostor společně a záhony zatím nechali beze změny.",
+        "Zpátky u mola Rook zkontroloval zpáteční přívoz. Mend zjistila důležité věci, ale nesplnila dosud ani jeden ze sedmi slibů."
+      ],
+      "introduction": "Mend si splete největší řešení s nejlaskavějším.",
+      "title": "Střecha pro každý lístek"
+    },
+    "de": {
+      "altTexts": [
+        "Vier Freunde betrachten sechs Beete neben einem Unterstand.",
+        "Mend und Sela halten ein Stoffmuster neben den Beeten mit Jungpflanzen.",
+        "Sela zeigt auf den Unterstand, während Mend das Stoffmuster hält.",
+        "Tavi misst Stoff, während Hush die Breite des Unterstands prüft.",
+        "Sela hebt neben Mend eine erdige Stoffecke auf.",
+        "Die Freunde notieren Maße neben den unveränderten Beeten.",
+        "Mend wartet mit sieben Bändern und ihren Freunden an Neris Kai."
+      ],
+      "captions": [
+        "Ein kurzer Weg führte sie vom Kai zu Selas Gärtnerei. Sechs Beete lagen neben einem trockenen Unterstand, in dem noch Platz für einige Pflanzschalen war.",
+        "Mend stellte sich ein riesiges Dach über allen sechs Beeten vor. Sela wollte nur die empfindlichen Pflanzschalen vor dem Regen schützen.",
+        "„Könnten einige Schalen unter den Unterstand?“, fragte Sela. Mend befürchtete, dass eine kleinere Arbeit nach weniger Fürsorge aussehen könnte.",
+        "Tavi maß den Stoff. Hush maß den Unterstand. Das Material reichte für einen kleinen Plan, aber nicht für Mends riesigen.",
+        "Mend wollte das Muster weiter spannen. Eine Ecke rutschte in die Erde. Sela hob sie auf, ohne Mend auszulachen.",
+        "„Wir entscheiden, wenn wir den Platz kennen“, sagte Sela. Sie maßen gemeinsam und ließen die Beete vorerst unverändert.",
+        "Zurück am Kai prüfte Rook die Fähre für die Rückfahrt. Mend hatte Nützliches erfahren, aber noch keines ihrer sieben Versprechen erfüllt."
+      ],
+      "introduction": "Mend hält die größte Lösung irrtümlich für die fürsorglichste.",
+      "title": "Ein Dach für jedes Blatt"
+    },
+    "en": {
+      "altTexts": [
+        "Four friends inspect six seedling beds beside a storage shelter.",
+        "Mend and Sela hold a cloth sample beside the seedling beds.",
+        "Sela points to the storage shelter while Mend holds the cloth sample.",
+        "Tavi measures cloth while Hush checks the shelter’s width.",
+        "Sela lifts a muddy cloth corner beside Mend.",
+        "The friends record measurements beside the unchanged seedling beds.",
+        "Seven ribbons rest around Mend as the friends wait at Neri’s dock."
+      ],
+      "captions": [
+        "A short walk from the dock brought them to Sela's nursery. Six seedling beds stood beside a dry storage shelter with space for some of the trays.",
+        "Mend imagined one enormous roof over all six beds. Sela only needed the tender trays protected before the rain.",
+        "“Could some trays go under the shelter?” Sela asked. Mend studied the small roof and worried that a smaller job might seem less caring.",
+        "Tavi measured the cloth. Hush measured the shelter. The friends had enough material for a modest plan, but not Mend's enormous one.",
+        "Mend tried stretching the sample farther. A corner slipped into the soil. Sela picked it up without laughing at her.",
+        "“We can decide after we know the space,” Sela said. They measured together, then left the beds exactly as they were.",
+        "Back at the dock, Rook checked the return ferry. Mend had learned useful things, but had finished none of her seven promises."
+      ],
+      "introduction": "At the nursery, Mend mistakes the largest solution for the kindest one.",
+      "title": "A Roof for Every Leaf"
+    },
+    "es": {
+      "altTexts": [
+        "Cuatro amigos examinan seis bancales junto a un cobertizo.",
+        "Mend y Sela sostienen una muestra de tela junto a los bancales de plantas.",
+        "Sela señala el cobertizo mientras Mend sostiene la muestra de tela.",
+        "Tavi mide tela mientras Hush comprueba la anchura del cobertizo.",
+        "Sela levanta una esquina de tela manchada de tierra.",
+        "Los amigos anotan medidas junto a los bancales sin cambios.",
+        "Mend espera con siete cintas junto a sus amigos en el muelle."
+      ],
+      "captions": [
+        "Un paseo corto desde el muelle los llevó al vivero de Sela. Había seis bancales junto a un cobertizo seco, con espacio para algunas de las bandejas.",
+        "Mend imaginó un techo enorme sobre los seis bancales. Sela solo necesitaba proteger de la lluvia las plantas más delicadas.",
+        "«¿Podrían ir algunas bandejas bajo el cobertizo?», preguntó Sela. Mend temió que hacer algo más pequeño pareciera menos cariñoso.",
+        "Tavi midió la tela. Hush midió el cobertizo. Había material para un plan modesto, pero no para el enorme plan de Mend.",
+        "Mend intentó estirar más la muestra. Una esquina cayó en la tierra. Sela la recogió sin burlarse de ella.",
+        "«Decidiremos cuando conozcamos el espacio», dijo Sela. Midieron juntos y dejaron los bancales exactamente como estaban.",
+        "De vuelta en el muelle, Rook revisó el transbordador de regreso. Mend había aprendido cosas útiles, pero no había cumplido ninguna de sus siete promesas."
+      ],
+      "introduction": "Mend confunde la solución más grande con la más generosa.",
+      "title": "Un techo para cada hoja"
+    },
+    "fr": {
+      "altTexts": [
+        "Quatre amis examinent six plates-bandes près d’un abri.",
+        "Mend et Sela tiennent un échantillon de tissu près des plates-bandes.",
+        "Sela désigne l’abri de rangement tandis que Mend tient l’échantillon de tissu.",
+        "Tavi mesure le tissu et Hush vérifie la largeur de l’abri.",
+        "Sela soulève un coin de tissu couvert de terre près de Mend.",
+        "Les amis notent des mesures près des plates-bandes inchangées.",
+        "Mend attend avec ses sept rubans et ses amis au quai de Neri."
+      ],
+      "captions": [
+        "Une courte marche depuis le quai les mena à la pépinière de Sela. Six plates-bandes se trouvaient près d’un abri de rangement sec, où il restait de la place pour certains plateaux.",
+        "Mend imagina un immense toit sur les six plates-bandes. Sela voulait seulement protéger les plateaux de plants délicats avant la pluie.",
+        "« Certains plateaux pourraient-ils aller sous l’abri ? » demanda Sela. Mend craignait qu’un travail plus petit ne paraisse moins attentionné.",
+        "Tavi mesura le tissu. Hush mesura l’abri. Il y avait assez de matériel pour un projet modeste, mais pas pour l’immense projet de Mend.",
+        "Mend essaya de tendre davantage l’échantillon. Un coin glissa dans la terre. Sela le ramassa sans se moquer.",
+        "« Nous déciderons quand nous connaîtrons l’espace », dit Sela. Ils prirent les mesures ensemble, puis laissèrent les plates-bandes telles quelles.",
+        "De retour au quai, Rook vérifia le bac. Mend avait appris des choses utiles, mais n’avait encore accompli aucune de ses sept promesses."
+      ],
+      "introduction": "Mend confond la plus grande solution avec la plus attentionnée.",
+      "title": "Un toit pour chaque feuille"
+    },
+    "hi": {
+      "altTexts": [
+        "दो कतारों में छह क्यारियाँ और पास सामान रखने की छत वाली जगह दिखाई देती है।",
+        "मेंड और सेला पौधों की क्यारियों के पास कपड़े का नमूना पकड़े हैं।",
+        "सेला सामान रखने की छत वाली जगह दिखाती है; मेंड कपड़े का नमूना पकड़े है।",
+        "दोनों दोस्त कपड़े और छत के नीचे की जगह नापते हैं।",
+        "सेला मिट्टी में गिरा कपड़े का कोना उठाती है।",
+        "माप नोट किए जाते हैं; छहों क्यारियाँ अपनी जगह हैं।",
+        "मेंड सातों रिबनों के साथ लौटने वाली नाव की प्रतीक्षा करती है।"
+      ],
+      "captions": [
+        "घाट से थोड़ी दूर चलकर वे सेला की पौधशाला पहुँचे। छह क्यारियों के पास सामान रखने की एक सूखी, छत वाली जगह थी, जहाँ कुछ ट्रे भी रखी जा सकती थीं।",
+        "मेंड ने छहों क्यारियों पर एक विशाल छत सोची। सेला को केवल नाज़ुक पौधों की ट्रे बारिश से पहले सुरक्षित करनी थीं।",
+        "“कुछ ट्रे उस छत के नीचे रख दें?” सेला ने पूछा। मेंड को लगा, छोटा काम कम परवाह जैसा न लगे।",
+        "तावी ने कपड़ा नापा, हश ने छत की जगह। सामान साधारण योजना के लिए पर्याप्त था, मेंड की विशाल छत के लिए नहीं।",
+        "मेंड ने नमूने का कपड़ा और खींचा। एक कोना मिट्टी में गिरा। सेला ने उसका मज़ाक उड़ाए बिना कोना उठा लिया।",
+        "“जगह समझकर फैसला करेंगे,” सेला बोली। उन्होंने मिलकर नापा और क्यारियों को वैसा ही छोड़ दिया।",
+        "घाट पर लौटे तो रूक वापसी की नाव जाँच रहा था। मेंड ने उपयोगी बातें सीखी थीं, मगर सात में से एक वादा भी पूरा नहीं हुआ था।"
+      ],
+      "introduction": "सेला को विशाल छत नहीं, नन्हे पौधों की उचित सुरक्षा चाहिए।",
+      "title": "हर पत्ते के लिए एक छत"
+    },
+    "id": {
+      "altTexts": [
+        "Enam petak tersusun dalam dua baris di dekat tempat berteduh.",
+        "Mend dan Sela memegang contoh kain di samping petak-petak bibit.",
+        "Sela menunjuk tempat penyimpanan beratap, sementara Mend memegang contoh kain.",
+        "Kain dan ruang teduh diukur di samping enam petak.",
+        "Sela mengangkat sudut kain yang terjatuh di tanah kebun.",
+        "Ukuran dicatat; semua petak bibit tetap di tempat semula.",
+        "Mend menunggu feri dengan ketujuh pita masih terlihat."
+      ],
+      "captions": [
+        "Setelah berjalan sebentar dari dermaga, mereka tiba di kebun bibit Sela. Enam petak bibit berada di samping tempat penyimpanan beratap yang kering, dengan ruang untuk sebagian baki.",
+        "Mend membayangkan satu atap raksasa untuk keenam petak. Sela hanya membutuhkan perlindungan bagi baki-baki bibit yang rentan sebelum hujan.",
+        "“Bisakah sebagian baki dipindahkan ke tempat berteduh?” tanya Sela. Mend khawatir pekerjaan yang lebih kecil akan dianggap kurang peduli.",
+        "Tavi mengukur kain. Hush mengukur tempat berteduh. Bahannya cukup untuk rencana sederhana, tetapi tidak untuk atap raksasa Mend.",
+        "Mend mencoba merentangkan contoh kain lebih jauh. Salah satu sudutnya jatuh ke tanah. Sela mengambilnya tanpa menertawakan Mend.",
+        "“Kita putuskan setelah tahu luasnya,” kata Sela. Mereka mengukur bersama, lalu meninggalkan petak-petak itu tanpa mengubahnya.",
+        "Kembali di dermaga, Rook memeriksa feri untuk perjalanan pulang. Mend sudah belajar banyak, tetapi belum menyelesaikan satu pun dari tujuh janjinya."
+      ],
+      "introduction": "Mend membayangkan atap raksasa, tetapi Sela mengusulkan perlindungan yang lebih sederhana.",
+      "title": "Atap untuk Setiap Daun"
+    },
+    "it": {
+      "altTexts": [
+        "Quattro amici esaminano sei aiuole vicino a un riparo.",
+        "Mend e Sela tengono un campione di stoffa accanto alle aiuole.",
+        "Sela indica il riparo mentre Mend tiene il campione di stoffa.",
+        "Tavi misura la stoffa e Hush controlla la larghezza del riparo.",
+        "Sela solleva un angolo di stoffa sporco di terra accanto a Mend.",
+        "Gli amici annotano le misure vicino alle aiuole rimaste uguali.",
+        "Mend aspetta con sette nastri e gli amici al molo di Neri."
+      ],
+      "captions": [
+        "Una breve passeggiata dal molo li portò al vivaio di Sela. Sei aiuole di piantine erano accanto a un riparo asciutto, con spazio per alcuni vassoi.",
+        "Mend immaginò un tetto enorme sopra tutte e sei le aiuole. A Sela bastava proteggere dalla pioggia i vassoi con le piantine più delicate.",
+        "«Potremmo spostare alcuni vassoi sotto il riparo?» chiese Sela. Mend temeva che un lavoro più piccolo sembrasse meno premuroso.",
+        "Tavi misurò la stoffa. Hush misurò il riparo. Avevano materiale per un piano modesto, ma non per quello enorme di Mend.",
+        "Mend cercò di tendere ancora il campione. Un angolo scivolò nella terra. Sela lo raccolse senza prenderla in giro.",
+        "«Decideremo quando conosceremo lo spazio», disse Sela. Misurarono insieme, poi lasciarono le aiuole esattamente com’erano.",
+        "Tornati al molo, Rook controllò il traghetto per il ritorno. Mend aveva imparato cose utili, ma non aveva ancora mantenuto nessuna delle sette promesse."
+      ],
+      "introduction": "Mend confonde la soluzione più grande con quella più premurosa.",
+      "title": "Un tetto per ogni foglia"
+    },
+    "ja": {
+      "altTexts": [
+        "二列に並ぶ六つの苗床と、屋根つきの保管場所が見えます。",
+        "メンドとセラが、苗床の横で布の見本を持っています。",
+        "セラが屋根つきの保管場所を指し、メンドが布の見本を持っています。",
+        "二人が布と屋根つきの空間を別々に測っています。",
+        "セラが土に落ちた布の角を拾っています。",
+        "測った寸法がノートに記され、苗床は元のままです。",
+        "メンドが、七本のリボンをつけたまま帰りの船を待っています。"
+      ],
+      "captions": [
+        "桟橋から少し歩くと、セラの苗畑がありました。六つの苗床の隣には、乾いた屋根つきの保管場所があり、苗のトレーをいくつか置ける広さが残っていました。",
+        "メンドは六つ全部を覆う巨大な屋根を思い描きました。でもセラが必要としていたのは、雨の前に弱い苗のトレーを守ることだけでした。",
+        "「いくつか、屋根の下へ運べないかしら」とセラ。メンドは、小さな仕事では思いやりが足りなく見えるかも、と心配しました。",
+        "タヴィは布を、ハッシュは屋根の下を測りました。材料は簡単な案には足りますが、メンドの巨大な案には足りません。",
+        "メンドが見本の布をもっと伸ばそうとすると、端が土に落ちました。セラはメンドを笑わず、その端を拾いました。",
+        "「広さがわかってから決めましょう」とセラ。みんなで測り、その日は苗床を動かさずに帰りました。",
+        "桟橋に戻ると、ルークが帰りの船を確認していました。役立つことはわかりましたが、七つの約束は一つも終わっていませんでした。"
+      ],
+      "introduction": "セラが必要なのは、巨大な屋根ではなく苗の保護でした。",
+      "title": "すべての葉に屋根を"
+    },
+    "ko": {
+      "altTexts": [
+        "두 줄로 놓인 모판 여섯 곳 옆에 지붕이 있는 보관 공간이 보입니다.",
+        "멘드와 셀라가 모판 옆에서 천 견본을 들고 있습니다.",
+        "셀라가 지붕이 있는 보관 공간을 가리키고, 멘드는 천 견본을 들고 있습니다.",
+        "두 친구가 천과 지붕 아래 공간을 따로 측정합니다.",
+        "셀라가 흙에 떨어진 천 귀퉁이를 들어 올립니다.",
+        "치수를 공책에 기록하고 모판은 원래 자리에 남아 있습니다.",
+        "멘드가 일곱 리본을 그대로 달고 돌아갈 배를 기다립니다."
+      ],
+      "captions": [
+        "선착장에서 조금 걸으니 셀라의 모종밭이 나왔습니다. 모판 여섯 곳 옆에는 지붕이 있는 마른 보관 공간이 있었고, 쟁반 일부를 놓을 자리가 남아 있었습니다.",
+        "멘드는 여섯 곳을 모두 덮는 거대한 지붕을 상상했습니다. 셀라에게 필요한 것은 비가 오기 전에 쟁반 속 연약한 모종들을 보호하는 일뿐이었습니다.",
+        "“일부 쟁반은 지붕 아래로 옮길 수 있지 않을까?” 셀라가 물었습니다. 멘드는 작은 일을 하면 덜 배려하는 것처럼 보일까 걱정했습니다.",
+        "타비는 천을, 허시는 지붕 아래 공간을 쟀습니다. 재료는 간단한 계획에는 충분했지만 거대한 지붕에는 부족했습니다.",
+        "멘드가 견본 천을 더 늘리려다 한 귀퉁이를 흙에 떨어뜨렸습니다. 셀라는 멘드를 비웃지 않고 천을 주웠습니다.",
+        "“공간을 확인한 뒤 결정하자.” 셀라가 말했습니다. 모두 함께 크기를 재고 모판은 그대로 둔 채 돌아갔습니다.",
+        "선착장에서는 루크가 돌아갈 배를 점검하고 있었습니다. 멘드는 유용한 것을 알았지만 일곱 약속 중 하나도 끝내지 못했습니다."
+      ],
+      "introduction": "거대한 지붕보다 필요한 모종을 보호하는 작은 계획을 살펴봅니다.",
+      "title": "잎마다 지붕이 필요할까"
+    },
+    "pl": {
+      "altTexts": [
+        "Czworo przyjaciół ogląda sześć grządek obok zadaszonego schowka.",
+        "Mend i Sela trzymają próbkę tkaniny obok grządek z sadzonkami.",
+        "Sela wskazuje zadaszony schowek, a Mend trzyma próbkę tkaniny.",
+        "Tavi mierzy tkaninę, a Hush sprawdza szerokość schowka.",
+        "Sela podnosi przy Mend ubrudzony ziemią róg materiału.",
+        "Przyjaciele zapisują wymiary przy niezmienionych grządkach.",
+        "Mend czeka z siedmioma wstążkami i przyjaciółmi na przystani w Neri."
+      ],
+      "captions": [
+        "Krótki spacer od przystani zaprowadził ich do szkółki roślin Seli. Sześć grządek z sadzonkami znajdowało się obok suchego schowka pod dachem, w którym było miejsce na część tac.",
+        "Mend wyobraziła sobie ogromny dach nad sześcioma grządkami. Sela potrzebowała tylko ochronić delikatne sadzonki na tacach przed deszczem.",
+        "„Może część tac wstawimy pod dach?” — spytała Sela. Mend obawiała się, że mniejsza praca będzie wyglądała na mniejszą troskę.",
+        "Tavi zmierzył tkaninę, Hush schowek. Materiału wystarczało na skromny plan, ale nie na olbrzymi pomysł Mend.",
+        "Mend próbowała naciągnąć próbkę dalej. Róg wpadł do ziemi. Sela podniosła go, nie wyśmiewając Mend.",
+        "„Zdecydujemy, gdy poznamy wymiary” — powiedziała Sela. Zmierzyli wszystko wspólnie i na razie pozostawili grządki bez zmian.",
+        "Z powrotem w przystani Rook sprawdził prom. Mend dowiedziała się ważnych rzeczy, ale nie spełniła jeszcze żadnej z siedmiu obietnic."
+      ],
+      "introduction": "Mend myli największe rozwiązanie z najbardziej troskliwym.",
+      "title": "Dach dla każdego listka"
+    },
+    "pt": {
+      "altTexts": [
+        "Quatro amigos observam seis canteiros ao lado de um abrigo.",
+        "Mend e Sela seguram uma amostra de tecido ao lado dos canteiros de mudas.",
+        "Sela aponta para o abrigo enquanto Mend segura a amostra de tecido.",
+        "Tavi mede o tecido enquanto Hush confere a largura do abrigo.",
+        "Sela levanta uma ponta de tecido suja de terra junto de Mend.",
+        "Os amigos anotam medidas junto dos canteiros inalterados.",
+        "Mend espera com sete fitas e os amigos no cais de Neri."
+      ],
+      "captions": [
+        "Uma curta caminhada do cais os levou ao viveiro de Sela. Seis canteiros de mudas ficavam junto de um abrigo seco, com espaço para guardar algumas bandejas.",
+        "Mend imaginou um teto enorme sobre os seis canteiros. Sela só precisava proteger da chuva as bandejas com as mudas mais delicadas.",
+        "“Algumas bandejas poderiam ir para o abrigo?”, perguntou Sela. Mend temeu que um trabalho menor parecesse menos carinhoso.",
+        "Tavi mediu o tecido. Hush mediu o abrigo. Havia material suficiente para um plano modesto, mas não para o plano enorme de Mend.",
+        "Mend tentou esticar a amostra ainda mais. Uma ponta escorregou para a terra. Sela a pegou sem rir dela.",
+        "“Vamos decidir depois de conhecer o espaço”, disse Sela. Mediram juntos e deixaram os canteiros exatamente como estavam.",
+        "De volta ao cais, Rook conferiu a balsa de retorno. Mend aprendera coisas úteis, mas ainda não terminara nenhuma das sete promessas."
+      ],
+      "introduction": "Mend confunde a maior solução com a mais cuidadosa.",
+      "title": "Um teto para cada folha"
+    },
+    "ru": {
+      "altTexts": [
+        "Четверо друзей осматривают шесть грядок возле навеса.",
+        "Менд и Села держат образец ткани рядом с грядками с рассадой.",
+        "Села указывает на хозяйственный навес, пока Менд держит образец ткани.",
+        "Тави измеряет ткань, а Хаш — ширину навеса.",
+        "Села поднимает испачканный землёй угол ткани возле Менд.",
+        "Друзья записывают размеры возле неизменённых грядок.",
+        "Менд с семью лентами и друзьями ждёт на пристани Нери."
+      ],
+      "captions": [
+        "Короткая прогулка от пристани привела их в питомник Селы. Шесть грядок с рассадой находились рядом с сухим хозяйственным навесом, под которым было место для части подносов.",
+        "Менд вообразила огромную крышу над всеми шестью грядками. Селе нужно было лишь защитить нежную рассаду на подносах до дождя.",
+        "«Может, перенесём часть подносов под навес?» — спросила Села. Менд боялась, что маленькая работа будет выглядеть как меньшая забота.",
+        "Тави измерил ткань. Хаш измерил навес. Материала хватало на скромный план, но не на огромный замысел Менд.",
+        "Менд попыталась растянуть образец дальше. Угол соскользнул в землю. Села подняла его, не смеясь над Менд.",
+        "«Решим, когда узнаем размеры», — сказала Села. Они измерили всё вместе, а грядки пока оставили без изменений.",
+        "Когда друзья вернулись на пристань, Рук проверил паром перед обратным рейсом. Менд узнала полезные вещи, но ещё не выполнила ни одного из семи обещаний."
+      ],
+      "introduction": "Менд принимает самое большое решение за самое заботливое.",
+      "title": "Крыша для каждого листочка"
+    },
+    "tr": {
+      "altTexts": [
+        "Dört arkadaş sundurmanın yanındaki altı ekim yatağını inceliyor.",
+        "Mend ve Sela, fide yataklarının yanında bir kumaş örneği tutuyor.",
+        "Sela depo sundurmasını gösterirken Mend kumaş örneğini tutuyor.",
+        "Tavi kumaşı ölçerken Hush sundurmanın genişliğini kontrol ediyor.",
+        "Sela, Mend’in yanında topraklanmış kumaş köşesini kaldırıyor.",
+        "Arkadaşlar değişmemiş ekim yataklarının yanında ölçüleri yazıyor.",
+        "Mend yedi kurdelesi ve arkadaşlarıyla Neri iskelesinde bekliyor."
+      ],
+      "captions": [
+        "İskeleden kısa bir yürüyüşle Sela’nın fidanlığına ulaştılar. Altı fide yatağının yanında kuru bir depo sundurması vardı; altında bazı tepsilere yetecek yer bulunuyordu.",
+        "Mend, altı yatağın üstünü örten kocaman bir çatı düşündü. Sela’nınsa yalnızca tepsilerdeki hassas fideleri yağmurdan koruması gerekiyordu.",
+        "“Bazı tepsileri sundurmanın altına taşısak?” diye sordu Sela. Mend, küçük bir işin daha az önemsemek gibi görüneceğinden korktu.",
+        "Tavi kumaşı, Hush sundurmayı ölçtü. Malzeme küçük bir plana yetiyordu, Mend’in kocaman planına değil.",
+        "Mend örneği biraz daha germeye çalıştı. Bir köşesi toprağa kaydı. Sela ona gülmeden köşeyi kaldırdı.",
+        "“Alanı öğrenince karar veririz,” dedi Sela. Birlikte ölçtüler ve ekim yataklarını şimdilik olduğu gibi bıraktılar.",
+        "İskeleye dönünce Rook dönüş feribotunu kontrol etti. Mend yararlı bilgiler edinmişti, ama yedi sözünden hiçbirini tamamlamamıştı."
+      ],
+      "introduction": "Mend, en büyük çözümü en özenli çözüm sanır.",
+      "title": "Her Yaprağa Bir Çatı"
+    },
+    "vi": {
+      "altTexts": [
+        "Sáu luống cây xếp thành hai hàng cạnh kho có mái che.",
+        "Mend và Sela cầm mảnh vải mẫu bên các luống cây non.",
+        "Sela chỉ kho có mái che, còn Mend cầm mảnh vải mẫu.",
+        "Hai người đo vải và khoảng trú riêng biệt.",
+        "Sela nhặt góc vải rơi xuống đất vườn.",
+        "Kích thước được ghi lại, sáu luống vẫn ở vị trí cũ.",
+        "Mend chờ phà với cả bảy dải băng còn nguyên."
+      ],
+      "captions": [
+        "Đi bộ một đoạn ngắn từ bến, họ đến vườn ươm của Sela. Sáu luống cây non nằm cạnh kho có mái khô ráo, vẫn còn chỗ cho vài khay cây.",
+        "Mend hình dung một mái khổng lồ phủ cả sáu luống. Sela chỉ cần che chở những khay cây yếu trước mưa.",
+        "“Chuyển vài khay vào dưới mái kho được không?” Sela hỏi. Mend lo rằng làm ít hơn sẽ khiến mình có vẻ ít quan tâm hơn.",
+        "Tavi đo vải, Hush đo mái kho. Vật liệu đủ cho cách làm vừa phải, nhưng không đủ cho mái khổng lồ của Mend.",
+        "Mend cố kéo rộng mảnh vải mẫu. Một góc trượt xuống đất. Sela nhặt lên mà không cười nhạo cô.",
+        "“Biết rõ khoảng trống rồi hãy quyết định,” Sela nói. Họ đo cùng nhau rồi để nguyên các luống, chưa thay đổi gì.",
+        "Về bến, Rook đang kiểm tra phà quay lại. Mend biết thêm nhiều điều hữu ích, nhưng chưa hoàn thành lời hứa nào trong bảy lời hứa."
+      ],
+      "introduction": "Sela cần bảo vệ cây non, không cần mái che khổng lồ Mend tưởng tượng.",
+      "title": "Một mái che cho từng chiếc lá"
+    },
+    "zh": {
+      "altTexts": [
+        "六块苗床分成两排，旁边有一处遮雨的储物棚。",
+        "门德和塞拉在苗床旁拿着一块布样。",
+        "塞拉指向储物棚，门德拿着布样。",
+        "两个朋友分别测量篷布和储物棚的空间。",
+        "塞拉弯身捡起掉在土里的布角。",
+        "尺寸记进笔记本，六块苗床仍在原位。",
+        "门德等候返程渡船，身边仍有七条丝带。"
+      ],
+      "captions": [
+        "从码头走一小段路，他们到了塞拉的育苗园。六块苗床旁有一处干燥的储物棚，里面还有地方放下一些育苗盘。",
+        "门德想为六块苗床造一个巨大的屋顶。塞拉需要的，只是赶在下雨前保护盘里那些娇嫩的幼苗。",
+        "“有些盘能不能搬到棚里？”塞拉问。门德看着小屋顶，担心工作做得少，会显得不够关心。",
+        "塔维量布，哈什量棚子。材料够做一个简单的方案，却不够完成门德想象中的大屋顶。",
+        "门德试着把样布拉得更宽，一个角滑进了泥土。塞拉捡起它，没有嘲笑门德。",
+        "“先弄清地方多大，再决定。”塞拉说。他们一起测量，然后让苗床保持原样，暂时没有动工。",
+        "回到码头，鲁克正在检查返程渡船。门德学到了不少，却还没完成七个承诺中的任何一个。"
+      ],
+      "introduction": "塞拉需要保护幼苗，不需要门德想象中的巨大屋顶。",
+      "title": "每片叶子都需要遮雨吗"
+    }
+  },
+  "number": 7,
+  "panels": [
+    {
+      "altText": "Four friends inspect six seedling beds beside a storage shelter.",
+      "image": "N02E07P01.png"
+    },
+    {
+      "altText": "Mend and Sela hold a cloth sample beside the seedling beds.",
+      "image": "N02E07P02.png"
+    },
+    {
+      "altText": "Sela points to the storage shelter while Mend holds the cloth sample.",
+      "image": "N02E07P03.png"
+    },
+    {
+      "altText": "Tavi measures cloth while Hush checks the shelter’s width.",
+      "image": "N02E07P04.png"
+    },
+    {
+      "altText": "Sela lifts a muddy cloth corner beside Mend.",
+      "image": "N02E07P05.png"
+    },
+    {
+      "altText": "The friends record measurements beside the unchanged seedling beds.",
+      "image": "N02E07P06.png"
+    },
+    {
+      "altText": "Seven ribbons rest around Mend as the friends wait at Neri’s dock.",
+      "image": "N02E07P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

@@ -1,0 +1,442 @@
+{
+  "id": "N02E10",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "تستيقظ ميند والأشرطة السبعة مرتخية بجانب فراشها.",
+        "تقف أربع شخصيات على الشرفة الواسعة، والمظلة الصفراء ملفوفة.",
+        "تشير ليلت إلى المسرح وتنظر ميند إلى الطريق البعيد.",
+        "توضع علامات البلدات الثلاث عند الظهر نفسه.",
+        "تفتح ميند كفها وتوقف إجابة تلقائية قبل قولها.",
+        "صفحات الكتاب وأدوات التجليد مرتبة على طاولة القاعة.",
+        "تخيط ميند الكتاب بعناية وهو مدعوم على الطاولة."
+      ],
+      "captions": [
+        "بعد ليلة نوم كاملة، استيقظت ميند في فيلا. ظلت الأشرطة موجودة. لم تكن الاستراحة إخلالًا بوعد.",
+        "بعد الفطور، أخذتهم ليلت إلى الشرفة. كان المسرح الخارجي أعرض من ورشة ميند كلها.",
+        "سألت ليلت: «ستأتين ظهر اليوم الخامس، صحيح؟» نظرت ميند إلى طريق لوما وشعرت بشد شريط آخر.",
+        "فتحوا التقويم. فيلا ونيري ولوما كلها تحتاج إلى ميند ظهر اليوم الخامس. لم يضعوا المواعيد معًا للمقارنة من قبل.",
+        "كادت ميند تقول: «سأجد حلًا». لكنها توقفت: «لحظة. علينا التحقق أولًا».",
+        "داخل القاعة، كان كتاب هاش ينتظر. موعده ظهر اليوم. اختارت ميند تجليده قبل مناقشة العمل التالي.",
+        "بدأت تخيط التجليد، ثقبًا بعد ثقب. لبعض الوقت، كانت يداها وأفكارها تعمل في الشيء نفسه."
+      ],
+      "introduction": "في فيلا، تكتشف ميند تضارب المواعيد وتختار تجليد الكتاب أولًا.",
+      "title": "تحت سماء بلا مظلة"
+    },
+    "bn": {
+      "altTexts": [
+        "মেন্ড জাগছে; সাত আলগা ফিতা শোবার জায়গার পাশে।",
+        "চার চরিত্র চওড়া চত্বরে দাঁড়িয়ে; হলুদ ছাউনি গোটানো।",
+        "লিল্ট মঞ্চ দেখাচ্ছে; মেন্ড দূরের পথ দেখছে।",
+        "তিন শহরের চিহ্ন একই দুপুরে রাখা আছে।",
+        "মেন্ড খোলা হাত তুলে তৎক্ষণাৎ হ্যাঁ বলা থামাচ্ছে।",
+        "মিলনায়তনের টেবিলে পাতা আর বাঁধাইয়ের যন্ত্র সাজানো।",
+        "মেন্ড টেবিলে ভর দেওয়া বই মন দিয়ে সেলাই করছে।"
+      ],
+      "captions": [
+        "সারা রাত বিশ্রামের পরে মেন্ড ভেলায় জাগল। ফিতাগুলো আছে। বিশ্রাম নিলে প্রতিশ্রুতি ভাঙে না।",
+        "সকালের খাবারের পরে লিল্ট তাদের খোলা চত্বরে নিল। বাইরের মঞ্চ মেন্ডের পুরো কর্মশালার চেয়েও চওড়া।",
+        "“পঞ্চম দিনের দুপুরে আসবে তো?” লিল্ট বলল। মেন্ড লুমার পথের দিকে তাকিয়ে অন্য ফিতার টান টের পেল।",
+        "ক্যালেন্ডার খুলে দেখা গেল, ভেলা, নেরি আর লুমা—সবখানে পঞ্চম দিনের দুপুরে মেন্ডকে দরকার। আগে সময়গুলো পাশাপাশি দেখা হয়নি।",
+        "মেন্ড বলতে যাচ্ছিল, “একটা উপায় করব।” তারপর থামল। “দাঁড়াও। আগে মিলিয়ে দেখি।”",
+        "ভেতরে হাশের বই অপেক্ষা করছিল। আজ দুপুরের মধ্যেই সেটি দিতে হবে। পরের কাজ নিয়ে কথা বলার আগে মেন্ড বইটি বাঁধাই করার সিদ্ধান্ত নিল।",
+        "এক ছিদ্র থেকে আরেক ছিদ্রে মেন্ড বই সেলাই করল। কিছুক্ষণের জন্য তার হাত আর মন একই কাজ করছিল।"
+      ],
+      "introduction": "ভেলায় সময়ের সংঘাত ধরা পড়ে, মেন্ড আগে বই বাঁধাই করে।",
+      "title": "এখনও ছাউনি নেই যে আকাশে"
+    },
+    "cs": {
+      "altTexts": [
+        "Odpočatá Mend sedí vedle složené deky a sedmi stuh.",
+        "Přátelé prohlížejí nezakryté pódium a svinutou žlutou plachtu.",
+        "Mend se od rámu plachty dívá ke vzdálenému městečku Luma.",
+        "V jednom poledním políčku leží tři značky schůzek.",
+        "Mend před odpovědí zvedá otevřenou dlaň.",
+        "Mend začíná vázat modrou knihu na stole v sále.",
+        "Mend protahuje jeden vazební steh hřbetem knihy."
+      ],
+      "captions": [
+        "Po celé noci odpočinku se Mend probudila v městečku Vela. Stuhy zůstaly. Odpočinek sliby neporušil; pomohl jí přemýšlet.",
+        "Po snídani je Lilt zavedla na terasu. Plánovaná plachta měla zakrýt pódium širší než celá Mendina dílna.",
+        "„Potřebuji tě tady, až ji pátého dne v poledne zvedneme,“ řekla Lilt. Mend hleděla ke vzdálenému městečku Luma.",
+        "Tavi rozložil kalendář. Ve stejném poledni byl oblouk v městečku Luma i lodní stříška v Neri. Pozvání nikdo neporovnal.",
+        "Mend málem řekla: „Nějak to zařídím.“ Místo toho požádala Lilt, aby počkala, než prověří celý plán.",
+        "Vrátili se dovnitř. Hushova kniha měla být hotová dnes v poledne. Mend začala jednoduchou vazbu místo dalšího obrovského řešení.",
+        "Steh za stehem se volné stránky měnily v knihu. Mendiny ruce konečně pracovaly na tom, co si vybrala i její mysl."
+      ],
+      "introduction": "Obrovská plachta v městečku Vela odhalí neslučitelné termíny.",
+      "title": "Pod nedokončeným nebem"
+    },
+    "de": {
+      "altTexts": [
+        "Die ausgeruhte Mend sitzt neben ihrer gefalteten Decke und sieben Bändern.",
+        "Die Freunde prüfen eine unbedeckte Bühne und aufgerollten gelben Stoff.",
+        "Mend schaut vom Dachrahmen zu Luma in der Ferne.",
+        "Drei Terminplättchen liegen auf demselben Mittagskästchen.",
+        "Mend hebt eine offene Hand, bevor sie Lilt antwortet.",
+        "Mend beginnt, das blaue Wegebuch an einem Tisch im Saal zu binden.",
+        "Mend zieht einen einzelnen Bindestich durch den blauen Buchrücken."
+      ],
+      "captions": [
+        "Nach einer ganzen Nacht Schlaf wachte Mend in Vela auf. Die Bänder blieben. Ruhe hatte kein Versprechen gebrochen, sondern ihr beim Denken geholfen.",
+        "Nach dem Frühstück führte Lilt sie auf die Terrasse. Ihr geplantes Dach sollte eine Bühne bedecken, die breiter als Mends ganze Werkstatt war.",
+        "„Ich brauche dich hier, wenn wir es am fünften Tag um zwölf aufrichten“, sagte Lilt. Mend blickte zum fernen Luma.",
+        "Tavi entfaltete den Kalender. Lumas Bogen stand zur selben Mittagszeit darin. Neris Fährdach ebenfalls. Niemand hatte die Einladungen verglichen.",
+        "Beinahe sagte Mend: „Ich finde einen Weg.“ Stattdessen bat sie Lilt zu warten, bis sie den gesamten Plan geprüft hatten.",
+        "Sie gingen hinein. Hushs Buch war heute um zwölf fällig. Mend begann mit der einfachen Bindung, statt eine weitere riesige Lösung zu erfinden.",
+        "Stich für Stich wurden die losen Seiten zu einem Buch. Endlich arbeiteten Mends Hände an derselben Sache, für die sie sich entschieden hatte."
+      ],
+      "introduction": "Velas riesiges Sonnendach macht die unvereinbaren Termine sichtbar.",
+      "title": "Unter dem offenen Himmel"
+    },
+    "en": {
+      "altTexts": [
+        "Rested Mend sits beside her folded travel blanket and seven ribbons.",
+        "The friends inspect an uncovered terrace stage and rolled yellow canvas.",
+        "Mend looks from Lilt’s awning frame toward distant Luma.",
+        "Three appointment tokens occupy one noon square on Tavi’s calendar.",
+        "Mend raises an open hand before answering Lilt.",
+        "Mend begins binding Hush’s blue route book on a hall table.",
+        "Mend pulls one binding stitch through the blue book’s spine."
+      ],
+      "captions": [
+        "After a full night's rest, Mend woke in Vela. The ribbons remained. Rest had not broken a promise; it had helped her think.",
+        "After breakfast, Lilt led them onto the terrace. Her planned awning would cover a stage wider than Mend's whole workshop.",
+        "“I need you here when we raise it at noon on the fifth day,” Lilt said. Mend stared toward distant Luma.",
+        "Tavi unfolded the calendar. Luma's arch occupied that same noon. So did Neri's ferry awning. Nobody had compared the invitations.",
+        "Mend almost said, “I will find a way.” Instead, she asked Lilt to wait while they checked the whole plan.",
+        "They returned inside. Hush's book was due at noon today, so Mend began its simple binding instead of inventing another enormous solution.",
+        "Stitch by stitch, the loose pages became a book. For once, Mend's hands worked on the same thing her mind had chosen."
+      ],
+      "introduction": "Vela’s enormous awning makes Mend’s conflicting appointments impossible to ignore.",
+      "title": "Under the Unfinished Sky"
+    },
+    "es": {
+      "altTexts": [
+        "Mend descansa junto a su manta doblada y siete cintas.",
+        "Los amigos examinan un escenario descubierto y lona amarilla enrollada.",
+        "Mend mira desde la estructura de Lilt hacia Luma a lo lejos.",
+        "Tres fichas de citas ocupan una sola casilla de mediodía.",
+        "Mend levanta una mano abierta antes de responder a Lilt.",
+        "Mend empieza a encuadernar el libro azul en una mesa del salón.",
+        "Mend pasa una puntada por el lomo del libro azul."
+      ],
+      "captions": [
+        "Tras dormir toda la noche, Mend despertó en Vela. Las cintas seguían allí. Descansar no había roto una promesa; la había ayudado a pensar.",
+        "Después de desayunar, Lilt los llevó a la terraza. El toldo previsto cubriría un escenario más ancho que todo el taller de Mend.",
+        "«Te necesito aquí cuando lo levantemos al mediodía del quinto día», dijo Lilt. Mend miró hacia la lejana Luma.",
+        "Tavi desplegó el calendario. El arco de Luma ocupaba ese mismo mediodía. También el toldo de Neri. Nadie había comparado las invitaciones.",
+        "Mend casi dijo: «Encontraré la manera». En cambio, pidió a Lilt que esperara mientras revisaban el plan completo.",
+        "Volvieron dentro. El libro de Hush debía estar listo hoy al mediodía, así que Mend empezó la encuadernación sencilla en vez de inventar otra solución enorme.",
+        "Puntada a puntada, las hojas sueltas se convirtieron en un libro. Por una vez, las manos de Mend trabajaban en lo que había elegido su mente."
+      ],
+      "introduction": "El enorme toldo de Vela deja al descubierto las citas incompatibles.",
+      "title": "Bajo el cielo sin cubrir"
+    },
+    "fr": {
+      "altTexts": [
+        "Mend reposée est assise près de sa couverture pliée et de sept rubans.",
+        "Les amis examinent une scène découverte et une toile jaune roulée.",
+        "Mend regarde depuis la structure de l’auvent vers Luma au loin.",
+        "Trois jetons de rendez-vous occupent une seule case de midi.",
+        "Mend lève une main ouverte avant de répondre à Lilt.",
+        "Mend commence à relier le guide bleu sur une table de la salle.",
+        "Mend passe un point de reliure dans le dos du guide bleu."
+      ],
+      "captions": [
+        "Après une nuit entière de repos, Mend se réveilla à Vela. Les rubans étaient toujours là. Se reposer n’avait rompu aucune promesse ; cela l’aidait à réfléchir.",
+        "Après le petit-déjeuner, Lilt les mena sur la terrasse. Son auvent devait couvrir une scène plus large que tout l’atelier de Mend.",
+        "« J’ai besoin de toi ici pour le dresser à midi le cinquième jour », dit Lilt. Mend fixa Luma, au loin.",
+        "Tavi déplia le calendrier. L’arche de Luma occupait le même midi. L’auvent de Neri aussi. Personne n’avait comparé les invitations.",
+        "Mend faillit dire : « Je trouverai une solution. » Elle demanda plutôt à Lilt d’attendre pendant qu’ils vérifiaient tout le programme.",
+        "Ils rentrèrent. Le guide de Hush devait être prêt aujourd’hui à midi. Mend commença sa simple reliure au lieu d’inventer une autre solution démesurée.",
+        "Point après point, les feuilles détachées devinrent un livre. Pour une fois, les mains de Mend travaillaient sur ce que son esprit avait choisi."
+      ],
+      "introduction": "Le grand auvent de Vela révèle des rendez-vous incompatibles.",
+      "title": "Sous le ciel découvert"
+    },
+    "hi": {
+      "altTexts": [
+        "मेंड जागती है; सात ढीले रिबन उसके बिस्तर के पास हैं।",
+        "चार पात्र चौड़े बरामदे में हैं; पीला छाजन लपेटा हुआ है।",
+        "लिल्ट मंच दिखाती है, मेंड दूर की सड़क देखती है।",
+        "तीन कस्बों के निशान एक ही दोपहर पर हैं।",
+        "मेंड खुली हथेली के साथ अपनी तुरंत निकलती हामी रोकती है।",
+        "सभागार की मेज़ पर पन्ने और किताब बाँधने के औज़ार हैं।",
+        "मेंड मेज़ पर टिकाई किताब को ध्यान से सिलती है।"
+      ],
+      "captions": [
+        "पूरी रात आराम के बाद मेंड वेला में जागी। रिबन बने रहे। आराम करने से कोई वादा नहीं टूटा था।",
+        "नाश्ते के बाद लिल्ट उन्हें खुले बरामदे में ले गई। बाहरी मंच मेंड की पूरी कार्यशाला से भी चौड़ा था।",
+        "“पाँचवें दिन दोपहर में आओगी न?” लिल्ट ने पूछा। मेंड ने लूमा की ओर जाती सड़क देखी और दूसरे रिबन का खिंचाव महसूस किया।",
+        "कैलेंडर खोलने पर पता चला: वेला, नेरी और लूमा, तीनों जगह पाँचवें दिन दोपहर को मेंड चाहिए थी। उन्होंने पहले इन समयों को साथ रखकर नहीं देखा था।",
+        "मेंड कहने ही वाली थी, “कोई रास्ता निकाल लूँगी।” फिर रुक गई। “ठहरो। पहले जाँचते हैं।”",
+        "अंदर हश की किताब इंतज़ार कर रही थी। उसे आज दोपहर तक देना था। मेंड ने आगे की बात से पहले किताब बाँधने का निर्णय लिया।",
+        "वह एक छेद से दूसरे छेद तक किताब सीने लगी। कुछ देर उसके हाथ और मन एक ही काम में लगे थे।"
+      ],
+      "introduction": "वेला में समय का टकराव दिखता है और मेंड पहले किताब पूरी करती है।",
+      "title": "बिना छाजन वाले आसमान के नीचे"
+    },
+    "id": {
+      "altTexts": [
+        "Mend bangun dengan tujuh pita longgar di dekat tempat tidurnya.",
+        "Empat tokoh berdiri di teras dekat tudung kuning yang tergulung.",
+        "Mend menoleh ke jalan jauh sementara Lilt menunjuk panggung.",
+        "Tiga penanda kota bertumpuk pada satu waktu di kalender.",
+        "Mend menahan jawaban otomatis dengan tangan terbuka.",
+        "Buku terbuka di meja gedung; alat penjilidan tersusun rapi.",
+        "Mend menjahit satu jilidan dengan dukungan meja yang stabil."
+      ],
+      "captions": [
+        "Setelah tidur semalaman, Mend bangun di Vela. Semua pita masih ada. Beristirahat tidak melanggar janji.",
+        "Sesudah sarapan, Lilt membawa mereka ke teras. Panggung luar ruangannya lebih lebar daripada seluruh bengkel Mend.",
+        "“Kau datang tengah hari kelima, bukan?” tanya Lilt. Mend memandang jalan kembali ke Luma dan merasakan tarikan lain.",
+        "Mereka membuka kalender. Vela, Neri, dan Luma sama-sama membutuhkan Mend pada tengah hari kelima. Belum pernah mereka membandingkannya.",
+        "Mend hampir berkata, “Pasti ada cara.” Namun, ia berhenti. “Tunggu. Kita perlu memeriksanya dulu.”",
+        "Di dalam gedung, buku Hush menunggu. Tenggatnya tengah hari ini. Mend memilih menjilidnya sebelum membahas pekerjaan berikutnya.",
+        "Ia mulai menjahit jilidan, satu lubang demi satu lubang. Untuk sementara, tangan dan pikirannya mengerjakan hal yang sama."
+      ],
+      "introduction": "Di Vela, Mend menemukan benturan jadwal dan memilih menjilid buku terlebih dahulu.",
+      "title": "Di Bawah Langit yang Belum Terlindung"
+    },
+    "it": {
+      "altTexts": [
+        "Mend riposata siede vicino alla coperta piegata e a sette nastri.",
+        "Gli amici esaminano un palco scoperto e tela gialla arrotolata.",
+        "Mend guarda dal telaio di Lilt verso Luma in lontananza.",
+        "Tre gettoni di appuntamenti occupano la stessa casella di mezzogiorno.",
+        "Mend alza una mano aperta prima di rispondere a Lilt.",
+        "Mend comincia a rilegare il libro blu su un tavolo della sala.",
+        "Mend tira un punto di rilegatura attraverso il dorso blu."
+      ],
+      "captions": [
+        "Dopo una notte intera di riposo Mend si svegliò a Vela. I nastri erano ancora lì. Riposare non aveva infranto promesse: l’aveva aiutata a pensare.",
+        "Dopo colazione Lilt li condusse sulla terrazza. La copertura prevista avrebbe riparato un palco più largo dell’intero laboratorio di Mend.",
+        "«Mi servi qui quando la alzeremo a mezzogiorno del quinto giorno», disse Lilt. Mend guardò verso Luma, lontana.",
+        "Tavi aprì il calendario. L’arco di Luma occupava lo stesso mezzogiorno. Anche la copertura di Neri. Nessuno aveva confrontato gli inviti.",
+        "Mend stava per dire: «Troverò un modo». Invece chiese a Lilt di aspettare, mentre controllavano il piano completo.",
+        "Rientrarono. Il libro di Hush doveva essere pronto oggi a mezzogiorno. Mend iniziò la semplice rilegatura invece di inventare un’altra soluzione enorme.",
+        "Punto dopo punto, i fogli sciolti diventarono un libro. Per una volta le mani di Mend lavoravano alla stessa cosa scelta dalla sua mente."
+      ],
+      "introduction": "L’enorme copertura di Vela rivela appuntamenti incompatibili.",
+      "title": "Sotto il cielo scoperto"
+    },
+    "ja": {
+      "altTexts": [
+        "七本のリボンが寝床のそばにあるまま、メンドが起きています。",
+        "四人が広いテラスに立ち、黄色い布は巻かれたままです。",
+        "リルトが舞台を指し、メンドが遠くの道を見ています。",
+        "三つの町の印が、同じ正午の位置に置かれています。",
+        "メンドが手を開き、いつもの返事をのみ込んでいます。",
+        "本のページと製本道具が、会館の机に並んでいます。",
+        "メンドが机に支えられた本を丁寧に縫っています。"
+      ],
+      "captions": [
+        "一晩よく休んで、メンドはヴェラで目を覚ましました。リボンは残っています。休んでも、約束を破ったことにはなりませんでした。",
+        "朝食後、リルトはみんなをテラスへ案内しました。屋外の舞台は、メンドの作業場全体より広いものでした。",
+        "「五日目の正午には来るんだよね？」とリルト。メンドはルマへ戻る道を見て、別のリボンの引きを感じました。",
+        "カレンダーを開くと、ヴェラ、ネリ、ルマが、全部五日目の正午でした。今まで、並べて比べていなかったのです。",
+        "メンドは「何とかする」と言いかけて止まりました。「待って。まず確かめよう」",
+        "会館の中では、ハッシュの本が待っていました。期限は今日の正午。メンドは次の話より先に、本をとじることを選びました。",
+        "一つの穴から次の穴へ、メンドは本を縫いとじました。しばらくは、手と考えが同じ一つの仕事をしていました。"
+      ],
+      "introduction": "ヴェラで予定の重なりを知り、メンドは先に本を仕上げます。",
+      "title": "まだ屋根のない空の下で"
+    },
+    "ko": {
+      "altTexts": [
+        "멘드가 일어나고 잠자리 곁에는 일곱 리본이 느슨하게 놓여 있습니다.",
+        "네 인물이 넓은 테라스에 서 있고 노란 차양은 말려 있습니다.",
+        "릴트가 무대를 가리키고 멘드는 멀리 난 길을 봅니다.",
+        "세 마을 표시가 달력의 같은 정오에 놓입니다.",
+        "멘드가 손을 펴며 습관적인 대답을 멈춥니다.",
+        "회관 탁자에 책장과 제본 도구가 가지런히 놓여 있습니다.",
+        "멘드가 탁자에 받친 책을 한 땀씩 꿰맵니다."
+      ],
+      "captions": [
+        "하룻밤 푹 쉰 뒤 멘드는 벨라에서 깨어났습니다. 리본들은 남아 있었습니다. 쉬었다고 약속을 어긴 것은 아니었습니다.",
+        "아침을 먹은 뒤 릴트는 모두를 테라스로 데려갔습니다. 야외 무대는 멘드의 작업실 전체보다 넓었습니다.",
+        "“다섯째 날 정오에 오는 거지?” 릴트가 물었습니다. 멘드는 루마로 돌아가는 길을 보며 다른 리본의 당김을 느꼈습니다.",
+        "달력을 펼쳤습니다. 벨라, 네리, 루마 모두 다섯째 날 정오에 멘드를 기다렸습니다. 여태껏 나란히 비교하지 않았던 것입니다.",
+        "멘드는 “방법을 찾을게”라고 말할 뻔했지만 멈췄습니다. “잠깐. 먼저 확인해 보자.”",
+        "회관 안에서는 허시의 책이 기다렸습니다. 마감은 바로 오늘 정오였습니다. 멘드는 다음 일을 이야기하기 전에 책부터 묶기로 했습니다.",
+        "구멍 하나에서 다음 구멍으로, 멘드는 책을 꿰맸습니다. 잠시나마 손과 생각이 같은 일을 하고 있었습니다."
+      ],
+      "introduction": "벨라에서 약속이 겹친 것을 확인하고 먼저 책을 고칩니다.",
+      "title": "아직 차양이 없는 하늘 아래"
+    },
+    "pl": {
+      "altTexts": [
+        "Wypoczęta Mend siedzi przy złożonym kocu i siedmiu wstążkach.",
+        "Przyjaciele oglądają odkrytą scenę i zwinięte żółte płótno.",
+        "Mend patrzy od stelażu Lilt ku odległemu miasteczku Luma.",
+        "Trzy znaczniki spotkań leżą w jednej południowej kratce.",
+        "Mend unosi otwartą dłoń przed odpowiedzią Lilt.",
+        "Mend zaczyna oprawiać niebieski przewodnik przy stole w sali.",
+        "Mend przeciąga jeden ścieg przez grzbiet niebieskiej książki."
+      ],
+      "captions": [
+        "Po całej nocy odpoczynku Mend obudziła się w miasteczku miasteczku Vela. Wstążki zostały. Odpoczynek nie złamał obietnicy; pomógł jej myśleć.",
+        "Po śniadaniu Lilt zaprowadziła ich na taras. Planowana osłona miała przykrywać scenę szerszą od całego warsztatu Mend.",
+        "„Potrzebuję cię tutaj, gdy podniesiemy dach w południe piątego dnia” — powiedziała Lilt. Mend spojrzała ku odległemu miasteczku miasteczku Luma.",
+        "Tavi otworzył kalendarz. W tym samym południu była brama w miasteczku miasteczku Luma i osłona promu w Neri. Nikt nie porównał zaproszeń.",
+        "Mend prawie powiedziała: „Znajdę sposób”. Zamiast tego poprosiła Lilt, by poczekała, aż sprawdzą cały plan.",
+        "Wrócili do środka. Przewodnik Husha miał być gotowy dziś w południe, więc Mend zaczęła prostą oprawę zamiast wymyślać kolejne wielkie rozwiązanie.",
+        "Ścieg po ściegu luźne kartki zmieniały się w książkę. Wreszcie ręce Mend pracowały nad tym samym, co wybrała jej głowa."
+      ],
+      "introduction": "Wielka osłona sceny ujawnia nakładające się terminy.",
+      "title": "Pod nieosłoniętym niebem"
+    },
+    "pt": {
+      "altTexts": [
+        "Mend descansada está sentada perto da manta dobrada e de sete fitas.",
+        "Os amigos examinam um palco descoberto e uma lona amarela enrolada.",
+        "Mend olha da armação da cobertura para Luma ao longe.",
+        "Três fichas de compromissos ocupam um único quadrado de meio-dia.",
+        "Mend ergue uma mão aberta antes de responder a Lilt.",
+        "Mend começa a encadernar o livro azul numa mesa do salão.",
+        "Mend passa um ponto pela lombada do livro azul."
+      ],
+      "captions": [
+        "Depois de uma noite inteira de descanso, Mend acordou em Vela. As fitas continuavam lá. Descansar não quebrara uma promessa; ajudara Mend a pensar.",
+        "Depois do café da manhã, Lilt os levou ao terraço. A cobertura planejada protegeria um palco mais largo que a oficina inteira de Mend.",
+        "“Preciso de você aqui quando levantarmos a cobertura ao meio-dia do quinto dia”, disse Lilt. Mend olhou para a distante Luma.",
+        "Tavi abriu o calendário. O arco de Luma ocupava aquele mesmo meio-dia. A cobertura de Neri também. Ninguém havia comparado os convites.",
+        "Mend quase disse: “Vou dar um jeito”. Em vez disso, pediu a Lilt que esperasse enquanto conferiam o plano completo.",
+        "Voltaram para dentro. O livro de Hush era para hoje ao meio-dia, então Mend começou a encadernação simples, em vez de inventar outra solução enorme.",
+        "Ponto a ponto, as folhas soltas viraram um livro. Pela primeira vez, as mãos de Mend trabalhavam na mesma coisa que sua mente escolhera."
+      ],
+      "introduction": "A enorme cobertura de Vela revela compromissos incompatíveis.",
+      "title": "Sob o céu descoberto"
+    },
+    "ru": {
+      "altTexts": [
+        "Отдохнувшая Менд сидит возле сложенного одеяла и семи лент.",
+        "Друзья осматривают открытую сцену и свёрнутое жёлтое полотно.",
+        "Менд переводит взгляд с каркаса Лилт на далёкую Луму.",
+        "Три жетона встреч лежат в одной клетке полудня.",
+        "Менд поднимает открытую ладонь, прежде чем ответить Лилт.",
+        "Менд начинает переплетать синюю книгу за столом в зале.",
+        "Менд протягивает один переплётный стежок через корешок книги."
+      ],
+      "captions": [
+        "После целой ночи отдыха Менд проснулась в Веле. Ленты остались. Отдых не нарушил обещаний, а помог ей думать.",
+        "После завтрака Лилт вывела их на террасу. Её навес должен был закрывать сцену шире всей мастерской Менд.",
+        "«Ты нужна здесь, когда мы поднимем его в полдень пятого дня», — сказала Лилт. Менд посмотрела на далёкую Луму.",
+        "Тави раскрыл календарь. Арка в Луме была назначена на тот же полдень. Навес в Нери — тоже. Никто не сравнивал приглашения.",
+        "Менд едва не сказала: «Я что-нибудь придумаю». Вместо этого она попросила Лилт подождать, пока они проверят весь план.",
+        "Они вернулись в зал. Книга Хаша была нужна сегодня к полудню, и Менд начала простой переплёт вместо очередного огромного замысла.",
+        "Стежок за стежком отдельные страницы становились книгой. Впервые руки Менд занимались тем же делом, которое выбрала её голова."
+      ],
+      "introduction": "Огромный навес в Веле выявляет несовместимые встречи.",
+      "title": "Под открытым небом"
+    },
+    "tr": {
+      "altTexts": [
+        "Dinlenmiş Mend katlı battaniyesinin ve yedi kurdelenin yanında oturuyor.",
+        "Arkadaşlar açık sahneyi ve sarılı sarı kumaşı inceliyor.",
+        "Mend tente çerçevesinden uzaktaki Luma’ya bakıyor.",
+        "Üç randevu taşı aynı öğle kutucuğunda duruyor.",
+        "Mend, Lilt’e cevap vermeden açık elini kaldırıyor.",
+        "Mend salon masasındaki mavi yol kitabını ciltlemeye başlıyor.",
+        "Mend mavi kitabın sırtından tek bir cilt dikişi geçiriyor."
+      ],
+      "captions": [
+        "Bütün gece dinlenen Mend, Vela’da uyandı. Kurdeleler duruyordu. Dinlenmek bir sözü bozmamış, düşünmesine yardım etmişti.",
+        "Kahvaltıdan sonra Lilt onları terasa çıkardı. Planlanan tente, Mend’in bütün atölyesinden daha geniş bir sahneyi kaplayacaktı.",
+        "“Beşinci gün öğlen tenteyi kaldırırken burada olmalısın,” dedi Lilt. Mend uzaktaki Luma’ya baktı.",
+        "Tavi takvimi açtı. Luma’nın kemeri de aynı öğle saatindeydi. Neri’nin tentesi de. Davetleri kimse karşılaştırmamıştı.",
+        "Mend neredeyse, “Bir yolunu bulurum,” diyecekti. Bunun yerine Lilt’ten bütün planı kontrol edene kadar beklemesini istedi.",
+        "İçeri döndüler. Hush’ın kitabı bugün öğlene kadar bitmeliydi. Mend başka büyük bir çözüm uydurmak yerine basit cilde başladı.",
+        "İlmek ilmek, dağınık yapraklar bir kitaba dönüştü. Mend’in elleri sonunda zihninin seçtiği işle uğraşıyordu."
+      ],
+      "introduction": "Vela’nın büyük tentesi çakışan randevuları görünür kılar.",
+      "title": "Açık Gökyüzünün Altında"
+    },
+    "vi": {
+      "altTexts": [
+        "Mend tỉnh dậy, bảy dải băng nằm lỏng cạnh chỗ ngủ.",
+        "Bốn nhân vật đứng ở sân hiên, tấm che vàng còn cuộn.",
+        "Lilt chỉ sân khấu, Mend nhìn về con đường xa.",
+        "Ba dấu thị trấn nằm tại cùng một buổi trưa.",
+        "Mend mở bàn tay, dừng lời nhận ngay theo thói quen.",
+        "Trang sách và dụng cụ đóng sách được xếp trên bàn hội trường.",
+        "Mend chăm chú khâu sách được đỡ chắc trên bàn."
+      ],
+      "captions": [
+        "Sau một đêm ngủ đủ, Mend thức dậy ở Vela. Ruy băng vẫn còn. Nghỉ ngơi không có nghĩa là thất hứa.",
+        "Ăn sáng xong, Lilt đưa họ ra sân hiên. Sân khấu ngoài trời rộng hơn cả xưởng của Mend.",
+        "“Trưa ngày thứ năm cậu đến chứ?” Lilt hỏi. Mend nhìn con đường về Luma và cảm thấy một dải khác đang kéo.",
+        "Họ mở lịch. Vela, Neri và Luma đều cần Mend vào trưa ngày thứ năm. Trước đó, họ chưa từng đặt cạnh nhau để so.",
+        "Mend suýt nói: “Mình sẽ tìm cách.” Nhưng cô dừng lại. “Khoan đã. Mình cần kiểm tra trước.”",
+        "Bên trong hội trường, cuốn sách của Hush đang chờ. Hạn là trưa nay. Mend chọn đóng sách trước khi bàn việc tiếp theo.",
+        "Cô khâu gáy sách, từ lỗ này đến lỗ khác. Trong chốc lát, đôi tay và suy nghĩ cùng làm một việc."
+      ],
+      "introduction": "Ở Vela, Mend thấy lịch hẹn chồng chéo và chọn đóng sách trước.",
+      "title": "Dưới khoảng trời chưa có mái"
+    },
+    "zh": {
+      "altTexts": [
+        "门德醒来，七条松散的丝带垂在睡处旁。",
+        "四个角色站在露台上，黄色雨篷仍卷着。",
+        "莉尔特指着舞台，门德却看向远处道路。",
+        "三座小镇的标记挤在同一个正午。",
+        "门德摊开手，停下脱口而出的保证。",
+        "书页和装订工具整齐放在会堂工作桌上。",
+        "门德专心缝书脊，书页由桌面稳稳支撑。"
+      ],
+      "captions": [
+        "睡足一夜后，门德在维拉醒来。丝带依然在。休息，并没有让她违背承诺。",
+        "吃过早饭，莉尔特带他们来到露台。户外舞台比门德整间修理屋还宽。",
+        "“第五天正午你会来，对吧？”莉尔特问。门德望向回卢马的路，感到了另一股拉力。",
+        "他们打开日历。维拉、内里和卢马，都需要门德在第五天正午到场。以前谁也没有把它们放在一起比较。",
+        "门德差点说：“我会想办法。”可她停住了。“等一等，我们先查清楚。”",
+        "回到室内，哈什的书还在等着。期限就是今天正午。门德决定先把它装订好，再处理下一件事。",
+        "她一孔一孔地缝好书脊。此刻，她的手和心思终于在做同一件事。"
+      ],
+      "introduction": "在维拉，门德发现约定撞了时间，先选择完成哈什的书。",
+      "title": "还没有雨篷的天空"
+    }
+  },
+  "number": 10,
+  "panels": [
+    {
+      "altText": "Rested Mend sits beside her folded travel blanket and seven ribbons.",
+      "image": "N02E10P01.png"
+    },
+    {
+      "altText": "The friends inspect an uncovered terrace stage and rolled yellow canvas.",
+      "image": "N02E10P02.png"
+    },
+    {
+      "altText": "Mend looks from Lilt’s awning frame toward distant Luma.",
+      "image": "N02E10P03.png"
+    },
+    {
+      "altText": "Three appointment tokens occupy one noon square on Tavi’s calendar.",
+      "image": "N02E10P04.png"
+    },
+    {
+      "altText": "Mend raises an open hand before answering Lilt.",
+      "image": "N02E10P05.png"
+    },
+    {
+      "altText": "Mend begins binding Hush’s blue route book on a hall table.",
+      "image": "N02E10P06.png"
+    },
+    {
+      "altText": "Mend pulls one binding stitch through the blue book’s spine.",
+      "image": "N02E10P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

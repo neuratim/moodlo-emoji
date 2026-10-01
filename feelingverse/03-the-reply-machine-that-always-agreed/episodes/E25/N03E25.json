@@ -1,0 +1,439 @@
+{
+  "id": "N03E25",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يدخل تافي الورشة حاملا سلة صيانة.",
+        "يقارن تافي قائمة مطبوعة بثلاث وحدات ضوء احتياطية.",
+        "تضع نيري التعليمات بجوار الآلة المفصولة عن الإرسال.",
+        "يسلم إيفو تافي رسالة عمل مطوية من لوما.",
+        "يعطي تافي إيفو ردا مكتوبا باليد بجوار الآلة المتوقفة.",
+        "يسحب تافي كرسيا لتجلس لوما في صباح اليوم التالي.",
+        "يجلس تافي ولوما متقابلين عبر طاولة خالية من الفوضى."
+      ],
+      "captions": [
+        "بعد أسبوع، عاد تافي إلى الورشة. صار الممشى يحتاج إلى عناية عادية، لا إعلان ضخم.",
+        "استخدم الآلة لصياغة قائمة مستلزمات مما عده بنفسه. ثم راجع كل سطر بيده وعينيه.",
+        "كانت تعليمات نيري الجديدة بجوارها: مساعدة في الصياغة، لا حكم على الناس. وبقيت وصلة الإرسال في صندوقها.",
+        "لاحقا، أرسلت لوما رسالة عمل عبر إيفو. أرادت تغيير موعد لقائهما التالي. شعر تافي بوخزة مألوفة.",
+        "لم يدخل ذلك الشعور في الآلة. سأل لوما عبر إيفو عن الأوقات التي تناسبها.",
+        "اتفقا على صباح اليوم التالي. وعندما جاءت لوما في اليوم التالي، سحب تافي كرسيا وانتظر حتى تجلس براحة.",
+        "قال تافي: «قبل أن نبدأ، كيف كان أسبوعك؟» هذه المرة ترك مكانا لجواب لا تستطيع أن تعطيه إلا لوما."
+      ],
+      "introduction": "يبين طلب تغيير موعد لقاء كيف يواصل تافي تطبيق عاداته الجديدة بعد ليلة الافتتاح.",
+      "title": "مسودة، لا حكم"
+    },
+    "bn": {
+      "altTexts": [
+        "টাভি রক্ষণাবেক্ষণের ঝুড়ি নিয়ে কর্মশালায় ঢুকছে।",
+        "টাভি ছাপা তালিকা আলো জ্বালানোর তিনটি অতিরিক্ত যন্ত্রাংশের সঙ্গে মিলিয়ে দেখছে।",
+        "নেরি পাঠানোর সংযোগ বিচ্ছিন্ন যন্ত্রের পাশে নির্দেশ রাখছে।",
+        "ইভো টাভিকে লুমার ভাঁজ করা কাজের চিরকুট দিচ্ছে।",
+        "টাভি থেমে থাকা যন্ত্রের পাশে ইভোকে হাতে লেখা উত্তর দিচ্ছে।",
+        "পরদিন সকালে টাভি লুমার বসার জন্য চেয়ার টেনে দিচ্ছে।",
+        "টাভি ও লুমা গোছানো টেবিলের দুই পাশে মুখোমুখি বসে আছে।"
+      ],
+      "captions": [
+        "এক সপ্তাহ পরে টাভি কর্মশালায় ফিরল। লণ্ঠন-পথের এখন বড় ঘোষণা নয়, নিয়মিত যত্ন দরকার।",
+        "নিজে গোনা জিনিসের সংখ্যার ভিত্তিতে সে যন্ত্রকে সরঞ্জামের তালিকার খসড়া করতে দিল। তারপর প্রতিটি লাইন নিজে মিলিয়ে নিল।",
+        "পাশে নেরির বদলানো নির্দেশ ছিল: লেখা তৈরির সহায়ক, মানুষের বিচারক নয়। পাঠানোর সংযোগ এখনও বাক্সেই আছে।",
+        "পরে লুমা ইভোর মাধ্যমে কাজের চিরকুট পাঠাল। পরের বৈঠকের সময় বদলাতে চায়। টাভির চেনা কষ্টটা আবার হলো।",
+        "সে অনুভূতিটা যন্ত্রে ঢোকাল না। ইভোর মাধ্যমে লুমাকে জিজ্ঞেস করল, কোন সময়গুলো তার সুবিধা হবে।",
+        "তারা পরদিন সকাল ঠিক করল। পরদিন লুমা এলে টাভি চেয়ার এগিয়ে দিয়ে তার বসার অপেক্ষা করল।",
+        "টাভি বলল, “শুরু করার আগে বলো, তোমার সপ্তাহ কেমন গেল?” এবার সে এমন উত্তরের জায়গা রাখল, যা শুধু লুমাই দিতে পারে।"
+      ],
+      "introduction": "বৈঠকের সময় বদলানোর অনুরোধ দেখায়, উদ্বোধনের পরেও টাভি কীভাবে নতুন অভ্যাসগুলো কাজে লাগায়।",
+      "title": "খসড়া, বিচারক নয়"
+    },
+    "cs": {
+      "altTexts": [
+        "Tavi vstupuje do dílny s košíkem na údržbu.",
+        "Tavi porovnává vytištěný seznam se třemi náhradními moduly.",
+        "Neri staví pokyny vedle odpojeného stroje.",
+        "Ivo podává Tavimu přeložený pracovní vzkaz od Lumy.",
+        "Tavi dává Ivovi ručně psanou odpověď vedle nečinného stroje.",
+        "Tavi následujícího rána odsouvá Lumě židli.",
+        "Tavi a Luma sedí proti sobě u uklizeného stolu."
+      ],
+      "captions": [
+        "O týden později se Tavi vrátil do dílny. Světelná stezka teď potřebovala běžnou péči, ne velkolepé oznámení.",
+        "Ze skutečně spočítaných zásob si nechal strojem připravit seznam. Pak sám ověřil každý řádek.",
+        "Vedle stroje stály upravené pokyny Neri: pomocník při psaní, ne soudce lidí. Odesílací spojka zůstala v krabičce.",
+        "Později Luma poslala přes Iva pracovní vzkaz: chtěla změnit čas další schůzky. Tavi pocítil známé píchnutí.",
+        "Ten pocit do stroje nevložil. Přes Iva se Lumy zeptal, které časy by jí vyhovovaly.",
+        "Domluvili se na další ráno. Když Luma druhý den přišla, Tavi jí odsunul židli a počkal, až se usadí.",
+        "„Než začneme,“ řekl Tavi, „jak ses tenhle týden měla?“ Tentokrát nechal prostor pro odpověď, kterou mohla dát jen Luma."
+      ],
+      "introduction": "Žádost o změnu času schůzky ukáže, jak Tavi uplatňuje svůj nový přístup i po slavnostním otevření.",
+      "title": "Návrh, ne soudce"
+    },
+    "de": {
+      "altTexts": [
+        "Tavi betritt die Werkstatt mit einem Wartungskorb.",
+        "Tavi vergleicht eine gedruckte Liste mit drei Ersatzleuchtmodulen.",
+        "Neri stellt Hinweise neben die nicht angeschlossene Maschine.",
+        "Ivo gibt Tavi Lumas gefaltete Projektnachricht.",
+        "Tavi gibt Ivo neben der stillstehenden Maschine eine handgeschriebene Antwort.",
+        "Tavi zieht am folgenden Morgen einen Stuhl für Luma hervor.",
+        "Tavi und Luma sitzen sich an einem aufgeräumten Tisch gegenüber."
+      ],
+      "captions": [
+        "Eine Woche später kam Tavi in die Werkstatt zurück. Der Lichterweg brauchte nun gewöhnliche Pflege, keine große Ankündigung.",
+        "Aus selbst gezählten Vorräten ließ er die Maschine eine Materialliste entwerfen. Danach prüfte er jede Zeile persönlich.",
+        "Daneben standen Neris überarbeitete Hinweise: Schreibhilfe, kein Richter über Menschen. Das Versandverbindungsstück blieb in seiner Box.",
+        "Später schickte Luma über Ivo eine Projektnachricht: Sie wollte den nächsten Termin verschieben. Tavi spürte einen vertrauten Stich.",
+        "Er gab dieses Gefühl nicht in die Maschine. Über Ivo fragte er Luma, welche Zeiten ihr passen würden.",
+        "Sie vereinbarten den nächsten Morgen. Als Luma am folgenden Tag kam, zog Tavi einen Stuhl hervor und wartete, bis sie saß.",
+        "„Bevor wir anfangen“, sagte Tavi, „wie war deine Woche?“ Diesmal ließ er Raum für eine Antwort, die nur Luma geben konnte."
+      ],
+      "introduction": "Eine Bitte, den nächsten Termin zu verschieben, zeigt, wie Tavi seine neue Haltung auch nach der Eröffnung im Alltag umsetzt.",
+      "title": "Ein Entwurf, kein Richter"
+    },
+    "en": {
+      "altTexts": [
+        "Tavi enters the workshop with a maintenance basket.",
+        "Tavi compares a printed list with three spare light modules.",
+        "Neri places instructions beside the disconnected machine.",
+        "Ivo hands Tavi Luma’s folded project note.",
+        "Tavi gives Ivo a handwritten reply beside the idle machine.",
+        "Tavi pulls out a chair for Luma the following morning.",
+        "Tavi and Luma face each other across an uncluttered table."
+      ],
+      "captions": [
+        "A week later, Tavi returned to the workshop. The lantern walk now needed ordinary care, not a grand announcement.",
+        "He used the machine to draft a supply list from items he had counted. Then he checked every line himself.",
+        "Neri’s revised instructions stood beside it: drafting help, not a judge of people. The sending connector stayed in its box.",
+        "Later, Luma sent a project note through Ivo: she wanted to change their next meeting time. Tavi felt a familiar pinch.",
+        "He did not feed that feeling into the machine. Through Ivo, he asked Luma which times would work for her.",
+        "They agreed on the following morning. When Luma arrived the next day, Tavi pulled out a chair and waited for her to settle.",
+        "“Before we begin,” Tavi said, “how has your week been?” This time, he left space for an answer only Luma could give."
+      ],
+      "introduction": "A request to change a meeting time shows how Tavi puts his new habits into practice after opening night.",
+      "title": "A Draft, Not a Judge"
+    },
+    "es": {
+      "altTexts": [
+        "Tavi entra al taller con una cesta de mantenimiento.",
+        "Tavi compara una lista impresa con tres módulos de luz de repuesto.",
+        "Neri coloca las instrucciones junto a la máquina desconectada.",
+        "Ivo entrega a Tavi la nota doblada de Luma.",
+        "Tavi entrega a Ivo una respuesta manuscrita junto a la máquina inactiva.",
+        "Tavi aparta una silla para que Luma se siente a la mañana siguiente.",
+        "Tavi y Luma están frente a frente en una mesa despejada."
+      ],
+      "captions": [
+        "Una semana después, Tavi volvió al taller. El sendero necesitaba cuidados cotidianos, no un gran anuncio.",
+        "Usó la máquina para preparar una lista de suministros a partir de lo que había contado. Después revisó personalmente cada línea.",
+        "Al lado estaban las instrucciones revisadas de Neri: ayuda para redactar, no juez de las personas. El conector seguía en su caja.",
+        "Más tarde, Luma envió por Ivo una nota del proyecto: quería cambiar la hora de la próxima reunión. Tavi sintió un pinchazo conocido.",
+        "No introdujo aquel sentimiento en la máquina. A través de Ivo, preguntó a Luma qué horarios le vendrían bien.",
+        "Acordaron la mañana siguiente. Cuando Luma llegó al otro día, Tavi apartó una silla y esperó a que se acomodara.",
+        "«Antes de empezar», dijo Tavi, «¿cómo ha ido tu semana?». Esta vez dejó espacio para una respuesta que solo Luma podía dar."
+      ],
+      "introduction": "Una petición para cambiar la hora de una reunión muestra cómo Tavi pone en práctica sus nuevos hábitos después de la inauguración.",
+      "title": "Un borrador, no un juez"
+    },
+    "fr": {
+      "altTexts": [
+        "Tavi entre dans l’atelier avec un panier d’entretien.",
+        "Tavi compare une liste imprimée à trois modules lumineux de rechange.",
+        "Neri pose les consignes près de la machine déconnectée.",
+        "Ivo remet à Tavi le message de projet plié de Luma.",
+        "Tavi remet une réponse manuscrite à Ivo près de la machine inactive.",
+        "Tavi tire une chaise pour Luma le lendemain matin.",
+        "Tavi et Luma se font face de part et d’autre d’une table dégagée."
+      ],
+      "captions": [
+        "Une semaine plus tard, Tavi revint à l’atelier. Le parcours demandait désormais un entretien ordinaire, pas une grande annonce.",
+        "Il utilisa la machine pour préparer une liste à partir des fournitures qu’il avait comptées. Puis il vérifia lui-même chaque ligne.",
+        "Les nouvelles consignes de Neri étaient posées à côté : aide à la rédaction, pas juge des personnes. Le raccord restait dans sa boîte.",
+        "Plus tard, Luma fit porter un mot par Ivo : elle souhaitait changer l’heure de leur prochain rendez-vous. Tavi sentit une piqûre familière.",
+        "Il ne donna pas ce sentiment à la machine. Par l’intermédiaire d’Ivo, il demanda à Luma quelles heures lui conviendraient.",
+        "Ils choisirent le lendemain matin. Quand Luma arriva le jour suivant, Tavi tira une chaise et attendit qu’elle s’installe.",
+        "« Avant de commencer, comment s’est passée ta semaine ? » demanda Tavi. Cette fois, il laissa la place à une réponse que seule Luma pouvait donner."
+      ],
+      "introduction": "Une demande de changement d’horaire montre comment Tavi met ses nouvelles habitudes en pratique après l’inauguration.",
+      "title": "Un brouillon, pas un juge"
+    },
+    "hi": {
+      "altTexts": [
+        "तावी देखभाल की टोकरी लेकर कार्यशाला में आता है।",
+        "तावी छपी सूची का मिलान तीन अतिरिक्त रोशनी-पुर्जों से कर रहा है।",
+        "नेरी डाक-नली से अलग की गई मशीन के पास निर्देश रख रही है।",
+        "ईवो तावी को लूमा का मुड़ा काम वाला पर्चा दे रहा है।",
+        "तावी रुकी मशीन के पास ईवो को हाथ से लिखा जवाब दे रहा है।",
+        "अगली सुबह तावी लूमा के बैठने के लिए कुर्सी खींच रहा है।",
+        "तावी और लूमा साफ मेज़ के आर-पार एक-दूसरे की ओर बैठे हैं।"
+      ],
+      "captions": [
+        "एक हफ्ते बाद तावी कार्यशाला लौटा। लालटेन रास्ते को अब बड़ी घोषणा नहीं, रोज की देखभाल चाहिए थी।",
+        "उसने खुद गिने सामान की संख्या के आधार पर मशीन से सूची का मसौदा बनवाया। फिर हर पंक्ति खुद जाँची।",
+        "पास नेरी के बदले निर्देश थे: लिखने में मदद, लोगों का फैसला नहीं। भेजने वाला जोड़ अब भी डिब्बे में था।",
+        "बाद में लूमा ने ईवो के जरिए काम का पर्चा भेजा। वह अगली मुलाकात का समय बदलना चाहती थी। तावी को वही पुरानी चुभन हुई।",
+        "उसने उस भाव को मशीन में नहीं डाला। ईवो के जरिए लूमा से पूछा कि उसके लिए कौन-से समय ठीक होंगे।",
+        "उन्होंने अगली सुबह तय की। अगले दिन लूमा आई तो तावी ने कुर्सी खींची और उसके आराम से बैठने का इंतज़ार किया।",
+        "तावी बोला, “शुरू करने से पहले बताओ, तुम्हारा हफ्ता कैसा रहा?” इस बार उसने उस जवाब के लिए जगह छोड़ी जो केवल लूमा दे सकती थी।"
+      ],
+      "introduction": "मुलाकात का समय बदलने का अनुरोध दिखाता है कि उद्घाटन के बाद भी तावी अपनी नई आदतें कैसे अपनाता है।",
+      "title": "मसौदा, फैसला नहीं"
+    },
+    "id": {
+      "altTexts": [
+        "Tavi masuk ke bengkel membawa keranjang perawatan.",
+        "Tavi membandingkan daftar cetak dengan tiga modul lampu cadangan.",
+        "Neri meletakkan petunjuk di samping mesin yang tidak tersambung.",
+        "Ivo memberikan pesan proyek terlipat dari Luma kepada Tavi.",
+        "Tavi memberikan balasan tulisan tangan kepada Ivo di dekat mesin diam.",
+        "Tavi menarik kursi agar Luma bisa duduk keesokan paginya.",
+        "Tavi dan Luma duduk berhadapan di meja yang rapi."
+      ],
+      "captions": [
+        "Seminggu kemudian, Tavi kembali ke bengkel. Jalur lentera kini membutuhkan perawatan biasa, bukan pengumuman besar.",
+        "Ia memakai mesin untuk menyusun daftar persediaan berdasarkan barang yang telah dihitungnya. Setelah itu, ia memeriksa setiap baris sendiri.",
+        "Petunjuk baru Neri terletak di sampingnya: bantuan menulis, bukan hakim bagi orang lain. Konektor pengiriman tetap di dalam kotaknya.",
+        "Kemudian Luma menitipkan pesan proyek melalui Ivo: ia ingin mengubah waktu pertemuan berikutnya. Tavi merasakan perih yang sudah dikenalnya.",
+        "Ia tidak memasukkan perasaan itu ke mesin. Melalui Ivo, ia bertanya kepada Luma waktu mana yang cocok.",
+        "Mereka sepakat bertemu esok pagi. Ketika Luma datang keesokan harinya, Tavi menarik kursi dan menunggu sampai ia duduk nyaman.",
+        "“Sebelum mulai,” kata Tavi, “bagaimana kabarmu selama minggu ini?” Kali ini ia memberi ruang bagi jawaban yang hanya bisa diberikan Luma."
+      ],
+      "introduction": "Permintaan untuk mengubah waktu pertemuan menunjukkan bagaimana Tavi menerapkan kebiasaan barunya setelah malam pembukaan.",
+      "title": "Draf, Bukan Hakim"
+    },
+    "it": {
+      "altTexts": [
+        "Tavi entra in laboratorio con un cesto per la manutenzione.",
+        "Tavi confronta un elenco stampato con tre moduli luminosi di ricambio.",
+        "Neri posa le istruzioni accanto alla macchina scollegata.",
+        "Ivo porge a Tavi il biglietto piegato di Luma.",
+        "Tavi consegna a Ivo una risposta scritta a mano accanto alla macchina inattiva.",
+        "Tavi scosta una sedia per Luma la mattina seguente.",
+        "Tavi e Luma siedono uno di fronte all’altra a un tavolo sgombro."
+      ],
+      "captions": [
+        "Una settimana dopo, Tavi tornò in laboratorio. Il percorso richiedeva cure ordinarie, non un grande annuncio.",
+        "Usò la macchina per preparare un elenco a partire dalle scorte che aveva contato. Poi controllò personalmente ogni riga.",
+        "Accanto c’erano le istruzioni aggiornate di Neri: aiuto nella scrittura, non giudice delle persone. Il raccordo di spedizione rimase nella scatola.",
+        "Più tardi Luma mandò tramite Ivo un biglietto sul progetto: voleva cambiare l’ora del prossimo incontro. Tavi sentì una fitta familiare.",
+        "Non inserì quella sensazione nella macchina. Attraverso Ivo chiese a Luma quali orari le andassero bene.",
+        "Si accordarono per la mattina seguente. Quando Luma arrivò il giorno dopo, Tavi scostò una sedia e aspettò che si sistemasse.",
+        "«Prima di cominciare», disse Tavi, «come è andata la tua settimana?» Stavolta lasciò spazio a una risposta che soltanto Luma poteva dare."
+      ],
+      "introduction": "Una richiesta di cambiare l’orario di un incontro mostra come Tavi metta in pratica le sue nuove abitudini anche dopo l’inaugurazione.",
+      "title": "Una bozza, non un giudice"
+    },
+    "ja": {
+      "altTexts": [
+        "タヴィが手入れ用のかごを持って作業場へ入っています。",
+        "タヴィが印刷した一覧を、三つの予備の点灯部品と比べています。",
+        "ネリが、送信を切った機械のそばに説明書を置いています。",
+        "イヴォがタヴィに、ルマの折った作業メモを渡しています。",
+        "タヴィが止まった機械のそばでイヴォに手書きの返事を渡しています。",
+        "翌朝、タヴィがルマの座る椅子を引いています。",
+        "タヴィとルマが片付いた机を挟んで向き合っています。"
+      ],
+      "captions": [
+        "一週間後、タヴィは作業場へ戻りました。灯りの散歩道に必要なのは、大発表でなく日々の手入れです。",
+        "自分で数えた品物をもとに、機械へ備品表の下書きを頼みました。その後、一行ずつ自分で確かめました。",
+        "隣にはネリの新しい説明書。文章作りの助けであって、人を裁くものではありません。送信用の接続具は箱の中です。",
+        "その後、ルマからイヴォ経由で作業の連絡が来ました。次の打ち合わせの時刻を変えたいとのこと。タヴィは胸がちくりとしました。",
+        "タヴィはその気持ちを機械へ入れませんでした。イヴォを通じて、ルマの都合のよい時刻を尋ねました。",
+        "翌朝に会うと決まりました。次の日ルマが来ると、タヴィは椅子を引き、落ち着いて座るのを待ちました。",
+        "「始める前に、今週はどうだった？」。今度はタヴィも待ちました。ルマにしか話せない答えのために。"
+      ],
+      "introduction": "打ち合わせの時刻を変えてほしいという連絡に、タヴィは公開の夜の後も続けている新しい習慣で向き合います。",
+      "title": "下書き役であって、裁く役ではない"
+    },
+    "ko": {
+      "altTexts": [
+        "타비가 관리용 바구니를 들고 작업실에 들어와요.",
+        "타비가 인쇄된 목록을 예비 조명 부품 세 개와 비교해요.",
+        "네리가 우편관과 분리된 기계 옆에 안내문을 놓아요.",
+        "이보가 루마의 접힌 작업 쪽지를 타비에게 건네요.",
+        "타비가 멈춘 기계 옆에서 이보에게 손으로 쓴 답장을 줘요.",
+        "다음 날 아침 타비가 루마가 앉을 수 있도록 의자를 빼 줘요.",
+        "타비와 루마가 정돈된 탁자를 사이에 두고 마주 보고 있어요."
+      ],
+      "captions": [
+        "일주일 뒤 타비는 작업실로 돌아왔어요. 이제 등불 산책길에는 거창한 공지보다 평소의 돌봄이 필요했어요.",
+        "타비는 직접 센 물품의 수량을 바탕으로 기계에 준비물 목록 초안을 쓰게 했어요. 그런 다음 모든 줄을 직접 확인했어요.",
+        "옆에는 네리가 고친 안내문이 있었어요. 글쓰기를 돕되 사람을 판단하지 않는다는 내용이었어요. 발송 연결 부품은 상자에 그대로 있었어요.",
+        "나중에 루마가 이보를 통해 작업 쪽지를 보냈어요. 다음 회의 시간을 바꾸고 싶다는 말에 타비는 익숙한 서운함을 느꼈어요.",
+        "타비는 그 마음을 기계에 넣지 않았어요. 이보를 통해 루마에게 어느 시간이 편한지 물었어요.",
+        "둘은 다음 날 아침으로 정했어요. 이튿날 루마가 오자 타비는 의자를 빼 주고 편히 앉기를 기다렸어요.",
+        "“시작하기 전에, 이번 주는 어땠어?” 이번에는 타비가 루마만 할 수 있는 대답을 위한 자리를 남겨 두었어요."
+      ],
+      "introduction": "회의 시간을 바꿔 달라는 요청을 통해, 타비가 개장 뒤에도 새로운 습관을 어떻게 실천하는지 알 수 있습니다.",
+      "title": "초안 도우미, 판단자는 아니야"
+    },
+    "pl": {
+      "altTexts": [
+        "Tavi wchodzi do warsztatu z koszykiem do prac konserwacyjnych.",
+        "Tavi porównuje wydrukowaną listę z trzema zapasowymi modułami światła.",
+        "Neri stawia instrukcję obok odłączonej maszyny.",
+        "Ivo podaje Taviemu złożoną wiadomość od Lumy.",
+        "Tavi daje Ivowi odręczną odpowiedź obok nieczynnej maszyny.",
+        "Następnego ranka Tavi odsuwa krzesło, żeby Luma mogła usiąść.",
+        "Tavi i Luma siedzą naprzeciw siebie przy uporządkowanym stole."
+      ],
+      "captions": [
+        "Tydzień później Tavi wrócił do warsztatu. Ścieżka wymagała zwykłej opieki, nie wielkiego ogłoszenia.",
+        "Użył maszyny do szkicu listy materiałów na podstawie własnych obliczeń. Potem sam sprawdził każdy wiersz.",
+        "Obok stała poprawiona instrukcja Neri: pomoc w pisaniu, nie osądzaniu ludzi. Złącze wysyłkowe pozostało w pudełku.",
+        "Później Luma przesłała przez Iva wiadomość o projekcie: chciała zmienić porę następnego spotkania. Tavi poczuł znajome ukłucie.",
+        "Nie włożył tego uczucia do maszyny. Przez Iva zapytał Lumę, jakie godziny jej odpowiadają.",
+        "Ustalili następny poranek. Gdy Luma przyszła kolejnego dnia, Tavi odsunął krzesło i zaczekał, aż usiądzie.",
+        "„Zanim zaczniemy”, powiedział Tavi, „jak minął ci tydzień?” Tym razem zostawił miejsce na odpowiedź, której mogła udzielić tylko Luma."
+      ],
+      "introduction": "Prośba o zmianę pory spotkania pokazuje, jak Tavi stosuje nowe nawyki również po otwarciu ścieżki.",
+      "title": "Szkic, nie sędzia"
+    },
+    "pt": {
+      "altTexts": [
+        "Tavi entra na oficina com uma cesta de manutenção.",
+        "Tavi compara uma lista impressa com três módulos de luz de reserva.",
+        "Neri coloca instruções perto da máquina desconectada.",
+        "Ivo entrega a Tavi o bilhete dobrado de Luma.",
+        "Tavi dá a Ivo uma resposta manuscrita perto da máquina inativa.",
+        "Tavi puxa uma cadeira para Luma se sentar na manhã seguinte.",
+        "Tavi e Luma estão frente a frente em uma mesa desimpedida."
+      ],
+      "captions": [
+        "Uma semana depois, Tavi voltou à oficina. A trilha precisava de cuidados comuns, não de um grande anúncio.",
+        "Usou a máquina para preparar uma lista de suprimentos a partir do que havia contado. Depois conferiu cada linha por conta própria.",
+        "Ao lado estavam as instruções revisadas de Neri: ajuda para escrever, não para julgar pessoas. O conector de envio continuava na caixa.",
+        "Mais tarde, Luma enviou por Ivo um bilhete do projeto: queria mudar o horário do próximo encontro. Tavi sentiu uma pontada conhecida.",
+        "Ele não colocou aquele sentimento na máquina. Por meio de Ivo, perguntou a Luma quais horários funcionariam para ela.",
+        "Combinaram a manhã seguinte. Quando Luma chegou no outro dia, Tavi puxou uma cadeira e esperou que ela se acomodasse.",
+        "“Antes de começarmos”, disse Tavi, “como foi sua semana?” Dessa vez, deixou espaço para uma resposta que só Luma poderia dar."
+      ],
+      "introduction": "Um pedido para mudar o horário de um encontro mostra como Tavi põe seus novos hábitos em prática depois da inauguração.",
+      "title": "Um rascunho, não um juiz"
+    },
+    "ru": {
+      "altTexts": [
+        "Тави входит в мастерскую с корзиной для обслуживания.",
+        "Тави сравнивает печатный список с тремя запасными световыми модулями.",
+        "Нери ставит инструкцию рядом с отключённой от отправки машиной.",
+        "Иво передаёт Тави сложенную рабочую записку Лумы.",
+        "Тави передаёт Иво рукописный ответ возле бездействующей машины.",
+        "На следующее утро Тави отодвигает стул, чтобы Лума могла сесть.",
+        "Тави и Лума смотрят друг на друга через свободный стол."
+      ],
+      "captions": [
+        "Неделю спустя Тави вернулся в мастерскую. Фонарная дорожка теперь нуждалась в обычном уходе, а не в громком объявлении.",
+        "Он поручил машине составить список припасов по собственному подсчёту. Затем сам проверил каждую строку.",
+        "Рядом стояла новая инструкция Нери: помощь с черновиками, не судья людям. Соединитель отправки оставался в коробке.",
+        "Позже Лума передала через Иво рабочую записку: она хотела изменить время следующей встречи. Тави почувствовал знакомый укол.",
+        "Он не отправил это чувство в машину. Через Иво он спросил Луму, какое время ей удобно.",
+        "Они договорились на следующее утро. Когда на другой день пришла Лума, Тави отодвинул стул и подождал, пока она сядет.",
+        "«Прежде чем начнём, — сказал Тави, — как прошла твоя неделя?» Теперь он оставил место для ответа, который могла дать только Лума."
+      ],
+      "introduction": "Просьба перенести встречу показывает, как Тави применяет новые привычки и после открытия прогулочной дорожки.",
+      "title": "Черновик, а не судья"
+    },
+    "tr": {
+      "altTexts": [
+        "Tavi, bakım sepetiyle atölyeye giriyor.",
+        "Tavi, basılı listeyi üç yedek ışık modülüyle karşılaştırıyor.",
+        "Neri, bağlantısı kesilmiş makinenin yanına yönergeleri koyuyor.",
+        "Ivo, Luma’nın katlanmış proje notunu Tavi’ye veriyor.",
+        "Tavi, sessiz makinenin yanında Ivo’ya el yazısı bir yanıt veriyor.",
+        "Tavi, ertesi sabah Luma’nın oturması için bir sandalye çekiyor.",
+        "Tavi ile Luma, düzenli bir masada karşılıklı oturuyor."
+      ],
+      "captions": [
+        "Bir hafta sonra Tavi atölyeye döndü. Fener yolu artık büyük bir duyuru değil, sıradan bakım istiyordu.",
+        "Saydığı malzemelerden bir liste hazırlamak için makineyi kullandı. Ardından her satırı kendisi kontrol etti.",
+        "Yanında Neri’nin yenilenmiş yönergeleri duruyordu: Yazmaya yardımcı, insanları yargılayan bir hâkim değil. Gönderim bağlantısı kutusunda kaldı.",
+        "Sonra Luma, Ivo’yla bir proje notu gönderdi: Bir sonraki buluşmanın saatini değiştirmek istiyordu. Tavi tanıdık bir sızı duydu.",
+        "Bu duyguyu makineye koymadı. Ivo aracılığıyla Luma’ya hangi saatlerin uygun olduğunu sordu.",
+        "Ertesi sabaha karar verdiler. Luma sonraki gün geldiğinde Tavi bir sandalye çekti ve yerleşmesini bekledi.",
+        "“Başlamadan önce,” dedi Tavi, “haftan nasıl geçti?” Bu kez yalnızca Luma’nın verebileceği bir yanıta yer bıraktı."
+      ],
+      "introduction": "Bir buluşmanın saatini değiştirme isteği, Tavi’nin yeni alışkanlıklarını açılış gecesinden sonra da nasıl uyguladığını gösterir.",
+      "title": "Taslak, Hâkim Değil"
+    },
+    "vi": {
+      "altTexts": [
+        "Tavi bước vào xưởng với giỏ bảo dưỡng.",
+        "Tavi so danh sách in với ba bộ phát sáng dự phòng.",
+        "Neri đặt chỉ dẫn cạnh chiếc máy đã ngắt kết nối.",
+        "Ivo đưa Tavi lời nhắn công việc đã gấp của Luma.",
+        "Tavi đưa Ivo thư trả lời viết tay cạnh chiếc máy im lặng.",
+        "Tavi kéo ghế ra cho Luma ngồi vào sáng hôm sau.",
+        "Tavi và Luma ngồi đối diện qua chiếc bàn gọn gàng."
+      ],
+      "captions": [
+        "Một tuần sau, Tavi trở lại xưởng. Đường đèn lồng giờ cần chăm sóc thường ngày, không cần thông báo lớn.",
+        "Cậu dùng máy viết nháp danh sách vật tư từ những món tự mình đếm. Sau đó cậu kiểm tra từng dòng.",
+        "Chỉ dẫn mới của Neri đặt bên cạnh: hỗ trợ viết, không phán xét con người. Đầu nối gửi thư vẫn nằm trong hộp.",
+        "Sau đó, Luma gửi qua Ivo một lời nhắn công việc: cô muốn đổi giờ hẹn tới. Tavi lại thấy nhói lên quen thuộc.",
+        "Cậu không đưa cảm giác ấy vào máy. Qua Ivo, cậu hỏi Luma những giờ nào phù hợp với cô.",
+        "Họ thống nhất sáng hôm sau. Khi Luma đến ngày kế tiếp, Tavi kéo ghế ra rồi chờ cô ngồi ổn định.",
+        "“Trước khi bắt đầu,” Tavi nói, “tuần qua của cậu thế nào?” Lần này, cậu để chỗ cho câu trả lời chỉ Luma mới có thể đưa ra."
+      ],
+      "introduction": "Một lời đề nghị đổi giờ hẹn cho thấy Tavi tiếp tục thực hành những thói quen mới sau đêm mở cửa.",
+      "title": "Bản nháp, không phải người phán xử"
+    },
+    "zh": {
+      "altTexts": [
+        "塔维提着维护篮走进工作室。",
+        "塔维将打印的清单与三个备用发光模块逐一比较。",
+        "内莉把说明放在已断开发送功能的机器旁。",
+        "伊沃把卢玛折好的项目纸条交给塔维。",
+        "塔维在闲置的机器旁把手写回复交给伊沃。",
+        "第二天早上，塔维拉开椅子，让卢玛坐下。",
+        "塔维和卢玛隔着整洁的桌面相对而坐。"
+      ],
+      "captions": [
+        "一周后，塔维回到工作室。灯笼步道现在需要的是日常维护，而不是盛大的公告。",
+        "他让机器根据自己清点过的数量起草用品清单，然后亲自逐行核对。",
+        "旁边放着内莉修改后的说明：帮助起草，不替人下判断。发送连接器仍留在盒中。",
+        "后来，卢玛请伊沃转来项目纸条：她想改动下次会面的时间。塔维又感到了熟悉的不快。",
+        "塔维没有把这种心情塞进机器。他请伊沃问卢玛，哪些时间对她更方便。",
+        "他们约定第二天早上见面。次日卢玛到了，塔维拉开一把椅子，等她坐稳。",
+        "“开始之前，”塔维问，“你这一周过得怎么样？”这一次，他留出了只有卢玛才能回答的空间。"
+      ],
+      "introduction": "一次更改会面时间的请求，让人看见塔维在开放夜之后如何继续实践新的习惯。",
+      "title": "草稿，不是裁判"
+    }
+  },
+  "number": 25,
+  "panels": [
+    {
+      "altText": "Tavi enters the workshop with a maintenance basket.",
+      "image": "N03E25P01.png"
+    },
+    {
+      "altText": "Tavi compares a printed list with three spare light modules.",
+      "image": "N03E25P02.png"
+    },
+    {
+      "altText": "Neri places instructions beside the disconnected machine.",
+      "image": "N03E25P03.png"
+    },
+    {
+      "altText": "Ivo hands Tavi Luma’s folded project note.",
+      "image": "N03E25P04.png"
+    },
+    {
+      "altText": "Tavi gives Ivo a handwritten reply beside the idle machine.",
+      "image": "N03E25P05.png"
+    },
+    {
+      "altText": "Tavi pulls out a chair for Luma the following morning.",
+      "image": "N03E25P06.png"
+    },
+    {
+      "altText": "Tavi and Luma face each other across an uncluttered table.",
+      "image": "N03E25P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "communication",
+    "listening",
+    "responsibility"
+  ],
+  "version": 1
+}

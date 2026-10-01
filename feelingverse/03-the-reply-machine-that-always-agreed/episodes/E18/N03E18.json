@@ -1,0 +1,439 @@
+{
+  "id": "N03E18",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يراقب تافي إشارة الميناء من مقعد المحطة.",
+        "يقدم إيفو لتافي أحد رغيفين صغيرين ملفوفين.",
+        "يكتب تافي في دفتره بجوار إيفو.",
+        "يفتح أومي البوابة بجوار البحيرة الهادئة الآن.",
+        "يقود أومي العبارة ويجلس تافي وإيفو مرتديين سترتي نجاة.",
+        "يقترب المسافرون الثلاثة بالعبارة من قاعة الجزيرة.",
+        "يقف تافي وإيفو على البر بجوار أومي والعبارة المثبتة."
+      ],
+      "captions": [
+        "في غرفة الانتظار، راقب تافي إشارة العبارة. لم يعد التأخير يعني أن أحدا يقف ضده.",
+        "أزال إيفو الغلاف عن رغيفين صغيرين وقدم أحدهما لتافي. أكلا بهدوء، من دون أن يطالب أحدهما الآخر بعودة الصداقة فورا إلى سابق عهدها.",
+        "فتح تافي دفتره. بجوار حدود لوما كتب المهمة العملية التالية: تسليم ثلاثة تصحيحات.",
+        "بعد وقت، تغيرت إشارة الميناء. أكمل أومي فحص المسار قبل فتح بوابة الركاب.",
+        "عبرت العبارة تحت سحب ذات حواف ذهبية. بقي الملف جافا داخل حقيبة إيفو المقاومة للماء.",
+        "ظهرت جزيرة المنارة أمامهم، وسقف القاعة الزجاجي يلتقط آخر الضوء. كانت الإعلانات قد سبقتهم إليها.",
+        "عند المرسى، ربط أومي العبارة بإحكام. عندها فقط نزل تافي وإيفو إلى البر ومعهما التصحيحات الثلاثة."
+      ],
+      "introduction": "يختبر الانتظار طريقة تافي الجديدة في التعامل مع الإحباط قبل العبور الأخير.",
+      "title": "عندما هدأت الريح"
+    },
+    "bn": {
+      "altTexts": [
+        "টাভি স্টেশনের বেঞ্চ থেকে বন্দরের সংকেত দেখছে।",
+        "ইভো মোড়ানো দুটি বানরুটির একটি টাভিকে দিচ্ছে।",
+        "টাভি ইভোর পাশে নোটবুকে লিখছে।",
+        "ওমি এখন শান্ত হ্রদের পাশে ফটক খুলছে।",
+        "ওমি ফেরি চালাচ্ছে, টাভি ও ইভো জীবনরক্ষাকারী জ্যাকেট পরে বসে আছে।",
+        "তিন যাত্রী ফেরিতে করে দ্বীপের সভাঘরের দিকে এগোচ্ছে।",
+        "টাভি ও ইভো ওমি আর বাঁধা ফেরির পাশে ডাঙায় দাঁড়িয়ে আছে।"
+      ],
+      "captions": [
+        "অপেক্ষার ঘরে টাভি ফেরির সংকেত দেখছিল। দেরি মানেই কেউ তার বিরুদ্ধে কাজ করছে, এমন আর মনে হলো না।",
+        "ইভো দুটি বানরুটির মোড়ক খুলে একটি বাড়িয়ে দিল। তারা চুপচাপ খেল, বন্ধুত্ব সঙ্গে সঙ্গে আগের মতো হয়ে যাওয়ার দাবি করল না।",
+        "টাভি নোটবুক খুলল। লুমার সীমার পাশে পরের কাজ লিখল: তিনটি সংশোধন পৌঁছানো।",
+        "পরে বন্দরের সংকেত বদলাল। ওমি যাত্রী-ফটক খোলার আগে পথের পরীক্ষা শেষ করল।",
+        "ফেরি সোনালি কিনারার মেঘের নিচ দিয়ে চলল। ফাইল ইভোর জলরোধী ব্যাগে শুকনো ছিল।",
+        "সামনে বাতিঘর দ্বীপ দেখা গেল। কাচের ছাদের সভাঘর শেষ আলো ধরছিল। ঘোষণাগুলো তাদের আগেই পৌঁছেছিল।",
+        "ঘাটে ওমি ফেরি ভালো করে বাঁধল। তারপরই টাভি ও ইভো তিনটি সংশোধন নিয়ে ডাঙায় উঠল।"
+      ],
+      "introduction": "শেষ পারাপারের আগে অপেক্ষা করতে গিয়ে হতাশার মুখে টাভির নতুন আচরণের পরীক্ষা হয়।",
+      "title": "বাতাস কমলে"
+    },
+    "cs": {
+      "altTexts": [
+        "Tavi sleduje přístavní signál z nádražní lavice.",
+        "Ivo nabízí Tavimu jednu ze dvou zabalených housek.",
+        "Tavi píše do sešitu vedle Iva.",
+        "Omi otevírá bránu u již klidného jezera.",
+        "Omi řídí loď; Tavi a Ivo sedí v plovacích vestách.",
+        "Tři cestující se lodí blíží k ostrovní síni.",
+        "Tavi a Ivo stojí na břehu u Omiho a zajištěné lodě."
+      ],
+      "captions": [
+        "V čekárně Tavi sledoval přístavní signál. Zdržení už neznamenalo, že je někdo proti němu.",
+        "Ivo rozbalil dvě housky a jednu nabídl Tavimu. Jedli tiše, bez požadavku, aby se ticho hned změnilo v obnovené přátelství.",
+        "Tavi otevřel sešit. Vedle Luminy hranice si zapsal další konkrétní úkol: doručit tři opravy.",
+        "Později se přístavní signál změnil. Omi dokončil kontroly trasy a teprve potom otevřel bránu pro cestující.",
+        "Loď plula pod zlatě lemovanými mraky. Tavi chránil složku před vodou v Ivově nepromokavé brašně.",
+        "Před nimi se objevil Majákový ostrov. Prosklená střecha síně zachytila poslední světlo. Oznámení dorazila dříve než oni.",
+        "U přístaviště Omi loď zajistil. Teprve potom Tavi s Ivem vystoupili na břeh se třemi opravami."
+      ],
+      "introduction": "Čekání před poslední plavbou prověří, jak Tavi nově zachází se zklamáním.",
+      "title": "Když vítr zeslábl"
+    },
+    "de": {
+      "altTexts": [
+        "Tavi beobachtet das Hafensignal von der Bahnhofsbank aus.",
+        "Ivo bietet Tavi eines von zwei eingewickelten Brötchen an.",
+        "Tavi schreibt neben Ivo in sein Notizbuch.",
+        "Omi öffnet das Tor neben dem nun ruhigen See.",
+        "Omi steuert, während Tavi und Ivo in Schwimmwesten sitzen.",
+        "Die drei Reisenden nähern sich mit der Fähre der Inselhalle.",
+        "Tavi und Ivo stehen neben Omi und der gesicherten Fähre an Land."
+      ],
+      "captions": [
+        "Im Warteraum beobachtete Tavi das Hafensignal. Eine Verzögerung bedeutete nicht mehr, dass jemand gegen ihn war.",
+        "Ivo packte zwei Brötchen aus und bot ihm eines an. Sie aßen still, ohne zu verlangen, dass sofort wieder Freundschaft entstand.",
+        "Tavi öffnete sein Notizbuch. Neben Lumas Grenze schrieb er die nächste konkrete Aufgabe: drei Berichtigungen zustellen.",
+        "Später änderte sich das Hafensignal. Omi schloss die Streckenprüfungen ab, bevor er das Fahrgasttor öffnete.",
+        "Die Fähre fuhr unter goldgesäumten Wolken hindurch. Tavi hielt die Mappe in Ivos wasserdichter Tasche trocken.",
+        "Vor ihnen lag die Leuchtfeuerinsel; das Glasdach der Halle fing das letzte Licht ein. Die Mitteilungen waren schon vor ihnen angekommen.",
+        "Am Anleger machte Omi die Fähre fest. Erst dann gingen Tavi und Ivo mit den drei Berichtigungen an Land."
+      ],
+      "introduction": "Vor der letzten Überfahrt stellt das Warten Tavis neuen Umgang mit Enttäuschung auf die Probe.",
+      "title": "Als der Wind nachließ"
+    },
+    "en": {
+      "altTexts": [
+        "Tavi watches the harbor signal from the station bench.",
+        "Ivo offers Tavi one of two wrapped bread rolls.",
+        "Tavi writes in his notebook beside Ivo.",
+        "Omi opens the gate beside the now-calm lake.",
+        "Omi steers while Tavi and Ivo sit in flotation vests.",
+        "The three travelers approach the island hall by ferry.",
+        "Tavi and Ivo stand ashore beside Omi and the secured ferry."
+      ],
+      "captions": [
+        "In the waiting room, Tavi watched the ferry signal. A delay no longer meant that somebody was against him.",
+        "Ivo unwrapped two bread rolls and offered one. They ate quietly, with no demand that the silence become friendship again.",
+        "Tavi opened his notebook. Beside Luma’s boundary, he wrote the next practical task: deliver three corrections.",
+        "Later, the harbor signal changed. Omi completed the route checks before opening the passenger gate.",
+        "The ferry crossed beneath clouds edged with gold. Tavi kept the folder dry inside Ivo’s waterproof satchel.",
+        "Beacon Island rose ahead, its glass-roofed hall catching the last light. The notices had arrived before them.",
+        "At the landing, Omi secured the ferry. Only then did Tavi and Ivo step ashore with the three corrections."
+      ],
+      "introduction": "Waiting tests Tavi’s new response to frustration before the final crossing.",
+      "title": "When the Wind Eased"
+    },
+    "es": {
+      "altTexts": [
+        "Tavi observa la señal del puerto desde el banco de la estación.",
+        "Ivo ofrece a Tavi uno de dos panecillos envueltos.",
+        "Tavi escribe en su cuaderno al lado de Ivo.",
+        "Omi abre la puerta junto al lago ya tranquilo.",
+        "Omi gobierna el ferry; Tavi e Ivo van sentados con chalecos salvavidas.",
+        "Los tres viajeros se acercan en ferry al salón de la isla.",
+        "Tavi e Ivo están en tierra junto a Omi y el ferry asegurado."
+      ],
+      "captions": [
+        "En la sala de espera, Tavi observaba la señal del puerto. Un retraso ya no significaba que alguien estuviera contra él.",
+        "Ivo desenvolvió dos panecillos y le ofreció uno. Comieron en silencio, sin exigir que aquel silencio volviera a ser amistad de inmediato.",
+        "Tavi abrió su cuaderno. Junto al límite de Luma anotó la siguiente tarea concreta: entregar tres correcciones.",
+        "Más tarde cambió la señal del puerto. Omi terminó las comprobaciones de la ruta antes de abrir la puerta de pasajeros.",
+        "El ferry avanzó bajo nubes ribeteadas de oro. Tavi mantuvo seca la carpeta dentro de la bolsa impermeable de Ivo.",
+        "La Isla del Faro apareció delante, con el techo de cristal del salón recogiendo la última luz. Los avisos habían llegado antes.",
+        "En el embarcadero, Omi aseguró el ferry. Solo entonces Tavi e Ivo bajaron a tierra con las tres correcciones."
+      ],
+      "introduction": "La espera antes de la última travesía pone a prueba la nueva respuesta de Tavi a la frustración.",
+      "title": "Cuando amainó el viento"
+    },
+    "fr": {
+      "altTexts": [
+        "Tavi observe le signal du port depuis le banc de la gare.",
+        "Ivo offre à Tavi l’un des deux petits pains emballés.",
+        "Tavi écrit dans son carnet près d’Ivo.",
+        "Omi ouvre la barrière près du lac désormais calme.",
+        "Omi pilote ; Tavi et Ivo sont assis avec leurs gilets de sauvetage.",
+        "Les trois voyageurs approchent en bateau de la halle de l’île.",
+        "Tavi et Ivo sont à terre près d’Omi et du bateau amarré."
+      ],
+      "captions": [
+        "Dans la salle d’attente, Tavi regardait le signal du port. Un retard ne voulait plus dire que quelqu’un était contre lui.",
+        "Ivo déballa deux petits pains et lui en offrit un. Ils mangèrent en silence, sans exiger que l’amitié redevienne aussitôt comme avant.",
+        "Tavi ouvrit son carnet. À côté de la limite posée par Luma, il nota la prochaine tâche concrète : livrer trois rectifications.",
+        "Plus tard, le signal du port changea. Omi termina les vérifications du trajet avant d’ouvrir la barrière des passagers.",
+        "Le bac traversa sous des nuages bordés d’or. Tavi garda la pochette au sec dans la sacoche étanche d’Ivo.",
+        "L’île du Phare apparut, le toit vitré de sa halle captant les dernières lueurs. Les avis étaient arrivés avant eux.",
+        "Au débarcadère, Omi immobilisa le bac. Alors seulement, Tavi et Ivo descendirent avec les trois rectifications."
+      ],
+      "introduction": "L’attente avant la dernière traversée met à l’épreuve la nouvelle manière de réagir de Tavi.",
+      "title": "Quand le vent se calma"
+    },
+    "hi": {
+      "altTexts": [
+        "तावी स्टेशन की बेंच से बंदरगाह का संकेत देख रहा है।",
+        "ईवो दो लिपटे बनों में से एक तावी को दे रहा है।",
+        "तावी ईवो के पास अपनी नोटबुक में लिख रहा है।",
+        "ओमी अब शांत झील के पास फाटक खोल रहा है।",
+        "ओमी नौका चला रहा है और तावी व ईवो बचाव-जैकेट पहनकर बैठे हैं।",
+        "तीनों यात्री नौका से द्वीप के भवन की ओर बढ़ रहे हैं।",
+        "तावी और ईवो बँधी नौका और ओमी के पास किनारे पर खड़े हैं।"
+      ],
+      "captions": [
+        "प्रतीक्षा-कक्ष में तावी नौका का संकेत देखता रहा। देरी का मतलब अब यह नहीं था कि कोई उसके खिलाफ है।",
+        "ईवो ने दो बन निकाले और एक आगे किया। वे चुपचाप खा रहे थे और एक-दूसरे से तुरंत पुरानी दोस्ती लौटाने की माँग नहीं कर रहे थे।",
+        "तावी ने नोटबुक खोली। लूमा की सीमा के पास उसने अगला जरूरी काम लिखा: तीन सुधार पहुँचाने हैं।",
+        "कुछ देर बाद बंदरगाह का संकेत बदला। ओमी ने रास्ते की जाँच पूरी करने के बाद यात्री-फाटक खोला।",
+        "नौका सुनहरे किनारों वाले बादलों के नीचे चली। फाइल ईवो की पानी से बचाने वाली थैली में सूखी रखी थी।",
+        "सामने प्रकाशस्तंभ द्वीप उभरा। भवन की काँच की छत आखिरी रोशनी पकड़ रही थी। घोषणाएँ उनसे पहले पहुँच चुकी थीं।",
+        "घाट पर ओमी ने नौका अच्छी तरह बाँधी। तभी तावी और ईवो तीन सुधार लेकर किनारे उतरे।"
+      ],
+      "introduction": "झील पार करने से पहले का इंतज़ार निराशा से निपटने के तावी के नए तरीके को परखता है।",
+      "title": "जब हवा थमी"
+    },
+    "id": {
+      "altTexts": [
+        "Tavi melihat tanda pelabuhan dari bangku stasiun.",
+        "Ivo menawarkan satu dari dua roti bungkus kepada Tavi.",
+        "Tavi menulis di buku catatan di samping Ivo.",
+        "Omi membuka gerbang di dekat danau yang kini tenang.",
+        "Omi mengemudi sementara Tavi dan Ivo duduk mengenakan pelampung.",
+        "Ketiga pelancong mendekati aula pulau dengan feri.",
+        "Tavi dan Ivo berdiri di darat dekat Omi dan feri yang diamankan."
+      ],
+      "captions": [
+        "Di ruang tunggu, Tavi mengamati tanda pelabuhan. Penundaan tidak lagi berarti seseorang memusuhinya.",
+        "Ivo membuka dua bungkus roti dan menawarkan satu. Mereka makan dalam diam, tanpa menuntut persahabatan langsung kembali seperti dahulu.",
+        "Tavi membuka buku catatannya. Di samping batas Luma, ia menulis tugas nyata berikutnya: mengantarkan tiga pembetulan.",
+        "Kemudian, tanda pelabuhan berubah. Omi menyelesaikan pemeriksaan rute sebelum membuka gerbang penumpang.",
+        "Feri melintas di bawah awan bertepi emas. Tavi menjaga map tetap kering di dalam tas tahan air Ivo.",
+        "Pulau Mercusuar tampak di depan, atap kaca aulanya menangkap cahaya terakhir. Pengumuman itu sudah tiba lebih dahulu.",
+        "Di dermaga, Omi mengikat feri dengan aman. Barulah Tavi dan Ivo turun ke darat membawa tiga pembetulan."
+      ],
+      "introduction": "Menunggu sebelum penyeberangan terakhir menguji cara baru Tavi menghadapi rasa kesal.",
+      "title": "Ketika Angin Mereda"
+    },
+    "it": {
+      "altTexts": [
+        "Tavi osserva il segnale del porto dalla panca della stazione.",
+        "Ivo offre a Tavi uno di due panini avvolti nella carta.",
+        "Tavi scrive nel quaderno accanto a Ivo.",
+        "Omi apre il cancello vicino al lago ormai calmo.",
+        "Omi guida; Tavi e Ivo siedono con i giubbotti salvagente.",
+        "I tre viaggiatori si avvicinano in traghetto alla sala dell’isola.",
+        "Tavi e Ivo sono a terra vicino a Omi e al traghetto ormeggiato."
+      ],
+      "captions": [
+        "Nella sala d’attesa, Tavi guardava il segnale del porto. Un ritardo non significava più che qualcuno fosse contro di lui.",
+        "Ivo scartò due panini e gliene offrì uno. Mangiarono in silenzio, senza pretendere che l’amicizia tornasse subito come prima.",
+        "Tavi aprì il quaderno. Accanto al limite di Luma scrisse il prossimo compito concreto: consegnare tre rettifiche.",
+        "Più tardi, il segnale del porto cambiò. Omi completò i controlli del tragitto prima di aprire il cancello per i passeggeri.",
+        "Il traghetto attraversò il lago sotto nuvole bordate d’oro. Tavi tenne la cartella asciutta nella borsa impermeabile di Ivo.",
+        "L’Isola del Faro apparve davanti a loro, il tetto di vetro della sala illuminato dagli ultimi raggi. Gli avvisi erano arrivati prima.",
+        "All’approdo, Omi ormeggiò il traghetto. Soltanto allora Tavi e Ivo scesero a terra con le tre rettifiche."
+      ],
+      "introduction": "L’attesa prima dell’ultima traversata mette alla prova il nuovo modo di reagire di Tavi.",
+      "title": "Quando il vento si calmò"
+    },
+    "ja": {
+      "altTexts": [
+        "タヴィが駅のベンチから港の信号を見ています。",
+        "イヴォが包んだ二つのパンのうち一つをタヴィに差し出しています。",
+        "タヴィがイヴォの隣で手帳に書いています。",
+        "オミが穏やかになった湖のそばで乗船口を開けています。",
+        "オミが操船し、タヴィとイヴォは救命胴衣を着て座っています。",
+        "三人が船で、島の集会所へ近づいています。",
+        "タヴィとイヴォが、オミと係留済みの船のそばで岸に立っています。"
+      ],
+      "captions": [
+        "待合室で、タヴィは船の信号を見ていました。遅れたからといって、誰かが自分に敵対しているわけではありません。",
+        "イヴォはパンを二つ包みから出し、一つ差し出しました。二人は、友情がすぐ以前のように戻ることを求めず、静かに食べました。",
+        "タヴィは手帳を開きました。ルマの条件の隣に、次の具体的な仕事を書きます。三枚の訂正を届けることです。",
+        "やがて港の信号が変わりました。オミは航路の確認を終えてから、乗船口を開きました。",
+        "船は金色の縁を持つ雲の下を進みました。ファイルはイヴォの防水かばんの中で、ぬれずに守られています。",
+        "灯台島が近づき、集会所のガラス屋根が夕日を受けていました。お知らせは、二人より先に着いていたのです。",
+        "桟橋でオミが船をしっかり留めました。それからようやく、タヴィとイヴォは三枚の訂正を持って岸へ上がりました。"
+      ],
+      "introduction": "船を待つ時間が、タヴィの新しい向き合い方を試します。",
+      "title": "風が弱まったとき"
+    },
+    "ko": {
+      "altTexts": [
+        "타비가 역 의자에서 항구 신호를 바라봐요.",
+        "이보가 포장된 빵 두 개 중 하나를 타비에게 건네요.",
+        "타비가 이보 옆에서 수첩에 적어요.",
+        "오미가 잔잔해진 호수 옆에서 승선문을 열어요.",
+        "오미가 배를 몰고, 타비와 이보가 구명조끼를 입고 앉아 있어요.",
+        "세 사람이 배를 타고 섬 회관에 가까워져요.",
+        "타비와 이보가 오미와 단단히 묶인 배 옆의 뭍에 서 있어요."
+      ],
+      "captions": [
+        "대합실에서 타비는 배 신호를 바라봤어요. 지연된다고 해서 누군가 자신을 방해하는 건 아니었어요.",
+        "이보가 빵 두 개를 꺼내 하나를 건넸어요. 둘은 조용히 먹었어요. 우정이 당장 예전처럼 돌아오기를 서로에게 요구하지 않았어요.",
+        "타비는 수첩을 폈어요. 루마의 경계 옆에 다음 할 일을 적었어요. 정정문 세 장 전달하기.",
+        "얼마 뒤 항구 신호가 바뀌었어요. 오미는 항로 점검을 끝낸 뒤에야 승선문을 열었어요.",
+        "배는 가장자리가 금빛인 구름 아래를 지나갔어요. 서류철은 이보의 방수 가방 안에서 젖지 않게 보호되었어요.",
+        "앞에 등대섬이 나타났어요. 유리 지붕 회관이 마지막 햇빛을 받았어요. 공지문은 두 사람보다 먼저 도착해 있었어요.",
+        "선착장에서 오미가 배를 단단히 묶었어요. 그제야 타비와 이보가 정정문 세 장을 들고 뭍에 올랐어요."
+      ],
+      "introduction": "마지막 배를 기다리는 시간이 타비의 달라진 태도를 시험합니다.",
+      "title": "바람이 잦아들었을 때"
+    },
+    "pl": {
+      "altTexts": [
+        "Tavi obserwuje sygnał portowy ze stacyjnej ławki.",
+        "Ivo podaje Taviemu jedną z dwóch zapakowanych bułek.",
+        "Tavi pisze w notesie obok Iva.",
+        "Omi otwiera bramkę nad spokojnym już jeziorem.",
+        "Omi steruje; Tavi i Ivo siedzą w kamizelkach ratunkowych.",
+        "Trzej podróżni zbliżają się promem do sali na wyspie.",
+        "Tavi i Ivo stoją na lądzie przy Omim i zabezpieczonym promie."
+      ],
+      "captions": [
+        "W poczekalni Tavi obserwował sygnał portowy. Opóźnienie nie znaczyło już, że ktoś jest przeciwko niemu.",
+        "Ivo rozpakował dwie bułki i podał mu jedną. Jedli w ciszy, nie żądając, by przyjaźń od razu wróciła do dawnego stanu.",
+        "Tavi otworzył notes. Obok granicy Lumy zapisał następne konkretne zadanie: dostarczyć trzy sprostowania.",
+        "Później sygnał portowy się zmienił. Omi zakończył kontrole trasy, zanim otworzył bramkę dla pasażerów.",
+        "Prom popłynął pod chmurami o złotych brzegach. Tavi schował teczkę przed wodą w nieprzemakalnej torbie Iva.",
+        "Przed nimi wyrosła Wyspa Latarni. Szklany dach sali łapał ostatnie światło. Ogłoszenia przybyły wcześniej.",
+        "Przy przystani Omi zabezpieczył prom. Dopiero wtedy Tavi i Ivo zeszli na ląd z trzema sprostowaniami."
+      ],
+      "introduction": "Czekanie przed ostatnią przeprawą sprawdza nowy sposób reagowania Taviego na rozczarowanie.",
+      "title": "Gdy wiatr osłabł"
+    },
+    "pt": {
+      "altTexts": [
+        "Tavi observa o sinal do porto do banco da estação.",
+        "Ivo oferece a Tavi um de dois pãezinhos embrulhados.",
+        "Tavi escreve no caderno ao lado de Ivo.",
+        "Omi abre o portão junto ao lago agora calmo.",
+        "Omi pilota; Tavi e Ivo estão sentados com coletes salva-vidas.",
+        "Os três viajantes se aproximam de balsa do salão da ilha.",
+        "Tavi e Ivo estão em terra perto de Omi e da balsa amarrada."
+      ],
+      "captions": [
+        "Na sala de espera, Tavi observava o sinal do porto. Um atraso já não significava que alguém estivesse contra ele.",
+        "Ivo desembrulhou dois pãezinhos e ofereceu um. Comeram em silêncio, sem exigir que a amizade voltasse imediatamente a ser como antes.",
+        "Tavi abriu o caderno. Ao lado do limite de Luma, anotou a próxima tarefa concreta: entregar três correções.",
+        "Mais tarde, o sinal do porto mudou. Omi terminou as verificações da rota antes de abrir o portão dos passageiros.",
+        "A balsa atravessou sob nuvens com bordas douradas. Tavi manteve a pasta seca dentro da bolsa impermeável de Ivo.",
+        "A Ilha do Farol surgiu adiante, com o teto de vidro do salão captando a última luz. Os avisos haviam chegado antes deles.",
+        "No cais, Omi amarrou a balsa. Só então Tavi e Ivo desceram em terra com as três correções."
+      ],
+      "introduction": "A espera antes da última travessia põe à prova a nova forma de Tavi lidar com a frustração.",
+      "title": "Quando o vento diminuiu"
+    },
+    "ru": {
+      "altTexts": [
+        "Тави наблюдает за портовым сигналом со станционной скамьи.",
+        "Иво предлагает Тави одну из двух завёрнутых булочек.",
+        "Тави пишет в блокноте рядом с Иво.",
+        "Оми открывает ворота у теперь спокойного озера.",
+        "Оми управляет паромом; Тави и Иво сидят в спасательных жилетах.",
+        "Трое путешественников приближаются на пароме к островному залу.",
+        "Тави и Иво стоят на берегу возле Оми и закреплённого парома."
+      ],
+      "captions": [
+        "В зале ожидания Тави смотрел на паромный сигнал. Задержка больше не означала, что кто-то действует против него.",
+        "Иво развернул две булочки и предложил одну. Они ели молча, не требуя, чтобы дружба немедленно стала прежней.",
+        "Тави открыл блокнот. Рядом с условием Лумы он записал следующую задачу: доставить три исправления.",
+        "Позже портовый сигнал изменился. Оми завершил проверку маршрута и только тогда открыл пассажирские ворота.",
+        "Паром шёл под облаками с золотыми краями. Папка лежала в непромокаемой сумке Иво, защищённая от воды.",
+        "Впереди показался Маячный остров. Стеклянная крыша зала ловила последний свет. Объявления добрались сюда раньше них.",
+        "У причала Оми закрепил паром. Лишь после этого Тави и Иво сошли на берег с тремя исправлениями."
+      ],
+      "introduction": "Ожидание проверяет, научился ли Тави иначе отвечать на разочарование.",
+      "title": "Когда стих ветер"
+    },
+    "tr": {
+      "altTexts": [
+        "Tavi, istasyon bankından liman işaretini izliyor.",
+        "Ivo, paketli iki küçük ekmekten birini Tavi’ye sunuyor.",
+        "Tavi, Ivo’nun yanında defterine yazıyor.",
+        "Omi, artık sakin olan gölün yanındaki kapıyı açıyor.",
+        "Omi dümen başındayken Tavi ile Ivo can yelekleriyle oturuyor.",
+        "Üç yolcu vapurla ada salonuna yaklaşıyor.",
+        "Tavi ile Ivo, Omi ve bağlanmış vapurun yanında karada duruyor."
+      ],
+      "captions": [
+        "Bekleme salonunda Tavi liman işaretine baktı. Gecikme artık birinin ona karşı olduğu anlamına gelmiyordu.",
+        "Ivo iki küçük ekmeği açıp birini uzattı. Dostluğun hemen eski hâline dönmesini istemeden, sessizce yediler.",
+        "Tavi defterini açtı. Luma’nın sınırının yanına sonraki somut işi yazdı: Üç düzeltme teslim et.",
+        "Bir süre sonra liman işareti değişti. Omi yolcu kapısını açmadan güzergâh kontrollerini tamamladı.",
+        "Vapur, kenarları altın gibi parlayan bulutların altında ilerledi. Tavi dosyayı Ivo’nun su geçirmez çantasında kuru tuttu.",
+        "Önlerinde Fener Adası yükseldi; salonun cam çatısı son ışığı yakalıyordu. Duyurular onlardan önce varmıştı.",
+        "İskelede Omi vapuru güvenle bağladı. Ancak ondan sonra Tavi ile Ivo üç düzeltmeyle karaya çıktı."
+      ],
+      "introduction": "Son geçişten önce beklemek, Tavi’nin hayal kırıklığına yeni yaklaşımını sınar.",
+      "title": "Rüzgâr Dinince"
+    },
+    "vi": {
+      "altTexts": [
+        "Tavi quan sát tín hiệu bến từ ghế nhà ga.",
+        "Ivo đưa Tavi một trong hai chiếc bánh mì được gói.",
+        "Tavi viết vào sổ bên cạnh Ivo.",
+        "Omi mở cổng cạnh mặt hồ đã lặng.",
+        "Omi lái phà, còn Tavi và Ivo ngồi mặc áo phao.",
+        "Ba người đi phà đến gần nhà sinh hoạt trên đảo.",
+        "Tavi và Ivo đứng trên bờ cạnh Omi và chiếc phà đã neo chắc."
+      ],
+      "captions": [
+        "Trong phòng chờ, Tavi nhìn tín hiệu bến. Một sự chậm trễ không còn có nghĩa là ai đó chống lại cậu.",
+        "Ivo mở hai gói bánh mì nhỏ và đưa cậu một chiếc. Họ ăn yên lặng, không đòi tình bạn lập tức trở lại như cũ.",
+        "Tavi mở sổ. Bên cạnh giới hạn của Luma, cậu ghi việc cụ thể tiếp theo: giao ba bản đính chính.",
+        "Sau đó, tín hiệu bến đổi. Omi hoàn tất kiểm tra tuyến đường rồi mới mở cổng hành khách.",
+        "Phà đi dưới những đám mây viền vàng. Tavi giữ hồ sơ khô ráo trong túi chống nước của Ivo.",
+        "Đảo Hải Đăng hiện ra, mái kính nhà sinh hoạt hứng ánh sáng cuối ngày. Những thông báo đã đến trước họ.",
+        "Tới bến, Omi buộc phà chắc chắn. Chỉ sau đó, Tavi và Ivo mới lên bờ với ba bản đính chính."
+      ],
+      "introduction": "Chờ trước chuyến qua hồ cuối cùng thử thách cách Tavi phản ứng với sự bực bội.",
+      "title": "Khi gió dịu đi"
+    },
+    "zh": {
+      "altTexts": [
+        "塔维坐在车站长椅上看港口信号。",
+        "伊沃把两份包好的小面包中的一份递给塔维。",
+        "塔维坐在伊沃旁边写笔记。",
+        "奥米打开入口，身后的湖面已经平静。",
+        "奥米掌舵，塔维和伊沃穿着救生衣坐好。",
+        "三位同行者乘渡船靠近岛上的大厅。",
+        "塔维和伊沃站在岸上，旁边是奥米和系牢的渡船。"
+      ],
+      "captions": [
+        "在候船室里，塔维望着渡船信号。延误不再意味着有人故意和他作对。",
+        "伊沃打开两份小面包，递给他一份。他们安静地吃着，并不强求友谊立刻恢复到从前。",
+        "塔维打开笔记本，在卢玛的界限旁写下下一项实事：送出三份更正。",
+        "过了一阵，港口信号变了。奥米完成路线检查后，才打开乘客入口。",
+        "渡船驶过金边云朵下的湖面。文件夹放在伊沃的防水邮包里，保持干燥。",
+        "灯塔岛出现在前方，玻璃屋顶的大厅映着最后的日光。那些公告比他们先到了。",
+        "靠岸后，奥米先把渡船系牢。塔维和伊沃这才带着三份更正走上岸。"
+      ],
+      "introduction": "渡湖之前的等待，检验着塔维面对挫折的新做法。",
+      "title": "风渐渐小了"
+    }
+  },
+  "number": 18,
+  "panels": [
+    {
+      "altText": "Tavi watches the harbor signal from the station bench.",
+      "image": "N03E18P01.png"
+    },
+    {
+      "altText": "Ivo offers Tavi one of two wrapped bread rolls.",
+      "image": "N03E18P02.png"
+    },
+    {
+      "altText": "Tavi writes in his notebook beside Ivo.",
+      "image": "N03E18P03.png"
+    },
+    {
+      "altText": "Omi opens the gate beside the now-calm lake.",
+      "image": "N03E18P04.png"
+    },
+    {
+      "altText": "Omi steers while Tavi and Ivo sit in flotation vests.",
+      "image": "N03E18P05.png"
+    },
+    {
+      "altText": "The three travelers approach the island hall by ferry.",
+      "image": "N03E18P06.png"
+    },
+    {
+      "altText": "Tavi and Ivo stand ashore beside Omi and the secured ferry.",
+      "image": "N03E18P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "communication",
+    "listening",
+    "responsibility"
+  ],
+  "version": 1
+}

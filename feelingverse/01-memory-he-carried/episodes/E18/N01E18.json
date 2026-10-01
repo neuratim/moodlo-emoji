@@ -1,0 +1,439 @@
+{
+  "id": "N01E18",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "في صباح اليوم التالي، يأخذ ملف الإرسال Nova وBeam إلى قاعة الترحيب، حيث يحتفظ Fizz بإشعارات المعرض. قام Fizz بإعداد طاولة أمامية للزوار. تصلهم الموسيقى من القاعة عند المدخل.",
+        "يتوقف Beam أمام الغرفة المليئة بالموسيقى. ذات مرة، وصل إلى مقعد Rain وهو متأكد من أن المزيد من الصخب والمرح كان هو الحل. الآن أصبح يعرف ما يكفي ليطلب شيئًا آخر دون أن يعتذر عنه.",
+        "Fizz يقود Beam إلى الطاولة الجانبية خلف الستار. فهو لا يزال جزءًا من الترحيب، وليس مكانًا لشخص فشل في الاحتفال بشكل صحيح. هناك كوبان ينتظران هناك أيضًا.",
+        "ينضم Hush إلى Beam بينما يقوم Fizz بجلب مجلد الإشعارات. لا يحتاج الاثنان إلى التظاهر بالمرح لملء لحظة الهدوء. يتحدث Hush بلغة الإشارة عبر الطاولة، حيث يمكن لـ Beam رؤية كل إيماءة.",
+        "على الطاولة الجانبية، يقارن Fizz الختم الحلقي للطرد مع دعوة المعرض المحفوظة. وتؤكد العلامات المقروءة في ورقة الإرسال أن الطرد المعاد ذهب إلى أرشيف Lunara. يتم التحقق من الوجهة، وليس تخمينها من خلال شكل مألوف وحده.",
+        "بعد ظهر ذلك اليوم، استقل الستة العبارة المقررة التالية وانطلقوا من Nacre باتجاه البر الرئيسي Lunara. يقوم Bash بتأمين العلبة على سطح السفينة. هذه المرة، تأتي وجهتهم من سجلين متفقين وليس من قصة مخيفة.",
+        "في ذلك المساء في Meadowfold، تستعد Mend للمكالمة التالية للمسافرين. يطلب منها Rain إغلاق صندوق الموسيقى الصغير أولاً. وأثناء انتظارهم يريد صوتها دون أن ينافسه أي شيء."
+      ],
+      "captions": [
+        "في صباح اليوم التالي، يأخذ ملف الإرسال Nova وBeam إلى قاعة الترحيب، حيث يحتفظ Fizz بإشعارات المعرض. قام Fizz بإعداد طاولة أمامية للزوار. تصلهم الموسيقى من القاعة عند المدخل.\n\nFizz: \"لقد وفرنا لكم الطاولة الأمامية!\"",
+        "يتوقف Beam أمام الغرفة المليئة بالموسيقى. ذات مرة، وصل إلى مقعد Rain وهو متأكد من أن المزيد من الصخب والمرح كان هو الحل. الآن أصبح يعرف ما يكفي ليطلب شيئًا آخر دون أن يعتذر عنه.\n\nBeam: \"هل يمكنني تفويت الجزء الصاخب؟\"",
+        "Fizz يقود Beam إلى الطاولة الجانبية خلف الستار. فهو لا يزال جزءًا من الترحيب، وليس مكانًا لشخص فشل في الاحتفال بشكل صحيح. هناك كوبان ينتظران هناك أيضًا.\n\nFizz: \"مرحبًا بك هنا أيضًا.\"",
+        "ينضم Hush إلى Beam بينما يقوم Fizz بجلب مجلد الإشعارات. لا يحتاج الاثنان إلى التظاهر بالمرح لملء لحظة الهدوء. يتحدث Hush بلغة الإشارة عبر الطاولة، حيث يمكن لـ Beam رؤية كل إيماءة.\n\nHush [بلغة الإشارة]: \"الهدوء لا يعني أنني غير سعيد.\"",
+        "على الطاولة الجانبية، يقارن Fizz الختم الحلقي للطرد مع دعوة المعرض المحفوظة. وتؤكد العلامات المقروءة في ورقة الإرسال أن الطرد المعاد ذهب إلى أرشيف Lunara. يتم التحقق من الوجهة، وليس تخمينها من خلال شكل مألوف وحده.\n\nFizz: \"أرشيف Lunara. تحتوي هذه الدعوة على العنوان الذي تحتاجه.\"",
+        "بعد ظهر ذلك اليوم، استقل الستة العبارة المقررة التالية وانطلقوا من Nacre باتجاه البر الرئيسي Lunara. يقوم Bash بتأمين العلبة على سطح السفينة. هذه المرة، تأتي وجهتهم من سجلين متفقين وليس من قصة مخيفة.\n\nNova: \"نحن نتتبع سجلًا، وليس شائعة.\"",
+        "في ذلك المساء في Meadowfold، تستعد Mend للمكالمة التالية للمسافرين. يطلب منها Rain إغلاق صندوق الموسيقى الصغير أولاً. وأثناء انتظارهم يريد صوتها دون أن ينافسه أي شيء.\n\nRain: \"فقط صوتك الليلة، Mend. يمكننا الاتصال بالآخرين بعد ذلك.\""
+      ],
+      "introduction": "تحمل صورة إرسال المتجر ختم المعرض، لكن لا يزال المسافرون بحاجة إلى التحقق من وجهتهم. يحتفظ Fizz بإشعارات المعرض القديمة في قاعة الترحيب. تمنح الزيارة أيضًا فرصة لـ Beam لطلب نوع الترحيب الذي يمكنه الاستمتاع به بالفعل.",
+      "title": "أنت لا تدين لنا بابتسامة"
+    },
+    "bn": {
+      "altTexts": [
+        "পরদিন সকালে পাঠানোর নথি ধরে Nova আর Beam অভ্যর্থনার হলে আসে। পুরোনো প্রদর্শনীর বিজ্ঞপ্তি Fizz এখানেই রাখে। অতিথিদের জন্য সামনের টেবিল সাজানো। দরজা থেকেই হলের গান শোনা যায়।",
+        "গানে ভরা ঘরটির সামনে Beam থামে। একদিন সে ভেবেছিল, জোরে হাসি-হইচই করলেই Rain-এর ভালো লাগবে। এখন সে বোঝে, অন্য কিছু চাইলে ক্ষমা চাওয়ার দরকার নেই।",
+        "Fizz পর্দার পিছনে পাশের টেবিলে Beam-কে নিয়ে যায়। সেখানেও সে স্বাগত। ঠিকমতো আনন্দ করতে পারেনি বলে তাকে সরিয়ে রাখা হয়নি। ওই টেবিলেও দুটি কাপ অপেক্ষা করছে।",
+        "Fizz বিজ্ঞপ্তির ফাইল আনতে গেলে Hush এসে Beam-এর সঙ্গে বসে। নীরবতা ঢাকতে আনন্দের অভিনয় করতে হয় না। Hush টেবিলের ওপাশ থেকে ইশারায় কথা বলে, যাতে Beam প্রতিটি ভঙ্গি দেখতে পায়।",
+        "পাশের টেবিলে Fizz পার্সেলের গোল বেষ্টনীযুক্ত সিলটি পুরোনো প্রদর্শনীর আমন্ত্রণপত্রের সঙ্গে মেলায়। পাঠানোর কাগজের পড়া যায় এমন চিহ্নও একই কথা বলে: ফেরত পার্সেলটি Lunara-এর সংরক্ষণাগারে গেছে। পরিচিত আকৃতি দেখে আন্দাজ না করে গন্তব্য যাচাই করা হয়।",
+        "সেই বিকেলে ছয়জন পরের নির্ধারিত ফেরিতে উঠে Nacre থেকে মূল ভূখণ্ডের Lunara-এর দিকে যায়। Bash ডেকে বাক্সটি বেঁধে রাখে। এবার গন্তব্যের তথ্য এসেছে মিলে যাওয়া দুটি নথি থেকে, ভয়ের গল্প থেকে নয়।",
+        "সেই সন্ধ্যায় Meadowfold-এ Mend বন্ধুদের পরের ফোনের প্রস্তুতি নেয়। Rain আগে ছোট গানের বাক্সটি বন্ধ করতে বলে। অপেক্ষার সময় সে শুধু Mend-এর গলা শুনতে চায়, অন্য শব্দের সঙ্গে মিশিয়ে নয়।"
+      ],
+      "captions": [
+        "পরদিন সকালে পাঠানোর নথি ধরে Nova আর Beam অভ্যর্থনার হলে আসে। পুরোনো প্রদর্শনীর বিজ্ঞপ্তি Fizz এখানেই রাখে। অতিথিদের জন্য সামনের টেবিল সাজানো। দরজা থেকেই হলের গান শোনা যায়।\n\nFizz: \"তোমাদের জন্য সামনের টেবিল রেখেছি!\"",
+        "গানে ভরা ঘরটির সামনে Beam থামে। একদিন সে ভেবেছিল, জোরে হাসি-হইচই করলেই Rain-এর ভালো লাগবে। এখন সে বোঝে, অন্য কিছু চাইলে ক্ষমা চাওয়ার দরকার নেই।\n\nBeam: \"হইচইয়ের অংশটুকু বাদ দিতে পারি?\"",
+        "Fizz পর্দার পিছনে পাশের টেবিলে Beam-কে নিয়ে যায়। সেখানেও সে স্বাগত। ঠিকমতো আনন্দ করতে পারেনি বলে তাকে সরিয়ে রাখা হয়নি। ওই টেবিলেও দুটি কাপ অপেক্ষা করছে।\n\nFizz: \"এখানেও তোমার জায়গা আছে।\"",
+        "Fizz বিজ্ঞপ্তির ফাইল আনতে গেলে Hush এসে Beam-এর সঙ্গে বসে। নীরবতা ঢাকতে আনন্দের অভিনয় করতে হয় না। Hush টেবিলের ওপাশ থেকে ইশারায় কথা বলে, যাতে Beam প্রতিটি ভঙ্গি দেখতে পায়।\n\nHush [ইশারার ভাষায়]: \"চুপ থাকা মানে আমার মন খারাপ নয়।\"",
+        "পাশের টেবিলে Fizz পার্সেলের গোল বেষ্টনীযুক্ত সিলটি পুরোনো প্রদর্শনীর আমন্ত্রণপত্রের সঙ্গে মেলায়। পাঠানোর কাগজের পড়া যায় এমন চিহ্নও একই কথা বলে: ফেরত পার্সেলটি Lunara-এর সংরক্ষণাগারে গেছে। পরিচিত আকৃতি দেখে আন্দাজ না করে গন্তব্য যাচাই করা হয়।\n\nFizz: \"Lunara-এর সংরক্ষণাগার। আমন্ত্রণপত্রে ঠিকানাটা আছে।\"",
+        "সেই বিকেলে ছয়জন পরের নির্ধারিত ফেরিতে উঠে Nacre থেকে মূল ভূখণ্ডের Lunara-এর দিকে যায়। Bash ডেকে বাক্সটি বেঁধে রাখে। এবার গন্তব্যের তথ্য এসেছে মিলে যাওয়া দুটি নথি থেকে, ভয়ের গল্প থেকে নয়।\n\nNova: \"আমরা নথির সূত্র ধরছি, গুজবের নয়।\"",
+        "সেই সন্ধ্যায় Meadowfold-এ Mend বন্ধুদের পরের ফোনের প্রস্তুতি নেয়। Rain আগে ছোট গানের বাক্সটি বন্ধ করতে বলে। অপেক্ষার সময় সে শুধু Mend-এর গলা শুনতে চায়, অন্য শব্দের সঙ্গে মিশিয়ে নয়।\n\nRain: \"আজ শুধু তোমার কথা শুনি, Mend। অন্যদের একটু পরে ফোন করতে পারি।\""
+      ],
+      "introduction": "দোকানের পাঠানোর ছবিতে প্রদর্শনীর সিল আছে, কিন্তু গন্তব্য এখনও যাচাই করতে হবে। Fizz পুরোনো প্রদর্শনীর বিজ্ঞপ্তি অভ্যর্থনার হলে রাখে। সেখানে Beam-ও বলতে পারে, কেমন অভ্যর্থনায় তার সত্যিই ভালো লাগবে।",
+      "title": "আমাদের জন্য তোমাকে হাসতেই হবে না"
+    },
+    "cs": {
+      "altTexts": [
+        "Druhý den ráno přivedou přepravní doklady Novu a Beama do uvítacího sálu, kde Fizz uchovává výstavní pozvánky. Fizz pro návštěvy připravil stůl vpředu. Hudbu ze sálu slyší už ve dveřích.",
+        "Beam se zastaví před místností plnou hudby. Kdysi přišel k Rainově lavičce přesvědčený, že odpovědí je hlasitější veselí. Teď už ví, že může požádat o něco jiného, aniž by se za to omlouval.",
+        "Fizz zavede Beama k postrannímu stolku za závěsem. I ten je součástí přivítání, ne místem pro někoho, kdo nedokázal správně slavit. Také tam čekají dva šálky.",
+        "Hush se přidá k Beamovi, zatímco Fizz přinese složku pozvánek. Nemusejí vyplňovat čekání vystoupením. Hush znakuje přes stůl tak, aby Beam viděl každé gesto.",
+        "U postranního stolku Fizz porovná pečeť na zásilce s dochovanou výstavní pozvánkou. Zachované značky na přepravním dokladu souhlasí: vrácená zásilka šla do archivu v Lunaře. Cíl ověřili, neodhadli ho jen podle povědomého tvaru.",
+        "Toho odpoledne se šestice nalodí na další pravidelný trajekt a vyrazí z Nacre k pevnině u Lunary. Bash zajistí pouzdro na palubě. Tentokrát cíl vyplývá ze dvou shodných záznamů, ne z děsivého příběhu.",
+        "Toho večera se Mend na louce Meadowfold připravuje na další hovor cestovatelů. Rain ji požádá, aby nejdřív zavřela malou hrací skříňku. Zatímco čekají, chce slyšet její hlas bez dalších zvuků."
+      ],
+      "captions": [
+        "Druhý den ráno přivedou přepravní doklady Novu a Beama do uvítacího sálu, kde Fizz uchovává výstavní pozvánky. Fizz pro návštěvy připravil stůl vpředu. Hudbu ze sálu slyší už ve dveřích.\n\nFizz: „Nechali jsme vám stůl vpředu!“",
+        "Beam se zastaví před místností plnou hudby. Kdysi přišel k Rainově lavičce přesvědčený, že odpovědí je hlasitější veselí. Teď už ví, že může požádat o něco jiného, aniž by se za to omlouval.\n\nBeam: „Mohl bych tu hlasitou část vynechat?“",
+        "Fizz zavede Beama k postrannímu stolku za závěsem. I ten je součástí přivítání, ne místem pro někoho, kdo nedokázal správně slavit. Také tam čekají dva šálky.\n\nFizz: „I tady jsi vítaný.“",
+        "Hush se přidá k Beamovi, zatímco Fizz přinese složku pozvánek. Nemusejí vyplňovat čekání vystoupením. Hush znakuje přes stůl tak, aby Beam viděl každé gesto.\n\nHush [znakuje]: „Když jsem zticha, neznamená to, že se trápím.“",
+        "U postranního stolku Fizz porovná pečeť na zásilce s dochovanou výstavní pozvánkou. Zachované značky na přepravním dokladu souhlasí: vrácená zásilka šla do archivu v Lunaře. Cíl ověřili, neodhadli ho jen podle povědomého tvaru.\n\nFizz: „Archiv v Lunaře. Na téhle pozvánce je adresa, kterou potřebujete.“",
+        "Toho odpoledne se šestice nalodí na další pravidelný trajekt a vyrazí z Nacre k pevnině u Lunary. Bash zajistí pouzdro na palubě. Tentokrát cíl vyplývá ze dvou shodných záznamů, ne z děsivého příběhu.\n\nNova: „Jdeme po záznamu, ne po fámě.“",
+        "Toho večera se Mend na louce Meadowfold připravuje na další hovor cestovatelů. Rain ji požádá, aby nejdřív zavřela malou hrací skříňku. Zatímco čekají, chce slyšet její hlas bez dalších zvuků.\n\nRain: „Dnes večer jen tvůj hlas, Mend. Ostatním můžeme zavolat potom.“"
+      ],
+      "introduction": "Na fotografii odeslané zásilky je výstavní pečeť, ale cestovatelé ještě musejí ověřit cíl. Fizz uchovává staré výstavní pozvánky v uvítacím sále. Návštěva také dá Beamovi příležitost požádat o přivítání, které si opravdu může užít.",
+      "title": "Úsměv nám nedlužíš"
+    },
+    "de": {
+      "altTexts": [
+        "Am nächsten Morgen führt die Versanddatei Nova und Beam in die Empfangshalle, wo Fizz Ausstellungsaushänge aufbewahrt. Fizz hat einen Tisch ganz vorne für die Besucher vorbereitet. Musik aus dem Saal erreicht sie an der Tür.",
+        "Beam bleibt vor dem musikerfüllten Raum stehen. Als er einmal an der Bank von Rain ankam, war er überzeugt, dass lauterer Jubel die Antwort war. Jetzt weiß er genug, um um etwas anderes zu bitten, ohne sich dafür zu entschuldigen.",
+        "Fizz führt Beam zum Beistelltisch hinter dem Vorhang. Auch hier sind die Gäste willkommen. Niemand wird hierher abgeschoben, weil er angeblich nicht richtig feiern kann. Dort warten auch zwei Tassen.",
+        "Hush schließt sich Beam an, während Fizz die Mappe mit den Ausstellungseinladungen holt. Sie müssen die Pause nicht mit einem Auftritt füllen. Hush gebärdet über den Tisch hinweg, wo Beam jede Geste sehen kann.",
+        "Am Beistelltisch vergleicht Fizz das Ringsiegel des Pakets mit einer erhaltenen Ausstellungseinladung. Die erhaltenen Markierungen auf dem Versandschein stimmen überein: Die Rücksendung ging in das Archiv von Lunara. Das Ziel wird überprüft und nicht allein anhand einer vertrauten Form erraten.",
+        "An diesem Nachmittag besteigen die sechs die nächste planmäßige Fähre und machen sich von Nacre aus auf den Weg zum Festland Lunara. Bash sichert den Koffer an Deck. Diesmal beruht ihr Ziel eher auf zwei übereinstimmenden Aufzeichnungen als auf einer beängstigenden Geschichte.",
+        "An diesem Abend bereitet sich Mend bei Meadowfold auf den nächsten Anruf der Reisenden vor. Rain bittet sie, zuerst die kleine Spieluhr zu schließen. Während sie warten, will er ihre Stimme, ohne dass irgendetwas mit ihr in Konkurrenz steht."
+      ],
+      "captions": [
+        "Am nächsten Morgen führt die Versanddatei Nova und Beam in die Empfangshalle, wo Fizz Ausstellungsaushänge aufbewahrt. Fizz hat einen Tisch ganz vorne für die Besucher vorbereitet. Musik aus dem Saal erreicht sie an der Tür.\n\nFizz: „Wir haben euch den Tisch vorne freigehalten!“",
+        "Beam bleibt vor dem musikerfüllten Raum stehen. Als er einmal an der Bank von Rain ankam, war er überzeugt, dass lauterer Jubel die Antwort war. Jetzt weiß er genug, um um etwas anderes zu bitten, ohne sich dafür zu entschuldigen.\n\nBeam: „Könnte ich den lauten Teil auslassen?“",
+        "Fizz führt Beam zum Beistelltisch hinter dem Vorhang. Auch hier sind die Gäste willkommen. Niemand wird hierher abgeschoben, weil er angeblich nicht richtig feiern kann. Dort warten auch zwei Tassen.\n\nFizz: „Auch hier bist du willkommen.“",
+        "Hush schließt sich Beam an, während Fizz die Mappe mit den Ausstellungseinladungen holt. Sie müssen die Pause nicht mit einem Auftritt füllen. Hush gebärdet über den Tisch hinweg, wo Beam jede Geste sehen kann.\n\nHush [gebärdet]: „Ruhe bedeutet nicht, dass ich unglücklich bin.“",
+        "Am Beistelltisch vergleicht Fizz das Ringsiegel des Pakets mit einer erhaltenen Ausstellungseinladung. Die erhaltenen Markierungen auf dem Versandschein stimmen überein: Die Rücksendung ging in das Archiv von Lunara. Das Ziel wird überprüft und nicht allein anhand einer vertrauten Form erraten.\n\nFizz: „Archiv von Lunara. Diese Einladung enthält die Adresse, die ihr braucht.“",
+        "An diesem Nachmittag besteigen die sechs die nächste planmäßige Fähre und machen sich von Nacre aus auf den Weg zum Festland Lunara. Bash sichert den Koffer an Deck. Diesmal beruht ihr Ziel eher auf zwei übereinstimmenden Aufzeichnungen als auf einer beängstigenden Geschichte.\n\nNova: „Wir folgen einem Beleg, keinem Gerücht.“",
+        "An diesem Abend bereitet sich Mend bei Meadowfold auf den nächsten Anruf der Reisenden vor. Rain bittet sie, zuerst die kleine Spieluhr zu schließen. Während sie warten, will er ihre Stimme, ohne dass irgendetwas mit ihr in Konkurrenz steht.\n\nRain: „Nur deine Stimme heute Abend, Mend. Wir können die anderen danach anrufen.“"
+      ],
+      "introduction": "Das Versandfoto des Ladens trägt ein Ausstellungssiegel, aber die Reisenden müssen noch den Bestimmungsort überprüfen. Fizz bewahrt die alten Ausstellungsaushänge in der Empfangshalle auf. Der Besuch gibt Beam auch die Möglichkeit, nach der Art von Empfang zu fragen, die er tatsächlich genießen kann.",
+      "title": "Du schuldest uns kein Lächeln"
+    },
+    "en": {
+      "altTexts": [
+        "The next morning, the dispatch file takes Nova and Beam to the welcome hall, where Fizz keeps exhibition notices. Fizz has prepared a front table for the visitors. Music from the hall reaches them at the doorway.",
+        "Beam pauses before the music-filled room. Once, he arrived at Rain's bench sure that louder cheer was the answer. Now he knows enough to ask for something else without apologizing for it.",
+        "Fizz leads Beam to the side table behind the curtain. It is still part of the welcome, not a place for someone who has failed to celebrate properly. There are two cups waiting there too.",
+        "Hush joins Beam while Fizz fetches the notice folder. They do not need to fill the pause with a performance. Hush signs across the table, where Beam can see every gesture.",
+        "At the side table, Fizz compares the parcel's ringed seal with a preserved exhibition invitation. The dispatch slip's surviving marks agree: the return went to Lunara's archive. The destination is checked, not guessed from a familiar shape alone.",
+        "That afternoon, the six board the next scheduled ferry and set out from Nacre toward mainland Lunara. Bash secures the case on deck. This time, their destination comes from two agreeing records rather than a frightening story.",
+        "That evening at Meadowfold, Mend prepares for the travelers' next call. Rain asks her to close the little music box first. While they wait, he wants her voice without anything competing with it."
+      ],
+      "captions": [
+        "The next morning, the dispatch file takes Nova and Beam to the welcome hall, where Fizz keeps exhibition notices. Fizz has prepared a front table for the visitors. Music from the hall reaches them at the doorway.\n\nFizz: “We saved you the front table!”",
+        "Beam pauses before the music-filled room. Once, he arrived at Rain's bench sure that louder cheer was the answer. Now he knows enough to ask for something else without apologizing for it.\n\nBeam: “Could I miss the loud part?”",
+        "Fizz leads Beam to the side table behind the curtain. It is still part of the welcome, not a place for someone who has failed to celebrate properly. There are two cups waiting there too.\n\nFizz: “You're welcome here, too.”",
+        "Hush joins Beam while Fizz fetches the notice folder. They do not need to fill the pause with a performance. Hush signs across the table, where Beam can see every gesture.\n\nHush [signing]: “Quiet doesn't mean I'm unhappy.”",
+        "At the side table, Fizz compares the parcel's ringed seal with a preserved exhibition invitation. The dispatch slip's surviving marks agree: the return went to Lunara's archive. The destination is checked, not guessed from a familiar shape alone.\n\nFizz: “Lunara's archive. This invitation has the address you need.”",
+        "That afternoon, the six board the next scheduled ferry and set out from Nacre toward mainland Lunara. Bash secures the case on deck. This time, their destination comes from two agreeing records rather than a frightening story.\n\nNova: “We're following a record, not a rumor.”",
+        "That evening at Meadowfold, Mend prepares for the travelers' next call. Rain asks her to close the little music box first. While they wait, he wants her voice without anything competing with it.\n\nRain: “Just your voice tonight, Mend. We can call the others after.”"
+      ],
+      "introduction": "The store's dispatch photograph carries an exhibition seal, but the travelers still need to verify its destination. Fizz keeps the old exhibition notices at the welcome hall. The visit also gives Beam a chance to ask for the kind of welcome he can actually enjoy.",
+      "title": "You Do Not Owe Us a Smile"
+    },
+    "es": {
+      "altTexts": [
+        "A la mañana siguiente, el archivo de despacho lleva a Nova y Beam al salón de bienvenida, donde Fizz guarda los avisos de exhibición. Fizz ha preparado una mesa frontal para los visitantes. La música del salón les llega hasta la puerta.",
+        "Beam se detiene ante la sala llena de música. Una vez, llegó al banco de Rain seguro de que una mayor ovación era la respuesta. Ahora sabe lo suficiente como para pedir algo más sin disculparse por ello.",
+        "Fizz lleva a Beam a la mesa auxiliar detrás de la cortina. También es un lugar para recibir a los invitados. Nadie va allí por haber celebrado de una manera incorrecta. Allí también hay dos tazas esperando.",
+        "Hush se une a Beam mientras que Fizz recupera la carpeta de avisos. No necesitan llenar la pausa con una actuación. Hush se expresa en lengua de signos al otro lado de la mesa, donde Beam puede ver cada gesto.",
+        "En la mesa auxiliar, Fizz compara el sello anillado del paquete con una invitación a una exposición conservada. Las marcas supervivientes del albarán de envío coinciden: la devolución fue al archivo de Lunara. El destino se comprueba, no se adivina únicamente a partir de una forma familiar.",
+        "Esa tarde, los seis abordan el siguiente ferry programado y parten desde Nacre hacia Lunara, en tierra firme. Bash asegura el estuche en la cubierta. Esta vez, su destino proviene de dos registros coincidentes en lugar de una historia aterradora.",
+        "Esa noche en Meadowfold, Mend se prepara para la próxima llamada de los viajeros. Rain le pide que primero cierre la cajita de música. Mientras esperan, él quiere su voz sin que nada compita con ella."
+      ],
+      "captions": [
+        "A la mañana siguiente, el archivo de despacho lleva a Nova y Beam al salón de bienvenida, donde Fizz guarda los avisos de exhibición. Fizz ha preparado una mesa frontal para los visitantes. La música del salón les llega hasta la puerta.\n\nFizz: \"¡Les guardamos la mesa de delante!\"",
+        "Beam se detiene ante la sala llena de música. Una vez, llegó al banco de Rain seguro de que una mayor ovación era la respuesta. Ahora sabe lo suficiente como para pedir algo más sin disculparse por ello.\n\nBeam: \"¿Puedo quedarme fuera de la parte ruidosa?\"",
+        "Fizz lleva a Beam a la mesa auxiliar detrás de la cortina. También es un lugar para recibir a los invitados. Nadie va allí por haber celebrado de una manera incorrecta. Allí también hay dos tazas esperando.\n\nFizz: \"Tú también eres bienvenido aquí\".",
+        "Hush se une a Beam mientras que Fizz recupera la carpeta de avisos. No necesitan llenar la pausa con una actuación. Hush se expresa en lengua de signos al otro lado de la mesa, donde Beam puede ver cada gesto.\n\nHush [en lengua de signos]: “Que esté en silencio no significa que sea infeliz”.",
+        "En la mesa auxiliar, Fizz compara el sello anillado del paquete con una invitación a una exposición conservada. Las marcas supervivientes del albarán de envío coinciden: la devolución fue al archivo de Lunara. El destino se comprueba, no se adivina únicamente a partir de una forma familiar.\n\nFizz: \"Archivo de Lunara. Esta invitación tiene la dirección que necesitas\".",
+        "Esa tarde, los seis abordan el siguiente ferry programado y parten desde Nacre hacia Lunara, en tierra firme. Bash asegura el estuche en la cubierta. Esta vez, su destino proviene de dos registros coincidentes en lugar de una historia aterradora.\n\nNova: “Seguimos un registro, no un rumor”.",
+        "Esa noche en Meadowfold, Mend se prepara para la próxima llamada de los viajeros. Rain le pide que primero cierre la cajita de música. Mientras esperan, él quiere su voz sin que nada compita con ella.\n\nRain: \"Solo tu voz esta noche, Mend. Podemos llamar a los demás después\"."
+      ],
+      "introduction": "La fotografía de despacho de la tienda lleva un sello de exhibición, pero los viajeros aún deben verificar su destino. Fizz guarda los antiguos avisos de exposición en el salón de bienvenida. La visita también le da a Beam la oportunidad de pedir el tipo de bienvenida que realmente puede disfrutar.",
+      "title": "No nos debes una sonrisa"
+    },
+    "fr": {
+      "altTexts": [
+        "Le lendemain matin, le dossier d'expédition emmène Nova et Beam dans le hall d'accueil, où Fizz conserve les invitations aux expositions. Fizz a préparé une table d'honneur pour les visiteurs. La musique de la salle leur parvient à la porte.",
+        "Beam fait une pause devant la salle remplie de musique. Une fois, il est arrivé au banc de Rain, sûr que des acclamations plus fortes étaient la réponse. Maintenant, il en sait assez pour demander autre chose sans s’en excuser.",
+        "Fizz conduit Beam à la table d'appoint derrière le rideau. Cela fait toujours partie de l'accueil, ce n'est pas un lieu pour quelqu'un qui n'a pas réussi à célébrer correctement. Il y a aussi deux tasses qui y attendent.",
+        "Hush rejoint Beam tandis que Fizz récupère le dossier des invitations. Ils n’ont pas besoin de remplir la pause avec une représentation. Hush fait des signes de l'autre côté de la table, où Beam peut voir chaque geste.",
+        "À la table d'appoint, Fizz compare le sceau annelé du colis avec une ancienne invitation à l'exposition. Les marques encore lisibles du bordereau d'expédition concordent : le retour est allé aux archives de Lunara. La destination est vérifiée, et non devinée à partir d'une seule forme familière.",
+        "Cet après-midi-là, les six voyageurs montent à bord du prochain ferry régulier et partent de Nacre vers Lunara, sur le continent. Bash sécurise la valise sur le pont. Cette fois, leur destination vient de deux documents concordants plutôt que d’une histoire effrayante.",
+        "Ce soir-là, à Meadowfold, Mend se prépare pour le prochain appel des voyageurs. Rain lui demande de fermer d'abord la petite boîte à musique. Pendant qu'ils attendent, il veut sa voix sans que rien ne la concurrence."
+      ],
+      "captions": [
+        "Le lendemain matin, le dossier d'expédition emmène Nova et Beam dans le hall d'accueil, où Fizz conserve les invitations aux expositions. Fizz a préparé une table d'honneur pour les visiteurs. La musique de la salle leur parvient à la porte.\n\nFizz : « Nous vous avons gardé une table devant ! »",
+        "Beam fait une pause devant la salle remplie de musique. Une fois, il est arrivé au banc de Rain, sûr que des acclamations plus fortes étaient la réponse. Maintenant, il en sait assez pour demander autre chose sans s’en excuser.\n\nBeam : « Est-ce que je peux éviter la partie bruyante ? »",
+        "Fizz conduit Beam à la table d'appoint derrière le rideau. Cela fait toujours partie de l'accueil, ce n'est pas un lieu pour quelqu'un qui n'a pas réussi à célébrer correctement. Il y a aussi deux tasses qui y attendent.\n\nFizz : « Tu es aussi le bienvenu ici. »",
+        "Hush rejoint Beam tandis que Fizz récupère le dossier des invitations. Ils n’ont pas besoin de remplir la pause avec une représentation. Hush fait des signes de l'autre côté de la table, où Beam peut voir chaque geste.\n\nHush [signe] : « Ce n'est pas parce que je suis silencieux que je suis malheureux. »",
+        "À la table d'appoint, Fizz compare le sceau annelé du colis avec une ancienne invitation à l'exposition. Les marques encore lisibles du bordereau d'expédition concordent : le retour est allé aux archives de Lunara. La destination est vérifiée, et non devinée à partir d'une seule forme familière.\n\nFizz : « Archives de Lunara. Cette invitation a l'adresse dont vous avez besoin. »",
+        "Cet après-midi-là, les six voyageurs montent à bord du prochain ferry régulier et partent de Nacre vers Lunara, sur le continent. Bash sécurise la valise sur le pont. Cette fois, leur destination vient de deux documents concordants plutôt que d’une histoire effrayante.\n\nNova : « Nous suivons un document, pas une rumeur. »",
+        "Ce soir-là, à Meadowfold, Mend se prépare pour le prochain appel des voyageurs. Rain lui demande de fermer d'abord la petite boîte à musique. Pendant qu'ils attendent, il veut sa voix sans que rien ne la concurrence.\n\nRain : « Juste ta voix ce soir, Mend. Nous pourrons appeler les autres après. »"
+      ],
+      "introduction": "La photographie d'expédition du magasin porte un sceau d'exposition, mais les voyageurs doivent encore vérifier sa destination. Fizz conserve les anciennes invitations aux expositions dans le hall d'accueil. Cette visite donne également à Beam l'occasion de demander un accueil dont il puisse vraiment profiter.",
+      "title": "Tu ne nous dois pas de sourire"
+    },
+    "hi": {
+      "altTexts": [
+        "अगली सुबह भेजने की फ़ाइल का सुराग Nova और Beam को स्वागत कक्ष लाता है। Fizz पुरानी प्रदर्शनी के नोटिस यहीं रखता है। उसने आगे की मेज़ तैयार की है। दरवाज़े पर ही संगीत सुनाई देता है।",
+        "संगीत भरे कमरे के सामने Beam रुकता है। कभी वह सोचता था कि ज़ोर से हँसी-खुशी मनाने से Rain को अच्छा लगेगा। अब वह जानता है कि बिना माफ़ी माँगे कुछ और चाह सकता है।",
+        "Fizz पर्दे के पीछे पास की मेज़ पर Beam को ले जाता है। वहाँ भी उसका स्वागत है। ठीक से जश्न न मनाने की सज़ा में उसे अलग नहीं किया गया। वहाँ भी दो कप हैं।",
+        "Fizz नोटिस की फ़ाइल लाता है और Hush, Beam के पास बैठता है। चुप्पी भरने के लिए खुश होने का अभिनय नहीं करना पड़ता। Hush मेज़ के उस पार संकेत करता है, जहाँ Beam हर हावभाव देख सकता है।",
+        "पास की मेज़ पर Fizz पार्सल की गोल घेरे वाली मुहर को पुरानी प्रदर्शनी के निमंत्रण से मिलाता है। भेजने की पर्ची के बचे निशान भी यही बताते हैं: पार्सल Lunara के अभिलेखागार लौटा था। केवल पहचानी आकृति से अंदाज़ा नहीं लगाया गया।",
+        "उस दोपहर छह दोस्त अगली तय नौका में चढ़कर Nacre से मुख्य भूमि के Lunara की ओर जाते हैं। Bash डेक पर बक्सा बाँधता है। इस बार गंतव्य दो मेल खाते रिकॉर्ड से तय है, डरावनी कहानी से नहीं।",
+        "उस शाम Meadowfold में Mend अगली कॉल की तैयारी करती है। Rain पहले छोटी संगीत-पेटी बंद करने को कहता है। इंतज़ार करते समय उसे सिर्फ़ Mend की आवाज़ चाहिए, उसके साथ कोई और आवाज़ नहीं।"
+      ],
+      "captions": [
+        "अगली सुबह भेजने की फ़ाइल का सुराग Nova और Beam को स्वागत कक्ष लाता है। Fizz पुरानी प्रदर्शनी के नोटिस यहीं रखता है। उसने आगे की मेज़ तैयार की है। दरवाज़े पर ही संगीत सुनाई देता है।\n\nFizz: \"तुम्हारे लिए सामने की मेज़ रखी है!\"",
+        "संगीत भरे कमरे के सामने Beam रुकता है। कभी वह सोचता था कि ज़ोर से हँसी-खुशी मनाने से Rain को अच्छा लगेगा। अब वह जानता है कि बिना माफ़ी माँगे कुछ और चाह सकता है।\n\nBeam: \"शोर वाले हिस्से में शामिल न होऊँ तो चलेगा?\"",
+        "Fizz पर्दे के पीछे पास की मेज़ पर Beam को ले जाता है। वहाँ भी उसका स्वागत है। ठीक से जश्न न मनाने की सज़ा में उसे अलग नहीं किया गया। वहाँ भी दो कप हैं।\n\nFizz: \"यहाँ भी तुम्हारी जगह है।\"",
+        "Fizz नोटिस की फ़ाइल लाता है और Hush, Beam के पास बैठता है। चुप्पी भरने के लिए खुश होने का अभिनय नहीं करना पड़ता। Hush मेज़ के उस पार संकेत करता है, जहाँ Beam हर हावभाव देख सकता है।\n\nHush [सांकेतिक भाषा में]: \"चुप हूँ, इसका मतलब दुखी होना नहीं।\"",
+        "पास की मेज़ पर Fizz पार्सल की गोल घेरे वाली मुहर को पुरानी प्रदर्शनी के निमंत्रण से मिलाता है। भेजने की पर्ची के बचे निशान भी यही बताते हैं: पार्सल Lunara के अभिलेखागार लौटा था। केवल पहचानी आकृति से अंदाज़ा नहीं लगाया गया।\n\nFizz: \"Lunara का अभिलेखागार। निमंत्रण में सही पता है।\"",
+        "उस दोपहर छह दोस्त अगली तय नौका में चढ़कर Nacre से मुख्य भूमि के Lunara की ओर जाते हैं। Bash डेक पर बक्सा बाँधता है। इस बार गंतव्य दो मेल खाते रिकॉर्ड से तय है, डरावनी कहानी से नहीं।\n\nNova: \"हम रिकॉर्ड का सुराग खोज रहे हैं, अफ़वाह का नहीं।\"",
+        "उस शाम Meadowfold में Mend अगली कॉल की तैयारी करती है। Rain पहले छोटी संगीत-पेटी बंद करने को कहता है। इंतज़ार करते समय उसे सिर्फ़ Mend की आवाज़ चाहिए, उसके साथ कोई और आवाज़ नहीं।\n\nRain: \"आज बस तुम्हारी बात सुनूँ, Mend। बाकी दोस्तों को बाद में फ़ोन कर लेंगे।\""
+      ],
+      "introduction": "दुकान से भेजने की तस्वीर में प्रदर्शनी की मुहर है, मगर गंतव्य जाँचना बाकी है। Fizz पुराने नोटिस स्वागत कक्ष में रखता है। वहीं Beam बता सकता है कि उसे किस तरह का स्वागत सच में अच्छा लगेगा।",
+      "title": "हमारे लिए मुस्कुराना ज़रूरी नहीं"
+    },
+    "id": {
+      "altTexts": [
+        "Keesokan paginya, berkas pengiriman membawa Nova dan Beam ke aula penyambutan, tempat Fizz menyimpan pemberitahuan pameran. Fizz telah menyiapkan meja depan untuk para pengunjung. Musik dari aula mencapai mereka di ambang pintu.",
+        "Beam berhenti sejenak di depan ruangan yang dipenuhi musik. Suatu kali, dia tiba di bangku Rain dan yakin bahwa sorakan yang lebih keras adalah jawabannya. Sekarang dia cukup tahu untuk meminta sesuatu yang lain tanpa meminta maaf.",
+        "Fizz mengarahkan Beam ke meja samping di belakang tirai. Para tamu tetap disambut di sini. Meja ini bukan tempat hukuman bagi orang yang dianggap salah merayakan pesta. Ada dua cangkir yang menunggu di sana juga.",
+        "Hush bergabung dengan Beam sementara Fizz mengambil folder pemberitahuan. Mereka tidak perlu mengisi jeda dengan penampilan. Hush memberi tanda di seberang meja, tempat Beam dapat melihat setiap gerakan.",
+        "Di meja samping, Fizz membandingkan segel cincin parsel dengan undangan pameran yang masih tersimpan. Tanda yang tersisa pada slip pengiriman cocok: pengembaliannya disimpan di arsip Lunara. Tujuannya sudah diperiksa, bukan ditebak dari bentuk yang familiar saja.",
+        "Sore itu, keenamnya menaiki feri terjadwal berikutnya dan berangkat dari Nacre menuju daratan Lunara. Bash mengamankan koper di dek. Kali ini, tujuan mereka datang dari dua catatan yang saling cocok, bukan dari cerita yang menakutkan.",
+        "Malam itu di Meadowfold, Mend bersiap untuk panggilan para pelancong berikutnya. Rain memintanya untuk menutup kotak musik kecil terlebih dahulu. Sementara mereka menunggu, dia menginginkan suaranya tanpa ada yang menandinginya."
+      ],
+      "captions": [
+        "Keesokan paginya, berkas pengiriman membawa Nova dan Beam ke aula penyambutan, tempat Fizz menyimpan pemberitahuan pameran. Fizz telah menyiapkan meja depan untuk para pengunjung. Musik dari aula mencapai mereka di ambang pintu.\n\nFizz: “Kami menyisakan meja depan untuk kalian!”",
+        "Beam berhenti sejenak di depan ruangan yang dipenuhi musik. Suatu kali, dia tiba di bangku Rain dan yakin bahwa sorakan yang lebih keras adalah jawabannya. Sekarang dia cukup tahu untuk meminta sesuatu yang lain tanpa meminta maaf.\n\nBeam: “Bisakah aku melewatkan bagian yang berisik?”",
+        "Fizz mengarahkan Beam ke meja samping di belakang tirai. Para tamu tetap disambut di sini. Meja ini bukan tempat hukuman bagi orang yang dianggap salah merayakan pesta. Ada dua cangkir yang menunggu di sana juga.\n\nFizz: “Kamu juga diterima di sini.”",
+        "Hush bergabung dengan Beam sementara Fizz mengambil folder pemberitahuan. Mereka tidak perlu mengisi jeda dengan penampilan. Hush memberi tanda di seberang meja, tempat Beam dapat melihat setiap gerakan.\n\nHush [berbahasa isyarat]: “Diam bukan berarti aku tidak bahagia.”",
+        "Di meja samping, Fizz membandingkan segel cincin parsel dengan undangan pameran yang masih tersimpan. Tanda yang tersisa pada slip pengiriman cocok: pengembaliannya disimpan di arsip Lunara. Tujuannya sudah diperiksa, bukan ditebak dari bentuk yang familiar saja.\n\nFizz: \"Arsip Lunara. Undangan ini berisi alamat yang kamu perlukan.\"",
+        "Sore itu, keenamnya menaiki feri terjadwal berikutnya dan berangkat dari Nacre menuju daratan Lunara. Bash mengamankan koper di dek. Kali ini, tujuan mereka datang dari dua catatan yang saling cocok, bukan dari cerita yang menakutkan.\n\nNova: “Kami mengikuti catatan, bukan rumor.”",
+        "Malam itu di Meadowfold, Mend bersiap untuk panggilan para pelancong berikutnya. Rain memintanya untuk menutup kotak musik kecil terlebih dahulu. Sementara mereka menunggu, dia menginginkan suaranya tanpa ada yang menandinginya.\n\nRain: \"Hanya suaramu malam ini, Mend. Kita bisa menghubungi yang lain setelahnya.\""
+      ],
+      "introduction": "Foto pengiriman toko tersebut memiliki segel pameran, namun para pelancong masih perlu memverifikasi tujuannya. Fizz menyimpan pemberitahuan pameran lama di aula penyambutan. Kunjungan ini juga memberikan kesempatan bagi Beam untuk menanyakan sambutan seperti apa yang sebenarnya bisa dia nikmati.",
+      "title": "Kamu Tidak Berutang Senyum pada Kami"
+    },
+    "it": {
+      "altTexts": [
+        "La mattina successiva, il file di spedizione porta Nova e Beam nella sala di benvenuto, dove Fizz conserva gli avvisi della fiera. Fizz ha preparato un tavolo in prima fila per i visitatori. La musica dall'atrio li raggiunge sulla soglia.",
+        "Beam fa una pausa davanti alla stanza piena di musica. Una volta arrivò alla panchina di Rain sicuro che un tifo più forte fosse la risposta. Adesso ne sa abbastanza per chiedere qualcos'altro senza scusarsi.",
+        "Fizz conduce Beam al tavolino dietro la tenda. Anche qui gli ospiti sono benvenuti. Nessuno viene mandato qui per aver festeggiato nel modo sbagliato. Ci sono anche due tazze che aspettano lì.",
+        "Hush si unisce a Beam mentre Fizz recupera la cartella degli avvisi. Non hanno bisogno di riempire la pausa con una performance. Hush comunica con i segni dall'altra parte del tavolo, dove Beam può vedere ogni gesto.",
+        "Al tavolino, Fizz confronta il sigillo ad anello del pacco con un invito alla mostra conservato. I segni sopravvissuti sulla ricevuta di spedizione concordano: il reso è finito nell'archivio di Lunara. La destinazione viene controllata, non indovinata solo da una forma familiare.",
+        "Quel pomeriggio, i sei si imbarcano sul successivo traghetto di linea e partono da Nacre verso Lunara, sulla terraferma. Bash protegge la custodia sul ponte. Questa volta, la loro destinazione deriva da due documenti concordanti piuttosto che da una storia spaventosa.",
+        "Quella sera a Meadowfold, Mend si prepara per la prossima chiamata dei viaggiatori. Rain le chiede di chiudere prima il carillon. Mentre aspettano, vuole la sua voce senza che nulla possa competere con essa."
+      ],
+      "captions": [
+        "La mattina successiva, il file di spedizione porta Nova e Beam nella sala di benvenuto, dove Fizz conserva gli avvisi della fiera. Fizz ha preparato un tavolo in prima fila per i visitatori. La musica dall'atrio li raggiunge sulla soglia.\n\nFizz: \"Vi abbiamo tenuto il tavolo davanti!\"",
+        "Beam fa una pausa davanti alla stanza piena di musica. Una volta arrivò alla panchina di Rain sicuro che un tifo più forte fosse la risposta. Adesso ne sa abbastanza per chiedere qualcos'altro senza scusarsi.\n\nBeam: \"Posso evitare la parte rumorosa?\"",
+        "Fizz conduce Beam al tavolino dietro la tenda. Anche qui gli ospiti sono benvenuti. Nessuno viene mandato qui per aver festeggiato nel modo sbagliato. Ci sono anche due tazze che aspettano lì.\n\nFizz: \"Anche qui sei il benvenuto.\"",
+        "Hush si unisce a Beam mentre Fizz recupera la cartella degli avvisi. Non hanno bisogno di riempire la pausa con una performance. Hush comunica con i segni dall'altra parte del tavolo, dove Beam può vedere ogni gesto.\n\nHush [in lingua dei segni]: \"Il mio silenzio non significa che io sia infelice.\"",
+        "Al tavolino, Fizz confronta il sigillo ad anello del pacco con un invito alla mostra conservato. I segni sopravvissuti sulla ricevuta di spedizione concordano: il reso è finito nell'archivio di Lunara. La destinazione viene controllata, non indovinata solo da una forma familiare.\n\nFizz: \"Archivio di Lunara. Questo invito ha l'indirizzo che ti serve.\"",
+        "Quel pomeriggio, i sei si imbarcano sul successivo traghetto di linea e partono da Nacre verso Lunara, sulla terraferma. Bash protegge la custodia sul ponte. Questa volta, la loro destinazione deriva da due documenti concordanti piuttosto che da una storia spaventosa.\n\nNova: \"Stiamo seguendo un documento, non una voce.\"",
+        "Quella sera a Meadowfold, Mend si prepara per la prossima chiamata dei viaggiatori. Rain le chiede di chiudere prima il carillon. Mentre aspettano, vuole la sua voce senza che nulla possa competere con essa.\n\nRain: \"Solo la tua voce stasera, Mend. Dopo potremo chiamare gli altri.\""
+      ],
+      "introduction": "La fotografia della spedizione del negozio porta un sigillo espositivo, ma i viaggiatori devono ancora verificarne la destinazione. Fizz conserva i vecchi avvisi della mostra nella sala di accoglienza. La visita dà anche a Beam la possibilità di chiedere il tipo di accoglienza di cui può effettivamente godere.",
+      "title": "Non ci devi un sorriso"
+    },
+    "ja": {
+      "altTexts": [
+        "翌朝、発送書類を手がかりに、NovaとBeamは迎賓ホールを訪ねます。Fizzはここで展覧会のお知らせを保管しています。来客のために、前の方のテーブルも用意してくれていました。ホールからの音楽が玄関に届きます。",
+        "Beam は音楽で満たされた部屋の前で立ち止まります。一度、彼はより大きな歓声が答えだと確信してRainのベンチに到着しました。今では、彼は謝ることなく別のものを要求できることを十分に知っています。",
+        "Fizz は Beam をカーテンの後ろのサイドテーブルに導きます。静かな席を選んでも、歓迎されていることに変わりはありません。うまく楽しめないから追いやられたわけではないのです。そこにもカップが2つ待っています。",
+        "Hush は Beam に参加し、Fizz は通知フォルダーを取得します。休憩時間をパフォーマンスで埋める必要はありません。 Hush はテーブル越しに手話で話し、Beam はすべてのジェスチャーを確認できます。",
+        "サイドテーブルで、Fizz は小包の円で囲まれた印と保存されている展覧会の招待状を比較します。発送伝票の残存マークは一致しています。返品は Lunara の資料館に送られました。見慣れた形状だけから目的地を推測するのではなく、目的地を確認します。",
+        "その日の午後、6人は次に予定されているフェリーに乗り、Nacreから本土のLunaraに向けて出発した。 Bash はケースをデッキに固定します。今回、彼らの目的地は恐ろしい物語ではなく、2 つの一致する記録から来ています。",
+        "その夜、Meadowfold では、Mend が旅行者からの次の電話に備えています。 Rain は、最初に小さなオルゴールを閉じるように彼女に頼みます。彼らが待っている間、Rainは、ほかの音に邪魔されず、Mendの声だけを聞いていたいのです。"
+      ],
+      "captions": [
+        "翌朝、発送書類を手がかりに、NovaとBeamは迎賓ホールを訪ねます。Fizzはここで展覧会のお知らせを保管しています。来客のために、前の方のテーブルも用意してくれていました。ホールからの音楽が玄関に届きます。\n\nFizz: 「前の方のテーブルを空けておきました！」",
+        "Beam は音楽で満たされた部屋の前で立ち止まります。一度、彼はより大きな歓声が答えだと確信してRainのベンチに到着しました。今では、彼は謝ることなく別のものを要求できることを十分に知っています。\n\nBeam: 「にぎやかな場所は遠慮してもいいですか?」",
+        "Fizz は Beam をカーテンの後ろのサイドテーブルに導きます。静かな席を選んでも、歓迎されていることに変わりはありません。うまく楽しめないから追いやられたわけではないのです。そこにもカップが2つ待っています。\n\nFizz: 「こちらの席でも、もちろん大歓迎です。」",
+        "Hush は Beam に参加し、Fizz は通知フォルダーを取得します。休憩時間をパフォーマンスで埋める必要はありません。 Hush はテーブル越しに手話で話し、Beam はすべてのジェスチャーを確認できます。\n\nHush [手話]: 「静かだからといって、私が不幸だというわけではありません。」",
+        "サイドテーブルで、Fizz は小包の円で囲まれた印と保存されている展覧会の招待状を比較します。発送伝票の残存マークは一致しています。返品は Lunara の資料館に送られました。見慣れた形状だけから目的地を推測するのではなく、目的地を確認します。\n\nFizz: 「Lunara の資料館。この招待状には探している住所が記載されています。」",
+        "その日の午後、6人は次に予定されているフェリーに乗り、Nacreから本土のLunaraに向けて出発した。 Bash はケースをデッキに固定します。今回、彼らの目的地は恐ろしい物語ではなく、2 つの一致する記録から来ています。\n\nNova: 「私たちは噂ではなく記録を追っています。」",
+        "その夜、Meadowfold では、Mend が旅行者からの次の電話に備えています。 Rain は、最初に小さなオルゴールを閉じるように彼女に頼みます。彼らが待っている間、Rainは、ほかの音に邪魔されず、Mendの声だけを聞いていたいのです。\n\nRain: 「今夜はあなたの声だけ、Mend。後で他の人たちに電話しましょう。」"
+      ],
+      "introduction": "店の発送写真には展覧会の印が写っていますが、旅行者は目的地を確認する必要があります。 Fizz は古い展示会のお知らせを迎賓ホールに保管しています。この訪問は、Beamが心地よいと感じる迎え方をお願いする機会にもなります。",
+      "title": "あなたは私たちに笑顔を見せる義務はない"
+    },
+    "ko": {
+      "altTexts": [
+        "다음날 아침 Nova와 Beam은 발송 서류를 따라, Fizz가 전시 공지를 보관하는 환영 홀을 찾아갑니다. Fizz는 방문객들을 위한 프론트 테이블을 준비했습니다. 홀의 음악이 출입구까지 도달합니다.",
+        "Beam은 음악이 가득한 방 앞에서 잠시 멈춥니다. 한번은 그는 더 큰 환호가 답이라고 확신하면서 Rain의 벤치에 도착했습니다. 이제 그는 사과하지 않고도 다른 것을 요구할 만큼 충분히 알고 있습니다.",
+        "Fizz는 Beam을 커튼 뒤의 사이드 테이블로 안내합니다. 조용한 자리를 골라도 환영받는 것은 마찬가지입니다. 함께 즐기지 못한다며 밀려난 자리가 아닙니다. 거기에도 두 개의 컵이 기다리고 있어요.",
+        "Hush는 Beam에 합류하고 Fizz는 알림 폴더를 가져옵니다. 잠시 쉬는 시간을 공연으로 채울 필요는 없습니다. Hush는 테이블 너머로 수어를 하며 Beam은 모든 동작을 볼 수 있습니다.",
+        "사이드 테이블에서 Fizz는 소포의 고리 모양 봉인을 보존된 전시회 초대장과 비교합니다. 발송 전표에 남은 표시가 일치합니다. 반송된 소포는 Lunara의 기록 보관소로 보내졌습니다. 익숙한 모양만으로 목적지를 추측하는 것이 아니라 목적지를 확인합니다.",
+        "그날 오후, 6명은 다음 예정된 페리에 탑승하여 Nacre에서 본토 Lunara를 향해 출발했습니다. Bash는 케이스를 데크에 고정합니다. 이번에 그들의 목적지는 무서운 이야기라기보다 서로 일치하는 두 기록에서 비롯된다.",
+        "그날 저녁 Meadowfold에서 Mend는 여행자의 다음 전화를 준비합니다. Rain은 그녀에게 먼저 작은 오르골을 닫아달라고 부탁합니다. 그들이 기다리는 동안 그는 다른 소리에 가리지 않는 Mend의 목소리만 듣고 싶어 합니다."
+      ],
+      "captions": [
+        "다음날 아침 Nova와 Beam은 발송 서류를 따라, Fizz가 전시 공지를 보관하는 환영 홀을 찾아갑니다. Fizz는 방문객들을 위한 프론트 테이블을 준비했습니다. 홀의 음악이 출입구까지 도달합니다.\n\nFizz: “앞쪽 테이블을 비워 뒀어요!”",
+        "Beam은 음악이 가득한 방 앞에서 잠시 멈춥니다. 한번은 그는 더 큰 환호가 답이라고 확신하면서 Rain의 벤치에 도착했습니다. 이제 그는 사과하지 않고도 다른 것을 요구할 만큼 충분히 알고 있습니다.\n\nBeam: “시끄러운 자리는 빠져도 될까요?”",
+        "Fizz는 Beam을 커튼 뒤의 사이드 테이블로 안내합니다. 조용한 자리를 골라도 환영받는 것은 마찬가지입니다. 함께 즐기지 못한다며 밀려난 자리가 아닙니다. 거기에도 두 개의 컵이 기다리고 있어요.\n\nFizz: “여기에서도 환영해요.”",
+        "Hush는 Beam에 합류하고 Fizz는 알림 폴더를 가져옵니다. 잠시 쉬는 시간을 공연으로 채울 필요는 없습니다. Hush는 테이블 너머로 수어를 하며 Beam은 모든 동작을 볼 수 있습니다.\n\nHush [수어]: “조용하다고 해서 내가 불행하다는 뜻은 아닙니다.”",
+        "사이드 테이블에서 Fizz는 소포의 고리 모양 봉인을 보존된 전시회 초대장과 비교합니다. 발송 전표에 남은 표시가 일치합니다. 반송된 소포는 Lunara의 기록 보관소로 보내졌습니다. 익숙한 모양만으로 목적지를 추측하는 것이 아니라 목적지를 확인합니다.\n\nFizz: \"Lunara의 기록 보관소예요. 이 초대장에는 필요한 주소가 있습니다.\"",
+        "그날 오후, 6명은 다음 예정된 페리에 탑승하여 Nacre에서 본토 Lunara를 향해 출발했습니다. Bash는 케이스를 데크에 고정합니다. 이번에 그들의 목적지는 무서운 이야기라기보다 서로 일치하는 두 기록에서 비롯된다.\n\nNova: “우리는 소문이 아닌 기록을 따르고 있습니다.”",
+        "그날 저녁 Meadowfold에서 Mend는 여행자의 다음 전화를 준비합니다. Rain은 그녀에게 먼저 작은 오르골을 닫아달라고 부탁합니다. 그들이 기다리는 동안 그는 다른 소리에 가리지 않는 Mend의 목소리만 듣고 싶어 합니다.\n\nRain: \"오늘 밤에는 목소리만 들려주세요, Mend. 나중에 다른 사람들에게 전화하면 됩니다.\""
+      ],
+      "introduction": "가게의 발송 사진에 전시 인장이 보이지만 여행자는 목적지를 확인해야 한다. Fizz는 환영 홀에 오래된 전시 공지를 보관하고 있습니다. 이 방문은 또한 Beam에게 그가 실제로 즐길 수 있는 환영을 요청할 기회를 제공합니다.",
+      "title": "억지로 웃지 않아도 괜찮아"
+    },
+    "pl": {
+      "altTexts": [
+        "Następnego ranka dokumenty wysyłki prowadzą Novę i Beama do sali powitalnej, gdzie Fizz przechowuje ogłoszenia o wystawach. Fizz przygotował dla gości stół z przodu sali. Muzyka z sali dociera do nich już od progu.",
+        "Beam zatrzymuje się przed wypełnionym muzyką pokojem. Kiedyś przyszedł do ławki Raina, przekonany, że wystarczy głośniej go rozweselać. Teraz wie już wystarczająco dużo, aby poprosić o coś innego, nie przepraszając za to.",
+        "Fizz prowadzi Beama do bocznego stolika za zasłoną. Także tutaj Beam jest mile widziany; wybór ciszy nie oznacza wykluczenia. Tam też czekają dwa kubki.",
+        "Hush dołącza do Beama, podczas gdy Fizz przynosi teczkę z ogłoszeniami. Nie muszą wypełniać przerwy występem. Hush miga po drugiej stronie stołu, gdzie Beam widzi każdy gest.",
+        "Na bocznym stoliku Fizz porównuje pieczęć paczki z kwiatem w okręgu z zachowanym zaproszeniem na wystawę. Zachowane znaki na potwierdzeniu wysyłki zgadzają się: zwrot trafił do archiwum w Lunarze. Cel podróży jest sprawdzany, a nie odgadywany na podstawie samego znanego kształtu.",
+        "Tego popołudnia cała szóstka wsiada na następny regularny prom i wypływa z Nacre w kierunku Lunary na kontynencie. Bash zabezpiecza walizkę na pokładzie. Tym razem ich cel wynika z dwóch zgodnych zapisów, a nie z przerażającej historii.",
+        "Tego wieczoru na łące Meadowfold Mend przygotowuje się na kolejny telefon od podróżników. Rain prosi ją, aby najpierw zamknęła małą pozytywkę. Podczas gdy oni czekają, on pragnie jej głosu, bez niczego, co mogłoby z nim konkurować."
+      ],
+      "captions": [
+        "Następnego ranka dokumenty wysyłki prowadzą Novę i Beama do sali powitalnej, gdzie Fizz przechowuje ogłoszenia o wystawach. Fizz przygotował dla gości stół z przodu sali. Muzyka z sali dociera do nich już od progu.\n\nFizz: „Zarezerwowaliśmy dla was stół z przodu!”",
+        "Beam zatrzymuje się przed wypełnionym muzyką pokojem. Kiedyś przyszedł do ławki Raina, przekonany, że wystarczy głośniej go rozweselać. Teraz wie już wystarczająco dużo, aby poprosić o coś innego, nie przepraszając za to.\n\nBeam: „Czy mógłbym ominąć hałaśliwą część?”",
+        "Fizz prowadzi Beama do bocznego stolika za zasłoną. Także tutaj Beam jest mile widziany; wybór ciszy nie oznacza wykluczenia. Tam też czekają dwa kubki.\n\nFizz: „Ty też jesteś tu mile widziany.”",
+        "Hush dołącza do Beama, podczas gdy Fizz przynosi teczkę z ogłoszeniami. Nie muszą wypełniać przerwy występem. Hush miga po drugiej stronie stołu, gdzie Beam widzi każdy gest.\n\nHush [w języku migowym]: „To, że milczę, nie znaczy, że źle się czuję”.",
+        "Na bocznym stoliku Fizz porównuje pieczęć paczki z kwiatem w okręgu z zachowanym zaproszeniem na wystawę. Zachowane znaki na potwierdzeniu wysyłki zgadzają się: zwrot trafił do archiwum w Lunarze. Cel podróży jest sprawdzany, a nie odgadywany na podstawie samego znanego kształtu.\n\nFizz: \"Archiwum w Lunarze. To zaproszenie zawiera potrzebny adres.\"",
+        "Tego popołudnia cała szóstka wsiada na następny regularny prom i wypływa z Nacre w kierunku Lunary na kontynencie. Bash zabezpiecza walizkę na pokładzie. Tym razem ich cel wynika z dwóch zgodnych zapisów, a nie z przerażającej historii.\n\nNova: „Podążamy za dokumentem, a nie plotką”.",
+        "Tego wieczoru na łące Meadowfold Mend przygotowuje się na kolejny telefon od podróżników. Rain prosi ją, aby najpierw zamknęła małą pozytywkę. Podczas gdy oni czekają, on pragnie jej głosu, bez niczego, co mogłoby z nim konkurować.\n\nRain: \"Tylko twój głos dziś wieczorem, Mend. Później możemy zadzwonić do pozostałych.\""
+      ],
+      "introduction": "Zdjęcie wysyłkowe sklepu opatrzone jest pieczęcią wystawową, ale podróżni muszą jeszcze zweryfikować miejsce przeznaczenia. Fizz przechowuje stare ogłoszenia o wystawie w holu powitalnym. Wizyta daje też Beamowi szansę poproszenia o takie powitanie, które naprawdę sprawi mu przyjemność.",
+      "title": "Nie jesteś nam winien uśmiechu"
+    },
+    "pt": {
+      "altTexts": [
+        "Na manhã seguinte, o arquivo de despacho leva Nova e Beam ao salão de boas-vindas, onde Fizz guarda os avisos de exposição. Fizz preparou uma mesa frontal para os visitantes. A música do salão chega até eles na porta.",
+        "Beam faz uma pausa diante da sala cheia de música. Certa vez, ele chegou ao banco de Rain com certeza de que uma torcida mais alta seria a resposta. Agora ele sabe o suficiente para pedir outra coisa sem se desculpar.",
+        "Fizz conduz Beam até a mesa lateral atrás da cortina. Os convidados também são bem-vindos ali. Ninguém é mandado para essa mesa por ter festejado do jeito errado. Há duas xícaras esperando lá também.",
+        "Hush junta-se a Beam enquanto Fizz busca a pasta de avisos. Eles não precisam preencher a pausa com uma apresentação. Hush sinaliza sobre a mesa, onde Beam pode ver cada gesto.",
+        "Na mesa lateral, Fizz compara o selo do pacote com um convite de exposição preservado. As marcas sobreviventes do recibo de despacho concordam: a devolução foi para o arquivo de Lunara. O destino é verificado, não adivinhado apenas por uma forma familiar.",
+        "Naquela tarde, os seis embarcam na próxima balsa programada e partem de Nacre rumo a Lunara, no continente. Bash protege a caixa no convés. Desta vez, o destino deles vem de dois registros concordantes, e não de uma história assustadora.",
+        "Naquela noite, em Meadowfold, Mend se prepara para a próxima ligação dos viajantes. Rain pede que ela feche primeiro a caixinha de música. Enquanto esperam, ele quer a voz dela sem nada competir com ela."
+      ],
+      "captions": [
+        "Na manhã seguinte, o arquivo de despacho leva Nova e Beam ao salão de boas-vindas, onde Fizz guarda os avisos de exposição. Fizz preparou uma mesa frontal para os visitantes. A música do salão chega até eles na porta.\n\nFizz: “Guardamos a mesa da frente para vocês!”",
+        "Beam faz uma pausa diante da sala cheia de música. Certa vez, ele chegou ao banco de Rain com certeza de que uma torcida mais alta seria a resposta. Agora ele sabe o suficiente para pedir outra coisa sem se desculpar.\n\nBeam: “Posso pular a parte barulhenta?”",
+        "Fizz conduz Beam até a mesa lateral atrás da cortina. Os convidados também são bem-vindos ali. Ninguém é mandado para essa mesa por ter festejado do jeito errado. Há duas xícaras esperando lá também.\n\nFizz: “Você também é bem-vindo aqui.”",
+        "Hush junta-se a Beam enquanto Fizz busca a pasta de avisos. Eles não precisam preencher a pausa com uma apresentação. Hush sinaliza sobre a mesa, onde Beam pode ver cada gesto.\n\nHush [em língua de sinais]: “Silêncio não significa que estou infeliz.”",
+        "Na mesa lateral, Fizz compara o selo do pacote com um convite de exposição preservado. As marcas sobreviventes do recibo de despacho concordam: a devolução foi para o arquivo de Lunara. O destino é verificado, não adivinhado apenas por uma forma familiar.\n\nFizz: \"Arquivo Lunara. Este convite tem o endereço que você precisa.\"",
+        "Naquela tarde, os seis embarcam na próxima balsa programada e partem de Nacre rumo a Lunara, no continente. Bash protege a caixa no convés. Desta vez, o destino deles vem de dois registros concordantes, e não de uma história assustadora.\n\nNova: “Estamos seguindo um registro, não um boato.”",
+        "Naquela noite, em Meadowfold, Mend se prepara para a próxima ligação dos viajantes. Rain pede que ela feche primeiro a caixinha de música. Enquanto esperam, ele quer a voz dela sem nada competir com ela.\n\nRain: \"Apenas sua voz esta noite, Mend. Podemos ligar para os outros depois.\""
+      ],
+      "introduction": "A fotografia de despacho da loja traz selo de exposição, mas os viajantes ainda precisam verificar seu destino. Fizz mantém os antigos avisos de exposição no salão de boas-vindas. A visita também dá a Beam a oportunidade de pedir o tipo de boas-vindas que ele realmente pode desfrutar.",
+      "title": "Você não nos deve um sorriso"
+    },
+    "ru": {
+      "altTexts": [
+        "На следующее утро документы об отправке приводят Nova и Beam в зал приема, где Fizz хранит уведомления о выставке. Fizz подготовил для посетителей стол в передней части зала. Музыка из зала доносится до них с порога.",
+        "Beam останавливается перед наполненной музыкой комнатой. Однажды он подошел к скамейке Rain, уверенный, что его нужно просто сильнее развеселить. Теперь он знает достаточно, чтобы попросить о чем-то еще, не извиняясь за это.",
+        "Fizz ведет Beam к столику за занавеской. Здесь ему тоже рады; выбор тишины не делает его нежеланным гостем. Там тоже ждут две чашки.",
+        "Hush присоединяется к Beam, а Fizz извлекает папку объявлений. Им не нужно заполнять паузу выступлением. Hush делает жесты через стол, где Beam может видеть каждый жест.",
+        "За боковым столиком Fizz сравнивает печать на посылке с цветком в круге с сохранившимся приглашением на выставку. Сохранившиеся отметки на бланке отправки совпадают: возврат был отправлен в архив Lunara. Пункт назначения проверяется, а не угадывается только по знакомой форме.",
+        "В тот же день все шестеро садятся на следующий паром по расписанию и отправляются из Nacre в Lunara на материке. Bash фиксирует чемодан на палубе. На этот раз их пункт назначения связан с двумя совпадающими записями, а не с пугающей историей.",
+        "В тот вечер на лугу Meadowfold Mend готовится к следующему звонку путешественников. Rain просит ее сначала закрыть музыкальную шкатулку. Пока они ждут, он хочет слышать ее голос, не заглушаемый музыкой."
+      ],
+      "captions": [
+        "На следующее утро документы об отправке приводят Nova и Beam в зал приема, где Fizz хранит уведомления о выставке. Fizz подготовил для посетителей стол в передней части зала. Музыка из зала доносится до них с порога.\n\nFizz: «Мы оставили вам стол впереди!»",
+        "Beam останавливается перед наполненной музыкой комнатой. Однажды он подошел к скамейке Rain, уверенный, что его нужно просто сильнее развеселить. Теперь он знает достаточно, чтобы попросить о чем-то еще, не извиняясь за это.\n\nBeam: «Могу ли я пропустить самую громкую часть?»",
+        "Fizz ведет Beam к столику за занавеской. Здесь ему тоже рады; выбор тишины не делает его нежеланным гостем. Там тоже ждут две чашки.\n\nFizz: «Тебе тоже здесь рады».",
+        "Hush присоединяется к Beam, а Fizz извлекает папку объявлений. Им не нужно заполнять паузу выступлением. Hush делает жесты через стол, где Beam может видеть каждый жест.\n\nHush [на языке жестов]: «Если я молчу, это не значит, что мне плохо».",
+        "За боковым столиком Fizz сравнивает печать на посылке с цветком в круге с сохранившимся приглашением на выставку. Сохранившиеся отметки на бланке отправки совпадают: возврат был отправлен в архив Lunara. Пункт назначения проверяется, а не угадывается только по знакомой форме.\n\nFizz: \"Архив Lunara. В этом приглашении есть нужный вам адрес\".",
+        "В тот же день все шестеро садятся на следующий паром по расписанию и отправляются из Nacre в Lunara на материке. Bash фиксирует чемодан на палубе. На этот раз их пункт назначения связан с двумя совпадающими записями, а не с пугающей историей.\n\nNova: «Мы идем по документальному следу, а не за слухами».",
+        "В тот вечер на лугу Meadowfold Mend готовится к следующему звонку путешественников. Rain просит ее сначала закрыть музыкальную шкатулку. Пока они ждут, он хочет слышать ее голос, не заглушаемый музыкой.\n\nRain: \"Сегодня вечером только твой голос, Mend. Мы можем позвонить остальным позже\"."
+      ],
+      "introduction": "На фотографии отправки из магазина имеется выставочная печать, но путешественникам все равно необходимо подтвердить место назначения. Fizz хранит старые объявления о выставке в зале приветствия. Этот визит также дает Beam возможность попросить о приеме, который ему действительно может понравиться.",
+      "title": "Ты не обязан нам улыбаться"
+    },
+    "tr": {
+      "altTexts": [
+        "Ertesi sabah, sevk dosyası Nova ve Beam'i, Fizz'in sergi duyurularını sakladığı karşılama salonuna götürür. Fizz ziyaretçiler için bir ön masa hazırladı. Salondan gelen müzik kapı eşiğine kadar onlara ulaşıyor.",
+        "Beam müzikle dolu odanın önünde duruyor. Rain'in bankına ilk geldiğinde onu daha çok neşelendirmenin çözüm olacağını sanmıştı. Artık özür dilemeden başka bir şey isteyebilecek kadar bilgi sahibidir.",
+        "Fizz, Beam'i perdenin arkasındaki yan masaya götürüyor. Beam burada da misafir olarak karşılanıyor; sessizliği tercih ettiği için dışlanmıyor. Orada da bekleyen iki bardak var.",
+        "Hush, Beam'e katılırken Fizz, bildirim klasörünü getirir. Duraklamayı bir performansla doldurmaları gerekmez. Hush, Beam'in her hareketi görebileceği masanın karşısında işaretler veriyor.",
+        "Yan masada Fizz, paketin halkalı mührünü korunmuş bir sergi davetiyesiyle karşılaştırıyor. Sevk makbuzunda kalan işaretler birbiriyle uyuşuyor: İade Lunara'nın arşivine gitti. Hedef, yalnızca tanıdık bir şekilden tahmin edilmek yerine kontrol edilir.",
+        "O öğleden sonra, altı kişi bir sonraki tarifeli feribota biniyor ve Nacre'den Lunara ana karasına doğru yola çıkıyor. Bash kasayı güvertede korur. Bu sefer varış noktaları korkutucu bir hikayeden çok, birbiriyle uyuşan iki kayıttan geliyor.",
+        "O akşam Meadowfold çayırında Mend, gezginlerin bir sonraki çağrısına hazırlanıyor. Rain ondan önce küçük müzik kutusunu kapatmasını istiyor. Onlar beklerken, hiçbir şeyle rekabet etmeden onun sesini istiyor."
+      ],
+      "captions": [
+        "Ertesi sabah, sevk dosyası Nova ve Beam'i, Fizz'in sergi duyurularını sakladığı karşılama salonuna götürür. Fizz ziyaretçiler için bir ön masa hazırladı. Salondan gelen müzik kapı eşiğine kadar onlara ulaşıyor.\n\nFizz: “Size öndeki masayı ayırdık!”",
+        "Beam müzikle dolu odanın önünde duruyor. Rain'in bankına ilk geldiğinde onu daha çok neşelendirmenin çözüm olacağını sanmıştı. Artık özür dilemeden başka bir şey isteyebilecek kadar bilgi sahibidir.\n\nBeam: \"Gürültülü kısma katılmasam olur mu?\"",
+        "Fizz, Beam'i perdenin arkasındaki yan masaya götürüyor. Beam burada da misafir olarak karşılanıyor; sessizliği tercih ettiği için dışlanmıyor. Orada da bekleyen iki bardak var.\n\nFizz: “Burada da yerin var.”",
+        "Hush, Beam'e katılırken Fizz, bildirim klasörünü getirir. Duraklamayı bir performansla doldurmaları gerekmez. Hush, Beam'in her hareketi görebileceği masanın karşısında işaretler veriyor.\n\nHush [işaret diliyle]: \"Sessizlik mutsuz olduğum anlamına gelmez.\"",
+        "Yan masada Fizz, paketin halkalı mührünü korunmuş bir sergi davetiyesiyle karşılaştırıyor. Sevk makbuzunda kalan işaretler birbiriyle uyuşuyor: İade Lunara'nın arşivine gitti. Hedef, yalnızca tanıdık bir şekilden tahmin edilmek yerine kontrol edilir.\n\nFizz: \"Lunara'nın arşivi. Bu davetiyede ihtiyacınız olan adres var.\"",
+        "O öğleden sonra, altı kişi bir sonraki tarifeli feribota biniyor ve Nacre'den Lunara ana karasına doğru yola çıkıyor. Bash kasayı güvertede korur. Bu sefer varış noktaları korkutucu bir hikayeden çok, birbiriyle uyuşan iki kayıttan geliyor.\n\nNova: \"Bir söylentiyi değil, bir kaydı takip ediyoruz.\"",
+        "O akşam Meadowfold çayırında Mend, gezginlerin bir sonraki çağrısına hazırlanıyor. Rain ondan önce küçük müzik kutusunu kapatmasını istiyor. Onlar beklerken, hiçbir şeyle rekabet etmeden onun sesini istiyor.\n\nRain: \"Bu gece sadece senin sesin, Mend. Diğerlerini sonra arayabiliriz.\""
+      ],
+      "introduction": "Mağazanın sevkıyat fotoğrafı bir sergi mührü taşıyor ancak gezginlerin yine de varış yerini doğrulaması gerekiyor. Fizz eski sergi duyurularını karşılama salonunda saklıyor. Ziyaret aynı zamanda Beam'e gerçekten keyif alabileceği türden bir karşılama isteme şansı da veriyor.",
+      "title": "Bize Bir Gülümseme Borçlu Değilsin"
+    },
+    "vi": {
+      "altTexts": [
+        "Sáng hôm sau, hồ sơ gửi hàng đưa Nova và Beam đến sảnh đón, nơi Fizz lưu giữ các thông báo triển lãm. Fizz đã chuẩn bị sẵn bàn chờ cho du khách. Âm nhạc từ hội trường truyền đến họ ở ngưỡng cửa.",
+        "Beam dừng lại trước căn phòng ngập tràn âm nhạc. Một lần, anh ấy đến băng ghế của Rain và chắc chắn rằng câu trả lời là cổ vũ to hơn. Bây giờ anh ấy đã biết đủ để yêu cầu thứ khác mà không phải xin lỗi về điều đó.",
+        "Fizz dẫn Beam đến bàn phụ phía sau tấm rèm. Ở đây Beam vẫn được chào đón; chọn chỗ yên tĩnh không có nghĩa là bị gạt ra ngoài. Có hai chiếc cốc đang đợi ở đó.",
+        "Hush đến ngồi cùng Beam trong khi Fizz đi lấy tập thông báo. Họ không cần phải lấp đầy khoảng dừng bằng một màn trình diễn. Hush ra hiệu từ phía bên kia bàn, nơi Beam có thể nhìn thấy mọi cử chỉ.",
+        "Ở bàn bên cạnh, Fizz so sánh con dấu có vòng tròn của bưu kiện với thiệp mời triển lãm được bảo quản. Các dấu hiệu còn sót lại trên phiếu gửi hàng đều khớp nhau: bưu kiện gửi trả đã được chuyển đến kho lưu trữ của Lunara. Điểm đến đã được kiểm tra, không phải chỉ đoán từ một hình dáng quen thuộc.",
+        "Chiều hôm đó, sáu người lên chuyến phà theo lịch trình tiếp theo và khởi hành từ Nacre về phía đất liền Lunara. Bash cố định vali trên boong. Lần này, đích đến của họ đến từ hai hồ sơ thống nhất chứ không phải từ một câu chuyện đáng sợ.",
+        "Tối hôm đó tại Meadowfold, Mend chuẩn bị cho cuộc gọi tiếp theo của du khách. Rain yêu cầu cô đóng hộp nhạc nhỏ trước. Trong khi họ chờ đợi, anh chỉ muốn nghe giọng cô, không bị âm thanh nào khác lấn át."
+      ],
+      "captions": [
+        "Sáng hôm sau, hồ sơ gửi hàng đưa Nova và Beam đến sảnh đón, nơi Fizz lưu giữ các thông báo triển lãm. Fizz đã chuẩn bị sẵn bàn chờ cho du khách. Âm nhạc từ hội trường truyền đến họ ở ngưỡng cửa.\n\nFizz: “Chúng tôi đã giữ cho bạn bàn phía trước!”",
+        "Beam dừng lại trước căn phòng ngập tràn âm nhạc. Một lần, anh ấy đến băng ghế của Rain và chắc chắn rằng câu trả lời là cổ vũ to hơn. Bây giờ anh ấy đã biết đủ để yêu cầu thứ khác mà không phải xin lỗi về điều đó.\n\nBeam: “Tôi không tham gia phần ồn ào có được không?”",
+        "Fizz dẫn Beam đến bàn phụ phía sau tấm rèm. Ở đây Beam vẫn được chào đón; chọn chỗ yên tĩnh không có nghĩa là bị gạt ra ngoài. Có hai chiếc cốc đang đợi ở đó.\n\nFizz: “Bạn cũng được chào đón ở đây.”",
+        "Hush đến ngồi cùng Beam trong khi Fizz đi lấy tập thông báo. Họ không cần phải lấp đầy khoảng dừng bằng một màn trình diễn. Hush ra hiệu từ phía bên kia bàn, nơi Beam có thể nhìn thấy mọi cử chỉ.\n\nHush [bằng ngôn ngữ ký hiệu]: “Im lặng không có nghĩa là tôi không vui.”",
+        "Ở bàn bên cạnh, Fizz so sánh con dấu có vòng tròn của bưu kiện với thiệp mời triển lãm được bảo quản. Các dấu hiệu còn sót lại trên phiếu gửi hàng đều khớp nhau: bưu kiện gửi trả đã được chuyển đến kho lưu trữ của Lunara. Điểm đến đã được kiểm tra, không phải chỉ đoán từ một hình dáng quen thuộc.\n\nFizz: \"Kho lưu trữ của Lunara. Lời mời này có địa chỉ bạn cần.\"",
+        "Chiều hôm đó, sáu người lên chuyến phà theo lịch trình tiếp theo và khởi hành từ Nacre về phía đất liền Lunara. Bash cố định vali trên boong. Lần này, đích đến của họ đến từ hai hồ sơ thống nhất chứ không phải từ một câu chuyện đáng sợ.\n\nNova: “Chúng tôi lần theo hồ sơ, không phải tin đồn.”",
+        "Tối hôm đó tại Meadowfold, Mend chuẩn bị cho cuộc gọi tiếp theo của du khách. Rain yêu cầu cô đóng hộp nhạc nhỏ trước. Trong khi họ chờ đợi, anh chỉ muốn nghe giọng cô, không bị âm thanh nào khác lấn át.\n\nRain: \"Tối nay chỉ cần giọng nói của bạn thôi, Mend. Chúng ta có thể gọi những người khác sau.\""
+      ],
+      "introduction": "Bức ảnh gửi đi của cửa hàng có con dấu triển lãm, nhưng khách du lịch vẫn cần xác minh điểm đến của nó. Fizz lưu giữ các thông báo triển lãm cũ tại sảnh đón. Chuyến thăm cũng mang đến cho Beam cơ hội yêu cầu sự chào đón mà anh ấy thực sự có thể tận hưởng.",
+      "title": "Bạn không nợ chúng tôi một nụ cười"
+    },
+    "zh": {
+      "altTexts": [
+        "第二天早上，发货资料带着Nova和Beam到迎宾大厅，Fizz在那里保存展览通知。 Fizz 给来客们留好了前排的桌子。大厅里的音乐传到了门口。",
+        "Beam 在充满音乐的房间前停了下来。有一次，他来到 Rain 的长凳上，确信更大的欢呼声就是答案。现在他知道足够多了，可以要求别的东西，而不必为此道歉。",
+        "Fizz带领Beam来到窗帘后面的边桌。这里同样欢迎Beam；选择安静，并不意味着他被排除在聚会之外。那里也有两个杯子等着。",
+        "Hush 加入 Beam，而 Fizz 则获取通知文件夹。他们不需要用表演来填补停顿。 Hush 隔着桌子打着手语，Beam 可以看到每个手势。",
+        "在边桌上，Fizz 将包裹的环形印章与保存下来的展览邀请函进行了比较。调度单的残存标记一致：退回的包裹送到了Lunara档案馆。目的地是经过检查的，而不是仅根据熟悉的形状来猜测。",
+        "当天下午，六人登上下一趟预定的渡轮，从Nacre出发前往大陆Lunara。 Bash 将箱子固定在甲板上。这一次，他们的目的地来自两个一致的记录，而不是一个可怕的故事。",
+        "当天晚上，Meadowfold，Mend 为旅客的下一次呼叫做准备。 Rain让她先关上小音乐盒。当他们等待的时候，他只想听她说话，不想再有别的声音盖过她。"
+      ],
+      "captions": [
+        "第二天早上，发货资料带着Nova和Beam到迎宾大厅，Fizz在那里保存展览通知。 Fizz 给来客们留好了前排的桌子。大厅里的音乐传到了门口。\n\nFizz：“我们给你们留了前排的桌子！”",
+        "Beam 在充满音乐的房间前停了下来。有一次，他来到 Rain 的长凳上，确信更大的欢呼声就是答案。现在他知道足够多了，可以要求别的东西，而不必为此道歉。\n\nBeam：“我可以不参加热闹的那部分吗？”",
+        "Fizz带领Beam来到窗帘后面的边桌。这里同样欢迎Beam；选择安静，并不意味着他被排除在聚会之外。那里也有两个杯子等着。\n\nFizz：“这里也欢迎你。”",
+        "Hush 加入 Beam，而 Fizz 则获取通知文件夹。他们不需要用表演来填补停顿。 Hush 隔着桌子打着手语，Beam 可以看到每个手势。\n\nHush[手语]：“安静并不代表我不开心。”",
+        "在边桌上，Fizz 将包裹的环形印章与保存下来的展览邀请函进行了比较。调度单的残存标记一致：退回的包裹送到了Lunara档案馆。目的地是经过检查的，而不是仅根据熟悉的形状来猜测。\n\nFizz：“Lunara档案馆。这张邀请函中有你需要的地址。”",
+        "当天下午，六人登上下一趟预定的渡轮，从Nacre出发前往大陆Lunara。 Bash 将箱子固定在甲板上。这一次，他们的目的地来自两个一致的记录，而不是一个可怕的故事。\n\nNova：“我们沿着记录追查，不听信谣言。”",
+        "当天晚上，Meadowfold，Mend 为旅客的下一次呼叫做准备。 Rain让她先关上小音乐盒。当他们等待的时候，他只想听她说话，不想再有别的声音盖过她。\n\nRain：“今晚只有你的声音，Mend。我们晚些时候再给其他人打电话。”"
+      ],
+      "introduction": "商店的发货照片带有展览印章，但旅客仍需核实其目的地。 Fizz在迎宾大厅保留了旧的展览通知。这次访问也让 Beam 有机会请求他真正能享受到的那种欢迎。",
+      "title": "你不必勉强微笑"
+    }
+  },
+  "number": 18,
+  "panels": [
+    {
+      "altText": "The next morning, the dispatch file takes Nova and Beam to the welcome hall, where Fizz keeps exhibition notices. Fizz has prepared a front table for the visitors. Music from the hall reaches them at the doorway.",
+      "image": "N01E18P01.png"
+    },
+    {
+      "altText": "Beam pauses before the music-filled room. Once, he arrived at Rain's bench sure that louder cheer was the answer. Now he knows enough to ask for something else without apologizing for it.",
+      "image": "N01E18P02.png"
+    },
+    {
+      "altText": "Fizz leads Beam to the side table behind the curtain. It is still part of the welcome, not a place for someone who has failed to celebrate properly. There are two cups waiting there too.",
+      "image": "N01E18P03.png"
+    },
+    {
+      "altText": "Hush joins Beam while Fizz fetches the notice folder. They do not need to fill the pause with a performance. Hush signs across the table, where Beam can see every gesture.",
+      "image": "N01E18P04.png"
+    },
+    {
+      "altText": "At the side table, Fizz compares the parcel's ringed seal with a preserved exhibition invitation. The dispatch slip's surviving marks agree: the return went to Lunara's archive. The destination is checked, not guessed from a familiar shape alone.",
+      "image": "N01E18P05.png"
+    },
+    {
+      "altText": "That afternoon, the six board the next scheduled ferry and set out from Nacre toward mainland Lunara. Bash secures the case on deck. This time, their destination comes from two agreeing records rather than a frightening story.",
+      "image": "N01E18P06.png"
+    },
+    {
+      "altText": "That evening at Meadowfold, Mend prepares for the travelers' next call. Rain asks her to close the little music box first. While they wait, he wants her voice without anything competing with it.",
+      "image": "N01E18P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

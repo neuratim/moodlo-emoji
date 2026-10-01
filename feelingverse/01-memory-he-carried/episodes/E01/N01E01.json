@@ -1,0 +1,439 @@
+{
+  "id": "N01E01",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "بعد العاصفة، يلتقي Rain وNova على مقعدهما المعتاد بجانب قناة Mosaic. يمرر Rain يده المغطاة بالقفاز على الشق المألوف. في بعض فترات بعد الظهر، يكفي معرفة من سيجلس بجانبه.",
+        "في هذه الأثناء، على بعد خطوات قليلة في محطة Mosaic، يتفقد Quest صندوق شحن فتحته العاصفة. وعاء الذاكرة المثبّت فيه فارغ، وتؤدي قناة الجريان السطحي إلى أسفل نحو مقعد القناة.",
+        "بالعودة إلى المقعد، بينما تحضر Nova الشاي، لاحظ Rain ضوءًا أزرق خافتًا عالقًا بجانب المصرف. يركع ليمنع دفعة الماء التالية من حمله بعيدًا.",
+        "يضم Rain الضوء أمام جسمه محاولًا حمايته. للحظة يتوهج بين قفازاته. ثم يختفي عن الأنظار دون أن يترك أي أثر.",
+        "بعد لحظة، تعود Nova إلى المقعد مع الشاي. يفتح Rain كفّيه الفارغتين، ويتساءل عما إذا كان الضوء الصغير قد انطفأ. يفسح المجال بجانبه وهي تضع الأكواب.",
+        "في تلك الليلة، بعد أن أخذ كوبه إلى المنزل، ظل Rain مستيقظًا في سريره، يسمع ثلاث نقرات خافتة تعقبها وقفة. يستمع نحو الباب الأمامي، لكن لا توجد خطى في الخارج.",
+        "وبحلول الفجر، لم تعد البطانية نفسها تغطي قدمي Rain. لم يحرك السرير أو يغير الفراش. تغير شيء في جسمه أثناء الليل."
+      ],
+      "captions": [
+        "بعد العاصفة، يلتقي Rain وNova على مقعدهما المعتاد بجانب قناة Mosaic. يمرر Rain يده المغطاة بالقفاز على الشق المألوف. في بعض فترات بعد الظهر، يكفي معرفة من سيجلس بجانبه.\n\nRain: \"نفس المكان غدًا؟\"\nNova: \"بالطبع.\"",
+        "في هذه الأثناء، على بعد خطوات قليلة في محطة Mosaic، يتفقد Quest صندوق شحن فتحته العاصفة. وعاء الذاكرة المثبّت فيه فارغ، وتؤدي قناة الجريان السطحي إلى أسفل نحو مقعد القناة.\n\nQuest: \"ربما جرفت المياه شيئًا من الصندوق. سأتحقق من سجل التسليم.\"",
+        "بالعودة إلى المقعد، بينما تحضر Nova الشاي، لاحظ Rain ضوءًا أزرق خافتًا عالقًا بجانب المصرف. يركع ليمنع دفعة الماء التالية من حمله بعيدًا.\n\nRain: \"ها أنت ذا. لقد جرفتك المياه تقريبًا.\"",
+        "يضم Rain الضوء أمام جسمه محاولًا حمايته. للحظة يتوهج بين قفازاته. ثم يختفي عن الأنظار دون أن يترك أي أثر.\n\nRain: \"لهذه الليلة فقط.\"",
+        "بعد لحظة، تعود Nova إلى المقعد مع الشاي. يفتح Rain كفّيه الفارغتين، ويتساءل عما إذا كان الضوء الصغير قد انطفأ. يفسح المجال بجانبه وهي تضع الأكواب.\n\nNova: \"لقد احتفظت لي بمكاني.\"\nRain: \"دائمًا. حدث شيء غريب أثناء غيابك.\"",
+        "في تلك الليلة، بعد أن أخذ كوبه إلى المنزل، ظل Rain مستيقظًا في سريره، يسمع ثلاث نقرات خافتة تعقبها وقفة. يستمع نحو الباب الأمامي، لكن لا توجد خطى في الخارج.\n\nRain: \"هل هناك أحد عند الباب؟\"",
+        "وبحلول الفجر، لم تعد البطانية نفسها تغطي قدمي Rain. لم يحرك السرير أو يغير الفراش. تغير شيء في جسمه أثناء الليل.\n\nRain: \"كانت البطانية تغطي قدميّ بالأمس.\""
+      ],
+      "introduction": "بعد العاصفة، يعود Rain وNova إلى مقعدهما المألوف في Mosaic. في مكان قريب، يقوم Quest بفحص الشحنة التالفة. اكتشاف صغير يربط فترة ما بعد الظهيرة العادية بالغموض الذي لم يفهمه أي منهم بعد.",
+      "title": "ضوء لم يطالب به أحد"
+    },
+    "bn": {
+      "altTexts": [
+        "ঝড়ের পরে, Rain এবং Nova Mosaic এর খালের পাশে তাদের স্বাভাবিক বেঞ্চে মিলিত হয়। Rain পরিচিত খাঁজের উপরে দস্তানা-পরা হাত বুলিয়ে দেয়। কোনো কোনো বিকেলে কে তার পাশে বসবে সেটা জানাই যথেষ্ট।",
+        "এদিকে, কয়েক পা দূরে Mosaic স্টেশনে, Quest ঝড়ে খুলে যাওয়া একটি মালবাহী বাক্স পরীক্ষা করে। ভেতরে আটকানো স্মৃতির পাত্রটি খালি। বাক্সের পাশের নালা ঢাল বেয়ে খালপাড়ের বেঞ্চের দিকে গেছে।",
+        "বেঞ্চের কাছে, Nova চা আনতে গেলে Rain নালার পাশে আটকে থাকা ক্ষীণ নীল আলোটি দেখতে পায়। সে হাঁটু গেড়ে বসে, যাতে পরের পানির স্রোত আলোটিকে ভাসিয়ে নিতে না পারে।",
+        "আলোটিকে আড়াল করে রাখতে Rain সেটিকে নিজের শরীরের সামনের দিকে আগলে ধরে। এক মুহূর্ত তার দস্তানার মাঝখানে আলোটি জ্বলজ্বল করে। তারপর কোনো চিহ্ন না রেখেই অদৃশ্য হয়ে যায়।",
+        "একটু পরে Nova চা নিয়ে বেঞ্চে ফিরে আসে। Rain তার খালি হাত দুটি খুলে দেখে। ছোট আলোটি কি নিভে গেল? Nova কাপ নামিয়ে রাখলে Rain তার পাশে জায়গা করে দেয়।",
+        "সেই রাতে কাপটি বাড়িতে নিয়ে যাওয়ার পর Rain নিজের বিছানায় জেগে থাকে। তিনটি মৃদু টোকা, তারপর একটি বিরতি—শব্দটা সে শুনতে পায়। সদর দরজার দিকে কান পাতলেও বাইরে কোনো পায়ের শব্দ নেই।",
+        "ভোরে দেখা যায়, একই কম্বল আর Rain-এর পা ঢাকছে না। সে বিছানা সরায়নি বা বিছানার চাদর-কম্বল বদলায়নি। রাতের মধ্যে তার শরীর বদলে গেছে।"
+      ],
+      "captions": [
+        "ঝড়ের পরে, Rain এবং Nova Mosaic এর খালের পাশে তাদের স্বাভাবিক বেঞ্চে মিলিত হয়। Rain পরিচিত খাঁজের উপরে দস্তানা-পরা হাত বুলিয়ে দেয়। কোনো কোনো বিকেলে কে তার পাশে বসবে সেটা জানাই যথেষ্ট।\n\nRain: \"আগামীকাল একই জায়গা?\"\nNova: \"অবশ্যই।\"",
+        "এদিকে, কয়েক পা দূরে Mosaic স্টেশনে, Quest ঝড়ে খুলে যাওয়া একটি মালবাহী বাক্স পরীক্ষা করে। ভেতরে আটকানো স্মৃতির পাত্রটি খালি। বাক্সের পাশের নালা ঢাল বেয়ে খালপাড়ের বেঞ্চের দিকে গেছে।\n\nQuest: \"বাক্স থেকে কিছু হয়তো পানিতে ভেসে গেছে। মাল আসার নথিটা দেখব।\"",
+        "বেঞ্চের কাছে, Nova চা আনতে গেলে Rain নালার পাশে আটকে থাকা ক্ষীণ নীল আলোটি দেখতে পায়। সে হাঁটু গেড়ে বসে, যাতে পরের পানির স্রোত আলোটিকে ভাসিয়ে নিতে না পারে।\n\nRain: \"এই তো তুমি। আর একটু হলেই ভেসে যেতে।\"",
+        "আলোটিকে আড়াল করে রাখতে Rain সেটিকে নিজের শরীরের সামনের দিকে আগলে ধরে। এক মুহূর্ত তার দস্তানার মাঝখানে আলোটি জ্বলজ্বল করে। তারপর কোনো চিহ্ন না রেখেই অদৃশ্য হয়ে যায়।\n\nRain: \"শুধু আজ রাতের জন্য।\"",
+        "একটু পরে Nova চা নিয়ে বেঞ্চে ফিরে আসে। Rain তার খালি হাত দুটি খুলে দেখে। ছোট আলোটি কি নিভে গেল? Nova কাপ নামিয়ে রাখলে Rain তার পাশে জায়গা করে দেয়।\n\nNova: \"তুমি আমার জন্য জায়গা রেখেছ।\"\nRain: \"সবসময়। তুমি না থাকার সময় একটা অদ্ভুত ঘটনা ঘটেছে।\"",
+        "সেই রাতে কাপটি বাড়িতে নিয়ে যাওয়ার পর Rain নিজের বিছানায় জেগে থাকে। তিনটি মৃদু টোকা, তারপর একটি বিরতি—শব্দটা সে শুনতে পায়। সদর দরজার দিকে কান পাতলেও বাইরে কোনো পায়ের শব্দ নেই।\n\nRain: \"দরজায় কেউ আছে?\"",
+        "ভোরে দেখা যায়, একই কম্বল আর Rain-এর পা ঢাকছে না। সে বিছানা সরায়নি বা বিছানার চাদর-কম্বল বদলায়নি। রাতের মধ্যে তার শরীর বদলে গেছে।\n\nRain: \"কাল তো কম্বলটা আমার পা ঢেকেছিল।\""
+      ],
+      "introduction": "ঝড়ের পর Rain আর Nova Mosaic-এর পরিচিত বেঞ্চে ফেরে। কাছেই Quest ক্ষতিগ্রস্ত একটি চালান পরীক্ষা করে। ছোট একটি আবিষ্কার তাদের সাধারণ বিকেলকে এমন এক রহস্যের সঙ্গে জুড়ে দেয়, যা কেউ এখনও বোঝেনি।",
+      "title": "দাবিদারহীন আলো"
+    },
+    "cs": {
+      "altTexts": [
+        "Po bouři se Rain a Nova setkávají u své obvyklé lavičky vedle městského kanálu ve městě Mosaic. Rain přejede rukavicí po známém zářezu. Některá odpoledne stačí vědět, kdo si přisedne.",
+        "Mezitím Quest o pár kroků dál na nádraží ve městě Mosaic prohlíží přepravní bednu, kterou otevřela bouře. Tvarované pouzdro uvnitř je prázdné a odtokový žlábek vede z kopce k lavičce u kanálu.",
+        "Zatímco Nova jde pro čaj, Rain si u lavičky všimne slabého modrého světla zachyceného vedle odtoku. Klekne si, aby ho další pramínek vody neodnesl.",
+        "Rain přidrží světlo v dlaních u předního okraje svého těla, aby ho ochránil. Na okamžik zazáří mezi jeho rukavicemi. Pak zmizí z dohledu a nezanechá žádnou stopu.",
+        "O chvíli později se Nova vrací k lavičce s čajem. Rain rozevře prázdné dlaně a přemýšlí, zda světýlko zhaslo. Když Nova odkládá šálky, udělá jí vedle sebe místo.",
+        "Té noci, poté co si odnesl šálek domů, se Rain ve vlastní posteli probudí na tři tichá klepnutí a pauzu. Naslouchá směrem ke vchodovým dveřím, ale venku žádné kroky neslyší.",
+        "Za svítání už stejná přikrývka nezakrývá jeho chodidla. Rain neposunul postel ani nevyměnil lůžkoviny. Přes noc se na něm něco změnilo."
+      ],
+      "captions": [
+        "Po bouři se Rain a Nova setkávají u své obvyklé lavičky vedle městského kanálu ve městě Mosaic. Rain přejede rukavicí po známém zářezu. Některá odpoledne stačí vědět, kdo si přisedne.\n\nRain: „Zítra na stejném místě?“\nNova: „Samozřejmě.“",
+        "Mezitím Quest o pár kroků dál na nádraží ve městě Mosaic prohlíží přepravní bednu, kterou otevřela bouře. Tvarované pouzdro uvnitř je prázdné a odtokový žlábek vede z kopce k lavičce u kanálu.\n\nQuest: „Voda možná něco odnesla. Zkontroluji přepravní záznam.“",
+        "Zatímco Nova jde pro čaj, Rain si u lavičky všimne slabého modrého světla zachyceného vedle odtoku. Klekne si, aby ho další pramínek vody neodnesl.\n\nRain: „Tady jsi. Voda tě málem odnesla.“",
+        "Rain přidrží světlo v dlaních u předního okraje svého těla, aby ho ochránil. Na okamžik zazáří mezi jeho rukavicemi. Pak zmizí z dohledu a nezanechá žádnou stopu.\n\nRain: „Jen na dnešní noc.“",
+        "O chvíli později se Nova vrací k lavičce s čajem. Rain rozevře prázdné dlaně a přemýšlí, zda světýlko zhaslo. Když Nova odkládá šálky, udělá jí vedle sebe místo.\n\nNova: „Držel jsi mi místo.“\nRain: „Vždycky. Když jsi byla pryč, stalo se něco zvláštního.“",
+        "Té noci, poté co si odnesl šálek domů, se Rain ve vlastní posteli probudí na tři tichá klepnutí a pauzu. Naslouchá směrem ke vchodovým dveřím, ale venku žádné kroky neslyší.\n\nRain: „Je někdo u dveří?“",
+        "Za svítání už stejná přikrývka nezakrývá jeho chodidla. Rain neposunul postel ani nevyměnil lůžkoviny. Přes noc se na něm něco změnilo.\n\nRain: „Tohle se včera nedělo.“"
+      ],
+      "introduction": "Po bouři se Rain a Nova vracejí ke své známé lavičce ve městě Mosaic. Nedaleko Quest kontroluje poškozenou zásilku. Drobný objev propojí jejich obyčejné odpoledne se záhadou, které zatím nikdo z nich nerozumí.",
+      "title": "Světlo, ke kterému se nikdo nehlásil"
+    },
+    "de": {
+      "altTexts": [
+        "Nach dem Sturm treffen sich Rain und Nova an ihrer gewohnten Bank neben dem Kanal von Mosaic. Rain führt einen Fäustling über die bekannte Kerbe. An manchen Nachmittagen reicht es aus zu wissen, wer neben ihm sitzen wird.",
+        "Währenddessen inspiziert Quest ein paar Schritte entfernt am Bahnhof Mosaic eine vom Sturm geöffnete Lieferkiste. Der darin eingepasste Speicherträger ist leer und der Abflusskanal führt bergab in Richtung der Bank am Kanal.",
+        "Zurück an der Bank, während Nova Tee holt, bemerkt Rain ein schwaches blaues Licht neben dem Abfluss. Er kniet nieder, um zu verhindern, dass das nächste Rinnsal Wasser es wegträgt.",
+        "Rain drückt das Licht gegen seinen Vorderrand und hofft, es zu schützen. Für einen Moment leuchtet es zwischen seinen Fäustlingen. Dann verschwindet es außer Sichtweite und hinterlässt keine Spuren.",
+        "Einen Moment später, zurück auf der Bank, kehrt Nova mit Tee zurück. Rain öffnet seine leeren Fäustlinge und fragt sich, ob das kleine Licht ausgegangen ist. Er macht neben sich Platz, während sie die Tassen abstellt.",
+        "In dieser Nacht, nachdem er seine Tasse mit nach Hause genommen hat, wacht Rain in seinem eigenen Bett auf: Er hört drei leise Klopfzeichen, dann eine Pause. Er lauscht in Richtung der Haustür, aber draußen sind keine Schritte zu hören.",
+        "Im Morgengrauen bedeckt die gleiche Decke nicht mehr die Füße von Rain. Er hat das Bett nicht bewegt oder die Bettwäsche gewechselt. Etwas an ihm hat sich über Nacht verändert."
+      ],
+      "captions": [
+        "Nach dem Sturm treffen sich Rain und Nova an ihrer gewohnten Bank neben dem Kanal von Mosaic. Rain führt einen Fäustling über die bekannte Kerbe. An manchen Nachmittagen reicht es aus zu wissen, wer neben ihm sitzen wird.\n\nRain: „Morgen derselbe Ort?“\nNova: „Natürlich.“",
+        "Währenddessen inspiziert Quest ein paar Schritte entfernt am Bahnhof Mosaic eine vom Sturm geöffnete Lieferkiste. Der darin eingepasste Speicherträger ist leer und der Abflusskanal führt bergab in Richtung der Bank am Kanal.\n\nQuest: „Möglicherweise ist etwas ausgewaschen. Ich werde den Lieferschein überprüfen.“",
+        "Zurück an der Bank, während Nova Tee holt, bemerkt Rain ein schwaches blaues Licht neben dem Abfluss. Er kniet nieder, um zu verhindern, dass das nächste Rinnsal Wasser es wegträgt.\n\nRain: „Da bist du. Fast weggespült.“",
+        "Rain drückt das Licht gegen seinen Vorderrand und hofft, es zu schützen. Für einen Moment leuchtet es zwischen seinen Fäustlingen. Dann verschwindet es außer Sichtweite und hinterlässt keine Spuren.\n\nRain: „Nur für heute Abend.“",
+        "Einen Moment später, zurück auf der Bank, kehrt Nova mit Tee zurück. Rain öffnet seine leeren Fäustlinge und fragt sich, ob das kleine Licht ausgegangen ist. Er macht neben sich Platz, während sie die Tassen abstellt.\n\nNova: „Du hast mir meinen Platz freigehalten.“\nRain: „Immer. Etwas Seltsames ist passiert, während du weg warst.“",
+        "In dieser Nacht, nachdem er seine Tasse mit nach Hause genommen hat, wacht Rain in seinem eigenen Bett auf: Er hört drei leise Klopfzeichen, dann eine Pause. Er lauscht in Richtung der Haustür, aber draußen sind keine Schritte zu hören.\n\nRain: „Ist jemand an der Tür?“",
+        "Im Morgengrauen bedeckt die gleiche Decke nicht mehr die Füße von Rain. Er hat das Bett nicht bewegt oder die Bettwäsche gewechselt. Etwas an ihm hat sich über Nacht verändert.\n\nRain: „Gestern war das noch anders.“"
+      ],
+      "introduction": "Nach einem Sturm kehren Rain und Nova in Mosaic auf ihre vertraute Bank zurück. In der Nähe überprüft Quest eine beschädigte Lieferung. Eine kleine Entdeckung verbindet ihren gewöhnlichen Nachmittag mit einem Geheimnis, das noch keiner von ihnen versteht.",
+      "title": "Ein Licht, das niemand für sich beanspruchte"
+    },
+    "en": {
+      "altTexts": [
+        "After the storm, Rain and Nova meet at their usual bench beside Mosaic's canal. Rain runs a mitten over the familiar notch. Some afternoons, knowing who will sit beside him is enough.",
+        "Meanwhile, a few steps away at Mosaic station, Quest inspects a storm-opened delivery crate. Its fitted carrier is empty, and the runoff channel leads downhill toward the canal bench.",
+        "Back at the bench, while Nova fetches tea, Rain notices a faint blue light caught beside the drain. He kneels to keep the next trickle of water from carrying it away.",
+        "Rain cups the light against his front rim, hoping to shelter it. For an instant it glows between his mittens. Then it slips out of sight, leaving no mark.",
+        "A moment later, back at the bench, Nova returns with tea. Rain opens his empty mittens, wondering whether the little light went out. He makes room beside him as she sets down the cups.",
+        "That night, after taking his cup home, Rain wakes in his own bed to three soft taps and a pause. He listens toward the front door, but there are no footsteps outside.",
+        "By dawn, the same blanket no longer covers Rain's feet. He has not moved the bed or changed the bedding. Something about him has changed overnight."
+      ],
+      "captions": [
+        "After the storm, Rain and Nova meet at their usual bench beside Mosaic's canal. Rain runs a mitten over the familiar notch. Some afternoons, knowing who will sit beside him is enough.\n\nRain: “Same place tomorrow?”\nNova: “Of course.”",
+        "Meanwhile, a few steps away at Mosaic station, Quest inspects a storm-opened delivery crate. Its fitted carrier is empty, and the runoff channel leads downhill toward the canal bench.\n\nQuest: “Something may have washed out. I'll check the delivery record.”",
+        "Back at the bench, while Nova fetches tea, Rain notices a faint blue light caught beside the drain. He kneels to keep the next trickle of water from carrying it away.\n\nRain: “There you are. Nearly washed away.”",
+        "Rain cups the light against his front rim, hoping to shelter it. For an instant it glows between his mittens. Then it slips out of sight, leaving no mark.\n\nRain: “Just for tonight.”",
+        "A moment later, back at the bench, Nova returns with tea. Rain opens his empty mittens, wondering whether the little light went out. He makes room beside him as she sets down the cups.\n\nNova: “You saved my seat.”\nRain: “Always. Something strange happened while you were gone.”",
+        "That night, after taking his cup home, Rain wakes in his own bed to three soft taps and a pause. He listens toward the front door, but there are no footsteps outside.\n\nRain: “Is someone at the door?”",
+        "By dawn, the same blanket no longer covers Rain's feet. He has not moved the bed or changed the bedding. Something about him has changed overnight.\n\nRain: “That wasn't happening yesterday.”"
+      ],
+      "introduction": "After a storm, Rain and Nova return to their familiar bench in Mosaic. Nearby, Quest is checking a damaged delivery. A small discovery connects their ordinary afternoon to a mystery none of them yet understands.",
+      "title": "A Light Nobody Claimed"
+    },
+    "es": {
+      "altTexts": [
+        "Tras la tormenta, Rain y Nova se encuentran en su banco habitual junto al canal de Mosaic. Rain pasa una manopla por la muesca familiar. Algunas tardes basta con saber quién se sentará a su lado.",
+        "Mientras tanto, a unos pasos de distancia, en la estación Mosaic, Quest inspecciona una caja de entrega abierta por la tormenta. El receptáculo encajado en su interior está vacío y el canal de desagüe desciende hacia el banco del canal.",
+        "De vuelta en el banco, mientras Nova va a buscar té, Rain nota una tenue luz azul atrapada junto al desagüe. Se arrodilla para evitar que el siguiente hilo de agua se la lleve.",
+        "Rain coloca la luz contra su borde delantero, con la esperanza de protegerla. Por un instante brilla entre sus guantes. Luego se pierde de vista sin dejar marca.",
+        "Un momento después, de vuelta en el banco, Nova regresa con té. Rain abre sus guantes vacíos y se pregunta si la lucecita se apagó. Él hace espacio a su lado mientras ella deja las tazas.",
+        "Esa noche, después de llevarse su taza a casa, Rain se despierta en su propia cama con tres suaves golpecitos y una pausa. Escucha hacia la puerta principal, pero no se oyen pasos afuera.",
+        "Al amanecer, la misma manta ya no cubre los pies de Rain. No ha movido la cama ni cambiado la ropa de cama. Algo en él ha cambiado de la noche a la mañana."
+      ],
+      "captions": [
+        "Tras la tormenta, Rain y Nova se encuentran en su banco habitual junto al canal de Mosaic. Rain pasa una manopla por la muesca familiar. Algunas tardes basta con saber quién se sentará a su lado.\n\nRain: “¿Mañana en el mismo lugar?”\nNova: \"Por supuesto\".",
+        "Mientras tanto, a unos pasos de distancia, en la estación Mosaic, Quest inspecciona una caja de entrega abierta por la tormenta. El receptáculo encajado en su interior está vacío y el canal de desagüe desciende hacia el banco del canal.\n\nQuest: \"Puede que el agua se haya llevado algo. Comprobaré el registro de entrega\".",
+        "De vuelta en el banco, mientras Nova va a buscar té, Rain nota una tenue luz azul atrapada junto al desagüe. Se arrodilla para evitar que el siguiente hilo de agua se la lleve.\n\nRain: \"Ahí estás. El agua casi te lleva\".",
+        "Rain coloca la luz contra su borde delantero, con la esperanza de protegerla. Por un instante brilla entre sus guantes. Luego se pierde de vista sin dejar marca.\n\nRain: \"Sólo por esta noche\".",
+        "Un momento después, de vuelta en el banco, Nova regresa con té. Rain abre sus guantes vacíos y se pregunta si la lucecita se apagó. Él hace espacio a su lado mientras ella deja las tazas.\n\nNova: \"Me guardaste el sitio\".\nRain: \"Siempre. Algo extraño pasó mientras no estabas\".",
+        "Esa noche, después de llevarse su taza a casa, Rain se despierta en su propia cama con tres suaves golpecitos y una pausa. Escucha hacia la puerta principal, pero no se oyen pasos afuera.\n\nRain: “¿Hay alguien en la puerta?”",
+        "Al amanecer, la misma manta ya no cubre los pies de Rain. No ha movido la cama ni cambiado la ropa de cama. Algo en él ha cambiado de la noche a la mañana.\n\nRain: \"Ayer esto no pasaba\"."
+      ],
+      "introduction": "Después de una tormenta, Rain y Nova regresan a su banco familiar en Mosaic. Cerca de allí, Quest está comprobando una entrega dañada. Un pequeño descubrimiento conecta su tarde normal con un misterio que ninguno de ellos comprende todavía.",
+      "title": "Una luz que nadie reclamó"
+    },
+    "fr": {
+      "altTexts": [
+        "Après la tempête, Rain et Nova se retrouvent sur leur banc habituel au bord du canal de Mosaic. Rain passe une moufle sur l'encoche familière. Certains après-midi, il suffit de savoir qui sera assis à ses côtés.",
+        "Pendant ce temps, à quelques pas de là, à la gare de Mosaic, Quest inspecte une caisse de livraison ouverte par la tempête. Le réceptacle ajusté à l'intérieur est vide et le canal de ruissellement descend vers le banc du canal.",
+        "Près du banc, pendant que Nova va chercher du thé, Rain remarque une faible lumière bleue retenue près de l'évacuation d'eau. Il s'agenouille pour empêcher le prochain filet d'eau de l'emporter.",
+        "Rain abrite la lumière dans ses mains, tout contre lui, en espérant la protéger. L'espace d'un instant, elle brille entre ses moufles. Puis elle disparaît hors de vue, ne laissant aucune trace.",
+        "Un instant plus tard, Nova revient au banc avec du thé. Rain ouvre ses mains vides en se demandant si la petite lumière s'est éteinte. Il fait de la place à côté de lui alors qu'elle pose les tasses.",
+        "Cette nuit-là, après avoir ramené sa tasse à la maison, Rain est réveillé dans son lit par trois légers tapotements suivis d'une pause. Il écoute vers la porte d'entrée, mais il n'y a aucun pas dehors.",
+        "À l'aube, la même couverture ne couvre plus les pieds de Rain. Il n'a pas déplacé le lit ni changé la literie. Quelque chose chez lui a changé du jour au lendemain."
+      ],
+      "captions": [
+        "Après la tempête, Rain et Nova se retrouvent sur leur banc habituel au bord du canal de Mosaic. Rain passe une moufle sur l'encoche familière. Certains après-midi, il suffit de savoir qui sera assis à ses côtés.\n\nRain : « Même endroit demain ? »\nNova : « Bien sûr. »",
+        "Pendant ce temps, à quelques pas de là, à la gare de Mosaic, Quest inspecte une caisse de livraison ouverte par la tempête. Le réceptacle ajusté à l'intérieur est vide et le canal de ruissellement descend vers le banc du canal.\n\nQuest : « Quelque chose a peut-être été emporté par l'eau. Je vais vérifier le dossier de livraison. »",
+        "Près du banc, pendant que Nova va chercher du thé, Rain remarque une faible lumière bleue retenue près de l'évacuation d'eau. Il s'agenouille pour empêcher le prochain filet d'eau de l'emporter.\n\nRain : « Te voilà. Tu as failli être emportée par l'eau. »",
+        "Rain abrite la lumière dans ses mains, tout contre lui, en espérant la protéger. L'espace d'un instant, elle brille entre ses moufles. Puis elle disparaît hors de vue, ne laissant aucune trace.\n\nRain : « Juste pour ce soir. »",
+        "Un instant plus tard, Nova revient au banc avec du thé. Rain ouvre ses mains vides en se demandant si la petite lumière s'est éteinte. Il fait de la place à côté de lui alors qu'elle pose les tasses.\n\nNova : « Tu m'as gardé ma place. »\nRain : « Toujours. Quelque chose d'étrange s'est produit pendant ton absence. »",
+        "Cette nuit-là, après avoir ramené sa tasse à la maison, Rain est réveillé dans son lit par trois légers tapotements suivis d'une pause. Il écoute vers la porte d'entrée, mais il n'y a aucun pas dehors.\n\nRain : « Y a-t-il quelqu'un à la porte ? »",
+        "À l'aube, la même couverture ne couvre plus les pieds de Rain. Il n'a pas déplacé le lit ni changé la literie. Quelque chose chez lui a changé du jour au lendemain.\n\nRain : « Ce n'était pas comme ça hier. »"
+      ],
+      "introduction": "Après une tempête, Rain et Nova retournent à leur banc familier à Mosaic. À proximité, Quest vérifie une livraison endommagée. Une petite découverte relie leur après-midi ordinaire à un mystère qu'aucun d'eux ne comprend encore.",
+      "title": "Une lumière que personne ne réclame"
+    },
+    "hi": {
+      "altTexts": [
+        "तूफान के बाद, Rain और Nova Mosaic की नहर के पास अपनी सामान्य बेंच पर मिलते हैं। Rain दस्ताने वाला हाथ परिचित खाँचे पर फेरता है। कुछ दोपहरों में, यह जानना ही काफी होता है कि उसके पास कौन बैठेगा।",
+        "इस बीच, कुछ कदम दूर Mosaic स्टेशन पर Quest तूफ़ान में खुला माल का बक्सा देखता है। उसमें लगा स्मृति रखने का पात्र खाली है। पास की नाली ढलान से नहर किनारे की बेंच की ओर जाती है।",
+        "बेंच के पास, जब Nova चाय लेने गई है, Rain को नाली के किनारे अटकी हल्की नीली रोशनी दिखती है। वह घुटनों पर बैठकर उसे पानी की अगली धार में बहने से बचाता है।",
+        "Rain रोशनी को बचाने के लिए अपने शरीर के सामने थामता है। एक पल वह उसके दस्तानों के बीच चमकती है। फिर बिना कोई निशान छोड़े नज़रों से ओझल हो जाती है।",
+        "कुछ देर बाद Nova चाय लेकर लौटती है। Rain अपने खाली हाथ खोलकर देखता है। क्या छोटी रोशनी बुझ गई? Nova कप रखती है, तो वह उसके लिए जगह बनाता है।",
+        "उस रात कप घर लाने के बाद Rain बिस्तर पर जागता रहता है। उसे तीन हल्की दस्तकें और फिर एक विराम सुनाई देता है। वह सामने के दरवाज़े की ओर कान लगाता है, मगर बाहर कदमों की आहट नहीं है।",
+        "सुबह वही कंबल Rain के पैर नहीं ढक पाता। उसने न पलंग खिसकाया है, न चादर-कंबल बदले हैं। रात में उसके शरीर में कुछ बदल गया है।"
+      ],
+      "captions": [
+        "तूफान के बाद, Rain और Nova Mosaic की नहर के पास अपनी सामान्य बेंच पर मिलते हैं। Rain दस्ताने वाला हाथ परिचित खाँचे पर फेरता है। कुछ दोपहरों में, यह जानना ही काफी होता है कि उसके पास कौन बैठेगा।\n\nRain: \"कल भी वही जगह?\"\nNova: \"बेशक।\"",
+        "इस बीच, कुछ कदम दूर Mosaic स्टेशन पर Quest तूफ़ान में खुला माल का बक्सा देखता है। उसमें लगा स्मृति रखने का पात्र खाली है। पास की नाली ढलान से नहर किनारे की बेंच की ओर जाती है।\n\nQuest: \"कुछ बह गया होगा। मैं माल आने का रिकॉर्ड देखूँगा।\"",
+        "बेंच के पास, जब Nova चाय लेने गई है, Rain को नाली के किनारे अटकी हल्की नीली रोशनी दिखती है। वह घुटनों पर बैठकर उसे पानी की अगली धार में बहने से बचाता है।\n\nRain: \"अच्छा, तो यहाँ हो। बस बहने ही वाली थीं।\"",
+        "Rain रोशनी को बचाने के लिए अपने शरीर के सामने थामता है। एक पल वह उसके दस्तानों के बीच चमकती है। फिर बिना कोई निशान छोड़े नज़रों से ओझल हो जाती है।\n\nRain: \"बस आज रात के लिए।\"",
+        "कुछ देर बाद Nova चाय लेकर लौटती है। Rain अपने खाली हाथ खोलकर देखता है। क्या छोटी रोशनी बुझ गई? Nova कप रखती है, तो वह उसके लिए जगह बनाता है।\n\nNova: \"तुमने मेरी जगह रखी है।\"\nRain: \"हमेशा। तुम्हारे जाने के बाद एक अजीब बात हुई।\"",
+        "उस रात कप घर लाने के बाद Rain बिस्तर पर जागता रहता है। उसे तीन हल्की दस्तकें और फिर एक विराम सुनाई देता है। वह सामने के दरवाज़े की ओर कान लगाता है, मगर बाहर कदमों की आहट नहीं है।\n\nRain: \"दरवाज़े पर कोई है?\"",
+        "सुबह वही कंबल Rain के पैर नहीं ढक पाता। उसने न पलंग खिसकाया है, न चादर-कंबल बदले हैं। रात में उसके शरीर में कुछ बदल गया है।\n\nRain: \"कल तो कंबल मेरे पैर ढक रहा था।\""
+      ],
+      "introduction": "तूफ़ान के बाद Rain और Nova, Mosaic की परिचित बेंच पर लौटते हैं। पास में Quest खराब हुई माल की खेप जाँच रहा है। एक छोटी खोज उनकी साधारण दोपहर को ऐसे रहस्य से जोड़ती है जिसे अभी कोई नहीं समझता।",
+      "title": "वह रोशनी जिस पर किसी ने दावा नहीं किया"
+    },
+    "id": {
+      "altTexts": [
+        "Setelah badai, Rain dan Nova bertemu di bangku biasa di samping kanal Mosaic. Rain mengusapkan sarung tangan di atas takik yang sudah dikenal. Di suatu sore, mengetahui siapa yang akan duduk di sampingnya sudah cukup.",
+        "Sementara itu, beberapa langkah dari sana, di stasiun Mosaic, Quest memeriksa peti pengiriman yang terbuka akibat badai. Wadah yang terpasang di dalamnya kosong, dan saluran limpasan mengarah ke bawah menuju bangku kanal.",
+        "Kembali ke bangku, saat Nova mengambil teh, Rain melihat cahaya biru samar tersangkut di samping saluran pembuangan. Dia berlutut agar aliran air berikutnya tidak menghanyutkan cahaya itu.",
+        "Rain menempelkan cahaya ke tepi depannya, berharap bisa melindunginya. Untuk sesaat, cahaya itu bersinar di antara sarung tangannya. Kemudian hilang dari pandangan, tidak meninggalkan bekas.",
+        "Sesaat kemudian, kembali ke bangku, Nova kembali membawa teh. Rain membuka sarung tangan kosongnya, bertanya-tanya apakah cahaya kecil itu padam. Rain memberi ruang di sampingnya saat Nova meletakkan cangkir.",
+        "Malam itu, setelah membawa pulang cangkirnya, Rain terbangun di tempat tidurnya sendiri dengan tiga ketukan lembut dan jeda. Dia mendengarkan ke arah pintu depan, tapi tidak ada langkah kaki di luar.",
+        "Saat fajar, selimut yang sama tidak lagi menutupi kaki Rain. Dia belum memindahkan tempat tidur atau mengganti seprai. Sesuatu dalam dirinya telah berubah dalam semalam."
+      ],
+      "captions": [
+        "Setelah badai, Rain dan Nova bertemu di bangku biasa di samping kanal Mosaic. Rain mengusapkan sarung tangan di atas takik yang sudah dikenal. Di suatu sore, mengetahui siapa yang akan duduk di sampingnya sudah cukup.\n\nRain: “Besok di tempat yang sama?”\nNova: “Tentu saja.”",
+        "Sementara itu, beberapa langkah dari sana, di stasiun Mosaic, Quest memeriksa peti pengiriman yang terbuka akibat badai. Wadah yang terpasang di dalamnya kosong, dan saluran limpasan mengarah ke bawah menuju bangku kanal.\n\nQuest: \"Mungkin ada sesuatu yang hanyut. Aku akan memeriksa catatan pengirimannya.\"",
+        "Kembali ke bangku, saat Nova mengambil teh, Rain melihat cahaya biru samar tersangkut di samping saluran pembuangan. Dia berlutut agar aliran air berikutnya tidak menghanyutkan cahaya itu.\n\nRain: \"Itu dia. Hampir hanyut.\"",
+        "Rain menempelkan cahaya ke tepi depannya, berharap bisa melindunginya. Untuk sesaat, cahaya itu bersinar di antara sarung tangannya. Kemudian hilang dari pandangan, tidak meninggalkan bekas.\n\nRain: “Hanya untuk malam ini.”",
+        "Sesaat kemudian, kembali ke bangku, Nova kembali membawa teh. Rain membuka sarung tangan kosongnya, bertanya-tanya apakah cahaya kecil itu padam. Rain memberi ruang di sampingnya saat Nova meletakkan cangkir.\n\nNova: “Kamu menyisakan tempat untukku.”\nRain: \"Selalu. Sesuatu yang aneh terjadi saat kamu pergi.\"",
+        "Malam itu, setelah membawa pulang cangkirnya, Rain terbangun di tempat tidurnya sendiri dengan tiga ketukan lembut dan jeda. Dia mendengarkan ke arah pintu depan, tapi tidak ada langkah kaki di luar.\n\nRain: “Apakah ada seseorang di depan pintu?”",
+        "Saat fajar, selimut yang sama tidak lagi menutupi kaki Rain. Dia belum memindahkan tempat tidur atau mengganti seprai. Sesuatu dalam dirinya telah berubah dalam semalam.\n\nRain: “Itu tidak terjadi kemarin.”"
+      ],
+      "introduction": "Setelah badai, Rain dan Nova kembali ke bangku biasanya di Mosaic. Di dekatnya, Quest sedang memeriksa pengiriman yang rusak. Sebuah penemuan kecil menghubungkan sore hari mereka yang biasa dengan sebuah misteri yang belum mereka pahami.",
+      "title": "Cahaya yang Tak Bertuan"
+    },
+    "it": {
+      "altTexts": [
+        "Dopo il temporale, Rain e Nova si incontrano alla loro solita panchina accanto al canale di Mosaic. Rain passa un guanto sulla tacca familiare. Certi pomeriggi basta sapere chi siederà accanto a lui.",
+        "Nel frattempo, a pochi passi di distanza, alla stazione di Mosaic, Quest ispeziona una cassa per le consegne aperta dalla tempesta. Il contenitore alloggiato nella cassa è vuoto e il canale di deflusso conduce in discesa verso la panchina accanto al canale.",
+        "Alla panchina, mentre Nova va a prendere il tè, Rain nota una debole luce blu catturata accanto allo scarico. Si inginocchia per evitare che il prossimo rivolo d'acqua la porti via.",
+        "Rain raccoglie la luce contro il bordo anteriore, sperando di proteggerla. Per un istante brilla tra i suoi guanti. Poi scompare dalla vista, senza lasciare traccia.",
+        "Un attimo dopo, di nuovo in panchina, Nova ritorna con il tè. Rain apre i guanti vuoti, chiedendosi se la lucina si sia spenta. Rain fa spazio accanto a sé mentre lei posa le tazze.",
+        "Quella notte, dopo aver portato a casa la sua tazza, Rain si sveglia nel suo letto con tre colpetti leggeri e una pausa. Ascolta verso la porta d'ingresso, ma non ci sono passi fuori.",
+        "All'alba, la stessa coperta non copre più i piedi di Rain. Non ha spostato il letto né cambiato la biancheria da letto. Qualcosa in lui è cambiato da un giorno all'altro."
+      ],
+      "captions": [
+        "Dopo il temporale, Rain e Nova si incontrano alla loro solita panchina accanto al canale di Mosaic. Rain passa un guanto sulla tacca familiare. Certi pomeriggi basta sapere chi siederà accanto a lui.\n\nRain: \"Lo stesso posto domani?\"\nNova: \"Certamente.\"",
+        "Nel frattempo, a pochi passi di distanza, alla stazione di Mosaic, Quest ispeziona una cassa per le consegne aperta dalla tempesta. Il contenitore alloggiato nella cassa è vuoto e il canale di deflusso conduce in discesa verso la panchina accanto al canale.\n\nQuest: \"L'acqua potrebbe aver trascinato via qualcosa. Controllerò il verbale di consegna.\"",
+        "Alla panchina, mentre Nova va a prendere il tè, Rain nota una debole luce blu catturata accanto allo scarico. Si inginocchia per evitare che il prossimo rivolo d'acqua la porti via.\n\nRain: \"Eccoti. L'acqua stava per portarti via.\"",
+        "Rain raccoglie la luce contro il bordo anteriore, sperando di proteggerla. Per un istante brilla tra i suoi guanti. Poi scompare dalla vista, senza lasciare traccia.\n\nRain: \"Solo per stasera.\"",
+        "Un attimo dopo, di nuovo in panchina, Nova ritorna con il tè. Rain apre i guanti vuoti, chiedendosi se la lucina si sia spenta. Rain fa spazio accanto a sé mentre lei posa le tazze.\n\nNova: \"Mi hai tenuto il posto.\"\nRain: \"Sempre. È successo qualcosa di strano mentre eri via.\"",
+        "Quella notte, dopo aver portato a casa la sua tazza, Rain si sveglia nel suo letto con tre colpetti leggeri e una pausa. Ascolta verso la porta d'ingresso, ma non ci sono passi fuori.\n\nRain: \"C'è qualcuno alla porta?\"",
+        "All'alba, la stessa coperta non copre più i piedi di Rain. Non ha spostato il letto né cambiato la biancheria da letto. Qualcosa in lui è cambiato da un giorno all'altro.\n\nRain: \"Questo non succedeva ieri.\""
+      ],
+      "introduction": "Dopo una tempesta, Rain e Nova tornano alla loro panchina familiare a Mosaic. Nelle vicinanze, Quest sta controllando una consegna danneggiata. Una piccola scoperta collega il loro pomeriggio qualunque a un mistero che nessuno di loro ancora comprende.",
+      "title": "Una luce che nessuno ha rivendicato"
+    },
+    "ja": {
+      "altTexts": [
+        "嵐の後、Rain と Nova は、Mosaic の運河の横のいつものベンチに集まります。 Rain は、手袋をはめた手で、なじみのある切り込みをなぞります。隣に誰が座ってくれるか。それが分かるだけで、安心できる午後もあります。",
+        "一方、数歩離れた Mosaic 駅では、Quest が嵐で開けられた配送箱を検査しています。取り付けられた記憶容器は空で、流出水路は運河ベンチに向かって下り坂になっています。",
+        "ベンチに戻り、Nova がお茶を汲んでくる間、Rain は排水溝の横でかすかな青い光に気づきました。彼はひざまずいて、続いて流れてくる水に光がさらわれないよう、手で守ります。",
+        "Rain は小さな光を守ろうと、体の前側にそっと抱えます。一瞬、ミトンの間で光が輝きます。その後、痕跡を残さずに視界から消えます。",
+        "しばらくして、Novaがお茶を持ってベンチに戻ります。Rainはミトンをはめた両手を開きますが、もう何もありません。光は消えてしまったのでしょうか。Novaがカップを置く間に、Rainは隣の席を空けます。",
+        "その夜、カップを家に持ち帰った後、Rain はベッドの中で、三度のかすかなノックと、その後に続く間を聞きながら眠れずにいます。玄関に向かって耳を澄ますが、外には足音はありません。",
+        "夜明けまでに、同じ毛布はもう Rain の足を覆っていません。彼はベッドを移動したり、寝具を交換したりしていません。彼の何かが一夜にして変わってしまった。"
+      ],
+      "captions": [
+        "嵐の後、Rain と Nova は、Mosaic の運河の横のいつものベンチに集まります。 Rain は、手袋をはめた手で、なじみのある切り込みをなぞります。隣に誰が座ってくれるか。それが分かるだけで、安心できる午後もあります。\n\nRain: 「明日も同じ場所ですか？」\nNova: 「もちろんです。」",
+        "一方、数歩離れた Mosaic 駅では、Quest が嵐で開けられた配送箱を検査しています。取り付けられた記憶容器は空で、流出水路は運河ベンチに向かって下り坂になっています。\n\nQuest: 「何かが流れ出た可能性があります。配達記録を確認してみます。」",
+        "ベンチに戻り、Nova がお茶を汲んでくる間、Rain は排水溝の横でかすかな青い光に気づきました。彼はひざまずいて、続いて流れてくる水に光がさらわれないよう、手で守ります。\n\nRain: 「ここにいたんですね。流されるところでした。」",
+        "Rain は小さな光を守ろうと、体の前側にそっと抱えます。一瞬、ミトンの間で光が輝きます。その後、痕跡を残さずに視界から消えます。\n\nRain: 「今夜だけです。」",
+        "しばらくして、Novaがお茶を持ってベンチに戻ります。Rainはミトンをはめた両手を開きますが、もう何もありません。光は消えてしまったのでしょうか。Novaがカップを置く間に、Rainは隣の席を空けます。\n\nNova: 「私の席を空けておいてくれたんですね。」\nRain: 「いつものことです。あなたがいない間、何か奇妙なことが起こりました。」",
+        "その夜、カップを家に持ち帰った後、Rain はベッドの中で、三度のかすかなノックと、その後に続く間を聞きながら眠れずにいます。玄関に向かって耳を澄ますが、外には足音はありません。\n\nRain: 「ドアのところに誰かいますか?」",
+        "夜明けまでに、同じ毛布はもう Rain の足を覆っていません。彼はベッドを移動したり、寝具を交換したりしていません。彼の何かが一夜にして変わってしまった。\n\nRain: 「昨日は、ちゃんと足まで掛かっていたのに。」"
+      ],
+      "introduction": "嵐の後、Rain と Nova は Mosaic の馴染みのベンチに戻ります。近くで、Quest が破損した配送品を確認しています。小さな発見が、彼らの平凡な午後を、まだ誰も理解していない謎に結びつけます。",
+      "title": "持ち主のいない光"
+    },
+    "ko": {
+      "altTexts": [
+        "폭풍이 지나간 후 Rain과 Nova는 Mosaic 운하 옆의 평소 벤치에서 만납니다. Rain은 장갑 낀 손으로 익숙한 홈을 쓸어봅니다. 어떤 오후에는 누가 그의 옆에 앉을지 아는 것만으로도 충분합니다.",
+        "한편, 몇 걸음 떨어진 Mosaic 역에서 Quest는 폭풍에 뚜껑이 벌어진 배송 상자를 검사합니다. 장착된 기억 보관 용기는 비어 있고 배수로는 운하 벤치를 향해 내리막으로 이어집니다.",
+        "벤치로 돌아와 Nova가 차를 가져오는 동안 Rain은 배수구 옆에 희미한 파란색 빛이 들어오는 것을 발견합니다. 그는 다음 물줄기가 그 빛을 휩쓸어가는 것을 막기 위해 무릎을 꿇었습니다.",
+        "Rain은 빛을 지켜 주려고 몸 앞쪽에 가만히 감싸 안습니다. 순간 그것은 그의 장갑 사이에서 빛난다. 그러다가 흔적도 남기지 않고 사라져 버립니다.",
+        "잠시 후 Nova가 차를 들고 벤치로 돌아옵니다. Rain은 장갑 낀 두 손을 펴 봅니다. 손은 비어 있고, 작은 빛이 꺼진 것인지 알 수 없습니다. Nova가 컵을 내려놓는 동안 Rain은 옆자리를 비워 줍니다.",
+        "그날 밤, Rain은 컵을 집으로 가져간 후 침대에 누워 세 번의 작은 두드림과 그 뒤의 침묵을 들으며 잠들지 못합니다. 그는 현관 쪽을 듣고 있지만 밖에서는 발소리가 없습니다.",
+        "새벽이 되면 같은 담요가 더 이상 Rain의 발을 덮지 않습니다. 그는 침대를 옮기거나 침구를 바꾸지 않았습니다. 그의 몸에 무언가가 하룻밤 사이에 바뀌었습니다."
+      ],
+      "captions": [
+        "폭풍이 지나간 후 Rain과 Nova는 Mosaic 운하 옆의 평소 벤치에서 만납니다. Rain은 장갑 낀 손으로 익숙한 홈을 쓸어봅니다. 어떤 오후에는 누가 그의 옆에 앉을지 아는 것만으로도 충분합니다.\n\nRain: “내일도 같은 장소요?”\nNova: “물론이죠.”",
+        "한편, 몇 걸음 떨어진 Mosaic 역에서 Quest는 폭풍에 뚜껑이 벌어진 배송 상자를 검사합니다. 장착된 기억 보관 용기는 비어 있고 배수로는 운하 벤치를 향해 내리막으로 이어집니다.\n\nQuest: \"무언가 물에 떠내려간 것 같습니다. 배송기록을 확인해보겠습니다.\"",
+        "벤치로 돌아와 Nova가 차를 가져오는 동안 Rain은 배수구 옆에 희미한 파란색 빛이 들어오는 것을 발견합니다. 그는 다음 물줄기가 그 빛을 휩쓸어가는 것을 막기 위해 무릎을 꿇었습니다.\n\nRain: \"여기 있었네요. 떠내려갈 뻔했어요.\"",
+        "Rain은 빛을 지켜 주려고 몸 앞쪽에 가만히 감싸 안습니다. 순간 그것은 그의 장갑 사이에서 빛난다. 그러다가 흔적도 남기지 않고 사라져 버립니다.\n\nRain: \"오늘 밤만요.\"",
+        "잠시 후 Nova가 차를 들고 벤치로 돌아옵니다. Rain은 장갑 낀 두 손을 펴 봅니다. 손은 비어 있고, 작은 빛이 꺼진 것인지 알 수 없습니다. Nova가 컵을 내려놓는 동안 Rain은 옆자리를 비워 줍니다.\n\nNova: “당신이 내 자리를 지켜줬어요.”\nRain: \"항상. 당신이 없는 동안 이상한 일이 일어났어요.\"",
+        "그날 밤, Rain은 컵을 집으로 가져간 후 침대에 누워 세 번의 작은 두드림과 그 뒤의 침묵을 들으며 잠들지 못합니다. 그는 현관 쪽을 듣고 있지만 밖에서는 발소리가 없습니다.\n\nRain: \"문 앞에 누군가 있나요?\"",
+        "새벽이 되면 같은 담요가 더 이상 Rain의 발을 덮지 않습니다. 그는 침대를 옮기거나 침구를 바꾸지 않았습니다. 그의 몸에 무언가가 하룻밤 사이에 바뀌었습니다.\n\nRain: “어제는 발까지 덮였는데.”"
+      ],
+      "introduction": "폭풍이 몰아친 후 Rain과 Nova는 Mosaic의 친숙한 벤치로 돌아갑니다. 근처에서 Quest가 손상된 배송물을 확인하고 있습니다. 작은 발견이 그들의 평범한 오후를 그들 중 누구도 아직 이해하지 못하는 미스터리와 연결시킵니다.",
+      "title": "주인 없는 빛"
+    },
+    "pl": {
+      "altTexts": [
+        "Po burzy Rain i Nova spotykają się na swojej zwykłej ławce obok kanału w mieście Mosaic. Rain przesuwa rękawiczką po znajomym wycięciu. W niektóre popołudnia wystarczy wiedzieć, kto usiądzie obok niego.",
+        "Tymczasem kilka kroków dalej, na stacji w mieście Mosaic, Quest sprawdza otwartą przez burzę skrzynię dostawczą. Zamontowany w niej pojemnik jest pusty, a kanał odpływowy prowadzi w dół w kierunku ławki przy kanale.",
+        "Tymczasem przy ławce, gdy Nova poszła po herbatę, Rain zauważa słabe niebieskie światło złapane obok odpływu. Klęka, żeby kolejna strużka wody nie zabrała światełka.",
+        "Rain składa dłonie przy przedniej krawędzi ciała, aby osłonić światełko. Przez chwilę świeci pomiędzy jego rękawiczkami. Potem znika z pola widzenia, nie pozostawiając żadnego śladu.",
+        "Chwilę później, z powrotem przy ławce, Nova wraca z herbatą. Rain otwiera puste dłonie, zastanawiając się, czy zgasło światełko. Robi miejsce obok siebie, a ona odstawia filiżanki.",
+        "Tej nocy, po zabraniu kubka do domu, Rain budzi się we własnym łóżku po trzech delikatnych kliknięciach i pauzie. Nasłuchuje w kierunku drzwi wejściowych, ale na zewnątrz nie słychać żadnych kroków.",
+        "O świcie ten sam koc nie zakrywa już stóp Raina. Nie przesunął łóżka ani nie zmienił pościeli. Coś się w nim zmieniło z dnia na dzień."
+      ],
+      "captions": [
+        "Po burzy Rain i Nova spotykają się na swojej zwykłej ławce obok kanału w mieście Mosaic. Rain przesuwa rękawiczką po znajomym wycięciu. W niektóre popołudnia wystarczy wiedzieć, kto usiądzie obok niego.\n\nRain: „Jutro w tym samym miejscu?”\nNova: „Oczywiście.”",
+        "Tymczasem kilka kroków dalej, na stacji w mieście Mosaic, Quest sprawdza otwartą przez burzę skrzynię dostawczą. Zamontowany w niej pojemnik jest pusty, a kanał odpływowy prowadzi w dół w kierunku ławki przy kanale.\n\nQuest: \"Coś mogło się wypłukać. Sprawdzę protokół dostawy.\"",
+        "Tymczasem przy ławce, gdy Nova poszła po herbatę, Rain zauważa słabe niebieskie światło złapane obok odpływu. Klęka, żeby kolejna strużka wody nie zabrała światełka.\n\nRain: \"Tutaj jesteś. Woda o mało cię nie porwała.\"",
+        "Rain składa dłonie przy przedniej krawędzi ciała, aby osłonić światełko. Przez chwilę świeci pomiędzy jego rękawiczkami. Potem znika z pola widzenia, nie pozostawiając żadnego śladu.\n\nRain: „Tylko na dzisiejszy wieczór”.",
+        "Chwilę później, z powrotem przy ławce, Nova wraca z herbatą. Rain otwiera puste dłonie, zastanawiając się, czy zgasło światełko. Robi miejsce obok siebie, a ona odstawia filiżanki.\n\nNova: „Zostawiłeś mi miejsce.”\nRain: \"Zawsze. Coś dziwnego wydarzyło się, kiedy cię nie było.\"",
+        "Tej nocy, po zabraniu kubka do domu, Rain budzi się we własnym łóżku po trzech delikatnych kliknięciach i pauzie. Nasłuchuje w kierunku drzwi wejściowych, ale na zewnątrz nie słychać żadnych kroków.\n\nRain: „Czy ktoś jest przy drzwiach?”",
+        "O świcie ten sam koc nie zakrywa już stóp Raina. Nie przesunął łóżka ani nie zmienił pościeli. Coś się w nim zmieniło z dnia na dzień.\n\nRain: „Wczoraj tak nie było.”"
+      ],
+      "introduction": "Po burzy Rain i Nova wracają na swoją znajomą ławkę w mieście Mosaic. W pobliżu Quest sprawdza uszkodzoną dostawę. Małe odkrycie łączy ich zwykłe popołudnie z tajemnicą, której żadne z nich jeszcze nie rozumie.",
+      "title": "Światełko, po które nikt się nie zgłosił"
+    },
+    "pt": {
+      "altTexts": [
+        "Após a tempestade, Rain e Nova se encontram em seu banco habitual ao lado do canal Mosaic. Rain passa uma luva sobre o entalhe familiar. Algumas tardes, basta saber quem vai sentar ao lado dele.",
+        "Enquanto isso, a poucos passos de distância, na estação Mosaic, Quest inspeciona uma caixa de entrega aberta pela tempestade. O recipiente encaixado na caixa está vazio e o canal de escoamento desce em direção ao banco junto ao canal.",
+        "De volta ao banco, enquanto Nova busca chá, Rain percebe uma leve luz azul capturada ao lado do ralo. Ele se ajoelha para evitar que o próximo fio de água a leve embora.",
+        "Rain coloca a luz contra a borda frontal, na esperança de protegê-la. Por um instante ela brilha entre suas luvas. Depois desaparece de vista, sem deixar marcas.",
+        "Um momento depois, de volta ao banco, Nova retorna com chá. Rain abre suas luvas vazias, perguntando-se se a luzinha se apagou. Ele abre espaço ao lado dele enquanto ela apoia as xícaras.",
+        "Naquela noite, depois de levar sua xícara para casa, Rain acorda em sua própria cama com três batidas suaves e uma pausa. Ele escuta a porta da frente, mas não há passos lá fora.",
+        "Ao amanhecer, o mesmo cobertor já não cobre os pés de Rain. Ele não mudou a cama nem trocou a roupa de cama. Algo nele mudou da noite para o dia."
+      ],
+      "captions": [
+        "Após a tempestade, Rain e Nova se encontram em seu banco habitual ao lado do canal Mosaic. Rain passa uma luva sobre o entalhe familiar. Algumas tardes, basta saber quem vai sentar ao lado dele.\n\nRain: “Mesmo lugar amanhã?”\nNova: “Claro.”",
+        "Enquanto isso, a poucos passos de distância, na estação Mosaic, Quest inspeciona uma caixa de entrega aberta pela tempestade. O recipiente encaixado na caixa está vazio e o canal de escoamento desce em direção ao banco junto ao canal.\n\nQuest: \"Algo pode ter desaparecido. Vou verificar o registro de entrega.\"",
+        "De volta ao banco, enquanto Nova busca chá, Rain percebe uma leve luz azul capturada ao lado do ralo. Ele se ajoelha para evitar que o próximo fio de água a leve embora.\n\nRain: \"Aí está você. A água quase levou você.\"",
+        "Rain coloca a luz contra a borda frontal, na esperança de protegê-la. Por um instante ela brilha entre suas luvas. Depois desaparece de vista, sem deixar marcas.\n\nRain: “Só por esta noite.”",
+        "Um momento depois, de volta ao banco, Nova retorna com chá. Rain abre suas luvas vazias, perguntando-se se a luzinha se apagou. Ele abre espaço ao lado dele enquanto ela apoia as xícaras.\n\nNova: “Você guardou meu lugar.”\nRain: \"Sempre. Algo estranho aconteceu enquanto você estava fora.\"",
+        "Naquela noite, depois de levar sua xícara para casa, Rain acorda em sua própria cama com três batidas suaves e uma pausa. Ele escuta a porta da frente, mas não há passos lá fora.\n\nRain: “Tem alguém na porta?”",
+        "Ao amanhecer, o mesmo cobertor já não cobre os pés de Rain. Ele não mudou a cama nem trocou a roupa de cama. Algo nele mudou da noite para o dia.\n\nRain: “Isso não estava acontecendo ontem.”"
+      ],
+      "introduction": "Após uma tempestade, Rain e Nova retornam ao seu banco familiar em Mosaic. Perto dali, Quest está verificando uma entrega danificada. Uma pequena descoberta liga a sua tarde normal a um mistério que nenhum deles ainda entende.",
+      "title": "Uma luz que ninguém reivindicou"
+    },
+    "ru": {
+      "altTexts": [
+        "После урагана Rain и Nova встречаются на своей обычной скамейке рядом с каналом Mosaic. Rain проводит варежкой по знакомой выемке. Иногда днем достаточно знать, кто будет сидеть рядом с ним.",
+        "Тем временем в нескольких шагах от них, на станции Mosaic, Quest осматривает ящик для доставки, открытый штормом. Контейнер для записи внутри ящика пуст, а стоковый канал ведет вниз по склону к скамейке у канала.",
+        "Тем временем у скамейки, пока Nova ушла за чаем, Rain замечает слабый синий свет возле водостока. Он становится на колени, чтобы следующая струйка воды не унесла его.",
+        "Rain складывает ладони перед собой, стараясь укрыть маленький огонек. На мгновение он светится между его рукавицами. Затем он ускользает из поля зрения, не оставляя следов.",
+        "Мгновение спустя на скамейку возвращается Nova с чаем. Rain раскрывает пустые ладони в рукавицах, гадая, погас ли маленький огонек. Он освобождает место рядом с собой, когда она ставит чашки.",
+        "Той ночью, забрав чашку домой, Rain просыпается в своей постели от трех мягких постукиваний и паузы. Он прислушивается к входной двери, но снаружи не слышно шагов.",
+        "К рассвету то же одеяло больше не закрывает ноги Rain. Он не передвигал кровать и не менял постельное белье. Что-то в нем изменилось за одну ночь."
+      ],
+      "captions": [
+        "После урагана Rain и Nova встречаются на своей обычной скамейке рядом с каналом Mosaic. Rain проводит варежкой по знакомой выемке. Иногда днем достаточно знать, кто будет сидеть рядом с ним.\n\nRain: «Завтра в том же месте?»\nNova: «Конечно».",
+        "Тем временем в нескольких шагах от них, на станции Mosaic, Quest осматривает ящик для доставки, открытый штормом. Контейнер для записи внутри ящика пуст, а стоковый канал ведет вниз по склону к скамейке у канала.\n\nQuest: \"Возможно, что-то вымылось. Я проверю запись о доставке\".",
+        "Тем временем у скамейки, пока Nova ушла за чаем, Rain замечает слабый синий свет возле водостока. Он становится на колени, чтобы следующая струйка воды не унесла его.\n\nRain: \"Вот ты где. Тебя чуть не смыло.\"",
+        "Rain складывает ладони перед собой, стараясь укрыть маленький огонек. На мгновение он светится между его рукавицами. Затем он ускользает из поля зрения, не оставляя следов.\n\nRain: «Только сегодня вечером».",
+        "Мгновение спустя на скамейку возвращается Nova с чаем. Rain раскрывает пустые ладони в рукавицах, гадая, погас ли маленький огонек. Он освобождает место рядом с собой, когда она ставит чашки.\n\nNova: «Ты оставил мне место».\nRain: \"Всегда. Пока тебя не было, произошло что-то странное\".",
+        "Той ночью, забрав чашку домой, Rain просыпается в своей постели от трех мягких постукиваний и паузы. Он прислушивается к входной двери, но снаружи не слышно шагов.\n\nRain: «Кто-то у двери?»",
+        "К рассвету то же одеяло больше не закрывает ноги Rain. Он не передвигал кровать и не менял постельное белье. Что-то в нем изменилось за одну ночь.\n\nRain: «Этого не было вчера»."
+      ],
+      "introduction": "После бури Rain и Nova возвращаются на свою знакомую скамейку в Mosaic. Рядом Quest проверяет поврежденную поставку. Небольшое открытие связывает их обычный день с тайной, которую никто из них пока не понимает.",
+      "title": "Свет, на который никто не претендовал"
+    },
+    "tr": {
+      "altTexts": [
+        "Fırtınanın ardından Rain ve Nova, Mosaic kanalının yanındaki her zamanki banklarında buluşuyor. Rain, eldivenli elini tanıdık çentiğin üzerinde gezdiriyor. Bazı öğleden sonraları yanına kimin oturacağını bilmek yeterlidir.",
+        "Bu arada Mosaic istasyonunda birkaç adım ötede Quest fırtınada açılmış bir teslimat kasasını inceliyor. Kasanın içindeki kayıt taşıyıcısı boştur ve akış kanalı yokuş aşağı kanalın yanındaki banka doğru uzanmaktadır.",
+        "Bankta Nova çay getirirken Rain giderin yanında yakalanan soluk mavi ışığı fark ediyor. Bir sonraki su damlasının onu alıp götürmesini önlemek için diz çöküyor.",
+        "Rain, onu korumayı umarak ışığı ön kenarına yaslıyor. Bir an için eldivenlerinin arasında parlıyor. Daha sonra hiçbir iz bırakmadan gözden kaybolur.",
+        "Bir dakika sonra banka dönen Nova elinde çayla geri dönüyor. Rain boş eldivenlerini açarak küçük ışığın sönüp sönmediğini merak ediyor. Fincanları bırakırken yanında yer açıyor.",
+        "O gece, fincanını eve götürdükten sonra Rain, kendi yatağında üç hafif tıkırtı ve ardından gelen bir sessizlikle uyanır. Ön kapıyı dinliyor ama dışarıda ayak sesi yok.",
+        "Şafak vakti aynı battaniye artık Rain'in ayaklarını örtmüyor. Yatağı hareket ettirmedi ya da yatak takımını değiştirmedi. Bir gecede onda bir şeyler değişti."
+      ],
+      "captions": [
+        "Fırtınanın ardından Rain ve Nova, Mosaic kanalının yanındaki her zamanki banklarında buluşuyor. Rain, eldivenli elini tanıdık çentiğin üzerinde gezdiriyor. Bazı öğleden sonraları yanına kimin oturacağını bilmek yeterlidir.\n\nRain: \"Yarın aynı yerde mi?\"\nNova: “Elbette.”",
+        "Bu arada Mosaic istasyonunda birkaç adım ötede Quest fırtınada açılmış bir teslimat kasasını inceliyor. Kasanın içindeki kayıt taşıyıcısı boştur ve akış kanalı yokuş aşağı kanalın yanındaki banka doğru uzanmaktadır.\n\nQuest: \"Su bir şeyleri sürüklemiş olabilir. Teslimat kaydını kontrol edeceğim.\"",
+        "Bankta Nova çay getirirken Rain giderin yanında yakalanan soluk mavi ışığı fark ediyor. Bir sonraki su damlasının onu alıp götürmesini önlemek için diz çöküyor.\n\nRain: \"İşte buradasın. Az daha suya kapılıyordun.\"",
+        "Rain, onu korumayı umarak ışığı ön kenarına yaslıyor. Bir an için eldivenlerinin arasında parlıyor. Daha sonra hiçbir iz bırakmadan gözden kaybolur.\n\nRain: “Sadece bu gece için.”",
+        "Bir dakika sonra banka dönen Nova elinde çayla geri dönüyor. Rain boş eldivenlerini açarak küçük ışığın sönüp sönmediğini merak ediyor. Fincanları bırakırken yanında yer açıyor.\n\nNova: \"Yerimi ayırmışsın.\"\nRain: \"Her zaman. Sen yokken tuhaf bir şey oldu.\"",
+        "O gece, fincanını eve götürdükten sonra Rain, kendi yatağında üç hafif tıkırtı ve ardından gelen bir sessizlikle uyanır. Ön kapıyı dinliyor ama dışarıda ayak sesi yok.\n\nRain: \"Kapıda biri mi var?\"",
+        "Şafak vakti aynı battaniye artık Rain'in ayaklarını örtmüyor. Yatağı hareket ettirmedi ya da yatak takımını değiştirmedi. Bir gecede onda bir şeyler değişti.\n\nRain: “Dün bu gerçekleşmiyordu.”"
+      ],
+      "introduction": "Bir fırtınanın ardından Rain ve Nova, Mosaic'teki tanıdık banklarına geri dönüyor. Yakınlarda Quest hasarlı bir teslimatı kontrol ediyor. Küçük bir keşif, sıradan öğleden sonralarını hiçbirinin henüz anlamadığı bir gizemle birleştirir.",
+      "title": "Kimsenin Sahiplenmediği Bir Işık"
+    },
+    "vi": {
+      "altTexts": [
+        "Sau cơn bão, Rain và Nova gặp nhau tại băng ghế quen thuộc của họ bên cạnh con kênh của Mosaic. Rain lướt bàn tay đeo găng qua vết khía quen thuộc. Có những buổi chiều biết ai sẽ ngồi cạnh mình là đủ.",
+        "Trong khi đó, cách đó vài bước, tại ga Mosaic, Quest đang kiểm tra một thùng giao hàng bị bão làm bật nắp. Hộp chứa bản ghi bên trong đã trống rỗng, còn rãnh thoát nước dẫn xuống dốc về phía băng ghế bên kênh.",
+        "Trong lúc Nova đi lấy trà, ở cạnh băng ghế, Rain nhận thấy một ánh sáng xanh mờ phát ra bên cạnh cống. Anh quỳ xuống để dòng nước tiếp theo không cuốn đi.",
+        "Rain khum hai bàn tay trước người để che chở cho đốm sáng. Trong giây lát, nó phát sáng giữa đôi găng tay của anh. Sau đó nó biến mất khỏi tầm mắt, không để lại dấu vết.",
+        "Một lúc sau, quay lại băng ghế, Nova quay lại với trà. Rain mở hai bàn tay trống không, tự hỏi liệu đốm sáng nhỏ đã tắt chưa. Anh nhường chỗ bên cạnh khi cô đặt cốc xuống.",
+        "Đêm hôm đó, sau khi mang cốc về nhà, Rain thức dậy trên giường của mình sau ba tiếng gõ nhẹ rồi một khoảng lặng. Anh lắng nghe về phía cửa trước, nhưng không có tiếng bước chân bên ngoài.",
+        "Đến rạng sáng, chiếc chăn đó không còn che chân Rain nữa. Anh chưa di chuyển chiếc giường hay thay ga trải giường. Có điều gì đó ở anh ấy đã thay đổi chỉ sau một đêm."
+      ],
+      "captions": [
+        "Sau cơn bão, Rain và Nova gặp nhau tại băng ghế quen thuộc của họ bên cạnh con kênh của Mosaic. Rain lướt bàn tay đeo găng qua vết khía quen thuộc. Có những buổi chiều biết ai sẽ ngồi cạnh mình là đủ.\n\nRain: “Ngày mai vẫn ở chỗ đó?”\nNova: “Tất nhiên rồi.”",
+        "Trong khi đó, cách đó vài bước, tại ga Mosaic, Quest đang kiểm tra một thùng giao hàng bị bão làm bật nắp. Hộp chứa bản ghi bên trong đã trống rỗng, còn rãnh thoát nước dẫn xuống dốc về phía băng ghế bên kênh.\n\nQuest: \"Có thể có thứ gì đó đã bị trôi đi. Tôi sẽ kiểm tra hồ sơ giao hàng.\"",
+        "Trong lúc Nova đi lấy trà, ở cạnh băng ghế, Rain nhận thấy một ánh sáng xanh mờ phát ra bên cạnh cống. Anh quỳ xuống để dòng nước tiếp theo không cuốn đi.\n\nRain: \"Cậu đây rồi. Suýt nữa thì bị nước cuốn đi.\"",
+        "Rain khum hai bàn tay trước người để che chở cho đốm sáng. Trong giây lát, nó phát sáng giữa đôi găng tay của anh. Sau đó nó biến mất khỏi tầm mắt, không để lại dấu vết.\n\nRain: “Chỉ tối nay thôi.”",
+        "Một lúc sau, quay lại băng ghế, Nova quay lại với trà. Rain mở hai bàn tay trống không, tự hỏi liệu đốm sáng nhỏ đã tắt chưa. Anh nhường chỗ bên cạnh khi cô đặt cốc xuống.\n\nNova: “Cậu đã giữ chỗ cho tôi.”\nRain: \"Luôn luôn. Có điều gì đó kỳ lạ đã xảy ra khi bạn đi vắng.\"",
+        "Đêm hôm đó, sau khi mang cốc về nhà, Rain thức dậy trên giường của mình sau ba tiếng gõ nhẹ rồi một khoảng lặng. Anh lắng nghe về phía cửa trước, nhưng không có tiếng bước chân bên ngoài.\n\nRain: \"Có ai ở cửa không?\"",
+        "Đến rạng sáng, chiếc chăn đó không còn che chân Rain nữa. Anh chưa di chuyển chiếc giường hay thay ga trải giường. Có điều gì đó ở anh ấy đã thay đổi chỉ sau một đêm.\n\nRain: “Hôm qua đâu có như thế này.”"
+      ],
+      "introduction": "Sau cơn bão, Rain và Nova trở lại băng ghế quen thuộc của họ ở Mosaic. Gần đó, Quest đang kiểm tra một lô hàng bị hư hỏng. Một khám phá nhỏ kết nối buổi chiều bình thường của họ với một bí ẩn mà chưa ai trong số họ hiểu được.",
+      "title": "Một ánh sáng không ai nhận là của mình"
+    },
+    "zh": {
+      "altTexts": [
+        "暴风雨过后，Rain 和 Nova 在 Mosaic 运河旁他们常用的长凳上见面。 Rain 用戴着手套的手抚过熟悉的凹口。有些下午，知道谁会坐在他旁边就足够了。",
+        "与此同时，几步之外的 Mosaic 车站里，Quest 检查一个被风暴打开的运输箱。箱内固定的记忆容器已经空了，排水沟沿坡通向运河旁的长凳。",
+        "回到长凳上，Nova 去取茶时，Rain 注意到排水管旁边有微弱的蓝光。他跪下，护住它，不让接着流来的水把它冲走。",
+        "Rain 把光点捧在身前，想为它挡住风雨。一瞬间，它在他的手套之间闪闪发光。然后就消失得无影无踪，没有留下任何痕迹。",
+        "过了一会儿，Nova端着茶回到长凳旁。Rain张开戴着手套的双手，手中已经空了；他不知那点光是不是熄灭了。她放下杯子时，他在身旁给她腾出位置。",
+        "那天晚上，Rain 将杯子带回家后，躺在床上，听见三声轻轻的敲击，接着是一阵停顿，久久无法入睡。他朝前门侧听，但外面没有脚步声。",
+        "到了黎明，同一条毯子已经盖不住Rain的脚。他没有搬过床，也没有换过床上用品。一夜之间，他身上的某些东西发生了改变。"
+      ],
+      "captions": [
+        "暴风雨过后，Rain 和 Nova 在 Mosaic 运河旁他们常用的长凳上见面。 Rain 用戴着手套的手抚过熟悉的凹口。有些下午，知道谁会坐在他旁边就足够了。\n\nRain：“明天同一个地方？”\nNova：“当然。”",
+        "与此同时，几步之外的 Mosaic 车站里，Quest 检查一个被风暴打开的运输箱。箱内固定的记忆容器已经空了，排水沟沿坡通向运河旁的长凳。\n\nQuest：“可能有东西被冲掉了，我去查一下发货记录。”",
+        "回到长凳上，Nova 去取茶时，Rain 注意到排水管旁边有微弱的蓝光。他跪下，护住它，不让接着流来的水把它冲走。\n\nRain：“原来你在这里。差点被冲走了。”",
+        "Rain 把光点捧在身前，想为它挡住风雨。一瞬间，它在他的手套之间闪闪发光。然后就消失得无影无踪，没有留下任何痕迹。\n\nRain：“今晚先待在这里吧。”",
+        "过了一会儿，Nova端着茶回到长凳旁。Rain张开戴着手套的双手，手中已经空了；他不知那点光是不是熄灭了。她放下杯子时，他在身旁给她腾出位置。\n\nNova：“你给我留了座位。”\nRain：“一直都是。你不在的时候，发生了一些奇怪的事情。”",
+        "那天晚上，Rain 将杯子带回家后，躺在床上，听见三声轻轻的敲击，接着是一阵停顿，久久无法入睡。他朝前门侧听，但外面没有脚步声。\n\nRain：“门口有人吗？”",
+        "到了黎明，同一条毯子已经盖不住Rain的脚。他没有搬过床，也没有换过床上用品。一夜之间，他身上的某些东西发生了改变。\n\nRain：“昨天还盖得住呢。”"
+      ],
+      "introduction": "一场风暴过后，Rain和Nova回到了他们熟悉的Mosaic长凳上。附近，Quest 正在检查受损的货物。一个小发现将他们平凡的下午与一个他们还不明白的谜团联系起来。",
+      "title": "无人认领的光芒"
+    }
+  },
+  "number": 1,
+  "panels": [
+    {
+      "altText": "After the storm, Rain and Nova meet at their usual bench beside Mosaic's canal. Rain runs a mitten over the familiar notch. Some afternoons, knowing who will sit beside him is enough.",
+      "image": "N01E01P01.png"
+    },
+    {
+      "altText": "Meanwhile, a few steps away at Mosaic station, Quest inspects a storm-opened delivery crate. Its fitted carrier is empty, and the runoff channel leads downhill toward the canal bench.",
+      "image": "N01E01P02.png"
+    },
+    {
+      "altText": "Back at the bench, while Nova fetches tea, Rain notices a faint blue light caught beside the drain. He kneels to keep the next trickle of water from carrying it away.",
+      "image": "N01E01P03.png"
+    },
+    {
+      "altText": "Rain cups the light against his front rim, hoping to shelter it. For an instant it glows between his mittens. Then it slips out of sight, leaving no mark.",
+      "image": "N01E01P04.png"
+    },
+    {
+      "altText": "A moment later, back at the bench, Nova returns with tea. Rain opens his empty mittens, wondering whether the little light went out. He makes room beside him as she sets down the cups.",
+      "image": "N01E01P05.png"
+    },
+    {
+      "altText": "That night, after taking his cup home, Rain wakes in his own bed to three soft taps and a pause. He listens toward the front door, but there are no footsteps outside.",
+      "image": "N01E01P06.png"
+    },
+    {
+      "altText": "By dawn, the same blanket no longer covers Rain's feet. He has not moved the bed or changed the bedding. Something about him has changed overnight.",
+      "image": "N01E01P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

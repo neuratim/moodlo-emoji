@@ -1,0 +1,439 @@
+{
+  "id": "N01E11",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "في صباح اليوم التالي، عند العودة إلى ورشة العمل، فتح Phew درج العدسات أخيرًا. هناك شرخ رفيع على الحافة. لقد كان يأمل في إخفاء الخلل لفترة كافية لجعل الأمر يبدو كما لو لم يحدث أي خطأ.",
+        "Nova وPhew يتفقدان الضرر الموجود على طاولة العمل الآمنة. يقع الشق خارج المركز الشفاف، لكن التركيب القديم يسمح للزجاج بالتحرك. يمكنهم تقوية هذا الضعف. لا يمكنهم التظاهر باختفاء الصدع.",
+        "يركّب Phew دعامة نحاسية تدعم الحافة وتحافظ على محاذاة المركز الواضح. تثبت Nova الحامل. سيظل الإصلاح مرئيًا أينما تنتقل هذه العدسة.",
+        "يكررون اختبار النمط القياسي. هذه المرة يظل التثبيت ثابتًا وتظل الأشرطة الثلاثة متوازية. يقوم Quest بتسجيل النتيجة، بما في ذلك الضرر، حتى يتمكنوا من التحقق منها مرة أخرى بعد الرحلة.",
+        "يسجل كتاب الإصلاح المكان الذي ذهبت إليه العدسة المطابقة: ورشة عبّارات Sigh في Orin. يوضح Grit أن إحدى العدسات يمكنها قراءة الإيقاع؛ أما تحديد موضع مصدر محصور فيتطلب وجود العدستين بجانب ذلك المصدر. يوجد دليلهم التالي في مكان أبعد على مجرى النهر.",
+        "بعد ظهر ذلك اليوم، نزل الستة بالسكك الحديدية باتجاه مرسى النهر. تنتقل العدسة التي تم إصلاحها في علبة Bash. سيأخذهم القارب النهري المقرر غدًا إلى Orin وورشة العمل المذكورة في كتاب الخدمة.",
+        "في Meadowfold في ذلك المساء، لم يعد بإمكان Rain أن يستريح تحت الملجأ الموسع. تقوم Mend بتحريك بساطه على العشب المفتوح. لا يزال السقف قادرًا على إيواء الزوار، لكن لن يتم إنزاله من حوله."
+      ],
+      "captions": [
+        "في صباح اليوم التالي، عند العودة إلى ورشة العمل، فتح Phew درج العدسات أخيرًا. هناك شرخ رفيع على الحافة. لقد كان يأمل في إخفاء الخلل لفترة كافية لجعل الأمر يبدو كما لو لم يحدث أي خطأ.\n\nPhew: \"لقد أخفيته. أردت أن يبدو العمل مثاليًا.\"",
+        "Nova وPhew يتفقدان الضرر الموجود على طاولة العمل الآمنة. يقع الشق خارج المركز الشفاف، لكن التركيب القديم يسمح للزجاج بالتحرك. يمكنهم تقوية هذا الضعف. لا يمكنهم التظاهر باختفاء الصدع.\n\nNova: \"أرني الخلل. ثم يمكننا اختبار الإصلاح بأمانة.\"",
+        "يركّب Phew دعامة نحاسية تدعم الحافة وتحافظ على محاذاة المركز الواضح. تثبت Nova الحامل. سيظل الإصلاح مرئيًا أينما تنتقل هذه العدسة.\n\nPhew: \"لن تبدو العدسة جديدة.\"\nNova: \"المهم أن تعمل، وأن نعرف متى لا تعمل.\"",
+        "يكررون اختبار النمط القياسي. هذه المرة يظل التثبيت ثابتًا وتظل الأشرطة الثلاثة متوازية. يقوم Quest بتسجيل النتيجة، بما في ذلك الضرر، حتى يتمكنوا من التحقق منها مرة أخرى بعد الرحلة.\n\nQuest: \"يتطابق نمط الاختبار. وسنعيد فحصه بعد كل رحلة صعبة.\"",
+        "يسجل كتاب الإصلاح المكان الذي ذهبت إليه العدسة المطابقة: ورشة عبّارات Sigh في Orin. يوضح Grit أن إحدى العدسات يمكنها قراءة الإيقاع؛ أما تحديد موضع مصدر محصور فيتطلب وجود العدستين بجانب ذلك المصدر. يوجد دليلهم التالي في مكان أبعد على مجرى النهر.\n\nGrit: \"احتفظ Sigh بإيصالات الخدمة. ابدأ معه عند مرسى الحديقة.\"",
+        "بعد ظهر ذلك اليوم، نزل الستة بالسكك الحديدية باتجاه مرسى النهر. تنتقل العدسة التي تم إصلاحها في علبة Bash. سيأخذهم القارب النهري المقرر غدًا إلى Orin وورشة العمل المذكورة في كتاب الخدمة.\n\nBash: \"محطة الوادي أولاً. ثم القارب النهري في الصباح.\"",
+        "في Meadowfold في ذلك المساء، لم يعد بإمكان Rain أن يستريح تحت الملجأ الموسع. تقوم Mend بتحريك بساطه على العشب المفتوح. لا يزال السقف قادرًا على إيواء الزوار، لكن لن يتم إنزاله من حوله.\n\nRain: \"أفتقد النظر من النافذة.\""
+      ],
+      "introduction": "تعطي مقارنة الإيقاع للباحثين سببًا لفحص عدسة القراءة الخاصة بالورشة. يكشف Phew أخيرًا عن سبب تردده في إظهارها. يؤدي الإصلاح المرئي والاختبار القابل للتكرار إلى قيادة البحث إلى أسفل النهر نحو العدسة الشريكة المفقودة.",
+      "title": "الشرخ في العدسة المثالية"
+    },
+    "bn": {
+      "altTexts": [
+        "পরদিন সকালে কারখানায় ফিরে Phew অবশেষে লেন্সের ড্রয়ার খোলে। লেন্সের ধার বরাবর সরু একটি ফাটল। সে এতদিন ত্রুটিটি লুকিয়ে রাখতে চেয়েছিল, যেন কিছুই ভুল হয়নি।",
+        "নিরাপদ কাজের টেবিলে Nova আর Phew লেন্সটি পরীক্ষা করে। ফাটল স্বচ্ছ মাঝের অংশের বাইরে, কিন্তু পুরোনো ধারকে কাচ নড়ে যায়। সেটিকে ঠেকনা দিয়ে শক্ত করা সম্ভব। ফাটল মুছে গেছে বলে ভান করা সম্ভব নয়।",
+        "Phew তামার একটি ঠেকনা লাগায়। এটি ধার ধরে রাখে, আর স্বচ্ছ মাঝের অংশ ঠিক জায়গায় থাকে। Nova ধারকটি স্থির রাখে। লেন্স যেখানে যাক, এই মেরামতের চিহ্ন দেখা যাবে।",
+        "তারা পরিচিত পরীক্ষার নকশাটি দিয়ে আবার পরীক্ষা করে। এবার ধারক স্থির থাকে, তিনটি দাগও ঠিকভাবে মেলে। Quest ক্ষতির কথা-সহ ফল লিখে রাখে, যাতে যাত্রার পর আবার মিলিয়ে দেখা যায়।",
+        "মেরামতের খাতায় জোড়ার অন্য লেন্সটির ঠিকানা আছে: Orin-এ Sigh-এর ফেরি মেরামতের কারখানা। Grit বোঝায়, একটি লেন্স ছন্দ পড়তে পারে। কিন্তু কোনো আবদ্ধ উৎসের অবস্থান জানতে দুটি লেন্সই সেই উৎসের পাশে থাকতে হবে। পরের সূত্র নদীর ভাটির দিকে।",
+        "সেই বিকেলে ছয়জন ট্রেনে পাহাড় থেকে নদীর ঘাটের দিকে নামে। মেরামত করা লেন্সটি Bash-এর বাক্সে রাখা। কাল নির্ধারিত নৌকায় তারা Orin যাবে, খাতায় লেখা সেই কারখানায়।",
+        "সেই সন্ধ্যায় Meadowfold-এ বড় করা ছাউনির নিচেও Rain আর আরামে থাকতে পারে না। Mend তার মাদুর খোলা ঘাসে সরিয়ে দেয়। ছাউনি অতিথিদের ছায়া দিতে পারে, কিন্তু Rain-কে তার নিচে আটকে রাখা হবে না।"
+      ],
+      "captions": [
+        "পরদিন সকালে কারখানায় ফিরে Phew অবশেষে লেন্সের ড্রয়ার খোলে। লেন্সের ধার বরাবর সরু একটি ফাটল। সে এতদিন ত্রুটিটি লুকিয়ে রাখতে চেয়েছিল, যেন কিছুই ভুল হয়নি।\n\nPhew: \"আমি লুকিয়েছিলাম। চেয়েছিলাম কাজটা নিখুঁত দেখাক।\"",
+        "নিরাপদ কাজের টেবিলে Nova আর Phew লেন্সটি পরীক্ষা করে। ফাটল স্বচ্ছ মাঝের অংশের বাইরে, কিন্তু পুরোনো ধারকে কাচ নড়ে যায়। সেটিকে ঠেকনা দিয়ে শক্ত করা সম্ভব। ফাটল মুছে গেছে বলে ভান করা সম্ভব নয়।\n\nNova: \"ত্রুটিটা দেখান। তাহলেই মেরামত করে ঠিকভাবে পরীক্ষা করতে পারব।\"",
+        "Phew তামার একটি ঠেকনা লাগায়। এটি ধার ধরে রাখে, আর স্বচ্ছ মাঝের অংশ ঠিক জায়গায় থাকে। Nova ধারকটি স্থির রাখে। লেন্স যেখানে যাক, এই মেরামতের চিহ্ন দেখা যাবে।\n\nPhew: \"নতুনের মতো দেখাবে না।\"\nNova: \"কাজ করলেই হলো। আর কাজ না করলে সেটাও যেন বুঝতে পারি।\"",
+        "তারা পরিচিত পরীক্ষার নকশাটি দিয়ে আবার পরীক্ষা করে। এবার ধারক স্থির থাকে, তিনটি দাগও ঠিকভাবে মেলে। Quest ক্ষতির কথা-সহ ফল লিখে রাখে, যাতে যাত্রার পর আবার মিলিয়ে দেখা যায়।\n\nQuest: \"পরীক্ষার নকশা মিলেছে। ঝাঁকুনির যাত্রার পর আবার পরীক্ষা করব।\"",
+        "মেরামতের খাতায় জোড়ার অন্য লেন্সটির ঠিকানা আছে: Orin-এ Sigh-এর ফেরি মেরামতের কারখানা। Grit বোঝায়, একটি লেন্স ছন্দ পড়তে পারে। কিন্তু কোনো আবদ্ধ উৎসের অবস্থান জানতে দুটি লেন্সই সেই উৎসের পাশে থাকতে হবে। পরের সূত্র নদীর ভাটির দিকে।\n\nGrit: \"Sigh মেরামতের রসিদগুলো রেখেছে। বাগানের ঘাটে গিয়ে তাকে জিজ্ঞেস করুন।\"",
+        "সেই বিকেলে ছয়জন ট্রেনে পাহাড় থেকে নদীর ঘাটের দিকে নামে। মেরামত করা লেন্সটি Bash-এর বাক্সে রাখা। কাল নির্ধারিত নৌকায় তারা Orin যাবে, খাতায় লেখা সেই কারখানায়।\n\nBash: \"আগে উপত্যকার স্টেশন। তারপর সকালে নদীপথে।\"",
+        "সেই সন্ধ্যায় Meadowfold-এ বড় করা ছাউনির নিচেও Rain আর আরামে থাকতে পারে না। Mend তার মাদুর খোলা ঘাসে সরিয়ে দেয়। ছাউনি অতিথিদের ছায়া দিতে পারে, কিন্তু Rain-কে তার নিচে আটকে রাখা হবে না।\n\nRain: \"জানালা দিয়ে বাইরে তাকানোটা খুব মনে পড়ে।\""
+      ],
+      "introduction": "ছন্দের মিল দেখে বন্ধুরা কারখানার পাঠযন্ত্রের লেন্স পরীক্ষা করতে চায়। Phew এবার বলে, কেন সে লেন্সটি দেখাতে চাইছিল না। মেরামতের চিহ্ন লুকানো হয় না। একই পরীক্ষা আবার করে দেখে তারা জোড়ার অন্য লেন্সের খোঁজে নদীর ভাটির দিকে যায়।",
+      "title": "নিখুঁত লেন্সের ফাটল"
+    },
+    "cs": {
+      "altTexts": [
+        "Druhý den ráno, zpátky v dílně, Phew konečně otevře zásuvku s čočkou. Na jejím okraji je jemná prasklina. Doufal, že vadu dokáže skrývat tak dlouho, až bude vypadat, že se nic nestalo.",
+        "Nova a Phew prohlížejí poškození na bezpečném pracovním stole. Prasklina nezasahuje do čirého středu, ale starý držák dovoluje sklu se posouvat. Tuto slabinu mohou řešit; nemohou předstírat, že prasklina zmizela.",
+        "Phew připevní měděnou výztuhu, která podpírá okraj a udržuje čirý střed ve správné poloze. Nova zajistí držák. Oprava zůstane viditelná všude, kam čočka poputuje.",
+        "Zopakují standardní zkoušku se vzorem. Tentokrát držák zůstane pevný a tři čárky se nepohnou ze zarovnané polohy. Quest zapíše výsledek i poškození, aby mohli čočku po cestě znovu zkontrolovat.",
+        "Servisní kniha uvádí, kam putovala druhá čočka z páru: do Sighovy dílny u přívozu v Orinu. Grit vysvětlí, že jedna čočka dokáže přečíst rytmus; k nalezení uzavřeného zdroje musejí být obě čočky přímo u tohoto zdroje. Další stopa vede po proudu řeky.",
+        "Toho odpoledne všech šest sjíždí vlakem směrem k řece. Opravená čočka cestuje v Bashově pouzdře. Zítřejší pravidelná říční loď je dopraví do Orinu a k dílně uvedené v servisní knize.",
+        "Toho večera už Rain na louce Meadowfold nemůže odpočívat pod zvětšeným přístřeškem. Mend přesune podložku na volnou trávu. Střecha může dál chránit návštěvy, ale nebudou ji stahovat kolem něj."
+      ],
+      "captions": [
+        "Druhý den ráno, zpátky v dílně, Phew konečně otevře zásuvku s čočkou. Na jejím okraji je jemná prasklina. Doufal, že vadu dokáže skrývat tak dlouho, až bude vypadat, že se nic nestalo.\n\nPhew: „Schoval jsem ji. Chtěl jsem, aby moje práce vypadala dokonale.“",
+        "Nova a Phew prohlížejí poškození na bezpečném pracovním stole. Prasklina nezasahuje do čirého středu, ale starý držák dovoluje sklu se posouvat. Tuto slabinu mohou řešit; nemohou předstírat, že prasklina zmizela.\n\nNova: „Ukaž mi tu vadu. Pak můžeme opravu poctivě vyzkoušet.“",
+        "Phew připevní měděnou výztuhu, která podpírá okraj a udržuje čirý střed ve správné poloze. Nova zajistí držák. Oprava zůstane viditelná všude, kam čočka poputuje.\n\nPhew: „Nebude vypadat jako nová.“\nNova: „Musí fungovat — a ukázat nám, když nefunguje.“",
+        "Zopakují standardní zkoušku se vzorem. Tentokrát držák zůstane pevný a tři čárky se nepohnou ze zarovnané polohy. Quest zapíše výsledek i poškození, aby mohli čočku po cestě znovu zkontrolovat.\n\nQuest: „Zkušební vzor souhlasí. Po každé cestě plné otřesů to znovu ověříme.“",
+        "Servisní kniha uvádí, kam putovala druhá čočka z páru: do Sighovy dílny u přívozu v Orinu. Grit vysvětlí, že jedna čočka dokáže přečíst rytmus; k nalezení uzavřeného zdroje musejí být obě čočky přímo u tohoto zdroje. Další stopa vede po proudu řeky.\n\nGrit: „Sigh si nechává servisní doklady. Začněte u něj u zahradního přístaviště.“",
+        "Toho odpoledne všech šest sjíždí vlakem směrem k řece. Opravená čočka cestuje v Bashově pouzdře. Zítřejší pravidelná říční loď je dopraví do Orinu a k dílně uvedené v servisní knize.\n\nBash: „Nejdřív nádraží v údolí. Ráno pak loď.“",
+        "Toho večera už Rain na louce Meadowfold nemůže odpočívat pod zvětšeným přístřeškem. Mend přesune podložku na volnou trávu. Střecha může dál chránit návštěvy, ale nebudou ji stahovat kolem něj.\n\nRain: „Chybí mi výhled z okna.“"
+      ],
+      "introduction": "Porovnání rytmu dá pátrací skupině důvod prozkoumat čtecí čočku z dílny. Phew konečně vysvětlí, proč ji váhal nabídnout. Viditelná oprava a opakovatelná zkouška nasměrují hledání po proudu řeky k chybějící druhé čočce.",
+      "title": "Prasklina v dokonalé čočce"
+    },
+    "de": {
+      "altTexts": [
+        "Am nächsten Morgen, zurück in der Werkstatt, öffnet Phew endlich die Linsenschublade. Am Rand ist ein feiner Riss zu erkennen. Er hat gehofft, den Fehler lange genug verbergen zu können, damit es so aussieht, als wäre nichts schiefgegangen.",
+        "Nova und Phew begutachten den Schaden auf der sicheren Bank. Der Riss liegt außerhalb der klaren Mitte, aber in der alten Halterung kann das Glas verrutschen. Sie können dieser Schwäche entgegenwirken; sie können nicht so tun, als wäre der Riss verschwunden.",
+        "Phew bringt eine Kupferstrebe an, die den Rand stützt und die klare Mitte in der richtigen Position hält. Nova stabilisiert die Montierung. Die Reparatur bleibt sichtbar, wohin auch immer sich diese Linse bewegt.",
+        "Sie wiederholen den Standardmustertest. Diesmal bleibt die Halterung stabil und die drei Balken bleiben ausgerichtet. Quest protokolliert das Ergebnis inklusive des Schadens, um es nach der Fahrt noch einmal überprüfen zu können.",
+        "Im Reparaturbuch steht, wohin die zweite Linse geschickt wurde: in Sighs Fährwerkstatt in Orin. Grit erklärt, dass eine Linse einen Rhythmus lesen kann. Um eine versiegelte Quelle zu orten, müssen beide Linsen direkt neben dieser Quelle stehen. Ihre nächste Spur führt flussabwärts.",
+        "An diesem Nachmittag fahren die sechs mit der Bahn hinunter zur Anlegestelle am Fluss. Die reparierte Linse wird in Bashs Koffer transportiert. Das Linienschiff von morgen wird sie nach Orin zur Werkstatt aus dem Serviceheft bringen.",
+        "Zurück bei Meadowfold kann Rain an diesem Abend nicht mehr unter dem vergrößerten Unterstand ruhen. Mend bewegt seine Matte auf offenes Gras. Das Dach bietet noch immer Schutz für Besucher, wird aber um ihn herum nicht abgesenkt."
+      ],
+      "captions": [
+        "Am nächsten Morgen, zurück in der Werkstatt, öffnet Phew endlich die Linsenschublade. Am Rand ist ein feiner Riss zu erkennen. Er hat gehofft, den Fehler lange genug verbergen zu können, damit es so aussieht, als wäre nichts schiefgegangen.\n\nPhew: „Ich habe es versteckt. Ich wollte, dass die Arbeit perfekt aussieht.“",
+        "Nova und Phew begutachten den Schaden auf der sicheren Bank. Der Riss liegt außerhalb der klaren Mitte, aber in der alten Halterung kann das Glas verrutschen. Sie können dieser Schwäche entgegenwirken; sie können nicht so tun, als wäre der Riss verschwunden.\n\nNova: „Zeig mir den Fehler. Dann können wir die Reparatur ehrlich testen.“",
+        "Phew bringt eine Kupferstrebe an, die den Rand stützt und die klare Mitte in der richtigen Position hält. Nova stabilisiert die Montierung. Die Reparatur bleibt sichtbar, wohin auch immer sich diese Linse bewegt.\n\nPhew: „Es wird nicht neu aussehen.“\nNova: „Es muss funktionieren – und uns zeigen, wenn es nicht funktioniert.“",
+        "Sie wiederholen den Standardmustertest. Diesmal bleibt die Halterung stabil und die drei Balken bleiben ausgerichtet. Quest protokolliert das Ergebnis inklusive des Schadens, um es nach der Fahrt noch einmal überprüfen zu können.\n\nQuest: „Das Testmuster stimmt überein. Wir werden es nach jeder harten Fahrt noch einmal überprüfen.“",
+        "Im Reparaturbuch steht, wohin die zweite Linse geschickt wurde: in Sighs Fährwerkstatt in Orin. Grit erklärt, dass eine Linse einen Rhythmus lesen kann. Um eine versiegelte Quelle zu orten, müssen beide Linsen direkt neben dieser Quelle stehen. Ihre nächste Spur führt flussabwärts.\n\nGrit: „Sigh hat die Servicebelege aufbewahrt. Sprecht ihn am Gartenanleger an.“",
+        "An diesem Nachmittag fahren die sechs mit der Bahn hinunter zur Anlegestelle am Fluss. Die reparierte Linse wird in Bashs Koffer transportiert. Das Linienschiff von morgen wird sie nach Orin zur Werkstatt aus dem Serviceheft bringen.\n\nBash: „Zuerst die Talstation. Dann das Flussschiff am Morgen.“",
+        "Zurück bei Meadowfold kann Rain an diesem Abend nicht mehr unter dem vergrößerten Unterstand ruhen. Mend bewegt seine Matte auf offenes Gras. Das Dach bietet noch immer Schutz für Besucher, wird aber um ihn herum nicht abgesenkt.\n\nRain: „Ich vermisse es, aus dem Fenster zu schauen.“"
+      ],
+      "introduction": "Der Rhythmusvergleich gibt den Ermittlern Anlass, die Leselinse der Werkstatt zu prüfen. Phew verrät endlich, warum er gezögert hat, sie anzubieten. Eine sichtbare Reparatur und ein wiederholbarer Test führen die Suche flussabwärts, in Richtung der fehlenden Partnerlinse.",
+      "title": "Der Riss in der perfekten Linse"
+    },
+    "en": {
+      "altTexts": [
+        "The next morning, back at the workshop, Phew opens the lens drawer at last. There is a fine crack at the rim. He has been hoping to hide the flaw long enough to make it look as though nothing went wrong.",
+        "Nova and Phew inspect the damage on the safe bench. The crack lies outside the clear center, but the old mounting lets the glass shift. They can brace that weakness; they cannot pretend the crack is gone.",
+        "Phew fits a copper brace that supports the rim and keeps the clear center aligned. Nova steadies the mount. The repair will remain visible wherever this lens travels.",
+        "They repeat the standard pattern test. This time the mount holds steady and the three bars stay aligned. Quest records the result, including the damage, so they can check it again after the journey.",
+        "The repair book records where the matching lens went: Sigh's ferry workshop in Orin. One lens can read a rhythm, Grit explains; locating a sealed source requires both lenses beside that source. Their next lead is downriver.",
+        "That afternoon, the six descend by rail toward the river landing. The repaired lens travels in Bash's case. Tomorrow's scheduled riverboat will take them to Orin and the workshop named in the service book.",
+        "Back at Meadowfold that evening, Rain can no longer rest beneath the enlarged shelter. Mend moves his mat onto open grass. The roof can still shelter visitors, but it will not be lowered around him."
+      ],
+      "captions": [
+        "The next morning, back at the workshop, Phew opens the lens drawer at last. There is a fine crack at the rim. He has been hoping to hide the flaw long enough to make it look as though nothing went wrong.\n\nPhew: “I hid it. I wanted the work to look perfect.”",
+        "Nova and Phew inspect the damage on the safe bench. The crack lies outside the clear center, but the old mounting lets the glass shift. They can brace that weakness; they cannot pretend the crack is gone.\n\nNova: “Show me the fault. Then we can test the repair honestly.”",
+        "Phew fits a copper brace that supports the rim and keeps the clear center aligned. Nova steadies the mount. The repair will remain visible wherever this lens travels.\n\nPhew: “It won't look new.”\nNova: “It needs to work—and show us when it doesn't.”",
+        "They repeat the standard pattern test. This time the mount holds steady and the three bars stay aligned. Quest records the result, including the damage, so they can check it again after the journey.\n\nQuest: “The test pattern matches. We'll recheck it after every rough trip.”",
+        "The repair book records where the matching lens went: Sigh's ferry workshop in Orin. One lens can read a rhythm, Grit explains; locating a sealed source requires both lenses beside that source. Their next lead is downriver.\n\nGrit: “Sigh kept the service receipts. Start with him at the garden landing.”",
+        "That afternoon, the six descend by rail toward the river landing. The repaired lens travels in Bash's case. Tomorrow's scheduled riverboat will take them to Orin and the workshop named in the service book.\n\nBash: “Valley station first. Then the riverboat in the morning.”",
+        "Back at Meadowfold that evening, Rain can no longer rest beneath the enlarged shelter. Mend moves his mat onto open grass. The roof can still shelter visitors, but it will not be lowered around him.\n\nRain: “I miss looking out of a window.”"
+      ],
+      "introduction": "The rhythm comparison gives the investigators a reason to examine the workshop's reading lens. Phew finally reveals why he has hesitated to offer it. A visible repair and a repeatable test lead the search downriver, toward the missing partner lens.",
+      "title": "The Crack in the Perfect Lens"
+    },
+    "es": {
+      "altTexts": [
+        "A la mañana siguiente, de vuelta en el taller, Phew abre por fin el cajón de las lentes. Hay una fina grieta en el borde. Esperaba ocultar el defecto el tiempo suficiente para que pareciera que nada salió mal.",
+        "Nova y Phew inspeccionan los daños en el banco seguro. La grieta se encuentra fuera del centro transparente, pero el soporte antiguo permite que el vidrio se mueva. Pueden reforzar esa debilidad; no pueden fingir que la grieta ha desaparecido.",
+        "Phew coloca una abrazadera de cobre que sujeta el borde y mantiene alineado el centro transparente. Nova estabiliza el soporte. La reparación permanecerá visible dondequiera que viaje esta lente.",
+        "Repiten la prueba del patrón estándar. Esta vez la montura se mantiene firme y las tres barras permanecen alineadas. Quest registra el resultado, incluidos los daños, para poder comprobarlo nuevamente después del viaje.",
+        "El libro de reparaciones registra dónde fue la lente correspondiente: el taller de ferry de Sigh en Orin. Grit explica que una lente puede leer un ritmo, pero para localizar una fuente sellada, ambas lentes deben estar junto a esa misma fuente. Su próxima pista está río abajo.",
+        "Esa tarde, los seis descienden en tren hacia el embarcadero del río. La lente reparada viaja en el estuche de Bash. El barco fluvial programado para mañana los llevará a Orin y al taller mencionado en el libro de revisiones.",
+        "Esa noche, de vuelta en Meadowfold, Rain ya no puede descansar bajo el refugio ampliado. Mend mueve su tapete sobre césped abierto. El techo todavía puede albergar a los visitantes, pero no se bajará a su alrededor."
+      ],
+      "captions": [
+        "A la mañana siguiente, de vuelta en el taller, Phew abre por fin el cajón de las lentes. Hay una fina grieta en el borde. Esperaba ocultar el defecto el tiempo suficiente para que pareciera que nada salió mal.\n\nPhew: \"La escondí. Quería que el trabajo se viera perfecto\".",
+        "Nova y Phew inspeccionan los daños en el banco seguro. La grieta se encuentra fuera del centro transparente, pero el soporte antiguo permite que el vidrio se mueva. Pueden reforzar esa debilidad; no pueden fingir que la grieta ha desaparecido.\n\nNova: \"Muéstrame la falla. Entonces podremos probar la reparación honestamente\".",
+        "Phew coloca una abrazadera de cobre que sujeta el borde y mantiene alineado el centro transparente. Nova estabiliza el soporte. La reparación permanecerá visible dondequiera que viaje esta lente.\n\nPhew: \"No parecerá nueva\".\nNova: \"Tiene que funcionar y mostrarnos cuándo no funciona\".",
+        "Repiten la prueba del patrón estándar. Esta vez la montura se mantiene firme y las tres barras permanecen alineadas. Quest registra el resultado, incluidos los daños, para poder comprobarlo nuevamente después del viaje.\n\nQuest: \"El patrón de prueba coincide. Lo volveremos a comprobar después de cada viaje difícil\".",
+        "El libro de reparaciones registra dónde fue la lente correspondiente: el taller de ferry de Sigh en Orin. Grit explica que una lente puede leer un ritmo, pero para localizar una fuente sellada, ambas lentes deben estar junto a esa misma fuente. Su próxima pista está río abajo.\n\nGrit: \"Sigh guardó los recibos de servicio. Empiecen por preguntarle en el embarcadero del jardín\".",
+        "Esa tarde, los seis descienden en tren hacia el embarcadero del río. La lente reparada viaja en el estuche de Bash. El barco fluvial programado para mañana los llevará a Orin y al taller mencionado en el libro de revisiones.\n\nBash: \"Primero la estación del valle. Luego el barco fluvial por la mañana\".",
+        "Esa noche, de vuelta en Meadowfold, Rain ya no puede descansar bajo el refugio ampliado. Mend mueve su tapete sobre césped abierto. El techo todavía puede albergar a los visitantes, pero no se bajará a su alrededor.\n\nRain: “Extraño mirar por la ventana”."
+      ],
+      "introduction": "La comparación de ritmos les da a los investigadores una razón para examinar la lente de lectura del taller. Phew finalmente revela por qué ha dudado en ofrecerla. Una reparación visible y una prueba repetible conducen la búsqueda río abajo, hacia la lente compañera perdida.",
+      "title": "La grieta en la lente perfecta"
+    },
+    "fr": {
+      "altTexts": [
+        "Le lendemain matin, de retour à l'atelier, Phew ouvre enfin le tiroir qui contient la lentille. Son bord présente une fine fissure. Il espérait cacher le défaut suffisamment longtemps pour donner l’impression que tout s’est bien passé.",
+        "Nova et Phew inspectent les dégâts sur l'établi sécurisé. La fissure se situe à l'extérieur du centre transparent, mais l'ancien support laisse le verre bouger. Ils peuvent compenser cette faiblesse ; ils ne peuvent pas prétendre que la fissure a disparu.",
+        "Phew pose un renfort en cuivre qui soutient le bord et maintient le centre transparent aligné. Nova stabilise le support. La réparation restera visible partout où cette lentille sera transportée.",
+        "Ils répètent le test standard du motif. Cette fois, le support reste stable et les trois barres restent alignées. Quest enregistre le résultat, y compris les dégâts, afin qu'ils puissent le vérifier à nouveau après le voyage.",
+        "Le carnet d'entretien indique où la seconde lentille a été envoyée : à l'atelier de Sigh, près du bac d'Orin. Grit explique qu'une lentille peut lire un rythme, mais que les deux doivent être près de la source pour la localiser. La prochaine piste mène en aval.",
+        "Cet après-midi-là, les six descendent en train vers le débarcadère fluvial. La lentille réparée voyage dans la mallette de Bash. Le bateau régulier de demain les conduira à Orin et à l'atelier mentionné dans le carnet d'entretien.",
+        "De retour à Meadowfold ce soir-là, Rain ne peut plus se reposer sous l'abri agrandi. Mend déplace son tapis sur l'herbe ouverte. Le toit peut encore abriter les visiteurs, mais il ne sera pas abaissé autour de lui."
+      ],
+      "captions": [
+        "Le lendemain matin, de retour à l'atelier, Phew ouvre enfin le tiroir qui contient la lentille. Son bord présente une fine fissure. Il espérait cacher le défaut suffisamment longtemps pour donner l’impression que tout s’est bien passé.\n\nPhew : « Je l'ai cachée. Je voulais que le travail soit parfait. »",
+        "Nova et Phew inspectent les dégâts sur l'établi sécurisé. La fissure se situe à l'extérieur du centre transparent, mais l'ancien support laisse le verre bouger. Ils peuvent compenser cette faiblesse ; ils ne peuvent pas prétendre que la fissure a disparu.\n\nNova : « Montre-moi le défaut. Ensuite, nous pourrons tester la réparation honnêtement. »",
+        "Phew pose un renfort en cuivre qui soutient le bord et maintient le centre transparent aligné. Nova stabilise le support. La réparation restera visible partout où cette lentille sera transportée.\n\nPhew : « Elle n'aura pas l'air neuve. »\nNova : « Cela doit fonctionner et nous montrer quand ce n’est pas le cas. »",
+        "Ils répètent le test standard du motif. Cette fois, le support reste stable et les trois barres restent alignées. Quest enregistre le résultat, y compris les dégâts, afin qu'ils puissent le vérifier à nouveau après le voyage.\n\nQuest : « Le motif de test correspond. Nous le vérifierons à nouveau après chaque trajet cahoteux. »",
+        "Le carnet d'entretien indique où la seconde lentille a été envoyée : à l'atelier de Sigh, près du bac d'Orin. Grit explique qu'une lentille peut lire un rythme, mais que les deux doivent être près de la source pour la localiser. La prochaine piste mène en aval.\n\nGrit : « Sigh a conservé les reçus d'entretien. Commencez par lui au débarcadère du jardin. »",
+        "Cet après-midi-là, les six descendent en train vers le débarcadère fluvial. La lentille réparée voyage dans la mallette de Bash. Le bateau régulier de demain les conduira à Orin et à l'atelier mentionné dans le carnet d'entretien.\n\nBash : « D'abord la gare de la vallée. Puis le bateau fluvial le matin. »",
+        "De retour à Meadowfold ce soir-là, Rain ne peut plus se reposer sous l'abri agrandi. Mend déplace son tapis sur l'herbe ouverte. Le toit peut encore abriter les visiteurs, mais il ne sera pas abaissé autour de lui.\n\nRain : « Regarder par la fenêtre me manque. »"
+      ],
+      "introduction": "La comparaison des rythmes donne aux enquêteurs une raison d'examiner la lentille de lecture de l'atelier. Phew révèle enfin pourquoi il a hésité à la proposer. Une réparation visible et un test reproductible conduisent la recherche en aval, vers la lentille partenaire manquante.",
+      "title": "La fissure dans la lentille parfaite"
+    },
+    "hi": {
+      "altTexts": [
+        "अगली सुबह कार्यशाला में Phew आखिर लेंस की दराज़ खोलता है। किनारे पर महीन दरार है। वह खराबी छिपाना चाहता था ताकि लगे कि कोई गलती हुई ही नहीं।",
+        "सुरक्षित काम की मेज़ पर Nova और Phew लेंस देखते हैं। दरार बीच के पारदर्शी हिस्से के बाहर है, पर पुराने धारक में काँच खिसकता है। उस कमज़ोर जगह को सहारा दिया जा सकता है। दरार मिट गई, ऐसा नहीं कहा जा सकता।",
+        "Phew ताँबे का सहारा लगाता है। वह किनारा थामता है और पारदर्शी बीच का हिस्सा सही सीध में रखता है। Nova धारक को स्थिर रखती है। लेंस जहाँ जाए, मरम्मत दिखाई देगी।",
+        "वे परिचित नमूने की जाँच दोहराते हैं। इस बार धारक स्थिर रहता है और तीन पट्टियाँ सीध में हैं। Quest नुकसान समेत नतीजा लिखता है, ताकि यात्रा के बाद फिर मिलाया जा सके।",
+        "मरम्मत की किताब में जोड़ी के दूसरे लेंस का पता है: Orin में Sigh की नौका कार्यशाला। Grit बताता है कि एक लेंस लय पढ़ सकता है। मगर बंद स्रोत की जगह पता करने के लिए दोनों लेंस उस स्रोत के पास होने चाहिए। अगला सुराग नदी के बहाव की ओर है।",
+        "उस दोपहर छह दोस्त ट्रेन से नीचे नदी के घाट की ओर जाते हैं। ठीक किया लेंस Bash के बक्से में है। कल की तय नाव उन्हें Orin और किताब में लिखी कार्यशाला तक ले जाएगी।",
+        "उस शाम Meadowfold में Rain बड़ी की गई छतरी के नीचे भी आराम से नहीं रह सकता। Mend उसकी चटाई खुली घास पर ले जाती है। छतरी मिलने आने वालों को छाया देगी, लेकिन Rain के चारों ओर नीचे नहीं की जाएगी।"
+      ],
+      "captions": [
+        "अगली सुबह कार्यशाला में Phew आखिर लेंस की दराज़ खोलता है। किनारे पर महीन दरार है। वह खराबी छिपाना चाहता था ताकि लगे कि कोई गलती हुई ही नहीं।\n\nPhew: \"मैंने छिपाया था। चाहता था काम बिल्कुल सही दिखे।\"",
+        "सुरक्षित काम की मेज़ पर Nova और Phew लेंस देखते हैं। दरार बीच के पारदर्शी हिस्से के बाहर है, पर पुराने धारक में काँच खिसकता है। उस कमज़ोर जगह को सहारा दिया जा सकता है। दरार मिट गई, ऐसा नहीं कहा जा सकता।\n\nNova: \"खराबी दिखाओ। तभी मरम्मत करके सही जाँच कर पाएँगे।\"",
+        "Phew ताँबे का सहारा लगाता है। वह किनारा थामता है और पारदर्शी बीच का हिस्सा सही सीध में रखता है। Nova धारक को स्थिर रखती है। लेंस जहाँ जाए, मरम्मत दिखाई देगी।\n\nPhew: \"नया नहीं दिखेगा।\"\nNova: \"काम करे, यही चाहिए। और काम न करे तो वह भी समझ आना चाहिए।\"",
+        "वे परिचित नमूने की जाँच दोहराते हैं। इस बार धारक स्थिर रहता है और तीन पट्टियाँ सीध में हैं। Quest नुकसान समेत नतीजा लिखता है, ताकि यात्रा के बाद फिर मिलाया जा सके।\n\nQuest: \"जाँच का नमूना मिला। हर झटकों वाली यात्रा के बाद फिर देखेंगे।\"",
+        "मरम्मत की किताब में जोड़ी के दूसरे लेंस का पता है: Orin में Sigh की नौका कार्यशाला। Grit बताता है कि एक लेंस लय पढ़ सकता है। मगर बंद स्रोत की जगह पता करने के लिए दोनों लेंस उस स्रोत के पास होने चाहिए। अगला सुराग नदी के बहाव की ओर है।\n\nGrit: \"Sigh ने मरम्मत की रसीदें रखी हैं। बगीचे के घाट पर उससे पूछना।\"",
+        "उस दोपहर छह दोस्त ट्रेन से नीचे नदी के घाट की ओर जाते हैं। ठीक किया लेंस Bash के बक्से में है। कल की तय नाव उन्हें Orin और किताब में लिखी कार्यशाला तक ले जाएगी।\n\nBash: \"पहले घाटी का स्टेशन। फिर सुबह नदी की नाव।\"",
+        "उस शाम Meadowfold में Rain बड़ी की गई छतरी के नीचे भी आराम से नहीं रह सकता। Mend उसकी चटाई खुली घास पर ले जाती है। छतरी मिलने आने वालों को छाया देगी, लेकिन Rain के चारों ओर नीचे नहीं की जाएगी।\n\nRain: \"खिड़की से बाहर देखना याद आता है।\""
+      ],
+      "introduction": "लय मिलने से दोस्त कार्यशाला का लेंस देखना चाहते हैं। Phew बताता है कि वह इसे दिखाने से क्यों झिझक रहा था। मरम्मत छिपाई नहीं जाती और जाँच दोहराई जाती है। फिर खोज जोड़ी के दूसरे लेंस की ओर, नदी के बहाव के साथ आगे बढ़ती है।",
+      "title": "बेदाग लेंस में दरार"
+    },
+    "id": {
+      "altTexts": [
+        "Keesokan paginya, saat kembali ke bengkel, Phew akhirnya membuka laci lensa. Ada retak halus di bagian tepi. Dia telah berharap untuk menyembunyikan kekurangannya cukup lama agar tampak seolah-olah tidak ada yang salah.",
+        "Nova dan Phew memeriksa kerusakan di meja kerja yang aman. Retakannya terletak di luar bagian tengah yang bening, tetapi dudukan lama membuat kacanya bisa bergeser. Mereka dapat mengatasi kelemahan itu; mereka tidak bisa berpura-pura bahwa retakannya telah hilang.",
+        "Phew memasang penahan tembaga yang menopang tepi lensa dan menjaga bagian tengah tetap sejajar. Nova menstabilkan dudukannya. Perbaikannya akan tetap terlihat ke mana pun lensa ini dibawa.",
+        "Mereka mengulangi tes pola standar. Kali ini dudukannya tetap stabil dan ketiga batangnya tetap sejajar. Quest mencatat hasilnya, termasuk kerusakannya, sehingga bisa diperiksa kembali setelah perjalanan.",
+        "Buku perbaikan mencatat ke mana perginya lensa yang cocok: bengkel feri Sigh di Orin. Grit menjelaskan bahwa satu lensa dapat membaca ritme. Namun, untuk menemukan sumber yang tersegel, kedua lensa harus berada di samping sumber tersebut. Petunjuk mereka berikutnya adalah di hilir.",
+        "Sore itu, keenamnya turun dengan kereta api menuju tempat pendaratan sungai. Lensa yang diperbaiki dibawa dalam wadah Bash. Perahu sungai yang dijadwalkan besok akan membawa mereka ke Orin dan bengkel yang disebutkan dalam buku servis.",
+        "Kembali ke Meadowfold malam itu, Rain tidak bisa lagi beristirahat di bawah naungan yang diperbesar. Mend memindahkan matrasnya ke rumput terbuka. Atapnya masih bisa melindungi pengunjung, namun tidak akan diturunkan di sekelilingnya."
+      ],
+      "captions": [
+        "Keesokan paginya, saat kembali ke bengkel, Phew akhirnya membuka laci lensa. Ada retak halus di bagian tepi. Dia telah berharap untuk menyembunyikan kekurangannya cukup lama agar tampak seolah-olah tidak ada yang salah.\n\nPhew: \"Aku menyembunyikannya. Aku ingin karya ini terlihat sempurna.\"",
+        "Nova dan Phew memeriksa kerusakan di meja kerja yang aman. Retakannya terletak di luar bagian tengah yang bening, tetapi dudukan lama membuat kacanya bisa bergeser. Mereka dapat mengatasi kelemahan itu; mereka tidak bisa berpura-pura bahwa retakannya telah hilang.\n\nNova: \"Tunjukkan kesalahannya. Lalu kita bisa menguji perbaikannya dengan jujur.\"",
+        "Phew memasang penahan tembaga yang menopang tepi lensa dan menjaga bagian tengah tetap sejajar. Nova menstabilkan dudukannya. Perbaikannya akan tetap terlihat ke mana pun lensa ini dibawa.\n\nPhew: “Ini tidak akan terlihat baru.”\nNova: “Ini harus berfungsi—dan menunjukkan kepada kita jika tidak.”",
+        "Mereka mengulangi tes pola standar. Kali ini dudukannya tetap stabil dan ketiga batangnya tetap sejajar. Quest mencatat hasilnya, termasuk kerusakannya, sehingga bisa diperiksa kembali setelah perjalanan.\n\nQuest: \"Pola pengujiannya cocok. Kami akan memeriksanya kembali setelah setiap perjalanan yang sulit.\"",
+        "Buku perbaikan mencatat ke mana perginya lensa yang cocok: bengkel feri Sigh di Orin. Grit menjelaskan bahwa satu lensa dapat membaca ritme. Namun, untuk menemukan sumber yang tersegel, kedua lensa harus berada di samping sumber tersebut. Petunjuk mereka berikutnya adalah di hilir.\n\nGrit: \"Sigh menyimpan tanda terima layanan. Tanyakan kepadanya di dermaga taman.\"",
+        "Sore itu, keenamnya turun dengan kereta api menuju tempat pendaratan sungai. Lensa yang diperbaiki dibawa dalam wadah Bash. Perahu sungai yang dijadwalkan besok akan membawa mereka ke Orin dan bengkel yang disebutkan dalam buku servis.\n\nBash: \"Stasiun lembah dulu. Lalu perahu sungai di pagi hari.\"",
+        "Kembali ke Meadowfold malam itu, Rain tidak bisa lagi beristirahat di bawah naungan yang diperbesar. Mend memindahkan matrasnya ke rumput terbuka. Atapnya masih bisa melindungi pengunjung, namun tidak akan diturunkan di sekelilingnya.\n\nRain: “Aku rindu melihat ke luar jendela.”"
+      ],
+      "introduction": "Perbandingan ritme memberi para peneliti alasan untuk memeriksa lensa pembaca di bengkel tersebut. Phew akhirnya mengungkap kenapa dia ragu menawarkannya. Perbaikan yang terlihat dan pengujian yang berulang mengarahkan pencarian ke hilir, menuju lensa pasangan yang hilang.",
+      "title": "Retakan pada Lensa Sempurna"
+    },
+    "it": {
+      "altTexts": [
+        "La mattina dopo, di ritorno in officina, Phew apre finalmente il cassetto delle lenti. C'è una sottile crepa sul bordo. Sperava di nascondere il difetto abbastanza a lungo da far sembrare che nulla fosse andato storto.",
+        "Nova e Phew ispezionano i danni sul banco di sicurezza. La crepa si trova all'esterno del centro trasparente, ma il vecchio supporto lascia spostare il vetro. Possono rinforzare il punto debole; non possono far finta che la crepa sia scomparsa.",
+        "Phew monta un rinforzo in rame che sostiene il cerchio e mantiene allineato il centro chiaro. Nova stabilizza la montatura. La riparazione rimarrà visibile ovunque viaggi questa lente.",
+        "Ripetono il test del modello standard. Questa volta la montatura rimane stabile e le tre barre rimangono allineate. Quest registra il risultato, compreso il danno, in modo da poterlo ricontrollare dopo il viaggio.",
+        "Il libretto di riparazione riporta dove è finita la lente corrispondente: l'officina del traghetto di Sigh a Orin. Grit spiega che una lente può leggere un ritmo. Per localizzare una fonte sigillata, però, entrambe le lenti devono trovarsi accanto a quella stessa fonte. La loro prossima pista è a valle.",
+        "Quel pomeriggio i sei scendono in treno verso l'approdo sul fiume. La lente riparata viaggia nella custodia di Bash. Il battello in programma per domani li porterà a Orin e all'officina indicata nel libretto di servizio.",
+        "Quella sera, a Meadowfold, Rain non può più riposare sotto il rifugio allargato. Mend sposta il suo tappeto sull'erba aperta. Il tetto potrà ancora proteggere i visitatori, ma non verrà abbassato attorno a lui."
+      ],
+      "captions": [
+        "La mattina dopo, di ritorno in officina, Phew apre finalmente il cassetto delle lenti. C'è una sottile crepa sul bordo. Sperava di nascondere il difetto abbastanza a lungo da far sembrare che nulla fosse andato storto.\n\nPhew: \"Ho nascosto il difetto. Volevo che il lavoro sembrasse perfetto.\"",
+        "Nova e Phew ispezionano i danni sul banco di sicurezza. La crepa si trova all'esterno del centro trasparente, ma il vecchio supporto lascia spostare il vetro. Possono rinforzare il punto debole; non possono far finta che la crepa sia scomparsa.\n\nNova: \"Mostrami il guasto. Poi potremo testare la riparazione onestamente.\"",
+        "Phew monta un rinforzo in rame che sostiene il cerchio e mantiene allineato il centro chiaro. Nova stabilizza la montatura. La riparazione rimarrà visibile ovunque viaggi questa lente.\n\nPhew: \"Non sembrerà nuova.\"\nNova: \"Deve funzionare e mostrarci quando non funziona.\"",
+        "Ripetono il test del modello standard. Questa volta la montatura rimane stabile e le tre barre rimangono allineate. Quest registra il risultato, compreso il danno, in modo da poterlo ricontrollare dopo il viaggio.\n\nQuest: \"Il modello di prova corrisponde. Lo ricontrolleremo dopo ogni viaggio difficile.\"",
+        "Il libretto di riparazione riporta dove è finita la lente corrispondente: l'officina del traghetto di Sigh a Orin. Grit spiega che una lente può leggere un ritmo. Per localizzare una fonte sigillata, però, entrambe le lenti devono trovarsi accanto a quella stessa fonte. La loro prossima pista è a valle.\n\nGrit: \"Sigh ha conservato le ricevute dei servizi. Chiedetegli informazioni al pontile del giardino.\"",
+        "Quel pomeriggio i sei scendono in treno verso l'approdo sul fiume. La lente riparata viaggia nella custodia di Bash. Il battello in programma per domani li porterà a Orin e all'officina indicata nel libretto di servizio.\n\nBash: \"Prima la stazione a valle. Poi il battello al mattino.\"",
+        "Quella sera, a Meadowfold, Rain non può più riposare sotto il rifugio allargato. Mend sposta il suo tappeto sull'erba aperta. Il tetto potrà ancora proteggere i visitatori, ma non verrà abbassato attorno a lui.\n\nRain: “Mi manca guardare fuori dalla finestra.”"
+      ],
+      "introduction": "Il confronto del ritmo offre agli investigatori un motivo per esaminare la lente di lettura del laboratorio. Phew rivela finalmente perché ha esitato a offrirla. Una riparazione visibile e un test ripetibile guidano la ricerca a valle, verso la lente abbinata mancante.",
+      "title": "La crepa nella lente perfetta"
+    },
+    "ja": {
+      "altTexts": [
+        "翌朝、工房に戻ったPhewはついにレンズの引き出しを開けました。縁に細いひびが入っています。彼は、何も問題がなかったかのように、欠陥を長い間隠したいと考えていました。",
+        "Nova および Phew は、安全な作業台でレンズの損傷を調べます。亀裂は透明な中心の外側にありますが、古い取り付けによりガラスがずれてしまいます。彼らはその弱さを支えることができます。彼らは亀裂がなくなったふりをすることはできません。",
+        "Phewは銅の補強具を取り付け、レンズの縁を支えながら透明な中心の位置を保ちます。 Novaはマウントを安定させます。このレンズがどこに移動しても、修復は目に見えるままになります。",
+        "標準パターンのテストを繰り返します。今度はマウントが安定して保持され、3 本のバーが位置合わせされたままになります。 Quest は損傷を含む結果を記録するため、旅行後に再度確認することができます。",
+        "修理簿には、対応するレンズがどこに行ったか、Orin にある Sigh の渡船の工房が記録されています。 Grit は、1 つのレンズでリズムを読み取ることができると説明しています。内部に閉じ込められた源を探すには、二枚のレンズをそろえて、その源のそばに置く必要があります。彼らの次の手がかりは川下です。",
+        "その日の午後、6人は鉄道で川の船着き場に向かって下山した。修理したレンズはBashのケースに入れて持ち歩きます。明日予定されているリバーボートは、Orin とサービスブックに記載されている工房に連れて行きます。",
+        "その夜、Meadowfoldに戻ると、Rainは拡張されたシェルターの下で休むことができなくなりました。 Mend はマットを広い芝生の上に移動します。屋根はまだ訪問者を守ることができますが、Rainを囲むように屋根を下ろすことはしません。"
+      ],
+      "captions": [
+        "翌朝、工房に戻ったPhewはついにレンズの引き出しを開けました。縁に細いひびが入っています。彼は、何も問題がなかったかのように、欠陥を長い間隠したいと考えていました。\n\nPhew: 「隠しました。作品を完璧に見せたかったのです。」",
+        "Nova および Phew は、安全な作業台でレンズの損傷を調べます。亀裂は透明な中心の外側にありますが、古い取り付けによりガラスがずれてしまいます。彼らはその弱さを支えることができます。彼らは亀裂がなくなったふりをすることはできません。\n\nNova: 「故障箇所を見せてください。そうすれば、正直に修理をテストできます。」",
+        "Phewは銅の補強具を取り付け、レンズの縁を支えながら透明な中心の位置を保ちます。 Novaはマウントを安定させます。このレンズがどこに移動しても、修復は目に見えるままになります。\n\nPhew: 「新しくは見えません。」\nNova: 「きちんと働くことが大事です。それに、うまく働かないときは分かるようにしておきましょう。」",
+        "標準パターンのテストを繰り返します。今度はマウントが安定して保持され、3 本のバーが位置合わせされたままになります。 Quest は損傷を含む結果を記録するため、旅行後に再度確認することができます。\n\nQuest: 「テスト パターンは一致します。大変な旅行のたびに再チェックします。」",
+        "修理簿には、対応するレンズがどこに行ったか、Orin にある Sigh の渡船の工房が記録されています。 Grit は、1 つのレンズでリズムを読み取ることができると説明しています。内部に閉じ込められた源を探すには、二枚のレンズをそろえて、その源のそばに置く必要があります。彼らの次の手がかりは川下です。\n\nGrit: 「Sigh がサービスの領収書を保管していました。まず庭園の船着き場で彼に聞いてみましょう。」",
+        "その日の午後、6人は鉄道で川の船着き場に向かって下山した。修理したレンズはBashのケースに入れて持ち歩きます。明日予定されているリバーボートは、Orin とサービスブックに記載されている工房に連れて行きます。\n\nBash: 「まず谷の駅。それから朝の川船です。」",
+        "その夜、Meadowfoldに戻ると、Rainは拡張されたシェルターの下で休むことができなくなりました。 Mend はマットを広い芝生の上に移動します。屋根はまだ訪問者を守ることができますが、Rainを囲むように屋根を下ろすことはしません。\n\nRain: 「窓の外を見るのが懐かしいです。」"
+      ],
+      "introduction": "リズムの比較は、調査員に作業場の読み取りレンズを調べる理由を与えます。 Phew は、レンズを貸すのをためらっていた理由をついに明かします。目に見える修理と再現可能なテストにより、捜索は行方不明の対になるもう一枚のレンズに向けて下流へと導かれました。",
+      "title": "完璧なレンズの亀裂"
+    },
+    "ko": {
+      "altTexts": [
+        "다음날 아침 작업장으로 돌아온 Phew는 마침내 렌즈 서랍을 엽니다. 가장자리에 미세한 균열이 있습니다. 그는 아무 문제도 없는 것처럼 보이게 만들 만큼 오랫동안 결함을 숨기기를 바랐습니다.",
+        "Nova 및 Phew는 안전한 작업대에서 손상을 검사합니다. 균열은 투명한 중앙 바깥쪽에 있지만 오래된 마운팅으로 인해 유리가 움직일 수 있습니다. 그들은 그 약점을 보완할 수 있습니다. 그들은 균열이 사라진 척할 수 없습니다.",
+        "Phew는 림을 지지하고 투명한 중앙 정렬을 유지하는 구리 버팀대를 장착합니다. Nova는 마운트를 안정시킵니다. 이 렌즈가 이동하는 곳마다 수리된 부분이 계속 보입니다.",
+        "표준 패턴 테스트를 반복합니다. 이번에는 마운트가 안정적으로 고정되고 세 개의 막대가 정렬된 상태로 유지됩니다. Quest는 손상을 포함한 결과를 기록하므로 여행 후 다시 확인할 수 있습니다.",
+        "수리 책에는 일치하는 렌즈가 어디로 갔는지 기록되어 있습니다: Orin에 있는 Sigh의 페리 작업장. 하나의 렌즈로 리듬을 읽을 수 있다고 Grit은 설명합니다. 안에 갇힌 근원을 찾으려면 짝을 이루는 두 렌즈를 모두 그 근원 옆에 놓아야 합니다. 다음 단서는 강 하류에 있습니다.",
+        "그날 오후, 여섯 명은 기차를 타고 강 선착장을 향해 내려갔습니다. 수리된 렌즈는 Bash 케이스에 담겨 이동됩니다. 내일 예정된 강배는 그들을 Orin과 서비스 책자에 명시된 작업장으로 데려갈 것입니다.",
+        "그날 저녁 Meadowfold에 있는 Rain은 더 이상 확대된 대피소 아래에서 쉴 수 없습니다. Mend는 매트를 열린 잔디 위로 옮깁니다. 지붕은 여전히 방문객을 보호할 수 있지만 Rain의 몸을 둘러싸도록 낮추지는 않습니다."
+      ],
+      "captions": [
+        "다음날 아침 작업장으로 돌아온 Phew는 마침내 렌즈 서랍을 엽니다. 가장자리에 미세한 균열이 있습니다. 그는 아무 문제도 없는 것처럼 보이게 만들 만큼 오랫동안 결함을 숨기기를 바랐습니다.\n\nPhew: \"숨겼어요. 작품이 완벽해 보이길 바랐어요.\"",
+        "Nova 및 Phew는 안전한 작업대에서 손상을 검사합니다. 균열은 투명한 중앙 바깥쪽에 있지만 오래된 마운팅으로 인해 유리가 움직일 수 있습니다. 그들은 그 약점을 보완할 수 있습니다. 그들은 균열이 사라진 척할 수 없습니다.\n\nNova: \"결함을 보여주세요. 그러면 정직하게 수리를 테스트할 수 있습니다.\"",
+        "Phew는 림을 지지하고 투명한 중앙 정렬을 유지하는 구리 버팀대를 장착합니다. Nova는 마운트를 안정시킵니다. 이 렌즈가 이동하는 곳마다 수리된 부분이 계속 보입니다.\n\nPhew: “새롭게 보이지는 않을 거예요.”\nNova: “작동해야 하고 작동하지 않는 경우를 보여줘야 합니다.”",
+        "표준 패턴 테스트를 반복합니다. 이번에는 마운트가 안정적으로 고정되고 세 개의 막대가 정렬된 상태로 유지됩니다. Quest는 손상을 포함한 결과를 기록하므로 여행 후 다시 확인할 수 있습니다.\n\nQuest: \"테스트 패턴이 일치합니다. 험난한 여행 후에는 다시 확인하겠습니다.\"",
+        "수리 책에는 일치하는 렌즈가 어디로 갔는지 기록되어 있습니다: Orin에 있는 Sigh의 페리 작업장. 하나의 렌즈로 리듬을 읽을 수 있다고 Grit은 설명합니다. 안에 갇힌 근원을 찾으려면 짝을 이루는 두 렌즈를 모두 그 근원 옆에 놓아야 합니다. 다음 단서는 강 하류에 있습니다.\n\nGrit: \"Sigh는 서비스 영수증을 보관했습니다. 정원 선착장에서 그에게 먼저 물어보세요.\"",
+        "그날 오후, 여섯 명은 기차를 타고 강 선착장을 향해 내려갔습니다. 수리된 렌즈는 Bash 케이스에 담겨 이동됩니다. 내일 예정된 강배는 그들을 Orin과 서비스 책자에 명시된 작업장으로 데려갈 것입니다.\n\nBash: \"먼저 계곡역. 그다음 아침에 강배.\"",
+        "그날 저녁 Meadowfold에 있는 Rain은 더 이상 확대된 대피소 아래에서 쉴 수 없습니다. Mend는 매트를 열린 잔디 위로 옮깁니다. 지붕은 여전히 방문객을 보호할 수 있지만 Rain의 몸을 둘러싸도록 낮추지는 않습니다.\n\nRain: “창밖을 내다보는 게 그리워요.”"
+      ],
+      "introduction": "리듬 비교는 연구자에게 공방의 판독 렌즈를 조사할 이유를 제공합니다. Phew는 마침내 제안을 주저했던 이유를 공개합니다. 눈에 보이는 수리와 반복 가능한 테스트를 통해 강 하류의 사라진 짝 렌즈를 찾는 방향으로 이동합니다.",
+      "title": "완벽한 렌즈의 균열"
+    },
+    "pl": {
+      "altTexts": [
+        "Następnego ranka, po powrocie do warsztatu, Phew w końcu otwiera szufladę z soczewką. Na krawędzi soczewki widać cienkie pęknięcie. Miał nadzieję ukryć tę wadę na tyle długo, aby wyglądało na to, że nic nie poszło nie tak.",
+        "Nova i Phew sprawdzają uszkodzenia na bezpiecznym stole. Pęknięcie leży poza przezroczystym środkiem, ale stare mocowanie pozwala na przesunięcie szyby. Mogą wzmocnić mocowanie; nie mogą udawać, że pęknięcie zniknęło.",
+        "Phew zakłada miedzianą obejmę, która podtrzymuje obręcz i utrzymuje wyrównany środek. Nova podtrzymuje uchwyt. Ślad naprawy pozostanie widoczny wszędzie, dokąd trafi soczewka.",
+        "Powtarzają standardowy test wzorcowy. Tym razem uchwyt trzyma się stabilnie, a trzy pręty pozostają wyrównane. Quest rejestruje wynik, wraz z opisem uszkodzenia, aby móc go ponownie sprawdzić po podróży.",
+        "Księga napraw wskazuje, dokąd trafiła druga soczewka z pary: do warsztatu promowego, który prowadzi Sigh w Orinie. Grit wyjaśnia, że jedna soczewka odczytuje rytm. Aby znaleźć zamknięte źródło, obie soczewki muszą być przy tym źródle. Ich następny trop prowadzi w dół rzeki.",
+        "Tego popołudnia cała szóstka zjeżdża koleją w stronę przystani nad rzeką. Naprawiona soczewka podróżuje w walizce Basha. Jutrzejszy rejs łodzią rzeczną zabierze ich do Orinu i warsztatu wymienionego w księdze serwisowej.",
+        "Tego wieczoru na łące Meadowfold Rain nie może już odpoczywać pod powiększonym schronem. Mend przenosi matę Raina na otwartą trawę. Dach może nadal zapewniać schronienie gościom, ale nie zostanie wokół niego opuszczony."
+      ],
+      "captions": [
+        "Następnego ranka, po powrocie do warsztatu, Phew w końcu otwiera szufladę z soczewką. Na krawędzi soczewki widać cienkie pęknięcie. Miał nadzieję ukryć tę wadę na tyle długo, aby wyglądało na to, że nic nie poszło nie tak.\n\nPhew: \"Ukryłem to. Chciałem, żeby praca wyglądała idealnie.\"",
+        "Nova i Phew sprawdzają uszkodzenia na bezpiecznym stole. Pęknięcie leży poza przezroczystym środkiem, ale stare mocowanie pozwala na przesunięcie szyby. Mogą wzmocnić mocowanie; nie mogą udawać, że pęknięcie zniknęło.\n\nNova: \"Pokaż mi usterkę. Wtedy będziemy mogli uczciwie przetestować naprawę.\"",
+        "Phew zakłada miedzianą obejmę, która podtrzymuje obręcz i utrzymuje wyrównany środek. Nova podtrzymuje uchwyt. Ślad naprawy pozostanie widoczny wszędzie, dokąd trafi soczewka.\n\nPhew: „Nie będzie wyglądać jak nowa”.\nNova: „Musi działać — i musimy wiedzieć, kiedy nie działa”.",
+        "Powtarzają standardowy test wzorcowy. Tym razem uchwyt trzyma się stabilnie, a trzy pręty pozostają wyrównane. Quest rejestruje wynik, wraz z opisem uszkodzenia, aby móc go ponownie sprawdzić po podróży.\n\nQuest: \"Wzorzec testowy jest zgodny. Sprawdzimy go ponownie po każdej trudnej podróży. \"",
+        "Księga napraw wskazuje, dokąd trafiła druga soczewka z pary: do warsztatu promowego, który prowadzi Sigh w Orinie. Grit wyjaśnia, że jedna soczewka odczytuje rytm. Aby znaleźć zamknięte źródło, obie soczewki muszą być przy tym źródle. Ich następny trop prowadzi w dół rzeki.\n\nGrit: \"Sigh zachował rachunki za usługi. Zacznijcie od niego przy przystani w ogrodzie.\"",
+        "Tego popołudnia cała szóstka zjeżdża koleją w stronę przystani nad rzeką. Naprawiona soczewka podróżuje w walizce Basha. Jutrzejszy rejs łodzią rzeczną zabierze ich do Orinu i warsztatu wymienionego w księdze serwisowej.\n\nBash: \"Najpierw stacja w dolinie. Potem rano statek rzeczny.\"",
+        "Tego wieczoru na łące Meadowfold Rain nie może już odpoczywać pod powiększonym schronem. Mend przenosi matę Raina na otwartą trawę. Dach może nadal zapewniać schronienie gościom, ale nie zostanie wokół niego opuszczony.\n\nRain: „Tęsknię za patrzeniem przez okno.”"
+      ],
+      "introduction": "Porównanie rytmu daje badaczom powód do przyjrzenia się soczewce do odczytu przechowywanej w warsztacie. Phew w końcu ujawnia, dlaczego wahał się, czy ją pokazać. Widoczna naprawa i powtarzalny test prowadzą poszukiwania w dół rzeki, w stronę zaginionej soczewki do pary.",
+      "title": "Pęknięcie idealnej soczewki"
+    },
+    "pt": {
+      "altTexts": [
+        "Na manhã seguinte, de volta à oficina, Phew finalmente abre a gaveta de lentes. Há uma pequena rachadura na borda. Ele esperava esconder a falha por tempo suficiente para fazer parecer que nada deu errado.",
+        "Nova e Phew inspecionam os danos na bancada segura. A rachadura fica fora do centro transparente, mas a montagem antiga permite que o vidro se desloque. Eles podem reforçar essa fraqueza; eles não podem fingir que a rachadura desapareceu.",
+        "Phew instala um reforço de cobre que suporta o aro e mantém o centro transparente alinhado. Nova estabiliza a montagem. O reparo permanecerá visível onde quer que esta lente passe.",
+        "Eles repetem o teste com o padrão de referência. Desta vez, a montagem permanece estável e as três barras ficam alinhadas. Quest registra o resultado, incluindo os danos, para que possam verificar novamente após a viagem.",
+        "O livro de reparos registra para onde foi a lente correspondente: oficina de balsas de Sigh em Orin. Grit explica que uma lente pode ler um ritmo. Para localizar uma fonte selada, porém, as duas lentes precisam estar ao lado dessa mesma fonte. A próxima pista é rio abaixo.",
+        "Naquela tarde, os seis descem de trem em direção ao cais do rio. A lente reparada viaja na maleta de Bash. O barco fluvial programado para amanhã os levará até Orin e à oficina indicada no livro de serviços.",
+        "De volta a Meadowfold naquela noite, Rain não pode mais descansar sob o abrigo ampliado. Mend move seu tapete para a grama aberta. O telhado ainda pode abrigar visitantes, mas não será rebaixado ao seu redor."
+      ],
+      "captions": [
+        "Na manhã seguinte, de volta à oficina, Phew finalmente abre a gaveta de lentes. Há uma pequena rachadura na borda. Ele esperava esconder a falha por tempo suficiente para fazer parecer que nada deu errado.\n\nPhew: \"Eu escondi. Queria que o trabalho ficasse perfeito.\"",
+        "Nova e Phew inspecionam os danos na bancada segura. A rachadura fica fora do centro transparente, mas a montagem antiga permite que o vidro se desloque. Eles podem reforçar essa fraqueza; eles não podem fingir que a rachadura desapareceu.\n\nNova: \"Mostre-me a falha. Então poderemos testar o reparo honestamente.\"",
+        "Phew instala um reforço de cobre que suporta o aro e mantém o centro transparente alinhado. Nova estabiliza a montagem. O reparo permanecerá visível onde quer que esta lente passe.\n\nPhew: “Não parecerá nova.”\nNova: “Precisa funcionar – e nos mostrar quando isso não acontece.”",
+        "Eles repetem o teste com o padrão de referência. Desta vez, a montagem permanece estável e as três barras ficam alinhadas. Quest registra o resultado, incluindo os danos, para que possam verificar novamente após a viagem.\n\nQuest: \"O padrão de teste corresponde. Iremos verificá-lo novamente após cada viagem difícil.\"",
+        "O livro de reparos registra para onde foi a lente correspondente: oficina de balsas de Sigh em Orin. Grit explica que uma lente pode ler um ritmo. Para localizar uma fonte selada, porém, as duas lentes precisam estar ao lado dessa mesma fonte. A próxima pista é rio abaixo.\n\nGrit: \"Sigh guardou os recibos de serviço. Comece com ele no cais do jardim.\"",
+        "Naquela tarde, os seis descem de trem em direção ao cais do rio. A lente reparada viaja na maleta de Bash. O barco fluvial programado para amanhã os levará até Orin e à oficina indicada no livro de serviços.\n\nBash: \"Primeiro a estação do vale. Depois o barco fluvial pela manhã.\"",
+        "De volta a Meadowfold naquela noite, Rain não pode mais descansar sob o abrigo ampliado. Mend move seu tapete para a grama aberta. O telhado ainda pode abrigar visitantes, mas não será rebaixado ao seu redor.\n\nRain: “Sinto falta de olhar pela janela.”"
+      ],
+      "introduction": "A comparação de ritmos dá aos investigadores um motivo para examinar a lente de leitura da oficina. Phew finalmente revela por que hesitou em oferecê-la. Um reparo visível e um teste repetível conduzem a busca rio abaixo, em direção à lente complementar desaparecida.",
+      "title": "A rachadura na lente perfeita"
+    },
+    "ru": {
+      "altTexts": [
+        "На следующее утро, вернувшись в мастерскую, Phew наконец открывает ящик для линз. На краю линзы видна тонкая трещина. Он надеялся скрыть недостаток достаточно долго, чтобы все выглядело так, как будто ничего не случилось.",
+        "Nova и Phew осматривают повреждения на безопасном стенде. Трещина находится за пределами прозрачного центра, но старое крепление позволяет стеклу смещаться. Они могут укрепить это слабое место; они не могут притвориться, что трещины больше нет.",
+        "Phew устанавливает медную скобу, которая поддерживает обод и выравнивает чистый центр. Nova стабилизирует крепление. След ремонта останется видимым, куда бы ни отправилась эта линза.",
+        "Они повторяют проверку по стандартному образцу. На этот раз крепление держится устойчиво, и три стержня остаются на одной линии. Quest записывает результат, включая описание повреждения, чтобы они могли проверить его еще раз после поездки.",
+        "В книге ремонта указано, куда попала вторая линза из пары: в паромную мастерскую Sigh в Orin. Grit объясняет, что одна линза считывает ритм. Чтобы найти закрытый источник, обе линзы должны находиться рядом с этим источником. Их следующий путь — вниз по реке.",
+        "В тот же день шестеро спускаются по железной дороге к речному причалу. Отремонтированная линза перевозится в кейсе Bash. Завтрашний речной теплоход отвезет их в Orin и в мастерскую, указанную в сервисной книжке.",
+        "В тот вечер на лугу Meadowfold, Rain больше не может отдыхать под увеличенным укрытием. Mend передвигает коврик на открытую траву. Крыша по-прежнему может укрывать посетителей, но вокруг него она не будет опущена."
+      ],
+      "captions": [
+        "На следующее утро, вернувшись в мастерскую, Phew наконец открывает ящик для линз. На краю линзы видна тонкая трещина. Он надеялся скрыть недостаток достаточно долго, чтобы все выглядело так, как будто ничего не случилось.\n\nPhew: \"Я это спрятал. Я хотел, чтобы работа выглядела идеально\".",
+        "Nova и Phew осматривают повреждения на безопасном стенде. Трещина находится за пределами прозрачного центра, но старое крепление позволяет стеклу смещаться. Они могут укрепить это слабое место; они не могут притвориться, что трещины больше нет.\n\nNova: \"Покажи мне неисправность. Тогда мы сможем честно проверить ремонт\".",
+        "Phew устанавливает медную скобу, которая поддерживает обод и выравнивает чистый центр. Nova стабилизирует крепление. След ремонта останется видимым, куда бы ни отправилась эта линза.\n\nPhew: «Она не будет выглядеть новой».\nNova: «Она должна работать, а мы должны видеть, если это не так».",
+        "Они повторяют проверку по стандартному образцу. На этот раз крепление держится устойчиво, и три стержня остаются на одной линии. Quest записывает результат, включая описание повреждения, чтобы они могли проверить его еще раз после поездки.\n\nQuest: \"Тестовая таблица совпадает. Мы будем перепроверять ее после каждой тяжелой поездки\".",
+        "В книге ремонта указано, куда попала вторая линза из пары: в паромную мастерскую Sigh в Orin. Grit объясняет, что одна линза считывает ритм. Чтобы найти закрытый источник, обе линзы должны находиться рядом с этим источником. Их следующий путь — вниз по реке.\n\nGrit: \"Sigh сохранил квитанции за обслуживание. Начните с него у пристани в саду\".",
+        "В тот же день шестеро спускаются по железной дороге к речному причалу. Отремонтированная линза перевозится в кейсе Bash. Завтрашний речной теплоход отвезет их в Orin и в мастерскую, указанную в сервисной книжке.\n\nBash: \"Сначала станция в долине. Потом утром речной корабль\".",
+        "В тот вечер на лугу Meadowfold, Rain больше не может отдыхать под увеличенным укрытием. Mend передвигает коврик на открытую траву. Крыша по-прежнему может укрывать посетителей, но вокруг него она не будет опущена.\n\nRain: «Мне не хватает возможности смотреть в окно»."
+      ],
+      "introduction": "Сравнение ритмов дает исследователям повод изучить линзу для считывания, хранящуюся в мастерской. Phew наконец раскрывает, почему он не решился это предложить. Видимый ремонт и повторяемые испытания ведут поиск вниз по течению к пропавшей второй линзе.",
+      "title": "Трещина в идеальной линзе"
+    },
+    "tr": {
+      "altTexts": [
+        "Ertesi sabah yeniden atölyede Phew sonunda lens çekmecesini açıyor. Merceğin kenarında ince bir çatlak var. Hiçbir şey ters gitmemiş gibi görünmesini sağlayacak kadar uzun süre kusuru gizlemeyi umuyordu.",
+        "Nova ve Phew güvenli tezgahtaki hasarı inceliyor. Çatlak şeffaf merkezin dışında yer alıyor ancak eski montaj camın kaymasına izin veriyor. Bu zayıflığı destekleyebilirler; çatlak yok olmuş gibi davranamazlar.",
+        "Phew, merceğin kenarını destekleyen ve saydam merkezini hizalı tutan bakır bir destek takıyor. Nova montajı sabitler. Bu merceğin gittiği her yerde onarım görünür kalacaktır.",
+        "Standart model testini tekrarlarlar. Bu sefer montaj sabit duruyor ve üç çubuk aynı hizada kalıyor. Quest, hasar da dahil olmak üzere sonucu kaydeder, böylece yolculuktan sonra tekrar kontrol edebilirler.",
+        "Onarım kitabı, eşleşen merceğin nereye gittiğini kaydediyor: Sigh'ın Orin'deki feribot atölyesi. Grit, tek merceğin ritmi okuyabildiğini açıklıyor. Kapalı bir kaynağın yerini bulabilmek için iki merceğin de o kaynağın yanında olması gerekiyor. Bir sonraki ipucu nehrin aşağısında.",
+        "O öğleden sonra, altı kişi demiryoluyla nehir iskelesine doğru iniyor. Onarılan lens Bash'in çantasında seyahat eder. Yarının tarifeli nehir teknesi onları Orin'e ve servis kitabında adı geçen atölyeye götürecek.",
+        "O akşam Meadowfold çayırında, Rain artık genişletilmiş sığınağın altında dinlenemez. Mend matını açık çimlerin üzerine taşıyor. Çatı hala ziyaretçileri barındırabilir ancak onun etrafında indirilmeyecektir."
+      ],
+      "captions": [
+        "Ertesi sabah yeniden atölyede Phew sonunda lens çekmecesini açıyor. Merceğin kenarında ince bir çatlak var. Hiçbir şey ters gitmemiş gibi görünmesini sağlayacak kadar uzun süre kusuru gizlemeyi umuyordu.\n\nPhew: \"Onu sakladım. Çalışmanın mükemmel görünmesini istedim.\"",
+        "Nova ve Phew güvenli tezgahtaki hasarı inceliyor. Çatlak şeffaf merkezin dışında yer alıyor ancak eski montaj camın kaymasına izin veriyor. Bu zayıflığı destekleyebilirler; çatlak yok olmuş gibi davranamazlar.\n\nNova: \"Bana hatayı göster. O zaman onarımı dürüstçe test edebiliriz.\"",
+        "Phew, merceğin kenarını destekleyen ve saydam merkezini hizalı tutan bakır bir destek takıyor. Nova montajı sabitler. Bu merceğin gittiği her yerde onarım görünür kalacaktır.\n\nPhew: “Yeni görünmeyecek.”\nNova: \"Çalışması ve çalışmadığını bize göstermesi gerekiyor.\"",
+        "Standart model testini tekrarlarlar. Bu sefer montaj sabit duruyor ve üç çubuk aynı hizada kalıyor. Quest, hasar da dahil olmak üzere sonucu kaydeder, böylece yolculuktan sonra tekrar kontrol edebilirler.\n\nQuest: \"Test modeli eşleşiyor. Her zorlu yolculuktan sonra tekrar kontrol edeceğiz.\"",
+        "Onarım kitabı, eşleşen merceğin nereye gittiğini kaydediyor: Sigh'ın Orin'deki feribot atölyesi. Grit, tek merceğin ritmi okuyabildiğini açıklıyor. Kapalı bir kaynağın yerini bulabilmek için iki merceğin de o kaynağın yanında olması gerekiyor. Bir sonraki ipucu nehrin aşağısında.\n\nGrit: \"Sigh servis makbuzlarını sakladı. Ona bahçe iskelesinde sorun.\"",
+        "O öğleden sonra, altı kişi demiryoluyla nehir iskelesine doğru iniyor. Onarılan lens Bash'in çantasında seyahat eder. Yarının tarifeli nehir teknesi onları Orin'e ve servis kitabında adı geçen atölyeye götürecek.\n\nBash: \"Önce Vadi istasyonu. Sonra sabah nehir teknesi.\"",
+        "O akşam Meadowfold çayırında, Rain artık genişletilmiş sığınağın altında dinlenemez. Mend matını açık çimlerin üzerine taşıyor. Çatı hala ziyaretçileri barındırabilir ancak onun etrafında indirilmeyecektir.\n\nRain: \"Pencereden dışarı bakmayı özledim.\""
+      ],
+      "introduction": "Ritim karşılaştırması araştırmacılara atölyenin okuma merceğini incelemeleri için bir neden veriyor. Phew nihayet bunu sunmakta neden tereddüt ettiğini açıklıyor. Görünür bir onarım ve tekrarlanabilir bir test, aramayı nehrin aşağısına, kayıp ikinci merceğe doğru yönlendirir.",
+      "title": "Mükemmel Lensteki Çatlak"
+    },
+    "vi": {
+      "altTexts": [
+        "Sáng hôm sau, quay lại xưởng, Phew cuối cùng cũng mở ngăn đựng thấu kính. Có một vết nứt nhỏ ở vành. Anh ấy đã hy vọng che giấu khuyết điểm đủ lâu để khiến nó trông như không có chuyện gì xảy ra.",
+        "Nova và Phew kiểm tra hư hỏng trên bàn làm việc an toàn. Vết nứt nằm bên ngoài tâm trong suốt, nhưng giá đỡ cũ khiến kính dịch chuyển. Họ có thể khắc phục điểm yếu đó; họ không thể giả vờ như vết nứt đã biến mất.",
+        "Phew lắp một nẹp đồng hỗ trợ vành và giữ phần giữa trong suốt thẳng hàng. Nova giúp cố định ngàm. Dấu vết sửa chữa vẫn sẽ nhìn thấy được, dù thấu kính này được mang đi đâu.",
+        "Họ lặp lại bài kiểm tra mẫu tiêu chuẩn. Lần này giá đỡ giữ ổn định và ba thanh vẫn thẳng hàng. Quest ghi lại kết quả, bao gồm cả hư hỏng để họ có thể kiểm tra lại sau hành trình.",
+        "Sổ sửa chữa ghi lại vị trí của thấu kính phù hợp: Xưởng phà của Sigh ở Orin. Grit giải thích rằng một thấu kính có thể đọc nhịp điệu. Muốn xác định vị trí của một nguồn bị giữ kín, cả hai thấu kính phải ở cạnh chính nguồn đó. Đầu mối tiếp theo của họ là ở hạ lưu.",
+        "Chiều hôm đó, sáu người xuống bằng đường sắt về phía bến sông. Thấu kính đã sửa chữa sẽ di chuyển trong hộp của Bash. Thuyền sông theo lịch trình ngày mai sẽ đưa họ đến Orin và xưởng có tên trong sổ dịch vụ.",
+        "Tối hôm đó tại đồng cỏ Meadowfold, Rain không thể nghỉ ngơi bên dưới nơi trú ẩn được mở rộng nữa. Mend di chuyển tấm thảm của Rain lên bãi cỏ rộng. Mái nhà vẫn có thể che chở cho du khách nhưng họ sẽ không hạ mái xuống quanh Rain."
+      ],
+      "captions": [
+        "Sáng hôm sau, quay lại xưởng, Phew cuối cùng cũng mở ngăn đựng thấu kính. Có một vết nứt nhỏ ở vành. Anh ấy đã hy vọng che giấu khuyết điểm đủ lâu để khiến nó trông như không có chuyện gì xảy ra.\n\nPhew: \"Tôi đã giấu nó. Tôi muốn tác phẩm trông thật hoàn hảo.\"",
+        "Nova và Phew kiểm tra hư hỏng trên bàn làm việc an toàn. Vết nứt nằm bên ngoài tâm trong suốt, nhưng giá đỡ cũ khiến kính dịch chuyển. Họ có thể khắc phục điểm yếu đó; họ không thể giả vờ như vết nứt đã biến mất.\n\nNova: \"Chỉ cho tôi lỗi. Sau đó chúng ta có thể kiểm tra việc sửa chữa một cách trung thực.\"",
+        "Phew lắp một nẹp đồng hỗ trợ vành và giữ phần giữa trong suốt thẳng hàng. Nova giúp cố định ngàm. Dấu vết sửa chữa vẫn sẽ nhìn thấy được, dù thấu kính này được mang đi đâu.\n\nPhew: “Trông nó sẽ không mới đâu.”\nNova: “Nó cần hoạt động—và cho chúng tôi biết khi nào nó không hoạt động.”",
+        "Họ lặp lại bài kiểm tra mẫu tiêu chuẩn. Lần này giá đỡ giữ ổn định và ba thanh vẫn thẳng hàng. Quest ghi lại kết quả, bao gồm cả hư hỏng để họ có thể kiểm tra lại sau hành trình.\n\nQuest: \"Mẫu thử nghiệm khớp. Chúng tôi sẽ kiểm tra lại sau mỗi chuyến đi khó khăn.\"",
+        "Sổ sửa chữa ghi lại vị trí của thấu kính phù hợp: Xưởng phà của Sigh ở Orin. Grit giải thích rằng một thấu kính có thể đọc nhịp điệu. Muốn xác định vị trí của một nguồn bị giữ kín, cả hai thấu kính phải ở cạnh chính nguồn đó. Đầu mối tiếp theo của họ là ở hạ lưu.\n\nGrit: \"Sigh giữ lại biên lai dịch vụ. Hãy hỏi anh ấy ở bến thuyền cạnh vườn.\"",
+        "Chiều hôm đó, sáu người xuống bằng đường sắt về phía bến sông. Thấu kính đã sửa chữa sẽ di chuyển trong hộp của Bash. Thuyền sông theo lịch trình ngày mai sẽ đưa họ đến Orin và xưởng có tên trong sổ dịch vụ.\n\nBash: \"Trạm thung lũng trước. Sau đó là thuyền trên sông vào buổi sáng.\"",
+        "Tối hôm đó tại đồng cỏ Meadowfold, Rain không thể nghỉ ngơi bên dưới nơi trú ẩn được mở rộng nữa. Mend di chuyển tấm thảm của Rain lên bãi cỏ rộng. Mái nhà vẫn có thể che chở cho du khách nhưng họ sẽ không hạ mái xuống quanh Rain.\n\nRain: “Tôi nhớ những lúc được nhìn ra ngoài cửa sổ.”"
+      ],
+      "introduction": "Việc so sánh nhịp điệu mang lại cho các nhà điều tra một lý do để kiểm tra thấu kính đọc của xưởng. Phew cuối cùng cũng tiết lộ lý do tại sao anh ấy lại do dự khi đề nghị nó. Một sửa chữa có thể nhìn thấy và một thử nghiệm lặp lại sẽ dẫn dắt cuộc tìm kiếm xuôi dòng, hướng tới thấu kính còn lại đang thất lạc.",
+      "title": "Vết nứt trong thấu kính hoàn hảo"
+    },
+    "zh": {
+      "altTexts": [
+        "第二天早上，回到车间，Phew终于打开了镜片抽屉。边缘有一条细裂纹。他一直希望将这个缺陷隐藏得足够长，让事情看起来好像没有发生任何问题。",
+        "Nova和Phew在安全台上检查损坏情况。裂缝位于透明中心之外，但旧的安装方式使玻璃发生移动。他们可以克服这个弱点；他们不能假装裂缝已经消失。",
+        "Phew 安装了一个铜支架，支撑镜片边缘，同时保持透明的中心区域对准目标。 Nova 稳定安装座。无论镜片被带到哪里，这道修补的痕迹都会留下来。",
+        "他们重复标准模式测试。这次安装座保持稳定并且三条测试线保持对齐。 Quest 记录结果，包括损坏情况，以便他们在旅程结束后再次检查。",
+        "维修本上记录了配套镜片去了哪里：Sigh在Orin的摆渡车间。 Grit 解释说，一片镜片可以读取节奏；要定位封闭在内部的源头，就必须把两片配套镜片一起带到源头旁边。他们的下一条线索是下游。",
+        "那天下午，六人乘火车前往河岸码头。修好的镜片装在Bash的箱子里，随他们一起出发。明天预定的河船将带他们前往Orin和服务手册上指定的车间。",
+        "当晚回到Meadowfold，Rain无法再在扩大的庇护所下休息。 Mend 将他的垫子移到开阔的草地上。棚顶仍可供来访的朋友遮阳，但他们不会把棚顶降下，把Rain围在里面。"
+      ],
+      "captions": [
+        "第二天早上，回到车间，Phew终于打开了镜片抽屉。边缘有一条细裂纹。他一直希望将这个缺陷隐藏得足够长，让事情看起来好像没有发生任何问题。\n\nPhew：“我把它藏起来了。我想让作品看起来很完美。”",
+        "Nova和Phew在安全台上检查损坏情况。裂缝位于透明中心之外，但旧的安装方式使玻璃发生移动。他们可以克服这个弱点；他们不能假装裂缝已经消失。\n\nNova：“把故障给我看看，然后我们就可以老老实实测试修复情况了。”",
+        "Phew 安装了一个铜支架，支撑镜片边缘，同时保持透明的中心区域对准目标。 Nova 稳定安装座。无论镜片被带到哪里，这道修补的痕迹都会留下来。\n\nPhew：“看起来不会很新。”\nNova：“它得能用；如果出了问题，我们也得看得出来。”",
+        "他们重复标准模式测试。这次安装座保持稳定并且三条测试线保持对齐。 Quest 记录结果，包括损坏情况，以便他们在旅程结束后再次检查。\n\nQuest：“测试图案匹配。我们会在每次艰难的旅行后重新检查。”",
+        "维修本上记录了配套镜片去了哪里：Sigh在Orin的摆渡车间。 Grit 解释说，一片镜片可以读取节奏；要定位封闭在内部的源头，就必须把两片配套镜片一起带到源头旁边。他们的下一条线索是下游。\n\nGrit：“Sigh保留了服务收据。先到花园码头找他。”",
+        "那天下午，六人乘火车前往河岸码头。修好的镜片装在Bash的箱子里，随他们一起出发。明天预定的河船将带他们前往Orin和服务手册上指定的车间。\n\nBash：“先是山谷站，然后是早上的河船。”",
+        "当晚回到Meadowfold，Rain无法再在扩大的庇护所下休息。 Mend 将他的垫子移到开阔的草地上。棚顶仍可供来访的朋友遮阳，但他们不会把棚顶降下，把Rain围在里面。\n\nRain：“我想念窗外的景色。”"
+      ],
+      "introduction": "节奏比较给了调查人员检查作坊里的读取镜片的理由。 Phew终于透露了他犹豫要不要提供的原因。一处看得见的修补和反复确认的测试，让他们沿河向下游追查，寻找失踪的另一片镜片。",
+      "title": "完美镜片中的裂缝"
+    }
+  },
+  "number": 11,
+  "panels": [
+    {
+      "altText": "The next morning, back at the workshop, Phew opens the lens drawer at last. There is a fine crack at the rim. He has been hoping to hide the flaw long enough to make it look as though nothing went wrong.",
+      "image": "N01E11P01.png"
+    },
+    {
+      "altText": "Nova and Phew inspect the damage on the safe bench. The crack lies outside the clear center, but the old mounting lets the glass shift. They can brace that weakness; they cannot pretend the crack is gone.",
+      "image": "N01E11P02.png"
+    },
+    {
+      "altText": "Phew fits a copper brace that supports the rim and keeps the clear center aligned. Nova steadies the mount. The repair will remain visible wherever this lens travels.",
+      "image": "N01E11P03.png"
+    },
+    {
+      "altText": "They repeat the standard pattern test. This time the mount holds steady and the three bars stay aligned. Quest records the result, including the damage, so they can check it again after the journey.",
+      "image": "N01E11P04.png"
+    },
+    {
+      "altText": "The repair book records where the matching lens went: Sigh's ferry workshop in Orin. One lens can read a rhythm, Grit explains; locating a sealed source requires both lenses beside that source. Their next lead is downriver.",
+      "image": "N01E11P05.png"
+    },
+    {
+      "altText": "That afternoon, the six descend by rail toward the river landing. The repaired lens travels in Bash's case. Tomorrow's scheduled riverboat will take them to Orin and the workshop named in the service book.",
+      "image": "N01E11P06.png"
+    },
+    {
+      "altText": "Back at Meadowfold that evening, Rain can no longer rest beneath the enlarged shelter. Mend moves his mat onto open grass. The roof can still shelter visitors, but it will not be lowered around him.",
+      "image": "N01E11P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

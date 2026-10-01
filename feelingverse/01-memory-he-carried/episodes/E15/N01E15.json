@@ -1,0 +1,439 @@
+{
+  "id": "N01E15",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "في صباح اليوم التالي، ترك Quest الإيصال مع Adore، الذي يحتفظ بالكتاب المرجعي للميناء. خارج نفس الورشة، ينتظر Wail لسبب مختلف: زيارة الشاي الموعودة بالأمس لم تحدث أبدًا.",
+        "يضع Adore القماش جانبًا ويبتعد عن الزهور غير المكتملة. لقد حل التحضير لزيارة مثالية محل الوصول الفعلي. Wail كان ينتظر الصحبة، لا تنسيق الزهور.",
+        "Wail يطلب شيئًا أصغر من الكمال. كوبان عاديان يكفيان لتوضيح الدعوة. إنه يطلب زيارة يستطيع Adore الوفاء بوعدها، ولا يطلب منه أن يملأ كل ساعة فارغة.",
+        "يجلس Adore الآن ويوافق على العودة غدًا بعد جرس العبارة. يمكن أن تظل الزهور غير مكتملة. لا يتعين على أول كوب شاي من Wail أن ينتظر حتى يصبح الوعد مثاليًا.",
+        "عندما يعود Quest، يقوم Adore بمقارنة الختم المنسوخ مع كتاب المرفأ. يشير الختم إلى ورشة جزيرة Nacre، وليس المرسى على البر الرئيسي الذي يحمل علامة مماثلة. إنهم يعرفون الآن أي عبارة يجب أن يستقلوها وأي شباك يجب أن يطلبوه.",
+        "بعد ظهر ذلك اليوم، استقل الستة جميعًا العبارة الساحلية في ميناء Orin. يتم إدخال الإيصال المنسوخ في علبة العدسة الأولى. إنهم يتبعون مسار العدسة الثانية، ولا يحملون عدسة ثانية بالفعل.",
+        "في ذلك المساء في Meadowfold، توقف Hope مؤقتًا قبل المغادرة. يطلب Rain بقاء المصباح على حامله، وليس بقاء Hope حتى ينهكه التعب. يمكن الترحيب بالصحبة دون أن تصبح واجبًا لا ينتهي أبدًا."
+      ],
+      "captions": [
+        "في صباح اليوم التالي، ترك Quest الإيصال مع Adore، الذي يحتفظ بالكتاب المرجعي للميناء. خارج نفس الورشة، ينتظر Wail لسبب مختلف: زيارة الشاي الموعودة بالأمس لم تحدث أبدًا.\n\nWail: \"اعتقدت أنك ستأتي بالأمس.\"",
+        "يضع Adore القماش جانبًا ويبتعد عن الزهور غير المكتملة. لقد حل التحضير لزيارة مثالية محل الوصول الفعلي. Wail كان ينتظر الصحبة، لا تنسيق الزهور.\n\nAdore: \"ظللت أخطط لزيارة مثالية. ثم لم أحضر على الإطلاق.\"",
+        "Wail يطلب شيئًا أصغر من الكمال. كوبان عاديان يكفيان لتوضيح الدعوة. إنه يطلب زيارة يستطيع Adore الوفاء بوعدها، ولا يطلب منه أن يملأ كل ساعة فارغة.\n\nWail: \"فقط تعال. ولو لشرب الشاي.\"",
+        "يجلس Adore الآن ويوافق على العودة غدًا بعد جرس العبارة. يمكن أن تظل الزهور غير مكتملة. لا يتعين على أول كوب شاي من Wail أن ينتظر حتى يصبح الوعد مثاليًا.\n\nAdore: \"غدًا، بعد جرس العبارة. ولدي الوقت الآن لتناول هذا الكوب.\"",
+        "عندما يعود Quest، يقوم Adore بمقارنة الختم المنسوخ مع كتاب المرفأ. يشير الختم إلى ورشة جزيرة Nacre، وليس المرسى على البر الرئيسي الذي يحمل علامة مماثلة. إنهم يعرفون الآن أي عبارة يجب أن يستقلوها وأي شباك يجب أن يطلبوه.\n\nAdore: \"Nacre - ورشة الجزيرة. هذا هو شباك الوصول الذي تحتاجه.\"",
+        "بعد ظهر ذلك اليوم، استقل الستة جميعًا العبارة الساحلية في ميناء Orin. يتم إدخال الإيصال المنسوخ في علبة العدسة الأولى. إنهم يتبعون مسار العدسة الثانية، ولا يحملون عدسة ثانية بالفعل.\n\nBash: \"على متنها ستة أشخاص. المحطة التالية: رصيف جزيرة Nacre.\"",
+        "في ذلك المساء في Meadowfold، توقف Hope مؤقتًا قبل المغادرة. يطلب Rain بقاء المصباح على حامله، وليس بقاء Hope حتى ينهكه التعب. يمكن الترحيب بالصحبة دون أن تصبح واجبًا لا ينتهي أبدًا.\n\nRain: \"اترك المصباح في مكان قريب. ليس عليك البقاء طوال المساء.\""
+      ],
+      "introduction": "يحتاج ختم ميناء Sigh غير الواضح إلى فحص أخير قبل العبارة بعد الظهر. يتم الاحتفاظ بكتاب المرفأ المحلي في ورشة الزجاج Adore بجوار الحديقة. هناك، تشغل الزيارة المؤجلة Wail بقدر ما تشغل الوجهة التالية المسافرين.",
+      "title": "الزائر الذي لم يلاحظه أحد"
+    },
+    "bn": {
+      "altTexts": [
+        "পরদিন সকালে Quest রসিদটি Adore-এর কাছে রেখে যায়। বন্দরের তথ্যের বইটি Adore-ই রাখে। একই কারখানার বাইরে Wail অন্য কারণে অপেক্ষা করছে। কাল একসঙ্গে চা খাওয়ার কথা ছিল, কিন্তু Adore আসেনি।",
+        "Adore কাজের কাপড়টি নামিয়ে অসমাপ্ত ফুলের কাজ থেকে সরে আসে। দেখা করার নিখুঁত প্রস্তুতি নিতে নিতে আসল দেখাই হয়নি। Wail সঙ্গ চেয়েছিল, সাজানো আয়োজন নয়।",
+        "Wail নিখুঁত কিছুর চেয়ে ছোট একটি অনুরোধ করে। দুটি সাধারণ কাপই আমন্ত্রণটি বুঝিয়ে দেয়। Adore রাখতে পারবে এমন একটি দেখা করার কথা চায় সে, প্রতিটি ফাঁকা সময় ভরে দিতে বলে না।",
+        "Adore এখনই বসে, আর কাল ফেরির ঘণ্টা বাজার পরে আবার আসবে বলে। ফুলের কাজ অসমাপ্ত থাকতে পারে। একসঙ্গে প্রথম কাপ চা খাওয়ার জন্য নিখুঁত প্রতিশ্রুতির অপেক্ষা করতে হবে না।",
+        "Quest ফিরলে Adore নকল সিলটি বন্দরের বইয়ের সঙ্গে মেলায়। এটি Nacre দ্বীপের কারখানার সিল, একই রকম চিহ্নওয়ালা মূল ভূখণ্ডের ঘাটের নয়। এবার কোন ফেরি আর কোন আগমন কাউন্টারে যেতে হবে, তা জানা গেল।",
+        "সেই বিকেলে ছয়জনই Orin বন্দরে উপকূলের ফেরিতে ওঠে। প্রথম লেন্সের সঙ্গে রসিদের নকলটিও বাক্সে রাখা হয়। তারা দ্বিতীয় লেন্সের পথ খুঁজছে; দ্বিতীয় লেন্স এখনও তাদের কাছে নেই।",
+        "সেই সন্ধ্যায় Meadowfold-এ Hope যাওয়ার আগে একটু দাঁড়ায়। Rain চায়, বাতিটি তার জায়গায় থাকুক। Hope-কে ক্লান্ত হয়ে পড়া পর্যন্ত থাকতে বলে না। কারও সঙ্গ ভালো লাগা মানে তাকে অন্তহীন দায়িত্বে বেঁধে রাখা নয়।"
+      ],
+      "captions": [
+        "পরদিন সকালে Quest রসিদটি Adore-এর কাছে রেখে যায়। বন্দরের তথ্যের বইটি Adore-ই রাখে। একই কারখানার বাইরে Wail অন্য কারণে অপেক্ষা করছে। কাল একসঙ্গে চা খাওয়ার কথা ছিল, কিন্তু Adore আসেনি।\n\nWail: \"ভেবেছিলাম কাল আসবে।\"",
+        "Adore কাজের কাপড়টি নামিয়ে অসমাপ্ত ফুলের কাজ থেকে সরে আসে। দেখা করার নিখুঁত প্রস্তুতি নিতে নিতে আসল দেখাই হয়নি। Wail সঙ্গ চেয়েছিল, সাজানো আয়োজন নয়।\n\nAdore: \"সব নিখুঁত করে আসব ভাবছিলাম। শেষে আসাই হলো না।\"",
+        "Wail নিখুঁত কিছুর চেয়ে ছোট একটি অনুরোধ করে। দুটি সাধারণ কাপই আমন্ত্রণটি বুঝিয়ে দেয়। Adore রাখতে পারবে এমন একটি দেখা করার কথা চায় সে, প্রতিটি ফাঁকা সময় ভরে দিতে বলে না।\n\nWail: \"এমনিই এসো। শুধু চা খেতে হলেও।\"",
+        "Adore এখনই বসে, আর কাল ফেরির ঘণ্টা বাজার পরে আবার আসবে বলে। ফুলের কাজ অসমাপ্ত থাকতে পারে। একসঙ্গে প্রথম কাপ চা খাওয়ার জন্য নিখুঁত প্রতিশ্রুতির অপেক্ষা করতে হবে না।\n\nAdore: \"কাল ফেরির ঘণ্টার পরে আসব। আর এখন এই কাপ চা খাওয়ার সময় আছে।\"",
+        "Quest ফিরলে Adore নকল সিলটি বন্দরের বইয়ের সঙ্গে মেলায়। এটি Nacre দ্বীপের কারখানার সিল, একই রকম চিহ্নওয়ালা মূল ভূখণ্ডের ঘাটের নয়। এবার কোন ফেরি আর কোন আগমন কাউন্টারে যেতে হবে, তা জানা গেল।\n\nAdore: \"Nacre-এর দ্বীপের কারখানা। সেখানে এই আগমন কাউন্টারে যাবেন।\"",
+        "সেই বিকেলে ছয়জনই Orin বন্দরে উপকূলের ফেরিতে ওঠে। প্রথম লেন্সের সঙ্গে রসিদের নকলটিও বাক্সে রাখা হয়। তারা দ্বিতীয় লেন্সের পথ খুঁজছে; দ্বিতীয় লেন্স এখনও তাদের কাছে নেই।\n\nBash: \"ছয়জনই উঠেছি। পরের ঘাট Nacre দ্বীপে।\"",
+        "সেই সন্ধ্যায় Meadowfold-এ Hope যাওয়ার আগে একটু দাঁড়ায়। Rain চায়, বাতিটি তার জায়গায় থাকুক। Hope-কে ক্লান্ত হয়ে পড়া পর্যন্ত থাকতে বলে না। কারও সঙ্গ ভালো লাগা মানে তাকে অন্তহীন দায়িত্বে বেঁধে রাখা নয়।\n\nRain: \"বাতিটা কাছেই রেখে যেয়ো। তোমাকে সারা সন্ধ্যা থাকতে হবে না।\""
+      ],
+      "introduction": "বিকেলের ফেরিতে ওঠার আগে Sigh-এর রসিদের ঝাপসা বন্দরের সিলটি যাচাই করতে হবে। বন্দরের তথ্যের বই বাগানের পাশের Adore-এর কাচের কারখানায় আছে। বন্ধুদের কাছে পরের গন্তব্য যত জরুরি, Wail-এর কাছে ততটাই জরুরি না-হওয়া একটি দেখা।",
+      "title": "যে অতিথির অপেক্ষা কেউ দেখেনি"
+    },
+    "cs": {
+      "altTexts": [
+        "Druhý den ráno Quest nechá doklad u Adore; v této dílně je uložená přístavní příručka. Před toutéž dílnou čeká Wail z jiného důvodu: včera slíbená návštěva na čaj se neuskutečnila.",
+        "Adore odloží hadřík a odvrátí se od nedokončených květin. Příprava dokonalé návštěvy nahradila skutečný příchod. Wail čekal na společnost, ne na květinové aranžmá.",
+        "Wail žádá něco menšího než dokonalost. Dva obyčejné šálky stačí, aby bylo pozvání jasné. Prosí o návštěvu, kterou Adore dokáže dodržet, ne o vyplnění každé prázdné hodiny.",
+        "Adore se posadí a slíbí, že zítra po zvonu přívozu přijde znovu. Květiny mohou zůstat nedokončené. Na první společný šálek čaje nemusí Wail čekat, až bude slib dokonalý.",
+        "Když se Quest vrátí, Adore porovná kopii razítka s přístavní příručkou. Označuje ostrovní dílnu v Nacre, nikoli podobně značené přístaviště na pevnině. Teď vědí, kterým trajektem jet a na jakou přepážku se ptát.",
+        "Toho odpoledne se všech šest nalodí na pobřežní trajekt v přístavu Orin. Kopie dokladu putuje do pouzdra k první čočce. Sledují cestu druhé čočky — samotnou druhou čočku ještě nevezou.",
+        "Toho večera se Hope na louce Meadowfold před odchodem zastaví. Rain požádá, aby lampa zůstala na stojanu, ne aby Hope zůstal až do vyčerpání. Společnost může být vítaná, aniž by se stala povinností bez konce."
+      ],
+      "captions": [
+        "Druhý den ráno Quest nechá doklad u Adore; v této dílně je uložená přístavní příručka. Před toutéž dílnou čeká Wail z jiného důvodu: včera slíbená návštěva na čaj se neuskutečnila.\n\nWail: „Myslel jsem, že přijdeš včera.“",
+        "Adore odloží hadřík a odvrátí se od nedokončených květin. Příprava dokonalé návštěvy nahradila skutečný příchod. Wail čekal na společnost, ne na květinové aranžmá.\n\nAdore: „Pořád bylo co plánovat, aby návštěva byla dokonalá. Nakonec na ni vůbec nedošlo.“",
+        "Wail žádá něco menšího než dokonalost. Dva obyčejné šálky stačí, aby bylo pozvání jasné. Prosí o návštěvu, kterou Adore dokáže dodržet, ne o vyplnění každé prázdné hodiny.\n\nWail: „Prostě přijď. Třeba jen na čaj.“",
+        "Adore se posadí a slíbí, že zítra po zvonu přívozu přijde znovu. Květiny mohou zůstat nedokončené. Na první společný šálek čaje nemusí Wail čekat, až bude slib dokonalý.\n\nAdore: „Zítra po zvonu přívozu. A na tenhle šálek mám čas už teď.“",
+        "Když se Quest vrátí, Adore porovná kopii razítka s přístavní příručkou. Označuje ostrovní dílnu v Nacre, nikoli podobně značené přístaviště na pevnině. Teď vědí, kterým trajektem jet a na jakou přepážku se ptát.\n\nAdore: „Nacre — ostrovní dílna. Tuhle příjmovou přepážku potřebujete.“",
+        "Toho odpoledne se všech šest nalodí na pobřežní trajekt v přístavu Orin. Kopie dokladu putuje do pouzdra k první čočce. Sledují cestu druhé čočky — samotnou druhou čočku ještě nevezou.\n\nBash: „Všech šest na palubě. Příští zastávka: ostrovní nábřeží v Nacre.“",
+        "Toho večera se Hope na louce Meadowfold před odchodem zastaví. Rain požádá, aby lampa zůstala na stojanu, ne aby Hope zůstal až do vyčerpání. Společnost může být vítaná, aniž by se stala povinností bez konce.\n\nRain: „Nech lampu poblíž. Nemusíš zůstávat celý večer.“"
+      ],
+      "introduction": "Rozmazané přístavní razítko na Sighově dokladu vyžaduje před odpoledním trajektem poslední kontrolu. Místní přístavní příručku uchovává Adore ve sklářské dílně vedle zahrady. Opožděná návštěva je tam pro Waila stejně důležitá jako další cíl pro cestovatele.",
+      "title": "Návštěva, které si nikdo nevšiml"
+    },
+    "de": {
+      "altTexts": [
+        "Am nächsten Morgen hinterlässt Quest die Quittung bei Adore, der das Hafenbuch führt. Außerhalb derselben Werkstatt wartet Wail aus einem anderen Grund: Ein gestern versprochener Teebesuch fand nie statt.",
+        "Adore legt das Tuch ab und wendet sich von den unvollendeten Blumen ab. Die Vorbereitung eines perfekten Besuchs ist an die Stelle des tatsächlichen Ankommens getreten. Wail hat auf Gesellschaft gewartet, nicht auf ein Blumenarrangement.",
+        "Wail verlangt etwas Kleineres als Perfektion. Zwei gewöhnliche Tassen reichen aus, um die Einladung deutlich zu machen. Die Anfrage bezieht sich auf einen Besuch, den Adore tatsächlich einhalten kann, und nicht darauf, dass jede leere Stunde gefüllt wird.",
+        "Adore setzt sich jetzt hin und willigt ein, morgen nach dem Glockenläuten der Fähre zurückzukehren. Die Blumen können unvollendet bleiben. Die erste Tasse Tee von Wail muss nicht darauf warten, dass das Versprechen perfekt wird.",
+        "Als Quest zurückkehrt, vergleicht Adore den kopierten Stempel mit dem Hafenbuch. Es nennt die Inselwerkstatt von Nacre, nicht den ähnlich gekennzeichneten Anleger auf dem Festland. Sie wissen jetzt, welche Fähre sie nehmen und nach welchem Schalter sie fragen müssen.",
+        "An diesem Nachmittag besteigen alle sechs die Küstenfähre im Hafen von Orin. Der kopierte Beleg kommt mit der ersten Linse in das Etui. Sie folgen dem Weg der zweiten Linse – ohne bereits eine zweite Linse bei sich zu haben.",
+        "An diesem Abend macht Hope bei Meadowfold eine Pause, bevor er geht. Rain verlangt, dass die Lampe auf ihrem Ständer bleibt, und nicht, dass Hope bis zur Erschöpfung bleibt. Gesellschaft kann willkommen sein, ohne zu einer Pflicht zu werden, die niemals endet."
+      ],
+      "captions": [
+        "Am nächsten Morgen hinterlässt Quest die Quittung bei Adore, der das Hafenbuch führt. Außerhalb derselben Werkstatt wartet Wail aus einem anderen Grund: Ein gestern versprochener Teebesuch fand nie statt.\n\nWail: „Ich dachte, du würdest gestern kommen.“",
+        "Adore legt das Tuch ab und wendet sich von den unvollendeten Blumen ab. Die Vorbereitung eines perfekten Besuchs ist an die Stelle des tatsächlichen Ankommens getreten. Wail hat auf Gesellschaft gewartet, nicht auf ein Blumenarrangement.\n\nAdore: „Ich habe immer einen perfekten Besuch geplant. Dann bin ich gar nicht gekommen.“",
+        "Wail verlangt etwas Kleineres als Perfektion. Zwei gewöhnliche Tassen reichen aus, um die Einladung deutlich zu machen. Die Anfrage bezieht sich auf einen Besuch, den Adore tatsächlich einhalten kann, und nicht darauf, dass jede leere Stunde gefüllt wird.\n\nWail: „Komm einfach. Und wenn es nur zum Tee ist.“",
+        "Adore setzt sich jetzt hin und willigt ein, morgen nach dem Glockenläuten der Fähre zurückzukehren. Die Blumen können unvollendet bleiben. Die erste Tasse Tee von Wail muss nicht darauf warten, dass das Versprechen perfekt wird.\n\nAdore: „Morgen, nach dem Fährläuten. Und ich habe jetzt Zeit für diese Tasse.“",
+        "Als Quest zurückkehrt, vergleicht Adore den kopierten Stempel mit dem Hafenbuch. Es nennt die Inselwerkstatt von Nacre, nicht den ähnlich gekennzeichneten Anleger auf dem Festland. Sie wissen jetzt, welche Fähre sie nehmen und nach welchem Schalter sie fragen müssen.\n\nAdore: „Nacre – die Inselwerkstatt. Das ist der Ankunftsschalter, den ihr braucht.“",
+        "An diesem Nachmittag besteigen alle sechs die Küstenfähre im Hafen von Orin. Der kopierte Beleg kommt mit der ersten Linse in das Etui. Sie folgen dem Weg der zweiten Linse – ohne bereits eine zweite Linse bei sich zu haben.\n\nBash: „Sechs an Bord. Nächster Halt: Inselkai von Nacre.“",
+        "An diesem Abend macht Hope bei Meadowfold eine Pause, bevor er geht. Rain verlangt, dass die Lampe auf ihrem Ständer bleibt, und nicht, dass Hope bis zur Erschöpfung bleibt. Gesellschaft kann willkommen sein, ohne zu einer Pflicht zu werden, die niemals endet.\n\nRain: „Lass die Lampe in der Nähe. Du musst nicht den ganzen Abend bleiben.“"
+      ],
+      "introduction": "Der verschwommene Hafenstempel von Sigh muss vor der Nachmittagsfähre noch einmal überprüft werden. Das örtliche Hafenbuch wird in der Glaswerkstatt von Adore neben dem Garten aufbewahrt. Dort ist ein verspäteter Besuch für Wail genauso wichtig wie das nächste Ziel für die Reisenden.",
+      "title": "Der Besucher, den niemand bemerkte"
+    },
+    "en": {
+      "altTexts": [
+        "The next morning, Quest leaves the receipt with Adore, who keeps the harbor reference book. Outside the same workshop, Wail is waiting for a different reason: a tea visit promised yesterday never happened.",
+        "Adore puts down the cloth and turns away from the unfinished flowers. Preparing a perfect visit has taken the place of actually arriving. Wail has been waiting for company, not an arrangement.",
+        "Wail asks for something smaller than perfection. Two ordinary cups are enough to make the invitation clear. The request is for a visit Adore can keep, not for every empty hour to be filled.",
+        "Adore sits down now and agrees to return tomorrow after the ferry bell. The flowers can remain unfinished. Wail's first cup of tea does not have to wait for the promise to become perfect.",
+        "When Quest returns, Adore compares the copied stamp with the harbor book. It names Nacre's island workshop, not the similarly marked mainland landing. They now know which ferry to take and which counter to ask for.",
+        "That afternoon, all six board the coastal ferry at Orin's harbor. The copied receipt goes into the case with the first lens. They are following the second lens's route—not carrying a second lens already.",
+        "That evening at Meadowfold, Hope pauses before leaving. Rain asks for the lamp to stay on its stand, not for Hope to stay until exhaustion. Company can be welcome without becoming a duty that never ends."
+      ],
+      "captions": [
+        "The next morning, Quest leaves the receipt with Adore, who keeps the harbor reference book. Outside the same workshop, Wail is waiting for a different reason: a tea visit promised yesterday never happened.\n\nWail: “I thought you were coming yesterday.”",
+        "Adore puts down the cloth and turns away from the unfinished flowers. Preparing a perfect visit has taken the place of actually arriving. Wail has been waiting for company, not an arrangement.\n\nAdore: “I kept planning a perfect visit. Then I didn't come at all.”",
+        "Wail asks for something smaller than perfection. Two ordinary cups are enough to make the invitation clear. The request is for a visit Adore can keep, not for every empty hour to be filled.\n\nWail: “Just come. Even for tea.”",
+        "Adore sits down now and agrees to return tomorrow after the ferry bell. The flowers can remain unfinished. Wail's first cup of tea does not have to wait for the promise to become perfect.\n\nAdore: “Tomorrow, after the ferry bell. And I have time for this cup now.”",
+        "When Quest returns, Adore compares the copied stamp with the harbor book. It names Nacre's island workshop, not the similarly marked mainland landing. They now know which ferry to take and which counter to ask for.\n\nAdore: “Nacre—the island workshop. This is the arrival counter you need.”",
+        "That afternoon, all six board the coastal ferry at Orin's harbor. The copied receipt goes into the case with the first lens. They are following the second lens's route—not carrying a second lens already.\n\nBash: “Six aboard. Next stop: Nacre's island quay.”",
+        "That evening at Meadowfold, Hope pauses before leaving. Rain asks for the lamp to stay on its stand, not for Hope to stay until exhaustion. Company can be welcome without becoming a duty that never ends.\n\nRain: “Leave the lamp nearby. You don't have to stay all evening.”"
+      ],
+      "introduction": "Sigh's blurred port stamp needs one final check before the afternoon ferry. The local harbor book is kept in Adore's glass workshop beside the garden. There, a delayed visit matters as much to Wail as the next destination matters to the travelers.",
+      "title": "The Visitor Nobody Noticed"
+    },
+    "es": {
+      "altTexts": [
+        "A la mañana siguiente, Quest deja el recibo a Adore, quien lleva el libro de referencia del puerto. Fuera del mismo taller, Wail espera por un motivo diferente: una visita para tomar el té prometida ayer nunca se produjo.",
+        "Adore deja la tela y se aleja de las flores sin terminar. Preparar una visita perfecta ha sustituido a la llegada. Wail ha estado esperando compañía, no un arreglo floral.",
+        "Wail pide algo más pequeño que la perfección. Dos tazas normales son suficientes para que la invitación quede clara. La solicitud es para una visita que Adore pueda cumplir, no para llenar cada hora vacía.",
+        "Adore se sienta ahora y acepta regresar mañana después de la campana del ferry. Las flores pueden quedar sin terminar. La primera taza de té de Wail no tiene que esperar a que la promesa se vuelva perfecta.",
+        "Cuando regresa Quest, Adore compara el sello copiado con el libro del puerto. Nombra el taller de la isla de Nacre, no el embarcadero continental con una marca parecida. Ahora saben qué ferry tomar y en qué mostrador preguntar.",
+        "Esa tarde, los seis abordan el ferry costero en el puerto de Orin. El recibo copiado se guarda en el estuche con la primera lente. Están siguiendo la ruta de la segunda lente: todavía no llevan esa segunda lente.",
+        "Esa noche en Meadowfold, Hope hace una pausa antes de partir. Rain pide que la lámpara se quede en su soporte, no que Hope se quede hasta agotarse. La compañía puede ser bienvenida sin convertirse en un deber que nunca termina."
+      ],
+      "captions": [
+        "A la mañana siguiente, Quest deja el recibo a Adore, quien lleva el libro de referencia del puerto. Fuera del mismo taller, Wail espera por un motivo diferente: una visita para tomar el té prometida ayer nunca se produjo.\n\nWail: \"Pensé que vendrías ayer\".",
+        "Adore deja la tela y se aleja de las flores sin terminar. Preparar una visita perfecta ha sustituido a la llegada. Wail ha estado esperando compañía, no un arreglo floral.\n\nAdore: “Seguí planeando una visita perfecta y luego no vine”.",
+        "Wail pide algo más pequeño que la perfección. Dos tazas normales son suficientes para que la invitación quede clara. La solicitud es para una visita que Adore pueda cumplir, no para llenar cada hora vacía.\n\nWail: \"Solo ven. Incluso para tomar el té\".",
+        "Adore se sienta ahora y acepta regresar mañana después de la campana del ferry. Las flores pueden quedar sin terminar. La primera taza de té de Wail no tiene que esperar a que la promesa se vuelva perfecta.\n\nAdore: \"Mañana, después de la campana del ferry. Y ahora tengo tiempo para esta taza\".",
+        "Cuando regresa Quest, Adore compara el sello copiado con el libro del puerto. Nombra el taller de la isla de Nacre, no el embarcadero continental con una marca parecida. Ahora saben qué ferry tomar y en qué mostrador preguntar.\n\nAdore: \"Nacre: el taller de la isla. Este es el mostrador de llegadas que necesitas\".",
+        "Esa tarde, los seis abordan el ferry costero en el puerto de Orin. El recibo copiado se guarda en el estuche con la primera lente. Están siguiendo la ruta de la segunda lente: todavía no llevan esa segunda lente.\n\nBash: \"Seis a bordo. Próxima parada: el muelle de la isla de Nacre\".",
+        "Esa noche en Meadowfold, Hope hace una pausa antes de partir. Rain pide que la lámpara se quede en su soporte, no que Hope se quede hasta agotarse. La compañía puede ser bienvenida sin convertirse en un deber que nunca termina.\n\nRain: \"Deja la lámpara cerca. No tienes que quedarte toda la noche\"."
+      ],
+      "introduction": "El sello borroso del puerto de Sigh necesita una última revisión antes del ferry de la tarde. El libro del puerto local se guarda en el taller de vidrio de Adore, junto al jardín. Allí, una visita retrasada es tan importante para Wail como el próximo destino para los viajeros.",
+      "title": "El visitante que nadie notó"
+    },
+    "fr": {
+      "altTexts": [
+        "Le lendemain matin, Quest confie le récépissé à Adore, qui tient le livre de référence du port. À l'extérieur du même atelier, Wail attend pour une autre raison : une visite pour prendre le thé promise pour la veille n'a jamais eu lieu.",
+        "Adore dépose le tissu et se détourne des fleurs inachevées. Préparer une visite parfaite a remplacé l'arrivée réelle. Wail attend de la compagnie, pas un arrangement floral.",
+        "Wail demande quelque chose de plus petit que la perfection. Deux tasses ordinaires suffisent pour que l'invitation soit claire. Wail demande une visite qu'Adore pourra vraiment faire, sans lui demander de remplir chaque heure de solitude.",
+        "Adore s'assoit maintenant et accepte de revenir demain après la cloche du ferry. Les fleurs peuvent rester inachevées. La première tasse de thé de Wail n'a pas besoin d'attendre que la promesse devienne parfaite.",
+        "Lorsque Quest revient, Adore compare la copie du cachet avec le livret du port. Il nomme l'atelier de l'île de Nacre, pas le débarcadère continental au marquage semblable. Ils savent désormais quel ferry prendre et à quel guichet demander.",
+        "Cet après-midi-là, tous les six montent à bord du ferry côtier au port d'Orin. Le reçu copié est placé dans l'étui contenant la première lentille. Ils suivent l'itinéraire de la deuxième lentille ; cette seconde lentille n'est pas encore avec eux.",
+        "Ce soir-là à Meadowfold, Hope fait une pause avant de partir. Rain demande que la lampe reste sur son support, et non que Hope reste jusqu'à épuisement. La compagnie peut être la bienvenue sans devenir un devoir qui ne finit jamais."
+      ],
+      "captions": [
+        "Le lendemain matin, Quest confie le récépissé à Adore, qui tient le livre de référence du port. À l'extérieur du même atelier, Wail attend pour une autre raison : une visite pour prendre le thé promise pour la veille n'a jamais eu lieu.\n\nWail : « Je pensais que tu venais hier. »",
+        "Adore dépose le tissu et se détourne des fleurs inachevées. Préparer une visite parfaite a remplacé l'arrivée réelle. Wail attend de la compagnie, pas un arrangement floral.\n\nAdore : « Je planifiais toujours une visite parfaite. Et finalement, la visite n'a pas eu lieu. »",
+        "Wail demande quelque chose de plus petit que la perfection. Deux tasses ordinaires suffisent pour que l'invitation soit claire. Wail demande une visite qu'Adore pourra vraiment faire, sans lui demander de remplir chaque heure de solitude.\n\nWail : « Viens. Même pour le thé. »",
+        "Adore s'assoit maintenant et accepte de revenir demain après la cloche du ferry. Les fleurs peuvent rester inachevées. La première tasse de thé de Wail n'a pas besoin d'attendre que la promesse devienne parfaite.\n\nAdore : « Demain, après la cloche du ferry. Et j'ai le temps pour cette tasse maintenant. »",
+        "Lorsque Quest revient, Adore compare la copie du cachet avec le livret du port. Il nomme l'atelier de l'île de Nacre, pas le débarcadère continental au marquage semblable. Ils savent désormais quel ferry prendre et à quel guichet demander.\n\nAdore : « Nacre : l'atelier de l'île. C'est le comptoir d'arrivée dont vous avez besoin. »",
+        "Cet après-midi-là, tous les six montent à bord du ferry côtier au port d'Orin. Le reçu copié est placé dans l'étui contenant la première lentille. Ils suivent l'itinéraire de la deuxième lentille ; cette seconde lentille n'est pas encore avec eux.\n\nBash : « Six à bord. Prochain arrêt : le quai de l'île de Nacre. »",
+        "Ce soir-là à Meadowfold, Hope fait une pause avant de partir. Rain demande que la lampe reste sur son support, et non que Hope reste jusqu'à épuisement. La compagnie peut être la bienvenue sans devenir un devoir qui ne finit jamais.\n\nRain : « Laisse la lampe à proximité. Tu n'as pas besoin de rester toute la soirée. »"
+      ],
+      "introduction": "Le cachet flou du port de Sigh nécessite une dernière vérification avant le ferry de l'après-midi. Le livre du port local est conservé dans l'atelier de verre d'Adore, à côté du jardin. Là-bas, une visite retardée compte autant pour Wail que la prochaine destination compte pour les voyageurs.",
+      "title": "Le visiteur que personne n'a remarqué"
+    },
+    "hi": {
+      "altTexts": [
+        "अगली सुबह Quest रसीद Adore के पास छोड़ता है, जो बंदरगाह की जानकारी वाली किताब रखता है। उसी कार्यशाला के बाहर Wail दूसरे कारण से रुकता है। कल साथ चाय पीने का वादा था, मगर Adore आया ही नहीं।",
+        "Adore काम का कपड़ा रखकर अधूरे फूलों से हटता है। मुलाकात बिल्कुल सही बनाने की तैयारी में मुलाकात ही नहीं हुई। Wail साथ चाहता था, सजी हुई व्यवस्था नहीं।",
+        "Wail पूर्णता से छोटी बात माँगता है। दो साधारण कप बुलावा समझाने को काफी हैं। वह मिलने का ऐसा वादा चाहता है जिसे Adore निभा सके, हर खाली घड़ी भरने का नहीं।",
+        "Adore अभी बैठता है और कल नौका की घंटी के बाद लौटने को कहता है। फूलों का काम अधूरा रह सकता है। पहली चाय के लिए बिल्कुल सही वादे का इंतज़ार ज़रूरी नहीं।",
+        "Quest लौटता है तो Adore मुहर की प्रति बंदरगाह की किताब से मिलाता है। यह Nacre द्वीप की कार्यशाला का निशान है, मिलते-जुलते निशान वाले मुख्य भूमि के घाट का नहीं। अब सही नौका और आगमन काउंटर पता हैं।",
+        "उस दोपहर छहों Orin बंदरगाह से तटीय नौका में चढ़ते हैं। रसीद की प्रति पहले लेंस के साथ बक्से में रखी है। वे दूसरे लेंस का रास्ता खोज रहे हैं; वह अभी उनके पास नहीं है।",
+        "उस शाम Meadowfold में Hope जाने से पहले रुकता है। Rain लैंप पास छोड़ने को कहता है, Hope को थकने तक रुकने को नहीं। साथ अच्छा लगने का मतलब कभी न खत्म होने वाली ज़िम्मेदारी नहीं।"
+      ],
+      "captions": [
+        "अगली सुबह Quest रसीद Adore के पास छोड़ता है, जो बंदरगाह की जानकारी वाली किताब रखता है। उसी कार्यशाला के बाहर Wail दूसरे कारण से रुकता है। कल साथ चाय पीने का वादा था, मगर Adore आया ही नहीं।\n\nWail: \"सोचा था कल आओगे।\"",
+        "Adore काम का कपड़ा रखकर अधूरे फूलों से हटता है। मुलाकात बिल्कुल सही बनाने की तैयारी में मुलाकात ही नहीं हुई। Wail साथ चाहता था, सजी हुई व्यवस्था नहीं।\n\nAdore: \"सब बढ़िया करके आने की सोचता रहा। आखिर आया ही नहीं।\"",
+        "Wail पूर्णता से छोटी बात माँगता है। दो साधारण कप बुलावा समझाने को काफी हैं। वह मिलने का ऐसा वादा चाहता है जिसे Adore निभा सके, हर खाली घड़ी भरने का नहीं।\n\nWail: \"बस आ जाओ। केवल चाय के लिए भी।\"",
+        "Adore अभी बैठता है और कल नौका की घंटी के बाद लौटने को कहता है। फूलों का काम अधूरा रह सकता है। पहली चाय के लिए बिल्कुल सही वादे का इंतज़ार ज़रूरी नहीं।\n\nAdore: \"कल घंटी के बाद आऊँगा। और अभी इस चाय का समय है।\"",
+        "Quest लौटता है तो Adore मुहर की प्रति बंदरगाह की किताब से मिलाता है। यह Nacre द्वीप की कार्यशाला का निशान है, मिलते-जुलते निशान वाले मुख्य भूमि के घाट का नहीं। अब सही नौका और आगमन काउंटर पता हैं।\n\nAdore: \"Nacre की द्वीप वाली कार्यशाला। वहाँ इस आगमन काउंटर पर जाइए।\"",
+        "उस दोपहर छहों Orin बंदरगाह से तटीय नौका में चढ़ते हैं। रसीद की प्रति पहले लेंस के साथ बक्से में रखी है। वे दूसरे लेंस का रास्ता खोज रहे हैं; वह अभी उनके पास नहीं है।\n\nBash: \"छहों सवार हैं। अगला पड़ाव Nacre द्वीप का घाट।\"",
+        "उस शाम Meadowfold में Hope जाने से पहले रुकता है। Rain लैंप पास छोड़ने को कहता है, Hope को थकने तक रुकने को नहीं। साथ अच्छा लगने का मतलब कभी न खत्म होने वाली ज़िम्मेदारी नहीं।\n\nRain: \"लैंप पास छोड़ देना। तुम्हें पूरी शाम रुकना नहीं है।\""
+      ],
+      "introduction": "दोपहर की नौका से पहले Sigh की रसीद की धुँधली मुहर जाँचनी है। बंदरगाह की जानकारी वाली किताब बगीचे के पास Adore की काँच की कार्यशाला में है। वहाँ Wail के लिए टली मुलाकात उतनी ही ज़रूरी है जितना दोस्तों के लिए अगला पता।",
+      "title": "वह मेहमान जिस पर ध्यान नहीं गया"
+    },
+    "id": {
+      "altTexts": [
+        "Keesokan paginya, Quest menitipkan kwitansi kepada Adore yang menyimpan buku referensi pelabuhan. Di luar bengkel yang sama, Wail menunggu dengan alasan berbeda: kunjungan minum teh yang dijanjikan kemarin tidak pernah terjadi.",
+        "Adore meletakkan kain dan berpaling dari bunga yang belum selesai. Mempersiapkan kunjungan yang sempurna telah menggantikan kedatangan yang sebenarnya. Wail menunggu ditemani, bukan menunggu rangkaian bunga.",
+        "Wail meminta sesuatu yang lebih kecil dari kesempurnaan. Dua cangkir biasa sudah cukup untuk memperjelas undangannya. Permintaannya agar kunjungan Adore dapat dipenuhi, bukan untuk diisi setiap jam kosong.",
+        "Adore duduk sekarang dan setuju untuk kembali besok setelah bel feri. Bunganya mungkin masih belum selesai. Secangkir teh pertama Wail tidak harus menunggu janji untuk menjadi sempurna.",
+        "Ketika Quest kembali, Adore membandingkan stempel yang disalin dengan buku pelabuhan. Buku itu menyebut bengkel di pulau Nacre, bukan dermaga di daratan yang diberi tanda serupa. Mereka sekarang tahu feri mana yang harus diambil dan loket mana yang harus mereka datangi.",
+        "Sore itu, keenamnya menaiki kapal feri pantai di pelabuhan Orin. Tanda terima yang disalin dimasukkan ke dalam kotak dengan lensa pertama. Mereka mengikuti jalur lensa kedua—bukannya sudah membawa lensa kedua.",
+        "Malam itu di Meadowfold, Hope berhenti sejenak sebelum berangkat. Rain meminta lampu tetap pada dudukannya, bukan meminta Hope tinggal sampai kelelahan. Kebersamaan bisa disambut tanpa menjadi suatu tugas yang tidak pernah berakhir."
+      ],
+      "captions": [
+        "Keesokan paginya, Quest menitipkan kwitansi kepada Adore yang menyimpan buku referensi pelabuhan. Di luar bengkel yang sama, Wail menunggu dengan alasan berbeda: kunjungan minum teh yang dijanjikan kemarin tidak pernah terjadi.\n\nWail: “Aku pikir kamu akan datang kemarin.”",
+        "Adore meletakkan kain dan berpaling dari bunga yang belum selesai. Mempersiapkan kunjungan yang sempurna telah menggantikan kedatangan yang sebenarnya. Wail menunggu ditemani, bukan menunggu rangkaian bunga.\n\nAdore: \"Aku terus merencanakan kunjungan yang sempurna. Lalu aku tidak datang sama sekali.\"",
+        "Wail meminta sesuatu yang lebih kecil dari kesempurnaan. Dua cangkir biasa sudah cukup untuk memperjelas undangannya. Permintaannya agar kunjungan Adore dapat dipenuhi, bukan untuk diisi setiap jam kosong.\n\nWail: “Datang saja. Bahkan untuk minum teh.”",
+        "Adore duduk sekarang dan setuju untuk kembali besok setelah bel feri. Bunganya mungkin masih belum selesai. Secangkir teh pertama Wail tidak harus menunggu janji untuk menjadi sempurna.\n\nAdore: \"Besok, setelah bel feri. Dan aku punya waktu untuk menikmati cawan ini sekarang.\"",
+        "Ketika Quest kembali, Adore membandingkan stempel yang disalin dengan buku pelabuhan. Buku itu menyebut bengkel di pulau Nacre, bukan dermaga di daratan yang diberi tanda serupa. Mereka sekarang tahu feri mana yang harus diambil dan loket mana yang harus mereka datangi.\n\nAdore: \"Nacre—bengkel pulau. Ini adalah loket kedatangan yang kamu perlukan.\"",
+        "Sore itu, keenamnya menaiki kapal feri pantai di pelabuhan Orin. Tanda terima yang disalin dimasukkan ke dalam kotak dengan lensa pertama. Mereka mengikuti jalur lensa kedua—bukannya sudah membawa lensa kedua.\n\nBash: \"Enam orang sudah di kapal. Pemberhentian berikutnya: dermaga pulau Nacre.\"",
+        "Malam itu di Meadowfold, Hope berhenti sejenak sebelum berangkat. Rain meminta lampu tetap pada dudukannya, bukan meminta Hope tinggal sampai kelelahan. Kebersamaan bisa disambut tanpa menjadi suatu tugas yang tidak pernah berakhir.\n\nRain: \"Biarkan lampunya di dekatku. Kamu tidak harus tinggal sepanjang malam.\""
+      ],
+      "introduction": "Stempel pelabuhan Sigh yang kabur memerlukan satu pemeriksaan terakhir sebelum feri sore hari. Buku pelabuhan lokal disimpan di bengkel kaca Adore di samping taman. Di sana, kunjungan yang tertunda sama pentingnya bagi Wail seperti halnya tujuan berikutnya bagi para pelancong.",
+      "title": "Tamu yang Tak Diperhatikan"
+    },
+    "it": {
+      "altTexts": [
+        "La mattina successiva, Quest lascia la ricevuta ad Adore, che conserva il libro di consultazione del porto. Fuori dallo stesso laboratorio, Wail sta aspettando per un motivo diverso: la visita per il tè promessa ieri non è mai avvenuta.",
+        "Adore posa la stoffa e si allontana dai fiori non ancora finiti. Preparare una visita perfetta ha preso il posto dell'arrivo vero e proprio. Wail aspettava compagnia, non una composizione floreale.",
+        "Wail richiede qualcosa di più piccolo della perfezione. Bastano due comuni tazze per rendere chiaro l'invito. La richiesta è per una visita per cui Adore possa mantenere la promessa, non per ogni ora vuota da riempire.",
+        "Adore si siede adesso e accetta di tornare domani dopo il suono della campana del traghetto. I fiori possono rimanere incompiuti. La prima tazza di tè di Wail non deve aspettare che la promessa diventi perfetta.",
+        "Quando Quest ritorna, Adore confronta il timbro copiato con il libretto portuale. Il registro indica l'officina sull'isola di Nacre, non l'approdo sulla terraferma contrassegnato in modo simile. Adesso sanno quale traghetto prendere e a quale sportello chiedere.",
+        "Quel pomeriggio, tutti e sei salgono a bordo del traghetto costiero nel porto di Orin. La ricevuta copiata va inserita nella custodia con la prima lente. Stanno seguendo il percorso della seconda lente, ma non hanno ancora quella lente con sé.",
+        "Quella sera a Meadowfold, Hope fa una pausa prima di partire. Rain chiede che la lampada rimanga sul suo supporto, non che Hope rimanga fino a sfinirsi. La compagnia può essere gradita senza diventare un dovere che non finisce mai."
+      ],
+      "captions": [
+        "La mattina successiva, Quest lascia la ricevuta ad Adore, che conserva il libro di consultazione del porto. Fuori dallo stesso laboratorio, Wail sta aspettando per un motivo diverso: la visita per il tè promessa ieri non è mai avvenuta.\n\nWail: \"Pensavo di vederti ieri.\"",
+        "Adore posa la stoffa e si allontana dai fiori non ancora finiti. Preparare una visita perfetta ha preso il posto dell'arrivo vero e proprio. Wail aspettava compagnia, non una composizione floreale.\n\nAdore: \"Continuavo a programmare una visita perfetta. Poi la visita non c'è stata affatto.\"",
+        "Wail richiede qualcosa di più piccolo della perfezione. Bastano due comuni tazze per rendere chiaro l'invito. La richiesta è per una visita per cui Adore possa mantenere la promessa, non per ogni ora vuota da riempire.\n\nWail: \"Vieni e basta. Anche per il tè.\"",
+        "Adore si siede adesso e accetta di tornare domani dopo il suono della campana del traghetto. I fiori possono rimanere incompiuti. La prima tazza di tè di Wail non deve aspettare che la promessa diventi perfetta.\n\nAdore: \"Domani, dopo il campanello del traghetto. E adesso ho tempo per questa tazza.\"",
+        "Quando Quest ritorna, Adore confronta il timbro copiato con il libretto portuale. Il registro indica l'officina sull'isola di Nacre, non l'approdo sulla terraferma contrassegnato in modo simile. Adesso sanno quale traghetto prendere e a quale sportello chiedere.\n\nAdore: \"Nacre: l'officina dell'isola. Questo è il banco arrivi di cui hai bisogno.\"",
+        "Quel pomeriggio, tutti e sei salgono a bordo del traghetto costiero nel porto di Orin. La ricevuta copiata va inserita nella custodia con la prima lente. Stanno seguendo il percorso della seconda lente, ma non hanno ancora quella lente con sé.\n\nBash: \"Sei persone a bordo. Prossima fermata: il molo dell'isola di Nacre.\"",
+        "Quella sera a Meadowfold, Hope fa una pausa prima di partire. Rain chiede che la lampada rimanga sul suo supporto, non che Hope rimanga fino a sfinirsi. La compagnia può essere gradita senza diventare un dovere che non finisce mai.\n\nRain: \"Lascia la lampada nelle vicinanze. Non devi restare tutta la sera.\""
+      ],
+      "introduction": "Il timbro sfocato del porto di Sigh necessita di un ultimo controllo prima del traghetto pomeridiano. Il libro del porto locale è conservato nel laboratorio di vetro di Adore accanto al giardino. Lì, una visita ritardata è importante per Wail tanto quanto la prossima destinazione è importante per i viaggiatori.",
+      "title": "Il visitatore che nessuno aveva notato"
+    },
+    "ja": {
+      "altTexts": [
+        "翌朝、Quest は港の資料帳を保管しているAdoreに領収書を預けます。同じ作業場の外で、Wailが別の用事で待っています。昨日約束したお茶の訪問は実現しませんでした。",
+        "Adore は布を置き、未完成の花から目を背けます。完璧な訪問を準備するあまり、実際に訪ねることが後回しになっていました。 Wailが待っていたのは立派な準備ではなく、一緒に過ごす時間でした。",
+        "Wail は、完璧よりも小さなものを求めます。一緒にお茶を飲みたい。その気持ちは、普通のカップ二つで十分に伝わります。Wail が望んでいるのは、Adore が守れる訪問の約束です。空いた時間をすべて埋めてほしいわけではありません。",
+        "Adore は今座って、明日フェリーのベルが鳴ったら戻ることに同意しました。花は未完成のままでも構いません。 Wail の最初の一杯のお茶は、約束が完璧になるまで待つ必要はありません。",
+        "Quest が戻ると、Adore はコピーされたスタンプと港の資料帳を比較します。これは、同様にマークされた本土上陸地点ではなく、Nacre の島の作業場を指します。どのフェリーに乗ればよいのか、どのカウンターに問い合わせればよいのかがわかりました。",
+        "その日の午後、6人全員がOrinの港から沿岸フェリーに乗り込みます。コピーされたレシートは、最初のレンズと一緒にケースに入れられます。彼らは 2 番目のレンズのルートをたどっていますが、まだ二枚目のレンズを手に入れたわけではありません。",
+        "その夜、Meadowfold で、Hope は出発する前に一時停止します。 Rain はランプを台に置いていってほしいと頼みます。Hope に疲れ切るまで残ってほしいのではありません。終わりのない義務にしなくても、誰かのそばにいることはできます。"
+      ],
+      "captions": [
+        "翌朝、Quest は港の資料帳を保管しているAdoreに領収書を預けます。同じ作業場の外で、Wailが別の用事で待っています。昨日約束したお茶の訪問は実現しませんでした。\n\nWail: 「昨日来ると思ってました。」",
+        "Adore は布を置き、未完成の花から目を背けます。完璧な訪問を準備するあまり、実際に訪ねることが後回しになっていました。 Wailが待っていたのは立派な準備ではなく、一緒に過ごす時間でした。\n\nAdore: 「完璧な訪問にしようと考えてばかりで、結局、会いに行きませんでした。」",
+        "Wail は、完璧よりも小さなものを求めます。一緒にお茶を飲みたい。その気持ちは、普通のカップ二つで十分に伝わります。Wail が望んでいるのは、Adore が守れる訪問の約束です。空いた時間をすべて埋めてほしいわけではありません。\n\nWail: 「ちょっと来てください。お茶でもいいですよ。」",
+        "Adore は今座って、明日フェリーのベルが鳴ったら戻ることに同意しました。花は未完成のままでも構いません。 Wail の最初の一杯のお茶は、約束が完璧になるまで待つ必要はありません。\n\nAdore: 「明日、フェリーの鐘が鳴った後です。そして今はこの一杯を飲む時間があります。」",
+        "Quest が戻ると、Adore はコピーされたスタンプと港の資料帳を比較します。これは、同様にマークされた本土上陸地点ではなく、Nacre の島の作業場を指します。どのフェリーに乗ればよいのか、どのカウンターに問い合わせればよいのかがわかりました。\n\nAdore: 「Nacre—島の工房。ここがあなたが必要とする到着カウンターです。」",
+        "その日の午後、6人全員がOrinの港から沿岸フェリーに乗り込みます。コピーされたレシートは、最初のレンズと一緒にケースに入れられます。彼らは 2 番目のレンズのルートをたどっていますが、まだ二枚目のレンズを手に入れたわけではありません。\n\nBash: 「6 人乗りました。次の停留所は Nacre の島の岸壁です。」",
+        "その夜、Meadowfold で、Hope は出発する前に一時停止します。 Rain はランプを台に置いていってほしいと頼みます。Hope に疲れ切るまで残ってほしいのではありません。終わりのない義務にしなくても、誰かのそばにいることはできます。\n\nRain: 「ランプを近くに置いてください。一晩中いる必要はありません。」"
+      ],
+      "introduction": "Sigh のぼやけた港の印は、午後のフェリーの前にもう一度最終チェックが必要です。地元の港の本は、庭の横にあるAdoreのガラス工房に保管されています。そこでは、旅行者にとって次の目的地が重要であるのと同じくらい、訪問の遅れも Wail にとって重要です。",
+      "title": "誰も気づかなかった訪問者"
+    },
+    "ko": {
+      "altTexts": [
+        "다음날 아침 Quest는 항구 참고서를 보관하고 있는 Adore에게 영수증을 남깁니다. 같은 작업장 밖에서 Wail은 다른 일로 기다리고 있습니다. 어제 약속한 차 방문이 이루어지지 않았기 때문입니다.",
+        "Adore는 천을 내려놓고 아직 완성되지 않은 꽃을 외면한다. 완벽한 방문을 준비하느라 정작 만나러 가는 일을 미루고 있었습니다. Wail은 약속이 아닌 함께 있어 줄 사람을 기다리고 있었습니다.",
+        "Wail은 완벽함보다 작은 것을 요구합니다. 평범한 컵 두 개면 함께 차를 마시고 싶다는 마음을 전하기에 충분합니다. Wail은 모든 빈 시간을 채워 달라는 것이 아니라, Adore가 지킬 수 있는 방문 약속을 바랄 뿐입니다.",
+        "Adore는 지금 자리에 앉아 내일 페리 벨이 울린 뒤 다시 오기로 동의합니다. 꽃은 미완성 상태로 남아 있을 수 있습니다. Wail의 첫 번째 차 한잔은 약속이 완벽해질 때까지 기다릴 필요가 없습니다.",
+        "Quest가 돌아오자 Adore는 복사된 도장을 항구 책과 비교합니다. 유사하게 표시된 본토 선착장이 아닌 Nacre의 섬 작업장 이름입니다. 이제 그들은 어느 페리를 타야 할지, 어느 카운터를 요청해야 할지 알고 있습니다.",
+        "그날 오후, 6명 모두 Orin 항구에서 해안 페리에 탑승했습니다. 복사된 영수증은 첫 번째 렌즈와 함께 케이스에 들어갑니다. 그들은 두 번째 렌즈가 이동한 경로를 따라가고 있습니다. 아직 그 렌즈를 손에 넣은 것은 아닙니다.",
+        "그날 저녁 Meadowfold에서 Hope는 떠나기 전에 잠시 멈췄습니다. Rain은 램프를 받침대에 두고 가 달라고 합니다. Hope에게 지칠 때까지 남아 달라는 뜻은 아닙니다. 곁에 있어 주는 일이 끝없는 의무가 되지 않아도 그 동행을 반길 수 있습니다."
+      ],
+      "captions": [
+        "다음날 아침 Quest는 항구 참고서를 보관하고 있는 Adore에게 영수증을 남깁니다. 같은 작업장 밖에서 Wail은 다른 일로 기다리고 있습니다. 어제 약속한 차 방문이 이루어지지 않았기 때문입니다.\n\nWail: “어제 올 줄 알았는데.”",
+        "Adore는 천을 내려놓고 아직 완성되지 않은 꽃을 외면한다. 완벽한 방문을 준비하느라 정작 만나러 가는 일을 미루고 있었습니다. Wail은 약속이 아닌 함께 있어 줄 사람을 기다리고 있었습니다.\n\nAdore: \"완벽하게 찾아가려고 준비만 하다가, 정작 만나러 가지 않았어요.\"",
+        "Wail은 완벽함보다 작은 것을 요구합니다. 평범한 컵 두 개면 함께 차를 마시고 싶다는 마음을 전하기에 충분합니다. Wail은 모든 빈 시간을 채워 달라는 것이 아니라, Adore가 지킬 수 있는 방문 약속을 바랄 뿐입니다.\n\nWail: \"그냥 오세요. 차라도 드시러 오세요.\"",
+        "Adore는 지금 자리에 앉아 내일 페리 벨이 울린 뒤 다시 오기로 동의합니다. 꽃은 미완성 상태로 남아 있을 수 있습니다. Wail의 첫 번째 차 한잔은 약속이 완벽해질 때까지 기다릴 필요가 없습니다.\n\nAdore: \"내일, 페리 벨이 울린 후. 지금도 함께 차 한 잔 마실 시간은 있어요.\"",
+        "Quest가 돌아오자 Adore는 복사된 도장을 항구 책과 비교합니다. 유사하게 표시된 본토 선착장이 아닌 Nacre의 섬 작업장 이름입니다. 이제 그들은 어느 페리를 타야 할지, 어느 카운터를 요청해야 할지 알고 있습니다.\n\nAdore: \"Nacre—섬 작업장. 이곳이 당신에게 필요한 도착 카운터입니다.\"",
+        "그날 오후, 6명 모두 Orin 항구에서 해안 페리에 탑승했습니다. 복사된 영수증은 첫 번째 렌즈와 함께 케이스에 들어갑니다. 그들은 두 번째 렌즈가 이동한 경로를 따라가고 있습니다. 아직 그 렌즈를 손에 넣은 것은 아닙니다.\n\nBash: \"6명이 탑승했습니다. 다음 정류장은 Nacre의 섬 부두입니다.\"",
+        "그날 저녁 Meadowfold에서 Hope는 떠나기 전에 잠시 멈췄습니다. Rain은 램프를 받침대에 두고 가 달라고 합니다. Hope에게 지칠 때까지 남아 달라는 뜻은 아닙니다. 곁에 있어 주는 일이 끝없는 의무가 되지 않아도 그 동행을 반길 수 있습니다.\n\nRain: \"램프를 근처에 두세요. 저녁 내내 머물 필요는 없습니다.\""
+      ],
+      "introduction": "Sigh의 흐릿한 항구 스탬프는 오후 페리 이전에 최종 확인이 필요합니다. 지역 항구 책은 정원 옆 Adore의 유리 작업장에 보관되어 있습니다. 그곳에서는 다음 목적지가 여행자에게 중요한 것처럼 Wail에게는 지연된 방문이 중요합니다.",
+      "title": "아무도 눈치 채지 못한 방문자"
+    },
+    "pl": {
+      "altTexts": [
+        "Następnego ranka Quest zostawia pokwitowanie w warsztacie Adore, gdzie znajduje się księga portowa. Poza tym samym warsztatem Wail czeka z innego powodu: obiecana wczoraj wizyta na herbacie nigdy się nie odbyła.",
+        "Adore odkłada szmatkę i odwraca się od niedokończonych kwiatów. Przygotowanie idealnej wizyty zajęło miejsce faktycznego przybycia. Wail czekał na towarzystwo, a nie na kompozycję kwiatową.",
+        "Wail wymaga czegoś mniejszego niż perfekcja. Aby zaproszenie było jasne, wystarczą dwa zwykłe kubki. Prośba dotyczy wizyty, na którą Adore może dotrzeć zgodnie z obietnicą, a nie każdej pustej godziny do wypełnienia.",
+        "Adore siada teraz i zgadza się wrócić jutro po dzwonku promu. Kwiaty mogą pozostać niedokończone. Pierwsza filiżanka herbaty Waila nie musi czekać, aż obietnice staną się idealne.",
+        "Po powrocie Questa Adore porównuje skopiowany stempel z księgą portową. Zawiera nazwę warsztatu na wyspie Nacre, a nie podobnie oznaczonej przystani na kontynencie. Wiedzą teraz, którym promem popłynąć i przy którym stanowisku zapytać.",
+        "Tego popołudnia cała szóstka wchodzi na przybrzeżny prom w porcie w Orinie. Skopiowany paragon trafia do etui z pierwszą soczewką. Podążają drogą drugiej soczewki – nie mają jej jeszcze przy sobie.",
+        "Tego wieczoru na łące Meadowfold Hope zatrzymuje się przed wyjściem. Rain prosi, aby lampa pozostała na stojaku, zamiast oczekiwać od Hope towarzystwa aż do utraty sił. Towarzystwo może być mile widziane, nie stając się obowiązkiem, który nigdy się nie kończy."
+      ],
+      "captions": [
+        "Następnego ranka Quest zostawia pokwitowanie w warsztacie Adore, gdzie znajduje się księga portowa. Poza tym samym warsztatem Wail czeka z innego powodu: obiecana wczoraj wizyta na herbacie nigdy się nie odbyła.\n\nWail: „Myślałem, że przyjedziesz wczoraj.”",
+        "Adore odkłada szmatkę i odwraca się od niedokończonych kwiatów. Przygotowanie idealnej wizyty zajęło miejsce faktycznego przybycia. Wail czekał na towarzystwo, a nie na kompozycję kwiatową.\n\nAdore: \"Cały czas trwało planowanie idealnej wizyty. Aż w końcu w ogóle do niej nie doszło.\"",
+        "Wail wymaga czegoś mniejszego niż perfekcja. Aby zaproszenie było jasne, wystarczą dwa zwykłe kubki. Prośba dotyczy wizyty, na którą Adore może dotrzeć zgodnie z obietnicą, a nie każdej pustej godziny do wypełnienia.\n\nWail: \"Po prostu przyjdź. Nawet na herbatę.\"",
+        "Adore siada teraz i zgadza się wrócić jutro po dzwonku promu. Kwiaty mogą pozostać niedokończone. Pierwsza filiżanka herbaty Waila nie musi czekać, aż obietnice staną się idealne.\n\nAdore: \"Jutro po dzwonku promowym. A teraz mam czas na tę filiżankę.\"",
+        "Po powrocie Questa Adore porównuje skopiowany stempel z księgą portową. Zawiera nazwę warsztatu na wyspie Nacre, a nie podobnie oznaczonej przystani na kontynencie. Wiedzą teraz, którym promem popłynąć i przy którym stanowisku zapytać.\n\nAdore: \"Nacre — warsztat na wyspie. To jest stanowisko obsługi przybywających, którego potrzebujesz. \"",
+        "Tego popołudnia cała szóstka wchodzi na przybrzeżny prom w porcie w Orinie. Skopiowany paragon trafia do etui z pierwszą soczewką. Podążają drogą drugiej soczewki – nie mają jej jeszcze przy sobie.\n\nBash: \"Cała szóstka na pokładzie. Następny przystanek: nabrzeże na wyspie Nacre.\"",
+        "Tego wieczoru na łące Meadowfold Hope zatrzymuje się przed wyjściem. Rain prosi, aby lampa pozostała na stojaku, zamiast oczekiwać od Hope towarzystwa aż do utraty sił. Towarzystwo może być mile widziane, nie stając się obowiązkiem, który nigdy się nie kończy.\n\nRain: \"Zostaw lampę w pobliżu. Nie musisz zostawać przez cały wieczór.\""
+      ],
+      "introduction": "Zamazany znaczek portowy na pokwitowaniu Sigha wymaga ostatniego sprawdzenia przed popołudniowym promem. Adore przechowuje lokalną księgę portową w swoim warsztacie szklarskim obok ogrodu. Tam opóźniona wizyta ma dla Waila takie samo znaczenie, jak następny cel podróży.",
+      "title": "Gość, którego nikt nie zauważył"
+    },
+    "pt": {
+      "altTexts": [
+        "Na manhã seguinte, Quest deixa o recibo com Adore, que guarda o livro de referência do porto. Fora da mesma oficina, Wail aguarda por um motivo diferente: uma visita de chá prometida ontem nunca aconteceu.",
+        "Adore larga o pano e se afasta das flores inacabadas. Adore passou tanto tempo preparando uma visita perfeita que acabou não aparecendo. Wail está esperando por companhia, não por um arranjo de flores.",
+        "Wail pede algo menor que a perfeição. Duas xícaras comuns são suficientes para deixar o convite claro. A solicitação é para uma visita que Adore possa cumprir, e não para que cada hora vazia seja preenchida.",
+        "Adore senta-se agora e concorda em retornar amanhã após o sinal da balsa. As flores podem permanecer inacabadas. A primeira xícara de chá do Wail não precisa esperar que a promessa se torne perfeita.",
+        "Quando Quest retorna, Adore compara o carimbo copiado com o livro do porto. Ele nomeia a oficina da ilha de Nacre, não o cais no continente marcado de forma semelhante. Agora eles sabem qual balsa pegar e qual balcão consultar.",
+        "Naquela tarde, todos os seis embarcam na balsa costeira no porto de Orin. O recibo copiado vai para o estojo com a primeira lente. Eles estão seguindo a rota da segunda lente – mas ainda não levam essa segunda lente.",
+        "Naquela noite, em Meadowfold, Hope faz uma pausa antes de sair. Rain pede que a lâmpada fique no suporte, e não que Hope fique até a exaustão. A companhia pode ser bem-vinda sem se tornar um dever que nunca acaba."
+      ],
+      "captions": [
+        "Na manhã seguinte, Quest deixa o recibo com Adore, que guarda o livro de referência do porto. Fora da mesma oficina, Wail aguarda por um motivo diferente: uma visita de chá prometida ontem nunca aconteceu.\n\nWail: “Achei que você viria ontem.”",
+        "Adore larga o pano e se afasta das flores inacabadas. Adore passou tanto tempo preparando uma visita perfeita que acabou não aparecendo. Wail está esperando por companhia, não por um arranjo de flores.\n\nAdore: \"Continuei planejando uma visita perfeita. Depois nem vim.\"",
+        "Wail pede algo menor que a perfeição. Duas xícaras comuns são suficientes para deixar o convite claro. A solicitação é para uma visita que Adore possa cumprir, e não para que cada hora vazia seja preenchida.\n\nWail: \"Apenas venha. Até para o chá.\"",
+        "Adore senta-se agora e concorda em retornar amanhã após o sinal da balsa. As flores podem permanecer inacabadas. A primeira xícara de chá do Wail não precisa esperar que a promessa se torne perfeita.\n\nAdore: \"Amanhã, depois do sinal da balsa. E agora tenho tempo para esta xícara.\"",
+        "Quando Quest retorna, Adore compara o carimbo copiado com o livro do porto. Ele nomeia a oficina da ilha de Nacre, não o cais no continente marcado de forma semelhante. Agora eles sabem qual balsa pegar e qual balcão consultar.\n\nAdore: \"Nacre — a oficina da ilha. Este é o balcão de chegada que você precisa.\"",
+        "Naquela tarde, todos os seis embarcam na balsa costeira no porto de Orin. O recibo copiado vai para o estojo com a primeira lente. Eles estão seguindo a rota da segunda lente – mas ainda não levam essa segunda lente.\n\nBash: \"Seis a bordo. Próxima parada: cais da ilha de Nacre.\"",
+        "Naquela noite, em Meadowfold, Hope faz uma pausa antes de sair. Rain pede que a lâmpada fique no suporte, e não que Hope fique até a exaustão. A companhia pode ser bem-vinda sem se tornar um dever que nunca acaba.\n\nRain: \"Deixe a lâmpada por perto. Você não precisa ficar a noite toda.\""
+      ],
+      "introduction": "O carimbo borrado do porto de Sigh precisa de uma verificação final antes da balsa da tarde. O livro do porto local é mantido na oficina de vidro de Adore ao lado do jardim. Lá, uma visita atrasada é tão importante para Wail quanto o próximo destino é importante para os viajantes.",
+      "title": "O visitante que ninguém notou"
+    },
+    "ru": {
+      "altTexts": [
+        "На следующее утро Quest оставляет квитанцию Adore, у которого хранится портовый справочник. У той же мастерской Wail ждет по другой причине: обещанный вчера чайный визит так и не состоялся.",
+        "Adore откладывает ткань и отворачивается от незавершенных цветов. Подготовка идеального визита заменила фактическое прибытие. Wail ждал компании, а не цветочной композиции.",
+        "Wail требует чего-то меньшего, чем совершенство. Двух обычных чашек достаточно, чтобы приглашение было понятным. Он просит о визите, обещание которого Adore сможет выполнить, а не о заполнении каждого свободного часа.",
+        "Adore садится сейчас и соглашается вернуться завтра после паромного колокола. Цветы могут остаться незавершенными. Первой чашке чая Wail не придется ждать, пока обещание станет идеальным.",
+        "Когда Quest возвращается, Adore сравнивает копию штампа с портовой книгой. Штамп указывает на мастерскую на острове Nacre, а не на похожим образом отмеченную пристань на материке. Теперь они знают, на какой паром сесть и к какой стойке обратиться.",
+        "В тот же день все шестеро садятся на прибрежный паром в гавани Orin. Скопированная квитанция уходит в футляр с первой линзой. Они следуют по маршруту второй линзы, но самой второй линзы у них пока нет.",
+        "В тот вечер на лугу Meadowfold Hope делает паузу перед уходом. Rain просит, чтобы лампа оставалась на подставке, и говорит Hope, что не нужно оставаться до изнеможения. Компанию можно приветствовать, не превращая ее в бесконечную обязанность."
+      ],
+      "captions": [
+        "На следующее утро Quest оставляет квитанцию Adore, у которого хранится портовый справочник. У той же мастерской Wail ждет по другой причине: обещанный вчера чайный визит так и не состоялся.\n\nWail: «Я думал, ты придешь вчера».",
+        "Adore откладывает ткань и отворачивается от незавершенных цветов. Подготовка идеального визита заменила фактическое прибытие. Wail ждал компании, а не цветочной композиции.\n\nAdore: \"Все время уходило на планы идеального визита. А в итоге визит так и не состоялся.\"",
+        "Wail требует чего-то меньшего, чем совершенство. Двух обычных чашек достаточно, чтобы приглашение было понятным. Он просит о визите, обещание которого Adore сможет выполнить, а не о заполнении каждого свободного часа.\n\nWail: \"Просто приходи. Даже на чай.\"",
+        "Adore садится сейчас и соглашается вернуться завтра после паромного колокола. Цветы могут остаться незавершенными. Первой чашке чая Wail не придется ждать, пока обещание станет идеальным.\n\nAdore: \"Завтра, после паромного колокола. И сейчас у меня есть время для этой чашки\".",
+        "Когда Quest возвращается, Adore сравнивает копию штампа с портовой книгой. Штамп указывает на мастерскую на острове Nacre, а не на похожим образом отмеченную пристань на материке. Теперь они знают, на какой паром сесть и к какой стойке обратиться.\n\nAdore: \"Nacre — островная мастерская. Это стойка прибытия, которая вам нужна\".",
+        "В тот же день все шестеро садятся на прибрежный паром в гавани Orin. Скопированная квитанция уходит в футляр с первой линзой. Они следуют по маршруту второй линзы, но самой второй линзы у них пока нет.\n\nBash: \"Шестеро на борту. Следующая остановка: островная пристань Nacre\".",
+        "В тот вечер на лугу Meadowfold Hope делает паузу перед уходом. Rain просит, чтобы лампа оставалась на подставке, и говорит Hope, что не нужно оставаться до изнеможения. Компанию можно приветствовать, не превращая ее в бесконечную обязанность.\n\nRain: \"Оставь лампу рядом. Тебе не обязательно оставаться на весь вечер.\""
+      ],
+      "introduction": "Размытый портовый штамп Sigh нуждается в последней проверке перед дневным паромом. Книга местного порта хранится в стекольной мастерской Adore рядом с садом. Там отложенный визит имеет для Wail такое же значение, как и следующий пункт назначения для путешественников.",
+      "title": "Посетитель, которого никто не заметил"
+    },
+    "tr": {
+      "altTexts": [
+        "Ertesi sabah Quest, makbuzu liman referans kitabını saklayan Adore'a bırakır. Aynı atölyenin dışında Wail farklı bir nedenle bekliyor: Dün söz verilen çay ziyareti asla gerçekleşmedi.",
+        "Adore kumaşı bırakıyor ve bitmemiş çiçeklerden uzaklaşıyor. Kusursuz bir ziyaret planlamak, gerçekten gitmenin yerini almıştır. Wail bir çiçek düzenlemesini değil, arkadaşını bekliyordu.",
+        "Wail mükemmellikten daha küçük bir şey ister. Daveti netleştirmek için iki sıradan bardak yeterlidir. Talep Adore'un sözünü tutup gelebileceği bir ziyaret içindir, doldurulacak her boş saat için değil.",
+        "Adore şimdi oturuyor ve yarın feribot zilinden sonra dönmeyi kabul ediyor. Çiçekler bitmemiş kalabilir. Wail'in ilk fincan çayının, verilen sözün kusursuzlaşmasını beklemesi gerekmiyor.",
+        "Quest geri döndüğünde, Adore kopyalanan damgayı liman defteriyle karşılaştırır. Benzer şekilde işaretlenmiş ana kara iskelesi değil, Nacre'nin ada atölyesinin adı veriliyor. Artık hangi vapura bineceklerini ve hangi gişeyi soracaklarını biliyorlar.",
+        "O öğleden sonra altı kişi de Orin limanındaki kıyı feribotuna biniyor. Makbuzun kopyası ilk lensin bulunduğu kutuya konur. İkinci merceğin rotasını izliyorlar; zaten ikinci bir merceği taşımıyorlar.",
+        "O akşam Meadowfold çayırında Hope ayrılmadan önce duraklıyor. Rain, Hope'un tükenene kadar kalmasını değil, lambanın standında kalmasını ister. Birlikte olmak hiç bitmeyen bir görev haline gelmeden hoş karşılanabilir."
+      ],
+      "captions": [
+        "Ertesi sabah Quest, makbuzu liman referans kitabını saklayan Adore'a bırakır. Aynı atölyenin dışında Wail farklı bir nedenle bekliyor: Dün söz verilen çay ziyareti asla gerçekleşmedi.\n\nWail: \"Dün geleceğini sanıyordum.\"",
+        "Adore kumaşı bırakıyor ve bitmemiş çiçeklerden uzaklaşıyor. Kusursuz bir ziyaret planlamak, gerçekten gitmenin yerini almıştır. Wail bir çiçek düzenlemesini değil, arkadaşını bekliyordu.\n\nAdore: \"Mükemmel bir ziyaret planlamaya devam ettim. Sonra hiç gelmedim.\"",
+        "Wail mükemmellikten daha küçük bir şey ister. Daveti netleştirmek için iki sıradan bardak yeterlidir. Talep Adore'un sözünü tutup gelebileceği bir ziyaret içindir, doldurulacak her boş saat için değil.\n\nWail: \"Gelmen yeter. Bir çay içmek için bile olsa.\"",
+        "Adore şimdi oturuyor ve yarın feribot zilinden sonra dönmeyi kabul ediyor. Çiçekler bitmemiş kalabilir. Wail'in ilk fincan çayının, verilen sözün kusursuzlaşmasını beklemesi gerekmiyor.\n\nAdore: \"Yarın vapur zilinden sonra. Ve artık bu kupa için zamanım var.\"",
+        "Quest geri döndüğünde, Adore kopyalanan damgayı liman defteriyle karşılaştırır. Benzer şekilde işaretlenmiş ana kara iskelesi değil, Nacre'nin ada atölyesinin adı veriliyor. Artık hangi vapura bineceklerini ve hangi gişeyi soracaklarını biliyorlar.\n\nAdore: \"Nacre—ada atölyesi. İhtiyacınız olan varış gişesi bu.\"",
+        "O öğleden sonra altı kişi de Orin limanındaki kıyı feribotuna biniyor. Makbuzun kopyası ilk lensin bulunduğu kutuya konur. İkinci merceğin rotasını izliyorlar; zaten ikinci bir merceği taşımıyorlar.\n\nBash: \"Gemide altı kişi. Sonraki durak: Nacre'nin ada iskelesi.\"",
+        "O akşam Meadowfold çayırında Hope ayrılmadan önce duraklıyor. Rain, Hope'un tükenene kadar kalmasını değil, lambanın standında kalmasını ister. Birlikte olmak hiç bitmeyen bir görev haline gelmeden hoş karşılanabilir.\n\nRain: \"Lambayı yakınımda bırak. Bütün akşam kalman gerekmiyor.\""
+      ],
+      "introduction": "Sigh'ın bulanık liman damgasının öğleden sonraki feribottan önce son bir kontrole ihtiyacı var. Yerel liman defteri, Adore'un bahçenin yanındaki cam atölyesinde tutuluyor. Orada, gezginler için bir sonraki varış noktası ne kadar önemliyse, gecikmiş bir ziyaret de Wail için o kadar önemli.",
+      "title": "Ziyaretçiyi Kimse Fark Etmedi"
+    },
+    "vi": {
+      "altTexts": [
+        "Sáng hôm sau, Quest để lại biên lai cho Adore, người giữ sổ tham khảo bến cảng. Bên ngoài xưởng, Wail đang chờ đợi một lý do khác: buổi ghé thăm uống trà đã hẹn hôm qua không diễn ra.",
+        "Adore đặt tấm vải xuống và quay lưng lại với những bông hoa còn dang dở. Việc chuẩn bị một chuyến thăm hoàn hảo đã thay thế việc đến nơi thực sự. Wail chờ có người bầu bạn, chứ không chờ một buổi gặp được chuẩn bị hoàn hảo.",
+        "Wail yêu cầu một điều gì đó nhỏ hơn sự hoàn hảo. Hai chiếc cốc thông thường là đủ để thể hiện lời mời rõ ràng. Wail chỉ mong Adore giữ một lời hẹn ghé thăm, không đòi lấp đầy mọi giờ trống.",
+        "Adore bây giờ ngồi xuống và đồng ý quay lại vào ngày mai sau tiếng chuông phà. Những bông hoa có thể vẫn còn dang dở. Tách trà đầu tiên của Wail không phải đợi lời hứa trở nên hoàn hảo.",
+        "Khi Quest trở lại, Adore so sánh tem đã sao chép với sổ bến cảng. Con dấu chỉ xưởng trên đảo Nacre chứ không phải bến trên đất liền được đánh dấu tương tự. Bây giờ họ biết nên đi phà nào và đến hỏi ở quầy nào.",
+        "Chiều hôm đó, cả sáu người lên chuyến phà ven biển tại bến cảng Orin. Biên nhận đã sao chép sẽ được bỏ vào hộp đựng thấu kính đầu tiên. Họ đang đi theo lộ trình của thấu kính thứ hai—không mang theo thấu kính thứ hai.",
+        "Tối hôm đó tại Meadowfold, Hope tạm dừng trước khi rời đi. Rain chỉ muốn chiếc đèn ở lại trên giá, chứ không muốn Hope phải ngồi bên mình đến kiệt sức. Sự đồng hành có thể được chào đón mà không trở thành một nghĩa vụ không bao giờ kết thúc."
+      ],
+      "captions": [
+        "Sáng hôm sau, Quest để lại biên lai cho Adore, người giữ sổ tham khảo bến cảng. Bên ngoài xưởng, Wail đang chờ đợi một lý do khác: buổi ghé thăm uống trà đã hẹn hôm qua không diễn ra.\n\nWail: “Tôi cứ ngỡ hôm qua bạn sẽ đến.”",
+        "Adore đặt tấm vải xuống và quay lưng lại với những bông hoa còn dang dở. Việc chuẩn bị một chuyến thăm hoàn hảo đã thay thế việc đến nơi thực sự. Wail chờ có người bầu bạn, chứ không chờ một buổi gặp được chuẩn bị hoàn hảo.\n\nAdore: “Tôi cứ lên kế hoạch cho một chuyến thăm hoàn hảo nhưng rồi lại không đến.”",
+        "Wail yêu cầu một điều gì đó nhỏ hơn sự hoàn hảo. Hai chiếc cốc thông thường là đủ để thể hiện lời mời rõ ràng. Wail chỉ mong Adore giữ một lời hẹn ghé thăm, không đòi lấp đầy mọi giờ trống.\n\nWail: \"Cứ đến đi. Uống trà cũng được.\"",
+        "Adore bây giờ ngồi xuống và đồng ý quay lại vào ngày mai sau tiếng chuông phà. Những bông hoa có thể vẫn còn dang dở. Tách trà đầu tiên của Wail không phải đợi lời hứa trở nên hoàn hảo.\n\nAdore: \"Ngày mai, sau tiếng chuông phà. Và bây giờ tôi có thời gian cho chiếc cốc này.\"",
+        "Khi Quest trở lại, Adore so sánh tem đã sao chép với sổ bến cảng. Con dấu chỉ xưởng trên đảo Nacre chứ không phải bến trên đất liền được đánh dấu tương tự. Bây giờ họ biết nên đi phà nào và đến hỏi ở quầy nào.\n\nAdore: \"Nacre—xưởng trên đảo. Đây là quầy đến mà bạn cần.\"",
+        "Chiều hôm đó, cả sáu người lên chuyến phà ven biển tại bến cảng Orin. Biên nhận đã sao chép sẽ được bỏ vào hộp đựng thấu kính đầu tiên. Họ đang đi theo lộ trình của thấu kính thứ hai—không mang theo thấu kính thứ hai.\n\nBash: \"Sáu người trên tàu. Điểm dừng tiếp theo: Bến đảo của Nacre.\"",
+        "Tối hôm đó tại Meadowfold, Hope tạm dừng trước khi rời đi. Rain chỉ muốn chiếc đèn ở lại trên giá, chứ không muốn Hope phải ngồi bên mình đến kiệt sức. Sự đồng hành có thể được chào đón mà không trở thành một nghĩa vụ không bao giờ kết thúc.\n\nRain: \"Để đèn gần đây. Bạn không cần phải ở lại cả buổi tối đâu.\""
+      ],
+      "introduction": "Dấu bến cảng bị nhòe của Sigh cần kiểm tra lần cuối trước chuyến phà chiều. Cuốn sách bến cảng địa phương được lưu giữ trong xưởng thủy tinh của Adore bên cạnh khu vườn. Ở đó, chuyến thăm bị trì hoãn cũng quan trọng đối với Wail cũng như điểm đến tiếp theo quan trọng đối với khách du lịch.",
+      "title": "Vị khách không ai để ý"
+    },
+    "zh": {
+      "altTexts": [
+        "第二天早上，Quest把收据带给保管港口资料册的Adore。在同一个车间外，Wail却在为另一件事等待：昨天承诺的一次茶会并没有实现。",
+        "Adore放下布，转身离开未完成的花朵。Adore一心准备一次完美的探望，却迟迟没有真正去见Wail。 Wail 等待的是陪伴，不是精心布置的场面。",
+        "Wail 要求的东西比完美更小。两个普通的杯子，已经把这份邀请表达得很清楚。Wail 只希望 Adore 能守住一次探访的约定，并不要求填满每一个空闲的小时。",
+        "Adore 现在坐下并同意明天渡轮钟声后返回。花朵可以保持未完成状态。 Wail的第一杯茶不必等待承诺变得完美。",
+        "当Quest返回时，Adore将复印的印章与港口簿进行比较。印章指的是Nacre岛上的作坊，而不是类似标记的大陆码头。他们现在知道该乘坐哪艘渡轮以及该前往哪个柜台。",
+        "当天下午，六人在Orin港口登上沿海渡轮。复制的收据放入装有第一片镜片的盒子中。他们正在沿着第二片镜片的路线前进——尚未携带第二片镜片。",
+        "当天晚上，Meadowfold，Hope 出发前停了下来。 Rain请Hope把灯留在灯架上，不必一直陪到筋疲力尽。陪伴可以受到欢迎，但不会成为一项永无止境的义务。"
+      ],
+      "captions": [
+        "第二天早上，Quest把收据带给保管港口资料册的Adore。在同一个车间外，Wail却在为另一件事等待：昨天承诺的一次茶会并没有实现。\n\nWail：“我以为你昨天会来。”",
+        "Adore放下布，转身离开未完成的花朵。Adore一心准备一次完美的探望，却迟迟没有真正去见Wail。 Wail 等待的是陪伴，不是精心布置的场面。\n\nAdore：“我一直在计划一次完美的访问。然后我根本没有来。”",
+        "Wail 要求的东西比完美更小。两个普通的杯子，已经把这份邀请表达得很清楚。Wail 只希望 Adore 能守住一次探访的约定，并不要求填满每一个空闲的小时。\n\nWail：“来吧。喝茶也行。”",
+        "Adore 现在坐下并同意明天渡轮钟声后返回。花朵可以保持未完成状态。 Wail的第一杯茶不必等待承诺变得完美。\n\nAdore：“明天，轮渡钟声过后。现在，我也有时间陪你喝这一杯。”",
+        "当Quest返回时，Adore将复印的印章与港口簿进行比较。印章指的是Nacre岛上的作坊，而不是类似标记的大陆码头。他们现在知道该乘坐哪艘渡轮以及该前往哪个柜台。\n\nAdore：“Nacre——海岛工场。这就是你需要的到达柜台。”",
+        "当天下午，六人在Orin港口登上沿海渡轮。复制的收据放入装有第一片镜片的盒子中。他们正在沿着第二片镜片的路线前进——尚未携带第二片镜片。\n\nBash：“船上六人。下一站：Nacre的岛屿码头。”",
+        "当天晚上，Meadowfold，Hope 出发前停了下来。 Rain请Hope把灯留在灯架上，不必一直陪到筋疲力尽。陪伴可以受到欢迎，但不会成为一项永无止境的义务。\n\nRain：“把灯放在附近。你不必整夜待着。”"
+      ],
+      "introduction": "Sigh 模糊的港口印章需要在下午的渡轮之前进行最后一次检查。当地的港口资料册由Adore保管，放在花园旁的玻璃作坊里。在那里，迟迟未兑现的探望对 Wail 的重要性就像下一个目的地对旅行者的重要性一样。",
+      "title": "无人注意到的访客"
+    }
+  },
+  "number": 15,
+  "panels": [
+    {
+      "altText": "The next morning, Quest leaves the receipt with Adore, who keeps the harbor reference book. Outside the same workshop, Wail is waiting for a different reason: a tea visit promised yesterday never happened.",
+      "image": "N01E15P01.png"
+    },
+    {
+      "altText": "Adore puts down the cloth and turns away from the unfinished flowers. Preparing a perfect visit has taken the place of actually arriving. Wail has been waiting for company, not an arrangement.",
+      "image": "N01E15P02.png"
+    },
+    {
+      "altText": "Wail asks for something smaller than perfection. Two ordinary cups are enough to make the invitation clear. The request is for a visit Adore can keep, not for every empty hour to be filled.",
+      "image": "N01E15P03.png"
+    },
+    {
+      "altText": "Adore sits down now and agrees to return tomorrow after the ferry bell. The flowers can remain unfinished. Wail's first cup of tea does not have to wait for the promise to become perfect.",
+      "image": "N01E15P04.png"
+    },
+    {
+      "altText": "When Quest returns, Adore compares the copied stamp with the harbor book. It names Nacre's island workshop, not the similarly marked mainland landing. They now know which ferry to take and which counter to ask for.",
+      "image": "N01E15P05.png"
+    },
+    {
+      "altText": "That afternoon, all six board the coastal ferry at Orin's harbor. The copied receipt goes into the case with the first lens. They are following the second lens's route—not carrying a second lens already.",
+      "image": "N01E15P06.png"
+    },
+    {
+      "altText": "That evening at Meadowfold, Hope pauses before leaving. Rain asks for the lamp to stay on its stand, not for Hope to stay until exhaustion. Company can be welcome without becoming a duty that never ends.",
+      "image": "N01E15P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

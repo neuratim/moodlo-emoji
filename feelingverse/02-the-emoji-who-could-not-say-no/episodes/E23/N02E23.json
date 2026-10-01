@@ -1,0 +1,442 @@
+{
+  "id": "N02E23",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "تقف ليلت داخل القاعة وتبقى المظلة الصفراء ملفوفة في الخارج.",
+        "تجلس أومي مستريحة على أحد المقعدين الطويلين بعد ترتيبهما.",
+        "تعزف ليلت على المسرح الصغير الجاف.",
+        "تحمل ليلت آلتها وتنظر إلى نافذة المطر.",
+        "يجلس أربعة أصدقاء إلى طاولة خالية من أدوات الإصلاح.",
+        "يشارك هاش ذكرى لطيفة ويضحك الأصدقاء معه لا عليه.",
+        "تستمتع ميند بالطعام مع أصدقائها وشريطها البرتقالي المرتخي."
+      ],
+      "captions": [
+        "في الوقت نفسه، عند ظهر فيلا، طرق المطر سقف القاعة. وقفت ليلت على المسرح الداخلي الصغير، ومظلة الشرفة ما زالت غير مستخدمة.",
+        "رتبت أومي المقعدين وتوقفت. لم تطلب ليلت مقعدًا ثالثًا ولا إعادة بناء القاعة كلها.",
+        "عزفت ليلت النغمات الأولى. بدا الصوت مختلفًا في الداخل، لكنه ظل موسيقى تستحق الاستماع.",
+        "بين الألحان، نظرت ليلت إلى المطر. يمكنها افتقاد الحفل الخارجي والاستمتاع بهذا الحفل من دون التظاهر بأنهما الشيء نفسه.",
+        "وفي الوقت نفسه في نيري، جلست ميند إلى طاولة سيلا. لم يقدم لها أحد فانوسًا مكسورًا مع وعاء الطعام.",
+        "روى هاش بالإشارة ذكرى مضحكة عن القماش المنزلق. ضحكت ميند معهم؛ كانت الدعابة عن الارتباك، لا عن قيمة أي شخص.",
+        "بقيت ميند حتى نهاية الوجبة. لم تصلح كل خطة في الوادي، لكنها ظلت مرحبًا بها على المائدة."
+      ],
+      "introduction": "تعزف ليلت في الداخل وتستمتع ميند بالضيافة في بلدة أخرى.",
+      "title": "موسيقى تحت سقف ثابت"
+    },
+    "bn": {
+      "altTexts": [
+        "লিল্ট ভেতরের মঞ্চে; হলুদ ছাউনি বাইরে গোটানো।",
+        "ওমি সাজানো দুটি বেঞ্চের একটিতে বসে বিশ্রাম করছে।",
+        "লিল্ট শুকনো ছোট মঞ্চে বাদ্যযন্ত্র বাজায়।",
+        "লিল্ট যন্ত্র ধরে বৃষ্টির জানালায় তাকায়।",
+        "চার বন্ধু মেরামতির জিনিস ছাড়া খাবারের টেবিলে বসে।",
+        "হাশ স্মৃতি বলছে, বন্ধুরা আপনভাবে একসঙ্গে হাসছে।",
+        "কমলা ফিতা নিয়ে মেন্ড বন্ধুদের খাবারে স্বচ্ছন্দে বসে।"
+      ],
+      "captions": [
+        "এদিকে একই দুপুরে ভেলায় বৃষ্টি মিলনায়তনের ছাদে বাজছিল। লিল্ট ছোট ভেতরের মঞ্চে দাঁড়াল, বাইরের ছাউনি অব্যবহৃত।",
+        "ওমি দুটি বেঞ্চ সাজিয়ে থেমেছে। লিল্ট তৃতীয়টি বা গোটা ঘর নতুন করে বানাতে বলেনি।",
+        "লিল্ট প্রথম সুর তুলল। ঘরের ভেতর শব্দ আলাদা, তবু শোনার মতোই সুন্দর সঙ্গীত।",
+        "গানের ফাঁকে লিল্ট বৃষ্টি দেখল। বাইরের আসরের অভাব বোধ করেও এই আসর উপভোগ করা যায়; দুটো এক বলে ভান দরকার নেই।",
+        "একই সময়ে নেরিতে মেন্ড সেলার টেবিলে বসে। খাবারের বাটির সঙ্গে কেউ ভাঙা লণ্ঠন ধরিয়ে দিল না।",
+        "হাশ পিছলে যাওয়া কাপড়ের মজার স্মৃতি ইশারা ভাষায় বলল। সবাই একসঙ্গে হাসল। মজা ঘটনাটির গণ্ডগোল নিয়ে, কাউকে ছোট করে নয়।",
+        "মেন্ড খাওয়া শেষ হওয়া পর্যন্ত থাকল। সে উপত্যকার প্রতিটি পরিকল্পনা ঠিক করে দেয়নি। তবু টেবিলে তার জন্য সাদর জায়গা ছিল।"
+      ],
+      "introduction": "লিল্ট ঘরে বাজায়, আর মেন্ড অন্য শহরে নিশ্চিন্ত অতিথি হয়ে খায়।",
+      "title": "মজবুত ছাদের নিচে সুর"
+    },
+    "cs": {
+      "altTexts": [
+        "Lilt stojí s loutnou na malém pódiu v sále.",
+        "Omi odpočívá vedle dvou srovnaných lavic.",
+        "Lilt hraje na loutnu a Omi poslouchá z lavice.",
+        "Lilt s loutnou odpočívá a dívá se k deštivému oknu.",
+        "Mend obědvá se Selou, Tavim a Hushem na dvorku.",
+        "Hush vypráví ve znacích a tři přátelé se usmívají.",
+        "Mend pohodlně odpočívá u stolu se třemi přáteli."
+      ],
+      "captions": [
+        "Mezitím v poledne v městečku Vela déšť bubnoval na střechu sálu. Lilt stála na malém vnitřním pódiu; venkovní plachta zůstala nepoužitá.",
+        "Omi srovnala dvě lavice a skončila. Lilt nežádala třetí ani přestavbu celého sálu.",
+        "Lilt zahrála první tóny. Uvnitř zněla hudba jinak, ale pořád stálo za to ji poslouchat.",
+        "Mezi skladbami Lilt pohlédla na déšť. Mohlo ji mrzet, že koncert není venku, a zároveň se mohla těšit z toho v sále. Nemusela předstírat, že je to totéž.",
+        "Ve stejnou dobu seděla Mend v Neri u Selina stolu. K misce jí nikdo nepřidal rozbitý lampion.",
+        "Hush znakoval veselou vzpomínku na klouzavou látku. Mend se smála s ostatními; žertovali o zmatku, ne o něčí hodnotě.",
+        "Mend zůstala až do konce oběda. Nenapravila každý plán v údolí. U stolu byla přesto vítaná."
+      ],
+      "introduction": "Současně začíná menší koncert v městečku Vela a oběd v Neri.",
+      "title": "Hudba pod skutečnou střechou"
+    },
+    "de": {
+      "altTexts": [
+        "Lilt steht mit einer Laute auf Velas kleiner Innenbühne.",
+        "Omi ruht neben den beiden aufgestellten Bänken.",
+        "Lilt spielt Laute, während Omi von einer Bank aus zuhört.",
+        "Lilt hält mit ihrer Laute inne und schaut zum regennassen Fenster.",
+        "Mend isst mit Sela, Tavi und Hush im Hof.",
+        "Hush erzählt in Gebärdensprache, während drei Freunde lächeln.",
+        "Mend sitzt entspannt mit ihren drei Freunden am Tisch."
+      ],
+      "captions": [
+        "Währenddessen trommelte mittags in Vela Regen aufs Saaldach. Lilt stand auf der kleinen Innenbühne; das Terrassendach blieb unbenutzt.",
+        "Omi hatte die beiden Bänke aufgestellt und aufgehört. Lilt bat weder um eine dritte noch um den Umbau des ganzen Saals.",
+        "Lilt spielte die ersten Töne. Drinnen klang die Musik anders, aber immer noch so, dass es sich lohnte zuzuhören.",
+        "Zwischen zwei Stücken sah Lilt zum Regen. Sie durfte das Konzert draußen vermissen und dieses genießen, ohne beide für gleich zu erklären.",
+        "Zur gleichen Zeit saß Mend in Neri an Selas Tisch. Niemand gab ihr mit der Essensschale eine kaputte Laterne.",
+        "Hush erzählte in Gebärdensprache eine lustige Erinnerung an den rutschigen Stoff. Mend lachte mit; der Witz galt dem Durcheinander, nicht dem Wert eines Menschen.",
+        "Mend blieb bis zum Ende des Essens. Sie hatte nicht jeden Plan im Tal repariert. Am Tisch war sie trotzdem willkommen."
+      ],
+      "introduction": "Gleichzeitig beginnen das kleinere Konzert in Vela und das Essen in Neri.",
+      "title": "Musik unter einem richtigen Dach"
+    },
+    "en": {
+      "altTexts": [
+        "Lilt stands with a lute on Vela’s small indoor stage.",
+        "Omi rests beside the hall’s two arranged benches.",
+        "Lilt plays the lute while Omi listens from a bench.",
+        "Lilt pauses with her lute and looks toward the rainy window.",
+        "Mend shares a courtyard meal with Sela, Tavi, and Hush.",
+        "Hush shares a signed anecdote while three friends smile.",
+        "Mend rests comfortably at the table with her three friends."
+      ],
+      "captions": [
+        "Meanwhile, at noon in Vela, rain rattled the hall roof. Lilt stood on the little indoor stage, with the terrace awning still unused.",
+        "Omi had arranged the two benches and stopped. Lilt did not ask for a third, or for the whole hall to be rebuilt.",
+        "Lilt played the first notes. The music sounded different indoors, but it still sounded like music worth listening to.",
+        "Between tunes, Lilt glanced at the rain. She could miss the outdoor concert and enjoy this one without pretending they were the same.",
+        "At the same time in Neri, Mend sat at Sela's table. Nobody handed her a broken lantern with her bowl.",
+        "Hush signed a funny memory about the slippery cloth. Mend laughed with the others; the joke was about the muddle, not anyone's worth.",
+        "Mend stayed for the rest of the meal. She had not repaired every plan in the valley. She was still welcome at the table."
+      ],
+      "introduction": "At the same time, Vela’s smaller concert and Neri’s meal begin.",
+      "title": "Music Beneath a Real Roof"
+    },
+    "es": {
+      "altTexts": [
+        "Lilt sostiene un laúd en el pequeño escenario del salón.",
+        "Omi descansa junto a los dos bancos colocados.",
+        "Lilt toca el laúd mientras Omi escucha desde un banco.",
+        "Lilt descansa con su laúd y mira la ventana lluviosa.",
+        "Mend comparte una comida en el patio con Sela, Tavi y Hush.",
+        "Hush cuenta una anécdota con señas mientras sus tres amigos sonríen.",
+        "Mend descansa cómodamente a la mesa con sus tres amigos."
+      ],
+      "captions": [
+        "Mientras tanto, al mediodía en Vela, la lluvia repiqueteaba sobre el techo. Lilt estaba en el pequeño escenario interior; el toldo exterior seguía sin usar.",
+        "Omi había colocado los dos bancos y terminado. Lilt no pidió un tercero ni que reconstruyeran todo el salón.",
+        "Lilt tocó las primeras notas. La música sonaba diferente dentro, pero seguía siendo música que merecía escucharse.",
+        "Entre canciones, Lilt miró la lluvia. Podía echar de menos el concierto exterior y disfrutar de este sin fingir que eran lo mismo.",
+        "Al mismo tiempo, en Neri, Mend estaba sentada a la mesa de Sela. Nadie le entregó un farol roto junto con el cuenco.",
+        "Hush contó con señas un recuerdo divertido de la tela resbaladiza. Mend rio con los demás; la broma era sobre el enredo, no sobre el valor de nadie.",
+        "Mend se quedó hasta el final de la comida. No había reparado todos los planes del valle. Seguía siendo bienvenida a la mesa."
+      ],
+      "introduction": "El concierto de Vela y la comida de Neri comienzan al mismo tiempo.",
+      "title": "Música bajo un techo de verdad"
+    },
+    "fr": {
+      "altTexts": [
+        "Lilt tient un luth sur la petite scène de la salle.",
+        "Omi se repose près des deux bancs disposés face à la scène.",
+        "Lilt joue du luth et Omi l’écoute depuis un banc.",
+        "Lilt fait une pause avec son luth et regarde la fenêtre pluvieuse.",
+        "Mend partage un repas dans la cour avec Sela, Tavi et Hush.",
+        "Hush raconte une anecdote en signes et ses trois amis sourient.",
+        "Mend reste confortablement à table avec ses trois amis."
+      ],
+      "captions": [
+        "Pendant ce temps, à midi à Vela, la pluie tambourinait sur le toit. Lilt se tenait sur la petite scène intérieure ; l’auvent extérieur restait inutilisé.",
+        "Omi avait disposé les deux bancs, puis s’était arrêtée. Lilt ne demanda ni un troisième banc ni la reconstruction de toute la salle.",
+        "Lilt joua les premières notes. La musique sonnait autrement à l’intérieur, mais elle méritait toujours d’être écoutée.",
+        "Entre deux morceaux, Lilt regarda la pluie. Elle pouvait regretter le concert extérieur et apprécier celui-ci sans prétendre qu’ils étaient identiques.",
+        "Au même moment, à Neri, Mend était assise à la table de Sela. Personne ne lui donna une lanterne cassée avec son bol.",
+        "Hush raconta en signes un souvenir amusant du tissu glissant. Mend rit avec les autres ; la plaisanterie concernait la pagaille, pas la valeur de quelqu’un.",
+        "Mend resta jusqu’à la fin du repas. Elle n’avait pas réparé tous les projets de la vallée. Elle était toujours la bienvenue à table."
+      ],
+      "introduction": "Le concert de Vela et le repas de Neri commencent au même moment.",
+      "title": "De la musique sous un vrai toit"
+    },
+    "hi": {
+      "altTexts": [
+        "लिल्ट भीतरी मंच पर है; पीला छाजन बाहर लपेटा है।",
+        "ओमी दो सजी हुई बेंचों में से एक पर बैठकर आराम करती है।",
+        "लिल्ट सूखे छोटे मंच पर वाद्य बजाती है।",
+        "लिल्ट वाद्य पकड़े बारिश वाली खिड़की की ओर देखती है।",
+        "चार दोस्त बिना मरम्मत के सामान वाली खाने की मेज़ पर हैं।",
+        "हश याद साझा करता है और दोस्त अपनापन लिए साथ हँसते हैं।",
+        "एक नारंगी रिबन के साथ मेंड दोस्तों के भोजन में सहज बैठी है।"
+      ],
+      "captions": [
+        "उसी समय वेला में दोपहर की बारिश सभागार की छत पर बज रही थी। लिल्ट छोटे भीतरी मंच पर थी और बाहरी पीला छाजन अब भी अनछुआ था।",
+        "ओमी ने दो बेंच लगाकर काम रोक दिया। लिल्ट ने तीसरी बेंच या पूरे सभागार को फिर बनाने को नहीं कहा।",
+        "लिल्ट ने पहला सुर छेड़ा। अंदर ध्वनि अलग थी, फिर भी संगीत सुनने योग्य सुंदर था।",
+        "धुनों के बीच लिल्ट ने बारिश देखी। उसे बाहरी कार्यक्रम की कमी लग सकती थी और यह कार्यक्रम अच्छा भी लग सकता था; दोनों को एक जैसा बताना जरूरी नहीं था।",
+        "उसी समय नेरी में मेंड सेला की मेज़ पर बैठी थी। खाने के कटोरे के साथ किसी ने टूटी लालटेन नहीं थमाई।",
+        "हश ने फिसलते कपड़े की मजेदार याद संकेत भाषा में सुनाई। सब साथ हँसे। मज़ाक उस गड़बड़ पर था, किसी को नीचा दिखाने के लिए नहीं।",
+        "मेंड पूरा भोजन होने तक रही। उसने घाटी की हर योजना नहीं सुधारी थी। फिर भी मेज़ पर उसका स्वागत था।"
+      ],
+      "introduction": "लिल्ट भीतर बजाती है, जबकि मेंड दूसरे कस्बे में मेहमान बनकर भोजन करती है।",
+      "title": "पक्की छत के नीचे संगीत"
+    },
+    "id": {
+      "altTexts": [
+        "Lilt berada di panggung dalam ruangan, jauh dari tudung kuning tergulung.",
+        "Omi beristirahat sambil duduk di salah satu dari dua bangku yang sudah tertata.",
+        "Lilt memainkan alat musik di panggung kecil yang kering.",
+        "Lilt menoleh ke jendela hujan sambil memegang alat musiknya.",
+        "Empat teman duduk di meja makan tanpa alat perbaikan.",
+        "Hush berbagi kenangan dengan isyarat; teman-temannya tertawa bersamanya.",
+        "Mend menikmati kebersamaan di meja dengan satu pita jingga."
+      ],
+      "captions": [
+        "Sementara itu, pada tengah hari di Vela, hujan mengetuk atap gedung. Lilt berdiri di panggung kecil; tudung teras belum digunakan.",
+        "Omi telah menata dua bangku, lalu berhenti. Lilt tidak meminta bangku ketiga atau seluruh gedung dibangun ulang.",
+        "Lilt memainkan nada pertama. Musiknya terdengar berbeda di dalam gedung, tetapi tetap layak dinikmati.",
+        "Di antara lagu, Lilt memandang hujan. Ia boleh merindukan konser luar ruangan sekaligus menikmati konser ini, tanpa berpura-pura keduanya sama.",
+        "Pada saat yang sama di Neri, Mend duduk di meja Sela. Tidak ada yang menyerahkan lampion rusak bersama mangkuknya.",
+        "Hush menceritakan kenangan lucu tentang kain yang licin dengan bahasa isyarat. Mereka tertawa bersama; kelucuannya tentang kekacauan itu, bukan merendahkan siapa pun.",
+        "Mend tinggal sampai makan selesai. Ia belum memperbaiki setiap rencana di lembah. Namun, ia tetap diterima di meja itu."
+      ],
+      "introduction": "Konser Lilt berlangsung di dalam gedung, sementara Mend menikmati makan bersama.",
+      "title": "Musik di Bawah Atap yang Kokoh"
+    },
+    "it": {
+      "altTexts": [
+        "Lilt tiene un liuto sul piccolo palco della sala.",
+        "Omi riposa accanto alle due panche sistemate.",
+        "Lilt suona il liuto mentre Omi ascolta da una panca.",
+        "Lilt fa una pausa con il liuto e guarda la finestra piovosa.",
+        "Mend pranza nel cortile con Sela, Tavi e Hush.",
+        "Hush racconta un aneddoto con i segni mentre tre amici sorridono.",
+        "Mend siede comodamente a tavola con i tre amici."
+      ],
+      "captions": [
+        "Intanto, a mezzogiorno a Vela, la pioggia batteva sul tetto della sala. Lilt era sul piccolo palco interno; la copertura della terrazza restava inutilizzata.",
+        "Omi aveva sistemato le due panche e si era fermata. Lilt non ne chiese una terza, né di ricostruire l’intera sala.",
+        "Lilt suonò le prime note. Al chiuso la musica suonava diversa, ma valeva comunque la pena ascoltarla.",
+        "Tra un brano e l’altro Lilt guardò la pioggia. Poteva rimpiangere il concerto all’aperto e godersi questo senza fingere che fossero uguali.",
+        "Nello stesso momento, a Neri, Mend sedeva al tavolo di Sela. Nessuno le porse una lanterna rotta insieme alla ciotola.",
+        "Hush raccontò con i segni un ricordo buffo della stoffa scivolosa. Mend rise con gli altri: lo scherzo riguardava il pasticcio, non il valore di qualcuno.",
+        "Mend rimase fino alla fine del pranzo. Non aveva riparato ogni piano della valle. A tavola era comunque la benvenuta."
+      ],
+      "introduction": "Il concerto di Vela e il pranzo di Neri cominciano nello stesso momento.",
+      "title": "Musica sotto un tetto vero"
+    },
+    "ja": {
+      "altTexts": [
+        "リルトが室内の舞台に立ち、黄色い雨よけは外に巻かれています。",
+        "オミが、並べ終えた二つの長椅子の一つに座って休んでいます。",
+        "リルトが、乾いた小さな舞台で楽器を奏でています。",
+        "リルトが楽器を抱き、雨の窓へ目を向けています。",
+        "四人が、修理道具のない食卓についています。",
+        "ハッシュが思い出を語り、友達が一緒に笑っています。",
+        "一本のオレンジのリボンをつけたメンドが、友達との食事を楽しんでいます。"
+      ],
+      "captions": [
+        "そのころ、正午のヴェラでは雨が会館の屋根をたたいていました。リルトは室内の小舞台に立ち、テラスの雨よけは未使用のままでした。",
+        "オミは二つの長椅子を並べて、作業を終えました。リルトは三つ目も、会館全部の作り直しも頼みませんでした。",
+        "リルトが最初の音を奏でました。室内では違う響きでしたが、それでも耳を傾けたくなる音楽でした。",
+        "曲の合間、リルトは雨を見ました。屋外の演奏会を惜しみながら、今の演奏も楽しめます。同じものだと言い張る必要はありません。",
+        "同じころネリでは、メンドがセラの食卓に座っていました。食事の器と一緒に、壊れたちょうちんを渡す人はいませんでした。",
+        "ハッシュは布が滑った思い出を手話で楽しく話しました。メンドもみんなと笑いました。おかしかったのは慌てた出来事で、誰かをばかにしていたわけではありません。",
+        "メンドは食事が終わるまでそこにいました。谷のすべての計画を直したわけではありません。それでも、食卓に歓迎されていました。"
+      ],
+      "introduction": "リルトは室内で演奏し、メンドは別の町で食事を楽しみます。",
+      "title": "本当の屋根の下の音楽"
+    },
+    "ko": {
+      "altTexts": [
+        "릴트가 실내 무대에 서 있고 노란 차양은 테라스에 말려 있습니다.",
+        "오미가 정돈한 긴 의자 두 개 중 하나에 앉아 쉬고 있습니다.",
+        "릴트가 마른 작은 무대에서 악기를 연주합니다.",
+        "릴트가 악기를 안고 비 내리는 창밖을 바라봅니다.",
+        "네 친구가 수리 도구 없는 식탁에 둘러앉습니다.",
+        "허시가 추억을 나누고 친구들이 다정하게 함께 웃습니다.",
+        "주황 리본 하나를 단 멘드가 친구들과 식사를 즐깁니다."
+      ],
+      "captions": [
+        "한편 같은 정오의 벨라에서는 비가 회관 지붕을 두드렸습니다. 릴트는 작은 실내 무대에 섰고 테라스 차양은 쓰지 않은 채였습니다.",
+        "오미는 긴 의자 두 개를 놓고 일을 마쳤습니다. 릴트는 세 번째 의자도, 회관 전체를 다시 만드는 일도 요구하지 않았습니다.",
+        "릴트가 첫 음을 연주했습니다. 실내에서는 다르게 울렸지만 여전히 귀 기울일 만한 음악이었습니다.",
+        "곡 사이에 릴트는 비를 보았습니다. 야외 공연이 그리워도 지금 공연을 즐길 수 있었습니다. 둘이 같다고 할 필요는 없었습니다.",
+        "같은 시각 네리에서 멘드는 셀라의 식탁에 앉아 있었습니다. 아무도 그릇과 함께 고장 난 등불을 건네지 않았습니다.",
+        "허시가 천이 미끄러졌던 일을 수어로 재미있게 이야기했습니다. 멘드도 함께 웃었습니다. 웃긴 것은 그때의 소동이었고, 누구를 깎아내리려는 웃음은 아니었습니다.",
+        "멘드는 식사가 끝날 때까지 머물렀습니다. 골짜기의 모든 계획을 고친 것은 아니었습니다. 그래도 식탁에서 환영받았습니다."
+      ],
+      "introduction": "릴트는 실내에서 연주하고 멘드는 다른 마을에서 손님으로 식사합니다.",
+      "title": "튼튼한 지붕 아래의 음악"
+    },
+    "pl": {
+      "altTexts": [
+        "Lilt stoi z lutnią na małej scenie w sali.",
+        "Omi odpoczywa przy dwóch ustawionych ławkach.",
+        "Lilt gra na lutni, a Omi słucha z ławki.",
+        "Lilt przerywa grę z lutnią w dłoniach i patrzy w mokre okno.",
+        "Mend je na dziedzińcu z Selą, Tavim i Hushem.",
+        "Hush opowiada w języku migowym, a troje przyjaciół się uśmiecha.",
+        "Mend wygodnie odpoczywa przy stole z trojgiem przyjaciół."
+      ],
+      "captions": [
+        "Tymczasem w południe w miasteczku miasteczku Vela deszcz bębnił o dach sali. Lilt stała na małej scenie wewnątrz; osłona tarasu pozostała nieużyta.",
+        "Omi ustawiła dwie ławki i skończyła. Lilt nie poprosiła o trzecią ani o przebudowę całej sali.",
+        "Lilt zagrała pierwsze nuty. W środku muzyka brzmiała inaczej, ale nadal była warta słuchania.",
+        "Między utworami Lilt spojrzała na deszcz. Mogła żałować koncertu na dworze i cieszyć się tym, nie udając, że są takie same.",
+        "W tym samym czasie w Neri Mend siedziała przy stole Seli. Nikt nie podał jej zepsutego lampionu razem z miską.",
+        "Hush zamigał zabawne wspomnienie o śliskiej tkaninie. Mend śmiała się z innymi; żart dotyczył zamieszania, nie czyjejś wartości.",
+        "Mend została do końca posiłku. Nie naprawiła wszystkich planów doliny. Nadal była mile widziana przy stole."
+      ],
+      "introduction": "Jednocześnie zaczynają się mniejszy koncert i wspólny posiłek.",
+      "title": "Muzyka pod prawdziwym dachem"
+    },
+    "pt": {
+      "altTexts": [
+        "Lilt segura um alaúde no pequeno palco do salão.",
+        "Omi descansa perto dos dois bancos arrumados.",
+        "Lilt toca alaúde enquanto Omi escuta de um banco.",
+        "Lilt faz uma pausa com o alaúde e olha para a janela chuvosa.",
+        "Mend compartilha uma refeição no pátio com Sela, Tavi e Hush.",
+        "Hush conta uma lembrança em sinais enquanto três amigos sorriem.",
+        "Mend fica confortavelmente à mesa com os três amigos."
+      ],
+      "captions": [
+        "Enquanto isso, ao meio-dia em Vela, a chuva batia no teto do salão. Lilt estava no pequeno palco interno; a cobertura do terraço continuava sem uso.",
+        "Omi arrumara os dois bancos e parara. Lilt não pediu um terceiro, nem a reconstrução do salão inteiro.",
+        "Lilt tocou as primeiras notas. A música soava diferente dentro do salão, mas ainda valia a pena ouvi-la.",
+        "Entre as músicas, Lilt olhou para a chuva. Podia sentir falta do concerto ao ar livre e gostar daquele sem fingir que eram iguais.",
+        "Ao mesmo tempo, em Neri, Mend estava à mesa de Sela. Ninguém lhe deu uma lanterna quebrada junto com a tigela.",
+        "Hush contou em sinais uma lembrança engraçada do tecido escorregadio. Mend riu com os outros; a graça estava na confusão, não no valor de ninguém.",
+        "Mend ficou até o fim da refeição. Não havia consertado todos os planos do vale. Continuava sendo bem-vinda à mesa."
+      ],
+      "introduction": "O concerto de Vela e a refeição de Neri começam ao mesmo tempo.",
+      "title": "Música sob um teto de verdade"
+    },
+    "ru": {
+      "altTexts": [
+        "Лилт стоит с лютней на небольшой сцене в зале.",
+        "Оми отдыхает возле двух расставленных скамей.",
+        "Лилт играет на лютне, а Оми слушает со скамьи.",
+        "Лилт делает паузу с лютней и смотрит в дождливое окно.",
+        "Менд обедает во дворе с Селой, Тави и Хашем.",
+        "Хаш рассказывает жестами, а трое друзей улыбаются.",
+        "Менд удобно сидит за столом с тремя друзьями."
+      ],
+      "captions": [
+        "Тем временем в полдень в Веле дождь барабанил по крыше зала. Лилт стояла на маленькой внутренней сцене; навес террасы остался неиспользованным.",
+        "Оми расставила две скамьи и закончила. Лилт не попросила ни третью, ни переделку всего зала.",
+        "Лилт сыграла первые ноты. В помещении музыка звучала иначе, но её по-прежнему стоило слушать.",
+        "Между мелодиями Лилт взглянула на дождь. Она могла жалеть о концерте снаружи и радоваться этому, не притворяясь, будто они одинаковые.",
+        "В то же время в Нери Менд сидела за столом Селы. Никто не подал ей сломанный фонарик вместе с миской.",
+        "Хаш рассказал жестами смешной случай со скользкой тканью. Менд смеялась вместе со всеми: шутка была о путанице, а не о чьей-то ценности.",
+        "Менд осталась до конца обеда. Она не исправила все планы долины. За столом ей всё равно были рады."
+      ],
+      "introduction": "Одновременно начинаются небольшой концерт в Веле и обед в Нери.",
+      "title": "Музыка под настоящей крышей"
+    },
+    "tr": {
+      "altTexts": [
+        "Lilt salonun küçük sahnesinde lavta tutuyor.",
+        "Omi düzenlenmiş iki bankın yanında dinleniyor.",
+        "Lilt lavta çalarken Omi banktan dinliyor.",
+        "Lilt lavtasıyla ara verip yağmurlu pencereye bakıyor.",
+        "Mend, Sela, Tavi ve Hush’la avluda yemek yiyor.",
+        "Hush işaret diliyle bir anı anlatırken üç arkadaşı gülümsüyor.",
+        "Mend üç arkadaşıyla masada rahatça oturuyor."
+      ],
+      "captions": [
+        "Bu sırada Vela’da öğlen yağmur salon çatısını dövüyordu. Lilt küçük iç sahnede duruyordu; teras tentesi kullanılmamıştı.",
+        "Omi iki bankı düzenleyip durmuştu. Lilt ne üçüncü bir bank ne de bütün salonun yeniden yapılmasını istedi.",
+        "Lilt ilk notaları çaldı. Müzik içeride farklı duyuluyordu, ama hâlâ dinlenmeye değerdi.",
+        "Parçalar arasında Lilt yağmura baktı. Açık hava konserini özleyebilir, bunun aynı olduğunu söylemeden bu konserden de keyif alabilirdi.",
+        "Aynı anda Neri’de Mend, Sela’nın masasında oturuyordu. Kimse kâsesiyle birlikte eline kırık bir fener vermedi.",
+        "Hush, kayan kumaşla ilgili komik anıyı işaret diliyle anlattı. Mend diğerleriyle güldü; şaka kimsenin değeriyle değil, karışıklıkla ilgiliydi.",
+        "Mend yemeğin sonuna kadar kaldı. Vadinin bütün planlarını onarmamıştı. Yine de masada yeri vardı."
+      ],
+      "introduction": "Vela’daki küçük konserle Neri’deki yemek aynı anda başlar.",
+      "title": "Gerçek Bir Çatının Altında Müzik"
+    },
+    "vi": {
+      "altTexts": [
+        "Lilt ở sân khấu trong nhà; mái vàng còn cuộn ở sân hiên.",
+        "Omi ngồi nghỉ trên một trong hai chiếc ghế dài đã xếp.",
+        "Lilt chơi nhạc cụ trên sân khấu nhỏ khô ráo.",
+        "Lilt ôm nhạc cụ, nhìn qua cửa sổ có mưa.",
+        "Bốn người ngồi quanh bàn ăn không có đồ sửa chữa.",
+        "Hush chia sẻ kỷ niệm, các bạn vui vẻ cười cùng cậu.",
+        "Mend tận hưởng bữa ăn cùng bạn, dải cam thả lỏng bên cô."
+      ],
+      "captions": [
+        "Trong khi đó, trưa ở Vela, mưa gõ mái hội trường. Lilt đứng trên sân khấu nhỏ trong nhà, còn mái che sân hiên vẫn chưa dùng.",
+        "Omi xếp xong hai ghế dài rồi dừng. Lilt không đòi ghế thứ ba, cũng không yêu cầu làm lại cả hội trường.",
+        "Lilt chơi những nốt đầu. Âm thanh trong nhà khác ngoài trời, nhưng vẫn là âm nhạc đáng lắng nghe.",
+        "Giữa hai bài, Lilt nhìn mưa. Cô có thể tiếc buổi diễn ngoài trời và vẫn thích buổi này, không cần coi chúng giống hệt nhau.",
+        "Cùng lúc ở Neri, Mend ngồi bên bàn Sela. Không ai đưa cô đèn hỏng kèm với bát ăn.",
+        "Hush kể chuyện góc vải trượt bằng ngôn ngữ ký hiệu. Mend cười cùng mọi người; họ cười sự lúng túng lúc ấy, không hạ thấp ai.",
+        "Mend ở lại đến hết bữa. Cô không sửa được mọi kế hoạch trong thung lũng. Cô vẫn được chào đón bên bàn ăn."
+      ],
+      "introduction": "Lilt diễn trong nhà, còn Mend yên tâm làm khách ở thị trấn khác.",
+      "title": "Âm nhạc dưới mái nhà vững chắc"
+    },
+    "zh": {
+      "altTexts": [
+        "莉尔特站在室内舞台，黄色雨篷留在露台。",
+        "奥米坐在摆好的两条长凳中的一条上休息。",
+        "莉尔特在干燥的小舞台上弹奏乐器。",
+        "莉尔特抱着乐器，看向窗外雨景。",
+        "四个朋友坐在饭桌旁，桌上没有待修物品。",
+        "哈什分享趣事，朋友们友善地一起笑。",
+        "门德安心参与饭会，身边一条橙色丝带松松垂着。"
+      ],
+      "captions": [
+        "与此同时，维拉也到了正午。雨打着会堂屋顶，莉尔特站在小小的室内舞台上，露台雨篷仍没有使用。",
+        "奥米摆好两条长凳就停下了。莉尔特没有再要第三条，也没有要求把整个会堂重建一遍。",
+        "莉尔特奏出第一个音。室内的声音与户外不同，却依然是值得倾听的音乐。",
+        "曲间，她望了望窗外的雨。她可以想念户外音乐会，也喜欢眼前这场，不必假装两者一样。",
+        "同一时刻，内里的门德坐在塞拉桌旁。没人给她递饭碗时，顺手再塞一盏坏灯笼。",
+        "哈什用手语讲起滑落布角的趣事。门德和大家一起笑，笑的是当时的手忙脚乱，不是谁不值得尊重。",
+        "门德一直坐到饭吃完。她没有修好山谷里的每一个计划，却仍然是饭桌上受欢迎的人。"
+      ],
+      "introduction": "莉尔特在室内演奏，门德在另一座小镇安心做客。",
+      "title": "真正屋顶下的音乐"
+    }
+  },
+  "number": 23,
+  "panels": [
+    {
+      "altText": "Lilt stands with a lute on Vela’s small indoor stage.",
+      "image": "N02E23P01.png"
+    },
+    {
+      "altText": "Omi rests beside the hall’s two arranged benches.",
+      "image": "N02E23P02.png"
+    },
+    {
+      "altText": "Lilt plays the lute while Omi listens from a bench.",
+      "image": "N02E23P03.png"
+    },
+    {
+      "altText": "Lilt pauses with her lute and looks toward the rainy window.",
+      "image": "N02E23P04.png"
+    },
+    {
+      "altText": "Mend shares a courtyard meal with Sela, Tavi, and Hush.",
+      "image": "N02E23P05.png"
+    },
+    {
+      "altText": "Hush shares a signed anecdote while three friends smile.",
+      "image": "N02E23P06.png"
+    },
+    {
+      "altText": "Mend rests comfortably at the table with her three friends.",
+      "image": "N02E23P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

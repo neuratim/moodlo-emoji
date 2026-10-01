@@ -1,0 +1,442 @@
+{
+  "id": "N02E06",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "تمسك ميند بالخيط بينما ينتبه تافي إلى زمن الرحلة.",
+        "العبّارة متوقفة في محطة وسيطة وروك يشرح الطريق البديل.",
+        "تقترب العبّارة من رصيف نيري الخشبي ومخزن القوارب ذي سقف القصب.",
+        "يفرد روك مظلة العبّارة الزرقاء الكبيرة على الأرض.",
+        "يشير روك إلى درزة ممزقة في المظلة الزرقاء، وخلفه إطارها الخشبي.",
+        "يرتب الصديقان المواد بينما تمد ميند يدها إلى قطعة تلميع.",
+        "تنتظر سيلا عند الباب، وميند تعيد قطعة التلميع."
+      ],
+      "captions": [
+        "على النهر، بدأت ميند تعد الغرز. أما تافي فحسب الوقت. تستغرق الرحلة ساعتين، سواء عمل أحد أم لم يعمل.",
+        "عند توقف قصير في رصيف وسيط، أوضح روك أن المطر قد يغلق الطريق النهري. الطريق الشرقي يستغرق ثلاث ساعات، وميند لم تحسب وقت الانتقال.",
+        "بعد ساعتين من مغادرة لوما، وصلوا إلى نيري. لمعت أسقف القصب فوق الماء، وكانت مظلة العبّارة الملفوفة تنتظر في مخزن قوارب روك.",
+        "داخل المخزن، بسط روك المظلة. لم تكشف العينة الصغيرة حجم العمل كله.",
+        "قال روك: «هذه الدرزة وحدها تحتاج إلى الإصلاح. أما الإطار فسأتولى أمره». كانت ميند تتخيل أنها مطالبة بإصلاح القارب كله.",
+        "عرض تافي فرز الخيوط، ورتب هاش القماش. قبلت ميند المساعدة ثم بدأت تضيف أعمالًا لم يطلبها أحد.",
+        "قبل أن تبدأ ميند بالتلميع، وصلت سيلا. قالت: «تعالي لرؤية النباتات أولًا». وضعت ميند قطعة القماش جانبًا."
+      ],
+      "introduction": "تكشف الرحلة إلى نيري زمن الانتقال وحجم العمل الحقيقي.",
+      "title": "للطريق مدة أيضًا"
+    },
+    "bn": {
+      "altTexts": [
+        "মেন্ড সুতো ধরে আছে, টাভি যাত্রার সময় দেখছে।",
+        "থামা নৌকায় রুক বিকল্প পথ বোঝাচ্ছে।",
+        "নৌকা নেরির কাঠের ঘাট ও নলখাগড়ার ছাদের নৌকাঘরের কাছে আসছে।",
+        "রুক মেঝেতে ফেরির বড় নীল ছাউনিটি বিছিয়ে দিচ্ছে।",
+        "রুক নীল ছাউনির ছেঁড়া সেলাই দেখাচ্ছে; কাঠের কাঠামোটি তার পেছনে আছে।",
+        "বন্ধুরা জিনিস সাজাচ্ছে; মেন্ড পালিশের কাপড় নিতে যাচ্ছে।",
+        "সেলা দরজায় দাঁড়িয়ে, মেন্ড ন্যাকড়া ফিরিয়ে রাখছে।"
+      ],
+      "captions": [
+        "নদীতে মেন্ড সেলাই গুনতে শুরু করল। টাভি গুনল সময়। কাজ করুক বা না করুক, যাত্রা দু ঘণ্টারই।",
+        "মাঝের ঘাটে একটু থামলে রুক বলল, বৃষ্টিতে নদীর পথ বন্ধ হতে পারে। পূর্বের সড়ক তিন ঘণ্টার; মেন্ড যাতায়াতের সময়ই রাখেনি।",
+        "লুমা ছাড়ার দু ঘণ্টা পরে তারা নেরি পৌঁছল। জলের ওপরে নলখাগড়ার ছাদ চকচক করছিল, আর খেয়ানৌকার গোটানো ছাউনিটি রুকের নৌকাঘরে রাখা ছিল।",
+        "নৌকাঘরে রুক ছাউনি মেলে দিল। ছোট নমুনা দেখে পুরো কাজের আকার বোঝা যায়নি।",
+        "“শুধু এই ছেঁড়া সেলাইটা সারাতে হবে,” রুক বলল। “কাঠামো আমি সামলাব।” মেন্ড ভেবেছিল তাকে পুরো নৌকা সারাতে হবে।",
+        "টাভি সুতো বাছতে চাইল, হাশ কাপড় গুছিয়ে দিল। সাহায্য নিয়েও মেন্ড এমন কাজ যোগ করতে লাগল যা কেউ চায়নি।",
+        "মেন্ড পালিশ করা শুরু করার আগেই সেলা এল। “আগে চারাগুলো দেখে এসো,” সে বলল। মেন্ড ন্যাকড়াটি নামিয়ে রাখল।"
+      ],
+      "introduction": "নেরি যাওয়ার পথে সময় ও আসল কাজের পরিমাণ বোঝা যায়।",
+      "title": "পথ চলতেও সময় লাগে"
+    },
+    "cs": {
+      "altTexts": [
+        "Mend drží látku a Tavi zkoumá obrázkový jízdní řád.",
+        "Rook ukazuje říční trasu a delší východní cestu na mapě.",
+        "Přátelé připlouvají k molu v Neri s rákosovými střechami.",
+        "Rook rozvíjí na podlaze velkou modrou lodní plachtu.",
+        "Rook ukazuje na roztržený šev modré plachty; za ním stojí její dřevěná konstrukce.",
+        "Tavi třídí nitě a Hush rovná plachtu.",
+        "Sela zve Mend ven a Mend odkládá hadřík."
+      ],
+      "captions": [
+        "Na řece začala Mend počítat stehy. Tavi místo toho počítal hodiny. Plavba trvala dvě, ať někdo pracoval, nebo ne.",
+        "Při krátké zastávce u mola Rook vysvětlil, že déšť může přívoz zastavit. Východní cesta trvá tři hodiny; Mend s cestováním vůbec nepočítala.",
+        "Dvě hodiny po odjezdu z městečka Luma dorazili do Neri. Nad vodou zářily rákosové střechy a svinutá plachta z přívozu čekala v Rookově loděnici.",
+        "V loděnici Rook plachtu rozvinul. Z malého vzorku nebylo poznat, jak veliká práce je čeká.",
+        "„Opravit potřebuje jen tento šev,“ řekl Rook. „O konstrukci se postarám já.“ Mend si představovala, že musí opravit celou loď.",
+        "Tavi nabídl, že roztřídí nitě. Hush srovnal látku. Mend jejich pomoc přijala, ale začala přidávat úkoly, o které nikdo nežádal.",
+        "Než se Mend pustila do leštění, dorazila Sela. „Nejdřív se pojď podívat na rostlinky,“ řekla. Mend hadřík odložila."
+      ],
+      "introduction": "Výlet do Neri odhalí čas, se kterým Mend nepočítala.",
+      "title": "Cesta potřebuje čas"
+    },
+    "de": {
+      "altTexts": [
+        "Mend hält Stoff, während Tavi einen bebilderten Fahrplan betrachtet.",
+        "Rook zeigt die Flussroute und eine längere östliche Straße auf der Karte.",
+        "Die Freunde kommen an Neris Kai mit seinen Schilfdächern an.",
+        "Rook rollt ein großes blaues Fährdach auf dem Boden aus.",
+        "Rook zeigt auf eine gerissene Naht im blauen Stoffdach; dahinter steht der Holzrahmen.",
+        "Tavi sortiert Garn, während Hush das Stoffdach glättet.",
+        "Sela bittet Mend nach draußen, während Mend einen Lappen ablegt."
+      ],
+      "captions": [
+        "Auf dem Fluss begann Mend, Stiche zu zählen. Tavi zählte lieber die Stunden. Die Überfahrt dauerte zwei, ob jemand arbeitete oder nicht.",
+        "Bei einem kurzen Halt erklärte Rook, dass Regen den Fährbetrieb stoppen könnte. Die östliche Straße dauerte drei Stunden; Mend hatte keine Reisezeit eingeplant.",
+        "Zwei Stunden nach der Abfahrt aus Luma erreichten sie Neri. Schilfdächer glänzten über dem Wasser, und das aufgerollte Regendach der Fähre wartete in Rooks Bootsschuppen.",
+        "Im Bootsschuppen rollte Rook das Dach aus. Das kleine Stoffmuster hatte die Größe der ganzen Arbeit verborgen.",
+        "„Nur diese Naht muss repariert werden“, sagte Rook. „Um den Rahmen kümmere ich mich.“ Mend hatte sich vorgestellt, das ganze Boot reparieren zu müssen.",
+        "Tavi bot an, Garn zu sortieren. Hush glättete den Stoff. Mend nahm die Hilfe an und fügte dann Aufgaben hinzu, um die niemand gebeten hatte.",
+        "Bevor Mend mit dem Polieren anfangen konnte, kam Sela. „Sieh dir zuerst die Pflanzen an“, sagte sie. Mend legte den Lappen weg."
+      ],
+      "introduction": "Die Fahrt nach Neri zeigt, welche Stunden Mend vergessen hat.",
+      "title": "Auch der Weg braucht Zeit"
+    },
+    "en": {
+      "altTexts": [
+        "Mend holds sewing cloth while Tavi studies a pictorial timetable.",
+        "Rook shows a river route and a longer eastern road on a map.",
+        "The friends arrive at Neri’s reed-roofed dock.",
+        "Rook unrolls a large blue ferry awning on the floor.",
+        "Rook points to a torn seam in the blue awning, with its wooden frame behind him.",
+        "Tavi sorts thread while Hush flattens the awning.",
+        "Sela invites Mend out of the boatshed as Mend puts down a rag."
+      ],
+      "captions": [
+        "On the river, Mend began counting stitches. Tavi counted the hours instead. The crossing took two, whether anyone worked or not.",
+        "At a brief landing stop, Rook explained that rain could close the river. The eastern road took three hours; Mend had allowed no travel time.",
+        "Two hours after leaving Luma, they reached Neri. Its reed roofs shone above the water, and the ferry's rolled-up awning waited in Rook's boatshed.",
+        "Inside the boatshed, Rook unrolled the awning. The little sample had hidden the size of the whole job.",
+        "“Only this seam needs mending,” Rook said. “I will take care of the frame.” Mend had imagined she must repair the entire boat.",
+        "Tavi offered to sort the thread. Hush arranged the cloth. Mend accepted their help, then began adding tasks nobody had asked her to do.",
+        "Before Mend could start polishing, Sela arrived. “Come and see the plants first,” she said. Mend put the rag down."
+      ],
+      "introduction": "The trip to Neri reveals how much time Mend’s plans forgot.",
+      "title": "The Journey Has a Length"
+    },
+    "es": {
+      "altTexts": [
+        "Mend sostiene tela mientras Tavi consulta un horario ilustrado.",
+        "Rook muestra en el mapa el río y un camino oriental más largo.",
+        "Los amigos llegan al muelle de Neri, con tejados de juncos.",
+        "Rook desenrolla un gran toldo azul sobre el suelo.",
+        "Rook señala una costura rasgada del toldo azul, con la estructura de madera detrás.",
+        "Tavi ordena el hilo mientras Hush alisa el toldo.",
+        "Sela invita a Mend a salir mientras Mend deja un trapo."
+      ],
+      "captions": [
+        "En el río, Mend empezó a contar puntadas. Tavi contó las horas. La travesía duraba dos, trabajaran o no.",
+        "Durante una breve parada, Rook explicó que la lluvia podía cerrar la ruta fluvial. El camino oriental llevaba tres horas; Mend no había previsto tiempo para viajar.",
+        "Dos horas después de salir de Luma, llegaron a Neri. Los tejados de juncos brillaban sobre el agua, y el toldo del transbordador esperaba enrollado en el cobertizo de Rook.",
+        "En el cobertizo, Rook extendió el toldo. La pequeña muestra había ocultado el tamaño de todo el trabajo.",
+        "«Solo hay que reparar esta costura», dijo Rook. «Yo me ocuparé de la estructura». Mend había imaginado que debía reparar el barco entero.",
+        "Tavi ofreció ordenar el hilo. Hush acomodó la tela. Mend aceptó su ayuda y después empezó a añadir tareas que nadie había pedido.",
+        "Antes de que Mend empezara a pulir, llegó Sela. «Ven a ver primero las plantas», dijo. Mend dejó el trapo."
+      ],
+      "introduction": "El trayecto a Neri revela las horas que Mend no había contado.",
+      "title": "El viaje ocupa tiempo"
+    },
+    "fr": {
+      "altTexts": [
+        "Mend tient de la toile pendant que Tavi examine un horaire illustré.",
+        "Rook montre le fleuve et une route orientale plus longue sur la carte.",
+        "Les amis arrivent au quai de Neri bordé de toits de roseaux.",
+        "Rook déroule un grand auvent bleu sur le sol.",
+        "Rook montre une couture déchirée de l’auvent bleu, avec sa structure en bois derrière lui.",
+        "Tavi trie le fil tandis que Hush aplatit l’auvent.",
+        "Sela invite Mend à sortir tandis que celle-ci repose un chiffon."
+      ],
+      "captions": [
+        "Sur le fleuve, Mend commença à compter les points de couture. Tavi compta plutôt les heures. La traversée en prenait deux, avec ou sans travail.",
+        "Lors d’une courte escale, Rook expliqua que la pluie pouvait interrompre les traversées. La route orientale prenait trois heures ; Mend n’avait prévu aucun temps de trajet.",
+        "Deux heures après le départ de Luma, ils arrivèrent à Neri. Les toits de roseaux luisaient au-dessus de l’eau, et l’auvent du bac attendait, roulé, dans le hangar de Rook.",
+        "Dans le hangar, Rook déroula l’auvent. Le petit échantillon avait caché l’ampleur du travail.",
+        "« Seule cette couture a besoin d’être réparée, dit Rook. Je m’occuperai de la structure. » Mend s’était imaginé devoir réparer le bateau entier.",
+        "Tavi proposa de trier le fil. Hush étala la toile. Mend accepta leur aide, puis commença à ajouter des tâches que personne n’avait demandées.",
+        "Avant que Mend commence à polir quoi que ce soit, Sela arriva. « Viens d’abord voir les plants », dit-elle. Mend posa le chiffon."
+      ],
+      "introduction": "Le voyage vers Neri révèle les heures oubliées dans le planning.",
+      "title": "Le trajet prend du temps"
+    },
+    "hi": {
+      "altTexts": [
+        "मेंड धागा पकड़े है, तावी यात्रा का समय देखता है।",
+        "रुकी नाव पर रूक वैकल्पिक रास्ता समझाता है।",
+        "नाव नेरी के लकड़ी वाले घाट और सरकंडे की छत वाले नावघर के पास आती है।",
+        "रूक फ़र्श पर नौका का बड़ा नीला शामियाना खोलता है।",
+        "रूक नीले छाजन की उधड़ी सिलाई दिखाता है; लकड़ी का ढाँचा उसके पीछे है।",
+        "दोस्त सामान तैयार करते हैं, मेंड चमकाने वाला कपड़ा उठाने लगती है।",
+        "सेला दरवाज़े पर है और मेंड सफाई का कपड़ा वापस रखती है।"
+      ],
+      "captions": [
+        "नदी पर मेंड टाँके गिनने लगी। तावी समय गिन रहा था। काम करो या न करो, पार जाने में दो घंटे लगते थे।",
+        "बीच के घाट पर थोड़ी देर रुकते समय रूक ने बताया कि बारिश में नाव बंद हो सकती है। पूर्व की सड़क तीन घंटे की थी; मेंड ने यात्रा का समय रखा ही नहीं था।",
+        "लूमा छोड़ने के दो घंटे बाद वे नेरी पहुँचे। पानी के ऊपर सरकंडे की छतें चमक रही थीं और नाव का लपेटा हुआ छाजन रूक के नावघर में रखा था।",
+        "नावघर में रूक ने छाजन खोल दिया। छोटे नमूने से पूरे काम का आकार पता नहीं चला था।",
+        "“बस यह उधड़ी सिलाई ठीक करनी है,” रूक बोला। “ढाँचा मैं सँभाल लूँगा।” मेंड ने तो समझा था कि उसे पूरी नाव ठीक करनी है।",
+        "तावी ने धागे छाँटने और हश ने कपड़ा सँभालने की बात कही। मेंड ने मदद ली, फिर ऐसे काम जोड़ने लगी जो किसी ने माँगे ही नहीं थे।",
+        "मेंड पॉलिश करना शुरू करती, उससे पहले सेला आ गई। “पहले पौधे देख लो,” उसने कहा। मेंड ने कपड़ा रख दिया।"
+      ],
+      "introduction": "नेरी की यात्रा में दूरी और असली काम का आकार समझ आता है।",
+      "title": "रास्ते में भी समय लगता है"
+    },
+    "id": {
+      "altTexts": [
+        "Mend memegang benang sementara Tavi memperhatikan waktu perjalanan.",
+        "Feri berhenti di tempat singgah saat Rook menjelaskan jalur alternatif.",
+        "Feri mendekati dermaga Neri dan gudang perahu beratap ilalang.",
+        "Rook membentangkan tenda feri biru yang besar di lantai.",
+        "Rook menunjuk jahitan yang robek pada tudung biru, dengan rangka kayu di belakangnya.",
+        "Teman-teman menyiapkan bahan sementara Mend meraih kain pemoles.",
+        "Sela menunggu di pintu; lap Mend diletakkan kembali."
+      ],
+      "captions": [
+        "Di sungai, Mend mulai menghitung jahitan. Tavi justru menghitung waktu. Penyeberangan tetap memerlukan dua jam, bekerja ataupun tidak.",
+        "Saat singgah sebentar di dermaga antara, Rook menjelaskan bahwa hujan bisa menutup jalur sungai. Jalan timur memerlukan tiga jam; Mend belum memperhitungkan perjalanan.",
+        "Dua jam setelah meninggalkan Luma, mereka tiba di Neri. Atap-atap ilalang berkilau di atas air; tudung feri yang tergulung menunggu di gudang perahu Rook.",
+        "Di dalam gudang perahu, Rook membuka gulungan tudung. Contoh kecil tadi tidak memperlihatkan besarnya seluruh pekerjaan.",
+        "“Hanya jahitan ini yang perlu diperbaiki,” kata Rook. “Aku akan mengurus rangkanya.” Mend semula mengira ia harus memperbaiki seluruh perahu.",
+        "Tavi menawarkan untuk memilah benang. Hush menata kain. Mend menerima bantuan mereka, lalu menambahkan tugas yang tidak diminta siapa pun.",
+        "Sebelum Mend mulai memoles, Sela datang. “Lihat tanamannya dulu,” ajaknya. Mend meletakkan lap itu."
+      ],
+      "introduction": "Di Neri, mereka mempelajari waktu tempuh dan pekerjaan yang sebenarnya diperlukan.",
+      "title": "Perjalanan Memerlukan Waktu"
+    },
+    "it": {
+      "altTexts": [
+        "Mend tiene della stoffa mentre Tavi guarda un orario illustrato.",
+        "Rook mostra sulla mappa il fiume e una strada orientale più lunga.",
+        "Gli amici arrivano al molo di Neri, tra tetti di canne.",
+        "Rook srotola una grande copertura blu sul pavimento.",
+        "Rook indica una cucitura strappata della copertura blu, con il telaio di legno alle sue spalle.",
+        "Tavi ordina il filo mentre Hush distende la copertura.",
+        "Sela invita Mend a uscire mentre Mend posa uno straccio."
+      ],
+      "captions": [
+        "Sul fiume Mend cominciò a contare i punti. Tavi contò invece le ore. La traversata ne richiedeva due, che si lavorasse o no.",
+        "Durante una breve sosta Rook spiegò che la pioggia poteva fermare il traghetto. La strada orientale richiedeva tre ore; Mend non aveva previsto tempo per viaggiare.",
+        "Due ore dopo la partenza da Luma arrivarono a Neri. I tetti di canne brillavano sull’acqua e la copertura arrotolata del traghetto aspettava nel capanno di Rook.",
+        "Nel capanno Rook srotolò la copertura. Il piccolo campione aveva nascosto le dimensioni del lavoro completo.",
+        "«Bisogna riparare solo questa cucitura», disse Rook. «Al telaio penso io». Mend si era immaginata di dover riparare tutta la barca.",
+        "Tavi si offrì di ordinare il filo. Hush sistemò la stoffa. Mend accettò l’aiuto, poi cominciò ad aggiungere compiti che nessuno le aveva chiesto.",
+        "Prima che Mend cominciasse a lucidare, arrivò Sela. «Vieni prima a vedere le piante», disse. Mend posò lo straccio."
+      ],
+      "introduction": "La traversata verso Neri rivela le ore dimenticate da Mend.",
+      "title": "Anche il viaggio richiede tempo"
+    },
+    "ja": {
+      "altTexts": [
+        "メンドが糸を持つ横で、タヴィが移動時間を確かめています。",
+        "停泊中の船で、ルークが別の経路を説明しています。",
+        "渡し船が、葦屋根の船小屋のあるネリの桟橋へ近づいています。",
+        "ルークが床に、大きな青い渡し船の雨よけを広げています。",
+        "ルークが青い雨よけの破れた縫い目を指し、後ろには木枠があります。",
+        "友達が材料を整える一方、メンドは磨き布を取ろうとしています。",
+        "入口のセラに気づき、メンドが磨き布を戻しています。"
+      ],
+      "captions": [
+        "川の上で、メンドは針目を数え始めました。タヴィは時間を数えました。働いていてもいなくても、船旅には二時間かかるのです。",
+        "途中の船着き場で少し止まったとき、ルークは雨で川を渡れなくなることもあると話しました。東の陸路は三時間。メンドは移動時間を入れていませんでした。",
+        "ルマを出て二時間後、ネリに着きました。水辺では葦の屋根が光り、渡し船の雨よけは、巻かれたままルークの船小屋に置かれていました。",
+        "船小屋でルークが雨よけを広げました。小さな見本では、仕事全体の大きさはわからなかったのです。",
+        "「直すのは、この縫い目だけ。枠は僕が引き受ける」とルーク。メンドは船全部を直さなければならないと思い込んでいました。",
+        "タヴィは糸を分け、ハッシュは布を整えました。助けを受けたメンドは、今度は誰にも頼まれていない仕事まで加え始めました。",
+        "メンドが磨き始める前に、セラが来ました。「まず苗を見に来て」メンドは布を置きました。"
+      ],
+      "introduction": "ネリまでの旅で、本当の所要時間と作業の大きさがわかります。",
+      "title": "移動にも時間がかかる"
+    },
+    "ko": {
+      "altTexts": [
+        "멘드는 실을 들고 타비는 이동 시간을 살핍니다.",
+        "멈춘 배에서 루크가 다른 이동 경로를 설명합니다.",
+        "배가 갈대 지붕 배 창고 옆 네리 나무 선착장에 접근합니다.",
+        "루크가 바닥에 커다란 파란색 나룻배 차양을 펼칩니다.",
+        "루크가 파란 차양의 찢어진 이음매를 가리키고, 뒤에는 나무틀이 있습니다.",
+        "친구들이 재료를 정리하는 동안 멘드는 광내는 천을 집으려 합니다.",
+        "문가에 셀라가 서 있고 멘드는 걸레를 돌려놓습니다."
+      ],
+      "captions": [
+        "강 위에서 멘드는 바늘땀을 세었습니다. 타비는 시간을 셌습니다. 일을 하든 하지 않든 뱃길에는 두 시간이 필요했습니다.",
+        "중간 선착장에 잠시 멈췄을 때 루크는 비가 오면 운항이 중단될 수 있다고 했습니다. 동쪽 육로는 세 시간인데 멘드는 이동 시간을 빼놓았습니다.",
+        "루마를 떠난 지 두 시간 뒤 네리에 도착했습니다. 물가의 갈대 지붕이 빛났고, 둘둘 말린 나룻배 차양은 루크의 배 창고에 놓여 있었습니다.",
+        "배 창고에서 루크가 차양을 펼쳤습니다. 작은 견본만 보아서는 전체 작업의 크기를 알 수 없었습니다.",
+        "“이 이음매만 고치면 돼. 틀은 내가 맡을게.” 루크가 말했습니다. 멘드는 자신이 배 전체를 고쳐야 한다고 생각하고 있었습니다.",
+        "타비는 실을 정리하고 허시는 천을 펴 주겠다고 했습니다. 도움을 받은 멘드는 아무도 부탁하지 않은 일까지 더하기 시작했습니다.",
+        "멘드가 광을 내기 시작하기 전에 셀라가 왔습니다. “모종부터 보러 와.” 멘드는 걸레를 내려놓았습니다."
+      ],
+      "introduction": "네리로 가는 동안 실제 이동 시간과 작업 범위를 알게 됩니다.",
+      "title": "길에도 길이가 있다"
+    },
+    "pl": {
+      "altTexts": [
+        "Mend trzyma tkaninę, a Tavi ogląda obrazkowy rozkład rejsów.",
+        "Rook pokazuje na mapie rzekę i dłuższą wschodnią drogę.",
+        "Przyjaciele docierają do przystani w Neri pod trzcinowymi dachami.",
+        "Rook rozwija na podłodze wielką niebieską osłonę promu.",
+        "Rook wskazuje rozdarty szew niebieskiej osłony, a za nim stoi drewniany stelaż.",
+        "Tavi sortuje nici, a Hush wygładza osłonę.",
+        "Sela zaprasza Mend na zewnątrz, a Mend odkłada szmatkę."
+      ],
+      "captions": [
+        "Na rzece Mend zaczęła liczyć ściegi. Tavi liczył godziny. Przeprawa zajmowała dwie, niezależnie od tego, czy ktoś pracował.",
+        "Podczas krótkiego postoju Rook wyjaśnił, że deszcz może zatrzymać prom. Wschodnia droga zajmowała trzy godziny; Mend nie przewidziała żadnego czasu na podróż.",
+        "Dwie godziny po odpłynięciu z miasteczka Luma dotarli do Neri. Trzcinowe dachy lśniły nad wodą, a zwinięta osłona promu czekała w szopie Rooka.",
+        "W szopie Rook rozwinął osłonę. Mała próbka ukrywała rozmiar całego zadania.",
+        "„Naprawy wymaga tylko ten szew” — powiedział Rook. „Stelażem zajmę się ja”. Mend wyobrażała sobie, że musi naprawić całą łódź.",
+        "Tavi zaproponował sortowanie nici. Hush ułożył tkaninę. Mend przyjęła pomoc, lecz zaczęła dopisywać zadania, o które nikt nie prosił.",
+        "Zanim Mend zaczęła polerować, przyszła Sela. „Najpierw zobacz rośliny” — powiedziała. Mend odłożyła szmatkę."
+      ],
+      "introduction": "Droga do Neri ujawnia godziny, których Mend nie uwzględniła.",
+      "title": "Podróż też trwa"
+    },
+    "pt": {
+      "altTexts": [
+        "Mend segura tecido enquanto Tavi consulta um horário ilustrado.",
+        "Rook mostra no mapa a rota do rio e uma estrada leste mais longa.",
+        "Os amigos chegam ao cais de Neri entre telhados de junco.",
+        "Rook desenrola uma grande cobertura azul sobre o chão.",
+        "Rook aponta uma costura rasgada na cobertura azul, com a armação de madeira atrás dele.",
+        "Tavi separa as linhas enquanto Hush alisa a cobertura.",
+        "Sela convida Mend a sair enquanto Mend larga um pano."
+      ],
+      "captions": [
+        "No rio, Mend começou a contar pontos de costura. Tavi contou as horas. A travessia levava duas, trabalhando ou não.",
+        "Numa breve parada, Rook explicou que a chuva poderia interromper a balsa. A estrada leste levava três horas; Mend não havia reservado tempo para viajar.",
+        "Duas horas depois de saírem de Luma, chegaram a Neri. Os telhados de junco brilhavam sobre a água, e a cobertura enrolada da balsa esperava no galpão de Rook.",
+        "No galpão, Rook desenrolou a cobertura. A pequena amostra havia escondido o tamanho do trabalho inteiro.",
+        "“Só esta costura precisa de reparo”, disse Rook. “Eu cuido da armação.” Mend imaginara que precisava consertar o barco inteiro.",
+        "Tavi ofereceu-se para separar as linhas. Hush arrumou a lona. Mend aceitou a ajuda e depois começou a acrescentar tarefas que ninguém havia pedido.",
+        "Antes que Mend começasse a polir, Sela chegou. “Venha ver as plantas primeiro”, disse. Mend largou o pano."
+      ],
+      "introduction": "O trajeto até Neri revela as horas que Mend não contou.",
+      "title": "A viagem também leva tempo"
+    },
+    "ru": {
+      "altTexts": [
+        "Менд держит ткань, а Тави изучает расписание с картинками.",
+        "Рук показывает на карте реку и более длинную восточную дорогу.",
+        "Друзья прибывают на пристань Нери с камышовыми крышами.",
+        "Рук разворачивает на полу большой синий навес.",
+        "Рук указывает на разорванный шов синего навеса; позади него стоит деревянный каркас.",
+        "Тави разбирает нитки, а Хаш расправляет навес.",
+        "Села зовёт Менд наружу, а Менд кладёт тряпку."
+      ],
+      "captions": [
+        "На реке Менд начала считать стежки. Тави считал часы. Переправа занимала два, работал кто-нибудь или нет.",
+        "На короткой остановке Рук объяснил, что дождь может закрыть переправу. Восточная дорога занимала три часа; Менд вообще не отвела времени на поездки.",
+        "Через два часа после отплытия из Лумы они прибыли в Нери. Камышовые крыши блестели над водой, а свёрнутый навес парома ждал в лодочном сарае Рука.",
+        "В лодочном сарае Рук развернул навес. Маленький образец скрыл настоящий размер работы.",
+        "«Починить нужно только этот шов, — сказал Рук. — Каркасом займусь я». Менд представляла, что должна починить всю лодку.",
+        "Тави предложил разобрать нитки. Хаш расправил ткань. Менд приняла помощь, но начала добавлять задачи, о которых никто не просил.",
+        "Прежде чем Менд принялась полировать, пришла Села. «Сначала посмотри на растения», — сказала она. Менд отложила тряпку."
+      ],
+      "introduction": "Поездка в Нери обнаруживает часы, которых не было в плане.",
+      "title": "Дорога тоже занимает время"
+    },
+    "tr": {
+      "altTexts": [
+        "Mend kumaş tutarken Tavi resimli sefer çizelgesine bakıyor.",
+        "Rook haritada nehri ve daha uzun doğu yolunu gösteriyor.",
+        "Arkadaşlar saz çatılı Neri iskelesine varıyor.",
+        "Rook, büyük mavi tenteyi yere seriyor.",
+        "Rook, mavi tentenin sökülmüş dikişini gösteriyor; arkasında ahşap iskelet duruyor.",
+        "Tavi iplikleri ayırırken Hush tenteyi düzleştiriyor.",
+        "Sela Mend’i dışarı çağırırken Mend bezi bırakıyor."
+      ],
+      "captions": [
+        "Nehirde Mend dikişleri saymaya başladı. Tavi ise saatleri saydı. Çalışsalar da çalışmasalar da geçiş iki saat sürüyordu.",
+        "Kısa bir durakta Rook, yağmurun feribotu durdurabileceğini anlattı. Doğu yolu üç saat sürüyordu; Mend yolculuğa hiç vakit ayırmamıştı.",
+        "Luma’dan ayrıldıktan iki saat sonra Neri’ye ulaştılar. Saz çatılar suyun üzerinde parıldıyordu; feribotun sarılı tentesi Rook’un kayıkhanesinde bekliyordu.",
+        "Kayıkhanede Rook tenteyi açtı. Küçük örnek, bütün işin ne kadar büyük olduğunu göstermemişti.",
+        "“Yalnızca bu dikişin onarılması gerekiyor,” dedi Rook. “İskeletle ben ilgilenirim.” Mend bütün tekneyi onarması gerektiğini sanmıştı.",
+        "Tavi iplikleri ayırmayı önerdi. Hush kumaşı düzeltti. Mend yardımı kabul etti, sonra kimsenin istemediği işleri eklemeye başladı.",
+        "Mend parlatmaya başlayamadan Sela geldi. “Önce bitkileri gör,” dedi. Mend bezi bıraktı."
+      ],
+      "introduction": "Neri yolculuğu, Mend’in hesaba katmadığı saatleri ortaya çıkarır.",
+      "title": "Yol da Zaman Alır"
+    },
+    "vi": {
+      "altTexts": [
+        "Mend cầm chỉ, còn Tavi chú ý thời gian di chuyển.",
+        "Phà dừng tại bến trung gian khi Rook giải thích đường khác.",
+        "Phà đến gần bến gỗ Neri và nhà thuyền mái sậy.",
+        "Rook trải tấm mái che màu xanh lớn của phà trên sàn.",
+        "Rook chỉ đường may bị rách trên tấm mái che xanh, phía sau anh là khung gỗ.",
+        "Bạn bè chuẩn bị vật liệu, còn Mend định lấy khăn đánh bóng.",
+        "Sela mời Mend ra ngoài, còn Mend đặt khăn lau xuống."
+      ],
+      "captions": [
+        "Trên sông, Mend bắt đầu đếm mũi khâu. Tavi lại tính thời gian. Dù có làm việc hay không, chuyến đi vẫn mất hai giờ.",
+        "Khi phà ghé bến giữa đường, Rook giải thích rằng mưa có thể khiến đường sông đóng lại. Đường bộ phía đông mất ba giờ; Mend chưa dành giờ đi lại.",
+        "Hai giờ sau khi rời Luma, họ đến Neri. Mái sậy sáng trên mặt nước, còn tấm mái che của phà đang cuộn lại trong nhà thuyền của Rook.",
+        "Trong nhà thuyền, Rook trải mái che ra. Mảnh mẫu nhỏ không cho thấy toàn bộ công việc lớn đến đâu.",
+        "“Chỉ đường may này cần sửa,” Rook nói. “Mình sẽ lo phần khung.” Mend đã tưởng mình phải sửa cả con thuyền.",
+        "Tavi nhận phân loại chỉ, Hush xếp phẳng vải. Mend nhận giúp đỡ rồi lại thêm những việc chẳng ai nhờ.",
+        "Trước khi Mend bắt đầu đánh bóng, Sela đến. “Hãy xem cây trước.” Mend đặt khăn xuống."
+      ],
+      "introduction": "Chuyến đến Neri làm rõ thời gian di chuyển và phạm vi công việc.",
+      "title": "Đường đi cũng cần thời gian"
+    },
+    "zh": {
+      "altTexts": [
+        "门德拿着线，塔维留意航程所需的时间。",
+        "渡船停在中途码头，鲁克说明另一条路线。",
+        "渡船靠近内里的木码头和芦苇顶船棚。",
+        "鲁克在地板上展开渡船的大块蓝色雨篷。",
+        "鲁克指着蓝色雨篷上破裂的接缝，木框架立在他身后。",
+        "朋友们整理材料，门德却伸手去拿擦拭布。",
+        "塞拉请门德出去看看幼苗，门德放下抹布。"
+      ],
+      "captions": [
+        "船行在河上，门德开始数针脚，塔维却在算时间。无论做不做工，这段航程都要两个小时。",
+        "在中途短暂停靠时，鲁克说，下雨可能让河道停航。东边陆路要走三个小时；门德原先没留出旅行时间。",
+        "离开卢马两个小时后，他们到了内里。水边的芦苇屋顶闪着光，渡船卷起的雨篷放在鲁克的船棚里。",
+        "进了船棚，鲁克展开雨篷。先前那块小样本，并没有让大家看出整件工作的大小。",
+        "“只需要修好这条接缝，”鲁克说，“框架由我负责。”门德之前还以为自己得修好整条船。",
+        "塔维提出帮忙理线，哈什把布铺好。门德接受了，却又开始添上根本没人要求她做的事。",
+        "门德还没开始擦亮东西，塞拉就来了。“先看看幼苗吧。”她说。门德放下了抹布。"
+      ],
+      "introduction": "到了内里，大家才弄清实际路程和工作范围。",
+      "title": "路程也需要时间"
+    }
+  },
+  "number": 6,
+  "panels": [
+    {
+      "altText": "Mend holds sewing cloth while Tavi studies a pictorial timetable.",
+      "image": "N02E06P01.png"
+    },
+    {
+      "altText": "Rook shows a river route and a longer eastern road on a map.",
+      "image": "N02E06P02.png"
+    },
+    {
+      "altText": "The friends arrive at Neri’s reed-roofed dock.",
+      "image": "N02E06P03.png"
+    },
+    {
+      "altText": "Rook unrolls a large blue ferry awning on the floor.",
+      "image": "N02E06P04.png"
+    },
+    {
+      "altText": "Rook points to a torn seam in the blue awning, with its wooden frame behind him.",
+      "image": "N02E06P05.png"
+    },
+    {
+      "altText": "Tavi sorts thread while Hush flattens the awning.",
+      "image": "N02E06P06.png"
+    },
+    {
+      "altText": "Sela invites Mend out of the boatshed as Mend puts down a rag.",
+      "image": "N02E06P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

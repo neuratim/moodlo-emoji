@@ -1,0 +1,442 @@
+{
+  "id": "N02E16",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يسير الأصدقاء عائدين على طريق التلال الواسع عند الفجر.",
+        "بورو بجانب القوس المنخفض، وستة فوانيس صالحة موضوعة بقربه.",
+        "تخبر ميند بورو مباشرة بتعارض المواعيد.",
+        "يبدو بورو خائب الأمل بجانب القوس الذي لم يرتفع.",
+        "ترفض ميند بوضوح من دون قبول عمل بديل جديد.",
+        "تتلاشى بقية الضوء الأحمر ويبقى بورو مستاءً.",
+        "تشير ميند إلى المواد السليمة وإلى الطريق نحو الورشة."
+      ],
+      "captions": [
+        "عند فجر اليوم الرابع، غادروا فيلا. استغرق الطريق الغربي إلى لوما ساعتين كما من قبل.",
+        "في ساحة لوما، وقف بورو قرب القوس غير المكتمل وستة فوانيس سليمة. اقتربت ميند قبل أن يسأل متى ستنجز العمل.",
+        "قالت ميند: «وعدت أن أقيمه بنفسي ظهر الغد. لا أستطيع. أعطيت الوقت نفسه لمكانين آخرين».",
+        "قال بورو: «لكنني أعلنت ذلك. سيخيب أمل الناس». شعرت ميند برغبتها المعتادة في قول أي شيء يزيل خيبة أمله.",
+        "أجابت ميند: «آسفة لأنني وعدت بذلك. لن أقيم القوس غدًا. تحتاج إلى وقت لاختيار خطة أخرى».",
+        "انفك الشريط الأحمر رغم أن بورو لم يوافق. الرفض يحتاج إلى إبلاغ واضح، لا إلى إذن بالتوقف عن إرهاق النفس.",
+        "بقيت ميند لتشرح أي المواد لم تُستخدم. ثم دعت بورو إلى الورشة: الفوانيس الإضافية تحتاج إلى جواب أيضًا."
+      ],
+      "introduction": "تسحب ميند وعدًا مستحيلًا رغم خيبة أمل بورو.",
+      "title": "قول لا عند قوس الفوانيس"
+    },
+    "bn": {
+      "altTexts": [
+        "তিন বন্ধু ভোরের আলোয় চওড়া পাহাড়ি পথে ফেরে।",
+        "নিচু তোরণের পাশে বোরো, কাছে ছয়টি সচল লণ্ঠন।",
+        "মেন্ড বোরোকে সরাসরি সময়ের সংঘাত জানায়।",
+        "বোরো নিচু তোরণের পাশে হতাশ দেখায়।",
+        "মেন্ড বিকল্প নতুন কাজ না নিয়ে স্পষ্টভাবে না বলে।",
+        "লাল আলোর রেশ মিলিয়ে যায়, বোরোর হতাশা থাকে।",
+        "মেন্ড অব্যবহৃত জিনিস ও কর্মশালার পথ দেখায়।"
+      ],
+      "captions": [
+        "চতুর্থ দিনের ভোরে তারা ভেলা ছাড়ল। পশ্চিমের সড়কে লুমা ফিরতে আগের মতোই দু ঘণ্টা।",
+        "লুমার চত্বরে বোরো অসমাপ্ত তোরণ আর আগে থেকেই ভালো ছয়টি লণ্ঠনের পাশে ছিল। কত তাড়াতাড়ি কাজ হবে জিজ্ঞেস করার আগেই মেন্ড এগোল।",
+        "“কাল দুপুরে নিজে তোরণ দাঁড় করাব বলেছিলাম,” মেন্ড বলল। “পারব না। একই সময় আরও দুই জায়গায় দিয়েছি।”",
+        "“কিন্তু আমি ঘোষণা করেছি। সবাই হতাশ হবে,” বোরো বলল। মেন্ডের আবার সেই পুরোনো ইচ্ছা হলো: যা বললে তার হতাশা দূর হবে, তাই বলে দেয়।",
+        "“কথা দেওয়ার জন্য দুঃখিত,” মেন্ড বলল। “কাল তোরণ বানাব না। অন্য পরিকল্পনা বেছে নেওয়ার সময় তোমার দরকার।”",
+        "বোরো রাজি না হলেও লাল ফিতা খুলে গেল। না বলতে পরিষ্কার খবর দেওয়া দরকার, অতিরিক্ত কাজ থামানোর অনুমতি নেওয়া নয়।",
+        "কোন জিনিসে হাত দেয়নি, মেন্ড তা বুঝিয়ে দিল। তারপর বোরোকে কর্মশালায় ডাকল: বাড়তি লণ্ঠনেরও উত্তর দরকার।"
+      ],
+      "introduction": "বোরোর হতাশা সত্ত্বেও মেন্ড অসম্ভব প্রতিশ্রুতি স্পষ্টভাবে ফিরিয়ে নেয়।",
+      "title": "লণ্ঠনের তোরণে না বলা"
+    },
+    "cs": {
+      "altTexts": [
+        "Tři přátelé jdou za úsvitu na východ po stejné cestě.",
+        "Mend přichází k Borovi u nízkého nedokončeného oblouku.",
+        "Mend vysvětluje Borovi neslučitelné schůzky.",
+        "Boro se u nezvednutého oblouku tváří zklamaně.",
+        "Mend trvá na odmítnutí a Boro drží nákres.",
+        "Vedle čtyř zbývajících stuh dohasíná červené světélko.",
+        "Mend ukazuje k uličce s dílnou a Boro naslouchá."
+      ],
+      "captions": [
+        "Za úsvitu čtvrtého dne opustili městečko Vela. Západní cesta zpátky do městečka Luma trvala dvě hodiny, stejně jako dřív.",
+        "Na náměstí v městečku Luma stál Boro u nedokončeného oblouku a šesti funkčních lampionů. Mend přišla dřív, než se mohl zeptat, kdy bude hotová.",
+        "„Slíbila jsem, že ho zítra v poledne osobně postavím,“ řekla Mend. „Nemohu. Stejný čas jsem dala dvěma dalším místům.“",
+        "„Ale já to oznámil,“ řekl Boro. „Lidé budou zklamaní.“ Mend znovu pocítila známé nutkání říct cokoli, co by jeho zklamání zmírnilo.",
+        "„Mrzí mě, že jsem to slíbila,“ odpověděla Mend. „Zítra oblouk stavět nebudu. Potřebuješ čas vybrat jiný plán.“",
+        "Červená stuha se rozvázala, i když Boro nesouhlasil. Odmítnutí potřebovalo jasné oznámení, ne svolení přestat se přetěžovat.",
+        "Mend vysvětlila, který materiál zůstal nedotčený. Pak pozvala Bora do dílny: i další lampiony potřebovaly jasnou odpověď."
+      ],
+      "introduction": "Mend jasně odmítne, i když Boro není spokojený.",
+      "title": "Ne u lampionového oblouku"
+    },
+    "de": {
+      "altTexts": [
+        "Drei Freunde gehen bei Sonnenaufgang auf demselben Weg nach Osten.",
+        "Mend nähert sich Boro neben Lumas niedrigem, unfertigem Bogen.",
+        "Mend erklärt Boro die widersprüchlichen Verabredungen.",
+        "Boro wirkt neben dem noch niedrigen Bogen enttäuscht.",
+        "Mend bleibt bei ihrer Absage, während Boro die Zeichnung hält.",
+        "Ein roter Schimmer verblasst neben Mends vier verbleibenden Bändern.",
+        "Mend zeigt zur Werkstattgasse, während Boro zuhört."
+      ],
+      "captions": [
+        "Bei Tagesanbruch am vierten Tag verließen sie Vela. Der westliche Weg zurück nach Luma dauerte zwei Stunden, genau wie zuvor.",
+        "Auf Lumas Platz stand Boro neben dem unfertigen Bogen und sechs funktionierenden Laternen. Mend ging zu ihm, bevor er nach ihrer Fertigstellung fragen konnte.",
+        "„Ich habe versprochen, ihn morgen um zwölf selbst aufzurichten“, sagte Mend. „Das kann ich nicht. Ich habe diese Zeit an zwei weitere Orte vergeben.“",
+        "„Aber ich habe es angekündigt“, sagte Boro. „Die Leute werden enttäuscht sein.“ Mend spürte den vertrauten Drang, irgendetwas zu sagen, das seine Enttäuschung lindern würde.",
+        "„Es tut mir leid, dass ich es versprochen habe“, antwortete Mend. „Ich werde den Bogen morgen nicht aufrichten. Du brauchst Zeit für einen anderen Plan.“",
+        "Das rote Band löste sich, obwohl Boro nicht zustimmte. Eine Absage brauchte eine klare Mitteilung, keine Erlaubnis, sich nicht länger zu überarbeiten.",
+        "Mend erklärte, welches Material unberührt geblieben war. Dann bat sie Boro in die Werkstatt: Auch die zusätzlichen Laternen brauchten eine Antwort."
+      ],
+      "introduction": "Mend lehnt klar ab, obwohl Boro damit nicht einverstanden ist.",
+      "title": "Ein Nein am Laternenbogen"
+    },
+    "en": {
+      "altTexts": [
+        "Three friends walk east along the same western road at dawn.",
+        "Mend approaches Boro beside Luma’s low unfinished arch.",
+        "Mend explains the conflicting appointments to Boro.",
+        "Boro looks disappointed beside the unraised arch.",
+        "Mend maintains her refusal while Boro holds the arch sketch.",
+        "A fading red glimmer lies beside Mend’s four remaining ribbons.",
+        "Mend indicates the workshop lane while Boro listens."
+      ],
+      "captions": [
+        "At dawn on the fourth day, they left Vela. The western road took two hours back to Luma, just as before.",
+        "In Luma's square, Boro stood beside the unfinished arch and six working lanterns. Mend approached before he could ask how quickly she would finish.",
+        "“I promised to raise this myself at noon tomorrow,” Mend said. “I cannot. I gave the same time to two other places.”",
+        "“But I announced it,” Boro said. “People will be disappointed.” Mend felt the familiar urge to say anything that would make his disappointment go away.",
+        "“I am sorry I promised it,” Mend answered. “I will not raise the arch tomorrow. You need time to choose another plan.”",
+        "The red ribbon untied even though Boro did not agree. A refusal needed clear notice, not permission to stop being overworked.",
+        "Mend stayed long enough to explain which materials were untouched. Then she asked Boro to come to the workshop: the extra lanterns needed an answer too."
+      ],
+      "introduction": "Mend gives Boro a clear refusal even when he does not welcome it.",
+      "title": "No at the Lantern Arch"
+    },
+    "es": {
+      "altTexts": [
+        "Tres amigos caminan hacia el este por el mismo camino al amanecer.",
+        "Mend se acerca a Boro junto al arco bajo sin terminar.",
+        "Mend explica a Boro las citas incompatibles.",
+        "Boro parece decepcionado junto al arco todavía bajo.",
+        "Mend mantiene su negativa mientras Boro sostiene el dibujo.",
+        "Un brillo rojo se desvanece junto a las cuatro cintas restantes.",
+        "Mend señala la calle del taller mientras Boro escucha."
+      ],
+      "captions": [
+        "Al amanecer del cuarto día salieron de Vela. El camino occidental hasta Luma duró dos horas, igual que antes.",
+        "En la plaza de Luma, Boro esperaba junto al arco sin terminar y seis faroles que funcionaban. Mend se acercó antes de que preguntara cuándo acabaría.",
+        "«Prometí levantarlo yo misma mañana al mediodía», dijo Mend. «No puedo. Di esa misma hora a otros dos lugares».",
+        "«Pero lo anuncié», dijo Boro. «La gente se decepcionará». Mend sintió el conocido impulso de decir cualquier cosa que hiciera desaparecer su decepción.",
+        "«Siento haberlo prometido», respondió Mend. «Mañana no levantaré el arco. Necesitas tiempo para elegir otro plan».",
+        "La cinta roja se desató aunque Boro no estuviera de acuerdo. Una negativa requería un aviso claro, no permiso para dejar de trabajar en exceso.",
+        "Mend explicó qué materiales seguían intactos. Después pidió a Boro que fuera al taller: los faroles adicionales también necesitaban una respuesta."
+      ],
+      "introduction": "Mend se niega claramente, aunque a Boro no le guste.",
+      "title": "Un no junto al arco"
+    },
+    "fr": {
+      "altTexts": [
+        "Trois amis parcourent la même route vers l’est à l’aube.",
+        "Mend rejoint Boro près de l’arche basse inachevée.",
+        "Mend explique à Boro les rendez-vous incompatibles.",
+        "Boro paraît déçu près de l’arche encore basse.",
+        "Mend maintient son refus tandis que Boro tient le dessin.",
+        "Une lueur rouge s’éteint près des quatre rubans restants.",
+        "Mend désigne la ruelle de l’atelier tandis que Boro écoute."
+      ],
+      "captions": [
+        "À l’aube du quatrième jour, ils quittèrent Vela. La route occidentale jusqu’à Luma prit deux heures, comme auparavant.",
+        "Sur la place de Luma, Boro se tenait près de l’arche inachevée et de six lanternes en état. Mend s’approcha avant qu’il demande quand elle aurait fini.",
+        "« J’ai promis de la dresser moi-même demain à midi, dit Mend. Je ne peux pas. J’ai donné la même heure à deux autres endroits. »",
+        "« Mais je l’ai annoncé, dit Boro. Les gens seront déçus. » Mend sentit revenir cette envie familière de dire n’importe quoi pour faire disparaître sa déception.",
+        "« Je suis désolée de l’avoir promis, répondit Mend. Je ne dresserai pas l’arche demain. Il te faut du temps pour choisir un autre projet. »",
+        "Le ruban rouge se dénoua même si Boro n’était pas d’accord. Un refus demandait un avis clair, pas l’autorisation de cesser de s’épuiser.",
+        "Mend expliqua quels matériaux étaient restés intacts. Puis elle invita Boro à l’atelier : les lanternes supplémentaires demandaient elles aussi une réponse."
+      ],
+      "introduction": "Mend refuse clairement, même si Boro n’apprécie pas sa réponse.",
+      "title": "Non devant l’arche"
+    },
+    "hi": {
+      "altTexts": [
+        "तीन दोस्त सुबह की रोशनी में चौड़ी पहाड़ी सड़क पर लौटते हैं।",
+        "नीचा द्वार, बोरो और पास रखी छह काम करती लालटेनें दिखती हैं।",
+        "मेंड बोरो को समय के टकराव की बात सीधे बताती है।",
+        "बोरो अब भी नीचे द्वार के पास निराश दिखाई देता है।",
+        "मेंड नया काम लिए बिना स्पष्ट इनकार करती है।",
+        "लाल रिबन की बची चमक मिटती है; बोरो की निराशा रहती है।",
+        "मेंड सही सामान और कार्यशाला की राह दिखाती है।"
+      ],
+      "captions": [
+        "चौथे दिन भोर में वे वेला से चले। पश्चिम की सड़क से लूमा लौटने में पहले जैसे दो घंटे लगे।",
+        "लूमा चौक में बोरो अधूरे द्वार और पहले से सही छह लालटेनों के पास खड़ा था। वह पूछता कि कितनी जल्दी काम होगा, उससे पहले मेंड आगे बढ़ी।",
+        "“मैंने कल दोपहर खुद यह द्वार खड़ा करने का वादा किया,” मेंड बोली। “मैं नहीं कर सकती। यही समय दो और जगह दे दिया।”",
+        "“पर मैंने घोषणा कर दी,” बोरो बोला। “लोग निराश होंगे।” मेंड को फिर वही पुरानी इच्छा हुई: कुछ भी कहकर उसकी निराशा दूर कर दे।",
+        "“वादा करने के लिए माफ़ी चाहती हूँ,” मेंड ने कहा। “कल द्वार नहीं बनाऊँगी। तुम्हें दूसरी योजना चुनने का समय चाहिए।”",
+        "बोरो सहमत नहीं था, फिर भी लाल रिबन खुल गया। इनकार के लिए साफ़ खबर देना ज़रूरी था, जरूरत से ज्यादा काम रोकने की अनुमति माँगना नहीं।",
+        "मेंड ने बताया कि कौन-सा सामान अभी इस्तेमाल नहीं हुआ। फिर बोरो को कार्यशाला बुलाया: अतिरिक्त लालटेनों पर भी जवाब देना था।"
+      ],
+      "introduction": "बोरो की निराशा के बावजूद मेंड असंभव वादा स्पष्ट रूप से वापस लेती है।",
+      "title": "लालटेन के द्वार पर ना"
+    },
+    "id": {
+      "altTexts": [
+        "Tiga teman berjalan pulang di jalan bukit saat fajar.",
+        "Boro menunggu di gerbang rendah; enam lampion siap pakai berada di dekatnya.",
+        "Mend menyampaikan benturan jadwal langsung kepada Boro.",
+        "Boro tampak kecewa di samping gerbang yang masih rendah.",
+        "Mend menyampaikan penolakan dengan jelas tanpa menawarkan tugas pengganti.",
+        "Sisa cahaya pita merah memudar sementara Boro tetap kecewa.",
+        "Mend menunjuk jalan menuju bengkel dan bahan yang masih utuh."
+      ],
+      "captions": [
+        "Saat fajar hari keempat, mereka meninggalkan Vela. Jalan barat menuju Luma memerlukan dua jam, sama seperti sebelumnya.",
+        "Di alun-alun Luma, Boro berdiri di dekat gerbang yang belum selesai dan enam lampion yang sudah berfungsi. Mend mendekat sebelum ia bertanya kapan pekerjaannya akan selesai.",
+        "“Aku berjanji mendirikannya sendiri besok tengah hari,” kata Mend. “Aku tidak bisa. Waktu yang sama kuberikan kepada dua tempat lain.”",
+        "“Tetapi sudah kuumumkan,” kata Boro. “Orang-orang akan kecewa.” Mend merasakan dorongan yang sudah dikenalnya: mengatakan apa saja agar kekecewaan Boro hilang.",
+        "“Maaf sudah menjanjikannya,” jawab Mend. “Aku tidak akan mendirikan gerbang besok. Kau perlu waktu untuk memilih rencana lain.”",
+        "Pita merah terlepas meskipun Boro tidak menyetujui keputusan itu. Untuk berhenti menerima beban berlebihan, Mend perlu memberi tahu dengan jelas, bukan meminta izin.",
+        "Mend menjelaskan bahan mana yang belum digunakan. Lalu ia mengajak Boro ke bengkel: lampion tambahan juga membutuhkan jawaban."
+      ],
+      "introduction": "Mend membatalkan janji kepada Boro meskipun ia kecewa.",
+      "title": "Berkata Tidak di Gerbang Lampion"
+    },
+    "it": {
+      "altTexts": [
+        "Tre amici percorrono la stessa strada verso est all’alba.",
+        "Mend raggiunge Boro vicino all’arco basso e incompleto.",
+        "Mend spiega a Boro gli appuntamenti incompatibili.",
+        "Boro appare deluso accanto all’arco ancora basso.",
+        "Mend mantiene il rifiuto mentre Boro tiene il disegno.",
+        "Un bagliore rosso svanisce vicino ai quattro nastri rimasti.",
+        "Mend indica la strada del laboratorio mentre Boro ascolta."
+      ],
+      "captions": [
+        "All’alba del quarto giorno lasciarono Vela. La strada occidentale fino a Luma richiese due ore, proprio come prima.",
+        "Nella piazza di Luma Boro era accanto all’arco incompleto e a sei lanterne funzionanti. Mend si avvicinò prima che chiedesse quando avrebbe finito.",
+        "«Ho promesso di alzarlo io stessa domani a mezzogiorno», disse Mend. «Non posso. Ho dato lo stesso orario ad altri due luoghi».",
+        "«Ma l’ho annunciato», disse Boro. «La gente sarà delusa». Mend sentì il solito impulso a dire qualsiasi cosa pur di far sparire la sua delusione.",
+        "«Mi dispiace averlo promesso», rispose Mend. «Domani non alzerò l’arco. Ti serve tempo per scegliere un altro piano».",
+        "Il nastro rosso si sciolse anche se Boro non era d’accordo. Per rifiutare serviva avvisare chiaramente, non ottenere il permesso di smettere di sfinirsi.",
+        "Mend spiegò quali materiali erano rimasti intatti. Poi invitò Boro in laboratorio: anche le lanterne aggiuntive avevano bisogno di una risposta."
+      ],
+      "introduction": "Mend rifiuta chiaramente, anche se Boro non è contento.",
+      "title": "Un no davanti all’arco"
+    },
+    "ja": {
+      "altTexts": [
+        "朝の光の中、三人が広い丘の道を戻っています。",
+        "低い門のそばにボロが立ち、六つの使えるちょうちんが置かれています。",
+        "メンドが、予定の重なりをボロに直接伝えています。",
+        "ボロが低い門の横で、困った表情をしています。",
+        "メンドが代わりの仕事を加えず、はっきり断っています。",
+        "赤いリボンの光が消えても、ボロはまだ残念そうです。",
+        "メンドが未使用の材料と、作業場への道を示しています。"
+      ],
+      "captions": [
+        "四日目の夜明け、三人はヴェラを出ました。ルマへ戻る西の道は、前と同じ二時間でした。",
+        "ルマの広場では、ボロが未完成の門と、すでに使える六つのちょうちんのそばにいました。仕上がりを聞かれる前に、メンドは近づきました。",
+        "「明日の正午、自分で門を組み立てると約束したね」とメンド。「できません。同じ時間を、ほかの二か所にも約束してしまった」",
+        "「でも、もう知らせたんだ」とボロ。「みんなががっかりする」。メンドは、彼のがっかりした気持ちを消せるなら何でも言いたい、といういつもの衝動を感じました。",
+        "「約束してごめんなさい」とメンドは答えました。「明日、門は組み立てません。別の計画を選ぶ時間が必要でしょう」",
+        "ボロが賛成しなくても、赤いリボンはほどけました。断るには明確に知らせることが必要で、無理をやめる許可までは要りません。",
+        "メンドは、まだ使っていない材料を説明しました。それからボロを作業場へ誘いました。追加のちょうちんにも答えが必要でした。"
+      ],
+      "introduction": "ボロががっかりしても、メンドは無理な約束をはっきり断ります。",
+      "title": "ちょうちんの門で断る"
+    },
+    "ko": {
+      "altTexts": [
+        "세 친구가 새벽빛 속 넓은 언덕길을 돌아갑니다.",
+        "낮은 아치 곁의 보로 옆에 사용 가능한 등불 여섯 개가 놓여 있습니다.",
+        "멘드가 보로에게 약속이 겹친 사실을 직접 말합니다.",
+        "보로가 아직 낮은 아치 옆에서 실망한 표정을 짓습니다.",
+        "멘드가 다른 일을 더 맡지 않고 분명하게 거절합니다.",
+        "빨강 리본의 빛은 사라지고 보로는 여전히 실망해 있습니다.",
+        "멘드가 사용하지 않은 재료와 작업실로 가는 길을 가리킵니다."
+      ],
+      "captions": [
+        "넷째 날 새벽, 친구들은 벨라를 떠났습니다. 루마까지 서쪽 길을 되짚는 데 전처럼 두 시간이 걸렸습니다.",
+        "루마 광장에서 보로가 미완성 아치와 원래 잘 켜지는 등불 여섯 개 옆에 서 있었습니다. 언제 끝낼지 묻기 전에 멘드가 먼저 다가갔습니다.",
+        "“내일 정오에 내가 아치를 세우겠다고 했지.” 멘드가 말했습니다. “할 수 없어. 그 시간을 다른 두 곳에도 약속했어.”",
+        "“하지만 이미 알렸어. 사람들이 실망할 거야.” 보로가 말했습니다. 멘드는 그의 실망을 없앨 수만 있다면 무슨 말이든 하고 싶은 익숙한 충동을 느꼈습니다.",
+        "“약속해서 미안해.” 멘드가 대답했습니다. “내일 아치를 세우지 않을 거야. 다른 계획을 고를 시간이 필요하잖아.”",
+        "보로가 동의하지 않았는데도 빨강 리본이 풀렸습니다. 거절에는 분명한 알림이 필요했지, 무리한 일을 그만둘 허락까지 필요한 것은 아니었습니다.",
+        "멘드는 쓰지 않은 재료를 설명할 만큼 머물렀습니다. 그런 다음 보로를 작업실로 불렀습니다. 추가 등불에도 답이 필요했습니다."
+      ],
+      "introduction": "보로가 실망해도 멘드는 불가능한 약속을 분명하게 취소합니다.",
+      "title": "등불 아치 앞에서 거절하기"
+    },
+    "pl": {
+      "altTexts": [
+        "Troje przyjaciół idzie o świcie tą samą drogą na wschód.",
+        "Mend podchodzi do Bora przy niskiej niedokończonej bramie.",
+        "Mend wyjaśnia Borowi nakładające się terminy.",
+        "Boro wygląda na rozczarowanego obok niskiej bramy.",
+        "Mend podtrzymuje odmowę, a Boro trzyma rysunek.",
+        "Przy czterech pozostałych wstążkach gaśnie czerwony blask.",
+        "Mend wskazuje uliczkę do warsztatu, a Boro słucha."
+      ],
+      "captions": [
+        "O świcie czwartego dnia opuścili miasteczko Vela. Zachodnia droga do miasteczka Luma zajęła dwie godziny, tak jak wcześniej.",
+        "Na placu w miasteczku miasteczku Luma Boro stał przy niedokończonej bramie i sześciu sprawnych lampionach. Mend podeszła, zanim zdążył zapytać, kiedy skończy.",
+        "„Obiecałam podnieść ją osobiście jutro w południe” — powiedziała Mend. „Nie mogę. Ten sam czas dałam dwóm innym miejscom”.",
+        "„Ale ja to ogłosiłem” — powiedział Boro. „Ludzie będą rozczarowani”. Mend poczuła znajomą chęć powiedzenia czegokolwiek, co sprawiłoby, że jego rozczarowanie zniknie.",
+        "„Przepraszam, że to obiecałam” — odparła Mend. „Jutro nie podniosę bramy. Potrzebujesz czasu na inny plan”.",
+        "Czerwona wstążka rozwiązała się mimo braku zgody Bora. Mend musiała jasno uprzedzić o swojej odmowie, ale nie potrzebowała pozwolenia, by przestać brać na siebie zbyt wiele.",
+        "Mend wyjaśniła, które materiały zostały nietknięte. Potem zaprosiła Bora do warsztatu: dodatkowe lampiony też potrzebowały odpowiedzi."
+      ],
+      "introduction": "Mend wyraźnie odmawia, choć Boro nie jest zadowolony.",
+      "title": "„Nie” przy bramie z lampionami"
+    },
+    "pt": {
+      "altTexts": [
+        "Três amigos caminham para o leste pela mesma estrada ao amanhecer.",
+        "Mend chega perto de Boro e do arco baixo inacabado.",
+        "Mend explica a Boro os compromissos incompatíveis.",
+        "Boro parece decepcionado junto do arco ainda baixo.",
+        "Mend mantém a recusa enquanto Boro segura o desenho do arco.",
+        "Um brilho vermelho some perto das quatro fitas restantes.",
+        "Mend aponta para a rua da oficina enquanto Boro escuta."
+      ],
+      "captions": [
+        "Ao amanhecer do quarto dia, saíram de Vela. A estrada oeste de volta a Luma levou duas horas, como antes.",
+        "Na praça de Luma, Boro estava junto do arco inacabado e de seis lanternas funcionando. Mend se aproximou antes que ele perguntasse quando terminaria.",
+        "“Prometi erguer isto pessoalmente amanhã ao meio-dia”, disse Mend. “Não posso. Dei o mesmo horário a outros dois lugares.”",
+        "“Mas eu anunciei”, disse Boro. “As pessoas vão se decepcionar.” Mend sentiu aquela vontade conhecida de dizer qualquer coisa que fizesse a decepção dele desaparecer.",
+        "“Sinto muito por ter prometido”, respondeu Mend. “Não vou erguer o arco amanhã. Você precisa de tempo para escolher outro plano.”",
+        "A fita vermelha se desamarrou, mesmo sem a concordância de Boro. Uma recusa precisava de aviso claro, não de permissão para parar de se sobrecarregar.",
+        "Mend explicou quais materiais estavam intactos. Depois convidou Boro à oficina: as lanternas extras também precisavam de uma resposta."
+      ],
+      "introduction": "Mend recusa com clareza, mesmo quando Boro não gosta da resposta.",
+      "title": "Um não diante do arco"
+    },
+    "ru": {
+      "altTexts": [
+        "Трое друзей на рассвете идут по той же дороге на восток.",
+        "Менд подходит к Боро возле низкой незавершённой арки.",
+        "Менд объясняет Боро несовместимые встречи.",
+        "Боро выглядит расстроенным возле неподнятой арки.",
+        "Менд не меняет отказа, пока Боро держит рисунок.",
+        "Красное сияние гаснет возле четырёх оставшихся лент.",
+        "Менд указывает на переулок мастерской, а Боро слушает."
+      ],
+      "captions": [
+        "На рассвете четвёртого дня они покинули Велу. Западная дорога назад в Луму заняла два часа, как и прежде.",
+        "На площади Лумы Боро стоял возле незаконченной арки и шести исправных фонариков. Менд подошла прежде, чем он спросил, когда она закончит.",
+        "«Я обещала лично поднять её завтра в полдень, — сказала Менд. — Не смогу. Я назначила то же время ещё в двух местах».",
+        "«Но я уже объявил, — сказал Боро. — Люди разочаруются». Менд почувствовала знакомое желание сказать что угодно, лишь бы избавить его от разочарования.",
+        "«Мне жаль, что я это пообещала, — ответила Менд. — Завтра я не буду поднимать арку. Тебе нужно время на другой план».",
+        "Красная лента развязалась, хотя Боро не согласился. Для отказа нужно ясное предупреждение, а не разрешение перестать изнурять себя работой.",
+        "Менд объяснила, какие материалы остались нетронутыми. Затем пригласила Боро в мастерскую: дополнительные фонарики тоже требовали ответа."
+      ],
+      "introduction": "Менд ясно отказывает, хотя Боро это не нравится.",
+      "title": "«Нет» у арки с фонариками"
+    },
+    "tr": {
+      "altTexts": [
+        "Üç arkadaş şafakta aynı yol boyunca doğuya yürüyor.",
+        "Mend, alçak ve bitmemiş kemerin yanındaki Boro’ya yaklaşıyor.",
+        "Mend çakışan randevuları Boro’ya açıklıyor.",
+        "Boro henüz yükseltilmemiş alçak kemerin yanında üzgün görünüyor.",
+        "Mend reddini sürdürürken Boro kemer çizimini tutuyor.",
+        "Kalan dört kurdelenin yanında kırmızı bir parıltı sönüyor.",
+        "Mend atölye sokağını gösterirken Boro dinliyor."
+      ],
+      "captions": [
+        "Dördüncü gün şafakta Vela’dan ayrıldılar. Batı yolu üzerinden Luma’ya dönmek önceki gibi iki saat sürdü.",
+        "Luma meydanında Boro, bitmemiş kemerin ve çalışan altı fenerin yanında duruyordu. Mend, ne zaman biteceğini sormasına fırsat vermeden yaklaştı.",
+        "“Bunu yarın öğlen bizzat kuracağıma söz verdim,” dedi Mend. “Yapamam. Aynı saati iki başka yere de verdim.”",
+        "“Ama duyurdum,” dedi Boro. “İnsanlar hayal kırıklığına uğrayacak.” Mend, onun hayal kırıklığını giderecek herhangi bir şey söyleme isteğini yine hissetti.",
+        "“Söz verdiğim için özür dilerim,” dedi Mend. “Yarın kemeri kurmayacağım. Başka bir plan seçmek için zamana ihtiyacın var.”",
+        "Boro kabul etmese de kırmızı kurdele çözüldü. Hayır demek açık bir bildirim gerektiriyordu; aşırı çalışmayı bırakmak için izin almak değil.",
+        "Mend hangi malzemelere dokunulmadığını anlattı. Sonra Boro’yu atölyeye çağırdı: ek fenerlerin de bir cevaba ihtiyacı vardı."
+      ],
+      "introduction": "Mend, Boro hoşnut olmasa da açıkça hayır der.",
+      "title": "Fener Kemerinde Bir Hayır"
+    },
+    "vi": {
+      "altTexts": [
+        "Ba người đi về trên con đường đồi rộng lúc bình minh.",
+        "Boro ở bên cổng thấp, gần đó có sáu đèn dùng được.",
+        "Mend trực tiếp giải thích lịch trùng với Boro.",
+        "Boro thất vọng bên cổng vẫn còn thấp.",
+        "Mend từ chối rõ, không nhận thêm việc thay thế.",
+        "Ánh đỏ còn lại tan đi trong khi Boro vẫn thất vọng.",
+        "Mend chỉ vật liệu nguyên vẹn và đường đến xưởng."
+      ],
+      "captions": [
+        "Rạng sáng ngày thứ tư, họ rời Vela. Đường phía tây về Luma vẫn mất hai giờ như trước.",
+        "Ở quảng trường Luma, Boro đứng cạnh cổng chưa xong và sáu đèn vốn đã hoạt động. Mend đến trước khi anh hỏi khi nào cô làm xong.",
+        "“Mình đã hứa tự dựng cổng vào trưa mai,” Mend nói. “Mình không thể. Mình đã dành giờ ấy cho hai nơi khác nữa.”",
+        "“Nhưng mình đã thông báo rồi. Mọi người sẽ thất vọng,” Boro nói. Mend lại cảm thấy thôi thúc quen thuộc: nói bất cứ điều gì có thể xóa đi nỗi thất vọng của anh.",
+        "“Xin lỗi vì đã hứa,” Mend đáp. “Mai mình sẽ không dựng cổng. Cậu cần thời gian chọn kế hoạch khác.”",
+        "Boro chưa đồng ý, dải đỏ vẫn tháo ra. Muốn từ chối cần báo rõ, không cần xin phép mới được ngừng làm quá sức.",
+        "Mend ở lại giải thích vật liệu nào chưa dùng. Rồi cô mời Boro sang xưởng: đèn bổ sung cũng cần một câu trả lời."
+      ],
+      "introduction": "Mend hủy lời hứa không thể giữ dù Boro thất vọng.",
+      "title": "Nói không dưới cổng đèn"
+    },
+    "zh": {
+      "altTexts": [
+        "三个朋友在晨光中沿宽阔山路向卢马走去。",
+        "博罗守着低拱门，六盏可用灯笼放在旁边。",
+        "门德直接向博罗说明约定冲突。",
+        "博罗在仍很低的拱门旁露出失望神情。",
+        "门德明确取消约定，没有追加替代任务。",
+        "红色丝带的余光消散，博罗仍显得失望。",
+        "门德指向未使用的材料和通往修理屋的路。"
+      ],
+      "captions": [
+        "第四天清晨，他们离开维拉。沿西路回卢马，依旧要走两个小时。",
+        "卢马广场上，博罗站在未完成的拱门和六盏完好的灯笼旁。还没等他问能多快做好，门德先走了过去。",
+        "“我答应明天正午亲自立起拱门。”门德说，“可我做不到。我把这个时间也答应给了另外两个地方。”",
+        "“可我已经宣布了，”博罗说，“大家会失望的。”门德又有了那种熟悉的冲动：只要能让他的失望消失，说什么都行。",
+        "“对不起，我不该那样答应。”门德说，“明天我不会来立拱门。你需要时间决定其他办法。”",
+        "博罗并没有同意，红色丝带仍然解开了。门德需要把拒绝说清楚，却不需要先得到博罗的同意，才可以停止让自己过度劳累。",
+        "门德留下来说明哪些材料还没动过。然后，她请博罗一起去修理屋：那些额外灯笼也需要一个答复。"
+      ],
+      "introduction": "即使博罗失望，门德仍明确取消无法兑现的承诺。",
+      "title": "在灯笼拱门前说“不”"
+    }
+  },
+  "number": 16,
+  "panels": [
+    {
+      "altText": "Three friends walk east along the same western road at dawn.",
+      "image": "N02E16P01.png"
+    },
+    {
+      "altText": "Mend approaches Boro beside Luma’s low unfinished arch.",
+      "image": "N02E16P02.png"
+    },
+    {
+      "altText": "Mend explains the conflicting appointments to Boro.",
+      "image": "N02E16P03.png"
+    },
+    {
+      "altText": "Boro looks disappointed beside the unraised arch.",
+      "image": "N02E16P04.png"
+    },
+    {
+      "altText": "Mend maintains her refusal while Boro holds the arch sketch.",
+      "image": "N02E16P05.png"
+    },
+    {
+      "altText": "A fading red glimmer lies beside Mend’s four remaining ribbons.",
+      "image": "N02E16P06.png"
+    },
+    {
+      "altText": "Mend indicates the workshop lane while Boro listens.",
+      "image": "N02E16P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

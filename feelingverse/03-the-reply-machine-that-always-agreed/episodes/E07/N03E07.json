@@ -1,0 +1,439 @@
+{
+  "id": "N03E07",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "تفحص سيلي وتافي عمود فانوس غير مضاء.",
+        "تقف ثلاثة حوامل فارغة بجوار تافي وسيلي.",
+        "تقيس سيلي خطوط الطباشير بينما يراقب تافي.",
+        "تشير سيلي إلى الممر الخالي بجوار الخطوط.",
+        "تمد سيلي وتافي حاجزا أمام الجزء غير المكتمل.",
+        "يقف تافي بجوار الحوامل الفارغة ولوحة مسار سيلي.",
+        "تشير سيلي إلى الفناء السفلي المحمي من الريح."
+      ],
+      "captions": [
+        "عند الشروق، التقت مسؤولة المسار سيلي بتافي في الخارج. كان عليهما فحص ممشى الفوانيس قبل ليلة الافتتاح.",
+        "التف المسار في موضع مرتفع يطل على النهر. اكتمل الدرابزين الآمن، لكن عدة أعمدة ظلت بلا فوانيس.",
+        "توقفت سيلي عند مخطط المدخل المرسوم بالطباشير. «من دون قياسات لوما، قد يسد الإطار الممر الواسع».",
+        "اقترح تافي ترك الإطار كما هو. هزت سيلي رأسها: «يجب أن يكون الممر صالحا للجميع».",
+        "أغلقا الجزء غير المكتمل. لن يستخدمه أحد قبل فحص العمل.",
+        "عد تافي ما ينقصه: الزجاج والقياسات والأيدي المساعدة. لم تحل رسائله أيا من ذلك.",
+        "حركت ريح جديدة سطح النهر. أضافت سيلي مسارا أرضيا محميا إلى خطتهما البديلة."
+      ],
+      "introduction": "يكشف فحص المسار النتائج الملموسة لفقدان التعاون.",
+      "title": "فراغ بين الأضواء"
+    },
+    "bn": {
+      "altTexts": [
+        "সেলি ও টাভি একটি নিভে থাকা লণ্ঠনের খুঁটি দেখছে।",
+        "টাভি ও সেলির পাশে তিনটি খালি লণ্ঠন-ধারক রয়েছে।",
+        "সেলি চকের রেখা মাপছে, টাভি দেখছে।",
+        "সেলি আঁকা রেখার পাশে খোলা চলার জায়গা দেখাচ্ছে।",
+        "সেলি ও টাভি অসমাপ্ত অংশের সামনে বাধা লাগাচ্ছে।",
+        "টাভি খালি ধারক আর সেলির পথের বোর্ডের পাশে দাঁড়িয়ে আছে।",
+        "সেলি নিচের বাতাস-আড়াল করা উঠোন দেখাচ্ছে।"
+      ],
+      "captions": [
+        "সূর্য ওঠার সময় পথের দেখভালের দায়িত্বে থাকা সেলি টাভির সঙ্গে দেখা করল। উদ্বোধনের আগে লণ্ঠন-পথ পরীক্ষা করতে হবে।",
+        "পথটি নদীর ওপরের দিক দিয়ে বাঁক নিয়েছিল। নিরাপদ রেলিং তৈরি, কিন্তু কয়েকটি খুঁটিতে লণ্ঠনই ছিল না।",
+        "প্রবেশের চকে আঁকা দাগে সেলি থামল। “লুমার মাপ ছাড়া কাঠামোটা চওড়া পথ আটকে দিতে পারে।”",
+        "টাভি সবকিছু আগের পরিকল্পনা অনুযায়ী রাখতে বলল। সেলি অসম্মতিতে মাথা নাড়ল। “পথ সবার ব্যবহার করার মতো হতে হবে।”",
+        "তারা অসমাপ্ত অংশ বন্ধ করে দিল। কাজ পরীক্ষা না হওয়া পর্যন্ত কেউ সেখানে যাবে না।",
+        "টাভি হিসাব করল: কাচ নেই, মাপ নেই, কাজের হাত নেই। তার বার্তা এগুলোর একটাও ঠিক করেনি।",
+        "নদীর ওপর নতুন হাওয়া বইল। সেলি বিকল্প পরিকল্পনায় নিচের মাটিতে বাতাস থেকে আড়াল থাকা পথ যোগ করল।"
+      ],
+      "introduction": "পথ পরীক্ষা করতে গিয়ে হারানো সহযোগিতার ফল চোখের সামনে ধরা পড়ে।",
+      "title": "আলোর ফাঁক"
+    },
+    "cs": {
+      "altTexts": [
+        "Seli a Tavi prohlížejí sloupek s nerozsvícenou lucernou.",
+        "Vedle Taviho a Seli stojí tři prázdné držáky.",
+        "Seli měří křídové obrysy a Tavi se dívá.",
+        "Seli ukazuje na volný průchod vedle obrysů.",
+        "Seli a Tavi natahují zábranu přes nedokončený úsek.",
+        "Tavi stojí u prázdných držáků a Selina plánu trasy.",
+        "Seli ukazuje na chráněné dolní nádvoří."
+      ],
+      "captions": [
+        "Za východu slunce se venku s Tavim sešla správkyně tras Seli. Před otevřením museli světelnou stezku zkontrolovat.",
+        "Stezka se stáčela nad řekou. Bezpečné zábradlí bylo hotové, ale na několika sloupcích chyběly lucerny.",
+        "Seli se zastavila u křídového obrysu vstupu. „Bez Luminých rozměrů by rám mohl zúžit široký průchod.“",
+        "Tavi navrhl nechat vše tak, jak je. Seli zavrtěla hlavou. „Průchod musí vyhovovat všem.“",
+        "Nedokončený úsek uzavřeli. Nikdo ho nebude používat, dokud práci nezkontrolují.",
+        "Tavi počítal chybějící skla, chybějící rozměry a chybějící ruce. Jeho zprávy nic z toho nevyřešily.",
+        "Nad řekou zesílil vítr. Seli přidala do záložního plánu chráněnou trasu dole na úrovni terénu."
+      ],
+      "introduction": "Kontrola trasy odhalí, co ztráta spolupráce znamená pro skutečnou práci.",
+      "title": "Mezera ve světle"
+    },
+    "de": {
+      "altTexts": [
+        "Seli und Tavi prüfen einen unbeleuchteten Laternenpfosten.",
+        "Neben Tavi und Seli stehen drei leere Halterungen.",
+        "Seli misst die Kreideumrisse, während Tavi zusieht.",
+        "Seli zeigt auf den freien Durchgang neben den Umrissen.",
+        "Seli und Tavi spannen eine Absperrung vor den unfertigen Abschnitt.",
+        "Tavi steht bei den leeren Halterungen und Selis Wegeplan.",
+        "Seli zeigt auf den geschützten unteren Hof."
+      ],
+      "captions": [
+        "Bei Sonnenaufgang traf Wegekoordinatorin Seli Tavi draußen. Sie mussten den Lichterweg vor der Eröffnung überprüfen.",
+        "Der Weg führte in einem Bogen über dem Fluss entlang. Das sichere Geländer war fertig, doch an mehreren Pfosten fehlten Laternen.",
+        "Seli hielt an den Kreideumrissen des Eingangs an. „Ohne Lumas Maße könnte der Rahmen den breiten Durchgang versperren.“",
+        "Tavi schlug vor, alles so zu lassen. Seli schüttelte den Kopf. „Der Durchgang muss für alle geeignet sein.“",
+        "Sie sperrten den unfertigen Abschnitt ab. Niemand würde ihn benutzen, bevor die Arbeiten geprüft waren.",
+        "Tavi zählte fehlendes Glas, fehlende Maße und fehlende Hände. Seine Nachrichten hatten keines dieser Probleme gelöst.",
+        "Ein frischer Wind bewegte den Fluss. Seli ergänzte ihren Ersatzplan um einen geschützten, ebenerdigen Weg."
+      ],
+      "introduction": "Eine Prüfung des Weges macht die Folgen der verlorenen Zusammenarbeit sichtbar.",
+      "title": "Eine Lücke im Licht"
+    },
+    "en": {
+      "altTexts": [
+        "Seli and Tavi inspect an unlit lantern post.",
+        "Three bare holders stand beside Tavi and Seli.",
+        "Seli measures chalk outlines while Tavi watches.",
+        "Seli indicates the clear passage beside the outlines.",
+        "Seli and Tavi stretch a barrier across the unfinished section.",
+        "Tavi stands beside the bare holders and Seli’s route board.",
+        "Seli points toward the sheltered lower courtyard."
+      ],
+      "captions": [
+        "At sunrise, route keeper Seli met Tavi outside. They had to inspect the lantern walk before opening night.",
+        "The path curved above the river. Its safe railing was finished, but several lantern posts stood bare.",
+        "Seli stopped at the entrance’s chalk outline. “Without Luma’s measurements, the frame could block the wide passage.”",
+        "Tavi suggested leaving the frame as it was. Seli shook her head. “The passage must work for everyone.”",
+        "They marked the unfinished section closed. No one would use it until the work had been checked.",
+        "Tavi counted the missing glass, missing measurements, and missing hands. His messages had not solved any of them.",
+        "A fresh wind stirred the river. Seli added a sheltered ground-level route to their backup plan."
+      ],
+      "introduction": "A route inspection makes the consequences of lost cooperation visible.",
+      "title": "A Gap in the Light"
+    },
+    "es": {
+      "altTexts": [
+        "Seli y Tavi inspeccionan un poste de farol apagado.",
+        "Hay tres soportes vacíos junto a Tavi y Seli.",
+        "Seli mide los contornos de tiza mientras Tavi observa.",
+        "Seli señala el paso libre junto a los contornos.",
+        "Seli y Tavi colocan una barrera delante del tramo inacabado.",
+        "Tavi está junto a los soportes vacíos y el plano de Seli.",
+        "Seli señala el patio inferior protegido."
+      ],
+      "captions": [
+        "Al amanecer, Seli, la encargada de las rutas, se reunió con Tavi fuera. Debían inspeccionar el sendero antes de inaugurarlo.",
+        "El camino se curvaba sobre el río. La barandilla de seguridad estaba terminada, pero varios postes seguían sin faroles.",
+        "Seli se detuvo ante el contorno de tiza de la entrada. «Sin las medidas de Luma, el marco podría estrechar el paso».",
+        "Tavi propuso dejarlo como estaba. Seli negó con la cabeza. «El paso tiene que servir para todo el mundo».",
+        "Cerraron el tramo sin terminar. Nadie lo usaría hasta que el trabajo estuviera revisado.",
+        "Tavi contó el vidrio que faltaba, las medidas que faltaban y las manos que faltaban. Sus mensajes no habían resuelto nada de eso.",
+        "El viento agitó el río. Seli añadió al plan alternativo un recorrido protegido a nivel del suelo."
+      ],
+      "introduction": "Una inspección del sendero vuelve visibles las consecuencias de haber perdido la colaboración.",
+      "title": "Un hueco en la luz"
+    },
+    "fr": {
+      "altTexts": [
+        "Seli et Tavi inspectent un poteau de lanterne éteinte.",
+        "Trois supports nus se dressent près de Tavi et Seli.",
+        "Seli mesure les tracés à la craie ; Tavi observe.",
+        "Seli indique le passage dégagé à côté des tracés.",
+        "Seli et Tavi tendent une barrière devant la partie inachevée.",
+        "Tavi se tient près des supports nus et du plan de Seli.",
+        "Seli montre la cour inférieure abritée."
+      ],
+      "captions": [
+        "Au lever du soleil, Seli, responsable des parcours, rejoignit Tavi dehors. Ils devaient inspecter le chemin des lanternes avant l’ouverture.",
+        "Le chemin décrivait une courbe au-dessus de la rivière. La rambarde de sécurité était terminée, mais plusieurs poteaux n’avaient pas de lanternes.",
+        "Seli s’arrêta devant le tracé à la craie de l’entrée. « Sans les mesures de Luma, le cadre pourrait rétrécir le passage. »",
+        "Tavi proposa de laisser les choses ainsi. Seli secoua la tête. « Le passage doit convenir à tout le monde. »",
+        "Ils fermèrent la partie inachevée. Personne ne l’emprunterait avant la vérification des travaux.",
+        "Tavi compta le verre manquant, les mesures manquantes et les mains manquantes. Ses messages n’avaient résolu aucun de ces problèmes.",
+        "Un vent frais agita la rivière. Seli ajouta à leur solution de repli un parcours abrité au niveau du sol."
+      ],
+      "introduction": "L’inspection du parcours rend visibles les conséquences de la coopération perdue.",
+      "title": "Un vide dans la lumière"
+    },
+    "hi": {
+      "altTexts": [
+        "सेली और तावी एक बुझी हुई लालटेन के खंभे को जाँच रहे हैं।",
+        "तावी और सेली के पास तीन खाली लालटेन-धारक खड़े हैं।",
+        "सेली चॉक की रूपरेखा नाप रही है और तावी देख रहा है।",
+        "सेली रूपरेखा के पास खुली राह की ओर इशारा कर रही है।",
+        "सेली और तावी अधूरे हिस्से के आगे रोक लगाने वाली पट्टी बाँध रहे हैं।",
+        "तावी खाली धारकों और सेली के रास्ते वाले बोर्ड के पास खड़ा है।",
+        "सेली नीचे के सुरक्षित, हवा से बचे आँगन की ओर इशारा कर रही है।"
+      ],
+      "captions": [
+        "सूर्योदय पर रास्ते की देखभाल करने वाली सेली तावी से बाहर मिली। उद्घाटन से पहले लालटेन वाले रास्ते की जाँच करनी थी।",
+        "रास्ता नदी के ऊपर की ओर घूमता था। मजबूत सुरक्षित रेलिंग तैयार थी, मगर कई खंभों पर लालटेनें नहीं थीं।",
+        "सेली प्रवेश की चॉक से बनी रेखा पर रुकी। “लूमा की नाप के बिना चौखटा चौड़े रास्ते को रोक सकता है।”",
+        "तावी ने सब कुछ पुरानी योजना के अनुसार रखने को कहा। सेली ने इनकार में सिर हिलाया। “यह रास्ता हर किसी के काम आना चाहिए।”",
+        "उन्होंने अधूरा हिस्सा बंद कर दिया। काम जाँचने से पहले वहाँ से कोई नहीं गुजरेगा।",
+        "तावी ने कमी गिनी: काँच, नाप और मदद करने वाले हाथ। उसके संदेशों ने इनमें से कुछ भी पूरा नहीं किया था।",
+        "नदी पर नई हवा चली। सेली ने वैकल्पिक योजना में नीचे जमीन पर बना, हवा से बचा रास्ता जोड़ दिया।"
+      ],
+      "introduction": "रास्ते की जाँच में सहयोग खोने के परिणाम साफ दिखाई देते हैं।",
+      "title": "रोशनी में खाली जगह"
+    },
+    "id": {
+      "altTexts": [
+        "Seli dan Tavi memeriksa tiang lentera yang belum menyala.",
+        "Tiga dudukan kosong berdiri di dekat Tavi dan Seli.",
+        "Seli mengukur garis kapur sementara Tavi mengamati.",
+        "Seli menunjukkan jalan bebas di samping garis kapur.",
+        "Seli dan Tavi memasang pembatas di depan bagian yang belum selesai.",
+        "Tavi berdiri di dekat dudukan kosong dan papan jalur Seli.",
+        "Seli menunjuk halaman bawah yang terlindung."
+      ],
+      "captions": [
+        "Saat matahari terbit, Seli, pengelola jalur, menemui Tavi di luar. Mereka harus memeriksa jalur lentera sebelum pembukaan.",
+        "Jalan melengkung di atas sungai. Pagar pengamannya sudah selesai, tetapi beberapa tiang belum memiliki lentera.",
+        "Seli berhenti di depan garis kapur pintu masuk. “Tanpa ukuran dari Luma, rangkanya bisa mempersempit jalan yang lebar ini.”",
+        "Tavi mengusulkan membiarkannya begitu saja. Seli menggeleng. “Jalan ini harus bisa digunakan semua orang.”",
+        "Mereka menutup bagian yang belum selesai. Tidak seorang pun akan melewatinya sebelum pekerjaan diperiksa.",
+        "Tavi menghitung kaca yang belum ada, ukuran yang belum ada, dan tangan-tangan yang tak lagi membantu. Pesannya tidak menyelesaikan semua itu.",
+        "Angin segar mengusik sungai. Seli menambahkan jalur terlindung di permukaan tanah ke rencana cadangan mereka."
+      ],
+      "introduction": "Pemeriksaan jalur memperlihatkan akibat nyata dari kerja sama yang hilang.",
+      "title": "Celah dalam Cahaya"
+    },
+    "it": {
+      "altTexts": [
+        "Seli e Tavi esaminano il palo di una lanterna spenta.",
+        "Tre sostegni vuoti si trovano accanto a Tavi e Seli.",
+        "Seli misura i contorni di gesso mentre Tavi osserva.",
+        "Seli indica il passaggio libero accanto ai contorni.",
+        "Seli e Tavi tendono una barriera davanti al tratto incompleto.",
+        "Tavi è accanto ai sostegni vuoti e al piano di Seli.",
+        "Seli indica il cortile inferiore riparato."
+      ],
+      "captions": [
+        "All’alba, Seli, responsabile dei percorsi, incontrò Tavi fuori. Dovevano ispezionare il cammino delle lanterne prima dell’apertura.",
+        "Il sentiero curvava sopra il fiume. La ringhiera di sicurezza era terminata, ma su diversi pali mancavano le lanterne.",
+        "Seli si fermò davanti al contorno dell’ingresso tracciato col gesso. «Senza le misure di Luma, la cornice potrebbe restringere il passaggio».",
+        "Tavi propose di lasciare tutto così. Seli scosse la testa. «Il passaggio deve funzionare per tutti».",
+        "Chiusero il tratto incompleto. Nessuno lo avrebbe usato prima del controllo dei lavori.",
+        "Tavi contò i vetri mancanti, le misure mancanti e le mani mancanti. I suoi messaggi non avevano risolto nulla di tutto questo.",
+        "Un vento fresco mosse il fiume. Seli aggiunse al piano alternativo un percorso riparato a livello del terreno."
+      ],
+      "introduction": "L’ispezione del percorso rende visibili le conseguenze della collaborazione perduta.",
+      "title": "Un vuoto nella luce"
+    },
+    "ja": {
+      "altTexts": [
+        "セリとタヴィが、まだ灯っていないランタンの柱を点検しています。",
+        "タヴィとセリのそばに、空の受け金具が三つ並んでいます。",
+        "セリがチョークの輪郭を測り、タヴィが見ています。",
+        "セリが輪郭の横に必要な通路の幅を示しています。",
+        "セリとタヴィが未完成の区間の前に柵を張っています。",
+        "タヴィが空の金具とセリの経路板のそばに立っています。",
+        "セリが、風を避けられる下の中庭を指しています。"
+      ],
+      "captions": [
+        "日の出に、道の管理役のセリがタヴィと合流しました。公開の夜までに、灯りの散歩道を点検する必要があります。",
+        "川を見下ろす道が、曲がりながら続いていました。安全な手すりは完成していましたが、いくつかの柱にはランタンがありません。",
+        "セリは入口のチョークの印で止まりました。「ルマの寸法がないと、枠が広い通路をふさいでしまうかも」",
+        "タヴィはそのままの枠でよいと言いました。セリは首を振りました。「誰にとっても通れる道でなくては」",
+        "二人は未完成の区間を閉鎖しました。作業を確認するまで、誰もそこへ入れません。",
+        "足りないガラス、足りない寸法、足りない人手。タヴィの返信は、そのどれも解決していませんでした。",
+        "川に新しい風が吹きました。セリは予備案に、風を避けられる低い場所の道を加えました。"
+      ],
+      "introduction": "散歩道の点検で、協力を失った結果が目に見える形になります。",
+      "title": "灯りのない場所"
+    },
+    "ko": {
+      "altTexts": [
+        "셀리와 타비가 아직 불이 켜지지 않은 등 기둥을 살펴봐요.",
+        "타비와 셀리 옆에 빈 등 받침 세 개가 서 있어요.",
+        "셀리가 분필 표시를 재고, 타비가 지켜봐요.",
+        "셀리가 윤곽 옆에 확보해야 할 통로를 가리켜요.",
+        "셀리와 타비가 미완성 구간 앞에 차단막을 설치해요.",
+        "타비가 빈 등 받침과 셀리의 경로판 옆에 서 있어요.",
+        "셀리가 바람을 피할 수 있는 아래쪽 마당을 가리켜요."
+      ],
+      "captions": [
+        "해가 뜰 때 길 관리자인 셀리가 타비와 만났어요. 개장하는 밤 전까지 등불 산책길을 점검해야 했어요.",
+        "길은 강 위쪽으로 굽어 있었어요. 안전한 난간은 완성됐지만, 몇몇 기둥에는 등이 없었어요.",
+        "셀리가 입구의 분필 윤곽 앞에 멈췄어요. “루마의 치수가 없으면 틀이 넓은 통로를 막을 수 있어.”",
+        "타비는 틀을 그대로 쓰자고 했어요. 셀리는 고개를 저었어요. “누구나 지날 수 있는 통로여야 해.”",
+        "둘은 미완성 구간을 막았어요. 작업 확인이 끝날 때까지는 아무도 사용할 수 없었어요.",
+        "부족한 유리, 부족한 치수, 부족한 일손. 타비의 메시지는 그중 어느 것도 해결하지 못했어요.",
+        "새 바람이 강 위를 지나갔어요. 셀리는 예비 계획에 바람을 피할 수 있는 낮은 지상 길을 추가했어요."
+      ],
+      "introduction": "산책길을 점검하며 협력을 잃은 결과가 눈앞에 드러납니다.",
+      "title": "비어 있는 등불 자리"
+    },
+    "pl": {
+      "altTexts": [
+        "Seli i Tavi sprawdzają słupek z nieświecącym lampionem.",
+        "Obok Taviego i Seli stoją trzy puste uchwyty.",
+        "Seli mierzy kredowe obrysy, a Tavi obserwuje.",
+        "Seli wskazuje wolne przejście obok obrysów.",
+        "Seli i Tavi rozciągają barierę przed niedokończonym odcinkiem.",
+        "Tavi stoi przy pustych uchwytach i planie trasy Seli.",
+        "Seli wskazuje osłonięty dolny dziedziniec."
+      ],
+      "captions": [
+        "O wschodzie słońca opiekunka tras Seli spotkała się z Tavim na zewnątrz. Musieli sprawdzić ścieżkę przed otwarciem.",
+        "Ścieżka zakręcała nad rzeką. Bezpieczna barierka była gotowa, ale na kilku słupkach wciąż brakowało lampionów.",
+        "Seli zatrzymała się przy kredowym obrysie wejścia. „Bez wymiarów od Lumy rama może zwęzić szerokie przejście”.",
+        "Tavi zaproponował pozostawienie wszystkiego bez zmian. Seli pokręciła głową. „Przejście musi nadawać się dla wszystkich”.",
+        "Zamknęli niedokończony odcinek. Nikt z niego nie skorzysta, dopóki praca nie zostanie sprawdzona.",
+        "Tavi liczył brakujące szkło i wymiary oraz osoby, które przestały pomagać. Jego wiadomości nie rozwiązały żadnego z tych problemów.",
+        "Świeży wiatr poruszył rzekę. Seli dodała do planu awaryjnego osłoniętą trasę na poziomie gruntu."
+      ],
+      "introduction": "Kontrola trasy pokazuje namacalne skutki utraty współpracy.",
+      "title": "Przerwa w świetle"
+    },
+    "pt": {
+      "altTexts": [
+        "Seli e Tavi examinam um poste de lanterna apagada.",
+        "Três suportes vazios estão ao lado de Tavi e Seli.",
+        "Seli mede os contornos de giz enquanto Tavi observa.",
+        "Seli indica a passagem livre ao lado dos contornos.",
+        "Seli e Tavi estendem uma barreira diante do trecho inacabado.",
+        "Tavi está perto dos suportes vazios e do plano de Seli.",
+        "Seli aponta para o pátio inferior protegido."
+      ],
+      "captions": [
+        "Ao nascer do sol, Seli, responsável pelos percursos, encontrou Tavi lá fora. Precisavam inspecionar a trilha de lanternas antes da abertura.",
+        "O caminho fazia uma curva acima do rio. A proteção lateral estava pronta, mas vários postes continuavam sem lanternas.",
+        "Seli parou diante do contorno da entrada marcado a giz. “Sem as medidas de Luma, a moldura pode estreitar a passagem.”",
+        "Tavi sugeriu deixar tudo como estava. Seli balançou a cabeça. “A passagem precisa servir para todo mundo.”",
+        "Eles fecharam o trecho inacabado. Ninguém o usaria antes da inspeção do trabalho.",
+        "Tavi contou os vidros que faltavam, as medidas que faltavam e as mãos que faltavam. Suas mensagens não haviam resolvido nada disso.",
+        "Um vento fresco agitou o rio. Seli acrescentou ao plano alternativo um caminho protegido ao nível do chão."
+      ],
+      "introduction": "Uma inspeção do percurso torna visíveis as consequências da colaboração perdida.",
+      "title": "Uma falha na luz"
+    },
+    "ru": {
+      "altTexts": [
+        "Сели и Тави осматривают незажжённый фонарный столбик.",
+        "Возле Тави и Сели стоят три пустых держателя.",
+        "Сели измеряет меловую разметку; Тави наблюдает.",
+        "Сели указывает на свободный проход рядом с разметкой.",
+        "Сели и Тави натягивают ограждение перед недоделанным участком.",
+        "Тави стоит возле пустых держателей и схемы Сели.",
+        "Сели указывает на укрытый от ветра нижний двор."
+      ],
+      "captions": [
+        "На рассвете смотрительница маршрута Сели встретила Тави на улице. Перед открытием им предстояло проверить прогулочную дорожку.",
+        "Дорожка изгибалась над рекой. Надёжные перила были готовы, но несколько столбиков оставались без фонарей.",
+        "Сели остановилась у меловой разметки входа. «Без размеров Лумы рама может загородить широкий проход».",
+        "Тави предложил оставить всё как есть. Сели покачала головой: «Проход должен быть удобен всем».",
+        "Они огородили недоделанный участок. Никто не войдёт туда, пока работу не проверят.",
+        "Тави считал: нет стекла, нет размеров, нет помощников. Его сообщения не решили ни одной проблемы.",
+        "Над рекой поднялся свежий ветер. Сели добавила в запасной план защищённый нижний маршрут."
+      ],
+      "introduction": "Проверка маршрута показывает реальные последствия потерянного сотрудничества.",
+      "title": "Пробел в цепочке огней"
+    },
+    "tr": {
+      "altTexts": [
+        "Seli ile Tavi, ışığı yanmayan bir fener direğini inceliyor.",
+        "Tavi ile Seli’nin yanında üç boş yuva bulunuyor.",
+        "Seli tebeşir çizgilerini ölçerken Tavi izliyor.",
+        "Seli, çizgilerin yanındaki açık geçidi gösteriyor.",
+        "Seli ile Tavi, bitmemiş bölümün önüne bariyer çekiyor.",
+        "Tavi, boş yuvalarla Seli’nin güzergâh panosunun yanında duruyor.",
+        "Seli, korunaklı alt avluyu gösteriyor."
+      ],
+      "captions": [
+        "Gün doğarken güzergâh sorumlusu Seli, Tavi’yle dışarıda buluştu. Açılıştan önce fener yolunu denetlemeleri gerekiyordu.",
+        "Yol nehrin üst tarafında kıvrılıyordu. Güvenli korkuluk tamamlanmıştı, ama bazı direklerde fener yoktu.",
+        "Seli, girişin tebeşirle çizilmiş sınırlarında durdu. “Luma’nın ölçüleri olmadan çerçeve bu geniş geçidi daraltabilir.”",
+        "Tavi olduğu gibi bırakmayı önerdi. Seli başını iki yana salladı. “Geçit herkesin kullanımına uygun olmalı.”",
+        "Bitmemiş bölümü kapattılar. Yapılan iş kontrol edilmeden kimse buradan geçmeyecekti.",
+        "Tavi eksik camları, eksik ölçüleri, eksik yardımcı elleri saydı. Mesajları bunların hiçbirini çözmemişti.",
+        "Taze bir rüzgâr nehri dalgalandırdı. Seli, yedek plana zemin seviyesinde korunaklı bir güzergâh ekledi."
+      ],
+      "introduction": "Güzergâh incelemesi, kaybolan iş birliğinin gerçek sonuçlarını ortaya çıkarır.",
+      "title": "Işıktaki Boşluk"
+    },
+    "vi": {
+      "altTexts": [
+        "Seli và Tavi xem một cột đèn chưa sáng.",
+        "Ba giá đỡ trống đứng cạnh Tavi và Seli.",
+        "Seli đo các nét phấn trong khi Tavi quan sát.",
+        "Seli chỉ lối đi thông thoáng bên cạnh các nét phấn.",
+        "Seli và Tavi kéo rào chắn trước đoạn đường chưa xong.",
+        "Tavi đứng cạnh giá đỡ trống và bảng lộ trình của Seli.",
+        "Seli chỉ xuống sân dưới được che chắn."
+      ],
+      "captions": [
+        "Lúc mặt trời mọc, Seli, người phụ trách các tuyến đường, gặp Tavi bên ngoài. Họ phải kiểm tra đường đèn lồng trước ngày mở cửa.",
+        "Con đường uốn quanh phía trên dòng sông. Lan can an toàn đã hoàn thành, nhưng nhiều cột vẫn thiếu đèn.",
+        "Seli dừng trước nét phấn đánh dấu lối vào. “Không có kích thước của Luma, khung này có thể làm hẹp lối đi.”",
+        "Tavi đề nghị cứ để nguyên. Seli lắc đầu. “Lối đi phải phù hợp với tất cả mọi người.”",
+        "Họ đóng đoạn đường chưa hoàn thành. Không ai được sử dụng trước khi công việc được kiểm tra.",
+        "Tavi đếm kính còn thiếu, số đo còn thiếu và những bàn tay không còn giúp đỡ. Thư của cậu chẳng giải quyết được điều nào.",
+        "Một luồng gió làm mặt sông xao động. Seli thêm tuyến đường thấp, được che chắn vào phương án dự phòng."
+      ],
+      "introduction": "Buổi kiểm tra đường đi cho thấy hậu quả cụ thể của việc mất đi sự hợp tác.",
+      "title": "Khoảng trống trong ánh sáng"
+    },
+    "zh": {
+      "altTexts": [
+        "塞莉和塔维检查一根尚未点亮的灯柱。",
+        "塔维和塞莉旁边立着三个空灯架。",
+        "塞莉测量粉笔轮廓，塔维在旁观看。",
+        "塞莉指向轮廓旁应保持畅通的空间。",
+        "塞莉和塔维在未完工路段前拉起围挡。",
+        "塔维站在空灯架和塞莉的路线板旁。",
+        "塞莉指向有遮挡的下层庭院。"
+      ],
+      "captions": [
+        "日出时，路线管理员塞莉在外面与塔维碰面。他们要在开放夜之前检查灯笼步道。",
+        "小路沿河上方弯曲伸展。安全护栏已经做好，几根灯柱上却还空着。",
+        "塞莉停在入口的粉笔轮廓旁：“没有卢玛的尺寸，框架可能会挡住宽通道。”",
+        "塔维提议一切照原计划进行。塞莉摇头：“通道必须让每个人都能好好通过。”",
+        "他们封住了没有做完的部分。检查合格之前，谁也不能使用这一段。",
+        "塔维数着缺少的玻璃、尺寸和帮手。他发出的那些消息，一个问题也没解决。",
+        "一阵新风吹过河面。塞莉把一条避风的地面路线加进备用方案。"
+      ],
+      "introduction": "路线检查让失去合作的后果变得看得见、摸得着。",
+      "title": "缺了灯的路"
+    }
+  },
+  "number": 7,
+  "panels": [
+    {
+      "altText": "Seli and Tavi inspect an unlit lantern post.",
+      "image": "N03E07P01.png"
+    },
+    {
+      "altText": "Three bare holders stand beside Tavi and Seli.",
+      "image": "N03E07P02.png"
+    },
+    {
+      "altText": "Seli measures chalk outlines while Tavi watches.",
+      "image": "N03E07P03.png"
+    },
+    {
+      "altText": "Seli indicates the clear passage beside the outlines.",
+      "image": "N03E07P04.png"
+    },
+    {
+      "altText": "Seli and Tavi stretch a barrier across the unfinished section.",
+      "image": "N03E07P05.png"
+    },
+    {
+      "altText": "Tavi stands beside the bare holders and Seli’s route board.",
+      "image": "N03E07P06.png"
+    },
+    {
+      "altText": "Seli points toward the sheltered lower courtyard.",
+      "image": "N03E07P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "communication",
+    "listening",
+    "responsibility"
+  ],
+  "version": 1
+}

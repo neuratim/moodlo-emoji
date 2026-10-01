@@ -1,0 +1,442 @@
+{
+  "id": "N02E22",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يقف بورو وحده تحت قوس لوما المنخفض.",
+        "تتدلى ستة فوانيس مضاءة من القوس المنخفض، بينما تبقى الفوانيس الإضافية الاثنا عشر غير المصلحة في صندوق تحت الرواق.",
+        "يقارن بورو رسم القوس العالي بالقوس المنخفض الحقيقي.",
+        "يصحح بورو الإعلان ولا يحمل ميند الغائبة المسؤولية وحدها.",
+        "يضع بورو طاولة الترحيب تحت الرواق المسقوف.",
+        "يحفظ بورو الرسم ويفتح المدخل أسفل القوس الصغير.",
+        "تنعكس الفوانيس الستة بخطوط ضوء طويلة على الساحة المبتلة."
+      ],
+      "captions": [
+        "في الظهر نفسه، في لوما، وقف بورو تحت قوس فوانيس أقل ارتفاعًا بكثير. لم تأتِ ميند، تمامًا كما أخبرته.",
+        "استخدم ستة فوانيس كانت سليمة أصلًا. بقيت الفوانيس الإضافية الاثنا عشر مطوية في صندوقها بعيدًا عن المطر.",
+        "نظر بورو إلى الرسم الفخم ثم إلى القوس الصغير المتين. لم يكن الافتتاح الأصغر هو الذي أعلن عنه.",
+        "قبل التجمع، صحح الإعلان: أخبرت ميند بانسحابها مسبقًا، وهو أعلن مساعدتها من دون مراجعة الخطة كاملة.",
+        "نقل طاولة الترحيب إلى رواق جاف. يمكن للافتتاح أن يتم من دون زينة شاهقة أو إلقاء اللوم على مساعدة غائبة.",
+        "ظل بورو خائب الأمل. وضع الرسم الكبير في ملف وفتح البوابة تحت الأضواء الصغيرة.",
+        "على حجارة لوما المبتلة، صنعت ستة أضواء صغيرة ستة انعكاسات طويلة. صار اليوم مختلفًا، لا فارغًا."
+      ],
+      "introduction": "يستخدم بورو ستة فوانيس سليمة أصلًا لإقامة افتتاح أصغر.",
+      "title": "القوس الذي بقي منخفضًا"
+    },
+    "bn": {
+      "altTexts": [
+        "বোরো লুমার নিচু লণ্ঠনের তোরণের নিচে একা।",
+        "নিচু তোরণে ছয়টি লণ্ঠন জ্বলছে; মেরামত না করা বাড়তি বারোটি লণ্ঠন আচ্ছাদিত বারান্দার নিচে বাক্সেই আছে।",
+        "বোরো উঁচু নকশা ও আসল নিচু তোরণ তুলনা করে।",
+        "বোরো খবর বদলায়, অনুপস্থিত মেন্ডকে একা দোষ দেয় না।",
+        "বোরো অভ্যর্থনার টেবিল ছাদের নিচে রাখে।",
+        "বোরো নকশা গুছিয়ে নিচু তোরণের পথ খোলে।",
+        "ছয় লণ্ঠন ভেজা চত্বরে ছয়টি লম্বা আলো ফেলে।"
+      ],
+      "captions": [
+        "সেই একই দুপুরে লুমায় বোরো অনেক নিচু লণ্ঠনের তোরণের নিচে দাঁড়াল। মেন্ড আসেনি, ঠিক যেমন জানিয়েছিল।",
+        "সে আগে থেকেই ভালো ছয় লণ্ঠন ব্যবহার করল। বাড়তি বারোটি বাক্সে ভাঁজ হয়ে বৃষ্টি থেকে আড়ালে রইল।",
+        "বোরো বড় নকশা দেখল, তারপর ছোট মজবুত তোরণ। ছোট উদ্বোধন তার প্রচারের মতো নয়।",
+        "অনুষ্ঠানের আগে সে ঘোষণাটি সংশোধন করল: মেন্ড আগেই জানিয়েছিল যে সে কাজটি করতে পারবে না, আর বোরো পুরো পরিকল্পনা না দেখেই মেন্ডের সাহায্যের কথা ঘোষণা করেছিল।",
+        "অভ্যর্থনার টেবিল শুকনো ঢাকা বারান্দায় নিল। উঁচু সাজ কিংবা না-আসা সাহায্যকারীকে দোষ না দিয়েও উদ্বোধন চলতে পারে।",
+        "বোরোর এখনও মন খারাপ। সে বড় নকশা ফাইলে রেখে ছোট আলোর নিচে প্রবেশপথ খুলল।",
+        "লুমার ভেজা পাথরে ছয় ছোট আলো ছয় লম্বা প্রতিবিম্ব ফেলল। দিন বদলেছে, শূন্য হয়নি।"
+      ],
+      "introduction": "বোরো আগে থেকেই ভালো ছয়টি লণ্ঠনে ছোট উদ্বোধনের ব্যবস্থা করে।",
+      "title": "যে তোরণ উঁচু হলো না"
+    },
+    "cs": {
+      "altTexts": [
+        "Boro stojí za mírného deště vedle nízkého oblouku.",
+        "Na nízkém oblouku svítí šest lampionů; dvanáct dalších neopravovaných lampionů zůstává v bedně pod podloubím.",
+        "Boro porovnává nákres vysokého oblouku s nízkým skutečným.",
+        "Boro mění na nástěnce obrázek vysokého oblouku za nízký.",
+        "Boro přesouvá malý uvítací stůl pod podloubí.",
+        "Boro otevírá branku pod šesti nízkými lampiony.",
+        "Vedle Bora se přes mokré náměstí táhne šest odrazů."
+      ],
+      "captions": [
+        "Ve stejném poledni stál Boro zpátky v městečku Luma pod mnohem nižším lampionovým obloukem. Mend nepřišla, přesně jak řekla.",
+        "Použil šest lampionů, které už fungovaly. Dvanáct dalších zůstalo složených v krabici, bezpečně mimo déšť.",
+        "Boro porovnal velkolepý nákres s pevným malým obloukem. Menší zahájení nebylo to, které původně oznámil.",
+        "Před setkáním opravil oznámení: Mend odstoupila s předstihem a on její pomoc ohlásil, aniž ověřil celý plán.",
+        "Přesunul uvítací stůl pod suché podloubí. Zahájení mohlo proběhnout bez obří ozdoby i bez obviňování nepřítomné pomocnice.",
+        "Boro byl stále zklamaný. Velký nákres uložil do desek a otevřel branku pod menšími světly.",
+        "Na mokrých kamenech v městečku Luma tvořilo šest malých světel šest dlouhých odrazů. Den byl jiný, ne prázdný."
+      ],
+      "introduction": "Mezitím Boro změní plány na zahájení v městečku Luma a uzná svůj podíl na zmatku.",
+      "title": "Oblouk, který zůstal nízký"
+    },
+    "de": {
+      "altTexts": [
+        "Boro steht im leichten Regen neben Lumas niedrigem Laternenbogen.",
+        "Sechs leuchtende Laternen hängen am niedrigen Bogen; zwölf unreparierte zusätzliche Laternen bleiben in einer Kiste unter den Arkaden.",
+        "Boro vergleicht seinen hohen Bogenentwurf mit dem tatsächlichen niedrigen Bogen.",
+        "Boro ersetzt am Brett das Bild eines hohen Bogens durch einen niedrigen.",
+        "Boro bewegt einen kleinen Begrüßungstisch unter den Laubengang.",
+        "Boro öffnet das Tor unter sechs niedrig hängenden Laternen.",
+        "Sechs Laternen spiegeln sich lang auf dem nassen Platz neben Boro."
+      ],
+      "captions": [
+        "Zur selben Mittagszeit stand Boro in Luma unter einem viel niedrigeren Laternenbogen. Mend war nicht gekommen, genau wie angekündigt.",
+        "Er hatte sechs Laternen verwendet, die bereits funktionierten. Die zwölf zusätzlichen lagen weiter gefaltet in ihrer Kiste, sicher vor dem Regen.",
+        "Boro betrachtete seinen großen Entwurf und dann den stabilen kleinen Bogen. Diese bescheidenere Eröffnung war nicht die angekündigte.",
+        "Vor dem Treffen korrigierte er die Ankündigung: Mend hatte rechtzeitig abgesagt, und er hatte ihre Hilfe angekündigt, ohne den ganzen Plan zu prüfen.",
+        "Er schob den Begrüßungstisch unter einen trockenen Laubengang. Die Eröffnung konnte stattfinden, ohne riesigen Schmuck und ohne einer fehlenden Helferin die Schuld zu geben.",
+        "Boro war weiterhin enttäuscht. Er legte den großen Entwurf in eine Mappe und öffnete das Tor unter den kleineren Lichtern.",
+        "Auf Lumas nassen Steinen bildeten sechs kleine Lichter sechs lange Spiegelungen. Der Tag war anders geworden, nicht leer."
+      ],
+      "introduction": "Währenddessen ändert Boro Lumas Eröffnung und erkennt seinen Anteil am Durcheinander.",
+      "title": "Der Bogen, der niedrig blieb"
+    },
+    "en": {
+      "altTexts": [
+        "Boro stands beside Luma’s low lantern arch in light rain.",
+        "Six lit lanterns hang on the low arch; twelve unrepaired extras remain boxed under the arcade.",
+        "Boro compares his tall-arch drawing with the actual low arch.",
+        "Boro replaces a tall-arch picture with a low-arch picture on a notice board.",
+        "Boro moves a small welcome table under the square’s arcade.",
+        "Boro opens the square gate beneath six low lanterns.",
+        "Six lantern reflections stretch across the wet square beside Boro."
+      ],
+      "captions": [
+        "At the same noon, back in Luma, Boro stood beneath a much lower lantern arch. Mend had not come, exactly as she had said.",
+        "He had used six lanterns that already worked. The twelve extras remained folded in their box, safely out of the rain.",
+        "Boro looked at his grand drawing, then at the sturdy little arch. The smaller opening was not the one he had advertised.",
+        "Before the gathering, he corrected the announcement: Mend had withdrawn in time, and he had announced her help without checking the whole plan.",
+        "He moved the welcome table beneath a dry arcade. The opening could go ahead without a towering decoration or a missing helper to blame.",
+        "Boro was still disappointed. He left the grand drawing in a folder and opened the gate beneath the smaller lights.",
+        "Across Luma's wet stones, six small lights made six long reflections. The day had become different, not empty."
+      ],
+      "introduction": "Meanwhile, Boro changes Luma’s opening and accepts his own part in the confusion.",
+      "title": "The Arch That Stayed Low"
+    },
+    "es": {
+      "altTexts": [
+        "Boro permanece junto al arco bajo de Luma mientras cae una lluvia suave.",
+        "Seis faroles encendidos cuelgan del arco bajo; los doce extras sin reparar siguen en una caja bajo los soportales.",
+        "Boro compara el dibujo de un arco alto con el arco bajo real.",
+        "Boro sustituye una imagen del arco alto por otra del arco bajo.",
+        "Boro mueve una pequeña mesa de bienvenida bajo la arcada.",
+        "Boro abre la entrada bajo seis faroles bajos.",
+        "Seis reflejos se alargan sobre la plaza mojada junto a Boro."
+      ],
+      "captions": [
+        "A ese mismo mediodía, en Luma, Boro estaba bajo un arco de faroles mucho más bajo. Mend no había ido, tal como había avisado.",
+        "Había usado seis faroles que ya funcionaban. Los doce adicionales seguían plegados en su caja, protegidos de la lluvia.",
+        "Boro miró su gran dibujo y después el pequeño arco firme. La inauguración más modesta no era la que había anunciado.",
+        "Antes del encuentro corrigió el anuncio: Mend había avisado a tiempo de su retirada, y él había anunciado su ayuda sin revisar el plan completo.",
+        "Llevó la mesa de bienvenida bajo una arcada seca. La inauguración podía celebrarse sin una decoración imponente ni una ayudante ausente a quien culpar.",
+        "Boro seguía decepcionado. Guardó el gran dibujo en una carpeta y abrió la puerta bajo las luces más pequeñas.",
+        "Sobre las piedras mojadas de Luma, seis luces pequeñas dibujaban seis reflejos largos. El día era distinto, no estaba vacío."
+      ],
+      "introduction": "Mientras tanto, Boro cambia la inauguración y reconoce su parte en la confusión.",
+      "title": "El arco que quedó bajo"
+    },
+    "fr": {
+      "altTexts": [
+        "Boro se tient près de l’arche basse sous une pluie légère.",
+        "Six lanternes allumées pendent à l’arche basse ; les douze lanternes supplémentaires non réparées restent en caisse sous les arcades.",
+        "Boro compare le dessin d’une arche haute à la véritable arche basse.",
+        "Boro remplace une image d’arche haute par une image d’arche basse.",
+        "Boro déplace une petite table d’accueil sous l’arcade.",
+        "Boro ouvre le portillon sous six lanternes basses.",
+        "Six reflets s’allongent sur la place mouillée près de Boro."
+      ],
+      "captions": [
+        "À ce même midi, à Luma, Boro se tenait sous une arche de lanternes bien plus basse. Mend n’était pas venue, exactement comme elle l’avait annoncé.",
+        "Il avait utilisé six lanternes qui fonctionnaient déjà. Les douze autres restaient pliées dans leur boîte, à l’abri de la pluie.",
+        "Boro regarda son grand dessin, puis la petite arche solide. Cette ouverture plus modeste n’était pas celle qu’il avait annoncée.",
+        "Avant le rassemblement, il corrigea l’annonce : Mend avait prévenu à temps, et lui avait annoncé son aide sans vérifier l’ensemble du projet.",
+        "Il déplaça la table d’accueil sous une arcade sèche. L’ouverture pouvait avoir lieu sans décoration imposante ni aide absente à accuser.",
+        "Boro était encore déçu. Il rangea le grand dessin dans un dossier et ouvrit le portillon sous les petites lumières.",
+        "Sur les pierres mouillées de Luma, six petites lumières dessinaient six longs reflets. La journée était devenue différente, pas vide."
+      ],
+      "introduction": "Pendant ce temps, Boro modifie l’ouverture et reconnaît sa part dans la confusion.",
+      "title": "L’arche restée basse"
+    },
+    "hi": {
+      "altTexts": [
+        "बोरो लूमा के नीचे लालटेन-द्वार के नीचे अकेला है।",
+        "निचले द्वार पर छह लालटेन जल रही हैं; बारह अतिरिक्त, बिना मरम्मत वाली लालटेन मेहराबदार बरामदे के नीचे पेटी में हैं।",
+        "बोरो ऊँचे द्वार के चित्र और वास्तविक नीचे द्वार की तुलना करता है।",
+        "बोरो सूचना बदलता है, अनुपस्थित मेंड को अकेला दोष नहीं देता।",
+        "बोरो स्वागत-मेज़ छत वाले गलियारे में रखता है।",
+        "बोरो चित्र समेटकर नीचे द्वार का प्रवेश खोलता है।",
+        "छह लालटेनें भीगे चौक पर छह लंबी रोशनियाँ बनाती हैं।"
+      ],
+      "captions": [
+        "उसी दोपहर लूमा में बोरो काफी नीचे लालटेन-द्वार के नीचे खड़ा था। मेंड नहीं आई—बिल्कुल जैसा उसने बताया था।",
+        "उसने छह पहले से सही लालटेनें इस्तेमाल की थीं। अतिरिक्त बारह डिब्बे में तह की हुई थीं, बारिश से बचाकर।",
+        "बोरो ने बड़ा चित्र देखा, फिर छोटा मज़बूत द्वार। यह छोटा उद्घाटन उसके प्रचार जैसा नहीं था।",
+        "समारोह से पहले उसने सूचना सुधारी: मेंड ने पहले ही अपना वादा वापस बताया था, और उसने पूरी योजना जाँचे बिना उसकी मदद घोषित की थी।",
+        "उसने स्वागत की मेज़ सूखे बरामदे में खिसकाई। ऊँची सजावट या न आने वाले मददगार को दोष दिए बिना भी उद्घाटन हो सकता था।",
+        "बोरो अभी भी निराश था। उसने बड़ा चित्र फाइल में रखा और छोटी रोशनियों के नीचे द्वार खोल दिया।",
+        "लूमा के भीगे पत्थरों पर छह छोटी रोशनियों ने छह लंबे प्रतिबिंब बनाए। दिन अलग हुआ था, खाली नहीं।"
+      ],
+      "introduction": "बोरो पहले से सही छह लालटेनों से छोटा उद्घाटन तैयार करता है।",
+      "title": "जो द्वार ऊँचा नहीं हुआ"
+    },
+    "id": {
+      "altTexts": [
+        "Boro berdiri sendiri di bawah gerbang rendah Luma.",
+        "Enam lampion menyala di gerbang rendah; dua belas lampion tambahan yang belum diperbaiki tetap di dalam peti di bawah arkade.",
+        "Boro membandingkan rancangan tinggi dengan gerbang rendah yang nyata.",
+        "Boro mengganti pengumuman tanpa menyalahkan tokoh yang tidak hadir.",
+        "Boro menempatkan meja penyambutan di bawah serambi.",
+        "Boro menyimpan gambar lalu membuka jalan masuk.",
+        "Enam lampion memantul pada alun-alun yang basah."
+      ],
+      "captions": [
+        "Pada tengah hari yang sama di Luma, Boro berdiri di bawah gerbang lampion yang jauh lebih rendah. Mend tidak datang, tepat seperti yang telah dikatakannya.",
+        "Ia menggunakan enam lampion yang sudah berfungsi. Dua belas lampion tambahan masih terlipat di dalam kotak, terlindung dari hujan.",
+        "Boro melihat gambar megahnya, lalu gerbang kecil yang kokoh. Pembukaan sederhana ini bukan yang semula ia umumkan.",
+        "Sebelum acara, ia memperbaiki pengumuman: Mend telah memberi tahu pembatalannya, dan ia sendiri mengumumkan bantuan Mend tanpa memeriksa seluruh rencana.",
+        "Ia memindahkan meja penyambutan ke bawah serambi kering. Acara tetap bisa berlangsung tanpa hiasan menjulang atau menyalahkan pembantu yang tidak datang.",
+        "Boro masih kecewa. Ia menyimpan gambar megah dalam map dan membuka gerbang di bawah lampu-lampu kecil.",
+        "Di atas batu-batu Luma yang basah, enam lampu kecil membuat enam pantulan panjang. Hari itu menjadi berbeda, bukan kosong."
+      ],
+      "introduction": "Boro melanjutkan pembukaan dengan enam lampion yang sudah berfungsi.",
+      "title": "Gerbang yang Tetap Rendah"
+    },
+    "it": {
+      "altTexts": [
+        "Boro sta vicino all’arco basso sotto una pioggia leggera.",
+        "Sei lanterne accese pendono dall’arco basso; le dodici aggiuntive, non riparate, restano in una cassa sotto il porticato.",
+        "Boro confronta il disegno di un arco alto con l’arco basso reale.",
+        "Boro sostituisce l’immagine dell’arco alto con quella dell’arco basso.",
+        "Boro sposta un piccolo tavolo di benvenuto sotto il portico.",
+        "Boro apre il cancelletto sotto sei lanterne basse.",
+        "Sei riflessi si allungano sulla piazza bagnata accanto a Boro."
+      ],
+      "captions": [
+        "A quello stesso mezzogiorno, a Luma, Boro era sotto un arco di lanterne molto più basso. Mend non era venuta, esattamente come aveva detto.",
+        "Aveva usato sei lanterne già funzionanti. Le dodici aggiuntive restavano ripiegate nella scatola, al sicuro dalla pioggia.",
+        "Boro guardò il grande disegno, poi il piccolo arco robusto. Quell’inaugurazione ridotta non era ciò che aveva annunciato.",
+        "Prima dell’incontro corresse l’annuncio: Mend aveva avvisato in tempo del ritiro, e lui aveva annunciato il suo aiuto senza controllare tutto il piano.",
+        "Spostò il tavolo di benvenuto sotto un portico asciutto. L’apertura poteva svolgersi senza una decorazione gigantesca né un’aiutante assente da incolpare.",
+        "Boro era ancora deluso. Ripose il grande disegno in una cartella e aprì il cancelletto sotto le luci più piccole.",
+        "Sulle pietre bagnate di Luma, sei piccole luci disegnavano sei lunghi riflessi. La giornata era diventata diversa, non vuota."
+      ],
+      "introduction": "Intanto Boro cambia l’inaugurazione e riconosce la propria parte nella confusione.",
+      "title": "L’arco rimasto basso"
+    },
+    "ja": {
+      "altTexts": [
+        "ボロが、ルマの低いちょうちんの門の下に一人で立っています。",
+        "低いアーチに六つのランタンが灯り、修理していない追加の十二個は、屋根のある通路の下の箱に入ったままです。",
+        "ボロが、高い門の設計図と実際の低い門を比べています。",
+        "ボロが案内を直し、いないメンドだけを責めないようにしています。",
+        "ボロが受付の机を屋根のある回廊に置いています。",
+        "ボロが設計図をしまい、低い門の入口を開けています。",
+        "六つのちょうちんが、ぬれた石畳に六つの長い光を映しています。"
+      ],
+      "captions": [
+        "同じ正午、ルマではボロが、ずっと低いちょうちんの門の下に立っていました。メンドは来ません。前もって伝えたとおりでした。",
+        "使ったのは、もともと使える六つのちょうちんでした。追加の十二個は、雨の当たらない箱の中にたたまれたままです。",
+        "ボロは大きな設計図を見て、それから丈夫な小さな門を見ました。小さな開会は、宣伝した姿とは違っていました。",
+        "集まりの前に、ボロは案内を訂正しました。メンドは前もって断っていたこと、自分が全体を確かめず手伝いを公表したことを伝えました。",
+        "受付の机を乾いた回廊へ移しました。高い飾りがなくても、来ない手伝いを責めなくても、開会はできるのです。",
+        "ボロはまだ残念でした。大きな設計図をファイルへしまい、小さな明かりの下の門を開きました。",
+        "ぬれたルマの石畳に、六つの小さな明かりが長く映りました。その日は違う形になっただけで、空っぽにはなりませんでした。"
+      ],
+      "introduction": "ボロはもともと使える六つのちょうちんで開会を迎えます。",
+      "title": "高くしなかった門"
+    },
+    "ko": {
+      "altTexts": [
+        "보로가 루마의 낮은 등불 아치 아래 홀로 서 있습니다.",
+        "낮은 아치에는 등불 여섯 개가 켜져 있고, 고치지 않은 추가 등불 열두 개는 지붕 있는 통로 아래 상자에 남아 있습니다.",
+        "보로가 높은 설계도와 실제의 낮은 아치를 비교합니다.",
+        "보로가 멘드에게만 책임을 돌리지 않도록 안내를 고칩니다.",
+        "보로가 환영 탁자를 지붕 있는 통로 아래 놓습니다.",
+        "보로가 설계도를 넣고 낮은 아치의 입구를 엽니다.",
+        "여섯 등불이 젖은 광장에 길게 비칩니다."
+      ],
+      "captions": [
+        "같은 정오, 루마의 보로는 훨씬 낮은 등불 아치 아래에 서 있었습니다. 멘드는 오지 않았습니다. 미리 말한 그대로였습니다.",
+        "그는 원래 잘 켜지던 등불 여섯 개를 썼습니다. 추가 등불 열두 개는 비를 피해 상자 안에 접힌 채 남아 있었습니다.",
+        "보로는 거창한 그림과 튼튼한 작은 아치를 번갈아 보았습니다. 이 작은 개막식은 처음 알렸던 모습과 달랐습니다.",
+        "모임 전에 그는 안내를 바로잡았습니다. 멘드는 미리 취소를 알렸고, 자신은 전체 계획을 확인하지 않고 도움을 공표했다고 밝혔습니다.",
+        "보로는 손님을 맞는 탁자를 비가 들지 않는 지붕 있는 통로로 옮겼습니다. 높은 장식이 없어도, 오지 않은 도우미를 탓하지 않아도 개막은 가능했습니다.",
+        "보로는 여전히 아쉬웠습니다. 큰 설계도를 파일에 넣고 작은 불빛 아래 입구를 열었습니다.",
+        "루마의 젖은 돌바닥에 작은 등불 여섯 개가 긴 빛 여섯 줄을 드리웠습니다. 하루는 달라졌지만 텅 빈 것은 아니었습니다."
+      ],
+      "introduction": "보로는 원래 잘 켜지던 등불 여섯 개로 작은 개막식을 준비합니다.",
+      "title": "높이지 않은 아치"
+    },
+    "pl": {
+      "altTexts": [
+        "Boro stoi przy niskiej bramie podczas lekkiego deszczu.",
+        "Na niskiej bramie świeci sześć lampionów; dwanaście dodatkowych, nadal nienaprawionych, pozostaje w skrzynce pod podcieniami.",
+        "Boro porównuje rysunek wysokiej bramy z rzeczywistą niską.",
+        "Boro zastępuje na tablicy obraz wysokiej bramy obrazem niskiej.",
+        "Boro przesuwa mały stół powitalny pod podcień.",
+        "Boro otwiera furtkę pod sześcioma nisko zawieszonymi lampionami.",
+        "Obok Bora na mokrym placu wydłuża się sześć odbić lampionów."
+      ],
+      "captions": [
+        "W tym samym południu, w miasteczku miasteczku Luma, Boro stał pod znacznie niższą bramą z lampionami. Mend nie przyszła, dokładnie tak, jak zapowiedziała.",
+        "Użył sześciu lampionów, które już działały. Dwanaście dodatkowych nadal leżało złożonych w pudełku, z dala od deszczu.",
+        "Boro spojrzał na wielki projekt, potem na małą, solidną bramę. To skromniejsze otwarcie nie było tym, które zapowiedział.",
+        "Przed spotkaniem poprawił ogłoszenie: Mend uprzedziła o wycofaniu się, a on zapowiedział jej pomoc bez sprawdzenia całego planu.",
+        "Przesunął stół powitalny pod suchy podcień. Otwarcie mogło się odbyć bez wielkiej ozdoby i bez obwiniania nieobecnej pomocnicy.",
+        "Boro nadal był rozczarowany. Schował wielki projekt do teczki i otworzył furtkę pod mniejszymi światłami.",
+        "Na mokrych kamieniach miasteczka Luma sześć małych świateł dawało sześć długich odbić. Dzień stał się inny, nie pusty."
+      ],
+      "introduction": "Tymczasem Boro zmienia otwarcie i przyznaje się do własnego udziału w zamieszaniu.",
+      "title": "Brama, która została niska"
+    },
+    "pt": {
+      "altTexts": [
+        "Boro está junto do arco baixo sob uma chuva leve.",
+        "Seis lanternas acesas estão penduradas no arco baixo; as doze extras, ainda sem conserto, ficam numa caixa sob a arcada.",
+        "Boro compara o desenho de um arco alto com o arco baixo real.",
+        "Boro troca a imagem de um arco alto pela de um arco baixo.",
+        "Boro move uma pequena mesa de boas-vindas para debaixo da arcada.",
+        "Boro abre o portão sob seis lanternas baixas.",
+        "Seis reflexos de lanternas se alongam na praça molhada perto de Boro."
+      ],
+      "captions": [
+        "Naquele mesmo meio-dia, de volta a Luma, Boro estava sob um arco de lanternas muito mais baixo. Mend não veio, exatamente como havia avisado.",
+        "Ele usara seis lanternas que já funcionavam. As doze extras continuavam dobradas na caixa, protegidas da chuva.",
+        "Boro olhou para seu grande desenho e para o pequeno arco firme. Aquela abertura menor não era a que ele anunciara.",
+        "Antes do encontro, corrigiu o anúncio: Mend avisara a tempo que não participaria, e ele anunciara a ajuda sem verificar o plano todo.",
+        "Levou a mesa de boas-vindas para uma arcada seca. A abertura podia acontecer sem uma decoração gigante nem uma ajudante ausente para culpar.",
+        "Boro ainda estava decepcionado. Guardou o grande desenho numa pasta e abriu o portão sob as luzes menores.",
+        "Sobre as pedras molhadas de Luma, seis pequenas luzes formaram seis reflexos longos. O dia ficara diferente, não vazio."
+      ],
+      "introduction": "Enquanto isso, Boro muda a abertura e reconhece sua parte na confusão.",
+      "title": "O arco que ficou baixo"
+    },
+    "ru": {
+      "altTexts": [
+        "Боро стоит возле низкой арки под лёгким дождём.",
+        "На низкой арке горят шесть фонариков; двенадцать непочиненных запасных остаются в ящике под аркадой.",
+        "Боро сравнивает рисунок высокой арки с настоящей низкой аркой.",
+        "Боро заменяет на доске изображение высокой арки изображением низкой.",
+        "Боро передвигает небольшой стол под аркаду площади.",
+        "Боро открывает калитку под шестью низкими фонариками.",
+        "Возле Боро по мокрой площади тянутся шесть отражений фонариков."
+      ],
+      "captions": [
+        "В тот же полдень в Луме Боро стоял под гораздо более низкой аркой с фонариками. Менд не пришла, как и предупредила.",
+        "Он использовал шесть фонариков, которые уже работали. Двенадцать дополнительных оставались сложенными в коробке, в сухом месте.",
+        "Боро посмотрел на большой рисунок, а затем на маленькую крепкую арку. Это скромное открытие было не тем, которое он объявил.",
+        "Перед встречей он исправил объявление: Менд заранее сообщила об отказе, а он объявил её помощь, не проверив весь план.",
+        "Он передвинул стол приветствия под сухую аркаду. Открытие могло состояться без огромного украшения и без обвинений в адрес отсутствующей помощницы.",
+        "Боро всё ещё был разочарован. Он убрал большой рисунок в папку и открыл калитку под небольшими огнями.",
+        "На мокрых камнях Лумы шесть маленьких огней оставляли шесть длинных отражений. День стал другим, но не пустым."
+      ],
+      "introduction": "Тем временем Боро меняет открытие и признаёт свою долю ответственности.",
+      "title": "Арка, которая осталась низкой"
+    },
+    "tr": {
+      "altTexts": [
+        "Boro hafif yağmurda alçak fener kemerinin yanında duruyor.",
+        "Alçak kemerde altı fener yanar; onarılmamış on iki ek fener, revakın altındaki kasada durur.",
+        "Boro yüksek kemer çizimini gerçek alçak kemerle karşılaştırıyor.",
+        "Boro panodaki yüksek kemer resmini alçak kemer resmiyle değiştiriyor.",
+        "Boro küçük karşılama masasını revakın altına itiyor.",
+        "Boro altı alçak fenerin altındaki kapıyı açıyor.",
+        "Boro’nun yanında ıslak meydana altı uzun fener yansıması uzanıyor."
+      ],
+      "captions": [
+        "Aynı öğle vaktinde Luma’da Boro, çok daha alçak bir fener kemerinin altındaydı. Mend, söylediği gibi gelmemişti.",
+        "Zaten çalışan altı feneri kullanmıştı. On iki ek fener kutuda katlı duruyor, yağmurdan korunuyordu.",
+        "Boro büyük çizimine, sonra sağlam küçük kemere baktı. Bu küçük açılış, duyurduğu açılış değildi.",
+        "Toplantıdan önce duyuruyu düzeltti: Mend zamanında haber vermişti; kendisi tüm planı kontrol etmeden onun yardımını duyurmuştu.",
+        "Karşılama masasını kuru revakın altına taşıdı. Açılış dev bir süs ya da suçlanacak bir yardımcı olmadan da yapılabilirdi.",
+        "Boro hâlâ hayal kırıklığı içindeydi. Büyük çizimi dosyaya kaldırıp küçük ışıkların altındaki kapıyı açtı.",
+        "Luma’nın ıslak taşlarında altı küçük ışık, altı uzun yansıma yaptı. Gün boşalmamıştı; değişmişti."
+      ],
+      "introduction": "Bu sırada Boro açılışı değiştirir ve karışıklıktaki payını kabul eder.",
+      "title": "Alçak Kalan Kemer"
+    },
+    "vi": {
+      "altTexts": [
+        "Boro đứng một mình dưới cổng đèn thấp của Luma.",
+        "Sáu đèn lồng sáng treo trên cổng thấp; mười hai chiếc bổ sung chưa sửa vẫn nằm trong thùng dưới hành lang có mái.",
+        "Boro so bản vẽ cổng cao với cổng thấp thực tế.",
+        "Boro sửa thông báo, không đổ hết lỗi lên Mend vắng mặt.",
+        "Boro đặt bàn đón khách dưới hành lang có mái.",
+        "Boro cất bản vẽ rồi mở cửa bên dưới cổng thấp.",
+        "Sáu đèn phản chiếu thành sáu vệt sáng trên quảng trường ướt."
+      ],
+      "captions": [
+        "Cùng buổi trưa ấy ở Luma, Boro đứng dưới cổng đèn thấp hơn nhiều. Mend không đến, đúng như cô đã báo.",
+        "Anh dùng sáu đèn vốn đã hoạt động. Mười hai đèn thêm vẫn gấp trong hộp, được cất tránh mưa.",
+        "Boro nhìn bản vẽ lớn rồi nhìn chiếc cổng nhỏ chắc chắn. Lễ mở cửa nhỏ này không giống điều anh từng quảng bá.",
+        "Trước buổi lễ, Boro sửa thông báo: Mend đã báo rút lời từ trước, còn anh công bố cô giúp mà chưa kiểm tra toàn bộ kế hoạch.",
+        "Anh chuyển bàn đón khách vào hành lang có mái khô ráo. Buổi lễ vẫn diễn ra mà không cần trang trí cao vút hay đổ lỗi cho người không đến.",
+        "Boro vẫn thất vọng. Anh cất bản vẽ lớn vào bìa hồ sơ và mở lối vào dưới những đèn nhỏ.",
+        "Trên đá ướt Luma, sáu đèn nhỏ tạo sáu bóng sáng dài. Ngày hôm ấy đã khác đi, không phải trở nên trống rỗng."
+      ],
+      "introduction": "Boro dùng sáu đèn vốn đã hoạt động để tổ chức lễ mở cửa nhỏ hơn.",
+      "title": "Chiếc cổng không cao lên"
+    },
+    "zh": {
+      "altTexts": [
+        "博罗独自站在卢马的低灯笼拱门下。",
+        "六盏亮着的灯笼挂在低拱门上；另外十二盏未修好的灯笼仍装在拱廊下的箱子里。",
+        "博罗把高大图纸与眼前的低拱门作比较。",
+        "博罗在公告处更正安排，没有把责任全推给门德。",
+        "博罗把迎宾桌放在遮雨的拱廊下。",
+        "博罗收好图纸，打开低拱门下的通道。",
+        "六盏灯笼在湿石地上留下六道倒影。"
+      ],
+      "captions": [
+        "同一个正午，卢马的博罗站在低矮许多的灯笼拱门下。门德没有来，正如她提前说过的那样。",
+        "他用了六盏原本就完好的灯笼。那十二盏额外灯笼仍折在箱里，安稳地躲着雨。",
+        "博罗看看宏大的图纸，再看看结实的小拱门。这个较小的开幕布置，不是他原先宣传的模样。",
+        "活动前，他更正了通知：门德已提前说明不能来，而自己没有核对完整安排，就宣布了她的帮助。",
+        "他把迎宾桌搬到干燥的拱廊里。不靠高耸装饰，也不找缺席帮手来责怪，开幕仍能进行。",
+        "博罗还是失望。他把宏大的图纸收进夹子，打开小灯笼下的入口。",
+        "卢马湿润的石地上，六盏小灯映出六道长光。今天变了样，却没有因此变成一片空白。"
+      ],
+      "introduction": "博罗用六盏原本就能亮的灯笼完成了较小的布置。",
+      "title": "没有升高的拱门"
+    }
+  },
+  "number": 22,
+  "panels": [
+    {
+      "altText": "Boro stands beside Luma’s low lantern arch in light rain.",
+      "image": "N02E22P01.png"
+    },
+    {
+      "altText": "Six lit lanterns hang on the low arch; twelve unrepaired extras remain boxed under the arcade.",
+      "image": "N02E22P02.png"
+    },
+    {
+      "altText": "Boro compares his tall-arch drawing with the actual low arch.",
+      "image": "N02E22P03.png"
+    },
+    {
+      "altText": "Boro replaces a tall-arch picture with a low-arch picture on a notice board.",
+      "image": "N02E22P04.png"
+    },
+    {
+      "altText": "Boro moves a small welcome table under the square’s arcade.",
+      "image": "N02E22P05.png"
+    },
+    {
+      "altText": "Boro opens the square gate beneath six low lanterns.",
+      "image": "N02E22P06.png"
+    },
+    {
+      "altText": "Six lantern reflections stretch across the wet square beside Boro.",
+      "image": "N02E22P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

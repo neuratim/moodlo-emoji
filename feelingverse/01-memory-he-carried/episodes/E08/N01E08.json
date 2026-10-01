@@ -1,0 +1,439 @@
+{
+  "id": "N01E08",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "في صباح اليوم التالي، عثر Bash على Swagger في ساحة الشحن، حيث يتم الاحتفاظ بسجل الشركة المصنعة. يحاول Swagger نقل صندوق ثقيل بمفرده. Bash يقرب عربة اليد المنتظرة بدلاً من الاكتفاء بالإعجاب بالمجهود.",
+        "يميل الحمل أكثر مما توقع Swagger. يقوم Quiver بإيقاف الحركة عند فرامل الحامل. الجواب ليس قبضة أقوى؛ إنه وضع الصندوق قبل أن يتأذى أي شخص.",
+        "يستقر الصندوق على الكتل. مع دعم وزنه أخيرًا، يترك Swagger الصندوق. نظارته ووشاحه لم يتغيرا. فقبول المساعدة لم يسلبه كفاءته.",
+        "بمجرد أن يصبح الحمل آمنًا، يفتح Bash سجل الشركة المصنعة على سطح عمل منخفض. ولهذا السبب جاءوا إلى الفناء. إن معرفة Swagger مهمة لبحثهم أكثر بكثير من الوزن الذي يمكنه حمله.",
+        "يقوم Swagger بمطابقة حز الهلال مع ورشة البصريات في Veyra. ويتطابق عنوانها مع قيد الصانع في السجل. صار لدى Quest الآن صانع يمكنه سؤاله عن وعاء الذاكرة التالف، وليس مجرد مكان آخر على الخريطة.",
+        "في ذلك المساء، استقل الستة القطار الجبلي باتجاه Veyra. تم تجميع المشبك والصورة والملاحظات معًا الآن، على الرغم من أنها لم تبدأ جميعًا في نفس الشحنة. أمامنا ورشة عمل، وليس حلاً مضموناً.",
+        "في هذه الأثناء في Meadowfold، ينتظر Rain على العشب المفتوح بينما يقوم أصدقاؤه بتوسيع الملجأ. لقد أُنزل قماش المأوى قبل أن تتحرك الأعمدة. Mend تحافظ على بقاء طريقه خاليًا؛ إفساح المجال هو شيء يمكنهم القيام به اليوم."
+      ],
+      "captions": [
+        "في صباح اليوم التالي، عثر Bash على Swagger في ساحة الشحن، حيث يتم الاحتفاظ بسجل الشركة المصنعة. يحاول Swagger نقل صندوق ثقيل بمفرده. Bash يقرب عربة اليد المنتظرة بدلاً من الاكتفاء بالإعجاب بالمجهود.\n\nSwagger: \"لقد حملت أثقل.\"",
+        "يميل الحمل أكثر مما توقع Swagger. يقوم Quiver بإيقاف الحركة عند فرامل الحامل. الجواب ليس قبضة أقوى؛ إنه وضع الصندوق قبل أن يتأذى أي شخص.\n\nQuiver: \"ضعه على الكتل. يمكننا تحريكه معًا.\"",
+        "يستقر الصندوق على الكتل. مع دعم وزنه أخيرًا، يترك Swagger الصندوق. نظارته ووشاحه لم يتغيرا. فقبول المساعدة لم يسلبه كفاءته.\n\nSwagger: \"لم أرغب في أن أبدو ضعيفًا.\"",
+        "بمجرد أن يصبح الحمل آمنًا، يفتح Bash سجل الشركة المصنعة على سطح عمل منخفض. ولهذا السبب جاءوا إلى الفناء. إن معرفة Swagger مهمة لبحثهم أكثر بكثير من الوزن الذي يمكنه حمله.\n\nBash: \"أحتاج إلى معرفتك، وليس عضلاتك.\"",
+        "يقوم Swagger بمطابقة حز الهلال مع ورشة البصريات في Veyra. ويتطابق عنوانها مع قيد الصانع في السجل. صار لدى Quest الآن صانع يمكنه سؤاله عن وعاء الذاكرة التالف، وليس مجرد مكان آخر على الخريطة.\n\nSwagger: \"هذه الورشة صنعت الغلاف. يجب أن يحدد كتاب التصميم الخاص بهم الجزء.\"",
+        "في ذلك المساء، استقل الستة القطار الجبلي باتجاه Veyra. تم تجميع المشبك والصورة والملاحظات معًا الآن، على الرغم من أنها لم تبدأ جميعًا في نفس الشحنة. أمامنا ورشة عمل، وليس حلاً مضموناً.\n\nQuest: \"غدًا نسأل ما الذي تم تصميم وعاء الذاكرة هذا لحمله.\"",
+        "في هذه الأثناء في Meadowfold، ينتظر Rain على العشب المفتوح بينما يقوم أصدقاؤه بتوسيع الملجأ. لقد أُنزل قماش المأوى قبل أن تتحرك الأعمدة. Mend تحافظ على بقاء طريقه خاليًا؛ إفساح المجال هو شيء يمكنهم القيام به اليوم.\n\nMend: \"سنقوم بنقل الأعمدة، ولن نضغط عليك.\""
+      ],
+      "introduction": "تكشف صورة الوعاء الكاملة لـ Quest عن شق يميّز الصانع. يقوم Guff بتوجيه المسافرين إلى رئيس العمال ذي الخبرة في ساحة الشحن، Swagger. قبل أن تساعدهم هذه المعرفة، يتعين على Swagger أن يتخلص من العبء الذي لا ينبغي له التعامل معه بمفرده.",
+      "title": "القوي يطلب المساعدة"
+    },
+    "bn": {
+      "altTexts": [
+        "পরদিন সকালে Bash মালবাহী উঠানে Swagger-কে পায়। নির্মাতাদের নথি এখানেই রাখা হয়। Swagger একা একটি ভারী বাক্স সরাতে চেষ্টা করছে। তার শক্তির প্রশংসা না করে Bash কাছে একটি ঠেলাগাড়ি নিয়ে আসে।",
+        "বাক্সটি Swagger-এর ধারণার চেয়ে বেশি কাত হয়ে যায়। Quiver তাকের ব্রেক চেপে নড়াচড়া থামায়। আরও শক্ত করে ধরার বদলে, কারও আঘাত লাগার আগে বাক্সটি নামাতে হবে।",
+        "বাক্সটি ঠেকনার ওপর বসে। ঠেকনাগুলো ভার ধরে রেখেছে বুঝে Swagger হাত ছাড়ে। তার চশমা আর কাঁধের ফিতা আগের মতোই আছে। সাহায্য নিলে তার দক্ষতা কমে যায়নি।",
+        "বাক্সটি নিরাপদে নামানো হলে Bash নিচু কাজের টেবিলে নির্মাতাদের খাতা খোলে। এই খাতার জন্যই তারা উঠানে এসেছে। Swagger কত ওজন তুলতে পারে, তার চেয়ে সে কী জানে, সেটিই তাদের বেশি দরকার।",
+        "Swagger অর্ধচন্দ্রাকার খাঁজটি দেখে Veyra-এর একটি লেন্স তৈরির কারখানা চেনে। ঠিকানাটিও নির্মাতার নথির সঙ্গে মেলে। Quest এবার সেই কারিগরদের কাছে ভাঙা স্মৃতির পাত্রটি নিয়ে প্রশ্ন করতে পারবে।",
+        "সেই সন্ধ্যায় ছয়জন পাহাড়ি ট্রেনে Veyra-এর দিকে রওনা হয়। আটকানি, ছবি আর নোট এখন একসঙ্গে রাখা, যদিও শুরুতে সব একই চালানে ছিল না। সামনে একটি কারখানা আছে, নিশ্চিত সমাধান নেই।",
+        "এদিকে Meadowfold-এ বন্ধুরা ছাউনি বড় করছে, আর Rain খোলা ঘাসে অপেক্ষা করে। খুঁটি সরানোর আগে ছাউনির কাপড় নামানো হয়েছে। Mend চলার পথ খালি রাখে। আজ অন্তত জায়গা বাড়ানোর কাজটি করা সম্ভব।"
+      ],
+      "captions": [
+        "পরদিন সকালে Bash মালবাহী উঠানে Swagger-কে পায়। নির্মাতাদের নথি এখানেই রাখা হয়। Swagger একা একটি ভারী বাক্স সরাতে চেষ্টা করছে। তার শক্তির প্রশংসা না করে Bash কাছে একটি ঠেলাগাড়ি নিয়ে আসে।\n\nSwagger: \"এর চেয়েও ভারী জিনিস তুলেছি।\"",
+        "বাক্সটি Swagger-এর ধারণার চেয়ে বেশি কাত হয়ে যায়। Quiver তাকের ব্রেক চেপে নড়াচড়া থামায়। আরও শক্ত করে ধরার বদলে, কারও আঘাত লাগার আগে বাক্সটি নামাতে হবে।\n\nQuiver: \"ওই ঠেকনাগুলোর ওপর নামাও। একসঙ্গে সরানো যাবে।\"",
+        "বাক্সটি ঠেকনার ওপর বসে। ঠেকনাগুলো ভার ধরে রেখেছে বুঝে Swagger হাত ছাড়ে। তার চশমা আর কাঁধের ফিতা আগের মতোই আছে। সাহায্য নিলে তার দক্ষতা কমে যায়নি।\n\nSwagger: \"দুর্বল দেখাতে চাইনি।\"",
+        "বাক্সটি নিরাপদে নামানো হলে Bash নিচু কাজের টেবিলে নির্মাতাদের খাতা খোলে। এই খাতার জন্যই তারা উঠানে এসেছে। Swagger কত ওজন তুলতে পারে, তার চেয়ে সে কী জানে, সেটিই তাদের বেশি দরকার।\n\nBash: \"আপনার জানা তথ্য দরকার, পেশির জোর নয়।\"",
+        "Swagger অর্ধচন্দ্রাকার খাঁজটি দেখে Veyra-এর একটি লেন্স তৈরির কারখানা চেনে। ঠিকানাটিও নির্মাতার নথির সঙ্গে মেলে। Quest এবার সেই কারিগরদের কাছে ভাঙা স্মৃতির পাত্রটি নিয়ে প্রশ্ন করতে পারবে।\n\nSwagger: \"বাইরের খোলসটা ওই কারখানায় তৈরি। ওদের নকশার বইয়ে এই অংশটা খুঁজে পাওয়ার কথা।\"",
+        "সেই সন্ধ্যায় ছয়জন পাহাড়ি ট্রেনে Veyra-এর দিকে রওনা হয়। আটকানি, ছবি আর নোট এখন একসঙ্গে রাখা, যদিও শুরুতে সব একই চালানে ছিল না। সামনে একটি কারখানা আছে, নিশ্চিত সমাধান নেই।\n\nQuest: \"কাল জানতে চাইব, স্মৃতির এই পাত্রে কী রাখার কথা ছিল।\"",
+        "এদিকে Meadowfold-এ বন্ধুরা ছাউনি বড় করছে, আর Rain খোলা ঘাসে অপেক্ষা করে। খুঁটি সরানোর আগে ছাউনির কাপড় নামানো হয়েছে। Mend চলার পথ খালি রাখে। আজ অন্তত জায়গা বাড়ানোর কাজটি করা সম্ভব।\n\nMend: \"খুঁটি সরাব। তোমাকে ছোট জায়গায় গুঁজে দেব না।\""
+      ],
+      "introduction": "পাত্রের সম্পূর্ণ ছবিতে নির্মাতার খাঁজটি দেখা যায়। Guff বন্ধুদের মালবাহী উঠানের অভিজ্ঞ তত্ত্বাবধায়ক Swagger-এর কাছে পাঠায়। কিন্তু তথ্য দেওয়ার আগে Swagger-কে সেই ভার নামাতে হবে, যা একা তোলা নিরাপদ নয়।",
+      "title": "শক্তিমানও সাহায্য চায়"
+    },
+    "cs": {
+      "altTexts": [
+        "Následující ráno najde Bash Swaggera na nákladním dvoře, kde uchovávají rejstřík výrobců. Swagger se snaží sám přesunout těžkou bednu. Bash přiveze blíž připravený ruční vozík, místo aby jeho zápas obdivoval.",
+        "Náklad se nakloní víc, než Swagger čekal. Quiver zastaví pohyb brzdou stojanu. Řešením není pevnější stisk, ale odložení bedny dřív, než se někdo zraní.",
+        "Bedna dosedne na podložky. Její váha má konečně pevnou oporu a Swagger ji pustí. Brýle i šerpa zůstávají stejné; přijetí pomoci ho nepřipravilo o schopnosti.",
+        "Když je náklad v bezpečí, Bash otevře rejstřík výrobců na nízké pracovní ploše. Právě proto přišli na dvůr. Swaggerovy znalosti jsou pro pátrání mnohem důležitější než váha, kterou unese.",
+        "Swagger přiřadí půlměsícový zářez k optické dílně ve Veyře. Její adresa souhlasí se záznamem výrobce. Quest má nyní konkrétního výrobce, kterého se může zeptat na poškozené pouzdro, nikoli jen další místo na mapě.",
+        "Toho večera jede celá šestice horským vlakem do Veyry. Spona, fotografie a poznámky už jsou zabalené společně, i když původně nebyly součástí jedné zásilky. Před nimi je dílna, ne zaručené řešení.",
+        "Mezitím Rain na louce Meadowfold čeká mimo přístřešek, zatímco přátelé zvětšují přístřešek. Než začali přesouvat sloupky, spustili plátno. Mend udržuje jeho cestu volnou; vytvořit prostor mohou už dnes."
+      ],
+      "captions": [
+        "Následující ráno najde Bash Swaggera na nákladním dvoře, kde uchovávají rejstřík výrobců. Swagger se snaží sám přesunout těžkou bednu. Bash přiveze blíž připravený ruční vozík, místo aby jeho zápas obdivoval.\n\nSwagger: „Už jsem nesl i těžší.“",
+        "Náklad se nakloní víc, než Swagger čekal. Quiver zastaví pohyb brzdou stojanu. Řešením není pevnější stisk, ale odložení bedny dřív, než se někdo zraní.\n\nQuiver: „Polož ji na podložky. Přesuneme ji společně.“",
+        "Bedna dosedne na podložky. Její váha má konečně pevnou oporu a Swagger ji pustí. Brýle i šerpa zůstávají stejné; přijetí pomoci ho nepřipravilo o schopnosti.\n\nSwagger: „Nechtěl jsem vypadat slabě.“",
+        "Když je náklad v bezpečí, Bash otevře rejstřík výrobců na nízké pracovní ploše. Právě proto přišli na dvůr. Swaggerovy znalosti jsou pro pátrání mnohem důležitější než váha, kterou unese.\n\nBash: „Potřebuji tvoje znalosti, ne svaly.“",
+        "Swagger přiřadí půlměsícový zářez k optické dílně ve Veyře. Její adresa souhlasí se záznamem výrobce. Quest má nyní konkrétního výrobce, kterého se může zeptat na poškozené pouzdro, nikoli jen další místo na mapě.\n\nSwagger: „Tato dílna vyrobila plášť pouzdra. Díl by měli poznat podle svých výkresů.“",
+        "Toho večera jede celá šestice horským vlakem do Veyry. Spona, fotografie a poznámky už jsou zabalené společně, i když původně nebyly součástí jedné zásilky. Před nimi je dílna, ne zaručené řešení.\n\nQuest: „Zítra se zeptáme, co mělo to pouzdro uchovávat.“",
+        "Mezitím Rain na louce Meadowfold čeká mimo přístřešek, zatímco přátelé zvětšují přístřešek. Než začali přesouvat sloupky, spustili plátno. Mend udržuje jeho cestu volnou; vytvořit prostor mohou už dnes.\n\nMend: „Přesuneme sloupky. Nebudeme tě nikam vtěsnávat.“"
+      ],
+      "introduction": "Neoříznutá fotografie zařízení poskytne Questovi zářez výrobce, podle kterého může pátrat. Guff odkáže cestovatele na zkušeného předáka nákladního dvora, Swaggera. Než jim jeho znalosti pomohou, musí Swagger odložit náklad, se kterým by neměl manipulovat sám.",
+      "title": "I silný požádá o pomoc"
+    },
+    "de": {
+      "altTexts": [
+        "Am nächsten Morgen findet Bash Swagger im Güterbahnhof, wo das Herstellerregister aufbewahrt wird. Swagger versucht alleine eine schwere Kiste zu bewegen. Bash bringt den wartenden Handkarren näher, anstatt den Kampf zu bewundern.",
+        "Die Last kippt weiter, als Swagger erwartet hat. Quiver stoppt die Bewegung mit der Bremse des Gestells. Die Antwort ist nicht ein stärkerer Griff; es geht darum, die Kiste abzustellen, bevor jemand verletzt wird.",
+        "Die Kiste setzt sich auf den Blöcken ab. Nachdem das Gewicht endlich abgestützt ist, lässt Swagger los. Seine Brille und seine Schärpe sind unverändert; die Annahme von Hilfe hat ihm seine Kompetenz nicht genommen.",
+        "Sobald die Ladung sicher ist, öffnet Bash das Herstellerregister auf einer niedrigen Arbeitsfläche. Deshalb kamen sie auf den Hof. Das Wissen von Swagger ist für ihre Suche weitaus wichtiger als die Last, die er tragen kann.",
+        "Swagger ordnet die Halbmondkerbe einer Optikwerkstatt in Veyra zu. Die Adresse stimmt mit der Herstellerangabe überein. Quest weiß nun, welchen Hersteller er nach dem beschädigten Träger fragen kann. Die Spur ist mehr als nur ein weiterer Ort auf der Karte.",
+        "Am Abend nehmen die sechs die Bergbahn Richtung Veyra. Der Verschluss, das Foto und die Notizen sind jetzt zusammengepackt, obwohl sie nicht alle in derselben Lieferung enthalten waren. Vor ihnen liegt eine Werkstatt, keine garantierte Lösung.",
+        "Währenddessen wartet Rain bei Meadowfold auf offenem Gras, während seine Freunde den Unterstand vergrößern. Das Zelttuch wurde abgenommen, bevor die Pfosten versetzt werden. Mend hält seinen Weg frei; Platz schaffen ist etwas, was sie heute tun können."
+      ],
+      "captions": [
+        "Am nächsten Morgen findet Bash Swagger im Güterbahnhof, wo das Herstellerregister aufbewahrt wird. Swagger versucht alleine eine schwere Kiste zu bewegen. Bash bringt den wartenden Handkarren näher, anstatt den Kampf zu bewundern.\n\nSwagger: „Ich habe schon Schwereres getragen.“",
+        "Die Last kippt weiter, als Swagger erwartet hat. Quiver stoppt die Bewegung mit der Bremse des Gestells. Die Antwort ist nicht ein stärkerer Griff; es geht darum, die Kiste abzustellen, bevor jemand verletzt wird.\n\nQuiver: „Setz die Kiste auf die Blöcke. Wir können sie gemeinsam bewegen.“",
+        "Die Kiste setzt sich auf den Blöcken ab. Nachdem das Gewicht endlich abgestützt ist, lässt Swagger los. Seine Brille und seine Schärpe sind unverändert; die Annahme von Hilfe hat ihm seine Kompetenz nicht genommen.\n\nSwagger: „Ich wollte nicht schwach aussehen.“",
+        "Sobald die Ladung sicher ist, öffnet Bash das Herstellerregister auf einer niedrigen Arbeitsfläche. Deshalb kamen sie auf den Hof. Das Wissen von Swagger ist für ihre Suche weitaus wichtiger als die Last, die er tragen kann.\n\nBash: „Ich brauche dein Wissen, nicht deine Muskeln.“",
+        "Swagger ordnet die Halbmondkerbe einer Optikwerkstatt in Veyra zu. Die Adresse stimmt mit der Herstellerangabe überein. Quest weiß nun, welchen Hersteller er nach dem beschädigten Träger fragen kann. Die Spur ist mehr als nur ein weiterer Ort auf der Karte.\n\nSwagger: „Diese Werkstatt hat das Gehäuse hergestellt. Ihr Designbuch sollte das Teil identifizieren.“",
+        "Am Abend nehmen die sechs die Bergbahn Richtung Veyra. Der Verschluss, das Foto und die Notizen sind jetzt zusammengepackt, obwohl sie nicht alle in derselben Lieferung enthalten waren. Vor ihnen liegt eine Werkstatt, keine garantierte Lösung.\n\nQuest: „Morgen fragen wir, wofür dieser Träger gebaut wurde.“",
+        "Währenddessen wartet Rain bei Meadowfold auf offenem Gras, während seine Freunde den Unterstand vergrößern. Das Zelttuch wurde abgenommen, bevor die Pfosten versetzt werden. Mend hält seinen Weg frei; Platz schaffen ist etwas, was sie heute tun können.\n\nMend: „Wir versetzen die Pfosten. Wir zwängen dich nicht hinein.“"
+      ],
+      "introduction": "Das unbeschnittene Hardware-Foto gibt Quest eine Herstellerkerbe zur Identifizierung. Guff leitet die Reisenden zum erfahrenen Vorarbeiter des Güterbahnhofs, Swagger. Bevor ihnen dieses Wissen helfen kann, muss Swagger eine Last absetzen, die er nicht alleine bewältigen sollte.",
+      "title": "Auch der Starke bittet um Hilfe"
+    },
+    "en": {
+      "altTexts": [
+        "The following morning, Bash finds Swagger in the freight yard, where the maker's register is kept. Swagger is trying to move a heavy crate alone. Bash brings the waiting handcart closer instead of admiring the struggle.",
+        "The load tilts farther than Swagger expected. Quiver stops the movement at the rack's brake. The answer is not a stronger grip; it is putting the crate down before anyone gets hurt.",
+        "The crate settles onto the blocks. With its weight finally supported, Swagger lets go. His glasses and sash are unchanged; accepting help has not taken his competence away.",
+        "Once the load is safe, Bash opens the maker's register on a low work surface. This is why they came to the yard. Swagger's knowledge matters far more to their search than the weight he can carry.",
+        "Swagger matches the crescent notch to an optics workshop in Veyra. Its address agrees with the maker's entry. Quest now has a manufacturer to ask about the broken carrier—not merely another place on a map.",
+        "That evening, the six take the mountain train toward Veyra. The clasp, photograph and notes are packed together now, although they did not all begin in the same shipment. Ahead lies a workshop, not a guaranteed solution.",
+        "Meanwhile at Meadowfold, Rain waits on open grass while his friends enlarge the shelter. Its canvas has been lowered before the posts move. Mend keeps his path clear; making room is something they can do today."
+      ],
+      "captions": [
+        "The following morning, Bash finds Swagger in the freight yard, where the maker's register is kept. Swagger is trying to move a heavy crate alone. Bash brings the waiting handcart closer instead of admiring the struggle.\n\nSwagger: “I've carried heavier.”",
+        "The load tilts farther than Swagger expected. Quiver stops the movement at the rack's brake. The answer is not a stronger grip; it is putting the crate down before anyone gets hurt.\n\nQuiver: “Set it onto the blocks. We can move it together.”",
+        "The crate settles onto the blocks. With its weight finally supported, Swagger lets go. His glasses and sash are unchanged; accepting help has not taken his competence away.\n\nSwagger: “I didn't want to look weak.”",
+        "Once the load is safe, Bash opens the maker's register on a low work surface. This is why they came to the yard. Swagger's knowledge matters far more to their search than the weight he can carry.\n\nBash: “I need your knowledge, not your muscles.”",
+        "Swagger matches the crescent notch to an optics workshop in Veyra. Its address agrees with the maker's entry. Quest now has a manufacturer to ask about the broken carrier—not merely another place on a map.\n\nSwagger: “This workshop made the housing. Their design book should identify the part.”",
+        "That evening, the six take the mountain train toward Veyra. The clasp, photograph and notes are packed together now, although they did not all begin in the same shipment. Ahead lies a workshop, not a guaranteed solution.\n\nQuest: “Tomorrow we ask what this carrier was built to hold.”",
+        "Meanwhile at Meadowfold, Rain waits on open grass while his friends enlarge the shelter. Its canvas has been lowered before the posts move. Mend keeps his path clear; making room is something they can do today.\n\nMend: “We'll move the posts, not squeeze you in.”"
+      ],
+      "introduction": "The uncropped hardware photograph gives Quest a maker's notch to identify. Guff directs the travelers to the freight yard's experienced foreman, Swagger. Before that knowledge can help them, Swagger has to put down a load he should not be handling alone.",
+      "title": "The Strong One Asks"
+    },
+    "es": {
+      "altTexts": [
+        "A la mañana siguiente, Bash encuentra a Swagger en el patio de carga, donde se guarda el registro del fabricante. Swagger está intentando mover una caja pesada solo. Bash acerca el carrito que espera en lugar de admirar la lucha.",
+        "La carga se inclina más de lo esperado por Swagger. Quiver detiene el movimiento con el tope de seguridad del soporte. La respuesta no es un agarre más fuerte; es dejar la caja antes de que alguien salga lastimado.",
+        "La caja se asienta sobre los bloques. Con su peso finalmente soportado, Swagger suelta la caja. Sus gafas y fajín no han cambiado; aceptar ayuda no le ha quitado su competencia.",
+        "Una vez que la carga está segura, Bash abre el registro del fabricante en una superficie de trabajo baja. Por eso vinieron al patio. El conocimiento de Swagger es mucho más importante para su búsqueda que el peso que puede soportar.",
+        "Swagger hace coincidir la muesca en forma de media luna con un taller de óptica en Veyra. Su dirección coincide con la entrada del fabricante. Quest ahora tiene un fabricante al que preguntar sobre el receptáculo averiado, no simplemente otro lugar en el mapa.",
+        "Esa tarde, los seis toman el tren de montaña hacia Veyra. El cierre, la fotografía y las notas están ahora empaquetados juntos, aunque no todos comenzaron en el mismo envío. Por delante hay un taller, no una solución garantizada.",
+        "Mientras tanto, en Meadowfold, Rain espera en el césped abierto mientras sus amigos amplían el refugio. Su lona ha sido bajada antes de que se muevan los postes. Mend mantiene despejado su camino; hacer espacio es algo que pueden hacer hoy."
+      ],
+      "captions": [
+        "A la mañana siguiente, Bash encuentra a Swagger en el patio de carga, donde se guarda el registro del fabricante. Swagger está intentando mover una caja pesada solo. Bash acerca el carrito que espera en lugar de admirar la lucha.\n\nSwagger: “He llevado más peso”.",
+        "La carga se inclina más de lo esperado por Swagger. Quiver detiene el movimiento con el tope de seguridad del soporte. La respuesta no es un agarre más fuerte; es dejar la caja antes de que alguien salga lastimado.\n\nQuiver: \"Apoya la caja sobre los bloques. Podemos moverla juntos\".",
+        "La caja se asienta sobre los bloques. Con su peso finalmente soportado, Swagger suelta la caja. Sus gafas y fajín no han cambiado; aceptar ayuda no le ha quitado su competencia.\n\nSwagger: “No quería parecer débil”.",
+        "Una vez que la carga está segura, Bash abre el registro del fabricante en una superficie de trabajo baja. Por eso vinieron al patio. El conocimiento de Swagger es mucho más importante para su búsqueda que el peso que puede soportar.\n\nBash: \"Necesito tus conocimientos, no tus músculos\".",
+        "Swagger hace coincidir la muesca en forma de media luna con un taller de óptica en Veyra. Su dirección coincide con la entrada del fabricante. Quest ahora tiene un fabricante al que preguntar sobre el receptáculo averiado, no simplemente otro lugar en el mapa.\n\nSwagger: \"Este taller hizo la carcasa. Su libro de diseño debe identificar la pieza\".",
+        "Esa tarde, los seis toman el tren de montaña hacia Veyra. El cierre, la fotografía y las notas están ahora empaquetados juntos, aunque no todos comenzaron en el mismo envío. Por delante hay un taller, no una solución garantizada.\n\nQuest: “Mañana preguntaremos para qué fue construido este receptáculo”.",
+        "Mientras tanto, en Meadowfold, Rain espera en el césped abierto mientras sus amigos amplían el refugio. Su lona ha sido bajada antes de que se muevan los postes. Mend mantiene despejado su camino; hacer espacio es algo que pueden hacer hoy.\n\nMend: \"Moveremos los postes para que tengas espacio\"."
+      ],
+      "introduction": "La fotografía de las piezas sin recortar le da a Quest una muesca del fabricante para identificar. Guff dirige a los viajeros hasta el experimentado capataz del patio de carga, Swagger. Antes de que ese conocimiento pueda ayudarlos, Swagger tiene que dejar una carga que no debería manejar solo.",
+      "title": "Los fuertes también piden ayuda"
+    },
+    "fr": {
+      "altTexts": [
+        "Le lendemain matin, Bash trouve Swagger dans la gare de marchandises, où est conservé le registre du fabricant. Swagger essaie de déplacer seul une lourde caisse. Bash rapproche la charrette à bras qui attend au lieu d'admirer la lutte.",
+        "La charge s'incline davantage que Swagger ne l'avait prévu. Quiver arrête le mouvement avec le frein du support. La réponse n’est pas une emprise plus forte ; il s'agit de poser la caisse avant que quelqu'un ne soit blessé.",
+        "La caisse se dépose sur les blocs. Son poids enfin supporté, Swagger lâche la caisse. Ses lunettes et sa ceinture sont inchangées ; accepter de l’aide ne lui a pas enlevé ses compétences.",
+        "Une fois la charge sécurisée, Bash ouvre le registre du fabricant sur une surface de travail basse. C'est pourquoi ils sont venus dans la cour. Les connaissances de Swagger comptent bien plus dans leur recherche que le poids qu'il peut porter.",
+        "Swagger associe l'encoche en forme de croissant à un atelier d'optique de Veyra. Son adresse est en accord avec l'entrée du fabricant. Quest a désormais un fabricant à interroger sur le réceptacle cassé, et pas seulement un autre lieu sur une carte.",
+        "Ce soir-là, les six prennent le train de montagne en direction de Veyra. Le fermoir, la photographie et les notes sont désormais emballés ensemble, même s'ils n'ont pas tous commencé dans le même envoi. Un atelier les attend, sans garantie d'y trouver la solution.",
+        "Pendant ce temps, à Meadowfold, Rain attend sur l'herbe pendant que ses amis agrandissent l'abri. Sa toile a été abaissée avant le déplacement des poteaux. Mend garde le chemin dégagé ; faire de la place est quelque chose qu’ils peuvent faire aujourd’hui."
+      ],
+      "captions": [
+        "Le lendemain matin, Bash trouve Swagger dans la gare de marchandises, où est conservé le registre du fabricant. Swagger essaie de déplacer seul une lourde caisse. Bash rapproche la charrette à bras qui attend au lieu d'admirer la lutte.\n\nSwagger : « J’ai transporté plus lourd. »",
+        "La charge s'incline davantage que Swagger ne l'avait prévu. Quiver arrête le mouvement avec le frein du support. La réponse n’est pas une emprise plus forte ; il s'agit de poser la caisse avant que quelqu'un ne soit blessé.\n\nQuiver : « Pose la caisse sur les cales. Nous pouvons la déplacer ensemble. »",
+        "La caisse se dépose sur les blocs. Son poids enfin supporté, Swagger lâche la caisse. Ses lunettes et sa ceinture sont inchangées ; accepter de l’aide ne lui a pas enlevé ses compétences.\n\nSwagger : « Je ne voulais pas avoir l'air faible. »",
+        "Une fois la charge sécurisée, Bash ouvre le registre du fabricant sur une surface de travail basse. C'est pourquoi ils sont venus dans la cour. Les connaissances de Swagger comptent bien plus dans leur recherche que le poids qu'il peut porter.\n\nBash : « J'ai besoin de tes connaissances, pas de tes muscles. »",
+        "Swagger associe l'encoche en forme de croissant à un atelier d'optique de Veyra. Son adresse est en accord avec l'entrée du fabricant. Quest a désormais un fabricant à interroger sur le réceptacle cassé, et pas seulement un autre lieu sur une carte.\n\nSwagger : « Cet atelier a fabriqué le boîtier. Leur livre de conception doit identifier la pièce. »",
+        "Ce soir-là, les six prennent le train de montagne en direction de Veyra. Le fermoir, la photographie et les notes sont désormais emballés ensemble, même s'ils n'ont pas tous commencé dans le même envoi. Un atelier les attend, sans garantie d'y trouver la solution.\n\nQuest : « Demain, nous demanderons ce que ce réceptacle était conçu pour contenir. »",
+        "Pendant ce temps, à Meadowfold, Rain attend sur l'herbe pendant que ses amis agrandissent l'abri. Sa toile a été abaissée avant le déplacement des poteaux. Mend garde le chemin dégagé ; faire de la place est quelque chose qu’ils peuvent faire aujourd’hui.\n\nMend : « Nous déplacerons les poteaux. Nous ne te forcerons pas à te glisser dessous. »"
+      ],
+      "introduction": "La photographie non recadrée du matériel donne à Quest une encoche de fabricant à identifier. Guff dirige les voyageurs vers le contremaître expérimenté du parc de marchandises, Swagger. Avant que ces connaissances puissent les aider, Swagger doit déposer une charge qu'il ne devrait pas manipuler seul.",
+      "title": "Même les forts demandent de l'aide"
+    },
+    "hi": {
+      "altTexts": [
+        "अगली सुबह Bash को माल-ढुलाई के आँगन में Swagger मिलता है। निर्माताओं का रजिस्टर वहीं रखा है। Swagger अकेले भारी बक्सा खिसकाने की कोशिश करता है। उसकी ताकत की तारीफ़ के बजाय Bash ठेला पास लाता है।",
+        "बक्सा Swagger की उम्मीद से ज़्यादा झुक जाता है। Quiver रैक का ब्रेक लगाकर उसे रोकता है। और कसकर पकड़ने के बजाय किसी को चोट लगने से पहले बक्सा नीचे रखना होगा।",
+        "बक्सा सहारों पर टिकता है। उसका वज़न सँभल जाने पर Swagger हाथ छोड़ता है। उसका चश्मा और पटका वैसे ही हैं। मदद लेने से उसकी काबिलियत कम नहीं हुई।",
+        "बक्सा सुरक्षित होने पर Bash नीची काम की मेज़ पर निर्माताओं का रजिस्टर खोलता है। इसी काम से वे आए थे। Swagger कितना वज़न उठा सकता है, उससे कहीं ज़्यादा ज़रूरी है कि उसे क्या जानकारी है।",
+        "Swagger अर्धचंद्राकार खाँचे को Veyra की लेंस बनाने वाली कार्यशाला से पहचानता है। पता भी निर्माता के रिकॉर्ड से मिलता है। Quest अब टूटे स्मृति-पात्र के बारे में उसके बनाने वालों से पूछ सकता है।",
+        "उस शाम छह दोस्त पहाड़ी ट्रेन से Veyra की ओर जाते हैं। क्लिप, तस्वीर और नोट्स अब साथ हैं, हालाँकि शुरू में सब एक ही खेप में नहीं थे। आगे एक कार्यशाला है, पक्का समाधान नहीं।",
+        "इस बीच Meadowfold में दोस्त छतरी बड़ी करते हैं और Rain खुली घास पर इंतज़ार करता है। खंभे खिसकाने से पहले कपड़ा उतारा गया है। Mend चलने का रास्ता खाली रखती है। जगह बढ़ाने का काम वे आज कर सकते हैं।"
+      ],
+      "captions": [
+        "अगली सुबह Bash को माल-ढुलाई के आँगन में Swagger मिलता है। निर्माताओं का रजिस्टर वहीं रखा है। Swagger अकेले भारी बक्सा खिसकाने की कोशिश करता है। उसकी ताकत की तारीफ़ के बजाय Bash ठेला पास लाता है।\n\nSwagger: \"इससे भी भारी चीज़ें उठाई हैं।\"",
+        "बक्सा Swagger की उम्मीद से ज़्यादा झुक जाता है। Quiver रैक का ब्रेक लगाकर उसे रोकता है। और कसकर पकड़ने के बजाय किसी को चोट लगने से पहले बक्सा नीचे रखना होगा।\n\nQuiver: \"इन सहारों पर रख दो। साथ मिलकर खिसकाएँगे।\"",
+        "बक्सा सहारों पर टिकता है। उसका वज़न सँभल जाने पर Swagger हाथ छोड़ता है। उसका चश्मा और पटका वैसे ही हैं। मदद लेने से उसकी काबिलियत कम नहीं हुई।\n\nSwagger: \"कमज़ोर नहीं दिखना चाहता था।\"",
+        "बक्सा सुरक्षित होने पर Bash नीची काम की मेज़ पर निर्माताओं का रजिस्टर खोलता है। इसी काम से वे आए थे। Swagger कितना वज़न उठा सकता है, उससे कहीं ज़्यादा ज़रूरी है कि उसे क्या जानकारी है।\n\nBash: \"आपकी जानकारी चाहिए, मांसपेशियों की ताकत नहीं।\"",
+        "Swagger अर्धचंद्राकार खाँचे को Veyra की लेंस बनाने वाली कार्यशाला से पहचानता है। पता भी निर्माता के रिकॉर्ड से मिलता है। Quest अब टूटे स्मृति-पात्र के बारे में उसके बनाने वालों से पूछ सकता है।\n\nSwagger: \"बाहरी खोल इसी कार्यशाला ने बनाया। उनके नक्शों में यह पुर्ज़ा मिलना चाहिए।\"",
+        "उस शाम छह दोस्त पहाड़ी ट्रेन से Veyra की ओर जाते हैं। क्लिप, तस्वीर और नोट्स अब साथ हैं, हालाँकि शुरू में सब एक ही खेप में नहीं थे। आगे एक कार्यशाला है, पक्का समाधान नहीं।\n\nQuest: \"कल पूछेंगे कि यह स्मृति-पात्र किस चीज़ को रखने के लिए बना था।\"",
+        "इस बीच Meadowfold में दोस्त छतरी बड़ी करते हैं और Rain खुली घास पर इंतज़ार करता है। खंभे खिसकाने से पहले कपड़ा उतारा गया है। Mend चलने का रास्ता खाली रखती है। जगह बढ़ाने का काम वे आज कर सकते हैं।\n\nMend: \"खंभे खिसकाएँगे। तुम्हें तंग जगह में नहीं दबाएँगे।\""
+      ],
+      "introduction": "पात्र की पूरी तस्वीर में निर्माता का निशान मिलता है। Guff दोस्तों को माल-ढुलाई के आँगन के अनुभवी कामगार Swagger के पास भेजता है। जानकारी देने से पहले Swagger को वह बोझ नीचे रखना होगा जो अकेले सँभालना सुरक्षित नहीं।",
+      "title": "ताकतवर भी मदद माँगता है"
+    },
+    "id": {
+      "altTexts": [
+        "Keesokan paginya, Bash menemukan Swagger di tempat pengangkutan, tempat daftar pembuatnya disimpan. Swagger sedang mencoba memindahkan peti yang berat sendirian. Bash mendekatkan gerobak tangan yang menunggu alih-alih mengagumi perjuangannya.",
+        "Bebannya miring lebih jauh dari perkiraan Swagger. Quiver menghentikan pergerakan dengan penahan pengaman pada rak. Jawabannya bukanlah cengkeraman yang lebih kuat; itu berarti meletakkan peti itu sebelum ada yang terluka.",
+        "Peti itu bertumpu di atas balok. Dengan bobotnya yang akhirnya tertopang, Swagger melepaskannya. Kacamata dan ikat pinggangnya tidak berubah; menerima bantuan tidak menghilangkan kompetensinya.",
+        "Setelah muatan aman, Bash membuka register pembuat pada permukaan kerja yang rendah. Inilah sebabnya mereka datang ke tempat pengiriman barang. Pengetahuan Swagger jauh lebih penting dalam pencarian mereka daripada beban yang dapat dia bawa.",
+        "Swagger mencocokkan takik bulan sabit dengan bengkel optik di Veyra. Alamatnya sesuai dengan entri pembuatnya. Quest sekarang memiliki produsen yang dapat ditanya tentang wadah yang rusak—bukan sekadar tempat lain di peta.",
+        "Sore harinya, keenamnya naik kereta gunung menuju Veyra. Pengait, foto, dan catatan kini dikemas bersama, meskipun tidak semuanya berasal dari kiriman yang sama. Di depan mereka ada sebuah bengkel, bukan solusi yang terjamin.",
+        "Sementara itu di Meadowfold, Rain menunggu di rumput terbuka sementara teman-temannya memperbesar tempat berteduh. Kanvasnya sudah diturunkan sebelum tiang dipindahkan. Mend menjaga jalur Rain tetap bebas hambatan; memberi ruang adalah sesuatu yang dapat mereka lakukan hari ini."
+      ],
+      "captions": [
+        "Keesokan paginya, Bash menemukan Swagger di tempat pengangkutan, tempat daftar pembuatnya disimpan. Swagger sedang mencoba memindahkan peti yang berat sendirian. Bash mendekatkan gerobak tangan yang menunggu alih-alih mengagumi perjuangannya.\n\nSwagger: “Aku pernah membawa yang lebih berat.”",
+        "Bebannya miring lebih jauh dari perkiraan Swagger. Quiver menghentikan pergerakan dengan penahan pengaman pada rak. Jawabannya bukanlah cengkeraman yang lebih kuat; itu berarti meletakkan peti itu sebelum ada yang terluka.\n\nQuiver: \"Letakkan di atas balok. Kita bisa memindahkannya bersama-sama.\"",
+        "Peti itu bertumpu di atas balok. Dengan bobotnya yang akhirnya tertopang, Swagger melepaskannya. Kacamata dan ikat pinggangnya tidak berubah; menerima bantuan tidak menghilangkan kompetensinya.\n\nSwagger: “Aku tidak ingin terlihat lemah.”",
+        "Setelah muatan aman, Bash membuka register pembuat pada permukaan kerja yang rendah. Inilah sebabnya mereka datang ke tempat pengiriman barang. Pengetahuan Swagger jauh lebih penting dalam pencarian mereka daripada beban yang dapat dia bawa.\n\nBash: “Aku membutuhkan pengetahuan kamu, bukan otot kamu.”",
+        "Swagger mencocokkan takik bulan sabit dengan bengkel optik di Veyra. Alamatnya sesuai dengan entri pembuatnya. Quest sekarang memiliki produsen yang dapat ditanya tentang wadah yang rusak—bukan sekadar tempat lain di peta.\n\nSwagger: \"Bengkel ini membuat rumah wadahnya. Buku desain mereka harus mengidentifikasi bagiannya.\"",
+        "Sore harinya, keenamnya naik kereta gunung menuju Veyra. Pengait, foto, dan catatan kini dikemas bersama, meskipun tidak semuanya berasal dari kiriman yang sama. Di depan mereka ada sebuah bengkel, bukan solusi yang terjamin.\n\nQuest: “Besok kami bertanya untuk apa wadah ini dibuat.”",
+        "Sementara itu di Meadowfold, Rain menunggu di rumput terbuka sementara teman-temannya memperbesar tempat berteduh. Kanvasnya sudah diturunkan sebelum tiang dipindahkan. Mend menjaga jalur Rain tetap bebas hambatan; memberi ruang adalah sesuatu yang dapat mereka lakukan hari ini.\n\nMend: “Kami akan memindahkan tiang, bukan menekan kamu.”"
+      ],
+      "introduction": "Foto komponen yang tidak dipotong memperlihatkan takik penanda pabrik yang bisa diidentifikasi Quest. Guff mengarahkan para pelancong ke mandor berpengalaman di tempat pengiriman barang, Swagger. Sebelum pengetahuan tersebut dapat membantu mereka, Swagger harus melepaskan beban yang tidak seharusnya dia tangani sendirian.",
+      "title": "Yang Kuat Juga Meminta Bantuan"
+    },
+    "it": {
+      "altTexts": [
+        "La mattina seguente, Bash trova Swagger nello scalo merci, dove è conservato il registro del produttore. Swagger sta cercando di spostare da solo una cassa pesante. Bash avvicina il carretto in attesa invece di ammirare la lotta.",
+        "Il carico si inclina più di quanto Swagger si aspettasse. Quiver arresta il movimento azionando il freno della struttura. La soluzione non è stringere più forte, ma appoggiare la cassa prima che qualcuno si faccia male.",
+        "La cassa si deposita sui blocchi. Con il suo peso finalmente supportato, Swagger lascia andare. I suoi occhiali e la fascia sono rimasti invariati; accettare l'aiuto non gli ha tolto la competenza.",
+        "Una volta che il carico è sicuro, Bash apre il registro del produttore su una superficie di lavoro bassa. È per questo che sono venuti allo scalo. Per la loro ricerca, la conoscenza di Swagger è molto più importante del peso che può portare.",
+        "Swagger abbina la tacca a mezzaluna a un laboratorio di ottica a Veyra. Il suo indirizzo concorda con la voce del produttore. Quest ora ha un produttore a cui chiedere informazioni sul contenitore rotto, non semplicemente su un altro posto sulla mappa.",
+        "Quella sera i sei prendono il treno di montagna in direzione Veyra. Il fermaglio, la fotografia e gli appunti sono ora imballati insieme, anche se non facevano tutti parte della stessa spedizione. Davanti a loro c'è un laboratorio, non una soluzione garantita.",
+        "Nel frattempo a Meadowfold, Rain aspetta sull'erba mentre i suoi amici ampliano il rifugio. Il suo telo è stato abbassato prima che i pali si spostassero. Mend mantiene la strada libera; fare spazio è qualcosa che possono fare oggi."
+      ],
+      "captions": [
+        "La mattina seguente, Bash trova Swagger nello scalo merci, dove è conservato il registro del produttore. Swagger sta cercando di spostare da solo una cassa pesante. Bash avvicina il carretto in attesa invece di ammirare la lotta.\n\nSwagger: \"Ho portato carichi più pesanti.\"",
+        "Il carico si inclina più di quanto Swagger si aspettasse. Quiver arresta il movimento azionando il freno della struttura. La soluzione non è stringere più forte, ma appoggiare la cassa prima che qualcuno si faccia male.\n\nQuiver: «Appoggiatela sui blocchi. Possiamo spostarla insieme.»",
+        "La cassa si deposita sui blocchi. Con il suo peso finalmente supportato, Swagger lascia andare. I suoi occhiali e la fascia sono rimasti invariati; accettare l'aiuto non gli ha tolto la competenza.\n\nSwagger: \"Non volevo sembrare debole.\"",
+        "Una volta che il carico è sicuro, Bash apre il registro del produttore su una superficie di lavoro bassa. È per questo che sono venuti allo scalo. Per la loro ricerca, la conoscenza di Swagger è molto più importante del peso che può portare.\n\nBash: \"Ho bisogno della tua conoscenza, non dei tuoi muscoli.\"",
+        "Swagger abbina la tacca a mezzaluna a un laboratorio di ottica a Veyra. Il suo indirizzo concorda con la voce del produttore. Quest ora ha un produttore a cui chiedere informazioni sul contenitore rotto, non semplicemente su un altro posto sulla mappa.\n\nSwagger: \"Questa officina ha realizzato l'alloggiamento. Il loro libro di progettazione dovrebbe identificare la parte.\"",
+        "Quella sera i sei prendono il treno di montagna in direzione Veyra. Il fermaglio, la fotografia e gli appunti sono ora imballati insieme, anche se non facevano tutti parte della stessa spedizione. Davanti a loro c'è un laboratorio, non una soluzione garantita.\n\nQuest: \"Domani chiediamo a cosa serviva questo contenitore.\"",
+        "Nel frattempo a Meadowfold, Rain aspetta sull'erba mentre i suoi amici ampliano il rifugio. Il suo telo è stato abbassato prima che i pali si spostassero. Mend mantiene la strada libera; fare spazio è qualcosa che possono fare oggi.\n\nMend: \"Sposteremo i pali, non ti stringeremo.\""
+      ],
+      "introduction": "La fotografia dei componenti non ritagliata mostra a Quest una tacca del fabbricante da identificare. Guff indirizza i viaggiatori al caposquadra esperto dello scalo merci, Swagger. Prima che questa conoscenza possa aiutarli, Swagger deve depositare un carico che non dovrebbe gestire da solo.",
+      "title": "Anche i forti chiedono aiuto"
+    },
+    "ja": {
+      "altTexts": [
+        "翌朝、Bash はメーカーの登録簿が保管されている貨物ヤードで Swagger を見つけます。 Swagger は重い箱を一人で動かそうとしています。 Bash は、奮闘を賞賛する代わりに、待機している手押し車を近づけます。",
+        "Swagger が予想していたよりも負荷が大きく傾斜しています。 Quiverは手押し車のブレーキで動きを止めます。答えはグリップを強くすることではありません。誰かが怪我をする前に木箱を下ろすことです。",
+        "木枠はブロックの上に落ち着きます。ようやく重さを支えられる状態になったので、Swaggerは手放します。彼の眼鏡と帯は変わっていません。助けを受け入れたからといって、彼の能力が奪われたわけではありません。",
+        "荷物が安全になったら、Bash は低い作業面でメーカーの登録簿を開きます。これが彼らが貨物置き場に来た理由です。 Swagger の知識は、彼が運べる重量よりも彼らの捜索にとってはるかに重要です。",
+        "Swaggerは、三日月形の切り込みがVeyraの光学工房の印だと確かめます。住所も製造者の登録と一致しています。これでQuestは、地図上の場所だけでなく、壊れた記憶容器について尋ねる相手を見つけました。",
+        "その夜、6人はVeyraに向かう登山電車に乗ります。留め金、写真、メモは現在一緒に梱包されていますが、もともとすべてが同じ荷物に入っていたわけではありません。先に待っているのは工房であり、保証された解決策ではありません。",
+        "一方、Meadowfold では、友人たちがシェルターを拡張する間、Rain は開けた草の上で待機しています。支柱が移動する前に、キャンバスが下げられています。 Mend は進路を確保します。スペースを作ることは今日からできることです。"
+      ],
+      "captions": [
+        "翌朝、Bash はメーカーの登録簿が保管されている貨物ヤードで Swagger を見つけます。 Swagger は重い箱を一人で動かそうとしています。 Bash は、奮闘を賞賛する代わりに、待機している手押し車を近づけます。\n\nSwagger: 「もっと重いものだって運んだことがあります。」",
+        "Swagger が予想していたよりも負荷が大きく傾斜しています。 Quiverは手押し車のブレーキで動きを止めます。答えはグリップを強くすることではありません。誰かが怪我をする前に木箱を下ろすことです。\n\nQuiver: 「ブロックの上にセットしてください。一緒に移動できます。」",
+        "木枠はブロックの上に落ち着きます。ようやく重さを支えられる状態になったので、Swaggerは手放します。彼の眼鏡と帯は変わっていません。助けを受け入れたからといって、彼の能力が奪われたわけではありません。\n\nSwagger: 「弱そうに見られたくなかったのです。」",
+        "荷物が安全になったら、Bash は低い作業面でメーカーの登録簿を開きます。これが彼らが貨物置き場に来た理由です。 Swagger の知識は、彼が運べる重量よりも彼らの捜索にとってはるかに重要です。\n\nBash: 「必要なのは力ではなく、あなたの知識です。」",
+        "Swaggerは、三日月形の切り込みがVeyraの光学工房の印だと確かめます。住所も製造者の登録と一致しています。これでQuestは、地図上の場所だけでなく、壊れた記憶容器について尋ねる相手を見つけました。\n\nSwagger: 「この工房が外殻を作りました。彼らの設計書にはその部品が特定されているはずです。」",
+        "その夜、6人はVeyraに向かう登山電車に乗ります。留め金、写真、メモは現在一緒に梱包されていますが、もともとすべてが同じ荷物に入っていたわけではありません。先に待っているのは工房であり、保証された解決策ではありません。\n\nQuest: 「明日は、この記憶容器が何を運ぶために作られたのかを尋ねます。」",
+        "一方、Meadowfold では、友人たちがシェルターを拡張する間、Rain は開けた草の上で待機しています。支柱が移動する前に、キャンバスが下げられています。 Mend は進路を確保します。スペースを作ることは今日からできることです。\n\nMend: 「私たちは支柱を移動します。あなたを押し込むのではありません。」"
+      ],
+      "introduction": "トリミングされていないハードウェアの写真は、Quest にメーカーの特徴を与えています。 Guff は旅行者を貨物ヤードの経験豊富な職長 Swagger に案内します。その知識が彼らを助ける前に、Swagger は一人で扱うべきではない負荷を降ろさなければなりません。",
+      "title": "強い人も助けを求める"
+    },
+    "ko": {
+      "altTexts": [
+        "다음날 아침 Bash는 제조업체 등록부가 보관되어 있는 화물 야적장에서 Swagger를 발견합니다. Swagger는 무거운 상자를 혼자서 옮기려고 합니다. Bash는 혼자 버티는 모습을 감탄하며 바라보는 대신, 옆에 있던 손수레를 가까이 가져옵니다.",
+        "하중이 Swagger 예상보다 더 많이 기울어집니다. Quiver는 손수레 브레이크를 잡아 움직이지 않게 합니다. 대답은 더 강한 그립이 아닙니다. 누군가 다치기 전에 상자를 내려놓는 것입니다.",
+        "상자가 블록 위에 놓입니다. 마침내 무게가 받쳐지자 Swagger는 손을 놓습니다. 그의 안경과 띠는 변함이 없습니다. 도움을 받아들인다고 해서 그의 능력이 없어지는 것은 아닙니다.",
+        "적재물이 안전해지면 Bash는 낮은 작업 표면에 제조업체 기록부를 엽니다. 이것이 그들이 마당에 온 이유이다. Swagger의 지식은 그가 감당할 수 있는 무게보다 조사에 훨씬 더 중요합니다.",
+        "Swagger는 초승달 홈이 Veyra의 광학 작업장 표시라는 것을 확인합니다. 해당 주소는 제작자의 항목과 일치합니다. Quest는 이제 단순히 지도상의 다른 장소가 아닌 고장난 기억 보관 용기에 대해 제조업체에 문의할 수 있게 되었습니다.",
+        "그날 저녁, 여섯 사람은 Veyra 방향으로 산악열차를 탔습니다. 걸쇠와 사진, 메모를 한데 챙깁니다. 처음부터 모두 같은 배송 상자에 들어 있던 물건들은 아닙니다. 앞으로는 보장된 솔루션이 아닌 공방이 기다리고 있습니다.",
+        "한편 Meadowfold에서는 친구들이 보호소를 확장하는 동안 Rain이 열린 잔디밭에서 기다리고 있습니다. 기둥이 이동하기 전에 캔버스가 낮아졌습니다. Mend는 Rain이 다닐 길을 비워 둡니다. 공간을 만드는 것은 오늘 그들이 할 수 있는 일이다."
+      ],
+      "captions": [
+        "다음날 아침 Bash는 제조업체 등록부가 보관되어 있는 화물 야적장에서 Swagger를 발견합니다. Swagger는 무거운 상자를 혼자서 옮기려고 합니다. Bash는 혼자 버티는 모습을 감탄하며 바라보는 대신, 옆에 있던 손수레를 가까이 가져옵니다.\n\nSwagger: \"이보다 무거운 것도 옮겨 봤어요.\"",
+        "하중이 Swagger 예상보다 더 많이 기울어집니다. Quiver는 손수레 브레이크를 잡아 움직이지 않게 합니다. 대답은 더 강한 그립이 아닙니다. 누군가 다치기 전에 상자를 내려놓는 것입니다.\n\nQuiver: \"블록 위에 놓으세요. 함께 옮길 수 있어요.\"",
+        "상자가 블록 위에 놓입니다. 마침내 무게가 받쳐지자 Swagger는 손을 놓습니다. 그의 안경과 띠는 변함이 없습니다. 도움을 받아들인다고 해서 그의 능력이 없어지는 것은 아닙니다.\n\nSwagger: “약해 보이고 싶지 않았어요.”",
+        "적재물이 안전해지면 Bash는 낮은 작업 표면에 제조업체 기록부를 엽니다. 이것이 그들이 마당에 온 이유이다. Swagger의 지식은 그가 감당할 수 있는 무게보다 조사에 훨씬 더 중요합니다.\n\nBash: \"나는 당신의 근육이 아니라 지식이 필요합니다.\"",
+        "Swagger는 초승달 홈이 Veyra의 광학 작업장 표시라는 것을 확인합니다. 해당 주소는 제작자의 항목과 일치합니다. Quest는 이제 단순히 지도상의 다른 장소가 아닌 고장난 기억 보관 용기에 대해 제조업체에 문의할 수 있게 되었습니다.\n\nSwagger: \"이 공방에서 겉껍질을 만들었어요. 설계 도면을 보면 어떤 부품인지 알 수 있을 거예요.\"",
+        "그날 저녁, 여섯 사람은 Veyra 방향으로 산악열차를 탔습니다. 걸쇠와 사진, 메모를 한데 챙깁니다. 처음부터 모두 같은 배송 상자에 들어 있던 물건들은 아닙니다. 앞으로는 보장된 솔루션이 아닌 공방이 기다리고 있습니다.\n\nQuest: \"내일 우리는 이 기억 보관 용기가 무엇을 수용하도록 제작되었는지 묻습니다.\"",
+        "한편 Meadowfold에서는 친구들이 보호소를 확장하는 동안 Rain이 열린 잔디밭에서 기다리고 있습니다. 기둥이 이동하기 전에 캔버스가 낮아졌습니다. Mend는 Rain이 다닐 길을 비워 둡니다. 공간을 만드는 것은 오늘 그들이 할 수 있는 일이다.\n\nMend: “당신을 밀어넣는 것이 아니라 기둥을 옮기겠습니다.”"
+      ],
+      "introduction": "자르지 않은 하드웨어 사진은 Quest가 제조업체를 알아볼 수 있는 홈을 보여 줍니다. Guff는 여행자를 화물 야적장의 숙련된 감독인 Swagger에게 안내합니다. 그 지식이 그들에게 도움이 되기 전에 Swagger는 혼자서 처리해서는 안 되는 짐을 내려놓아야 합니다.",
+      "title": "강한 사람도 도움을 청한다"
+    },
+    "pl": {
+      "altTexts": [
+        "Następnego ranka Bash spotyka Swaggera na placu towarowym, gdzie prowadzony jest rejestr producenta. Swagger próbuje samodzielnie przenieść ciężką skrzynię. Bash zamiast podziwiać walkę, przybliża czekający wózek.",
+        "Ładunek przechyla się bardziej, niż spodziewał się Swagger. Quiver zatrzymuje ruch blokadą zabezpieczającą na stojaku. Odpowiedzią nie jest mocniejszy chwyt; to odkładanie skrzyni, zanim komukolwiek stanie się krzywda.",
+        "Skrzynia osadza się na blokach. Kiedy bloki przejmują ciężar, Swagger puszcza skrzynię. Jego okulary i szarfa pozostają niezmienione; przyjęcie pomocy nie odebrało mu kompetencji.",
+        "Gdy ładunek jest bezpieczny, Bash otwiera rejestr producenta na niskiej powierzchni roboczej. Właśnie po to przyszli na plac przeładunkowy. Wiedza Swaggera ma o wiele większe znaczenie w ich poszukiwaniach niż ciężar, który może unieść.",
+        "Swagger dopasowuje wycięcie w kształcie półksiężyca do warsztatu optycznego w mieście Veyra. Jego adres zgadza się z wpisem producenta. Quest zna teraz producenta, którego może zapytać o uszkodzony nośnik, a nie tylko o inne miejsce na mapie.",
+        "Wieczorem cała szóstka wsiada do pociągu górskiego w kierunku miasta Veyra. Zapięcie, zdjęcie i notatki są teraz spakowane razem, chociaż nie wszystkie pochodziły z tej samej przesyłki. Przed nimi warsztat, a nie gwarantowane rozwiązanie.",
+        "Tymczasem na łące Meadowfold Rain czeka na otwartej trawie, podczas gdy jego przyjaciele powiększają schron. Jego płótno zostało opuszczone zanim ruszyły słupy. Mend utrzymuje wolną drogę; robienie miejsca to coś, co mogą zrobić już dziś."
+      ],
+      "captions": [
+        "Następnego ranka Bash spotyka Swaggera na placu towarowym, gdzie prowadzony jest rejestr producenta. Swagger próbuje samodzielnie przenieść ciężką skrzynię. Bash zamiast podziwiać walkę, przybliża czekający wózek.\n\nSwagger: „Nosiłem cięższe”.",
+        "Ładunek przechyla się bardziej, niż spodziewał się Swagger. Quiver zatrzymuje ruch blokadą zabezpieczającą na stojaku. Odpowiedzią nie jest mocniejszy chwyt; to odkładanie skrzyni, zanim komukolwiek stanie się krzywda.\n\nQuiver: \"Ułóż to na blokach. Razem możemy to przenieść.\"",
+        "Skrzynia osadza się na blokach. Kiedy bloki przejmują ciężar, Swagger puszcza skrzynię. Jego okulary i szarfa pozostają niezmienione; przyjęcie pomocy nie odebrało mu kompetencji.\n\nSwagger: „Nie chciałem wyglądać na słabego.”",
+        "Gdy ładunek jest bezpieczny, Bash otwiera rejestr producenta na niskiej powierzchni roboczej. Właśnie po to przyszli na plac przeładunkowy. Wiedza Swaggera ma o wiele większe znaczenie w ich poszukiwaniach niż ciężar, który może unieść.\n\nBash: „Potrzebuję twojej wiedzy, a nie mięśni.”",
+        "Swagger dopasowuje wycięcie w kształcie półksiężyca do warsztatu optycznego w mieście Veyra. Jego adres zgadza się z wpisem producenta. Quest zna teraz producenta, którego może zapytać o uszkodzony nośnik, a nie tylko o inne miejsce na mapie.\n\nSwagger: \"Ten warsztat wykonał obudowę. Ich książka projektowa powinna identyfikować część.\"",
+        "Wieczorem cała szóstka wsiada do pociągu górskiego w kierunku miasta Veyra. Zapięcie, zdjęcie i notatki są teraz spakowane razem, chociaż nie wszystkie pochodziły z tej samej przesyłki. Przed nimi warsztat, a nie gwarantowane rozwiązanie.\n\nQuest: „Jutro zapytamy, do czego został zbudowany ten pojemnik”.",
+        "Tymczasem na łące Meadowfold Rain czeka na otwartej trawie, podczas gdy jego przyjaciele powiększają schron. Jego płótno zostało opuszczone zanim ruszyły słupy. Mend utrzymuje wolną drogę; robienie miejsca to coś, co mogą zrobić już dziś.\n\nMend: „Przesuniemy słupy, zamiast cię ściskać”."
+      ],
+      "introduction": "Nieprzycięte zdjęcie sprzętu pokazuje Questowi nacięcie producenta, które można zidentyfikować. Guff kieruje podróżnych do doświadczonego brygadzisty placu przeładunkowego, Swaggera. Zanim ta wiedza będzie mogła im pomóc, Swagger musi odłożyć ładunek, którego nie powinien dźwigać sam.",
+      "title": "Silni też proszą o pomoc"
+    },
+    "pt": {
+      "altTexts": [
+        "Na manhã seguinte, Bash encontra Swagger no pátio de carga, onde fica o registro do fabricante. Swagger está tentando mover uma caixa pesada sozinho. Bash aproxima o carrinho de mão que espera, em vez de admirar a luta.",
+        "A carga inclina mais do que Swagger esperava. Quiver interrompe o movimento com o batente de segurança do suporte. A resposta não é uma pegada mais forte; é colocar a caixa no chão antes que alguém se machuque.",
+        "A caixa assenta nos blocos. Com seu peso finalmente suportado, Swagger solta a caixa. Seus óculos e faixa permanecem inalterados; aceitar ajuda não lhe tirou a competência.",
+        "Assim que a carga estiver segura, Bash abre o registro do fabricante em uma superfície de trabalho baixa. É por isso que eles vieram ao pátio. O conhecimento de Swagger é muito mais importante para a busca deles do que o peso que ele pode carregar.",
+        "Swagger combina o entalhe em meia-lua com uma oficina de óptica em Veyra. Seu endereço está de acordo com a entrada do fabricante. Quest agora tem um fabricante para perguntar sobre o recipiente quebrado – não apenas outro lugar no mapa.",
+        "Naquela noite, os seis pegam o trem da montanha em direção a Veyra. O fecho, a fotografia e as notas estão agora embalados juntos, embora nem todos tenham começado na mesma remessa. À frente está uma oficina, não uma solução garantida.",
+        "Enquanto isso, em Meadowfold, Rain espera na grama aberta enquanto seus amigos ampliam o abrigo. A lona foi abaixada antes que os postes se movessem. Mend mantém seu caminho livre; abrir espaço é algo que eles podem fazer hoje."
+      ],
+      "captions": [
+        "Na manhã seguinte, Bash encontra Swagger no pátio de carga, onde fica o registro do fabricante. Swagger está tentando mover uma caixa pesada sozinho. Bash aproxima o carrinho de mão que espera, em vez de admirar a luta.\n\nSwagger: “Já carreguei coisas mais pesadas.”",
+        "A carga inclina mais do que Swagger esperava. Quiver interrompe o movimento com o batente de segurança do suporte. A resposta não é uma pegada mais forte; é colocar a caixa no chão antes que alguém se machuque.\n\nQuiver: \"Coloque-a nos blocos. Podemos movê-la juntos.\"",
+        "A caixa assenta nos blocos. Com seu peso finalmente suportado, Swagger solta a caixa. Seus óculos e faixa permanecem inalterados; aceitar ajuda não lhe tirou a competência.\n\nSwagger: “Eu não queria parecer fraco.”",
+        "Assim que a carga estiver segura, Bash abre o registro do fabricante em uma superfície de trabalho baixa. É por isso que eles vieram ao pátio. O conhecimento de Swagger é muito mais importante para a busca deles do que o peso que ele pode carregar.\n\nBash: “Preciso do seu conhecimento, não dos seus músculos.”",
+        "Swagger combina o entalhe em meia-lua com uma oficina de óptica em Veyra. Seu endereço está de acordo com a entrada do fabricante. Quest agora tem um fabricante para perguntar sobre o recipiente quebrado – não apenas outro lugar no mapa.\n\nSwagger: \"Esta oficina fez a carcaça. Seu livro de design deve identificar a peça.\"",
+        "Naquela noite, os seis pegam o trem da montanha em direção a Veyra. O fecho, a fotografia e as notas estão agora embalados juntos, embora nem todos tenham começado na mesma remessa. À frente está uma oficina, não uma solução garantida.\n\nQuest: “Amanhã perguntaremos para que este recipiente foi construído.”",
+        "Enquanto isso, em Meadowfold, Rain espera na grama aberta enquanto seus amigos ampliam o abrigo. A lona foi abaixada antes que os postes se movessem. Mend mantém seu caminho livre; abrir espaço é algo que eles podem fazer hoje.\n\nMend: “Vamos mover os postes, não apertar você.”"
+      ],
+      "introduction": "A fotografia das peças não cortada dá ao Quest um entalhe do fabricante para identificar. Guff direciona os viajantes ao experiente capataz do pátio de carga, Swagger. Antes que esse conhecimento possa ajudá-los, Swagger precisa descarregar uma carga que não deveria manusear sozinho.",
+      "title": "Os fortes também pedem ajuda"
+    },
+    "ru": {
+      "altTexts": [
+        "На следующее утро Bash находит Swagger на грузовой площадке, где хранится реестр производителя. Swagger пытается в одиночку переместить тяжелый ящик. Bash приближает ожидающую тележку вместо того, чтобы любоваться его усилиями.",
+        "Груз наклоняется сильнее, чем ожидал Swagger. Quiver останавливает движение с помощью реечного тормоза. Нужно не крепче держаться, а поставить ящик на опоры, прежде чем кто-нибудь пострадает.",
+        "Ящик оседает на блоки. Когда вес наконец опирается на блоки, Swagger отпускает ящик. Его очки и пояс не изменились; принятие помощи не лишило его компетентности.",
+        "Как только груз окажется в безопасности, Bash открывает регистр производителя на низкой рабочей поверхности. Именно ради этого они пришли на грузовую площадку. Знания Swagger имеют для их поиска гораздо большее значение, чем вес, который он может нести.",
+        "Swagger устанавливает, что выемка-полумесяц принадлежит оптической мастерской в Veyra. Адрес мастерской совпадает с записью производителя. У Quest теперь есть производитель, которого можно спросить о сломанном носителе, а не просто о другом месте на карте.",
+        "Вечером того же дня все шестеро садятся на горный поезд в сторону Veyra. Застежка, фотография и заметки теперь упакованы вместе, хотя не все они были отправлены в одной посылке. Впереди мастерская, а не гарантированное решение.",
+        "Тем временем на лугу Meadowfold Rain ждет на открытой траве, пока его друзья расширяют навес. Его полотно было опущено до перемещения столбов. Mend следит, чтобы путь Rain оставался свободным; освободить место — это то, что они могут сделать сегодня."
+      ],
+      "captions": [
+        "На следующее утро Bash находит Swagger на грузовой площадке, где хранится реестр производителя. Swagger пытается в одиночку переместить тяжелый ящик. Bash приближает ожидающую тележку вместо того, чтобы любоваться его усилиями.\n\nSwagger: «Я носил и потяжелее».",
+        "Груз наклоняется сильнее, чем ожидал Swagger. Quiver останавливает движение с помощью реечного тормоза. Нужно не крепче держаться, а поставить ящик на опоры, прежде чем кто-нибудь пострадает.\n\nQuiver: \"Установи его на блоки. Мы можем перемещать его вместе\".",
+        "Ящик оседает на блоки. Когда вес наконец опирается на блоки, Swagger отпускает ящик. Его очки и пояс не изменились; принятие помощи не лишило его компетентности.\n\nSwagger: «Я не хотел выглядеть слабым».",
+        "Как только груз окажется в безопасности, Bash открывает регистр производителя на низкой рабочей поверхности. Именно ради этого они пришли на грузовую площадку. Знания Swagger имеют для их поиска гораздо большее значение, чем вес, который он может нести.\n\nBash: «Мне нужны твои знания, а не твои мускулы».",
+        "Swagger устанавливает, что выемка-полумесяц принадлежит оптической мастерской в Veyra. Адрес мастерской совпадает с записью производителя. У Quest теперь есть производитель, которого можно спросить о сломанном носителе, а не просто о другом месте на карте.\n\nSwagger: \"Эта мастерская изготовила корпус. В их проектной книге должна быть указана эта деталь\".",
+        "Вечером того же дня все шестеро садятся на горный поезд в сторону Veyra. Застежка, фотография и заметки теперь упакованы вместе, хотя не все они были отправлены в одной посылке. Впереди мастерская, а не гарантированное решение.\n\nQuest: «Завтра мы спросим, для чего был построен этот контейнер».",
+        "Тем временем на лугу Meadowfold Rain ждет на открытой траве, пока его друзья расширяют навес. Его полотно было опущено до перемещения столбов. Mend следит, чтобы путь Rain оставался свободным; освободить место — это то, что они могут сделать сегодня.\n\nMend: «Мы переставим столбы, а не станем тебя теснить»."
+      ],
+      "introduction": "Необрезанная фотография оборудования дает Quest узнаваемый знак производителя. Guff направляет путешественников к опытному бригадиру грузовой станции Swagger. Прежде чем эти знания смогут им помочь, Swagger должен поставить груз, с которым ему не следует справляться в одиночку.",
+      "title": "Сильные тоже просят о помощи"
+    },
+    "tr": {
+      "altTexts": [
+        "Ertesi sabah Bash, üreticinin kayıtlarının tutulduğu nakliye deposunda Swagger'ı bulur. Swagger ağır bir sandığı tek başına taşımaya çalışıyor. Bash, mücadeleye hayranlık duymak yerine bekleyen el arabasını yakına getiriyor.",
+        "Yük Swagger'ın beklediğinden daha fazla eğiliyor. Quiver, taşıma düzeneğinin frenini kullanarak hareketi durdurur. Cevap daha güçlü bir tutuş değil; kimse zarar görmeden sandığı yere koymaktır.",
+        "Sandık blokların üzerine yerleşir. Sandığın ağırlığı artık bloklara bindiği için Swagger ellerini çekiyor. Gözlükleri ve kuşağı değişmedi; yardımı kabul etmek onun yetkinliğini ortadan kaldırmadı.",
+        "Yük güvenli hale geldikten sonra Bash, alçak bir çalışma yüzeyinde üreticinin kaydını açar. Buraya, yük sahasına gelmelerinin nedeni budur. Swagger'ın bilgisi, aramaları açısından taşıyabileceği ağırlıktan çok daha önemli.",
+        "Swagger, hilal çentiğini Veyra'daki bir optik atölyesiyle eşleştirir. Adresi, üreticinin girişiyle örtüşüyor. Quest'in artık yalnızca haritadaki başka bir yer değil, bozuk taşıyıcı hakkında soru sorabileceği bir üreticisi var.",
+        "O akşam altılı, Veyra'ya giden dağ trenine biner. Klips, fotoğraf ve notlar artık bir arada paketleniyor, ancak hepsi aynı sevkiyatta başlamamış. Önlerinde garantili bir çözüm değil, bir atölye var.",
+        "Bu sırada Meadowfold çayırında arkadaşları barınağı genişletirken Rain açık çimenlerin üzerinde bekliyor. Direkler taşınmadan önce barınağın brandası indirildi. Mend yolunu açık tutuyor; yer açmak bugün yapabilecekleri bir şeydir."
+      ],
+      "captions": [
+        "Ertesi sabah Bash, üreticinin kayıtlarının tutulduğu nakliye deposunda Swagger'ı bulur. Swagger ağır bir sandığı tek başına taşımaya çalışıyor. Bash, mücadeleye hayranlık duymak yerine bekleyen el arabasını yakına getiriyor.\n\nSwagger: \"Daha ağırını taşıdım.\"",
+        "Yük Swagger'ın beklediğinden daha fazla eğiliyor. Quiver, taşıma düzeneğinin frenini kullanarak hareketi durdurur. Cevap daha güçlü bir tutuş değil; kimse zarar görmeden sandığı yere koymaktır.\n\nQuiver: \"Blokların üzerine yerleştirin. Birlikte taşıyabiliriz.\"",
+        "Sandık blokların üzerine yerleşir. Sandığın ağırlığı artık bloklara bindiği için Swagger ellerini çekiyor. Gözlükleri ve kuşağı değişmedi; yardımı kabul etmek onun yetkinliğini ortadan kaldırmadı.\n\nSwagger: \"Zayıf görünmek istemedim.\"",
+        "Yük güvenli hale geldikten sonra Bash, alçak bir çalışma yüzeyinde üreticinin kaydını açar. Buraya, yük sahasına gelmelerinin nedeni budur. Swagger'ın bilgisi, aramaları açısından taşıyabileceği ağırlıktan çok daha önemli.\n\nBash: \"Kaslarına değil bilgine ihtiyacım var.\"",
+        "Swagger, hilal çentiğini Veyra'daki bir optik atölyesiyle eşleştirir. Adresi, üreticinin girişiyle örtüşüyor. Quest'in artık yalnızca haritadaki başka bir yer değil, bozuk taşıyıcı hakkında soru sorabileceği bir üreticisi var.\n\nSwagger: \"Bu atölye muhafazayı yaptı. Tasarım kitapları parçayı tanımlamalı.\"",
+        "O akşam altılı, Veyra'ya giden dağ trenine biner. Klips, fotoğraf ve notlar artık bir arada paketleniyor, ancak hepsi aynı sevkiyatta başlamamış. Önlerinde garantili bir çözüm değil, bir atölye var.\n\nQuest: \"Yarın bu taşıyıcının neyi taşıyacak şekilde inşa edildiğini soracağız.\"",
+        "Bu sırada Meadowfold çayırında arkadaşları barınağı genişletirken Rain açık çimenlerin üzerinde bekliyor. Direkler taşınmadan önce barınağın brandası indirildi. Mend yolunu açık tutuyor; yer açmak bugün yapabilecekleri bir şeydir.\n\nMend: \"Seni sıkıştırmak yerine, direkleri taşıyacağız.\""
+      ],
+      "introduction": "Kırpılmamış donanım fotoğrafı Quest'e bir üretici çentiği veriyor. Guff, yolcuları nakliye sahasının deneyimli ustabaşı Swagger'a yönlendiriyor. Bu bilginin onlara yardımcı olabilmesi için Swagger'ın tek başına kaldırmaması gereken bir yükü yere bırakması gerekiyor.",
+      "title": "Güçlü Olan da Yardım İster"
+    },
+    "vi": {
+      "altTexts": [
+        "Sáng hôm sau, Bash tìm thấy Swagger ở bãi chở hàng, nơi lưu giữ sổ đăng ký của nhà sản xuất. Swagger đang cố gắng di chuyển một chiếc thùng nặng một mình. Bash đưa chiếc xe đẩy đang chờ đến gần hơn thay vì trầm trồ trước việc anh cố gắng một mình.",
+        "Kiện hàng nghiêng nhiều hơn Swagger dự tính. Quiver dùng phanh trên giá đỡ để chặn kiện hàng lại. Lúc này cần đặt thùng xuống trước khi có người bị thương, chứ không phải nắm chặt hơn.",
+        "Chiếc thùng được đặt lên các khối kê. Khi chúng đã đỡ toàn bộ sức nặng, Swagger mới buông tay. Kính và thắt lưng của anh ấy không thay đổi; việc chấp nhận sự giúp đỡ không làm mất đi năng lực của anh.",
+        "Khi kiện hàng đã được đặt an toàn, Bash sẽ mở sổ đăng ký của nhà sản xuất trên bề mặt làm việc thấp. Đó chính là lý do họ đến bãi hàng. Kiến thức của Swagger có ý nghĩa quan trọng đối với cuộc tìm kiếm của họ hơn là sức nặng mà anh có thể mang theo.",
+        "Swagger ghép rãnh hình lưỡi liềm với một xưởng quang học ở Veyra. Địa chỉ của nó phù hợp với mục nhập của nhà sản xuất. Quest hiện có nhà sản xuất để hỏi về vật chứa bị hỏng — không chỉ đơn thuần là một địa điểm khác trên bản đồ.",
+        "Tối hôm đó, cả sáu bắt chuyến tàu leo núi hướng tới Veyra. Móc cài, bức ảnh và ghi chú hiện đã được đóng gói cùng nhau, mặc dù chúng không bắt đầu trong cùng một chuyến hàng. Phía trước là một xưởng, không phải là một giải pháp đảm bảo.",
+        "Trong khi đó tại Meadowfold, Rain đợi trên bãi cỏ rộng rãi trong khi bạn bè của anh mở rộng nơi trú ẩn. Tấm bạt đã được hạ xuống trước khi di chuyển các cột. Mend giữ lối đi của Rain thông thoáng; tạo thêm chỗ là việc họ có thể làm hôm nay."
+      ],
+      "captions": [
+        "Sáng hôm sau, Bash tìm thấy Swagger ở bãi chở hàng, nơi lưu giữ sổ đăng ký của nhà sản xuất. Swagger đang cố gắng di chuyển một chiếc thùng nặng một mình. Bash đưa chiếc xe đẩy đang chờ đến gần hơn thay vì trầm trồ trước việc anh cố gắng một mình.\n\nSwagger: “Tôi đã mang nặng hơn.”",
+        "Kiện hàng nghiêng nhiều hơn Swagger dự tính. Quiver dùng phanh trên giá đỡ để chặn kiện hàng lại. Lúc này cần đặt thùng xuống trước khi có người bị thương, chứ không phải nắm chặt hơn.\n\nQuiver: \"Đặt nó lên các khối. Chúng ta có thể di chuyển nó cùng nhau.\"",
+        "Chiếc thùng được đặt lên các khối kê. Khi chúng đã đỡ toàn bộ sức nặng, Swagger mới buông tay. Kính và thắt lưng của anh ấy không thay đổi; việc chấp nhận sự giúp đỡ không làm mất đi năng lực của anh.\n\nSwagger: “Tôi không muốn mình trông yếu đuối.”",
+        "Khi kiện hàng đã được đặt an toàn, Bash sẽ mở sổ đăng ký của nhà sản xuất trên bề mặt làm việc thấp. Đó chính là lý do họ đến bãi hàng. Kiến thức của Swagger có ý nghĩa quan trọng đối với cuộc tìm kiếm của họ hơn là sức nặng mà anh có thể mang theo.\n\nBash: “Tôi cần kiến thức của bạn chứ không phải cơ bắp của bạn.”",
+        "Swagger ghép rãnh hình lưỡi liềm với một xưởng quang học ở Veyra. Địa chỉ của nó phù hợp với mục nhập của nhà sản xuất. Quest hiện có nhà sản xuất để hỏi về vật chứa bị hỏng — không chỉ đơn thuần là một địa điểm khác trên bản đồ.\n\nSwagger: \"Xưởng này làm phần vỏ. Sách thiết kế của họ sẽ xác định rõ bộ phận đó.\"",
+        "Tối hôm đó, cả sáu bắt chuyến tàu leo núi hướng tới Veyra. Móc cài, bức ảnh và ghi chú hiện đã được đóng gói cùng nhau, mặc dù chúng không bắt đầu trong cùng một chuyến hàng. Phía trước là một xưởng, không phải là một giải pháp đảm bảo.\n\nQuest: “Ngày mai chúng tôi hỏi chiếc vật chứa này được chế tạo để chở những gì.”",
+        "Trong khi đó tại Meadowfold, Rain đợi trên bãi cỏ rộng rãi trong khi bạn bè của anh mở rộng nơi trú ẩn. Tấm bạt đã được hạ xuống trước khi di chuyển các cột. Mend giữ lối đi của Rain thông thoáng; tạo thêm chỗ là việc họ có thể làm hôm nay.\n\nMend: “Chúng tôi sẽ di chuyển các cột chứ không ép bạn vào.”"
+      ],
+      "introduction": "Bức ảnh phần cứng chưa được cắt xén mang lại cho Quest một vết khía để xác định nhà sản xuất. Guff hướng dẫn du khách đến gặp quản đốc giàu kinh nghiệm của bãi vận chuyển hàng hóa, Swagger. Trước khi kiến thức đó có thể giúp họ, Swagger phải đặt xuống một kiện hàng nặng mà anh không nên gánh một mình.",
+      "title": "Người mạnh mẽ cũng cần nhờ giúp đỡ"
+    },
+    "zh": {
+      "altTexts": [
+        "第二天早上，Bash 在货场找到了 Swagger，那里存放着制造商的登记册。 Swagger 正在尝试独自搬运一个沉重的板条箱。 Bash把旁边的手推车拉近，准备帮忙，而不是站着看他逞强。",
+        "负载倾斜比 Swagger 预期的更远。 Quiver 按住手推车的刹车，防止它滑动。办法不是抓得更紧，而是在有人受伤之前把箱子放下。",
+        "板条箱落在木块上。终于支撑住了重量，Swagger 放手了。他的眼镜和腰带没有变化；接受帮助并没有剥夺他的能力。",
+        "一旦负载安全，Bash 就会在较低的工作表面上打开制造商登记册。这就是他们来到院子里的原因。 Swagger 的知识对他们的搜索来说比他能承受的重量更重要。",
+        "Swagger查明，月牙缺口是Veyra一家光学作坊的标记。其地址与制造商的条目一致。 Quest 现在有一家制造商可以询问损坏的载体 - 而不仅仅是地图上的另一个地方。",
+        "当晚，六人乘坐开往Veyra的山地列车。扣环、照片和便签现在打包在一起，但这些东西原本并不都属于同一批货物。前方是一家作坊，而不是一个有保证的解决方案。",
+        "与此同时，在 Meadowfold，Rain 在开阔的草地上等待，而他的朋友们正在扩大庇护所。在柱子移动之前，棚顶的帆布已经降下。 Mend 保持道路畅通；腾出空间是他们今天可以做的事情。"
+      ],
+      "captions": [
+        "第二天早上，Bash 在货场找到了 Swagger，那里存放着制造商的登记册。 Swagger 正在尝试独自搬运一个沉重的板条箱。 Bash把旁边的手推车拉近，准备帮忙，而不是站着看他逞强。\n\nSwagger：“比这更重的我都搬过。”",
+        "负载倾斜比 Swagger 预期的更远。 Quiver 按住手推车的刹车，防止它滑动。办法不是抓得更紧，而是在有人受伤之前把箱子放下。\n\nQuiver：“把它放在垫木上。我们可以一起移动它。”",
+        "板条箱落在木块上。终于支撑住了重量，Swagger 放手了。他的眼镜和腰带没有变化；接受帮助并没有剥夺他的能力。\n\nSwagger：“我不想看起来很弱。”",
+        "一旦负载安全，Bash 就会在较低的工作表面上打开制造商登记册。这就是他们来到院子里的原因。 Swagger 的知识对他们的搜索来说比他能承受的重量更重要。\n\nBash：“我需要你的知识，而不是你的肌肉。”",
+        "Swagger查明，月牙缺口是Veyra一家光学作坊的标记。其地址与制造商的条目一致。 Quest 现在有一家制造商可以询问损坏的载体 - 而不仅仅是地图上的另一个地方。\n\nSwagger：“外壳是这个作坊做的，他们的设计书上应该有标识。”",
+        "当晚，六人乘坐开往Veyra的山地列车。扣环、照片和便签现在打包在一起，但这些东西原本并不都属于同一批货物。前方是一家作坊，而不是一个有保证的解决方案。\n\nQuest：“明天我们会问这个记忆容器是用来装什么的。”",
+        "与此同时，在 Meadowfold，Rain 在开阔的草地上等待，而他的朋友们正在扩大庇护所。在柱子移动之前，棚顶的帆布已经降下。 Mend 保持道路畅通；腾出空间是他们今天可以做的事情。\n\nMend：“我们会移动支柱，而不是把你挤进去。”"
+      ],
+      "introduction": "未裁剪的硬件照片为 Quest 提供了制造商的识别标记。 Guff 引导旅客前往货场经验丰富的领班 Swagger。在这些知识能够帮助他们之前，Swagger 必须放下他不应该独自承担的负担。",
+      "title": "强者也会求助"
+    }
+  },
+  "number": 8,
+  "panels": [
+    {
+      "altText": "The following morning, Bash finds Swagger in the freight yard, where the maker's register is kept. Swagger is trying to move a heavy crate alone. Bash brings the waiting handcart closer instead of admiring the struggle.",
+      "image": "N01E08P01.png"
+    },
+    {
+      "altText": "The load tilts farther than Swagger expected. Quiver stops the movement at the rack's brake. The answer is not a stronger grip; it is putting the crate down before anyone gets hurt.",
+      "image": "N01E08P02.png"
+    },
+    {
+      "altText": "The crate settles onto the blocks. With its weight finally supported, Swagger lets go. His glasses and sash are unchanged; accepting help has not taken his competence away.",
+      "image": "N01E08P03.png"
+    },
+    {
+      "altText": "Once the load is safe, Bash opens the maker's register on a low work surface. This is why they came to the yard. Swagger's knowledge matters far more to their search than the weight he can carry.",
+      "image": "N01E08P04.png"
+    },
+    {
+      "altText": "Swagger matches the crescent notch to an optics workshop in Veyra. Its address agrees with the maker's entry. Quest now has a manufacturer to ask about the broken carrier—not merely another place on a map.",
+      "image": "N01E08P05.png"
+    },
+    {
+      "altText": "That evening, the six take the mountain train toward Veyra. The clasp, photograph and notes are packed together now, although they did not all begin in the same shipment. Ahead lies a workshop, not a guaranteed solution.",
+      "image": "N01E08P06.png"
+    },
+    {
+      "altText": "Meanwhile at Meadowfold, Rain waits on open grass while his friends enlarge the shelter. Its canvas has been lowered before the posts move. Mend keeps his path clear; making room is something they can do today.",
+      "image": "N01E08P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

@@ -1,0 +1,442 @@
+{
+  "id": "N02E19",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "ينقل اثنان الصواني ويقيس اثنان القماش.",
+        "تبقى يدا هاش بعيدتين بأمان عن المقص أثناء القص.",
+        "تؤدي الشخصيات الأربع أعمالًا مختلفة لتركيب الغطاءين.",
+        "يظهر الغطاءان المنخفضان بفتحات تهوية وممر أوسط خالٍ.",
+        "تؤكد سيلا اكتمال الحماية ويتلاشى الشريط الأخضر.",
+        "تحمي المظلة القديمة والغطاءان جميع الشتلات.",
+        "تعود ميند إلى سقيفة القوارب بعد استراحة، حاملة لفة أدواتها الصغيرة."
+      ],
+      "captions": [
+        "بعد الظهر، نقلت سيلا وتافي الصواني التي تضم الشتلات الرقيقة إلى تحت المظلة. وقاست ميند وهاش القماش للحوضين الباقيين.",
+        "قصت ميند المقدار المقاس فقط. أمسك هاش القماش مستويًا على لوح العمل، ويداه بعيدتان عن المقص ذي الطرف المستدير.",
+        "ثبتت سيلا الإطارات المنخفضة، وناول تافي الأربطة. لم يحتج أحد إلى أن يصبح ميند، ولا إلى فعل كل الأجزاء.",
+        "ثبتت ميند ركن القماش الأخير. بقي فراغ للهواء تحت الغطاءين وممر مفتوح للوصول إلى النباتات.",
+        "قبل الغروب، فحصت سيلا كل صينية. قالت: «صارت محمية». انفك الشريط الأخضر. بقي لميند وعدان.",
+        "نظرت ميند إلى الغطاءين البسيطين والمظلة الممتلئة. لم تكن الخطة فخمة، لكن كل نبتة حصلت على الحماية اللازمة.",
+        "بعد شراب وراحة، عاد الأصدقاء مشيًا إلى روك. المظلة الزرقاء تنتظر، وهذه المرة للعمل نهاية محددة."
+      ],
+      "introduction": "تحمي خطة بسيطة وعمل مشترك الشتلات قبل المطر.",
+      "title": "متسع تحت سقف أصغر"
+    },
+    "bn": {
+      "altTexts": [
+        "দুজন চারা সরায়, দুজন কাপড় মাপে।",
+        "কাটার সময় হাশের হাত কাঁচি থেকে নিরাপদ দূরে আছে।",
+        "চারজন আলাদা কাজ করে নিচু ঢাকনা বসায়।",
+        "দুই নিচু ঢাকনায় বাতাসের ফাঁক, মাঝের পথ বাধামুক্ত।",
+        "সেলা কাজ মেনে নেয়; সবুজ ফিতা মিলিয়ে যায়।",
+        "চারা দুটি ঢাকনা ও পুরোনো ছাদের নিচে সুরক্ষিত।",
+        "বিশ্রামের পর মেন্ড তার ছোট গোটানো সরঞ্জামের থলি নিয়ে নৌকার ঘরে ফিরছে।"
+      ],
+      "captions": [
+        "সেই বিকেলে সেলা আর টাভি নাজুক চারার ট্রে ছাদের নিচে নিল। মেন্ড ও হাশ বাকি দুই বেডের কাপড় মাপল।",
+        "মেন্ড মাপমতোই কাপড় কাটল। হাশ কাজের পাটাতনে কাপড় সমান ধরল, দুই হাত গোল-মাথা কাঁচি থেকে নিরাপদ দূরে।",
+        "সেলা নিচু কাঠামো বসাল, টাভি বাঁধার দড়ি দিল। কাউকে মেন্ড হতে হলো না, কাউকে সব কাজও করতে হলো না।",
+        "মেন্ড কাপড়ের শেষ কোণ বাঁধল। নিচে বাতাস চলার ফাঁক আছে, চারার কাছে যাওয়ার পথও খোলা।",
+        "সূর্য ডোবার আগে সেলা প্রতিটি ট্রে দেখল। “সব নিরাপদ,” সে বলল। সবুজ ফিতা খুলল। মেন্ডের দুই প্রতিশ্রুতি বাকি।",
+        "মেন্ড ছোট ঢাকনা আর ট্রেতে ভরা ছাদের নিচে তাকাল। পরিকল্পনা জমকালো নয়, কিন্তু প্রতিটি গাছ দরকারি সুরক্ষা পেল।",
+        "জল খেয়ে বিশ্রাম নিয়ে বন্ধুরা রুকের কাছে ফিরল। নীল ছাউনি অপেক্ষায়। এবার কাজের শেষ কোথায় জানা আছে।"
+      ],
+      "introduction": "সহজ পরিকল্পনা ও মিলিত কাজে বৃষ্টির আগে চারা নিরাপদ হয়।",
+      "title": "ছোট ছাদের নিচে জায়গা"
+    },
+    "cs": {
+      "altTexts": [
+        "Sela s Tavim přenášejí tác a Mend vyměřuje látku.",
+        "Mend stříhá látku a Hush drží vzdálenější okraj.",
+        "Sela upevňuje nízký rám a Tavi podává úvaz.",
+        "Mend upevňuje roh jednoho ze dvou nízkých krytů.",
+        "Zelená stuha mizí vedle hotových krytů v zahradnictví.",
+        "Přátelé prohlížejí dva nízké kryty a uschované sazenice.",
+        "Mend se po odpočinku vrací s malým pouzdrem s nástroji."
+      ],
+      "captions": [
+        "Odpoledne Sela s Tavim přenesli citlivé sazenice pod přístřešek. Mend a Hush vyměřili látku na dva zbývající záhony.",
+        "Mend stříhala jen vyměřenou látku. Hush ji držel na pracovní desce, oběma rukama bezpečně daleko od zaoblených nůžek.",
+        "Sela upevnila nízké konstrukce a Tavi podával úvazy. Nikdo se nemusel stát Mend a nikdo nemusel zvládnout každou část.",
+        "Mend přivázala poslední roh látky. Pod kryty proudil vzduch a cesta k rostlinám zůstala volná.",
+        "Před západem slunce Sela zkontrolovala všechny tácy. „Jsou chráněné,“ řekla. Zelená stuha se rozvázala. Mend zbývaly dva sliby.",
+        "Mend se dívala na skromné kryty a zaplněný přístřešek. Plán nebyl velkolepý, ale každá rostlina měla potřebnou ochranu.",
+        "Po napití a odpočinku se přátelé vrátili k Rookovi. Modrá plachta čekala a tentokrát měla práce jasný konec."
+      ],
+      "introduction": "Společná práce a rozumný návrh ochrání sazenice.",
+      "title": "Místo pod menší střechou"
+    },
+    "de": {
+      "altTexts": [
+        "Sela und Tavi tragen eine Pflanzschale, während Mend Stoff misst.",
+        "Mend schneidet Stoff, während Hush das entfernte Ende festhält.",
+        "Sela befestigt einen niedrigen Rahmen, während Tavi ein Stoffband reicht.",
+        "Mend befestigt eine Ecke an einer der beiden niedrigen Abdeckungen.",
+        "Das grüne Band verblasst neben den fertigen Beetabdeckungen.",
+        "Die Freunde betrachten zwei niedrige Abdeckungen und die geschützten Pflanzschalen.",
+        "Mend kehrt nach einer Pause mit ihrer kleinen Werkzeugrolle zurück."
+      ],
+      "captions": [
+        "Am Nachmittag brachten Sela und Tavi die Schalen mit den empfindlichen Jungpflanzen in den Unterstand. Mend und Hush maßen Stoff für die beiden übrigen Beete.",
+        "Mend schnitt nur den abgemessenen Stoff. Hush hielt ihn auf dem Brett fest, beide Hände sicher von der abgerundeten Schere entfernt.",
+        "Sela setzte die niedrigen Rahmen ein. Tavi reichte die Bänder zum Festbinden. Niemand musste zu Mend werden oder jeden Teil allein erledigen.",
+        "Mend band die letzte Stoffecke fest. Unter den Abdeckungen blieb Platz für Luft und zwischen den Pflanzen ein freier Weg.",
+        "Vor Sonnenuntergang prüfte Sela jede Schale. „Sie sind geschützt“, sagte sie. Das grüne Band löste sich. Mend blieben zwei Versprechen.",
+        "Mend betrachtete die einfachen Abdeckungen und den vollen Unterstand. Der Plan war nicht prächtig, aber jede Pflanze hatte den nötigen Schutz.",
+        "Nach einem Getränk und einer Pause gingen sie zurück zu Rook. Das blaue Dach wartete, und diesmal hatte die Aufgabe ein Ende."
+      ],
+      "introduction": "Ein praktischer Plan und gemeinsame Arbeit schützen die Jungpflanzen.",
+      "title": "Platz unter einem kleineren Dach"
+    },
+    "en": {
+      "altTexts": [
+        "Sela and Tavi move seedling trays while Mend measures cover cloth.",
+        "Mend cuts measured cloth while Hush holds the far edge.",
+        "Sela fits a low cover frame as Tavi passes a cloth tie.",
+        "Mend secures a cloth corner on one of two low bed covers.",
+        "The green ribbon fades beside the completed nursery covers.",
+        "The friends admire the two low covers and the sheltered seedling trays.",
+        "Mend returns to the boatshed after a rest, carrying her small tool roll."
+      ],
+      "captions": [
+        "That afternoon, Sela and Tavi moved the tender trays into the shelter. Mend and Hush measured cloth for the two remaining beds.",
+        "Mend cut only the measured cloth. Hush held it flat on the workboard, with both hands safely away from the rounded scissors.",
+        "Sela fitted the low frames. Tavi passed the ties. No one had to become Mend, and no one had to do every part.",
+        "Mend fastened the last cloth corner. There was room for air beneath the covers, and a clear path to reach the plants.",
+        "Before sunset, Sela checked every tray. “They are protected,” she said. The green ribbon untied. Mend had two promises left.",
+        "Mend looked at the modest covers and the crowded shelter. The plan was not grand, but every plant had the protection it needed.",
+        "After a drink and a rest, the friends walked back to Rook. The blue awning waited, and this time the task had an end."
+      ],
+      "introduction": "The nursery is protected through shared work and a practical design.",
+      "title": "Room Beneath a Smaller Roof"
+    },
+    "es": {
+      "altTexts": [
+        "Sela y Tavi trasladan una bandeja mientras Mend mide tela.",
+        "Mend corta tela mientras Hush sostiene el borde más alejado.",
+        "Sela instala un marco bajo mientras Tavi entrega una tira de tela.",
+        "Mend asegura una esquina de una de las dos cubiertas bajas.",
+        "La cinta verde se desvanece junto a las cubiertas terminadas.",
+        "Los amigos admiran las dos cubiertas y las bandejas resguardadas.",
+        "Mend regresa al cobertizo con sus herramientas después de descansar."
+      ],
+      "captions": [
+        "Esa tarde, Sela y Tavi trasladaron las plantas delicadas al cobertizo. Mend y Hush midieron tela para los otros dos bancales.",
+        "Mend cortó solo la tela medida. Hush la sujetó sobre la tabla, con ambas manos lejos de las tijeras de punta redonda.",
+        "Sela colocó los marcos bajos. Tavi pasó las cintas de sujeción. Nadie tenía que convertirse en Mend ni encargarse de todas las partes.",
+        "Mend ató la última esquina. Bajo las cubiertas quedaba espacio para el aire, y el camino hasta las plantas seguía libre.",
+        "Antes del atardecer, Sela revisó cada bandeja. «Están protegidas», dijo. La cinta verde se desató. A Mend le quedaban dos promesas.",
+        "Mend miró las cubiertas modestas y el cobertizo lleno. No era un plan grandioso, pero cada planta tenía la protección que necesitaba.",
+        "Después de beber y descansar, volvieron con Rook. El toldo azul esperaba, y esta vez la tarea tenía un final."
+      ],
+      "introduction": "Un plan práctico y el trabajo compartido protegen el vivero.",
+      "title": "Espacio bajo un techo menor"
+    },
+    "fr": {
+      "altTexts": [
+        "Sela et Tavi portent un plateau tandis que Mend mesure le tissu.",
+        "Mend coupe le tissu et Hush tient le bord le plus éloigné.",
+        "Sela fixe un petit cadre tandis que Tavi lui passe une attache.",
+        "Mend fixe le coin de l’une des deux protections basses.",
+        "Le ruban vert se dissipe près des protections achevées.",
+        "Les amis admirent les deux protections et les plateaux mis à l’abri.",
+        "Mend revient au hangar avec sa trousse après une pause."
+      ],
+      "captions": [
+        "Cet après-midi-là, Sela et Tavi déplacèrent les plants fragiles sous l’abri. Mend et Hush mesurèrent le tissu pour les deux plates-bandes restantes.",
+        "Mend coupa seulement le tissu mesuré. Hush le maintenait sur la planche, les deux mains loin des ciseaux à bouts ronds.",
+        "Sela installa les petits cadres. Tavi passa les attaches. Personne n’avait à devenir Mend ni à faire toutes les étapes.",
+        "Mend attacha le dernier coin de tissu. L’air circulait sous les protections et le passage vers les plants restait libre.",
+        "Avant le coucher du soleil, Sela vérifia chaque plateau. « Ils sont protégés », dit-elle. Le ruban vert se dénoua. Mend n’avait plus que deux promesses.",
+        "Mend regarda les protections modestes et l’abri rempli. Le projet n’était pas grandiose, mais chaque plant avait la protection nécessaire.",
+        "Après avoir bu et fait une pause, les amis retournèrent chez Rook. L’auvent bleu attendait et, cette fois, la tâche avait une fin."
+      ],
+      "introduction": "Un projet pratique et un travail partagé protègent les plants.",
+      "title": "De la place sous un toit plus petit"
+    },
+    "hi": {
+      "altTexts": [
+        "दो पात्र पौधे ले जाते हैं, दो कपड़ा नापते हैं।",
+        "कपड़ा कटते समय हश के हाथ कैंची से सुरक्षित दूर हैं।",
+        "चारों पात्र छोटे आवरण लगाने में अलग-अलग काम करते हैं।",
+        "दो छोटे आवरणों में हवा का अंतर और बीच में साफ़ रास्ता है।",
+        "सेला काम स्वीकार करती है और हरा रिबन मिटता है।",
+        "पौधे दो छोटे आवरणों और पुरानी छत के नीचे सुरक्षित हैं।",
+        "आराम के बाद मेंड अपने छोटे औज़ारों का लपेटा हुआ थैला लेकर नावघर लौटती है।"
+      ],
+      "captions": [
+        "उस दोपहर सेला और तावी नाज़ुक पौधों वाली ट्रे छत के नीचे ले गए। मेंड और हश ने बची दो क्यारियों के लिए कपड़ा नापा।",
+        "मेंड ने केवल नापा कपड़ा काटा। हश ने पटरे पर कपड़ा सीधा रखा, दोनों हाथ गोल सिरे वाली कैंची से दूर थे।",
+        "सेला ने छोटे ढाँचे लगाए, तावी ने बाँधने की डोरियाँ दीं। किसी को मेंड नहीं बनना था और किसी को हर हिस्सा नहीं करना था।",
+        "मेंड ने कपड़े का अंतिम कोना बाँधा। नीचे हवा की जगह थी और पौधों तक जाने का रास्ता खुला था।",
+        "सूर्यास्त से पहले सेला ने हर ट्रे जाँची। “सब सुरक्षित हैं,” उसने कहा। हरा रिबन खुला। मेंड के दो वादे बचे।",
+        "मेंड ने छोटे आवरण और भरी छत वाली जगह देखी। योजना भव्य नहीं थी, लेकिन हर पौधे को ज़रूरी सुरक्षा मिली थी।",
+        "पानी पीकर और आराम करके दोस्त रूक के पास लौटे। नीला छाजन इंतज़ार में था। इस बार काम का अंत तय था।"
+      ],
+      "introduction": "सरल योजना और मिलकर काम करने से बारिश से पहले पौधे सुरक्षित होते हैं।",
+      "title": "छोटी छत के नीचे जगह"
+    },
+    "id": {
+      "altTexts": [
+        "Dua tokoh memindahkan baki sementara dua lainnya mengukur kain.",
+        "Pemotongan kain dilakukan dengan tangan Hush aman dari gunting.",
+        "Setiap tokoh mengerjakan bagian berbeda di sekitar penutup tanaman.",
+        "Dua penutup rendah menyisakan ventilasi dan jalan kebun yang terbuka.",
+        "Sela menerima hasil pekerjaan; pita hijau memudar.",
+        "Bibit terlindung di bawah dua penutup dan atap penyimpanan.",
+        "Setelah beristirahat, Mend kembali ke gudang perahu sambil membawa gulungan perkakas kecilnya."
+      ],
+      "captions": [
+        "Sore itu, Sela dan Tavi memindahkan baki berisi bibit yang rentan ke tempat berteduh. Mend dan Hush mengukur kain untuk dua petak yang tersisa.",
+        "Mend memotong kain sesuai ukuran. Hush menahannya rata di papan kerja, kedua tangan jauh dari gunting berujung bulat.",
+        "Sela memasang rangka rendah. Tavi menyerahkan tali pengikat. Tidak ada yang harus menjadi Mend, dan tidak ada yang mengerjakan semuanya.",
+        "Mend mengikat sudut kain terakhir. Masih ada ruang untuk udara di bawah penutup dan jalur kosong untuk menjangkau tanaman.",
+        "Sebelum matahari terbenam, Sela memeriksa semua baki. “Sudah terlindungi,” katanya. Pita hijau terlepas. Mend memiliki dua janji tersisa.",
+        "Mend memandang penutup sederhana dan tempat berteduh yang kini penuh. Rencananya tidak megah, tetapi setiap tanaman mendapatkan perlindungan yang diperlukan.",
+        "Setelah minum dan beristirahat, mereka berjalan kembali menemui Rook. Tudung biru menunggu. Kali ini, pekerjaan itu memiliki batas akhir."
+      ],
+      "introduction": "Perlindungan sederhana dan kerja bersama menjaga bibit sebelum hujan.",
+      "title": "Ruang di Bawah Atap yang Lebih Kecil"
+    },
+    "it": {
+      "altTexts": [
+        "Sela e Tavi portano un vassoio mentre Mend misura la stoffa.",
+        "Mend taglia la stoffa mentre Hush tiene il bordo lontano.",
+        "Sela monta un telaio basso mentre Tavi le porge un legaccio.",
+        "Mend fissa un angolo di una delle due coperture basse.",
+        "Il nastro verde svanisce vicino alle coperture finite.",
+        "Gli amici osservano le due coperture e i vassoi al riparo.",
+        "Mend torna al capanno con gli attrezzi dopo una pausa."
+      ],
+      "captions": [
+        "Quel pomeriggio Sela e Tavi portarono al riparo i vassoi con le piantine più delicate. Mend e Hush misurarono la stoffa per le altre due aiuole.",
+        "Mend tagliò soltanto la stoffa misurata. Hush la teneva distesa sul piano, con entrambe le mani lontane dalle forbici a punta arrotondata.",
+        "Sela montò i telai bassi. Tavi passò i legacci. Nessuno doveva diventare Mend e nessuno doveva fare ogni parte.",
+        "Mend fissò l’ultimo angolo. Sotto le coperture passava aria e il sentiero per raggiungere le piante restava libero.",
+        "Prima del tramonto Sela controllò ogni vassoio. «Sono protette», disse. Il nastro verde si sciolse. A Mend restavano due promesse.",
+        "Mend guardò le coperture modeste e il riparo pieno. Non era un piano grandioso, ma ogni pianta aveva la protezione necessaria.",
+        "Dopo aver bevuto e riposato, gli amici tornarono da Rook. La copertura blu aspettava e, questa volta, il compito aveva una fine."
+      ],
+      "introduction": "Un piano pratico e il lavoro condiviso proteggono le piantine.",
+      "title": "Spazio sotto un tetto più piccolo"
+    },
+    "ja": {
+      "altTexts": [
+        "二人が苗を運び、二人が布を測っています。",
+        "布を切る間、ハッシュの手ははさみから安全に離れています。",
+        "四人がそれぞれ違う役割で、低い覆いを作っています。",
+        "二つの低い覆いには通気の隙間があり、中央の道も通れます。",
+        "セラが完成を確かめ、緑のリボンが消えています。",
+        "二つの覆いと物置の屋根が、すべての苗を守っています。",
+        "休憩を終えたメンドが、小さな道具入れを持って船小屋に戻っています。"
+      ],
+      "captions": [
+        "その午後、セラとタヴィは弱い苗のトレーを屋根の下へ運びました。メンドとハッシュは、残る二つの苗床用の布を測りました。",
+        "メンドは測った分だけ布を切りました。ハッシュは板の上で布を押さえ、両手を丸い先のはさみから離していました。",
+        "セラが低い枠を取りつけ、タヴィがひもを渡しました。誰もメンドになる必要はなく、誰も全部をする必要はありません。",
+        "メンドが最後の布の角を留めました。覆いの下には風が通り、苗へ行く道も空いていました。",
+        "日暮れ前に、セラが全部のトレーを確認しました。「これで守れる」緑のリボンがほどけ、残る約束は二つになりました。",
+        "メンドは小さな覆いと、苗でいっぱいの屋根の下を見ました。大がかりではなくても、すべての苗に必要な保護がありました。",
+        "飲み物をとって休んだあと、三人はルークの所へ戻りました。青い雨よけが待っています。今度の仕事には、終わりがありました。"
+      ],
+      "introduction": "簡単な覆いと共同作業で、雨の前に苗を守ります。",
+      "title": "小さな屋根の下の居場所"
+    },
+    "ko": {
+      "altTexts": [
+        "두 인물은 모종을 옮기고 다른 두 인물은 천을 측정합니다.",
+        "천을 자르는 동안 허시의 손은 가위에서 안전하게 떨어져 있습니다.",
+        "네 인물이 서로 다른 역할로 낮은 덮개를 설치합니다.",
+        "두 덮개에 통풍 틈이 있고 가운데 길은 막히지 않았습니다.",
+        "셀라가 작업 완료를 확인하자 초록 리본이 사라집니다.",
+        "두 낮은 덮개와 보관 지붕이 모든 모종을 보호합니다.",
+        "휴식을 마친 멘드가 작은 공구 두루마리를 들고 배 창고로 돌아옵니다."
+      ],
+      "captions": [
+        "그날 오후 셀라와 타비는 연약한 모종이 담긴 쟁반을 지붕 아래로 옮겼습니다. 멘드와 허시는 남은 두 모판을 덮을 천을 쟀습니다.",
+        "멘드는 잰 만큼만 천을 잘랐습니다. 허시는 작업판 위에 천을 눌러 잡고 둥근 끝 가위에서 두 손을 멀리 두었습니다.",
+        "셀라가 낮은 틀을 설치하고 타비가 묶을 끈을 건넸습니다. 누구도 멘드가 될 필요가 없었고 누구도 모든 일을 맡지 않았습니다.",
+        "멘드가 마지막 천 귀퉁이를 고정했습니다. 덮개 아래로 공기가 통했고 모종에 다가갈 길도 비어 있었습니다.",
+        "해 지기 전 셀라가 모든 쟁반을 확인했습니다. “이제 보호됐어.” 초록 리본이 풀렸습니다. 멘드에게는 두 약속이 남았습니다.",
+        "멘드는 소박한 덮개와 가득 찬 지붕 아래를 보았습니다. 거창한 계획은 아니었지만 모든 모종이 필요한 보호를 받았습니다.",
+        "물을 마시고 쉰 뒤 친구들은 루크에게 돌아갔습니다. 파란 차양이 기다리고 있었습니다. 이번에는 끝이 있는 일이었습니다."
+      ],
+      "introduction": "친구들이 역할을 나누어 비가 오기 전에 모종을 보호합니다.",
+      "title": "작은 지붕 아래의 자리"
+    },
+    "pl": {
+      "altTexts": [
+        "Sela i Tavi niosą tacę, a Mend mierzy materiał.",
+        "Mend tnie materiał, a Hush trzyma dalszy brzeg.",
+        "Sela mocuje niską ramę, a Tavi podaje wiązanie.",
+        "Mend przywiązuje róg jednej z dwóch niskich osłon.",
+        "Zielona wstążka znika przy gotowych osłonach szkółki.",
+        "Przyjaciele oglądają dwie osłony i schowane tace z sadzonkami.",
+        "Po odpoczynku Mend wraca do szopy z małym zwijanym etui z narzędziami."
+      ],
+      "captions": [
+        "Po południu Sela i Tavi przenieśli delikatne sadzonki pod dach. Mend i Hush odmierzyli materiał na dwie pozostałe grządki.",
+        "Mend cięła tylko odmierzony materiał. Hush przytrzymywał go na desce, trzymając obie dłonie daleko od zaokrąglonych nożyczek.",
+        "Sela zamontowała niskie ramy. Tavi podawał wiązania. Nikt nie musiał stać się Mend ani robić każdej części zadania.",
+        "Mend umocowała ostatni róg. Pod osłonami pozostało miejsce na powietrze, a dojście do roślin było wolne.",
+        "Przed zachodem słońca Sela sprawdziła każdą tacę. „Są bezpieczne” — powiedziała. Zielona wstążka rozwiązała się. Mend zostały dwie obietnice.",
+        "Mend spojrzała na skromne osłony i pełny schowek. Plan nie był imponujący, ale każda roślina miała potrzebną ochronę.",
+        "Po napiciu się i odpoczynku wrócili do Rooka. Niebieska osłona czekała, a tym razem zadanie miało koniec."
+      ],
+      "introduction": "Praktyczny plan i wspólna praca chronią sadzonki.",
+      "title": "Miejsce pod mniejszym dachem"
+    },
+    "pt": {
+      "altTexts": [
+        "Sela e Tavi carregam uma bandeja enquanto Mend mede tecido.",
+        "Mend corta o tecido enquanto Hush segura a borda distante.",
+        "Sela instala uma armação baixa enquanto Tavi entrega uma tira.",
+        "Mend prende uma ponta de uma das duas coberturas baixas.",
+        "A fita verde desaparece junto das coberturas prontas do viveiro.",
+        "Os amigos observam as duas coberturas e as bandejas protegidas.",
+        "Mend volta ao galpão com suas ferramentas depois de descansar."
+      ],
+      "captions": [
+        "Naquela tarde, Sela e Tavi levaram para o abrigo as bandejas com as mudas mais delicadas. Mend e Hush mediram tecido para os dois canteiros restantes.",
+        "Mend cortou apenas o tecido medido. Hush o segurava na tábua, com ambas as mãos longe da tesoura de pontas arredondadas.",
+        "Sela encaixou as armações baixas. Tavi passou as tiras de amarrar. Ninguém precisava virar Mend, e ninguém precisava fazer todas as partes.",
+        "Mend amarrou a última ponta do tecido. Havia espaço para o ar sob as coberturas e um caminho livre até as plantas.",
+        "Antes do pôr do sol, Sela conferiu cada bandeja. “Estão protegidas”, disse. A fita verde se desamarrou. Restavam duas promessas para Mend.",
+        "Mend olhou para as coberturas modestas e o abrigo cheio. Não era um plano grandioso, mas cada planta tinha a proteção necessária.",
+        "Depois de beber e descansar, os amigos voltaram a Rook. A cobertura azul esperava e, dessa vez, a tarefa tinha um fim."
+      ],
+      "introduction": "Um plano prático e o trabalho compartilhado protegem as mudas.",
+      "title": "Espaço sob um teto menor"
+    },
+    "ru": {
+      "altTexts": [
+        "Села и Тави несут поднос, а Менд измеряет ткань.",
+        "Менд режет ткань, а Хаш держит её дальний край.",
+        "Села устанавливает низкую рамку, а Тави подаёт завязку.",
+        "Менд закрепляет угол одного из двух низких укрытий.",
+        "Зелёная лента исчезает возле законченных укрытий.",
+        "Друзья осматривают два укрытия и подносы с защищённой рассадой.",
+        "Менд возвращается после отдыха с маленьким свёртком инструментов."
+      ],
+      "captions": [
+        "Днём Села и Тави перенесли нежную рассаду под навес. Менд и Хаш отмерили ткань для двух оставшихся грядок.",
+        "Менд отрезала только отмеренную ткань. Хаш придерживал её на доске, держа обе руки подальше от ножниц с закруглёнными концами.",
+        "Села установила низкие рамки. Тави передал завязки. Никому не пришлось становиться Менд, и никому не пришлось делать всё.",
+        "Менд закрепила последний угол ткани. Под укрытиями оставалось место для воздуха, а дорожка к растениям была свободна.",
+        "До заката Села проверила каждый поднос. «Они укрыты», — сказала она. Зелёная лента развязалась. У Менд осталось два обещания.",
+        "Менд посмотрела на скромные укрытия и заполненный навес. План был не грандиозным, зато у каждого растения была нужная защита.",
+        "Попив воды и отдохнув, друзья вернулись к Руку. Синий навес ждал, и на этот раз у работы был конец."
+      ],
+      "introduction": "Практичный план и общая работа защищают рассаду.",
+      "title": "Место под крышей поменьше"
+    },
+    "tr": {
+      "altTexts": [
+        "Sela ile Tavi bir tepsi taşırken Mend kumaş ölçüyor.",
+        "Mend kumaş keserken Hush uzak kenarı tutuyor.",
+        "Sela alçak çerçeveyi takarken Tavi bir bağ uzatıyor.",
+        "Mend iki alçak örtüden birinin köşesini bağlıyor.",
+        "Yeşil kurdele tamamlanmış fide örtülerinin yanında kayboluyor.",
+        "Arkadaşlar iki alçak örtüyü ve korunan fide tepsilerini inceliyor.",
+        "Mend dinlenmeden sonra küçük alet rulosuyla kayıkhaneye dönüyor."
+      ],
+      "captions": [
+        "O öğleden sonra Sela ile Tavi hassas fidelerin bulunduğu tepsileri sundurmaya taşıdı. Mend ile Hush kalan iki yatağın kumaşını ölçtü.",
+        "Mend yalnızca ölçülen kumaşı kesti. Hush kumaşı tahtada düz tuttu; iki eli de yuvarlak uçlu makastan uzaktaydı.",
+        "Sela alçak çerçeveleri yerleştirdi. Tavi bağları uzattı. Kimse Mend olmak zorunda değildi; kimse her işi yapmıyordu.",
+        "Mend son kumaş köşesini bağladı. Örtülerin altında hava için boşluk, bitkilere ulaşmak için açık bir yol vardı.",
+        "Gün batmadan Sela her tepsiyi kontrol etti. “Korunuyorlar,” dedi. Yeşil kurdele çözüldü. Mend’in iki sözü kalmıştı.",
+        "Mend mütevazı örtülere ve dolu sundurmaya baktı. Plan gösterişli değildi, ama her bitki gerekli korumaya sahipti.",
+        "Su içip dinlendikten sonra Rook’a döndüler. Mavi tente bekliyordu ve bu kez işin bir sonu vardı."
+      ],
+      "introduction": "Gerçekçi bir plan ve ortak emek fideleri korur.",
+      "title": "Küçük Bir Çatının Altında Yer"
+    },
+    "vi": {
+      "altTexts": [
+        "Hai người chuyển cây, hai người đo vải.",
+        "Tay Hush giữ khoảng cách an toàn khi Mend cắt vải.",
+        "Mỗi nhân vật làm một việc khác nhau để dựng tấm phủ.",
+        "Hai tấm phủ thấp có khe thoáng, lối giữa vườn không bị chặn.",
+        "Sela xác nhận hoàn tất, dải xanh lá tan đi.",
+        "Cây được bảo vệ dưới hai tấm phủ và mái kho có sẵn.",
+        "Sau khi nghỉ, Mend mang cuộn dụng cụ nhỏ trở lại nhà thuyền."
+      ],
+      "captions": [
+        "Chiều ấy, Sela và Tavi chuyển khay cây yếu vào mái kho. Mend và Hush đo vải cho hai luống còn lại.",
+        "Mend cắt đúng phần đã đo. Hush giữ vải phẳng trên tấm kê, hai tay cách xa chiếc kéo đầu tròn.",
+        "Sela lắp khung thấp, Tavi đưa dây buộc. Không ai phải trở thành Mend, cũng không ai phải làm mọi phần.",
+        "Mend buộc góc vải cuối. Bên dưới còn chỗ thông khí, và lối đến cây vẫn thông thoáng.",
+        "Trước hoàng hôn, Sela kiểm tra mọi khay. “Được bảo vệ hết rồi,” cô nói. Dải xanh lá tháo ra. Mend còn hai lời hứa.",
+        "Mend nhìn những tấm phủ đơn giản và mái kho đầy khay. Kế hoạch không lớn lao, nhưng mỗi cây đều có sự che chở cần thiết.",
+        "Uống nước và nghỉ xong, các bạn đi lại chỗ Rook. Mái che xanh đang chờ; lần này công việc có điểm kết thúc."
+      ],
+      "introduction": "Cách làm đơn giản và sự hợp tác giúp bảo vệ cây trước mưa.",
+      "title": "Chỗ dưới mái che nhỏ"
+    },
+    "zh": {
+      "altTexts": [
+        "两人搬苗盘，另外两人在旁边测量布料。",
+        "剪布时，哈什的手与剪刀保持安全距离。",
+        "每个角色负责不同步骤，共同安装低盖布。",
+        "两顶低盖布下方通风，中央小路没有被挡住。",
+        "塞拉确认完成，绿色丝带逐渐消散。",
+        "两顶低盖布与储物棚共同护住全部幼苗。",
+        "休息后，门德带着小工具卷包回到船棚。"
+      ],
+      "captions": [
+        "那天下午，塞拉和塔维把装有娇嫩幼苗的盘子搬进棚子。门德与哈什量布，准备盖住剩下的两块苗床。",
+        "门德只剪下量好的布。哈什把布压平在工作板上，两只手都远离圆头剪刀。",
+        "塞拉装好低框架，塔维递上绑绳。谁都不用变成门德，也没有谁需要把所有事情包下来。",
+        "门德固定最后一个布角。盖布下面留有通风空隙，通往幼苗的路也保持畅通。",
+        "日落前，塞拉检查了所有苗盘。“都保护好了。”她说。绿色丝带解开，门德只剩两个承诺。",
+        "门德看着简单的盖布和装满苗盘的棚子。方案并不宏大，却给了每株幼苗所需的保护。",
+        "喝过水、休息后，朋友们走回鲁克那里。蓝色雨篷仍在等着，但这次，工作有了清楚的尽头。"
+      ],
+      "introduction": "朋友们合作，用简单办法在雨前保护好幼苗。",
+      "title": "小屋顶下也有足够的地方"
+    }
+  },
+  "number": 19,
+  "panels": [
+    {
+      "altText": "Sela and Tavi move seedling trays while Mend measures cover cloth.",
+      "image": "N02E19P01.png"
+    },
+    {
+      "altText": "Mend cuts measured cloth while Hush holds the far edge.",
+      "image": "N02E19P02.png"
+    },
+    {
+      "altText": "Sela fits a low cover frame as Tavi passes a cloth tie.",
+      "image": "N02E19P03.png"
+    },
+    {
+      "altText": "Mend secures a cloth corner on one of two low bed covers.",
+      "image": "N02E19P04.png"
+    },
+    {
+      "altText": "The green ribbon fades beside the completed nursery covers.",
+      "image": "N02E19P05.png"
+    },
+    {
+      "altText": "The friends admire the two low covers and the sheltered seedling trays.",
+      "image": "N02E19P06.png"
+    },
+    {
+      "altText": "Mend returns to the boatshed after a rest, carrying her small tool roll.",
+      "image": "N02E19P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

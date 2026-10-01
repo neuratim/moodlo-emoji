@@ -1,0 +1,439 @@
+{
+  "id": "N01E07",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "في صباح اليوم التالي، وصلت Nova إلى مكتب عرض الميناء لجمع صورة الشحنة. Sideeye، الذي يحتفظ بملفات الصور الخاصة بالمكتب، يقوم بترتيب عروض السفر التي تجعل حياة الآخرين تبدو سهلة.",
+        "بجانب تلك المعروضات توجد صورة مقتطعة لـ Rain، مأخوذة من الطريق العام لـ Meadowfold في أول يوم له هناك. وبدون بيت المزرعة والعشب الفارغ من حوله، فإن الصورة تجعل الحركة العادية تبدو مهددة.",
+        "يعترف Sideeye أن التفسير المثير للقلق كان من اختراعه، وليس شيئًا شهده المصور. كان يتحدث بثقة كي يتوقف الناس عند نافذته. تبقى Nova صامتة، فلا تمنحه عذرًا جاهزًا.",
+        "تبقى Nova بجوار النافذة لتصحيح القصة المنشورة عن Rain. على المكتب، يطلب Quest صورة مختلفة: الشحنة التي حددها Guff. يجب عدم الخلط بينها وبين صورة Rain.",
+        "على نفس المكتب، يقارن Hush صورة الشحنة بالمشبك بينما يراقب Quest. تظهر الصورة وعاء الذاكرة قبل العاصفة. يوجد على مشبكه شق صغير على شكل هلال يميز الصانع. نفس الشق يبقى على القطعة المكسورة الحقيقية، مما يعطي Quest تفاصيل لا يمكن للملصق التالف توفيرها.",
+        "عند النافذة، يزيل Sideeye القصة الكاذبة ويعرض صورة المرج كاملة مع التصحيح. لقد أعطى Nova طبعة ثانية، لكنها ستسأل Rain قبل استخدامها في مكان آخر. هذا اعتراف بالضرر، لكنه لا يمحوه.",
+        "في ذلك المساء في Meadowfold، لا تزال إحدى الصحف التي تم تسليمها تكرر الإشاعة القديمة. Mend تمرر طلب Nova باستخدام الصورة الكاملة فقط لتصحيحها. يضع Rain هذا الحد، ويطلب وضع الصحيفة جانبًا."
+      ],
+      "captions": [
+        "في صباح اليوم التالي، وصلت Nova إلى مكتب عرض الميناء لجمع صورة الشحنة. Sideeye، الذي يحتفظ بملفات الصور الخاصة بالمكتب، يقوم بترتيب عروض السفر التي تجعل حياة الآخرين تبدو سهلة.\n\nSideeye: \"يبدو أن الجميع يصلون إلى مكان ما. أما أنا فلا أفعل سوى عرض صورهم.\"",
+        "بجانب تلك المعروضات توجد صورة مقتطعة لـ Rain، مأخوذة من الطريق العام لـ Meadowfold في أول يوم له هناك. وبدون بيت المزرعة والعشب الفارغ من حوله، فإن الصورة تجعل الحركة العادية تبدو مهددة.\n\nNova: \"أين بقية هذه الصورة؟\"",
+        "يعترف Sideeye أن التفسير المثير للقلق كان من اختراعه، وليس شيئًا شهده المصور. كان يتحدث بثقة كي يتوقف الناس عند نافذته. تبقى Nova صامتة، فلا تمنحه عذرًا جاهزًا.\n\nSideeye: \"لقد استمع الناس عندما بدوت متأكدًا. قلت ذلك من دون أن أعرف ما حدث.\"",
+        "تبقى Nova بجوار النافذة لتصحيح القصة المنشورة عن Rain. على المكتب، يطلب Quest صورة مختلفة: الشحنة التي حددها Guff. يجب عدم الخلط بينها وبين صورة Rain.\n\nQuest: \"صورة التسليم، من فضلك - الصورة غير المقصوصة من سجل المناولة الذي يحتفظ به Guff.\"",
+        "على نفس المكتب، يقارن Hush صورة الشحنة بالمشبك بينما يراقب Quest. تظهر الصورة وعاء الذاكرة قبل العاصفة. يوجد على مشبكه شق صغير على شكل هلال يميز الصانع. نفس الشق يبقى على القطعة المكسورة الحقيقية، مما يعطي Quest تفاصيل لا يمكن للملصق التالف توفيرها.\n\nHush [بلغة الإشارة]: \"هناك. على المشبك، وليس على صورة Rain.\"",
+        "عند النافذة، يزيل Sideeye القصة الكاذبة ويعرض صورة المرج كاملة مع التصحيح. لقد أعطى Nova طبعة ثانية، لكنها ستسأل Rain قبل استخدامها في مكان آخر. هذا اعتراف بالضرر، لكنه لا يمحوه.\n\nSideeye: \"لم يكن Rain يهاجم أي شخص. لقد اخترعت هذا الادعاء، وأنا أقوم بتصحيحه.\"",
+        "في ذلك المساء في Meadowfold، لا تزال إحدى الصحف التي تم تسليمها تكرر الإشاعة القديمة. Mend تمرر طلب Nova باستخدام الصورة الكاملة فقط لتصحيحها. يضع Rain هذا الحد، ويطلب وضع الصحيفة جانبًا.\n\nRain: \"أغلقي الصحيفة، من فضلك. يمكن أن تستخدم Nova الصورة الكاملة لتصحيح الكذبة - لا لتجعلني موضوع خبر مثير آخر.\""
+      ],
+      "introduction": "يقود سجل المناولة لدى Guff الأصدقاء إلى مكتب العرض الخاص بـ Bellara. ولكن قبل أن يتمكنوا من فحص صورة الشحنة، ترى Nova كيف تم استخدام صورة أخرى لتخويف الناس بشأن Rain. إن العثور على الأدلة الآن يعني الفصل بين قصتين مختلفتين تمامًا.",
+      "title": "نافذة حياة أفضل"
+    },
+    "bn": {
+      "altTexts": [
+        "পরদিন সকালে Nova চালানের ছবি নিতে বন্দরের প্রদর্শন দপ্তরে যায়। ছবির নথি রাখে Sideeye। সে ভ্রমণের এমন সব ছবি সাজায়, যা দেখে মনে হয় অন্য সবার জীবন কত সহজ।",
+        "পাশেই Rain-এর একটি কেটে ছোট করা ছবি। Meadowfold-এ থাকার প্রথম দিন সেটি সাধারণের চলার পথ থেকে তোলা হয়েছিল। চারপাশের খালি ঘাস আর খামারবাড়ি বাদ পড়ায় Rain-এর স্বাভাবিক নড়াচড়াকেই হুমকি মনে হচ্ছে।",
+        "Sideeye স্বীকার করে, ভয় ধরানো ব্যাখ্যাটি সে নিজেই বানিয়েছিল। আলোকচিত্রী এমন কিছু দেখেনি। তার নিশ্চিত ভঙ্গির কথা শুনে লোকেরা জানালায় থামত। Nova চুপ থাকে; সহজ কোনো অজুহাত জুগিয়ে দেয় না।",
+        "Rain-এর ছবির ভুল ব্যাখ্যা সংশোধন করতে Nova জানালার পাশে থাকে। অন্যদিকে Quest ডেস্কে আলাদা একটি ছবি চায়—Guff যে চালানের কথা বলেছে, সেটির। Rain-এর ছবির সঙ্গে এর সম্পর্ক নেই।",
+        "একই ডেস্কে Hush আটকানির সঙ্গে চালানের ছবিটি মেলায়, আর Quest দেখে। ছবিতে ঝড়ের আগের স্মৃতির পাত্রটি আছে। তার আটকানিতে নির্মাতার ছোট অর্ধচন্দ্রাকার খাঁজ দেখা যায়। আসল ভাঙা অংশেও খাঁজটি রয়ে গেছে; নষ্ট লেবেল যে তথ্য দিতে পারেনি, এটি সেই সূত্র দেয়।",
+        "Sideeye জানালা থেকে মিথ্যা খবর সরিয়ে তৃণভূমির সম্পূর্ণ ছবি আর সংশোধনটি টাঙায়। Nova-কে আরেকটি ছবি দেয়। অন্য কোথাও ব্যবহার করার আগে Nova Rain-এর অনুমতি নেবে। ক্ষতি স্বীকার করা হয়েছে, কিন্তু তাতে ক্ষতি মুছে যায় না।",
+        "সেই সন্ধ্যায় Meadowfold-এ পৌঁছানো একটি সংবাদপত্রে এখনও পুরোনো গুজবটি আছে। Mend জানায়, Nova কেবল ভুল খবর সংশোধনের জন্য পুরো ছবিটি ব্যবহার করতে চায়। Rain সেই সীমা ঠিক করে দেয়, আর কাগজটি সরিয়ে রাখতে বলে।"
+      ],
+      "captions": [
+        "পরদিন সকালে Nova চালানের ছবি নিতে বন্দরের প্রদর্শন দপ্তরে যায়। ছবির নথি রাখে Sideeye। সে ভ্রমণের এমন সব ছবি সাজায়, যা দেখে মনে হয় অন্য সবার জীবন কত সহজ।\n\nSideeye: \"মনে হয় সবাই কোথাও এগিয়ে যাচ্ছে। আমি শুধু তাদের ছবি টাঙাই।\"",
+        "পাশেই Rain-এর একটি কেটে ছোট করা ছবি। Meadowfold-এ থাকার প্রথম দিন সেটি সাধারণের চলার পথ থেকে তোলা হয়েছিল। চারপাশের খালি ঘাস আর খামারবাড়ি বাদ পড়ায় Rain-এর স্বাভাবিক নড়াচড়াকেই হুমকি মনে হচ্ছে।\n\nNova: \"ছবির বাকি অংশ কোথায়?\"",
+        "Sideeye স্বীকার করে, ভয় ধরানো ব্যাখ্যাটি সে নিজেই বানিয়েছিল। আলোকচিত্রী এমন কিছু দেখেনি। তার নিশ্চিত ভঙ্গির কথা শুনে লোকেরা জানালায় থামত। Nova চুপ থাকে; সহজ কোনো অজুহাত জুগিয়ে দেয় না।\n\nSideeye: \"নিশ্চিতভাবে বললে সবাই শুনত। কী ঘটেছে না জেনেই বলেছিলাম।\"",
+        "Rain-এর ছবির ভুল ব্যাখ্যা সংশোধন করতে Nova জানালার পাশে থাকে। অন্যদিকে Quest ডেস্কে আলাদা একটি ছবি চায়—Guff যে চালানের কথা বলেছে, সেটির। Rain-এর ছবির সঙ্গে এর সম্পর্ক নেই।\n\nQuest: \"Guff-এর মাল ওঠানো-নামানোর নথিতে থাকা চালানের ছবিটি চাই। পুরো ছবিটি, কিছু বাদ না দিয়ে।\"",
+        "একই ডেস্কে Hush আটকানির সঙ্গে চালানের ছবিটি মেলায়, আর Quest দেখে। ছবিতে ঝড়ের আগের স্মৃতির পাত্রটি আছে। তার আটকানিতে নির্মাতার ছোট অর্ধচন্দ্রাকার খাঁজ দেখা যায়। আসল ভাঙা অংশেও খাঁজটি রয়ে গেছে; নষ্ট লেবেল যে তথ্য দিতে পারেনি, এটি সেই সূত্র দেয়।\n\nHush [ইশারার ভাষায়]: \"ওইখানে। আটকানির গায়ে, Rain-এর ছবিতে নয়।\"",
+        "Sideeye জানালা থেকে মিথ্যা খবর সরিয়ে তৃণভূমির সম্পূর্ণ ছবি আর সংশোধনটি টাঙায়। Nova-কে আরেকটি ছবি দেয়। অন্য কোথাও ব্যবহার করার আগে Nova Rain-এর অনুমতি নেবে। ক্ষতি স্বীকার করা হয়েছে, কিন্তু তাতে ক্ষতি মুছে যায় না।\n\nSideeye: \"Rain কাউকে আক্রমণ করেনি। কথাটা আমি বানিয়েছিলাম। এখন সংশোধন করছি।\"",
+        "সেই সন্ধ্যায় Meadowfold-এ পৌঁছানো একটি সংবাদপত্রে এখনও পুরোনো গুজবটি আছে। Mend জানায়, Nova কেবল ভুল খবর সংশোধনের জন্য পুরো ছবিটি ব্যবহার করতে চায়। Rain সেই সীমা ঠিক করে দেয়, আর কাগজটি সরিয়ে রাখতে বলে।\n\nRain: \"কাগজটা বন্ধ করো, দয়া করে। মিথ্যাটা ঠিক করতে Nova ছবিটি ব্যবহার করতে পারে। আমাকে নিয়ে আরেকটা চমকদার খবর বানাতে নয়।\""
+      ],
+      "introduction": "Guff-এর খাতা বন্ধুদের Bellara-এর প্রদর্শন দপ্তরে নিয়ে আসে। চালানের ছবি দেখার আগেই Nova দেখে, অন্য একটি ছবি দিয়ে Rain সম্পর্কে ভয় ছড়ানো হয়েছে। এবার সত্য খুঁজতে দুটি সম্পূর্ণ আলাদা ঘটনার ছবি আলাদা করে দেখতে হবে।",
+      "title": "সুন্দর জীবনের জানালা"
+    },
+    "cs": {
+      "altTexts": [
+        "Druhý den ráno Nova dorazí do přístavní výstavní kanceláře pro fotografii zásilky. Sideeye, který spravuje její obrazový archiv, aranžuje cestovatelské výlohy, v nichž život všech ostatních vypadá snadno.",
+        "Vedle výloh visí oříznutá fotografie Raina, pořízená z veřejné cesty na louce Meadowfold v jeho první den tam. Bez statku a prázdné louky kolem něj vypadá obyčejný pohyb hrozivě.",
+        "Sideeye přizná, že si děsivé vysvětlení vymyslel; fotograf nic takového neviděl. Sebejisté vyprávění přimělo lidi zastavit se u výlohy. Nova nechá zavládnout ticho tam, kde by se nabízela snadná výmluva.",
+        "Nova zůstane u výlohy, aby napravila vyznění Rainovy fotografie. Quest u stolu požádá o jiný snímek: o zásilku, kterou určil Guff. S Rainovým snímkem se nesmí zaměnit.",
+        "U stejného stolu Hush porovnává fotografii zásilky se sponou a Quest přihlíží. Snímek ukazuje pouzdro před bouří. Na jeho sponě je drobný půlměsícový zářez výrobce. Stejný zářez se zachoval i na skutečném poškozeném dílu a poskytuje detail, který z poničeného štítku nevyčetli.",
+        "Sideeye odstraní z výlohy nepravdivý příběh a vystaví celý snímek louky s opravou. Nově dá druhý výtisk, ale ona se před jeho dalším použitím zeptá Raina. Způsobenou újmu přiznají, neodmáznou ji pouhým přáním.",
+        "Toho večera na louce Meadowfold doručené noviny stále opakují starou fámu. Mend předá Novinu žádost použít celý snímek výhradně k její opravě. Rain stanoví tuto hranici a požádá, aby noviny odložili."
+      ],
+      "captions": [
+        "Druhý den ráno Nova dorazí do přístavní výstavní kanceláře pro fotografii zásilky. Sideeye, který spravuje její obrazový archiv, aranžuje cestovatelské výlohy, v nichž život všech ostatních vypadá snadno.\n\nSideeye: „Všichni ostatní se někam dostávají. Já jen vyvěšuji jejich obrázky.“",
+        "Vedle výloh visí oříznutá fotografie Raina, pořízená z veřejné cesty na louce Meadowfold v jeho první den tam. Bez statku a prázdné louky kolem něj vypadá obyčejný pohyb hrozivě.\n\nNova: „Kde je zbytek toho snímku?“",
+        "Sideeye přizná, že si děsivé vysvětlení vymyslel; fotograf nic takového neviděl. Sebejisté vyprávění přimělo lidi zastavit se u výlohy. Nova nechá zavládnout ticho tam, kde by se nabízela snadná výmluva.\n\nSideeye: „Když jsem mluvil sebejistě, lidé poslouchali. Řekl jsem to, aniž bych věděl, co se stalo.“",
+        "Nova zůstane u výlohy, aby napravila vyznění Rainovy fotografie. Quest u stolu požádá o jiný snímek: o zásilku, kterou určil Guff. S Rainovým snímkem se nesmí zaměnit.\n\nQuest: „Prosím o fotografii zásilky, tu neoříznutou z Guffova přepravního záznamu.“",
+        "U stejného stolu Hush porovnává fotografii zásilky se sponou a Quest přihlíží. Snímek ukazuje pouzdro před bouří. Na jeho sponě je drobný půlměsícový zářez výrobce. Stejný zářez se zachoval i na skutečném poškozeném dílu a poskytuje detail, který z poničeného štítku nevyčetli.\n\nHush [znakuje]: „Tady. Na sponě, ne na Rainově fotografii.“",
+        "Sideeye odstraní z výlohy nepravdivý příběh a vystaví celý snímek louky s opravou. Nově dá druhý výtisk, ale ona se před jeho dalším použitím zeptá Raina. Způsobenou újmu přiznají, neodmáznou ji pouhým přáním.\n\nSideeye: „Rain na nikoho neútočil. To tvrzení jsem si vymyslel a teď ho opravuji.“",
+        "Toho večera na louce Meadowfold doručené noviny stále opakují starou fámu. Mend předá Novinu žádost použít celý snímek výhradně k její opravě. Rain stanoví tuto hranici a požádá, aby noviny odložili.\n\nRain: „Prosím, zavři je. Nova může celý snímek použít k opravě lži, ne k dalšímu titulku.“"
+      ],
+      "introduction": "Guffova evidence přivede přátele do výstavní kanceláře v Bellaře. Než však mohou prohlédnout fotografii zásilky, Nova zjistí, že jiný snímek posloužil k šíření strachu z Raina. Při hledání důkazů teď musejí odlišit dva zcela rozdílné příběhy.",
+      "title": "Výloha lepších životů"
+    },
+    "de": {
+      "altTexts": [
+        "Am nächsten Morgen erreicht Nova das Ausstellungsbüro am Hafen, um das Sendungsfoto abzuholen. Sideeye, der die Bilddateien des Büros verwaltet, arrangiert Reisepräsentationen, die jedes andere Leben mühelos aussehen lassen.",
+        "Neben diesen Ausstellungsstücken befindet sich ein beschnittenes Foto von Rain, das an seinem ersten Tag dort auf der öffentlichen Straße von Meadowfold aufgenommen wurde. Ohne das Bauernhaus und das leere Gras um ihn herum lässt das Bild eine gewöhnliche Bewegung bedrohlich wirken.",
+        "Sideeye gibt zu, dass die alarmierende Erklärung seine Erfindung war und nicht etwas, was der Fotograf gesehen hatte. Sein selbstsicheres Auftreten ließ die Leute vor seinem Schaufenster stehen bleiben. Nova hinterlässt eine Stille, wo eine einfache Ausrede hätte sein können.",
+        "Nova bleibt am Fenster, um das Bild von Rain in Ordnung zu bringen. Am Schreibtisch bittet Quest um ein anderes Foto: die von Guff identifizierte Sendung. Es darf nicht mit dem Bild von Rain verwechselt werden.",
+        "Am selben Schreibtisch vergleicht Hush das Sendungsfoto mit der Schließe, während Quest zusieht. Das Foto zeigt den Träger vor dem Sturm. Auf der Schließe befindet sich eine kleine Halbmondkerbe. Die gleiche Kerbe ist auf dem echten Bruchstück erhalten geblieben, sodass Quest ein Detail erkennen kann, das das beschädigte Etikett nicht mehr hergab.",
+        "Am Fenster entfernt Sideeye die falsche Geschichte und zeigt das vollständige Wiesenfoto mit einer Korrektur an. Er gibt Nova einen zweiten Ausdruck, aber sie wird Rain fragen, bevor sie ihn woanders verwendet. Der Schaden wird anerkannt und nicht weggewünscht.",
+        "An diesem Abend in Meadowfold wiederholt eine zugestellte Zeitung immer noch das alte Gerücht. Mend gibt die Bitte von Nova weiter, das vollständige Foto nur zur Korrektur zu verwenden. Rain legt diese Grenze fest – und bittet darum, die Zeitung wegzulegen."
+      ],
+      "captions": [
+        "Am nächsten Morgen erreicht Nova das Ausstellungsbüro am Hafen, um das Sendungsfoto abzuholen. Sideeye, der die Bilddateien des Büros verwaltet, arrangiert Reisepräsentationen, die jedes andere Leben mühelos aussehen lassen.\n\nSideeye: „Alle anderen scheinen etwas zu erreichen. Ich hänge nur ihre Bilder auf.“",
+        "Neben diesen Ausstellungsstücken befindet sich ein beschnittenes Foto von Rain, das an seinem ersten Tag dort auf der öffentlichen Straße von Meadowfold aufgenommen wurde. Ohne das Bauernhaus und das leere Gras um ihn herum lässt das Bild eine gewöhnliche Bewegung bedrohlich wirken.\n\nNova: „Wo ist der Rest dieses Bildes?“",
+        "Sideeye gibt zu, dass die alarmierende Erklärung seine Erfindung war und nicht etwas, was der Fotograf gesehen hatte. Sein selbstsicheres Auftreten ließ die Leute vor seinem Schaufenster stehen bleiben. Nova hinterlässt eine Stille, wo eine einfache Ausrede hätte sein können.\n\nSideeye: „Die Leute hörten zu, als ich sicher klang. Ich habe das behauptet, ohne zu wissen, was passiert war.“",
+        "Nova bleibt am Fenster, um das Bild von Rain in Ordnung zu bringen. Am Schreibtisch bittet Quest um ein anderes Foto: die von Guff identifizierte Sendung. Es darf nicht mit dem Bild von Rain verwechselt werden.\n\nQuest: „Das Lieferfoto bitte – das unbeschnittene aus dem Umschlagprotokoll von Guff.“",
+        "Am selben Schreibtisch vergleicht Hush das Sendungsfoto mit der Schließe, während Quest zusieht. Das Foto zeigt den Träger vor dem Sturm. Auf der Schließe befindet sich eine kleine Halbmondkerbe. Die gleiche Kerbe ist auf dem echten Bruchstück erhalten geblieben, sodass Quest ein Detail erkennen kann, das das beschädigte Etikett nicht mehr hergab.\n\nHush [gebärdet]: „Da. Auf der Schließe – nicht auf dem Bild von Rain.“",
+        "Am Fenster entfernt Sideeye die falsche Geschichte und zeigt das vollständige Wiesenfoto mit einer Korrektur an. Er gibt Nova einen zweiten Ausdruck, aber sie wird Rain fragen, bevor sie ihn woanders verwendet. Der Schaden wird anerkannt und nicht weggewünscht.\n\nSideeye: „Rain hat niemanden angegriffen. Ich habe diese Behauptung erfunden und korrigiere sie.“",
+        "An diesem Abend in Meadowfold wiederholt eine zugestellte Zeitung immer noch das alte Gerücht. Mend gibt die Bitte von Nova weiter, das vollständige Foto nur zur Korrektur zu verwenden. Rain legt diese Grenze fest – und bittet darum, die Zeitung wegzulegen.\n\nRain: „Klapp sie bitte zu. Nova darf das vollständige Bild nutzen, um die Lüge richtigzustellen – nicht für eine neue Schlagzeile.“"
+      ],
+      "introduction": "Das Frachtbuch von Guff führt die Freunde zum Ausstellungsbüro von Bellara. Doch bevor sie das Versandfoto inspizieren können, sieht Nova, wie ein anderes Bild verwendet wurde, um Menschen wegen Rain zu verängstigen. Jetzt Beweise zu finden bedeutet, zwei sehr unterschiedliche Geschichten zu trennen.",
+      "title": "Das Schaufenster der besseren Leben"
+    },
+    "en": {
+      "altTexts": [
+        "The next morning, Nova reaches the harbor display office to collect the shipment photograph. Sideeye, who keeps the office's picture files, is arranging travel displays that make every other life look effortless.",
+        "Beside those displays is a cropped photograph of Rain, taken from Meadowfold's public road on his first day there. Without the farmhouse and empty grass around him, the picture makes an ordinary movement look threatening.",
+        "Sideeye admits that the alarming explanation was his invention, not something the photographer witnessed. Sounding certain made people stop at his window. Nova leaves a silence where an easy excuse might have gone.",
+        "Nova stays by the window to put Rain's picture right. At the desk, Quest asks for a different photograph: the shipment Guff identified. It must not be confused with the picture of Rain.",
+        "At the same desk, Hush compares the shipment photograph with the clasp while Quest watches. The photograph shows the carrier before the storm. On its clasp is a tiny crescent maker's notch. The same notch survives on the real broken piece, giving Quest a detail the damaged label could not supply.",
+        "At the window, Sideeye removes the false story and displays the full meadow photograph with a correction. He gives Nova a second print, but she will ask Rain before using it elsewhere. The harm is acknowledged, not wished away.",
+        "That evening in Meadowfold, a delivered newspaper still repeats the old rumor. Mend passes on Nova's request to use the full photograph only to correct it. Rain sets that limit—and asks to put the newspaper away."
+      ],
+      "captions": [
+        "The next morning, Nova reaches the harbor display office to collect the shipment photograph. Sideeye, who keeps the office's picture files, is arranging travel displays that make every other life look effortless.\n\nSideeye: “Everyone else seems to get somewhere. I just put up their pictures.”",
+        "Beside those displays is a cropped photograph of Rain, taken from Meadowfold's public road on his first day there. Without the farmhouse and empty grass around him, the picture makes an ordinary movement look threatening.\n\nNova: “Where is the rest of this picture?”",
+        "Sideeye admits that the alarming explanation was his invention, not something the photographer witnessed. Sounding certain made people stop at his window. Nova leaves a silence where an easy excuse might have gone.\n\nSideeye: “People listened when I sounded certain. I said it without knowing what happened.”",
+        "Nova stays by the window to put Rain's picture right. At the desk, Quest asks for a different photograph: the shipment Guff identified. It must not be confused with the picture of Rain.\n\nQuest: “The delivery photograph, please—the uncropped one from Guff's handling record.”",
+        "At the same desk, Hush compares the shipment photograph with the clasp while Quest watches. The photograph shows the carrier before the storm. On its clasp is a tiny crescent maker's notch. The same notch survives on the real broken piece, giving Quest a detail the damaged label could not supply.\n\nHush [signing]: “There. On the clasp—not on Rain's picture.”",
+        "At the window, Sideeye removes the false story and displays the full meadow photograph with a correction. He gives Nova a second print, but she will ask Rain before using it elsewhere. The harm is acknowledged, not wished away.\n\nSideeye: “Rain wasn't attacking anyone. I invented that claim, and I'm correcting it.”",
+        "That evening in Meadowfold, a delivered newspaper still repeats the old rumor. Mend passes on Nova's request to use the full photograph only to correct it. Rain sets that limit—and asks to put the newspaper away.\n\nRain: “Close it, please. Nova may use the full picture to correct the lie—not make another headline.”"
+      ],
+      "introduction": "Guff's ledger leads the friends to Bellara's display office. But before they can inspect the shipment photograph, Nova sees how another picture has been used to frighten people about Rain. Finding evidence now means separating two very different stories.",
+      "title": "The Window of Better Lives"
+    },
+    "es": {
+      "altTexts": [
+        "A la mañana siguiente, Nova llega a la oficina de exhibición del puerto para recoger la fotografía del envío. Sideeye, que guarda los archivos de fotografías de la oficina, está organizando exhibidores de viajes que hacen que cualquier otra vida parezca sencilla.",
+        "Junto a esos expositores hay una fotografía recortada de Rain, tomada desde la vía pública de Meadowfold en su primer día allí. Sin la granja y el césped vacío a su alrededor, la imagen hace que un movimiento ordinario parezca amenazador.",
+        "Sideeye admite que la explicación alarmante fue su invención, no algo que el fotógrafo presenciara. Sonar seguro hizo que la gente se detuviera ante su escaparate. Nova deja un silencio donde podría haber ido una excusa fácil.",
+        "Nova se queda junto al escaparate para corregir la imagen de Rain. En el escritorio, Quest solicita otra fotografía: el envío que identificó Guff. No debe confundirse con la imagen de Rain.",
+        "En el mismo escritorio, Hush compara la fotografía del envío con el cierre mientras Quest observa. La fotografía muestra el receptáculo antes de la tormenta. En su cierre hay una pequeña muesca de forma de media luna. La misma muesca sobrevive en la pieza rota real, dándole a Quest un detalle que la etiqueta dañada no pudo proporcionar.",
+        "En el escaparate, Sideeye elimina la historia falsa y muestra la fotografía completa del prado con una corrección. Él le da a Nova una segunda copia, pero ella le preguntará a Rain antes de usarla en otro lugar. El daño se reconoce, sin fingir que ha desaparecido.",
+        "Aquella tarde en Meadowfold, un periódico entregado sigue repitiendo el viejo rumor. Mend transmite la petición de Nova de utilizar la fotografía completa solo para desmentir el rumor. Rain establece ese límite y pide guardar el periódico."
+      ],
+      "captions": [
+        "A la mañana siguiente, Nova llega a la oficina de exhibición del puerto para recoger la fotografía del envío. Sideeye, que guarda los archivos de fotografías de la oficina, está organizando exhibidores de viajes que hacen que cualquier otra vida parezca sencilla.\n\nSideeye: \"Todos los demás parecen llegar a alguna parte. Yo sólo pongo sus fotos\".",
+        "Junto a esos expositores hay una fotografía recortada de Rain, tomada desde la vía pública de Meadowfold en su primer día allí. Sin la granja y el césped vacío a su alrededor, la imagen hace que un movimiento ordinario parezca amenazador.\n\nNova: \"¿Dónde está el resto de esta imagen?\"",
+        "Sideeye admite que la explicación alarmante fue su invención, no algo que el fotógrafo presenciara. Sonar seguro hizo que la gente se detuviera ante su escaparate. Nova deja un silencio donde podría haber ido una excusa fácil.\n\nSideeye: \"La gente escuchó cuando parecía seguro. Lo dije sin saber qué había pasado\".",
+        "Nova se queda junto al escaparate para corregir la imagen de Rain. En el escritorio, Quest solicita otra fotografía: el envío que identificó Guff. No debe confundirse con la imagen de Rain.\n\nQuest: \"La fotografía de entrega, por favor, la que está sin recortar en el registro de manipulación de Guff\".",
+        "En el mismo escritorio, Hush compara la fotografía del envío con el cierre mientras Quest observa. La fotografía muestra el receptáculo antes de la tormenta. En su cierre hay una pequeña muesca de forma de media luna. La misma muesca sobrevive en la pieza rota real, dándole a Quest un detalle que la etiqueta dañada no pudo proporcionar.\n\nHush [en lengua de signos]: \"Ahí. En el cierre, no en la foto de Rain\".",
+        "En el escaparate, Sideeye elimina la historia falsa y muestra la fotografía completa del prado con una corrección. Él le da a Nova una segunda copia, pero ella le preguntará a Rain antes de usarla en otro lugar. El daño se reconoce, sin fingir que ha desaparecido.\n\nSideeye: \"Rain no estaba atacando a nadie. Inventé esa afirmación y la estoy corrigiendo\".",
+        "Aquella tarde en Meadowfold, un periódico entregado sigue repitiendo el viejo rumor. Mend transmite la petición de Nova de utilizar la fotografía completa solo para desmentir el rumor. Rain establece ese límite y pide guardar el periódico.\n\nRain: \"Ciérralo, por favor. Nova puede usar la imagen completa para corregir la mentira, no para hacer otro titular\"."
+      ],
+      "introduction": "El libro de contabilidad de Guff lleva a los amigos a la oficina de exhibición de Bellara. Pero antes de que puedan inspeccionar la fotografía del envío, Nova ve cómo se ha utilizado otra imagen para asustar a la gente sobre Rain. Encontrar pruebas ahora significa separar dos historias muy diferentes.",
+      "title": "El escaparate de una vida mejor"
+    },
+    "fr": {
+      "altTexts": [
+        "Le lendemain matin, Nova arrive au bureau d'exposition du port pour récupérer la photo de l'expédition. Sideeye, qui conserve les fichiers d'images du bureau, organise des expositions de voyage qui donnent l'impression que toute autre vie se déroule sans effort.",
+        "À côté de ces expositions se trouve une photographie recadrée de Rain, prise sur la voie publique de Meadowfold lors de son premier jour là-bas. Sans la ferme et l’herbe vide autour de lui, l’image donne à un mouvement ordinaire un aspect menaçant.",
+        "Sideeye admet que l’explication alarmante était son invention et non quelque chose dont le photographe a été témoin. Son ton assuré faisait s'arrêter les gens devant sa vitrine. Nova laisse un silence là où une excuse facile aurait pu prendre place.",
+        "Nova reste près de la vitrine pour corriger l'image de Rain. Au comptoir, Quest demande une autre photographie : l'envoi identifié par Guff. Il ne faut pas la confondre avec l'image de Rain.",
+        "Au même bureau, Hush compare la photographie d'expédition avec le fermoir tandis que Quest regarde. La photographie montre le réceptacle avant la tempête. Sur son fermoir se trouve une petite encoche de fabricant en forme de croissant. La même encoche survit sur la véritable pièce cassée, donnant à Quest un détail que l'étiquette endommagée ne pouvait pas fournir.",
+        "À la vitrine, Sideeye supprime la fausse histoire et affiche la photographie complète de la prairie avec une correction. Il donne un deuxième tirage à Nova, mais elle demandera à Rain avant de l'utiliser ailleurs. Le tort causé est reconnu, pas effacé par un simple souhait.",
+        "Ce soir-là dans Meadowfold, un journal livré répète encore la vieille rumeur. Mend transmet la demande de Nova d'utiliser la photographie complète uniquement pour la corriger. Rain fixe cette limite et demande de ranger le journal."
+      ],
+      "captions": [
+        "Le lendemain matin, Nova arrive au bureau d'exposition du port pour récupérer la photo de l'expédition. Sideeye, qui conserve les fichiers d'images du bureau, organise des expositions de voyage qui donnent l'impression que toute autre vie se déroule sans effort.\n\nSideeye : « Tout le monde semble arriver à quelque chose. Moi, je ne fais qu'afficher leurs photos. »",
+        "À côté de ces expositions se trouve une photographie recadrée de Rain, prise sur la voie publique de Meadowfold lors de son premier jour là-bas. Sans la ferme et l’herbe vide autour de lui, l’image donne à un mouvement ordinaire un aspect menaçant.\n\nNova : « Où est le reste de cette photo ? »",
+        "Sideeye admet que l’explication alarmante était son invention et non quelque chose dont le photographe a été témoin. Son ton assuré faisait s'arrêter les gens devant sa vitrine. Nova laisse un silence là où une excuse facile aurait pu prendre place.\n\nSideeye : « Les gens écoutaient quand j'avais l'air certain. Je l'ai affirmé sans savoir ce qui s'était passé. »",
+        "Nova reste près de la vitrine pour corriger l'image de Rain. Au comptoir, Quest demande une autre photographie : l'envoi identifié par Guff. Il ne faut pas la confondre avec l'image de Rain.\n\nQuest : « La photo de livraison, s'il vous plaît – celle non recadrée du dossier de manutention de Guff. »",
+        "Au même bureau, Hush compare la photographie d'expédition avec le fermoir tandis que Quest regarde. La photographie montre le réceptacle avant la tempête. Sur son fermoir se trouve une petite encoche de fabricant en forme de croissant. La même encoche survit sur la véritable pièce cassée, donnant à Quest un détail que l'étiquette endommagée ne pouvait pas fournir.\n\nHush [signe] : « Là. Sur le fermoir, pas sur la photo de Rain. »",
+        "À la vitrine, Sideeye supprime la fausse histoire et affiche la photographie complète de la prairie avec une correction. Il donne un deuxième tirage à Nova, mais elle demandera à Rain avant de l'utiliser ailleurs. Le tort causé est reconnu, pas effacé par un simple souhait.\n\nSideeye : « Rain n'attaquait personne. J'ai inventé cette affirmation et je la corrige. »",
+        "Ce soir-là dans Meadowfold, un journal livré répète encore la vieille rumeur. Mend transmet la demande de Nova d'utiliser la photographie complète uniquement pour la corriger. Rain fixe cette limite et demande de ranger le journal.\n\nRain : « Ferme-le, s'il te plaît. Nova peut utiliser l'image complète pour corriger le mensonge, pas faire un autre titre. »"
+      ],
+      "introduction": "Le registre de Guff conduit les amis au bureau d'affichage de Bellara. Mais avant de pouvoir inspecter la photo de l'expédition, Nova voit comment une autre photo a été utilisée pour effrayer les gens à propos de Rain. Trouver des preuves signifie désormais séparer deux histoires très différentes.",
+      "title": "La vitrine des vies meilleures"
+    },
+    "hi": {
+      "altTexts": [
+        "अगली सुबह Nova माल की तस्वीर लेने बंदरगाह के प्रदर्शन कार्यालय पहुँचती है। तस्वीरों की फ़ाइलें रखने वाला Sideeye यात्रा की तस्वीरें सजा रहा है। उन्हें देखकर लगता है जैसे दूसरों का जीवन कितना आसान हो।",
+        "पास ही Rain की कटी हुई तस्वीर लगी है। Meadowfold में उसके पहले दिन वह सार्वजनिक रास्ते से ली गई थी। फार्महाउस और आसपास की खाली घास हटा देने पर उसकी सामान्य हरकत भी डरावनी लगती है।",
+        "Sideeye मानता है कि डरावनी बात उसने खुद गढ़ी थी। फ़ोटोग्राफ़र ने ऐसा कुछ नहीं देखा था। पक्के विश्वास से बोलने पर लोग उसकी खिड़की पर रुकते थे। Nova चुप रहती है, उसे आसान बहाना नहीं देती।",
+        "Rain के बारे में गलत बात ठीक कराने Nova खिड़की के पास रहती है। मेज़ पर Quest दूसरी तस्वीर माँगता है—उस माल की जिसे Guff ने पहचाना था। उसे Rain की तस्वीर से नहीं मिलाना चाहिए।",
+        "उसी मेज़ पर Hush माल की तस्वीर से क्लिप मिलाता है और Quest देखता है। तस्वीर में तूफ़ान से पहले का स्मृति-पात्र है। उसकी क्लिप पर निर्माता का छोटा अर्धचंद्राकार खाँचा है। असली टूटे हिस्से पर भी वही खाँचा बचा है, जो खराब लेबल से न मिली जानकारी देता है।",
+        "Sideeye झूठी कहानी हटाकर मैदान की पूरी तस्वीर और सुधार लगाता है। Nova को दूसरी प्रति देता है। वह कहीं और इस्तेमाल करने से पहले Rain से पूछेगी। नुकसान स्वीकार किया गया है, मगर इससे वह मिट नहीं जाता।",
+        "उस शाम Meadowfold पहुँचे अखबार में पुरानी अफ़वाह अब भी है। Mend बताती है कि Nova सिर्फ़ झूठ सुधारने के लिए पूरी तस्वीर इस्तेमाल करना चाहती है। Rain यही सीमा तय करता है और अखबार हटाने को कहता है।"
+      ],
+      "captions": [
+        "अगली सुबह Nova माल की तस्वीर लेने बंदरगाह के प्रदर्शन कार्यालय पहुँचती है। तस्वीरों की फ़ाइलें रखने वाला Sideeye यात्रा की तस्वीरें सजा रहा है। उन्हें देखकर लगता है जैसे दूसरों का जीवन कितना आसान हो।\n\nSideeye: \"लगता है सब कहीं आगे बढ़ रहे हैं। मैं बस उनकी तस्वीरें लगाता हूँ।\"",
+        "पास ही Rain की कटी हुई तस्वीर लगी है। Meadowfold में उसके पहले दिन वह सार्वजनिक रास्ते से ली गई थी। फार्महाउस और आसपास की खाली घास हटा देने पर उसकी सामान्य हरकत भी डरावनी लगती है।\n\nNova: \"इस तस्वीर का बाकी हिस्सा कहाँ है?\"",
+        "Sideeye मानता है कि डरावनी बात उसने खुद गढ़ी थी। फ़ोटोग्राफ़र ने ऐसा कुछ नहीं देखा था। पक्के विश्वास से बोलने पर लोग उसकी खिड़की पर रुकते थे। Nova चुप रहती है, उसे आसान बहाना नहीं देती।\n\nSideeye: \"यकीन से बोलता था तो लोग सुनते थे। क्या हुआ था, जाने बिना कह दिया।\"",
+        "Rain के बारे में गलत बात ठीक कराने Nova खिड़की के पास रहती है। मेज़ पर Quest दूसरी तस्वीर माँगता है—उस माल की जिसे Guff ने पहचाना था। उसे Rain की तस्वीर से नहीं मिलाना चाहिए।\n\nQuest: \"माल आने की पूरी तस्वीर चाहिए, Guff के रिकॉर्ड वाली। कोई हिस्सा काटे बिना।\"",
+        "उसी मेज़ पर Hush माल की तस्वीर से क्लिप मिलाता है और Quest देखता है। तस्वीर में तूफ़ान से पहले का स्मृति-पात्र है। उसकी क्लिप पर निर्माता का छोटा अर्धचंद्राकार खाँचा है। असली टूटे हिस्से पर भी वही खाँचा बचा है, जो खराब लेबल से न मिली जानकारी देता है।\n\nHush [सांकेतिक भाषा में]: \"यहाँ। क्लिप पर, Rain की तस्वीर पर नहीं।\"",
+        "Sideeye झूठी कहानी हटाकर मैदान की पूरी तस्वीर और सुधार लगाता है। Nova को दूसरी प्रति देता है। वह कहीं और इस्तेमाल करने से पहले Rain से पूछेगी। नुकसान स्वीकार किया गया है, मगर इससे वह मिट नहीं जाता।\n\nSideeye: \"Rain किसी पर हमला नहीं कर रहा था। यह बात मैंने गढ़ी थी। अब सुधार रहा हूँ।\"",
+        "उस शाम Meadowfold पहुँचे अखबार में पुरानी अफ़वाह अब भी है। Mend बताती है कि Nova सिर्फ़ झूठ सुधारने के लिए पूरी तस्वीर इस्तेमाल करना चाहती है। Rain यही सीमा तय करता है और अखबार हटाने को कहता है।\n\nRain: \"अखबार बंद कर दो, कृपया। Nova तस्वीर से झूठ सुधार सकती है। मुझे लेकर नई सनसनी बनाने के लिए नहीं।\""
+      ],
+      "introduction": "Guff का बही-खाता दोस्तों को Bellara के प्रदर्शन कार्यालय ले आता है। माल की तस्वीर देखने से पहले Nova पाती है कि दूसरी तस्वीर से Rain के बारे में डर फैलाया गया है। सच खोजने के लिए दोनों अलग घटनाओं को अलग समझना होगा।",
+      "title": "बेहतर जीवन की खिड़की"
+    },
+    "id": {
+      "altTexts": [
+        "Keesokan paginya, Nova mencapai kantor pameran pelabuhan untuk mengambil foto kiriman. Sideeye, yang menyimpan file gambar kantor, menata pajangan foto perjalanan yang membuat setiap kehidupan terlihat mudah.",
+        "Di samping pajangan tersebut terdapat foto Rain yang dipotong, diambil dari jalan umum Meadowfold pada hari pertamanya di sana. Tanpa rumah pertanian dan rumput kosong di sekelilingnya, gambaran tersebut membuat gerakan biasa terlihat mengancam.",
+        "Sideeye mengakui bahwa penjelasan yang menakutkan itu adalah karangannya, bukan sesuatu yang disaksikan oleh fotografernya. Nada suaranya yang meyakinkan membuat orang berhenti di depan etalasenya. Nova meninggalkan keheningan alih-alih memberi ruang bagi dalih yang mudah.",
+        "Nova tetap berada di dekat etalase untuk meluruskan informasi tentang foto Rain. Di meja, Quest meminta foto lain: kiriman yang diidentifikasi Guff. Foto itu berbeda dari foto Rain.",
+        "Di meja yang sama, Hush membandingkan foto pengiriman dengan pengait sementara Quest mengamati. Foto itu menunjukkan wadah sebelum badai. Pada pengaitnya terdapat takik kecil berbentuk bulan sabit yang dibuat pabrik. Takik yang sama tetap ada pada pecahan asli, memberikan Quest detail yang tidak dapat diberikan oleh label rusak.",
+        "Di etalase, Sideeye menghapus cerita palsu dan menampilkan foto padang rumput lengkap dengan koreksi. Dia memberi Nova cetakan kedua, tetapi Nova akan meminta izin Rain sebelum menggunakannya di tempat lain. Kesalahan itu diakui tanpa berpura-pura bahwa dampaknya sudah hilang.",
+        "Malam itu di Meadowfold, sebuah surat kabar yang dikirimkan masih mengulangi rumor lama. Mend meneruskan permintaan Nova untuk menggunakan foto lengkap hanya untuk membantah rumor itu. Rain menetapkan batas itu—dan meminta untuk menyimpan koran itu."
+      ],
+      "captions": [
+        "Keesokan paginya, Nova mencapai kantor pameran pelabuhan untuk mengambil foto kiriman. Sideeye, yang menyimpan file gambar kantor, menata pajangan foto perjalanan yang membuat setiap kehidupan terlihat mudah.\n\nSideeye: \"Semua orang tampaknya sudah mencapai tujuan. Aku hanya memasang foto mereka.\"",
+        "Di samping pajangan tersebut terdapat foto Rain yang dipotong, diambil dari jalan umum Meadowfold pada hari pertamanya di sana. Tanpa rumah pertanian dan rumput kosong di sekelilingnya, gambaran tersebut membuat gerakan biasa terlihat mengancam.\n\nNova: “Di mana sisa gambar ini?”",
+        "Sideeye mengakui bahwa penjelasan yang menakutkan itu adalah karangannya, bukan sesuatu yang disaksikan oleh fotografernya. Nada suaranya yang meyakinkan membuat orang berhenti di depan etalasenya. Nova meninggalkan keheningan alih-alih memberi ruang bagi dalih yang mudah.\n\nSideeye: \"Orang-orang mendengarkan ketika aku terdengar yakin. Aku mengatakannya tanpa tahu apa yang sebenarnya terjadi.\"",
+        "Nova tetap berada di dekat etalase untuk meluruskan informasi tentang foto Rain. Di meja, Quest meminta foto lain: kiriman yang diidentifikasi Guff. Foto itu berbeda dari foto Rain.\n\nQuest: “Tolong, foto pengirimannya—foto yang belum dipotong dari catatan penanganan Guff.”",
+        "Di meja yang sama, Hush membandingkan foto pengiriman dengan pengait sementara Quest mengamati. Foto itu menunjukkan wadah sebelum badai. Pada pengaitnya terdapat takik kecil berbentuk bulan sabit yang dibuat pabrik. Takik yang sama tetap ada pada pecahan asli, memberikan Quest detail yang tidak dapat diberikan oleh label rusak.\n\nHush [berbahasa isyarat]: \"Itu. Di pengaitnya—bukan di gambar Rain.\"",
+        "Di etalase, Sideeye menghapus cerita palsu dan menampilkan foto padang rumput lengkap dengan koreksi. Dia memberi Nova cetakan kedua, tetapi Nova akan meminta izin Rain sebelum menggunakannya di tempat lain. Kesalahan itu diakui tanpa berpura-pura bahwa dampaknya sudah hilang.\n\nSideeye: \"Rain tidak menyerang siapa pun. Aku mengarang klaim itu, dan aku memperbaikinya.\"",
+        "Malam itu di Meadowfold, sebuah surat kabar yang dikirimkan masih mengulangi rumor lama. Mend meneruskan permintaan Nova untuk menggunakan foto lengkap hanya untuk membantah rumor itu. Rain menetapkan batas itu—dan meminta untuk menyimpan koran itu.\n\nRain: \"Tolong tutup. Nova boleh menggunakan gambaran lengkap untuk mengoreksi kebohongan—bukan membuat berita utama lainnya.\""
+      ],
+      "introduction": "Buku besar Guff mengarahkan teman-temannya ke kantor pameran Bellara. Namun sebelum mereka dapat memeriksa foto pengiriman tersebut, Nova melihat bagaimana gambar lain telah digunakan untuk menakut-nakuti orang tentang Rain. Menemukan bukti sekarang berarti memisahkan dua cerita yang sangat berbeda.",
+      "title": "Jendela Kehidupan yang Lebih Baik"
+    },
+    "it": {
+      "altTexts": [
+        "La mattina successiva, Nova raggiunge l'ufficio espositivo del porto per ritirare la fotografia della spedizione. Sideeye, che conserva i file delle immagini dell'ufficio, sta organizzando esposizioni di fotografie di viaggio che fanno sembrare ogni altra vita semplice.",
+        "Accanto a questi espositori c'è una fotografia ritagliata di Rain, scattata dalla strada pubblica di Meadowfold il suo primo giorno lì. Senza la fattoria e l'erba deserta intorno a lui, l'immagine fa sembrare minaccioso un movimento ordinario.",
+        "Sideeye ammette che la spiegazione allarmante è stata una sua invenzione, non qualcosa a cui il fotografo ha assistito. Sembrare sicuro faceva sì che la gente si fermasse davanti alla sua vetrina. Nova lascia un silenzio dove avrebbe potuto trovare spazio una facile scusa.",
+        "Nova resta vicino alla vetrina per mettere a posto la foto di Rain. Alla scrivania, Quest chiede una fotografia diversa: la spedizione identificata da Guff. Non deve essere confusa con l'immagine di Rain.",
+        "Alla stessa scrivania, Hush confronta la fotografia della spedizione con la chiusura mentre Quest osserva. La fotografia mostra il contenitore prima della tempesta. Sulla chiusura c'è una piccola tacca del fabbricante a forma di mezzaluna. La stessa tacca sopravvive sul vero pezzo rotto, fornendo a Quest un dettaglio che l'etichetta danneggiata non poteva fornire.",
+        "Nella vetrina, Sideeye rimuove la falsa storia e mostra la fotografia completa del prato con una correzione. Dà a Nova una seconda stampa, ma lei chiederà a Rain prima di usarla altrove. Il danno è riconosciuto, senza fingere che sia scomparso.",
+        "Quella sera a Meadowfold, un giornale consegnato ripete ancora la vecchia diceria. Mend trasmette la richiesta di Nova di utilizzare la fotografia completa solo per smentire la diceria. Rain stabilisce questo limite e chiede di mettere via il giornale."
+      ],
+      "captions": [
+        "La mattina successiva, Nova raggiunge l'ufficio espositivo del porto per ritirare la fotografia della spedizione. Sideeye, che conserva i file delle immagini dell'ufficio, sta organizzando esposizioni di fotografie di viaggio che fanno sembrare ogni altra vita semplice.\n\nSideeye: \"Tutti gli altri sembrano arrivare da qualche parte. Io mi limito a esporre le loro foto.\"",
+        "Accanto a questi espositori c'è una fotografia ritagliata di Rain, scattata dalla strada pubblica di Meadowfold il suo primo giorno lì. Senza la fattoria e l'erba deserta intorno a lui, l'immagine fa sembrare minaccioso un movimento ordinario.\n\nNova: \"Dov'è il resto di questa immagine?\"",
+        "Sideeye ammette che la spiegazione allarmante è stata una sua invenzione, non qualcosa a cui il fotografo ha assistito. Sembrare sicuro faceva sì che la gente si fermasse davanti alla sua vetrina. Nova lascia un silenzio dove avrebbe potuto trovare spazio una facile scusa.\n\nSideeye: \"La gente mi ascoltava quando sembravo sicuro. L'ho detto senza sapere che cosa fosse successo.\"",
+        "Nova resta vicino alla vetrina per mettere a posto la foto di Rain. Alla scrivania, Quest chiede una fotografia diversa: la spedizione identificata da Guff. Non deve essere confusa con l'immagine di Rain.\n\nQuest: \"La fotografia della consegna, per favore, quella non ritagliata dal registro di movimentazione di Guff.\"",
+        "Alla stessa scrivania, Hush confronta la fotografia della spedizione con la chiusura mentre Quest osserva. La fotografia mostra il contenitore prima della tempesta. Sulla chiusura c'è una piccola tacca del fabbricante a forma di mezzaluna. La stessa tacca sopravvive sul vero pezzo rotto, fornendo a Quest un dettaglio che l'etichetta danneggiata non poteva fornire.\n\nHush [in lingua dei segni]: \"Ecco. Sulla chiusura, non sulla foto di Rain.\"",
+        "Nella vetrina, Sideeye rimuove la falsa storia e mostra la fotografia completa del prato con una correzione. Dà a Nova una seconda stampa, ma lei chiederà a Rain prima di usarla altrove. Il danno è riconosciuto, senza fingere che sia scomparso.\n\nSideeye: \"Rain non stava attaccando nessuno. Ho inventato questa affermazione e la sto correggendo.\"",
+        "Quella sera a Meadowfold, un giornale consegnato ripete ancora la vecchia diceria. Mend trasmette la richiesta di Nova di utilizzare la fotografia completa solo per smentire la diceria. Rain stabilisce questo limite e chiede di mettere via il giornale.\n\nRain: \"Chiudilo, per favore. Nova può utilizzare l'immagine completa per correggere la bugia, non per fare un altro titolo.\""
+      ],
+      "introduction": "Il registro di Guff conduce gli amici all'ufficio espositivo di Bellara. Ma prima che possano esaminare la fotografia della spedizione, Nova vede come un'altra immagine è stata utilizzata per spaventare le persone riguardo a Rain. Trovare le prove ora significa separare due storie molto diverse.",
+      "title": "La vetrina delle vite migliori"
+    },
+    "ja": {
+      "altTexts": [
+        "翌朝、Nova は貨物の写真を受け取るために港の展示事務所に到着します。オフィスの写真ファイルを保管している Sideeye さんは、誰の暮らしも順調そうに見える旅の写真を、展示用に並べています。",
+        "これらのディスプレイの横には、Rain が Meadowfold に来た初日、公道から撮られた写真を切り抜いたものがあります。周囲の農家と何もない草地が切り取られると、この写真は普通の動きを脅威的に見せます。",
+        "Sideeyeは、この驚くべき説明は彼の創作であり、写真家が目撃したものではないと認めた。確信があるように話すと、人々は窓の前で足を止めたのです。Novaは黙って聞き、安易な言い訳で済ませようとはしません。",
+        "Nova は Rain の写真を正しく表示するために窓のそばにいます。デスクで、Quest は別の写真を要求します。それは Guff が識別した荷物です。 Rainの写真と混同しないでください。",
+        "同じデスクで、Hush は出荷写真と留め金を比較し、一方 Questはその手元を見ています。写真には嵐の前の記憶容器が写っています。留め金には小さな三日月型の切り込みがあります。本物の壊れた部分にも同じノッチが残っており、破損したラベルでは提供できなかった詳細が Quest に与えられます。",
+        "ウィンドウでは、Sideeye が虚偽のストーリーを削除し、修正を加えた草原全体の写真を表示します。彼は Nova に 2 枚目のプリントを渡しますが、彼女はそれを他の場所で使用する前に Rain に尋ねます。傷つけた事実を認めることは、傷が消えたことにするのとは違います。",
+        "その夜、Meadowfoldに配達された新聞は依然として古い噂を繰り返しています。 Mend は、写真全体を誤った報道の訂正にだけ使うという Nova のリクエストを渡します。 Rain はその制限を設定し、新聞をしまうように要求します。"
+      ],
+      "captions": [
+        "翌朝、Nova は貨物の写真を受け取るために港の展示事務所に到着します。オフィスの写真ファイルを保管している Sideeye さんは、誰の暮らしも順調そうに見える旅の写真を、展示用に並べています。\n\nSideeye: 「他の人はみんなどこかに行ったようです。私は彼らの写真を載せただけです。」",
+        "これらのディスプレイの横には、Rain が Meadowfold に来た初日、公道から撮られた写真を切り抜いたものがあります。周囲の農家と何もない草地が切り取られると、この写真は普通の動きを脅威的に見せます。\n\nNova: 「この写真の残りの部分はどこですか?」",
+        "Sideeyeは、この驚くべき説明は彼の創作であり、写真家が目撃したものではないと認めた。確信があるように話すと、人々は窓の前で足を止めたのです。Novaは黙って聞き、安易な言い訳で済ませようとはしません。\n\nSideeye: 「私が確信しているように聞こえると、人々は耳を傾けてくれました。何があったのかも知らないまま、あんなことを言いました。」",
+        "Nova は Rain の写真を正しく表示するために窓のそばにいます。デスクで、Quest は別の写真を要求します。それは Guff が識別した荷物です。 Rainの写真と混同しないでください。\n\nQuest: 「納品写真をお願いします。Guffの取り扱い記録からトリミングされていないものをお願いします。」",
+        "同じデスクで、Hush は出荷写真と留め金を比較し、一方 Questはその手元を見ています。写真には嵐の前の記憶容器が写っています。留め金には小さな三日月型の切り込みがあります。本物の壊れた部分にも同じノッチが残っており、破損したラベルでは提供できなかった詳細が Quest に与えられます。\n\nHush [手話]: 「そこです。Rain の写真ではなく、留め金にあります。」",
+        "ウィンドウでは、Sideeye が虚偽のストーリーを削除し、修正を加えた草原全体の写真を表示します。彼は Nova に 2 枚目のプリントを渡しますが、彼女はそれを他の場所で使用する前に Rain に尋ねます。傷つけた事実を認めることは、傷が消えたことにするのとは違います。\n\nSideeye: 「Rain は誰も攻撃していません。その主張は私がでっち上げたもので、訂正しています。」",
+        "その夜、Meadowfoldに配達された新聞は依然として古い噂を繰り返しています。 Mend は、写真全体を誤った報道の訂正にだけ使うという Nova のリクエストを渡します。 Rain はその制限を設定し、新聞をしまうように要求します。\n\nRain: 「新聞はしまってください。Nova には、写真全体を嘘の訂正にだけ使ってほしいです。新しい見出しにはしないでください。」"
+      ],
+      "introduction": "Guff の台帳は、友人たちを Bellara の展示オフィスに導きます。しかし、出荷写真を検査する前に、Nova は、別の写真が Rain について人々を怖がらせるためにどのように使用されているかを確認します。証拠を見つけるということは、2 つのまったく異なるストーリーを分離することを意味します。",
+      "title": "より良い生活の窓"
+    },
+    "ko": {
+      "altTexts": [
+        "다음날 아침 Nova는 배송 사진을 수집하기 위해 항구 전시 사무실에 도착합니다. 사무실의 사진 파일을 보관하는 Sideeye는 모든 일상을 수월하게 보이게 만드는 여행용 디스플레이를 준비하고 있습니다.",
+        "그 디스플레이 옆에는 Meadowfold의 첫날 공공 도로에서 찍은 Rain의 자른 사진이 있습니다. 주변 농가와 넓은 풀밭이 잘려 나가자 사진 속에서는 평범한 움직임이 위협적으로 보입니다.",
+        "Sideeye는 그 놀라운 설명이 사진작가가 목격한 것이 아니라 자신이 만들어낸 것임을 인정합니다. 확신에 찬 목소리로 말하자 사람들이 창 앞에 멈췄던 것입니다. Nova는 조용히 듣고, 쉬운 변명으로 넘어가지 않습니다.",
+        "Nova는 Rain의 사진에 붙은 잘못된 설명을 바로잡기 위해 창가에 머물러 있습니다. 책상에서 Quest는 Guff가 확인한 배송물의 사진을 요청합니다. Rain의 사진과 혼동하지 마십시오.",
+        "같은 책상에서 Hush는 Quest가 지켜보는 동안 배송 사진과 걸쇠를 비교합니다. 사진은 폭풍 전의 기억 보관 용기를 보여줍니다. 걸쇠에는 제작자가 새긴 작은 초승달 모양의 홈이 있습니다. 실제 깨진 조각에도 동일한 홈이 남아 있어 Quest에 손상된 라벨이 제공할 수 없는 세부 정보가 제공됩니다.",
+        "창에서 Sideeye는 잘못된 이야기를 제거하고 수정된 전체 초원 사진을 표시합니다. 그는 Nova에게 두 번째 인쇄물을 주지만 그녀는 그것을 다른 곳에서 사용하기 전에 Rain에게 물어볼 것입니다. 상처를 없던 일로 넘기지 않고, 자신이 준 피해를 인정합니다.",
+        "그날 저녁 Meadowfold에 배달된 신문은 여전히 오래된 소문을 반복하고 있습니다. Mend는 전체 사진을 수정 목적으로만 사용하라는 Nova의 요청을 전달합니다. Rain은 제한을 설정하고 신문을 치워달라고 요청합니다."
+      ],
+      "captions": [
+        "다음날 아침 Nova는 배송 사진을 수집하기 위해 항구 전시 사무실에 도착합니다. 사무실의 사진 파일을 보관하는 Sideeye는 모든 일상을 수월하게 보이게 만드는 여행용 디스플레이를 준비하고 있습니다.\n\nSideeye: \"다른 사람들은 모두 어딘가에 도착하는 것 같아요. 저는 그냥 그들의 사진을 올렸어요.\"",
+        "그 디스플레이 옆에는 Meadowfold의 첫날 공공 도로에서 찍은 Rain의 자른 사진이 있습니다. 주변 농가와 넓은 풀밭이 잘려 나가자 사진 속에서는 평범한 움직임이 위협적으로 보입니다.\n\nNova: “이 사진의 나머지 부분은 어디에 있나요?”",
+        "Sideeye는 그 놀라운 설명이 사진작가가 목격한 것이 아니라 자신이 만들어낸 것임을 인정합니다. 확신에 찬 목소리로 말하자 사람들이 창 앞에 멈췄던 것입니다. Nova는 조용히 듣고, 쉬운 변명으로 넘어가지 않습니다.\n\nSideeye: \"사람들은 내가 확실하게 말했을 때 귀를 기울였습니다. 무슨 일이 있었는지도 모르면서 그런 말을 했어요.\"",
+        "Nova는 Rain의 사진에 붙은 잘못된 설명을 바로잡기 위해 창가에 머물러 있습니다. 책상에서 Quest는 Guff가 확인한 배송물의 사진을 요청합니다. Rain의 사진과 혼동하지 마십시오.\n\nQuest: \"배송 사진 부탁드립니다. Guff의 취급 기록에서 자르지 않은 사진입니다.\"",
+        "같은 책상에서 Hush는 Quest가 지켜보는 동안 배송 사진과 걸쇠를 비교합니다. 사진은 폭풍 전의 기억 보관 용기를 보여줍니다. 걸쇠에는 제작자가 새긴 작은 초승달 모양의 홈이 있습니다. 실제 깨진 조각에도 동일한 홈이 남아 있어 Quest에 손상된 라벨이 제공할 수 없는 세부 정보가 제공됩니다.\n\nHush [수어]: \"저기요. 걸쇠에 있어요. Rain의 사진에는 없어요.\"",
+        "창에서 Sideeye는 잘못된 이야기를 제거하고 수정된 전체 초원 사진을 표시합니다. 그는 Nova에게 두 번째 인쇄물을 주지만 그녀는 그것을 다른 곳에서 사용하기 전에 Rain에게 물어볼 것입니다. 상처를 없던 일로 넘기지 않고, 자신이 준 피해를 인정합니다.\n\nSideeye: \"Rain은 누구도 공격하지 않았습니다. 그 주장은 제가 만들어냈고, 정정하고 있습니다.\"",
+        "그날 저녁 Meadowfold에 배달된 신문은 여전히 오래된 소문을 반복하고 있습니다. Mend는 전체 사진을 수정 목적으로만 사용하라는 Nova의 요청을 전달합니다. Rain은 제한을 설정하고 신문을 치워달라고 요청합니다.\n\nRain: \"신문은 치워 주세요. Nova가 전체 사진으로 거짓말을 바로잡는 건 괜찮아요. 하지만 또 다른 기사거리로 삼지는 말아 주세요.\""
+      ],
+      "introduction": "Guff의 장부는 친구들을 Bellara의 디스플레이 사무실로 안내합니다. 그러나 배송 사진을 검사하기 전에 Nova는 사람들에게 Rain에 대해 겁을 주기 위해 다른 사진이 어떻게 사용되었는지 확인합니다. 이제 증거를 찾는 것은 매우 다른 두 가지 이야기를 분리하는 것을 의미합니다.",
+      "title": "더 나은 삶의 창"
+    },
+    "pl": {
+      "altTexts": [
+        "Następnego ranka Nova dociera do biura wystawowego portu, aby odebrać fotografię przesyłki. Sideeye, który przechowuje zbiory zdjęć w biurze, układa ekspozycje zdjęć z podróży, na których życie wszystkich innych wygląda na łatwe.",
+        "Obok tych ekspozycji znajduje się wykadrowana fotografia Raina, zrobiona z publicznej ścieżki przy łące Meadowfold pierwszego dnia jego pobytu w tym miejscu. Bez wiejskiego domu i otaczającej go pustej trawy zwykły ruch wygląda groźnie.",
+        "Sideeye przyznaje, że to niepokojące wyjaśnienie było jego wymysłem, a nie czymś, czego był świadkiem fotograf. Jego pewny ton sprawił, że ludzie zatrzymywali się przy jego oknie. Nova pozostawia ciszę tam, gdzie mogłaby paść łatwa wymówka.",
+        "Nova pozostaje przy oknie, aby sprostować twierdzenie o zdjęciu Raina. Przy biurku Quest prosi o inne zdjęcie: przesyłkę wskazaną przez Guffa. Nie należy go mylić ze zdjęciem Raina.",
+        "Przy tym samym biurku Hush porównuje zdjęcie przesyłki z zapięciem, a Quest się przygląda. Na zdjęciu pojemnik przed burzą. Na zapięciu znajduje się maleńkie wycięcie w kształcie półksiężyca. To samo nacięcie zachowało się na prawdziwym, uszkodzonym elemencie, dając Questowi wskazówkę, której nie dało się odczytać z uszkodzonej etykiety.",
+        "Przy oknie Sideeye usuwa fałszywą historię i wyświetla pełne zdjęcie łąki z korektą. Daje Novie drugi wydruk, ale ona zapyta Raina przed użyciem go gdzie indziej. Krzywda zostaje uznana, zamiast udawać, że zniknęła.",
+        "Tego wieczoru na łące Meadowfold dostarczona gazeta nadal powtarza starą plotkę. Mend przekazuje prośbę Novy o zgodę na użycie pełnego zdjęcia wyłącznie do sprostowania kłamstwa. Rain ustala ten limit i prosi o odłożenie gazety."
+      ],
+      "captions": [
+        "Następnego ranka Nova dociera do biura wystawowego portu, aby odebrać fotografię przesyłki. Sideeye, który przechowuje zbiory zdjęć w biurze, układa ekspozycje zdjęć z podróży, na których życie wszystkich innych wygląda na łatwe.\n\nSideeye: \"Wygląda na to, że wszyscy inni gdzieś dotarli. Ja tylko rozwieszam ich zdjęcia. \"",
+        "Obok tych ekspozycji znajduje się wykadrowana fotografia Raina, zrobiona z publicznej ścieżki przy łące Meadowfold pierwszego dnia jego pobytu w tym miejscu. Bez wiejskiego domu i otaczającej go pustej trawy zwykły ruch wygląda groźnie.\n\nNova: „Gdzie jest reszta tego zdjęcia?”",
+        "Sideeye przyznaje, że to niepokojące wyjaśnienie było jego wymysłem, a nie czymś, czego był świadkiem fotograf. Jego pewny ton sprawił, że ludzie zatrzymywali się przy jego oknie. Nova pozostawia ciszę tam, gdzie mogłaby paść łatwa wymówka.\n\nSideeye: \"Ludzie słuchali, kiedy brzmiałem pewnie. Powiedziałem to, choć nie wiedziałem, co się wydarzyło.\"",
+        "Nova pozostaje przy oknie, aby sprostować twierdzenie o zdjęciu Raina. Przy biurku Quest prosi o inne zdjęcie: przesyłkę wskazaną przez Guffa. Nie należy go mylić ze zdjęciem Raina.\n\nQuest: „Poproszę zdjęcie dostawy — to nieobcięte z dokumentacji przeładunkowej Guffa”.",
+        "Przy tym samym biurku Hush porównuje zdjęcie przesyłki z zapięciem, a Quest się przygląda. Na zdjęciu pojemnik przed burzą. Na zapięciu znajduje się maleńkie wycięcie w kształcie półksiężyca. To samo nacięcie zachowało się na prawdziwym, uszkodzonym elemencie, dając Questowi wskazówkę, której nie dało się odczytać z uszkodzonej etykiety.\n\nHush [w języku migowym]: „Tam. Na zapięciu – nie na zdjęciu Raina.”",
+        "Przy oknie Sideeye usuwa fałszywą historię i wyświetla pełne zdjęcie łąki z korektą. Daje Novie drugi wydruk, ale ona zapyta Raina przed użyciem go gdzie indziej. Krzywda zostaje uznana, zamiast udawać, że zniknęła.\n\nSideeye: \"Rain nikogo nie atakował. Wymyśliłem to twierdzenie i poprawiam je. \"",
+        "Tego wieczoru na łące Meadowfold dostarczona gazeta nadal powtarza starą plotkę. Mend przekazuje prośbę Novy o zgodę na użycie pełnego zdjęcia wyłącznie do sprostowania kłamstwa. Rain ustala ten limit i prosi o odłożenie gazety.\n\nRain: \"Zamknij, proszę. Nova może wykorzystać pełny obraz, aby skorygować kłamstwo - a nie tworzyć kolejny nagłówek. \""
+      ],
+      "introduction": "Księga Guffa prowadzi przyjaciół do biura wystawowego w mieście Bellara. Zanim jednak będą mogli sprawdzić zdjęcie przesyłki, Nova widzi, jak inne zdjęcie zostało wykorzystane do straszenia ludzi opowieścią o Rainie. Znalezienie dowodów oznacza obecnie oddzielenie dwóch bardzo różnych historii.",
+      "title": "Okno lepszego życia"
+    },
+    "pt": {
+      "altTexts": [
+        "Na manhã seguinte, Nova chega ao escritório de exibição do porto para coletar a fotografia da remessa. Sideeye, que mantém os arquivos de fotos do escritório, está organizando exibições de viagem que fazem com que todas as outras vidas pareçam fáceis.",
+        "Ao lado dessas exibições está uma fotografia recortada de Rain, tirada na via pública de Meadowfold em seu primeiro dia lá. Sem a casa da fazenda e a grama vazia ao seu redor, a imagem faz com que um movimento comum pareça ameaçador.",
+        "Sideeye admite que a explicação alarmante foi invenção sua, e não algo que o fotógrafo testemunhou. Falar com confiança fazia as pessoas pararem diante de sua vitrine. Nova deixa um silêncio onde uma desculpa fácil poderia ter sido.",
+        "Nova fica perto da vitrine para corrigir a imagem de Rain. No balcão, Quest pede uma fotografia diferente: a remessa identificada por Guff. Não deve ser confundida com a imagem do Rain.",
+        "Na mesma mesa, Hush compara a fotografia da remessa com o fecho enquanto Quest observa. A fotografia mostra o recipiente antes da tempestade. Em seu fecho há um pequeno entalhe em forma de meia-lua. O mesmo entalhe sobrevive na peça quebrada real, dando ao Quest um detalhe que a etiqueta danificada não poderia fornecer.",
+        "Na vitrine, Sideeye remove a história falsa e exibe a fotografia completa do prado com uma correção. Ele dá a Nova uma segunda cópia, mas ela perguntará a Rain antes de usá-la em outro lugar. O dano é reconhecido, sem fingir que desapareceu.",
+        "Naquela noite, em Meadowfold, um jornal entregue ainda repete o antigo boato. Mend transmite o pedido de Nova para usar a fotografia completa apenas para desmentir o boato. Rain estabelece esse limite – e pede para guardar o jornal."
+      ],
+      "captions": [
+        "Na manhã seguinte, Nova chega ao escritório de exibição do porto para coletar a fotografia da remessa. Sideeye, que mantém os arquivos de fotos do escritório, está organizando exibições de viagem que fazem com que todas as outras vidas pareçam fáceis.\n\nSideeye: \"Todo mundo parece chegar a algum lugar. Eu só exponho as fotos deles.\"",
+        "Ao lado dessas exibições está uma fotografia recortada de Rain, tirada na via pública de Meadowfold em seu primeiro dia lá. Sem a casa da fazenda e a grama vazia ao seu redor, a imagem faz com que um movimento comum pareça ameaçador.\n\nNova: “Onde está o resto desta imagem?”",
+        "Sideeye admite que a explicação alarmante foi invenção sua, e não algo que o fotógrafo testemunhou. Falar com confiança fazia as pessoas pararem diante de sua vitrine. Nova deixa um silêncio onde uma desculpa fácil poderia ter sido.\n\nSideeye: \"As pessoas ouviram quando eu parecia certo. Eu disse aquilo sem saber o que tinha acontecido.\"",
+        "Nova fica perto da vitrine para corrigir a imagem de Rain. No balcão, Quest pede uma fotografia diferente: a remessa identificada por Guff. Não deve ser confundida com a imagem do Rain.\n\nQuest: “A fotografia de entrega, por favor - a não cortada do registro de manuseio de Guff.”",
+        "Na mesma mesa, Hush compara a fotografia da remessa com o fecho enquanto Quest observa. A fotografia mostra o recipiente antes da tempestade. Em seu fecho há um pequeno entalhe em forma de meia-lua. O mesmo entalhe sobrevive na peça quebrada real, dando ao Quest um detalhe que a etiqueta danificada não poderia fornecer.\n\nHush [em língua de sinais]: \"Pronto. No fecho - não na foto de Rain.\"",
+        "Na vitrine, Sideeye remove a história falsa e exibe a fotografia completa do prado com uma correção. Ele dá a Nova uma segunda cópia, mas ela perguntará a Rain antes de usá-la em outro lugar. O dano é reconhecido, sem fingir que desapareceu.\n\nSideeye: \"Rain não estava atacando ninguém. Eu inventei essa afirmação e estou corrigindo-a.\"",
+        "Naquela noite, em Meadowfold, um jornal entregue ainda repete o antigo boato. Mend transmite o pedido de Nova para usar a fotografia completa apenas para desmentir o boato. Rain estabelece esse limite – e pede para guardar o jornal.\n\nRain: \"Feche, por favor. Nova pode usar a imagem completa para corrigir a mentira - e não para fazer outra manchete.\""
+      ],
+      "introduction": "O livro-razão de Guff leva os amigos ao escritório de exibição de Bellara. Mas antes que eles possam inspecionar a fotografia da remessa, Nova vê como outra foto foi usada para assustar as pessoas sobre Rain. Encontrar evidências agora significa separar duas histórias muito diferentes.",
+      "title": "A vitrine das vidas melhores"
+    },
+    "ru": {
+      "altTexts": [
+        "На следующее утро Nova достигает выставочного офиса порта, чтобы забрать фотографию груза. Sideeye, который хранит файлы с фотографиями в офисе, оформляет стенды с фотографиями путешествий, на которых чужая жизнь кажется беззаботной.",
+        "Рядом с этими стендами находится обрезанная фотография Rain, сделанная с общедоступной дорожки у луга Meadowfold в его первый день там. Без фермерского дома и пустой травы вокруг обычное движение кажется угрожающим.",
+        "Sideeye признает, что тревожное объяснение было его выдумкой, а не тем, свидетелем чего был фотограф. Уверенный тон заставил людей остановиться у его окна. Nova оставляет молчание там, где могло бы быть простое оправдание.",
+        "Nova остается у окна, чтобы исправить ложное утверждение о фотографии Rain. За столом Quest просит другую фотографию: снимок груза, который опознал Guff. Не следует путать его с изображением Rain.",
+        "За тем же столом Hush сравнивает фотографию поставки с застежкой, а Quest наблюдает. На фотографии контейнер перед грозой. На застежке имеется крошечная выемка в виде полумесяца. Такая же выемка сохранилась и на настоящей сломанной детали, давая Quest подсказку, которую уже нельзя было прочитать на поврежденной этикетке.",
+        "В витрине Sideeye убирает ложный рассказ и размещает полную фотографию луга с опровержением. Он дает Nova второй отпечаток, но она спросит Rain, прежде чем использовать его где-либо еще. Он признает причиненный вред, не делая вид, будто его не было.",
+        "В тот вечер на лугу Meadowfold доставленная газета все еще повторяет старый слух. Mend передает просьбу Nova использовать полную фотографию только для опровержения лжи. Rain устанавливает этот предел и просит убрать газету."
+      ],
+      "captions": [
+        "На следующее утро Nova достигает выставочного офиса порта, чтобы забрать фотографию груза. Sideeye, который хранит файлы с фотографиями в офисе, оформляет стенды с фотографиями путешествий, на которых чужая жизнь кажется беззаботной.\n\nSideeye: \"Кажется, все остальные чего-то добиваются. А я только развешиваю их фотографии\".",
+        "Рядом с этими стендами находится обрезанная фотография Rain, сделанная с общедоступной дорожки у луга Meadowfold в его первый день там. Без фермерского дома и пустой травы вокруг обычное движение кажется угрожающим.\n\nNova: «Где остальная часть этой картинки?»",
+        "Sideeye признает, что тревожное объяснение было его выдумкой, а не тем, свидетелем чего был фотограф. Уверенный тон заставил людей остановиться у его окна. Nova оставляет молчание там, где могло бы быть простое оправдание.\n\nSideeye: \"Люди слушали, когда я говорил уверенно. Я сказал это, не зная, что произошло\".",
+        "Nova остается у окна, чтобы исправить ложное утверждение о фотографии Rain. За столом Quest просит другую фотографию: снимок груза, который опознал Guff. Не следует путать его с изображением Rain.\n\nQuest: «Фотографию доставки, пожалуйста, необрезанную из журнала грузовых операций Guff».",
+        "За тем же столом Hush сравнивает фотографию поставки с застежкой, а Quest наблюдает. На фотографии контейнер перед грозой. На застежке имеется крошечная выемка в виде полумесяца. Такая же выемка сохранилась и на настоящей сломанной детали, давая Quest подсказку, которую уже нельзя было прочитать на поврежденной этикетке.\n\nHush [на языке жестов]: \"Вот. На застежке, а не на фотографии Rain\".",
+        "В витрине Sideeye убирает ложный рассказ и размещает полную фотографию луга с опровержением. Он дает Nova второй отпечаток, но она спросит Rain, прежде чем использовать его где-либо еще. Он признает причиненный вред, не делая вид, будто его не было.\n\nSideeye: \"Rain ни на кого не нападал. Я придумал это утверждение и исправляю его\".",
+        "В тот вечер на лугу Meadowfold доставленная газета все еще повторяет старый слух. Mend передает просьбу Nova использовать полную фотографию только для опровержения лжи. Rain устанавливает этот предел и просит убрать газету.\n\nRain: \"Закрой, пожалуйста. Nova может использовать полную фотографию, чтобы исправить ложь, а не делать еще один заголовок\"."
+      ],
+      "introduction": "Книга Guff приводит друзей в офис Bellara. Но прежде чем они успевают просмотреть фотографию груза, Nova видит, как другая фотография использовалась, чтобы пугать людей рассказом о Rain. Найти доказательства теперь означает разделить две совершенно разные истории.",
+      "title": "Окно лучшей жизни"
+    },
+    "tr": {
+      "altTexts": [
+        "Ertesi sabah Nova, sevkıyatın fotoğrafını almak için liman sergi ofisine ulaşır. Ofisin resim dosyalarını saklayan Sideeye, diğer tüm hayatların zahmetsiz görünmesini sağlayacak seyahat fotoğraflarından oluşan sergiler düzenliyor.",
+        "Bu sergilerin yanında Rain'in Meadowfold çayırının halka açık yolundan oradaki ilk gününde çekilmiş kırpılmış bir fotoğrafı var. Çiftlik evi ve etrafındaki boş çimenler olmadan, resim sıradan bir hareketi tehditkar gösteriyor.",
+        "Sideeye, endişe verici açıklamanın fotoğrafçının tanık olduğu bir şey değil, kendi icadı olduğunu kabul ediyor. Kendinden emin konuşması, insanların vitrinin önünde durmasını sağladı. Nova, kolay bir bahaneye sığınmaya izin vermeyen bir sessizlik bırakıyor.",
+        "Nova, Rain'in fotoğrafı hakkındaki iddiayı düzeltmek için vitrinin yanında duruyor. Masada Quest farklı bir fotoğraf istiyor: Guff'ın tanımladığı sevkiyat. Rain resmiyle karıştırılmamalıdır.",
+        "Aynı masada Hush, Quest izlerken teslimat fotoğrafını tokayla karşılaştırıyor. Fotoğrafta taşıyıcının fırtınadan önceki hali görülüyor. Tokasında küçük bir hilal şeklinde çentik var. Aynı çentik gerçek kırık parçada da varlığını sürdürüyor ve Quest'e hasarlı etiketin sağlayamayacağı bir ayrıntı veriyor.",
+        "Vitrinde, Sideeye yanlış hikayeyi ortadan kaldırır ve çayır fotoğrafının tamamını düzeltmeyle görüntüler. Nova'ya ikinci bir baskı veriyor ancak başka bir yerde kullanmadan önce Rain'e soracak. Verilen zarar kabul ediliyor; hiç yaşanmamış gibi davranılmıyor.",
+        "O akşam Meadowfold çayırında dağıtılan bir gazete hâlâ eski söylentiyi tekrarlıyor. Mend, Nova'nın fotoğrafın tamamını yalnızca yalanı düzeltmek için kullanma talebini iletir. Rain bu sınırı belirliyor ve gazetenin kaldırılmasını istiyor."
+      ],
+      "captions": [
+        "Ertesi sabah Nova, sevkıyatın fotoğrafını almak için liman sergi ofisine ulaşır. Ofisin resim dosyalarını saklayan Sideeye, diğer tüm hayatların zahmetsiz görünmesini sağlayacak seyahat fotoğraflarından oluşan sergiler düzenliyor.\n\nSideeye: \"Herkes bir yere varmış gibi görünüyor. Ben yalnızca onların resimlerini asıyorum.\"",
+        "Bu sergilerin yanında Rain'in Meadowfold çayırının halka açık yolundan oradaki ilk gününde çekilmiş kırpılmış bir fotoğrafı var. Çiftlik evi ve etrafındaki boş çimenler olmadan, resim sıradan bir hareketi tehditkar gösteriyor.\n\nNova: “Bu resmin geri kalanı nerede?”",
+        "Sideeye, endişe verici açıklamanın fotoğrafçının tanık olduğu bir şey değil, kendi icadı olduğunu kabul ediyor. Kendinden emin konuşması, insanların vitrinin önünde durmasını sağladı. Nova, kolay bir bahaneye sığınmaya izin vermeyen bir sessizlik bırakıyor.\n\nSideeye: \"Kesin konuştuğumda insanlar beni dinlediler. Ne olduğunu bilmeden bunu söyledim.\"",
+        "Nova, Rain'in fotoğrafı hakkındaki iddiayı düzeltmek için vitrinin yanında duruyor. Masada Quest farklı bir fotoğraf istiyor: Guff'ın tanımladığı sevkiyat. Rain resmiyle karıştırılmamalıdır.\n\nQuest: \"Teslimat fotoğrafı lütfen; Guff'ın sevkiyat kaydından kırpılmamış fotoğraf.\"",
+        "Aynı masada Hush, Quest izlerken teslimat fotoğrafını tokayla karşılaştırıyor. Fotoğrafta taşıyıcının fırtınadan önceki hali görülüyor. Tokasında küçük bir hilal şeklinde çentik var. Aynı çentik gerçek kırık parçada da varlığını sürdürüyor ve Quest'e hasarlı etiketin sağlayamayacağı bir ayrıntı veriyor.\n\nHush [işaret diliyle]: \"Orada. Tokanın üzerinde - Rain'in resminde değil.\"",
+        "Vitrinde, Sideeye yanlış hikayeyi ortadan kaldırır ve çayır fotoğrafının tamamını düzeltmeyle görüntüler. Nova'ya ikinci bir baskı veriyor ancak başka bir yerde kullanmadan önce Rain'e soracak. Verilen zarar kabul ediliyor; hiç yaşanmamış gibi davranılmıyor.\n\nSideeye: \"Rain kimseye saldırmıyordu. Bu iddiayı ben uydurdum ve düzeltiyorum.\"",
+        "O akşam Meadowfold çayırında dağıtılan bir gazete hâlâ eski söylentiyi tekrarlıyor. Mend, Nova'nın fotoğrafın tamamını yalnızca yalanı düzeltmek için kullanma talebini iletir. Rain bu sınırı belirliyor ve gazetenin kaldırılmasını istiyor.\n\nRain: \"Kapatın lütfen. Nova yalanı düzeltmek için resmin tamamını kullanabilir; başka bir başlık açmak yerine.\""
+      ],
+      "introduction": "Guff'ın defteri, arkadaşları Bellara'nın sergi ofisine götürür. Ancak sevkıyat fotoğrafını incelemeden önce Nova, insanları Rain hakkında korkutmak için başka bir resmin nasıl kullanıldığını görüyor. Kanıt bulmak artık iki farklı hikayeyi birbirinden ayırmak anlamına geliyor.",
+      "title": "Daha İyi Yaşamların Penceresi"
+    },
+    "vi": {
+      "altTexts": [
+        "Sáng hôm sau, Nova đến văn phòng trưng bày bến cảng để lấy ảnh lô hàng. Sideeye, người lưu giữ các tập tin hình ảnh của văn phòng, đang sắp xếp ảnh du lịch trên bảng trưng bày, khiến cuộc sống của ai khác cũng có vẻ dễ dàng.",
+        "Bên cạnh những bảng trưng bày đó là một bức ảnh đã được cắt xén của Rain, được chụp từ đường công cộng của Meadowfold vào ngày đầu tiên anh ấy đến đó. Không có ngôi nhà trang trại và bãi cỏ trống trải xung quanh, bức ảnh khiến một chuyển động bình thường trông có vẻ đầy đe dọa.",
+        "Sideeye thừa nhận lời giải thích đáng báo động là chuyện do anh bịa ra chứ không phải điều nhiếp ảnh gia chứng kiến. Giọng điệu chắc chắn của anh khiến mọi người dừng lại trước cửa sổ nhà anh. Nova để lại sự im lặng nơi có thể đưa ra một lời bào chữa dễ dàng.",
+        "Nova đứng cạnh cửa sổ để đính chính lời bịa đặt về bức ảnh của Rain. Tại bàn làm việc, Quest yêu cầu một bức ảnh khác: lô hàng mà Guff đã xác định. Đừng nhầm lẫn nó với hình ảnh của Rain.",
+        "Tại cùng một bàn, Hush so sánh ảnh lô hàng với chiếc móc cài trong khi Quest quan sát. Bức ảnh chụp chiếc vật chứa trước cơn bão. Trên móc cài của nó có một rãnh hình lưỡi liềm nhỏ. Vết khía tương tự vẫn tồn tại trên mảnh vỡ thực sự, mang lại cho Quest một chi tiết mà nhãn bị hỏng không thể cung cấp.",
+        "Tại cửa sổ, Sideeye loại bỏ câu chuyện sai sự thật và hiển thị toàn bộ bức ảnh đồng cỏ cùng lời đính chính. Anh ấy đưa cho Nova bản in thứ hai, nhưng cô ấy sẽ hỏi Rain trước khi sử dụng nó ở nơi khác. Tổn thương được thừa nhận, không bị xem như đã biến mất.",
+        "Tối hôm đó tại Meadowfold, một tờ báo được giao vẫn nhắc lại tin đồn cũ. Mend chuyển yêu cầu của Nova xin dùng toàn bộ bức ảnh chỉ để đính chính lời nói dối. Rain đặt ra giới hạn đó—và yêu cầu cất tờ báo đi."
+      ],
+      "captions": [
+        "Sáng hôm sau, Nova đến văn phòng trưng bày bến cảng để lấy ảnh lô hàng. Sideeye, người lưu giữ các tập tin hình ảnh của văn phòng, đang sắp xếp ảnh du lịch trên bảng trưng bày, khiến cuộc sống của ai khác cũng có vẻ dễ dàng.\n\nSideeye: \"Mọi người dường như đã đạt được điều gì đó. Tôi chỉ đăng ảnh của họ lên thôi.\"",
+        "Bên cạnh những bảng trưng bày đó là một bức ảnh đã được cắt xén của Rain, được chụp từ đường công cộng của Meadowfold vào ngày đầu tiên anh ấy đến đó. Không có ngôi nhà trang trại và bãi cỏ trống trải xung quanh, bức ảnh khiến một chuyển động bình thường trông có vẻ đầy đe dọa.\n\nNova: “Phần còn lại của bức ảnh này ở đâu?”",
+        "Sideeye thừa nhận lời giải thích đáng báo động là chuyện do anh bịa ra chứ không phải điều nhiếp ảnh gia chứng kiến. Giọng điệu chắc chắn của anh khiến mọi người dừng lại trước cửa sổ nhà anh. Nova để lại sự im lặng nơi có thể đưa ra một lời bào chữa dễ dàng.\n\nSideeye: \"Mọi người lắng nghe khi tôi tỏ ra chắc chắn. Tôi đã nói vậy dù không biết chuyện gì đã xảy ra.\"",
+        "Nova đứng cạnh cửa sổ để đính chính lời bịa đặt về bức ảnh của Rain. Tại bàn làm việc, Quest yêu cầu một bức ảnh khác: lô hàng mà Guff đã xác định. Đừng nhầm lẫn nó với hình ảnh của Rain.\n\nQuest: “Xin vui lòng cho xem bức ảnh giao hàng - bức ảnh chưa được cắt xén từ hồ sơ xử lý của Guff.”",
+        "Tại cùng một bàn, Hush so sánh ảnh lô hàng với chiếc móc cài trong khi Quest quan sát. Bức ảnh chụp chiếc vật chứa trước cơn bão. Trên móc cài của nó có một rãnh hình lưỡi liềm nhỏ. Vết khía tương tự vẫn tồn tại trên mảnh vỡ thực sự, mang lại cho Quest một chi tiết mà nhãn bị hỏng không thể cung cấp.\n\nHush [bằng ngôn ngữ ký hiệu]: \"Đó. Trên móc cài—không phải trên ảnh của Rain.\"",
+        "Tại cửa sổ, Sideeye loại bỏ câu chuyện sai sự thật và hiển thị toàn bộ bức ảnh đồng cỏ cùng lời đính chính. Anh ấy đưa cho Nova bản in thứ hai, nhưng cô ấy sẽ hỏi Rain trước khi sử dụng nó ở nơi khác. Tổn thương được thừa nhận, không bị xem như đã biến mất.\n\nSideeye: \"Rain không tấn công bất kỳ ai. Tôi đã bịa ra tuyên bố đó và tôi đang sửa nó.\"",
+        "Tối hôm đó tại Meadowfold, một tờ báo được giao vẫn nhắc lại tin đồn cũ. Mend chuyển yêu cầu của Nova xin dùng toàn bộ bức ảnh chỉ để đính chính lời nói dối. Rain đặt ra giới hạn đó—và yêu cầu cất tờ báo đi.\n\nRain: \"Làm ơn đóng nó lại. Nova có thể sử dụng hình ảnh đầy đủ để sửa lại lời nói dối—không tạo tiêu đề khác.\""
+      ],
+      "introduction": "Sổ cái của Guff dẫn bạn bè đến văn phòng trưng bày của Bellara. Nhưng trước khi họ có thể kiểm tra bức ảnh lô hàng, Nova đã thấy một bức ảnh khác đã được sử dụng để khiến mọi người sợ hãi về Rain. Việc tìm kiếm bằng chứng bây giờ đồng nghĩa với việc tách biệt hai câu chuyện rất khác nhau.",
+      "title": "Cửa sổ của cuộc sống tốt đẹp hơn"
+    },
+    "zh": {
+      "altTexts": [
+        "第二天早上，Nova到达港口展示处领取货物照片。保存着办公室图片档案的Sideeye正在整理旅行陈列，让每一个生活都显得毫不费力。",
+        "这些展示旁边是一张 Rain 的裁剪照片，是他到Meadowfold的第一天，有人从公共小路拍下的。没有农舍和周围空旷的草地，这张照片让一个普通的动作看起来很危险。",
+        "Sideeye承认这个令人震惊的解释是他的发明，而不是摄影师亲眼所见。他把猜测说得十分肯定，吸引人们在橱窗前停下。 Nova 沉默着，没有用一句轻易的借口替他开脱。",
+        "Nova站在窗边处理Rain的照片造成的误解。在柜台上，Quest 要求提供另一张照片：Guff 查明的那批货物。千万不要与Rain的图片混淆。",
+        "同桌，Hush 将货物照片与扣环对照，Quest 在一旁观察。照片显示暴风雨前的记忆容器。其扣环上有一个微小的新月形刻痕。真正的破损部件上仍保留着相同的凹口，为 Quest 提供了损坏标签无法提供的细节。",
+        "在窗口，Sideeye撤下虚假的说法，展示完整的草地照片，并附上更正。他另给Nova一张照片，但她在其他地方使用之前会询问 Rain。他承认了造成的伤害，没有假装伤害会自行消失。",
+        "当晚Meadowfold，一份送来的报纸仍重述旧谣。 Mend 转达了 Nova 的请求，仅使用完整照片进行更正。 Rain 设定了这个限制，并要求把报纸收起来。"
+      ],
+      "captions": [
+        "第二天早上，Nova到达港口展示处领取货物照片。保存着办公室图片档案的Sideeye正在整理旅行陈列，让每一个生活都显得毫不费力。\n\nSideeye：“其他人似乎都有所收获。我只是把他们的照片贴出来。”",
+        "这些展示旁边是一张 Rain 的裁剪照片，是他到Meadowfold的第一天，有人从公共小路拍下的。没有农舍和周围空旷的草地，这张照片让一个普通的动作看起来很危险。\n\nNova：“这张图的其余部分在哪里？”",
+        "Sideeye承认这个令人震惊的解释是他的发明，而不是摄影师亲眼所见。他把猜测说得十分肯定，吸引人们在橱窗前停下。 Nova 沉默着，没有用一句轻易的借口替他开脱。\n\nSideeye：“当我听起来很确定时，人们会听。我根本不知道发生了什么，就把那番话说了出去。”",
+        "Nova站在窗边处理Rain的照片造成的误解。在柜台上，Quest 要求提供另一张照片：Guff 查明的那批货物。千万不要与Rain的图片混淆。\n\nQuest：“请提供交货照片——Guff处理记录中未经裁剪的照片。”",
+        "同桌，Hush 将货物照片与扣环对照，Quest 在一旁观察。照片显示暴风雨前的记忆容器。其扣环上有一个微小的新月形刻痕。真正的破损部件上仍保留着相同的凹口，为 Quest 提供了损坏标签无法提供的细节。\n\nHush [手语]：“在那里。在扣环上，而不是在 Rain 的照片上。”",
+        "在窗口，Sideeye撤下虚假的说法，展示完整的草地照片，并附上更正。他另给Nova一张照片，但她在其他地方使用之前会询问 Rain。他承认了造成的伤害，没有假装伤害会自行消失。\n\nSideeye：“Rain没有攻击任何人。这个说法是我发明的，我正在纠正它。”",
+        "当晚Meadowfold，一份送来的报纸仍重述旧谣。 Mend 转达了 Nova 的请求，仅使用完整照片进行更正。 Rain 设定了这个限制，并要求把报纸收起来。\n\nRain：“请把报纸收起来。Nova可以用完整照片澄清谎言，但不要再拿它制造新闻。”"
+      ],
+      "introduction": "Guff的账本带领朋友们来到Bellara的展示室。但在他们检查发货照片之前，Nova发现另一张照片被人用来制造关于Rain的恐慌。现在寻找证据意味着区分两个截然不同的故事。",
+      "title": "美好生活之窗"
+    }
+  },
+  "number": 7,
+  "panels": [
+    {
+      "altText": "The next morning, Nova reaches the harbor display office to collect the shipment photograph. Sideeye, who keeps the office's picture files, is arranging travel displays that make every other life look effortless.",
+      "image": "N01E07P01.png"
+    },
+    {
+      "altText": "Beside those displays is a cropped photograph of Rain, taken from Meadowfold's public road on his first day there. Without the farmhouse and empty grass around him, the picture makes an ordinary movement look threatening.",
+      "image": "N01E07P02.png"
+    },
+    {
+      "altText": "Sideeye admits that the alarming explanation was his invention, not something the photographer witnessed. Sounding certain made people stop at his window. Nova leaves a silence where an easy excuse might have gone.",
+      "image": "N01E07P03.png"
+    },
+    {
+      "altText": "Nova stays by the window to put Rain's picture right. At the desk, Quest asks for a different photograph: the shipment Guff identified. It must not be confused with the picture of Rain.",
+      "image": "N01E07P04.png"
+    },
+    {
+      "altText": "At the same desk, Hush compares the shipment photograph with the clasp while Quest watches. The photograph shows the carrier before the storm. On its clasp is a tiny crescent maker's notch. The same notch survives on the real broken piece, giving Quest a detail the damaged label could not supply.",
+      "image": "N01E07P05.png"
+    },
+    {
+      "altText": "At the window, Sideeye removes the false story and displays the full meadow photograph with a correction. He gives Nova a second print, but she will ask Rain before using it elsewhere. The harm is acknowledged, not wished away.",
+      "image": "N01E07P06.png"
+    },
+    {
+      "altText": "That evening in Meadowfold, a delivered newspaper still repeats the old rumor. Mend passes on Nova's request to use the full photograph only to correct it. Rain sets that limit—and asks to put the newspaper away.",
+      "image": "N01E07P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

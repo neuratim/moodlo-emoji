@@ -1,0 +1,439 @@
+{
+  "id": "N03E19",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يستقبل القادمين إعلانان مؤطران ونسخة واحدة على الطاولة.",
+        "يستبدل تافي إعلانا مؤطرا بينما يجمع إيفو الأصول.",
+        "يضع تافي تصحيحا بجوار الإعلان المنسوخ على الطاولة.",
+        "يستمع تافي إلى أومي بجوار طاولة القراءة.",
+        "يتسلم أومي نسخة مخصصة لنشرة القاعة.",
+        "يشاهد تافي وإيفو المنارة من خلف درابزين حجري.",
+        "يغلق تافي الملف بين سريرين منفصلين."
+      ],
+      "captions": [
+        "داخل قاعة الجزيرة، واجه الباب إعلانان أصليان. واستقرت نسخة مكتوبة باليد على طاولة القراءة المشتركة.",
+        "فتح أومي الإطارين بالمفتاح. وضع تافي تصحيحا في كل منهما، وجمع إيفو الأوراق الأصلية.",
+        "على طاولة القراءة، ترك تافي التصحيح الإضافي بجوار النسخة المنسوخة. يستطيع القراء رؤية ما تغير.",
+        "قال أومي: «يمكن جمع هذه الأوراق، لكن لا يمكنك معرفة كل من ردد ما ورد فيها». كف تافي عن الظن أن مجرد عد النسخ ينهي كل شيء.",
+        "طلب إدراج التصحيح في نشرة القاعة التالية. ومن يجد نسخة أخرى يستطيع الإبلاغ عنها عبر مركز البريد.",
+        "في الخارج، دار ضوء المنارة فوق الماء. وصل أبعد مما يرى تافي، مثلما فعلت كلماته.",
+        "باتا تلك الليلة في غرفة ضيوف الجزيرة. وُضعت تصحيحات لكل النسخ العشر المعروفة، لكن عمل إصلاح الضرر لم ينته."
+      ],
+      "introduction": "تصحح الإعلانات المعروفة الأخيرة علنا، من دون ادعاء إمكان استرجاع كل أثر.",
+      "title": "قاعة الضوء العائد"
+    },
+    "bn": {
+      "altTexts": [
+        "আসা দলটির সামনে দুটি ফ্রেমে ঘোষণা আর টেবিলে একটি কপি রয়েছে।",
+        "টাভি ফ্রেমের ঘোষণা বদলাচ্ছে, ইভো মূল কাগজ তুলছে।",
+        "টাভি টেবিলের নকল ঘোষণার পাশে সংশোধন রাখছে।",
+        "টাভি পড়ার টেবিলের পাশে ওমির কথা শুনছে।",
+        "ওমি সভাঘরের সংবাদের জন্য একটি কাজের কপি নিচ্ছে।",
+        "টাভি ও ইভো পাথরের রেলিংয়ের আড়াল থেকে বাতিঘর দেখছে।",
+        "টাভি আলাদা দুটি বিছানার মাঝে ফাইল বন্ধ করছে।"
+      ],
+      "captions": [
+        "দ্বীপের সভাঘরে দুটি মূল ঘোষণা দরজার দিকে ছিল। হাতে লেখা একটি কপি ছিল সবার পড়ার টেবিলে।",
+        "ওমি ফ্রেমের তালা খুলল। টাভি প্রতিটিতে সংশোধন রাখল, আর ইভো মূল কাগজগুলো সংগ্রহ করল।",
+        "পড়ার টেবিলে টাভি নকল ঘোষণার পাশে বাড়তি সংশোধন রাখল। পাঠকেরা দেখতে পারবে, কী বদলেছে।",
+        "ওমি বলল, “পাতা সংগ্রহ করতে পারো। কিন্তু কারা কথাটা বলেছে, সবাইকে জানতে পারবে না।” টাভি গোনাকেই কাজের শেষ ভাবা বন্ধ করল।",
+        "সে পরের সভাঘরের সংবাদেও সংশোধন দিতে বলল। কেউ অন্য কপি পেলে ডাকঘরের মাধ্যমে জানাতে পারবে।",
+        "বাইরে বাতিঘরের আলো জলের ওপর ঘুরল। টাভির চোখের সীমানার বাইরেও পৌঁছাল, তার কথার মতোই।",
+        "রাতে তারা দ্বীপের অতিথিঘরে থাকল। জানা দশটি কপির সবগুলোর সংশোধন হয়েছে, কিন্তু ক্ষতি সারানোর কাজ শেষ হয়নি।"
+      ],
+      "introduction": "শেষ জানা ঘোষণাগুলো জনসমক্ষে ঠিক হয়, কিন্তু সব প্রভাব ফিরিয়ে নেওয়া গেছে এমন দাবি থাকে না।",
+      "title": "ফিরে আসা আলোর ঘর"
+    },
+    "cs": {
+      "altTexts": [
+        "Příchozí vidí dvě zarámovaná oznámení a jednu kopii na stole.",
+        "Tavi nahrazuje oznámení v rámu, zatímco Ivo sbírá originály.",
+        "Tavi pokládá opravu vedle kopie na stole.",
+        "Tavi naslouchá Omimu u čtenářského stolu.",
+        "Omi přijímá pracovní kopii pro zpravodaj síně.",
+        "Tavi a Ivo sledují maják za kamenným zábradlím vyhlídky.",
+        "Tavi zavírá složku mezi dvěma oddělenými postelemi."
+      ],
+      "captions": [
+        "V ostrovní síni visela proti dveřím dvě původní oznámení. Ručně psaná kopie ležela na společném čtenářském stole.",
+        "Omi odemkl rámy. Tavi do každého vložil opravu a Ivo sebral původní listy.",
+        "Na čtenářském stole nechal Tavi dodatečnou opravu vedle opsaného oznámení. Čtenáři mohli porovnat, co se změnilo.",
+        "„Tyhle listy můžeš posbírat,“ řekl Omi. „Ale nezjistíš, kdo všechno je opakoval.“ Tavi přestal věřit, že pouhým počítáním vše dokončí.",
+        "Požádal síň o zařazení opravy do dalšího zpravodaje. Každý, kdo najde další kopii, to může oznámit přes poštu.",
+        "Venku přejížděl paprsek majáku po hladině. Jeho světlo dosahovalo dál, než Tavi viděl, stejně jako jeho slova.",
+        "Tu noc zůstali v ostrovním pokoji pro hosty. Všech deset známých kopií mělo opravu; práce na nápravě však neskončila."
+      ],
+      "introduction": "Poslední známá oznámení dostanou veřejné opravy, aniž by tím zmizely všechny jejich následky.",
+      "title": "Síň vracejícího se světla"
+    },
+    "de": {
+      "altTexts": [
+        "Zwei gerahmte Mitteilungen und eine Tischkopie empfangen die Gruppe.",
+        "Tavi ersetzt einen Aushang; Ivo sammelt die Originale ein.",
+        "Tavi legt eine Berichtigung neben die Abschrift auf dem Tisch.",
+        "Tavi hört Omi neben dem Lesetisch zu.",
+        "Omi nimmt eine Arbeitskopie für den Rundbrief der Halle entgegen.",
+        "Tavi und Ivo beobachten das Leuchtfeuer hinter einer steinernen Brüstung.",
+        "Tavi schließt die Mappe zwischen zwei getrennten Betten."
+      ],
+      "captions": [
+        "In der Inselhalle hingen zwei ursprüngliche Mitteilungen gegenüber der Tür. Eine handschriftliche Kopie lag auf dem gemeinsamen Lesetisch.",
+        "Omi schloss die Rahmen auf. Tavi setzte in jeden eine Berichtigung, während Ivo die ursprünglichen Blätter einsammelte.",
+        "Auf dem Lesetisch legte Tavi die zusätzliche Berichtigung neben die Abschrift. So konnten die Leser sehen, was sich geändert hatte.",
+        "„Diese Blätter kannst du einsammeln“, sagte Omi. „Aber nicht wissen, wer alles ihren Inhalt weitererzählt hat.“ Tavi hörte auf, im Zählen einen Abschluss zu suchen.",
+        "Er bat, die Berichtigung in den nächsten Rundbrief der Halle aufzunehmen. Weitere gefundene Kopien konnten über das Depot gemeldet werden.",
+        "Draußen drehte sich das Leuchtfeuer über dem Wasser. Sein Licht reichte weiter, als Tavi sehen konnte, genau wie seine Worte.",
+        "Sie blieben über Nacht im Gästezimmer der Insel. Alle zehn bekannten Exemplare hatten Berichtigungen; die Wiedergutmachung war noch nicht beendet."
+      ],
+      "introduction": "Die letzten bekannten Mitteilungen werden öffentlich berichtigt. Damit sind jedoch nicht alle Folgen rückgängig gemacht.",
+      "title": "Die Halle des wiederkehrenden Lichts"
+    },
+    "en": {
+      "altTexts": [
+        "Two framed notices and one table copy face the arriving group.",
+        "Tavi replaces a framed notice while Ivo gathers originals.",
+        "Tavi lays a correction beside the copied table notice.",
+        "Tavi listens to Omi beside the hall’s reading table.",
+        "Omi receives a service copy for the hall bulletin.",
+        "Tavi and Ivo watch the beacon behind a stone lookout rail.",
+        "Tavi closes the folder between two separate beds."
+      ],
+      "captions": [
+        "Inside the island hall, two original notices faced the doorway. A handwritten copy rested on the community reading table.",
+        "Omi unlocked the frames. Tavi placed a correction in each one while Ivo collected the original sheets.",
+        "For the reading table, Tavi left the extra correction beside the copied announcement. Readers could see what had changed.",
+        "“You can collect these pages,” Omi said. “You cannot know everyone who repeated them.” Tavi stopped counting as if counting could finish everything.",
+        "He asked the hall to include the correction in its next bulletin. Anyone finding another copy could report it through the depot.",
+        "Outside, the beacon turned across the water. Its light reached farther than Tavi could see, just as his words had.",
+        "They stayed in the island guest room that night. All ten known copies had corrections; the work of repair was not over."
+      ],
+      "introduction": "The final known notices are corrected in public, without pretending that every effect can be recalled.",
+      "title": "The Hall of Returning Light"
+    },
+    "es": {
+      "altTexts": [
+        "Dos avisos enmarcados y una copia sobre la mesa reciben al grupo.",
+        "Tavi reemplaza un aviso enmarcado e Ivo recoge los originales.",
+        "Tavi coloca una corrección junto al aviso copiado de la mesa.",
+        "Tavi escucha a Omi junto a la mesa de lectura.",
+        "Omi recibe una copia de trabajo para el boletín del salón.",
+        "Tavi e Ivo observan el faro detrás de la barandilla de piedra.",
+        "Tavi cierra la carpeta entre dos camas separadas."
+      ],
+      "captions": [
+        "Dentro del salón de la isla, dos avisos originales miraban hacia la puerta. Una copia manuscrita descansaba sobre la mesa de lectura comunitaria.",
+        "Omi abrió los marcos con llave. Tavi puso una corrección en cada uno mientras Ivo recogía las hojas originales.",
+        "En la mesa, Tavi dejó la corrección adicional junto al anuncio copiado. Los lectores podrían ver qué había cambiado.",
+        "«Puedes recoger estas hojas», dijo Omi. «Pero no puedes saber quiénes repitieron su contenido». Tavi dejó de contar como si contar pudiera resolverlo todo.",
+        "Pidió incluir la corrección en el siguiente boletín del salón. Quien encontrara otra copia podría comunicarlo a través de la oficina de reparto.",
+        "Fuera, el haz del faro recorría el agua. Su luz llegaba más lejos de lo que Tavi podía ver, igual que sus palabras.",
+        "Pasaron la noche en la habitación de huéspedes de la isla. Las diez copias conocidas tenían correcciones; la reparación todavía no había terminado."
+      ],
+      "introduction": "Los últimos avisos conocidos se corrigen en público, sin fingir que eso borra todas sus consecuencias.",
+      "title": "El salón de la luz que vuelve"
+    },
+    "fr": {
+      "altTexts": [
+        "Deux avis encadrés et une copie sur la table accueillent le groupe.",
+        "Tavi remplace un avis encadré pendant qu’Ivo recueille les originaux.",
+        "Tavi pose une rectification à côté de l’avis recopié sur la table.",
+        "Tavi écoute Omi près de la table de lecture.",
+        "Omi reçoit une copie de travail destinée au bulletin de la halle.",
+        "Tavi et Ivo regardent le phare derrière une rambarde de pierre.",
+        "Tavi ferme la pochette entre deux lits séparés."
+      ],
+      "captions": [
+        "Dans la halle de l’île, deux avis originaux faisaient face à la porte. Une copie manuscrite reposait sur la table de lecture commune.",
+        "Omi déverrouilla les cadres. Tavi plaça une rectification dans chacun, tandis qu’Ivo récupérait les feuilles originales.",
+        "Sur la table, Tavi déposa la rectification supplémentaire près de la copie. Les lecteurs pourraient voir ce qui avait changé.",
+        "« Tu peux récupérer ces feuilles », dit Omi. « Mais tu ne peux pas savoir qui en a répété le contenu. » Tavi cessa de compter comme si cela pouvait tout régler.",
+        "Il demanda d’inclure la rectification dans le prochain bulletin. Toute autre copie retrouvée pourrait être signalée par l’intermédiaire du dépôt.",
+        "Dehors, le faisceau du phare balayait l’eau. Sa lumière portait plus loin que le regard de Tavi, tout comme ses paroles.",
+        "Ils passèrent la nuit dans la chambre d’hôtes de l’île. Les dix exemplaires connus avaient leurs rectifications ; le travail de réparation continuait."
+      ],
+      "introduction": "Les derniers avis connus sont corrigés publiquement, sans prétendre en effacer toutes les conséquences.",
+      "title": "La halle de la lumière qui revient"
+    },
+    "hi": {
+      "altTexts": [
+        "आते यात्रियों के सामने दो चौखटों में घोषणाएँ और मेज़ पर एक नकल है।",
+        "तावी चौखटे की घोषणा बदल रहा है और ईवो मूल प्रतियाँ ले रहा है।",
+        "तावी मेज़ की नकल के पास सुधार रख रहा है।",
+        "तावी पढ़ने की मेज़ के पास ओमी की बात सुन रहा है।",
+        "ओमी भवन के बुलेटिन के लिए कामकाजी प्रति ले रहा है।",
+        "तावी और ईवो पत्थर की रेलिंग के पीछे से प्रकाशस्तंभ देख रहे हैं।",
+        "तावी अलग-अलग दो बिस्तरों के बीच फाइल बंद कर रहा है।"
+      ],
+      "captions": [
+        "द्वीप के भवन में दो मूल घोषणाएँ दरवाज़े की ओर लगी थीं। एक हाथ से लिखी नकल साझा पढ़ने की मेज़ पर थी।",
+        "ओमी ने चौखटों के ताले खोले। तावी ने हर एक में सुधार लगाया और ईवो ने मूल कागज़ समेटे।",
+        "पढ़ने की मेज़ पर तावी ने नकल की हुई घोषणा के पास अतिरिक्त सुधार रख दिया। पाठक देख सकेंगे कि क्या बदला है।",
+        "ओमी बोला, “पन्ने जुटा सकते हो, पर हर उस व्यक्ति को नहीं जान सकते जिसने बात दोहराई।” तावी ने गिनती को अंत समझना छोड़ दिया।",
+        "उसने अगले भवन-बुलेटिन में सुधार शामिल करने को कहा। किसी को और प्रति मिले तो डाकघर के जरिए खबर दी जा सकती है।",
+        "बाहर प्रकाशस्तंभ की किरण पानी पर घूमी। वह तावी की नज़र से भी दूर जाती थी, जैसे उसके शब्द गए थे।",
+        "रात वे द्वीप के अतिथि-कक्ष में रहे। पता चली दसों प्रतियों के पास सुधार थे, मगर नुकसान ठीक करने का काम खत्म नहीं हुआ था।"
+      ],
+      "introduction": "आखिरी ज्ञात घोषणाएँ सार्वजनिक रूप से सुधारी जाती हैं, मगर हर असर वापस नहीं लिया जा सकता।",
+      "title": "लौटती रोशनी का भवन"
+    },
+    "id": {
+      "altTexts": [
+        "Dua pengumuman berbingkai dan satu salinan di meja menyambut mereka.",
+        "Tavi mengganti pengumuman berbingkai sementara Ivo mengumpulkan lembar asli.",
+        "Tavi meletakkan pembetulan di samping salinan pengumuman di meja.",
+        "Tavi mendengarkan Omi di dekat meja baca.",
+        "Omi menerima salinan kerja untuk buletin aula.",
+        "Tavi dan Ivo mengamati mercusuar di balik pagar batu tempat pandang.",
+        "Tavi menutup map di antara dua tempat tidur terpisah."
+      ],
+      "captions": [
+        "Di dalam aula pulau, dua pengumuman asli menghadap pintu. Satu salinan tulisan tangan terletak di meja baca bersama.",
+        "Omi membuka kunci bingkai. Tavi memasang pembetulan di masing-masing bingkai sementara Ivo mengumpulkan lembar aslinya.",
+        "Di meja baca, Tavi meletakkan pembetulan tambahan di samping salinan pengumuman. Pembaca bisa melihat apa yang berubah.",
+        "“Kamu bisa mengumpulkan kertas ini,” kata Omi. “Tapi kamu tidak bisa mengetahui semua orang yang sudah menceritakan ulang isinya.” Tavi berhenti berharap hitungan bisa menyelesaikan segalanya.",
+        "Ia meminta aula memasukkan pembetulan ke buletin berikutnya. Siapa pun yang menemukan salinan lain bisa melaporkannya melalui kantor pengiriman.",
+        "Di luar, cahaya mercusuar berputar di atas air. Sinarnya menjangkau lebih jauh daripada pandangan Tavi, seperti kata-katanya.",
+        "Malam itu mereka menginap di kamar tamu pulau. Kesepuluh salinan yang diketahui sudah disertai pembetulan; pekerjaan memperbaiki keadaan belum selesai."
+      ],
+      "introduction": "Pengumuman terakhir yang diketahui dibetulkan di depan umum, tanpa berpura-pura bahwa semua akibatnya bisa dihapus.",
+      "title": "Aula Cahaya yang Kembali"
+    },
+    "it": {
+      "altTexts": [
+        "Due avvisi incorniciati e una copia sul tavolo accolgono il gruppo.",
+        "Tavi sostituisce un avviso incorniciato e Ivo raccoglie gli originali.",
+        "Tavi posa una rettifica accanto alla copia sul tavolo.",
+        "Tavi ascolta Omi vicino al tavolo di lettura.",
+        "Omi riceve una copia di servizio per il bollettino della sala.",
+        "Tavi e Ivo osservano il faro dietro una balaustra di pietra.",
+        "Tavi chiude la cartella tra due letti separati."
+      ],
+      "captions": [
+        "Nella sala dell’isola, due avvisi originali erano rivolti verso la porta. Una copia manoscritta era sul tavolo di lettura comune.",
+        "Omi aprì le cornici con la chiave. Tavi mise una rettifica in ciascuna, mentre Ivo raccoglieva i fogli originali.",
+        "Sul tavolo, Tavi lasciò la rettifica aggiuntiva accanto all’annuncio ricopiato. I lettori avrebbero potuto vedere che cosa era cambiato.",
+        "«Puoi raccogliere questi fogli», disse Omi. «Ma non puoi sapere chi ne ha ripetuto il contenuto». Tavi smise di contare come se bastasse a risolvere tutto.",
+        "Chiese di inserire la rettifica nel prossimo bollettino della sala. Chi trovava altre copie poteva segnalarle attraverso l’ufficio consegne.",
+        "Fuori, il fascio di luce del faro ruotava sull’acqua. Arrivava oltre lo sguardo di Tavi, proprio come le sue parole.",
+        "Quella notte rimasero nella stanza degli ospiti dell’isola. Tutte e dieci le copie note avevano una rettifica; il lavoro di riparazione non era finito."
+      ],
+      "introduction": "Gli ultimi avvisi noti vengono corretti pubblicamente, senza fingere di poterne cancellare tutte le conseguenze.",
+      "title": "La sala della luce che ritorna"
+    },
+    "ja": {
+      "altTexts": [
+        "入ってきた一行の前に、額の二枚と机の上の写し一枚があります。",
+        "タヴィが額の中身を替え、イヴォが元の紙を集めています。",
+        "タヴィが机の写しのそばに訂正を置いています。",
+        "タヴィが読書机のそばでオミの話を聞いています。",
+        "オミが集会所だより用の控えを受け取っています。",
+        "タヴィとイヴォが石の手すりの内側から灯台を見ています。",
+        "タヴィが二つの別々のベッドの間でファイルを閉じています。"
+      ],
+      "captions": [
+        "島の集会所では、入口に向かって元のお知らせが二枚ありました。共用の読書机には、手書きの写しが一枚ありました。",
+        "オミが額の鍵を開けました。タヴィが一枚ずつ訂正を入れ、イヴォが元の紙を集めました。",
+        "読書机では、写されたお知らせの横に追加の訂正を置きました。読む人は、何が変わったのか確かめられます。",
+        "「紙は集められる。でも、その話を繰り返した人を全員知ることはできない」。オミの言葉に、タヴィは数える手を止めました。",
+        "次の集会所だよりにも訂正を載せてほしいと頼みました。別の写しを見つけた人は、郵便所を通じて知らせられます。",
+        "外では、灯台の光が水面を巡っていました。タヴィの見えない先まで届きます。タヴィの言葉が届いたように。",
+        "その夜は島の客室に泊まりました。分かっている十枚には訂正が届きましたが、関係を直す仕事は終わっていません。"
+      ],
+      "introduction": "最後に分かっているお知らせを訂正しても、すべての影響を回収できたことにはなりません。",
+      "title": "光が戻る集会所"
+    },
+    "ko": {
+      "altTexts": [
+        "들어오는 일행 앞에 액자 속 두 공지문과 탁자의 사본 한 부가 있어요.",
+        "타비가 액자의 공지문을 바꾸고, 이보가 원본을 거둬요.",
+        "타비가 탁자 위 사본 옆에 정정문을 놓아요.",
+        "타비가 독서 탁자 옆에서 오미의 말을 들어요.",
+        "오미가 회관 소식지에 쓸 업무용 사본을 받아요.",
+        "타비와 이보가 돌 난간 안쪽에서 등대 빛을 바라봐요.",
+        "타비가 떨어진 두 침대 사이에서 서류철을 닫아요."
+      ],
+      "captions": [
+        "섬 회관 안에는 원래 공지문 두 부가 입구를 향해 있었어요. 공동 독서 탁자에는 손으로 베낀 한 부가 놓였어요.",
+        "오미가 액자 잠금을 열었어요. 타비가 정정문을 넣고, 이보는 원래 종이를 모았어요.",
+        "독서 탁자에는 베낀 공지문 옆에 추가 정정문을 놓았어요. 읽는 사람들은 무엇이 바뀌었는지 볼 수 있어요.",
+        "“종이는 모을 수 있어도, 그 말을 되풀이한 사람을 모두 알 수는 없어.” 오미의 말에 타비는 세는 것으로 끝내려던 마음을 멈췄어요.",
+        "타비는 다음 회관 소식지에도 정정문을 실어 달라고 부탁했어요. 다른 사본을 발견하면 우편소로 알려 달라는 안내도 남겼어요.",
+        "밖에서는 등대 빛이 물 위를 돌았어요. 타비가 볼 수 없는 곳까지 닿았어요. 타비의 말이 그랬던 것처럼요.",
+        "그날 밤은 섬의 손님방에 머물렀어요. 확인된 열 부 모두에 정정문이 도착했지만, 관계를 회복하는 일은 끝나지 않았어요."
+      ],
+      "introduction": "확인된 마지막 공지문을 바로잡되, 모든 영향까지 거둬들였다고 여기지는 않습니다.",
+      "title": "빛이 돌아오는 회관"
+    },
+    "pl": {
+      "altTexts": [
+        "Dwa ogłoszenia w ramach i kopia na stole witają przybyłych.",
+        "Tavi wymienia ogłoszenie w ramie, a Ivo zbiera oryginały.",
+        "Tavi kładzie sprostowanie obok przepisanej kopii na stole.",
+        "Tavi słucha Omiego przy stole do czytania.",
+        "Omi przyjmuje roboczą kopię do biuletynu sali.",
+        "Tavi i Ivo patrzą na latarnię zza kamiennej balustrady.",
+        "Tavi zamyka teczkę między dwoma oddzielnymi łóżkami."
+      ],
+      "captions": [
+        "W wyspiarskiej sali dwa oryginalne ogłoszenia wisiały naprzeciw drzwi. Ręcznie przepisana kopia leżała na wspólnym stole do czytania.",
+        "Omi otworzył ramy kluczem. Tavi włożył do każdej sprostowanie, a Ivo zebrał oryginalne kartki.",
+        "Na stole Tavi zostawił dodatkowe sprostowanie obok przepisanej kopii. Czytelnicy mogli zobaczyć, co się zmieniło.",
+        "„Możesz zebrać te kartki”, powiedział Omi. „Nie dowiesz się jednak, kto powtarzał ich treść”. Tavi przestał liczyć tak, jakby samo liczenie kończyło sprawę.",
+        "Poprosił o dodanie sprostowania do kolejnego biuletynu sali. Każdą dalszą kopię można zgłosić przez punkt wysyłkowy.",
+        "Na zewnątrz światło latarni obracało się nad wodą. Sięgało dalej niż wzrok Taviego, podobnie jak jego słowa.",
+        "Noc spędzili w wyspiarskim pokoju gościnnym. Wszystkie dziesięć znanych kopii miało sprostowania; naprawa relacji wciąż trwała."
+      ],
+      "introduction": "Ostatnie znane ogłoszenia otrzymują publiczne sprostowania, ale nie wszystkie skutki da się cofnąć.",
+      "title": "Sala powracającego światła"
+    },
+    "pt": {
+      "altTexts": [
+        "Dois avisos emoldurados e uma cópia na mesa recebem o grupo.",
+        "Tavi substitui um aviso emoldurado enquanto Ivo recolhe os originais.",
+        "Tavi coloca uma correção ao lado do aviso copiado sobre a mesa.",
+        "Tavi escuta Omi perto da mesa de leitura.",
+        "Omi recebe uma cópia de serviço para o boletim do salão.",
+        "Tavi e Ivo observam o farol atrás de uma proteção de pedra.",
+        "Tavi fecha a pasta entre duas camas separadas."
+      ],
+      "captions": [
+        "No salão da ilha, dois avisos originais estavam de frente para a porta. Uma cópia manuscrita repousava na mesa de leitura comunitária.",
+        "Omi abriu as molduras com a chave. Tavi colocou uma correção em cada uma enquanto Ivo recolhia as folhas originais.",
+        "Na mesa, Tavi deixou a correção extra ao lado do anúncio copiado. Os leitores poderiam ver o que havia mudado.",
+        "“Você pode recolher estas folhas”, disse Omi. “Não pode saber quem repetiu tudo isso.” Tavi parou de contar como se contar resolvesse tudo.",
+        "Pediu que a correção entrasse no próximo boletim do salão. Quem encontrasse outra cópia poderia avisar pela central de entregas.",
+        "Lá fora, o feixe de luz do farol girava sobre a água. Alcançava mais longe do que Tavi conseguia ver, assim como suas palavras.",
+        "Passaram aquela noite no quarto de hóspedes da ilha. As dez cópias conhecidas tinham correções; o trabalho de reparação não havia terminado."
+      ],
+      "introduction": "Os últimos avisos conhecidos são corrigidos em público, sem fingir que todas as consequências podem ser desfeitas.",
+      "title": "O salão da luz que retorna"
+    },
+    "ru": {
+      "altTexts": [
+        "Входящих встречают два объявления в рамках и одна копия на столе.",
+        "Тави заменяет лист в рамке; Иво собирает оригиналы.",
+        "Тави кладёт исправление возле переписанного объявления на столе.",
+        "Тави слушает Оми возле читального стола.",
+        "Оми принимает служебную копию для бюллетеня зала.",
+        "Тави и Иво смотрят на маяк из-за каменных перил.",
+        "Тави закрывает папку между двумя отдельными кроватями."
+      ],
+      "captions": [
+        "В островном зале напротив двери висели два исходных объявления. Рукописная копия лежала на общем читальном столе.",
+        "Оми открыл рамки. Тави вложил в каждую исправление, а Иво собрал исходные листы.",
+        "На читальном столе Тави оставил дополнительное исправление рядом с рукописной копией. Читатели увидят, что изменилось.",
+        "«Листы можно собрать, — сказал Оми. — Но всех, кто повторил слова, не узнать». Тави перестал считать, будто этого достаточно.",
+        "Он попросил добавить исправление в следующий бюллетень зала. О других найденных копиях можно сообщать через почтовое отделение.",
+        "Снаружи над водой вращался луч маяка. Его свет уходил дальше видимого — как и слова Тави.",
+        "Ночь они провели в островной гостевой комнате. Все десять известных экземпляров получили исправления; восстановление доверия ещё не закончилось."
+      ],
+      "introduction": "Последние известные объявления исправлены, но вернуть назад все последствия невозможно.",
+      "title": "Зал возвращённого света"
+    },
+    "tr": {
+      "altTexts": [
+        "Gelenlerin karşısında iki çerçeveli duyuru ve masada bir kopya var.",
+        "Tavi çerçevedeki duyuruyu değiştirirken Ivo özgün kâğıtları topluyor.",
+        "Tavi, masadaki kopyanın yanına düzeltme koyuyor.",
+        "Tavi, okuma masasının yanında Omi’yi dinliyor.",
+        "Omi, salon bülteni için çalışma kopyasını alıyor.",
+        "Tavi ile Ivo, taş korkuluğun arkasından feneri izliyor.",
+        "Tavi, iki ayrı yatağın arasındaki dosyayı kapatıyor."
+      ],
+      "captions": [
+        "Ada salonunda iki özgün duyuru kapıya bakıyordu. El yazısıyla çoğaltılmış bir kopya ortak okuma masasındaydı.",
+        "Omi çerçevelerin kilidini açtı. Tavi her birine düzeltme koyarken Ivo asıl kâğıtları topladı.",
+        "Tavi, okuma masasında ek düzeltmeyi kopyalanmış duyurunun yanına bıraktı. Okuyanlar neyin değiştiğini görebilecekti.",
+        "“Bu kâğıtları toplayabilirsin,” dedi Omi. “Ama sözleri kimlerin tekrarladığını bilemezsin.” Tavi, saymanın her şeyi bitireceğini düşünmekten vazgeçti.",
+        "Düzeltmenin sonraki salon bültenine eklenmesini istedi. Başka bir kopya bulanlar dağıtım merkezi aracılığıyla haber verebilecekti.",
+        "Dışarıda fenerin ışık demeti suyun üzerinde dönüyordu. Tavi’nin görebildiğinden öteye ulaşıyordu; tıpkı sözleri gibi.",
+        "O gece adanın misafir odasında kaldılar. Bilinen on kopyanın hepsi düzeltilmişti; ama onarma işi bitmemişti."
+      ],
+      "introduction": "Bilinen son duyurular herkesin görebileceği biçimde düzeltilir; tüm etkilerin geri alınabildiği söylenmez.",
+      "title": "Geri Dönen Işığın Salonu"
+    },
+    "vi": {
+      "altTexts": [
+        "Hai thông báo trong khung và một bản chép trên bàn hiện trước nhóm.",
+        "Tavi thay thông báo trong khung, còn Ivo thu bản gốc.",
+        "Tavi đặt đính chính cạnh bản chép trên bàn.",
+        "Tavi nghe Omi bên cạnh bàn đọc.",
+        "Omi nhận bản dùng cho bản tin nhà sinh hoạt.",
+        "Tavi và Ivo ngắm hải đăng sau lan can đá.",
+        "Tavi đóng hồ sơ giữa hai chiếc giường riêng."
+      ],
+      "captions": [
+        "Trong nhà sinh hoạt trên đảo, hai thông báo gốc đối diện cửa. Một bản chép tay nằm trên bàn đọc chung.",
+        "Omi mở khóa các khung. Tavi đặt đính chính vào từng khung, còn Ivo thu các tờ gốc.",
+        "Trên bàn đọc, Tavi để bản đính chính thêm cạnh thông báo chép tay. Người đọc có thể xem điều gì đã thay đổi.",
+        "“Cậu có thể thu những tờ giấy này,” Omi nói. “Nhưng không thể biết hết ai đã kể lại nội dung của chúng.” Tavi thôi nghĩ đếm đủ là xong tất cả.",
+        "Cậu nhờ thêm đính chính vào bản tin tiếp theo. Ai tìm thấy bản sao khác có thể báo qua trạm giao nhận.",
+        "Ngoài kia, luồng sáng hải đăng quét trên mặt nước. Ánh sáng vươn xa hơn tầm mắt Tavi, cũng như những lời cậu đã nói.",
+        "Đêm đó họ ở một căn phòng dành cho khách trên đảo. Cả mười bản đã biết đều có đính chính; công việc sửa sai vẫn chưa kết thúc."
+      ],
+      "introduction": "Những thông báo cuối cùng đã biết được đính chính công khai, nhưng không phải mọi hậu quả đều có thể xóa bỏ.",
+      "title": "Ngôi nhà của ánh sáng quay về"
+    },
+    "zh": {
+      "altTexts": [
+        "来客面前有两个框中的公告和桌上的一份副本。",
+        "塔维替换框内的公告，伊沃收集原件。",
+        "塔维把更正放在桌上的手抄公告旁。",
+        "塔维在大厅阅读桌旁听奥米说话。",
+        "奥米接过一份给大厅简报使用的副本。",
+        "塔维和伊沃站在石护栏内观看灯塔。",
+        "塔维在两张分开的床之间合上文件夹。"
+      ],
+      "captions": [
+        "岛上大厅里，两份原公告正对着门口。一份手抄副本放在公共阅读桌上。",
+        "奥米打开公告框。塔维往两个框里放入更正，伊沃收起原来的纸张。",
+        "在阅读桌上，塔维把额外的更正放在手抄公告旁。读者可以看见哪里被改正了。",
+        "“纸张可以收回来，”奥米说，“可你不会知道每一个转述的人。”塔维不再以为数完就能结束。",
+        "他请大厅在下一期简报中刊登更正。若有人发现别的副本，可以通过邮递站报告。",
+        "外面，灯塔光束转过水面。它照向塔维看不见的远处，正像他先前说出的话。",
+        "那晚他们住在岛上客房。十份已知副本都有了更正，但弥补伤害的工作还没结束。"
+      ],
+      "introduction": "最后的已知公告得到公开更正，但并非所有影响都能收回。",
+      "title": "光又照回来的大厅"
+    }
+  },
+  "number": 19,
+  "panels": [
+    {
+      "altText": "Two framed notices and one table copy face the arriving group.",
+      "image": "N03E19P01.png"
+    },
+    {
+      "altText": "Tavi replaces a framed notice while Ivo gathers originals.",
+      "image": "N03E19P02.png"
+    },
+    {
+      "altText": "Tavi lays a correction beside the copied table notice.",
+      "image": "N03E19P03.png"
+    },
+    {
+      "altText": "Tavi listens to Omi beside the hall’s reading table.",
+      "image": "N03E19P04.png"
+    },
+    {
+      "altText": "Omi receives a service copy for the hall bulletin.",
+      "image": "N03E19P05.png"
+    },
+    {
+      "altText": "Tavi and Ivo watch the beacon behind a stone lookout rail.",
+      "image": "N03E19P06.png"
+    },
+    {
+      "altText": "Tavi closes the folder between two separate beds.",
+      "image": "N03E19P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "communication",
+    "listening",
+    "responsibility"
+  ],
+  "version": 1
+}

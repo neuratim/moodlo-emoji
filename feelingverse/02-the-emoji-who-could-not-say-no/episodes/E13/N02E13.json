@@ -1,0 +1,442 @@
+{
+  "id": "N02E13",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يقرب تافي مقعدًا ثابتًا من ميند.",
+        "تستريح ميند جالسة والأشرطة الستة مرتخية حولها.",
+        "يجلس هاش قريبًا للدعم لا لاتخاذ القرار بدل ميند.",
+        "تقسم علامات العمل إلى احتياجات فعلية وأجزاء تحتاج إلى نقاش.",
+        "تتدرب ميند أمام صديقيها على توضيح قدرتها وحدودها.",
+        "ترتب ميند علامات البلدات الثلاث بحسب ترتيب الزيارات.",
+        "تقترب ميند من ليلت بجوار مظلة الشرفة غير المستخدمة."
+      ],
+      "captions": [
+        "كانت ميند لا تزال في قاعة فيلا حين نهضت لتسرع، لكن ركبتيها ارتجفتا. قرّب تافي مقعداً، لا خطة أخرى للعمل أكثر.",
+        "جلست ميند قبل أن تتم وعدًا آخر. لم يختفِ أي شريط. ومع ذلك، كان من حقها أن تستريح.",
+        "سألت: «هل تخبرانهم نيابة عني؟» عرض هاش بلغة الإشارة أن يرافقها. لكن الجواب عن وعود ميند يجب أن يعبر بوضوح عن قرارها هي.",
+        "فصلوا الحاجات الفعلية عن الإضافات: حماية النباتات وإصلاح درزة واحدة. أما الزينة ومواعيد الحضور الشخصي فتحتاج إلى حديث جديد.",
+        "تدربت ميند: «آسفة، وافقت قبل أن أتحقق. هذا أستطيع فعله، وذاك لا أستطيع». بدت الكلمات غير مألوفة، لكنها صادقة.",
+        "سيخبرون الناس قبل إعداد مزيد من العمل. بعض الخطط يمكن تعديلها معًا، وبعض الوعود تحتاج إلى رفض واضح.",
+        "بعد دقائق، وجدت ميند ليلت في الشرفة. كان أول حديث صريح قريباً بما يكفي ليبدأ من دون رحلة."
+      ],
+      "introduction": "تستريح ميند وتتدرب على توضيح ما تستطيع فعله وما لا تستطيع.",
+      "title": "مقعد قبل الإجابة"
+    },
+    "bn": {
+      "altTexts": [
+        "টাভি মেন্ডের কাছে স্থির চেয়ার টেনে দেয়।",
+        "মেন্ড ছয় আলগা ফিতা নিয়ে শান্তভাবে বিশ্রাম করছে।",
+        "হাশ বদলে সিদ্ধান্ত না নিয়ে মেন্ডের পাশে সহায় হয়ে বসে।",
+        "কাজের চিহ্নগুলো প্রকৃত দরকার ও আলোচনার অংশে ভাগ করা।",
+        "মেন্ড বন্ধুদের সামনে নিজের সীমা বলার অনুশীলন করে।",
+        "মেন্ড যাওয়ার ক্রম অনুযায়ী তিনটি শহরের চিহ্ন সাজাচ্ছে।",
+        "মেন্ড ছাদের অব্যবহৃত ছাউনির পাশে লিল্টের কাছে যাচ্ছে।"
+      ],
+      "captions": [
+        "মেন্ড তাড়াহুড়ো করে উঠল, হাঁটু কাঁপছিল। টাভি আরও খাটার পরিকল্পনা নয়, একটি চেয়ার এগিয়ে দিল।",
+        "আর একটি কথাও রাখার আগে মেন্ড বসল। কোনও ফিতা গেল না। তবু বিশ্রাম নেওয়া তার প্রাপ্য।",
+        "“আমার হয়ে তোমরা বলবে?” মেন্ড জিজ্ঞেস করল। হাশ ইশারা ভাষায় পাশে থাকার কথা জানাল। কিন্তু নিজের প্রতিশ্রুতি নিয়ে সিদ্ধান্তটি যে মেন্ডেরই, তা স্পষ্ট করে জানানো দরকার ছিল।",
+        "তারা দরকার আর বাড়তি ভাবনা আলাদা করল: চারা রক্ষা, ছাউনির একটি সেলাই। সাজসজ্জা আর নিজে উপস্থিত থাকার কথা নতুন করে বলতে হবে।",
+        "মেন্ড অনুশীলন করল। “না দেখে হ্যাঁ বলেছি, দুঃখিত। এটা পারব। ওটা পারব না।” কথাগুলো অচেনা লাগলেও সত্যি ছিল।",
+        "অন্যরা আরও প্রস্তুতি নেওয়ার আগেই জানাতে হবে। কিছু পরিকল্পনা একসঙ্গে বদলানো যাবে, আর কিছু প্রতিশ্রুতি স্পষ্টভাবে ‘না’ বলে ফিরিয়ে নিতে হবে।",
+        "কয়েক মিনিট পর মেন্ড ছাদে লিল্টকে পেল। প্রথম সৎ কথোপকথন এত কাছেই ছিল যে তার জন্য দূরে যেতে হলো না।"
+      ],
+      "introduction": "মেন্ড বিশ্রাম নিয়ে নিজের সীমা স্পষ্ট করে বলার অনুশীলন করে।",
+      "title": "উত্তর দেওয়ার আগে বসা"
+    },
+    "cs": {
+      "altTexts": [
+        "Tavi nabízí Mend nízkou židli vedle stolu.",
+        "Mend odpočívá na židli vedle šesti volných stuh.",
+        "Hush a Tavi sedí vedle Mend a nechávají jí prostor.",
+        "Přátelé oddělují značky potřebné práce od ozdob.",
+        "Mend si s Tavim a Hushem nacvičuje rozhovor.",
+        "Mend skládá městské značky do pořadí návštěv.",
+        "Mend přichází k Lilt u svinuté žluté plachty."
+      ],
+      "captions": [
+        "Ještě v sále se Mend zvedla, aby honem vyrazila. Kolena se jí třásla. Tavi přisunul židli, ne další plán.",
+        "Mend si sedla, i když šest slibů zůstávalo nesplněných. Nemusela vyprázdnit kalendář, aby měla právo na odpočinek.",
+        "„Možná byste jim to mohli říct za mě,“ zašeptala Mend. Hush znakoval: „Můžeme stát při tobě. Odpověď ale má být tvoje.“",
+        "Společně roztřídili prosby. Rostliny potřebovaly ochranu, lodní stříška opravit jeden šev. Obří výzdoba a Mendina přítomnost všude zároveň byly něco jiného.",
+        "„Řekla jsem ano bez ověření,“ zkoušela Mend. „Mrzí mě to. Tohle mohu udělat a tohle nemohu.“",
+        "Dohodli se, že promluví dřív, než se začne čekat další práce. Změny projednají a tam, kde Mend musí odstoupit, dají jasně vědět.",
+        "O pár minut později našla Mend Lilt na terase. První upřímný rozhovor byl tak blízko, že k němu nebylo třeba cestovat."
+      ],
+      "introduction": "Mend si odpočine a připraví se na upřímné rozhovory.",
+      "title": "Nejdřív židle, potom odpověď"
+    },
+    "de": {
+      "altTexts": [
+        "Tavi bietet Mend einen niedrigen Stuhl am Tisch an.",
+        "Mend ruht auf einem Stuhl neben sechs lockeren Bändern.",
+        "Hush und Tavi sitzen neben Mend und lassen ihr Raum zum Sprechen.",
+        "Die Freunde trennen praktische Arbeitsplättchen von Dekorationsplättchen.",
+        "Mend übt ein Gespräch mit Tavi und Hush.",
+        "Mend legt die drei Ortsplättchen in eine klare Besuchsreihenfolge.",
+        "Mend geht zu Lilt neben dem aufgerollten gelben Stoffdach."
+      ],
+      "captions": [
+        "Noch im Saal sprang Mend auf, um loszueilen. Ihre Knie zitterten. Tavi zog einen Stuhl heran, nicht einen weiteren Plan.",
+        "Mend setzte sich, obwohl sechs Versprechen unerfüllt blieben. Sie musste ihren Kalender nicht leeren, um sich ausruhen zu dürfen.",
+        "„Vielleicht könntet ihr es allen für mich sagen“, flüsterte Mend. Hush gebärdete: „Wir können bei dir bleiben. Deine Antwort soll trotzdem deine sein.“",
+        "Gemeinsam ordneten sie die Bitten. Pflanzen brauchten Schutz, das Fährdach eine reparierte Naht. Riesige Dekorationen und Mends Anwesenheit überall waren etwas anderes.",
+        "„Ich habe zugesagt, ohne nachzusehen“, übte Mend. „Es tut mir leid. Das kann ich tun, und das kann ich nicht.“",
+        "Sie wollten sprechen, bevor weitere Arbeit erwartet wurde. Änderungen würden sie besprechen; wo Mend aussteigen musste, würde sie es deutlich mitteilen.",
+        "Ein paar Minuten später fand Mend Lilt auf der Terrasse. Das erste ehrliche Gespräch war nah genug, um ohne Reise zu beginnen."
+      ],
+      "introduction": "Mend ruht sich aus und bereitet mit Unterstützung ehrliche Gespräche vor.",
+      "title": "Ein Stuhl vor der Antwort"
+    },
+    "en": {
+      "altTexts": [
+        "Tavi offers Mend a low chair beside the table.",
+        "Mend rests in a chair while six loose ribbons lie nearby.",
+        "Hush and Tavi sit beside Mend, leaving her room to speak.",
+        "The friends separate practical-work tokens from decoration tokens.",
+        "Mend rehearses a conversation with Tavi and Hush.",
+        "Mend puts the three town tokens in a clear visiting order.",
+        "Mend approaches Lilt beside the rolled yellow awning."
+      ],
+      "captions": [
+        "Still in Vela's hall, Mend stood up to rush away. Her knees trembled. Tavi pulled out a chair, not another plan.",
+        "Mend sat down while six promises remained unfinished. She did not have to clear her calendar before she was allowed to rest.",
+        "“Perhaps you could tell everyone for me,” Mend whispered. Hush signed, “We can stay beside you. Your answer should still be yours.”",
+        "Together, they sorted the requests. Plants needed protection; a ferry awning needed one seam repaired. Giant decorations and Mend's presence everywhere were different matters.",
+        "“I said yes without checking,” Mend practiced. “I am sorry. This is what I can do, and this is what I cannot.”",
+        "They agreed to speak before more work was expected. They would ask about changes, and give clear notice where Mend had to withdraw.",
+        "A few minutes later, Mend found Lilt on the terrace. The first honest conversation was close enough to begin without a journey."
+      ],
+      "introduction": "Mend rests and prepares to speak honestly, with support rather than rescue.",
+      "title": "A Chair Before an Answer"
+    },
+    "es": {
+      "altTexts": [
+        "Tavi ofrece a Mend una silla baja junto a la mesa.",
+        "Mend descansa en una silla junto a seis cintas sueltas.",
+        "Hush y Tavi se sientan junto a Mend, dejándole espacio para hablar.",
+        "Los amigos separan las fichas de trabajo práctico de las decorativas.",
+        "Mend ensaya una conversación con Tavi y Hush.",
+        "Mend pone las fichas de los pueblos en orden de visita.",
+        "Mend se acerca a Lilt junto al toldo amarillo enrollado."
+      ],
+      "captions": [
+        "Todavía en el salón, Mend se levantó para salir corriendo. Le temblaban las rodillas. Tavi acercó una silla, no otro plan.",
+        "Mend se sentó con seis promesas aún sin cumplir. No tenía que vaciar el calendario para tener permiso de descansar.",
+        "«Quizá podríais decírselo por mí», susurró Mend. Hush respondió con señas: «Podemos acompañarte. La respuesta debe seguir siendo tuya».",
+        "Juntos ordenaron las peticiones. Las plantas necesitaban protección; el toldo del barco, una costura reparada. Los adornos gigantes y la presencia de Mend en todas partes eran otra cosa.",
+        "«Dije que sí sin comprobarlo», practicó Mend. «Lo siento. Esto es lo que puedo hacer, y esto es lo que no puedo».",
+        "Acordaron hablar antes de que se esperara más trabajo. Negociarían cambios y avisarían claramente cuando Mend tuviera que retirarse.",
+        "Unos minutos después, Mend encontró a Lilt en la terraza. La primera conversación sincera estaba lo bastante cerca como para empezar sin viajar."
+      ],
+      "introduction": "Mend descansa y se prepara para hablar con sinceridad y apoyo.",
+      "title": "Una silla antes de responder"
+    },
+    "fr": {
+      "altTexts": [
+        "Tavi propose une chaise basse à Mend près de la table.",
+        "Mend se repose sur une chaise près de six rubans lâches.",
+        "Hush et Tavi s’assoient près de Mend en lui laissant la place de parler.",
+        "Les amis séparent les jetons de travaux pratiques de ceux des décorations.",
+        "Mend prépare une conversation avec Tavi et Hush.",
+        "Mend range les jetons des villages dans l’ordre des visites.",
+        "Mend rejoint Lilt près de l’auvent jaune roulé."
+      ],
+      "captions": [
+        "Toujours dans la salle, Mend se leva pour repartir précipitamment. Ses genoux tremblaient. Tavi lui avança une chaise, pas un nouveau programme.",
+        "Mend s’assit alors que six promesses restaient inachevées. Elle n’avait pas à vider son calendrier pour avoir le droit de se reposer.",
+        "« Peut-être pourriez-vous le leur dire à ma place », murmura Mend. Hush signa : « Nous pouvons rester près de toi. Ta réponse doit rester la tienne. »",
+        "Ensemble, ils trièrent les demandes. Les plants avaient besoin d’un abri ; l’auvent du bateau, d’une couture réparée. Les décorations géantes et la présence de Mend partout à la fois étaient autre chose.",
+        "« J’ai dit oui sans vérifier, répéta Mend. Je suis désolée. Voici ce que je peux faire et ce que je ne peux pas faire. »",
+        "Ils décidèrent de parler avant qu’on n’attende davantage de travail. Ils discuteraient des changements et préviendraient clairement lorsque Mend devait se retirer.",
+        "Quelques minutes plus tard, Mend trouva Lilt sur la terrasse. La première conversation sincère était assez proche pour commencer sans voyage."
+      ],
+      "introduction": "Mend se repose et prépare des paroles sincères avec le soutien de ses amis.",
+      "title": "Une chaise avant une réponse"
+    },
+    "hi": {
+      "altTexts": [
+        "तावी मेंड के पास स्थिर कुर्सी खींचता है।",
+        "मेंड छह ढीले रिबनों के साथ बैठकर आराम करती है।",
+        "हश पास बैठकर सहारा देता है, उसकी जगह निर्णय नहीं करता।",
+        "कामों के निशान ज़रूरत और चर्चा वाले हिस्सों में बाँटे जाते हैं।",
+        "मेंड दो दोस्तों के सामने अपनी सीमाएँ बताने का अभ्यास करती है।",
+        "मेंड तीन कस्बों के निशान मुलाकात के क्रम में लगाती है।",
+        "मेंड छत के इस्तेमाल न हुए शामियाने के पास खड़ी लिल्ट की ओर जाती है।"
+      ],
+      "captions": [
+        "मेंड जल्दी जाने के लिए उठी, लेकिन घुटने काँप रहे थे। तावी ने और काम की योजना नहीं, एक कुर्सी पास कर दी।",
+        "एक और वादा पूरा होने से पहले ही मेंड बैठ गई। कोई रिबन गायब नहीं हुआ। फिर भी उसे आराम करने का अधिकार था।",
+        "“क्या तुम दोनों मेरी ओर से कह दोगे?” मेंड ने पूछा। हश ने संकेत भाषा में साथ रहने की बात कही। लेकिन अपने वादों पर मेंड का निर्णय साफ़ तौर पर उसी की ओर से आना चाहिए था।",
+        "उन्होंने असली ज़रूरत और बढ़ाई हुई बातें अलग कीं: पौधों की सुरक्षा, छाजन की एक सिलाई; सजावट और खुद पहुँचने के वादों पर फिर बात करनी थी।",
+        "मेंड ने अभ्यास किया। “माफ़ करना, जाँचे बिना हाँ कह दी। यह कर सकती हूँ। यह नहीं कर सकती।” शब्द नए लगे, मगर सच्चे थे।",
+        "लोग और काम तैयार करें, उससे पहले बताना था। कुछ योजनाएँ मिलकर बदल सकती थीं, कुछ वादे साफ़ मना करके वापस लेने थे।",
+        "कुछ मिनट बाद मेंड को छत पर लिल्ट मिल गई। पहली सच्ची बातचीत इतनी पास थी कि उसे शुरू करने के लिए सफ़र की ज़रूरत नहीं थी।"
+      ],
+      "introduction": "मेंड आराम करती है और अपनी सीमाएँ साफ़ बताने का अभ्यास करती है।",
+      "title": "जवाब देने से पहले बैठना"
+    },
+    "id": {
+      "altTexts": [
+        "Tavi menawarkan tempat duduk yang stabil kepada Mend.",
+        "Mend beristirahat dengan enam pita longgar di sekelilingnya.",
+        "Hush duduk dekat Mend dan menawarkan dukungan, bukan mengambil alih.",
+        "Penanda pekerjaan dibagi menjadi kelompok kebutuhan yang berbeda.",
+        "Mend berlatih berbicara kepada dua temannya di meja.",
+        "Mend menyusun tiga penanda kota sesuai urutan kunjungan.",
+        "Mend menghampiri Lilt di samping tenda teras yang belum digunakan."
+      ],
+      "captions": [
+        "Masih di gedung Vela, Mend bangkit hendak bergegas. Lututnya gemetar. Tavi mendekatkan kursi, bukan memberinya rencana baru untuk bekerja lebih keras.",
+        "Mend duduk sebelum menyelesaikan satu janji lagi. Tidak ada pita yang hilang. Ia tetap boleh beristirahat.",
+        "“Bisakah kalian memberi tahu mereka untukku?” tanyanya. Hush menawarkan lewat bahasa isyarat untuk mendampingi. Namun, jawaban tentang janji Mend tetap harus jelas berasal darinya.",
+        "Mereka memisahkan kebutuhan nyata dari tambahan: perlindungan tanaman, satu jahitan tudung, serta hiasan dan kehadiran yang harus dibicarakan ulang.",
+        "Mend berlatih. “Maaf, aku menjawab ya sebelum memeriksa. Ini yang bisa kulakukan. Ini yang tidak bisa.” Kalimatnya terasa asing, tetapi jujur.",
+        "Mereka akan berbicara sebelum orang lain menyiapkan lebih banyak pekerjaan. Sebagian rencana bisa diubah bersama; sebagian harus ditolak dengan jelas.",
+        "Beberapa menit kemudian, Mend menemui Lilt di teras. Percakapan jujur yang pertama bisa dimulai tanpa harus bepergian jauh."
+      ],
+      "introduction": "Mend beristirahat dan menyiapkan kata-kata yang jujur bersama teman-temannya.",
+      "title": "Duduk Sebelum Menjawab"
+    },
+    "it": {
+      "altTexts": [
+        "Tavi offre a Mend una sedia bassa accanto al tavolo.",
+        "Mend riposa su una sedia vicino a sei nastri allentati.",
+        "Hush e Tavi siedono accanto a Mend, lasciandole spazio per parlare.",
+        "Gli amici separano i gettoni dei lavori pratici da quelli delle decorazioni.",
+        "Mend prova una conversazione con Tavi e Hush.",
+        "Mend dispone i tre paesi in un ordine preciso di visita.",
+        "Mend raggiunge Lilt accanto alla copertura gialla arrotolata."
+      ],
+      "captions": [
+        "Ancora nella sala, Mend si alzò per correre via. Le tremavano le ginocchia. Tavi avvicinò una sedia, non un altro piano.",
+        "Mend si sedette con sei promesse ancora incomplete. Non doveva svuotare il calendario per avere il permesso di riposare.",
+        "«Forse potreste dirlo a tutti al posto mio», sussurrò Mend. Hush rispose con i segni: «Possiamo stare accanto a te. La risposta deve restare tua».",
+        "Insieme divisero le richieste. Le piantine avevano bisogno di protezione; il tendalino del traghetto, di una cucitura riparata. Le decorazioni gigantesche e la presenza di Mend ovunque erano un’altra cosa.",
+        "«Ho detto sì senza controllare», si esercitò Mend. «Mi dispiace. Questo posso farlo, e questo no».",
+        "Decisero di parlare prima che si aspettasse altro lavoro. Avrebbero discusso i cambiamenti e avvisato chiaramente quando Mend doveva ritirarsi.",
+        "Pochi minuti dopo Mend trovò Lilt sulla terrazza. La prima conversazione sincera era abbastanza vicina da iniziare senza mettersi in viaggio."
+      ],
+      "introduction": "Mend riposa e prepara parole sincere con l’appoggio degli amici.",
+      "title": "Una sedia prima di rispondere"
+    },
+    "ja": {
+      "altTexts": [
+        "タヴィがメンドのそばへ、安定した椅子を寄せています。",
+        "メンドが六本のゆるいリボンとともに休んでいます。",
+        "ハッシュが近くに座り、代わるのではなく支えようとしています。",
+        "作業の印が、必要な部分と相談する部分に分けられています。",
+        "メンドが二人の友達に向かって、答え方を練習しています。",
+        "メンドが、訪ねる順番に三つの町の目印を並べています。",
+        "メンドが、使っていないテラスの雨よけのそばにいるリルトに近づいています。"
+      ],
+      "captions": [
+        "メンドは急いで立ち上がりましたが、ひざが震えていました。タヴィはもっと働く案ではなく、椅子を近づけました。",
+        "もう一つ約束を終える前に、メンドは座りました。リボンは減りません。それでも、休んでよかったのです。",
+        "「代わりに話してくれる？」とメンド。ハッシュは付き添うと手話で伝えました。でも、メンドの約束についての答えは、彼女の意思として伝える必要がありました。",
+        "みんなで必要な仕事と付け足しを分けました。苗を守ること、雨よけの縫い目を直すこと。飾りや訪問の約束は、話し直すことにしました。",
+        "メンドは練習しました。「確かめずに引き受けてごめんなさい。これはできる。でも、これはできません」言い慣れなくても、正直な言葉でした。",
+        "相手がさらに仕事を用意する前に話そう。相談して変えられる計画もあれば、はっきり断らなければならない約束もあります。",
+        "数分後、メンドはテラスでリルトを見つけました。最初の正直な話し合いは、遠くへ行かなくても始められました。"
+      ],
+      "introduction": "メンドは休み、できることとできないことを伝える練習をします。",
+      "title": "答える前に座ろう"
+    },
+    "ko": {
+      "altTexts": [
+        "타비가 멘드 옆에 튼튼한 의자를 놓습니다.",
+        "멘드가 여섯 느슨한 리본과 함께 조용히 쉽니다.",
+        "허시가 멘드 가까이에 앉아 대신 결정하지 않고 곁을 지킵니다.",
+        "작업 표시를 실제 필요와 협의할 부분으로 나눕니다.",
+        "멘드가 친구들 앞에서 가능한 일과 불가능한 일을 말하는 연습을 합니다.",
+        "멘드가 방문할 순서대로 마을 표식 세 개를 놓습니다.",
+        "멘드가 쓰지 않은 테라스 차양 옆에 있는 릴트에게 다가갑니다."
+      ],
+      "captions": [
+        "멘드는 서둘러 일어났지만 무릎이 떨렸습니다. 타비는 더 열심히 일할 계획 대신 의자를 가까이 놓았습니다.",
+        "다른 약속 하나를 더 끝내기도 전에 멘드는 앉았습니다. 리본은 줄지 않았습니다. 그래도 쉬어도 괜찮았습니다.",
+        "“나 대신 말해 줄래?” 멘드가 물었습니다. 허시는 함께 있어 주겠다고 수어로 답했습니다. 하지만 멘드의 약속에 관한 답은 그녀의 뜻으로 분명히 전해야 했습니다.",
+        "필요한 일과 덧붙인 일을 나누었습니다. 모종 보호와 차양 이음매 수선은 필요했습니다. 장식과 직접 방문하는 약속은 다시 이야기해야 했습니다.",
+        "멘드는 연습했습니다. “확인하지 않고 약속해서 미안해. 이것은 할 수 있지만 저것은 못 해.” 낯설어도 솔직한 말이었습니다.",
+        "상대가 더 많은 일을 준비하기 전에 알리기로 했습니다. 함께 바꿀 계획도 있고 분명히 거절해야 할 약속도 있었습니다.",
+        "몇 분 뒤, 멘드는 테라스에서 릴트를 만났습니다. 첫 솔직한 대화는 멀리 떠나지 않고도 시작할 수 있었습니다."
+      ],
+      "introduction": "멘드는 쉬면서 솔직하게 한계를 말하는 연습을 합니다.",
+      "title": "대답하기 전에 앉기"
+    },
+    "pl": {
+      "altTexts": [
+        "Tavi podsuwa Mend niskie krzesło przy stole.",
+        "Mend odpoczywa na krześle przy sześciu luźnych wstążkach.",
+        "Hush i Tavi siedzą przy Mend, zostawiając jej miejsce do wypowiedzi.",
+        "Przyjaciele oddzielają znaczniki potrzebnej pracy od znaczników dekoracji.",
+        "Mend ćwiczy rozmowę z Tavim i Hushem.",
+        "Mend układa znaczniki miasteczek w kolejności odwiedzin.",
+        "Mend podchodzi do Lilt przy zwiniętej żółtej osłonie."
+      ],
+      "captions": [
+        "Jeszcze w sali Mend poderwała się, by ruszyć w pośpiechu. Drżały jej kolana. Tavi przysunął krzesło, nie kolejny plan.",
+        "Mend usiadła, choć sześć obietnic było niespełnionych. Nie musiała opróżniać kalendarza, by mieć prawo odpocząć.",
+        "„Może powiedzielibyście im za mnie?” — szepnęła Mend. Hush zamigał: „Możemy być obok. Ale odpowiedź powinna należeć do ciebie”.",
+        "Wspólnie uporządkowali prośby. Rośliny potrzebowały ochrony, a daszek promu naprawy jednego szwu. Wielkie dekoracje i obecność Mend wszędzie naraz były czymś innym.",
+        "„Zgodziłam się bez sprawdzenia” — ćwiczyła Mend. „Przepraszam. To mogę zrobić, a tego nie mogę”.",
+        "Postanowili porozmawiać, zanim ktoś zacznie czekać na kolejną pracę. Uzgodnią zmiany, a gdy Mend musi się wycofać, jasno to oznajmią.",
+        "Kilka minut później Mend znalazła Lilt na tarasie. Pierwsza szczera rozmowa była na tyle blisko, że nie trzeba było podróżować."
+      ],
+      "introduction": "Mend odpoczywa i z pomocą przyjaciół przygotowuje szczere rozmowy.",
+      "title": "Krzesło przed odpowiedzią"
+    },
+    "pt": {
+      "altTexts": [
+        "Tavi oferece uma cadeira baixa a Mend junto da mesa.",
+        "Mend descansa numa cadeira perto de seis fitas frouxas.",
+        "Hush e Tavi se sentam junto de Mend, deixando espaço para ela falar.",
+        "Os amigos separam as fichas de trabalhos práticos das de decoração.",
+        "Mend ensaia uma conversa com Tavi e Hush.",
+        "Mend organiza as fichas das vilas numa ordem de visitas.",
+        "Mend se aproxima de Lilt junto da cobertura amarela enrolada."
+      ],
+      "captions": [
+        "Ainda no salão, Mend se levantou para sair correndo. Seus joelhos tremiam. Tavi puxou uma cadeira, não outro plano.",
+        "Mend se sentou com seis promessas ainda por cumprir. Não precisava esvaziar o calendário para ter permissão de descansar.",
+        "“Talvez vocês pudessem contar por mim”, sussurrou Mend. Hush respondeu em sinais: “Podemos ficar ao seu lado. A resposta ainda deve ser sua”.",
+        "Juntos, organizaram os pedidos. As plantas precisavam de proteção; o toldo do barco, de uma costura reparada. Enfeites gigantes e a presença de Mend em todos os lugares eram outra coisa.",
+        "“Eu disse sim sem conferir”, ensaiou Mend. “Sinto muito. Isto eu posso fazer, e isto eu não posso.”",
+        "Combinaram conversar antes que mais trabalho fosse esperado. Pediriam mudanças e avisariam com clareza quando Mend precisasse retirar um compromisso.",
+        "Poucos minutos depois, Mend encontrou Lilt no terraço. A primeira conversa sincera estava perto o bastante para começar sem uma viagem."
+      ],
+      "introduction": "Mend descansa e prepara conversas sinceras com apoio dos amigos.",
+      "title": "Uma cadeira antes da resposta"
+    },
+    "ru": {
+      "altTexts": [
+        "Тави предлагает Менд низкий стул возле стола.",
+        "Менд отдыхает на стуле рядом с шестью свободными лентами.",
+        "Хаш и Тави сидят возле Менд, оставляя ей пространство для ответа.",
+        "Друзья отделяют жетоны нужной работы от жетонов украшений.",
+        "Менд репетирует разговор с Тави и Хашем.",
+        "Менд располагает жетоны городков в порядке посещений.",
+        "Менд подходит к Лилт возле свёрнутого жёлтого навеса."
+      ],
+      "captions": [
+        "Ещё в зале Менд встала, собираясь броситься в путь. Колени дрожали. Тави подвинул ей стул, а не новый план.",
+        "Менд села, хотя шесть обещаний оставались невыполненными. Ей не нужно было опустошать календарь, чтобы получить право на отдых.",
+        "«Может, вы скажете всем за меня?» — прошептала Менд. Хаш ответил жестами: «Мы можем быть рядом. Но ответ должен оставаться твоим».",
+        "Вместе они разобрали просьбы. Растениям нужна была защита, навесу парома — починка одного шва. Огромные украшения и присутствие Менд повсюду были совсем другим делом.",
+        "«Я согласилась, не проверив, — репетировала Менд. — Простите. Вот что я могу сделать, а вот чего не могу».",
+        "Они решили поговорить, прежде чем от них будут ждать новую работу. Обсудить изменения и ясно предупредить там, где Менд приходится отказаться.",
+        "Через несколько минут Менд нашла Лилт на террасе. Первый честный разговор был так близко, что ради него не требовалось путешествие."
+      ],
+      "introduction": "Менд отдыхает и с поддержкой друзей готовится к честным разговорам.",
+      "title": "Сначала стул, потом ответ"
+    },
+    "tr": {
+      "altTexts": [
+        "Tavi, masanın yanında Mend’e alçak bir sandalye sunuyor.",
+        "Mend altı gevşek kurdelenin yanında sandalyede dinleniyor.",
+        "Hush ve Tavi, konuşabilmesi için Mend’e alan bırakarak yanında oturuyor.",
+        "Arkadaşlar gerekli iş simgelerini süsleme simgelerinden ayırıyor.",
+        "Mend, Tavi ve Hush’la bir konuşmanın provasını yapıyor.",
+        "Mend kasaba simgelerini ziyaret sırasına diziyor.",
+        "Mend sarılı sarı tentenin yanındaki Lilt’e yaklaşıyor."
+      ],
+      "captions": [
+        "Mend salonda aceleyle kalkıp gitmek istedi. Dizleri titredi. Tavi başka bir plan değil, bir sandalye çekti.",
+        "Altı söz tamamlanmamışken Mend oturdu. Dinlenmeye hakkı olması için önce takvimini boşaltması gerekmiyordu.",
+        "“Belki herkese benim yerime siz söylersiniz,” diye fısıldadı Mend. Hush işaret diliyle cevap verdi: “Yanında olabiliriz. Ama cevap yine senin olmalı.”",
+        "İstekleri birlikte ayırdılar. Bitkilerin korunması, feribot tentesinin de bir dikişinin onarılması gerekiyordu. Dev süslemeler ve Mend’in her yerde bulunması başka meselelerdi.",
+        "“Kontrol etmeden evet dedim,” diye prova yaptı Mend. “Özür dilerim. Bunu yapabilirim, bunu yapamam.”",
+        "Daha çok iş beklenmeden konuşacaklardı. Değişiklikleri soracak, Mend’in çekilmesi gereken yerlerde açıkça haber vereceklerdi.",
+        "Birkaç dakika sonra Mend, Lilt’i terasta buldu. İlk dürüst konuşma, yolculuk gerektirmeyecek kadar yakındaydı."
+      ],
+      "introduction": "Mend dinlenir ve arkadaşlarının desteğiyle dürüst konuşmalara hazırlanır.",
+      "title": "Cevaptan Önce Bir Sandalye"
+    },
+    "vi": {
+      "altTexts": [
+        "Tavi đặt chiếc ghế vững cạnh Mend.",
+        "Mend nghỉ cùng sáu dải băng lỏng quanh mình.",
+        "Hush ngồi gần để hỗ trợ, không quyết định thay Mend.",
+        "Các dấu công việc được chia thành nhu cầu thiết yếu và phần cần thương lượng.",
+        "Mend tập nói rõ giới hạn với hai người bạn.",
+        "Mend xếp ba vật đánh dấu thị trấn theo thứ tự sẽ ghé thăm.",
+        "Mend bước tới chỗ Lilt bên tấm mái che sân hiên chưa dùng."
+      ],
+      "captions": [
+        "Mend đứng dậy định vội đi, nhưng đầu gối run. Tavi kéo ghế lại, không đưa thêm kế hoạch để cô làm nhiều hơn.",
+        "Mend ngồi xuống khi chưa xong thêm lời hứa nào. Không dải băng nào mất đi. Cô vẫn được nghỉ.",
+        "“Các cậu nói giúp mình được không?” cô hỏi. Hush dùng ngôn ngữ ký hiệu đề nghị đi cùng, nhưng câu trả lời về lời hứa của Mend vẫn phải rõ ràng là quyết định của cô.",
+        "Họ tách nhu cầu thật khỏi phần tự thêm: bảo vệ cây, sửa một đường may mái che; còn trang trí và các cuộc hẹn phải được bàn lại.",
+        "Mend tập nói: “Xin lỗi, mình nhận lời trước khi kiểm tra. Việc này mình làm được. Việc kia mình không thể.” Câu nói lạ miệng nhưng chân thật.",
+        "Họ sẽ báo trước khi người khác chuẩn bị thêm việc. Có kế hoạch đổi được cùng nhau; có lời hứa phải từ chối rõ ràng.",
+        "Vài phút sau, Mend tìm thấy Lilt trên sân hiên. Cuộc trò chuyện thẳng thắn đầu tiên ở ngay gần, không cần một chuyến đi xa."
+      ],
+      "introduction": "Mend nghỉ ngơi và tập nói rõ điều mình làm được và không làm được.",
+      "title": "Ngồi xuống trước khi trả lời"
+    },
+    "zh": {
+      "altTexts": [
+        "塔维把稳固的椅子放到门德身旁。",
+        "门德安静坐着，六条丝带松松垂落。",
+        "哈什坐近一些，提供陪伴而不是代替门德决定。",
+        "任务标记按实际需要和需要协商的部分分开。",
+        "门德面对两个朋友，练习说明自己的能力和限度。",
+        "门德按拜访顺序摆放三枚小镇标记。",
+        "门德走向露台上未使用的雨篷旁的莉尔特。"
+      ],
+      "captions": [
+        "门德站起来，想赶紧出发，膝盖却在发抖。塔维搬来一把椅子，没有再给她更拼命的方案。",
+        "门德坐下时，没有又完成任何承诺。丝带一条也没少。可她仍然有权休息。",
+        "“你们能替我告诉他们吗？”她问。哈什用手语表示愿意陪着她，但有关门德承诺的答复，仍需清楚表达她自己的决定。",
+        "他们分清真正需要的事和额外添加的事：护住幼苗，修好一条篷缝；装饰和亲自到场的约定，则要重新商量。",
+        "门德练习着说：“对不起，我没查看就答应了。这些我能做，那些我做不到。”话有点陌生，却很诚实。",
+        "他们要在人们继续准备更多工作前开口。有些计划可以共同修改，有些则需要明确拒绝。",
+        "几分钟后，门德在露台上找到了莉尔特。第一次坦诚的谈话就在近处，不必远行就能开始。"
+      ],
+      "introduction": "门德休息下来，练习如何诚实地说明自己的限度。",
+      "title": "回答之前先坐下"
+    }
+  },
+  "number": 13,
+  "panels": [
+    {
+      "altText": "Tavi offers Mend a low chair beside the table.",
+      "image": "N02E13P01.png"
+    },
+    {
+      "altText": "Mend rests in a chair while six loose ribbons lie nearby.",
+      "image": "N02E13P02.png"
+    },
+    {
+      "altText": "Hush and Tavi sit beside Mend, leaving her room to speak.",
+      "image": "N02E13P03.png"
+    },
+    {
+      "altText": "The friends separate practical-work tokens from decoration tokens.",
+      "image": "N02E13P04.png"
+    },
+    {
+      "altText": "Mend rehearses a conversation with Tavi and Hush.",
+      "image": "N02E13P05.png"
+    },
+    {
+      "altText": "Mend puts the three town tokens in a clear visiting order.",
+      "image": "N02E13P06.png"
+    },
+    {
+      "altText": "Mend approaches Lilt beside the rolled yellow awning.",
+      "image": "N02E13P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

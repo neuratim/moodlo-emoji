@@ -1,0 +1,442 @@
+{
+  "id": "N02E03",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "تعرض ليلت رسم مظلة واسعة فوق مسرح خارجي.",
+        "يظهر الشريط السادس، أصفر ذو خطوط متعرجة.",
+        "تقف ميند ثابتة على الأرض بين شريطين يمتدان في اتجاهين متعاكسين.",
+        "يضع بورو صندوقًا يحوي اثني عشر فانوسًا مطويًا.",
+        "يمتد الشريط الفضي السابع نحو صندوق الفوانيس.",
+        "تنتشر سبعة أشرطة حول مقعد منخفض في الورشة.",
+        "توضع الطائرة المكسورة على الرف الخلفي المنخفض."
+      ],
+      "captions": [
+        "قبل إغلاق الورشة، وصلت ليلت من فيلا، على بُعد ساعتين بالطريق الغربي. احتاج عازفوها إلى مظلة كبيرة في الخارج.",
+        "احتاجت ليلت إلى ميند في فيلا عند ظهر اليوم الخامس. قالت ميند: «سأحضر هناك أيضًا»، قبل أن تفكر في معنى «أيضًا».",
+        "شد الأصفر غربًا والأزرق شرقًا. ضحكت ميند من خطواتها التي بدت كرقصة مرتبكة، لكن الوعدين كانا يشدان حقًا في اتجاهين متعاكسين.",
+        "بعد رحيل ليلت، عاد بورو بصندوق فوانيس إضافية. «هل تصلحين هذه قبل افتتاح اليوم الخامس؟»",
+        "قالت ميند: «سأصلح كل فانوس إضافي تحضره قبل الافتتاح». ظهر شريط فضي منقط. لم تضع لعرضها حدًا واضحًا.",
+        "ترك بورو الصندوق وشكرها. حاولت ميند الجلوس، لكن الأشرطة السبعة المرتخية ملأت المساحة حول مقعدها.",
+        "وحيدة تلك الليلة، نقلت ميند الطائرة الورقية إلى الرف. همست: «ما إن ينتهي كل شيء، سيكون هناك وقت»."
+      ],
+      "introduction": "تتعارض المواعيد المتزامنة ويتسع العمل الذي قبلته بلا حد.",
+      "title": "الشريط السابع"
+    },
+    "bn": {
+      "altTexts": [
+        "লিল্ট চওড়া মঞ্চের ছাউনির নকশা দেখাচ্ছে।",
+        "ষষ্ঠ হলুদ আঁকাবাঁকা নকশার ফিতা দেখা যাচ্ছে।",
+        "মেন্ডের পা মাটিতে আছে; দুটি ফিতা দুই দিকে বাড়ছে।",
+        "বোরো বারোটি ভাঁজ করা লণ্ঠনের বাক্স নামাচ্ছে।",
+        "সপ্তম রুপালি ফিতা লণ্ঠনের বাক্সের দিকে বাড়ছে।",
+        "নিচু টুলের চারদিকে সাতটি ফিতা ছড়িয়ে আছে।",
+        "ভাঙা ঘুড়ি কর্মশালার পেছনের নিচু তাকে রাখা হচ্ছে।"
+      ],
+      "captions": [
+        "কর্মশালা বন্ধ হওয়ার আগে লিল্ট ভেলা থেকে এল। পশ্চিমের সড়কে দু ঘণ্টার পথ। তার দলের জন্য বড় বাইরের ছাউনি দরকার।",
+        "লিল্টেরও পঞ্চম দিনের দুপুরে মেন্ডকে চাই। “সেখানেও আসব,” মেন্ড বলল, “ও” কথাটার মানে না ভেবেই।",
+        "হলুদ ফিতা পশ্চিমে, নীল ফিতা পূর্বে টানছিল। মেন্ডের পা যেন অদ্ভুত নাচ করছিল। সে হাসল, কিন্তু প্রতিশ্রুতিগুলো সত্যিই বিপরীত দিকে টানছিল।",
+        "লিল্ট চলে গেলে বোরো বাড়তি লণ্ঠনের বাক্স নিয়ে ফিরল। “পঞ্চম দিনের উদ্বোধনের আগে এগুলোও সারিয়ে দেবে?”",
+        "“উদ্বোধনের আগে যত বাড়তি লণ্ঠন আনবে, সব সারাব।” রুপালি ফুটকিওয়ালা ফিতা দেখা দিল। এই প্রস্তাবে সংখ্যার কোনও সীমা ছিল না।",
+        "বোরো ধন্যবাদ দিয়ে বাক্স রেখে গেল। মেন্ড বসতে গেল, কিন্তু সাতটি আলগা ফিতা তার টুলের চারপাশ ভরে রেখেছিল।",
+        "রাতে একা মেন্ড ঘুড়ি তাকের ওপর রাখল। “সব কাজ শেষ হলে,” সে ফিসফিস করল, “তখন সময় হবে।”"
+      ],
+      "introduction": "একই সময়ের কথা দেওয়া আর সীমাহীন বাড়তি কাজ জট পাকায়।",
+      "title": "সাত নম্বর ফিতা"
+    },
+    "cs": {
+      "altTexts": [
+        "Lilt rozkládá nákres plachty nad terasou.",
+        "K pěti stuhám přibývá žlutá stuha s klikatým vzorem.",
+        "Dvě stuhy jemně táhnou Mend opačnými směry.",
+        "Boro drží krabici s dvanácti složenými lampiony.",
+        "Vedle krabice lampionů vzniká stříbrná tečkovaná stuha.",
+        "Sedm stuh se rozprostírá kolem Mendiny stoličky a krabice.",
+        "Mend ukládá rozbitého draka na nízkou polici."
+      ],
+      "captions": [
+        "Před zavřením dílny dorazila Lilt z městečka Vela, dvě hodiny cesty na západ. Její hudebníci potřebovali velkou venkovní plachtu.",
+        "Lilt potřebovala Mend v městečku Vela v poledne pátého dne. „Tam budu taky,“ řekla Mend, aniž se zamyslela nad slovem „taky“.",
+        "Žlutá stuha táhla na západ, modrá na východ. Mend se tomu nešikovnému tanečku zasmála, ale sliby ji opravdu táhly opačnými směry.",
+        "Po Liltině odchodu se Boro vrátil s krabicí dalších lampionů. „Opravila bys je před zahájením pátého dne?“",
+        "„Opravím všechny další lampiony, které přineseš před zahájením,“ odpověděla Mend. Objevila se stříbrná tečkovaná stuha. Její nabídka neměla jasnou hranici.",
+        "Boro nechal krabici v dílně a poděkoval. Mend si chtěla sednout, ale prostor kolem stoličky vyplňovalo sedm volných stuh.",
+        "Tu noc Mend o samotě odložila draka na polici. „Až bude všechno hotové,“ zašeptala, „pak bude čas.“"
+      ],
+      "introduction": "Prosba o pomoc se vzdáleným vystoupením a neomezená nabídka přidají poslední dvě stuhy.",
+      "title": "Sedmá stuha"
+    },
+    "de": {
+      "altTexts": [
+        "Lilt entfaltet die Zeichnung eines Stoffdachs über einer Terrasse.",
+        "Ein gelbes Zickzackband kommt zu Mends fünf anderen Bändern.",
+        "Zwei Bänder ziehen Mend sanft in entgegengesetzte Richtungen.",
+        "Boro hält eine Kiste mit zwölf zusammengefalteten Laternen.",
+        "Neben der Laternenkiste erscheint ein silbernes gepunktetes Band.",
+        "Sieben Bänder breiten sich um Mends Hocker und die Kiste aus.",
+        "Mend stellt den kaputten Drachen in ein niedriges Regal."
+      ],
+      "captions": [
+        "Kurz vor Ladenschluss kam Lilt aus Vela, zwei Wegstunden westlich. Ihre Musiker brauchten ein großes Dach für die Bühne im Freien.",
+        "Lilt brauchte Mend am fünften Tag um zwölf in Vela. „Da bin ich auch“, sagte Mend, ohne über das Wort „auch“ nachzudenken.",
+        "Das gelbe Band zog nach Westen, das blaue nach Osten. Mend lachte über den unbeholfenen kleinen Tanz, doch die Versprechen zogen wirklich in entgegengesetzte Richtungen.",
+        "Nach Lilts Abschied kam Boro mit einer Kiste zusätzlicher Laternen zurück. „Könntest du diese vor der Eröffnung am fünften Tag reparieren?“",
+        "„Ich repariere jede zusätzliche Laterne, die du vor der Eröffnung bringst“, antwortete Mend. Ein silbernes Band mit Punkten erschien. Ihr Angebot hatte keine klare Grenze.",
+        "Boro ließ die Kiste da und bedankte sich. Mend wollte sich setzen, aber sieben lose Bänder füllten den Platz um ihren Hocker.",
+        "In dieser Nacht stellte Mend den Drachen allein ins Regal. „Sobald alles fertig ist“, flüsterte sie, „wird Zeit sein.“"
+      ],
+      "introduction": "Ein fernes Konzert und ein grenzenloses Angebot vervollständigen das Durcheinander.",
+      "title": "Das siebte Band"
+    },
+    "en": {
+      "altTexts": [
+        "Lilt unfolds a drawing of an awning over a terrace.",
+        "A yellow zigzag ribbon joins Mend’s five other ribbons.",
+        "Two ribbons gently pull Mend in opposite directions.",
+        "Boro sets down a box containing twelve folded lanterns.",
+        "A silver dotted ribbon appears beside the box of lanterns.",
+        "Seven ribbons spread around Mend’s stool and the lantern box.",
+        "Mend places the broken kite on a low workshop shelf."
+      ],
+      "captions": [
+        "Before the workshop closed, Lilt arrived from Vela, two hours west by road. Her musicians needed a large outdoor awning.",
+        "Lilt needed Mend in Vela at noon on the fifth day. “I will be there too,” Mend said, before thinking about “too.”",
+        "The yellow ribbon tugged west; the blue one tugged east. Mend laughed at the awkward little dance, but the promises really did pull in opposite directions.",
+        "After Lilt departed, Boro returned with a box of extra lanterns. “Could you repair these before the fifth day's opening?”",
+        "“I will repair every extra lantern you bring before opening,” Mend replied. A silver, dotted ribbon appeared. Her offer had no clear limit.",
+        "Boro left the box and thanked her. Mend tried to sit down, but seven loose ribbons filled the space around her stool.",
+        "Alone that night, Mend moved the kite to a shelf. “As soon as everything is finished,” she whispered, “there will be time.”"
+      ],
+      "introduction": "A distant performance and an open-ended offer complete Mend’s tangle.",
+      "title": "The Seventh Ribbon"
+    },
+    "es": {
+      "altTexts": [
+        "Lilt despliega un dibujo de un toldo sobre una terraza.",
+        "Una cinta amarilla en zigzag se suma a las otras cinco.",
+        "Dos cintas tiran suavemente de Mend en sentidos opuestos.",
+        "Boro sostiene una caja con doce faroles plegados.",
+        "Aparece una cinta plateada con puntos junto a la caja.",
+        "Siete cintas se extienden alrededor del taburete y la caja.",
+        "Mend coloca la cometa rota en una estantería baja."
+      ],
+      "captions": [
+        "Antes del cierre llegó Lilt desde Vela, a dos horas por el camino occidental. Sus músicos necesitaban un gran toldo al aire libre.",
+        "Lilt necesitaba a Mend en Vela al mediodía del quinto día. «También estaré allí», dijo Mend, sin pensar en aquel «también».",
+        "La cinta amarilla tiraba hacia el oeste; la azul, hacia el este. Mend se rio de aquel baile torpe, pero sus promesas realmente tiraban en direcciones opuestas.",
+        "Después de que Lilt se fuera, Boro volvió con una caja de faroles adicionales. «¿Podrías arreglarlos antes de la inauguración del quinto día?».",
+        "«Arreglaré todos los faroles adicionales que traigas antes de la inauguración», respondió Mend. Apareció una cinta plateada con puntos. Su oferta no tenía un límite claro.",
+        "Boro dejó la caja y le dio las gracias. Mend intentó sentarse, pero siete cintas sueltas ocupaban el espacio alrededor del taburete.",
+        "Sola aquella noche, Mend puso la cometa en una estantería. «Cuando todo esté terminado», susurró, «habrá tiempo»."
+      ],
+      "introduction": "Un concierto lejano y una oferta sin límites completan el enredo.",
+      "title": "La séptima cinta"
+    },
+    "fr": {
+      "altTexts": [
+        "Lilt déplie le dessin d’un auvent au-dessus d’une terrasse.",
+        "Un ruban jaune à zigzags rejoint les cinq autres.",
+        "Deux rubans tirent doucement Mend dans des directions opposées.",
+        "Boro tient une boîte contenant douze lanternes pliées.",
+        "Un ruban argenté à pois apparaît près de la boîte.",
+        "Sept rubans s’étalent autour du tabouret de Mend et de la boîte.",
+        "Mend pose le cerf-volant cassé sur une étagère basse."
+      ],
+      "captions": [
+        "Avant la fermeture, Lilt arriva de Vela, à deux heures de route vers l’ouest. Ses musiciens avaient besoin d’un grand auvent extérieur.",
+        "Lilt avait besoin de Mend à Vela à midi le cinquième jour. « J’y serai aussi », dit Mend, sans réfléchir à ce « aussi ».",
+        "Le ruban jaune tirait vers l’ouest ; le bleu, vers l’est. Mend rit de cette petite danse maladroite, mais ses promesses tiraient vraiment en sens opposés.",
+        "Après le départ de Lilt, Boro revint avec une boîte de lanternes supplémentaires. « Pourrais-tu les réparer avant l’ouverture du cinquième jour ? »",
+        "« Je réparerai toutes les lanternes supplémentaires que tu apporteras avant l’ouverture », répondit Mend. Un ruban argenté à pois apparut. Son offre n’avait aucune limite claire.",
+        "Boro la remercia et laissa la boîte. Mend voulut s’asseoir, mais sept rubans souples remplissaient l’espace autour de son tabouret.",
+        "Seule, ce soir-là, Mend rangea le cerf-volant sur une étagère. « Dès que tout sera terminé, murmura-t-elle, il y aura du temps. »"
+      ],
+      "introduction": "Un concert lointain et une offre sans limite achèvent d’emmêler Mend.",
+      "title": "Le septième ruban"
+    },
+    "hi": {
+      "altTexts": [
+        "लिल्ट चौड़े मंच के छाजन का चित्र दिखाती है।",
+        "छठा पीला टेढ़ी-मेढ़ी धारियों वाला रिबन दिखाई देता है।",
+        "मेंड के पैर ज़मीन पर हैं और दो रिबन विपरीत दिशाओं में बढ़ते हैं।",
+        "बोरो बारह तह की हुई लालटेनों वाला डिब्बा रखता है।",
+        "सातवाँ चाँदी जैसा रिबन लालटेनों के डिब्बे की ओर जाता है।",
+        "सात रिबन छोटे स्टूल के चारों ओर फैले हैं।",
+        "टूटी पतंग कार्यशाला की पिछली नीची शेल्फ पर रखी जाती है।"
+      ],
+      "captions": [
+        "कार्यशाला बंद होने से पहले लिल्ट वेला से आई। पश्चिम की सड़क पर दो घंटे का रास्ता था। उसके संगीत दल को बड़ा बाहरी छाजन चाहिए था।",
+        "लिल्ट को भी पाँचवें दिन दोपहर में मेंड चाहिए थी। “मैं वहाँ भी आऊँगी,” मेंड ने कहा, “भी” का मतलब सोचे बिना।",
+        "पीला रिबन पश्चिम को खींच रहा था, नीला पूर्व को। मेंड की चाल अटपटा नाच बन गई। वह हँसी, लेकिन वादे सचमुच उलटी दिशाओं में थे।",
+        "लिल्ट गई तो बोरो अतिरिक्त लालटेनों का डिब्बा लेकर लौटा। “क्या इन्हें पाँचवें दिन के उद्घाटन से पहले ठीक कर दोगी?”",
+        "“उद्घाटन से पहले जो भी अतिरिक्त लालटेनें लाओगे, सब ठीक कर दूँगी।” चाँदी जैसा बिंदियों वाला रिबन उभरा। इस प्रस्ताव में संख्या की कोई सीमा नहीं थी।",
+        "बोरो धन्यवाद देकर डिब्बा छोड़ गया। मेंड बैठने लगी, लेकिन सात ढीले रिबन उसके स्टूल के आसपास की जगह घेर चुके थे।",
+        "रात में अकेली मेंड ने पतंग शेल्फ पर रख दी। “जब सब पूरा हो जाएगा,” उसने धीरे से कहा, “तब समय मिलेगा।”"
+      ],
+      "introduction": "एक ही समय के वादे और बिना सीमा का काम उलझन बढ़ाते हैं।",
+      "title": "सातवाँ रिबन"
+    },
+    "id": {
+      "altTexts": [
+        "Lilt menunjukkan rancangan tudung panggung yang lebar.",
+        "Pita kuning berzigzag menjadi pita keenam Mend.",
+        "Mend tetap berpijak aman saat dua pita merentang berlawanan arah.",
+        "Boro meletakkan kotak berisi dua belas lampion lipat.",
+        "Pita ketujuh yang berwarna perak mengarah ke kotak lampion.",
+        "Tujuh pita menghalangi ruang kosong di sekitar bangku rendah.",
+        "Layang-layang rusak disimpan di rak rendah bengkel."
+      ],
+      "captions": [
+        "Sebelum bengkel tutup, Lilt datang dari Vela, dua jam ke barat melalui jalan darat. Para pemusiknya memerlukan tudung besar untuk panggung luar ruangan.",
+        "Lilt membutuhkan Mend di Vela pada tengah hari kelima. “Aku akan datang juga,” kata Mend, tanpa memikirkan arti “juga”.",
+        "Pita kuning menarik ke barat; pita biru menarik ke timur. Mend tertawa karena langkahnya menjadi canggung, tetapi kedua janji benar-benar berlawanan arah.",
+        "Setelah Lilt pergi, Boro kembali membawa sekotak lampion tambahan. “Bisakah kau memperbaikinya sebelum pembukaan pada hari kelima?”",
+        "“Akan kuperbaiki semua lampion tambahan yang kaubawa sebelum pembukaan.” Pita perak berbintik muncul. Tawaran Mend tidak memiliki batas yang jelas.",
+        "Boro meninggalkan kotak itu sambil berterima kasih. Mend hendak duduk, tetapi tujuh pita longgar memenuhi ruang di sekitar bangkunya.",
+        "Malam itu, sendirian, Mend memindahkan layang-layang ke rak. “Begitu semuanya selesai,” bisiknya, “pasti ada waktu.”"
+      ],
+      "introduction": "Mend menjanjikan bantuan di Vela dan menerima pekerjaan lampion tanpa batas.",
+      "title": "Pita Ketujuh"
+    },
+    "it": {
+      "altTexts": [
+        "Lilt apre un disegno di una copertura sopra una terrazza.",
+        "Un nastro giallo a zigzag si aggiunge agli altri cinque.",
+        "Due nastri tirano delicatamente Mend in direzioni opposte.",
+        "Boro tiene una scatola contenente dodici lanterne ripiegate.",
+        "Un nastro argentato a puntini appare accanto alla scatola.",
+        "Sette nastri si allargano intorno allo sgabello e alla scatola.",
+        "Mend posa l’aquilone rotto su uno scaffale basso."
+      ],
+      "captions": [
+        "Prima della chiusura arrivò Lilt da Vela, due ore di cammino verso ovest. I suoi musicisti avevano bisogno di una grande copertura all’aperto.",
+        "Lilt aveva bisogno di Mend a Vela a mezzogiorno del quinto giorno. «Ci sarò anch’io», disse Mend, senza riflettere su quell’«anche».",
+        "Il nastro giallo tirava a ovest, quello blu a est. Mend rise di quel piccolo ballo goffo, ma le promesse tiravano davvero in direzioni opposte.",
+        "Dopo la partenza di Lilt, Boro tornò con una scatola di lanterne aggiuntive. «Potresti ripararle prima dell’inaugurazione del quinto giorno?»",
+        "«Riparerò ogni lanterna aggiuntiva che porterai prima dell’apertura», rispose Mend. Apparve un nastro argentato a puntini. L’offerta non aveva un limite chiaro.",
+        "Boro lasciò la scatola e la ringraziò. Mend cercò di sedersi, ma sette nastri sciolti occupavano lo spazio attorno allo sgabello.",
+        "Sola quella notte, Mend mise l’aquilone su uno scaffale. «Appena sarà tutto finito», sussurrò, «ci sarà tempo»."
+      ],
+      "introduction": "Un concerto lontano e un’offerta senza limiti completano il groviglio.",
+      "title": "Il settimo nastro"
+    },
+    "ja": {
+      "altTexts": [
+        "リルトが、広い舞台を覆う雨よけの図を見せています。",
+        "六本目の黄色いジグザグ模様のリボンが現れています。",
+        "メンドは足を地面につけたまま、左右に伸びるリボンの間に立っています。",
+        "ボロが、折りたたまれた十二個のちょうちんを置いています。",
+        "七本目の銀色のリボンが、ちょうちんの箱へ伸びています。",
+        "低い腰かけの周りに七本のリボンが広がっています。",
+        "壊れたたこが、作業場の奥の低い棚に置かれています。"
+      ],
+      "captions": [
+        "作業場を閉める前に、リルトがヴェラから来ました。西の道を二時間歩く町です。楽団には、大きな屋外用の雨よけが必要でした。",
+        "リルトがメンドを待つのも、五日目の正午でした。「そちらにも行くよ」とメンド。「にも」の意味を考える前に答えていました。",
+        "黄色いリボンは西へ、青いリボンは東へ。メンドはぎこちない踊りのような足取りに笑いました。でも、約束は本当に反対へ引いていました。",
+        "リルトが帰ると、ボロが追加のちょうちんを箱に入れて戻ってきました。「五日目の開会前に、これも直せる？」",
+        "「追加で持ってくる分も、開会までに全部直すよ」とメンド。銀色の水玉模様のリボンが現れました。数は決めていませんでした。",
+        "ボロは箱を置いて礼を言いました。メンドが座ろうとすると、七本のゆるいリボンが腰かけの周りを埋めていました。",
+        "その夜、一人になったメンドは、たこを棚へ移しました。「全部終わったら」と小さく言います。「きっと時間ができる」"
+      ],
+      "introduction": "同じ時刻の約束と、数を決めない引き受け方が問題を広げます。",
+      "title": "七本目のリボン"
+    },
+    "ko": {
+      "altTexts": [
+        "릴트가 넓은 야외 무대 차양의 설계도를 보여 줍니다.",
+        "여섯 번째 노랑 지그재그 리본이 생깁니다.",
+        "멘드가 땅에 발을 붙인 채 양쪽으로 뻗은 리본 사이에 섭니다.",
+        "보로가 접힌 등불 열두 개가 든 상자를 내려놓습니다.",
+        "일곱 번째 은빛 리본이 등불 상자로 뻗습니다.",
+        "낮은 의자 주변에 일곱 리본이 넓게 펼쳐져 있습니다.",
+        "부러진 연이 작업실 뒤쪽 낮은 선반에 놓입니다."
+      ],
+      "captions": [
+        "작업실을 닫기 전, 릴트가 벨라에서 왔습니다. 서쪽 길로 두 시간 거리였습니다. 연주자들에게는 큰 야외 차양이 필요했습니다.",
+        "릴트도 다섯째 날 정오에 멘드가 필요했습니다. “거기도 갈게.” 멘드는 ‘거기도’가 무슨 뜻인지 생각하기 전에 대답했습니다.",
+        "노랑 리본은 서쪽으로, 파랑 리본은 동쪽으로 당겼습니다. 멘드는 어색한 춤 같은 발걸음에 웃었지만 약속들은 정말 반대 방향을 가리켰습니다.",
+        "릴트가 떠난 뒤 보로가 추가 등불 한 상자를 들고 돌아왔습니다. “다섯째 날 개막 전에 이것도 고쳐 줄래?”",
+        "“개막 전까지 가져오는 추가 등불은 전부 고칠게.” 멘드가 대답했습니다. 점무늬 은빛 리본이 생겼습니다. 수량에는 제한이 없었습니다.",
+        "보로는 상자를 놓고 고맙다고 했습니다. 멘드가 앉으려 하자 느슨한 리본 일곱 개가 의자 주변을 가득 채웠습니다.",
+        "그날 밤 혼자 남은 멘드는 연을 선반에 올렸습니다. “모든 일이 끝나면,” 하고 속삭였습니다. “그때는 시간이 생기겠지.”"
+      ],
+      "introduction": "같은 시각의 약속과 끝없는 추가 작업이 서로 얽힙니다.",
+      "title": "일곱 번째 리본"
+    },
+    "pl": {
+      "altTexts": [
+        "Lilt rozkłada rysunek osłony nad tarasem.",
+        "Żółta wstążka w zygzaki dołącza do pozostałych pięciu.",
+        "Dwie wstążki delikatnie ciągną Mend w przeciwne strony.",
+        "Boro trzyma pudełko z dwunastoma złożonymi lampionami.",
+        "Obok pudełka pojawia się srebrna wstążka w kropki.",
+        "Siedem wstążek rozkłada się wokół stołka Mend i pudełka.",
+        "Mend odkłada zepsuty latawiec na niską półkę."
+      ],
+      "captions": [
+        "Przed zamknięciem warsztatu przybyła Lilt z miasteczka Vela, oddalonego o dwie godziny drogi na zachód. Jej muzycy potrzebowali wielkiego zadaszenia na dworze.",
+        "Lilt potrzebowała Mend w miasteczku miasteczku Vela w południe piątego dnia. „Tam też będę” — powiedziała Mend, nie zastanawiając się nad słowem „też”.",
+        "Żółta wstążka ciągnęła na zachód, niebieska na wschód. Mend roześmiała się z niezgrabnego tańca, lecz obietnice naprawdę ciągnęły ją w przeciwne strony.",
+        "Po wyjściu Lilt Boro wrócił z pudełkiem dodatkowych lampionów. „Naprawisz je przed otwarciem piątego dnia?”",
+        "„Naprawię każdy dodatkowy lampion, który przyniesiesz przed otwarciem” — odparła Mend. Pojawiła się srebrna wstążka w kropki. Oferta nie miała wyraźnej granicy.",
+        "Boro zostawił pudełko i podziękował. Mend próbowała usiąść, ale siedem luźnych wstążek zajmowało przestrzeń wokół stołka.",
+        "Samotnie tej nocy Mend odłożyła latawiec na półkę. „Gdy tylko wszystko skończę” — szepnęła — „będzie czas”."
+      ],
+      "introduction": "Daleki koncert i oferta bez granic dopełniają plątaniny.",
+      "title": "Siódma wstążka"
+    },
+    "pt": {
+      "altTexts": [
+        "Lilt abre o desenho de uma cobertura sobre um terraço.",
+        "Uma fita amarela em zigue-zague se junta às outras cinco.",
+        "Duas fitas puxam Mend suavemente em direções opostas.",
+        "Boro segura uma caixa com doze lanternas dobradas.",
+        "Uma fita prateada com bolinhas surge perto da caixa.",
+        "Sete fitas se espalham ao redor do banquinho e da caixa.",
+        "Mend coloca a pipa quebrada numa prateleira baixa."
+      ],
+      "captions": [
+        "Antes do fechamento, Lilt chegou de Vela, a duas horas pelo caminho oeste. Seus músicos precisavam de uma grande cobertura ao ar livre.",
+        "Lilt precisava de Mend em Vela ao meio-dia do quinto dia. “Também estarei lá”, disse Mend, sem pensar naquele “também”.",
+        "A fita amarela puxava para o oeste; a azul, para o leste. Mend riu daquela dancinha desajeitada, mas as promessas realmente puxavam em sentidos contrários.",
+        "Depois que Lilt saiu, Boro voltou com uma caixa de lanternas extras. “Você poderia consertá-las antes da abertura do quinto dia?”",
+        "“Vou consertar toda lanterna extra que você trouxer antes da abertura”, respondeu Mend. Surgiu uma fita prateada com bolinhas. A oferta não tinha limite claro.",
+        "Boro deixou a caixa e agradeceu. Mend tentou se sentar, mas sete fitas frouxas ocupavam o espaço ao redor do banquinho.",
+        "Sozinha naquela noite, Mend colocou a pipa numa prateleira. “Assim que tudo estiver pronto”, sussurrou, “vai sobrar tempo.”"
+      ],
+      "introduction": "Um concerto distante e uma oferta sem limites completam o emaranhado.",
+      "title": "A sétima fita"
+    },
+    "ru": {
+      "altTexts": [
+        "Лилт разворачивает рисунок навеса над террасой.",
+        "Жёлтая лента с зигзагами присоединяется к пяти другим.",
+        "Две ленты мягко тянут Менд в противоположные стороны.",
+        "Боро держит коробку с двенадцатью сложенными фонариками.",
+        "Возле коробки появляется серебристая лента в горошек.",
+        "Семь лент лежат вокруг табурета Менд и коробки.",
+        "Менд кладёт сломанного воздушного змея на низкую полку."
+      ],
+      "captions": [
+        "Перед закрытием пришла Лилт из Велы, в двух часах пути к западу. Её музыкантам требовался большой навес на открытом воздухе.",
+        "Лилт ждала Менд в Веле в полдень пятого дня. «И там буду», — сказала Менд, не задумавшись об этом «и».",
+        "Жёлтая лента тянула на запад, синяя — на восток. Менд засмеялась над этим неловким танцем, но обещания действительно тянули её в разные стороны.",
+        "После ухода Лилт Боро вернулся с коробкой дополнительных фонариков. «Починишь их до открытия на пятый день?»",
+        "«Починю каждый дополнительный фонарик, который ты принесёшь до открытия», — ответила Менд. Появилась серебристая лента в горошек. У предложения не было чёткой границы.",
+        "Боро оставил коробку и поблагодарил её. Менд попыталась сесть, но семь свободных лент заняли место вокруг табурета.",
+        "Ночью, оставшись одна, Менд убрала змея на полку. «Как только всё закончу, — прошептала она, — появится время»."
+      ],
+      "introduction": "Далёкий концерт и безграничное предложение завершают путаницу.",
+      "title": "Седьмая лента"
+    },
+    "tr": {
+      "altTexts": [
+        "Lilt, teras üzerindeki tentenin çizimini açıyor.",
+        "Sarı zikzaklı kurdele diğer beş kurdeleye katılıyor.",
+        "İki kurdele Mend’i hafifçe zıt yönlere çekiyor.",
+        "Boro, on iki katlanmış fener bulunan bir kutu tutuyor.",
+        "Kutunun yanında gümüş renkli benekli kurdele oluşuyor.",
+        "Yedi kurdele Mend’in taburesiyle kutunun çevresine yayılıyor.",
+        "Mend, kırık uçurtmayı alçak bir rafa yerleştiriyor."
+      ],
+      "captions": [
+        "Atölye kapanmadan Lilt, batıda iki saatlik yolun sonundaki Vela’dan geldi. Müzisyenleri için büyük bir açık hava tentesi gerekiyordu.",
+        "Lilt’in beşinci gün öğlen Mend’e Vela’da ihtiyacı vardı. “Orada da olacağım,” dedi Mend; “da” kelimesini düşünmeden.",
+        "Sarı kurdele batıya, mavi kurdele doğuya çekiyordu. Mend bu beceriksiz küçük dansa güldü, ama verdiği sözler gerçekten ters yönlere çekiyordu.",
+        "Lilt ayrılınca Boro, fazladan fenerlerle dolu bir kutuyla döndü. “Bunları beşinci günkü açılıştan önce onarabilir misin?”",
+        "“Açılıştan önce getireceğin bütün ek fenerleri onaracağım,” dedi Mend. Gümüş renkli, benekli bir kurdele belirdi. Teklifinin belirli bir sınırı yoktu.",
+        "Boro kutuyu bırakıp teşekkür etti. Mend oturmaya çalıştı, ama yedi gevşek kurdele taburesinin çevresini doldurmuştu.",
+        "O gece yalnız kalan Mend, uçurtmayı rafa kaldırdı. “Her şey biter bitmez,” diye fısıldadı, “vakit olacak.”"
+      ],
+      "introduction": "Uzak bir konser ve sınırı olmayan bir teklif düğümü tamamlar.",
+      "title": "Yedinci Kurdele"
+    },
+    "vi": {
+      "altTexts": [
+        "Lilt mở bản vẽ mái che sân khấu rộng.",
+        "Dải vàng zíc zắc thứ sáu xuất hiện quanh Mend.",
+        "Hai chân Mend vẫn chạm đất khi hai dải băng kéo hai hướng.",
+        "Boro đặt hộp có mười hai chiếc đèn gấp xuống.",
+        "Dải bạc thứ bảy vươn về hộp đèn.",
+        "Bảy dải băng trải quanh chiếc ghế thấp.",
+        "Cánh diều gãy được cất lên kệ thấp phía sau xưởng."
+      ],
+      "captions": [
+        "Trước lúc đóng xưởng, Lilt đến từ Vela, cách hai giờ đi đường bộ về phía tây. Nhóm nhạc của cô cần mái che ngoài trời thật lớn.",
+        "Lilt cần Mend có mặt ở Vela vào trưa ngày thứ năm. “Mình cũng sẽ đến đó,” Mend nói, chưa kịp nghĩ về chữ “cũng”.",
+        "Dải vàng kéo về tây, dải xanh dương kéo về đông. Mend cười vì bước chân lúng túng như đang múa, nhưng hai lời hứa thật sự kéo ngược nhau.",
+        "Lilt vừa đi, Boro trở lại với một hộp đèn bổ sung. “Cậu sửa được trước lễ mở cửa ngày thứ năm chứ?”",
+        "“Mình sẽ sửa hết mọi đèn bổ sung cậu mang đến trước lễ.” Dải bạc chấm bi xuất hiện. Lời nhận việc của Mend không có giới hạn rõ ràng.",
+        "Boro để hộp lại và cảm ơn. Mend định ngồi xuống, nhưng bảy dải băng lỏng đã choán quanh chiếc ghế đẩu.",
+        "Một mình tối đó, Mend đặt cánh diều lên kệ. “Khi mọi thứ xong xuôi,” cô thì thầm, “rồi sẽ có thời gian.”"
+      ],
+      "introduction": "Những cuộc hẹn trùng giờ và lời nhận việc không giới hạn bắt đầu xung đột.",
+      "title": "Dải ruy băng thứ bảy"
+    },
+    "zh": {
+      "altTexts": [
+        "莉尔特展示户外舞台雨篷的宽幅图样。",
+        "第六条黄色折线纹丝带出现在门德身边。",
+        "门德双脚稳稳站着，两条丝带轻轻朝相反方向伸展。",
+        "博罗放下一箱十二盏折叠着的待修灯笼。",
+        "第七条银色圆点丝带指向灯笼箱。",
+        "七条丝带散在低凳周围，挤占了坐下的空间。",
+        "坏风筝被放到修理屋后方的低架上。"
+      ],
+      "captions": [
+        "修理屋快关门时，莉尔特从维拉来了。向西走陆路要两个小时。她的乐手们需要一顶很大的户外雨篷。",
+        "莉尔特需要门德在第五天正午到维拉。“我也会到的。”门德说，还没想过这个“也”意味着什么。",
+        "黄色丝带往西拉，蓝色丝带往东拉。门德被弄得像在跳一支笨拙的小舞，笑了起来。可两个承诺确实指向相反方向。",
+        "莉尔特走后，博罗带着一箱额外的灯笼回来了。“第五天开幕前，能把这些修好吗？”",
+        "“开幕前，你再带来的灯笼我都会修好。”门德说。银色圆点丝带出现了。她没有给这个承诺设下数量限制。",
+        "博罗留下箱子，向她道谢。门德想坐下，七条松松的丝带却占满了凳子周围的空隙。",
+        "当晚只剩门德一个人时，她把风筝放上架子。“等所有事情都做完，”她轻声说，“就会有时间了。”"
+      ],
+      "introduction": "同一时间的约定和没有数量限制的灯笼让事情更加复杂。",
+      "title": "第七条丝带"
+    }
+  },
+  "number": 3,
+  "panels": [
+    {
+      "altText": "Lilt unfolds a drawing of an awning over a terrace.",
+      "image": "N02E03P01.png"
+    },
+    {
+      "altText": "A yellow zigzag ribbon joins Mend’s five other ribbons.",
+      "image": "N02E03P02.png"
+    },
+    {
+      "altText": "Two ribbons gently pull Mend in opposite directions.",
+      "image": "N02E03P03.png"
+    },
+    {
+      "altText": "Boro sets down a box containing twelve folded lanterns.",
+      "image": "N02E03P04.png"
+    },
+    {
+      "altText": "A silver dotted ribbon appears beside the box of lanterns.",
+      "image": "N02E03P05.png"
+    },
+    {
+      "altText": "Seven ribbons spread around Mend’s stool and the lantern box.",
+      "image": "N02E03P06.png"
+    },
+    {
+      "altText": "Mend places the broken kite on a low workshop shelf.",
+      "image": "N02E03P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

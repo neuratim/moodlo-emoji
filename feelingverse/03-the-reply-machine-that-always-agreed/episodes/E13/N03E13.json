@@ -1,0 +1,439 @@
+{
+  "id": "N03E13",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يواجه تافي إعلانه على لوحة ذات سقف واق.",
+        "يكتب تافي بطاقة جديدة تحت الإعلان المعلق.",
+        "يقدم تافي تصحيحا لإيفو كي يراجعه.",
+        "يشير إيفو إلى التصحيح بينما يحمل تافي قلما.",
+        "يثبت إيفو تصحيحا بينما يحمل تافي الإعلانات الثلاثة التي أزيحت.",
+        "يفتح إيفو مخطط مسار بينه وبين تافي.",
+        "يواجه إيفو تافي بجوار اللوحة المصححة."
+      ],
+      "captions": [
+        "عند أول لوحة في البلدة، وجد تافي إعلانه مثبتا بعناية في الوسط. كان أحدهم قد فتح الورقة بالفعل.",
+        "لم يغطه بعذر. كتب: «لام إعلاني أشخاصا من دون التحقق مما حدث».",
+        "وصل إيفو أثناء جولته. طلب تافي منه التحقق من وقائع التسليم، لا مدح الاعتذار.",
+        "أكد إيفو: «كان الزجاج عند البوابة الشرقية. قل ذلك بوضوح». فغير تافي الجملة.",
+        "بإذن سيلي، استبدلا الإعلانات المحلية الثلاثة. وسيبقى كل تصحيح بارزا مثل الأصل.",
+        "كانت النسخ الست البعيدة خارج المسار المحلي. عرض إيفو أن يصطحب تافي في جولة التوصيل المقررة له في اليوم التالي.",
+        "قال إيفو: «سأساعد في التصحيح. هذا لا يعني أن كل شيء بيننا قد صلح». وقبل تافي الفرق."
+      ],
+      "introduction": "يبدأ تافي التصحيح عبر القنوات العامة نفسها التي نشر فيها الاتهام.",
+      "title": "تسع وجهات"
+    },
+    "bn": {
+      "altTexts": [
+        "টাভি ছাউনিযুক্ত বোর্ডে নিজের ঘোষণার সামনে দাঁড়িয়ে আছে।",
+        "টাভি টাঙানো ঘোষণার নিচে নতুন কার্ড লিখছে।",
+        "টাভি সংশোধনটি ইভোকে পরীক্ষা করতে দিচ্ছে।",
+        "ইভো সংশোধন দেখাচ্ছে, টাভির হাতে পেনসিল।",
+        "ইভো সংশোধন লাগাচ্ছে, আর টাভি সরানো তিনটি ঘোষণা ধরে আছে।",
+        "ইভো নিজের ও টাভির মাঝখানে পথের নকশা খুলছে।",
+        "সংশোধিত বোর্ডের পাশে ইভো টাভির মুখোমুখি।"
+      ],
+      "captions": [
+        "শহরের প্রথম বোর্ডে টাভির ঘোষণা মাঝখানে পরিপাটি করে লাগানো ছিল। কেউ ইতিমধ্যেই কাগজটি খুলেছিল।",
+        "সে অজুহাত দিয়ে ঢাকল না। লিখল, “কী ঘটেছিল যাচাই না করেই আমার ঘোষণায় লোকদের দোষ দিয়েছি।”",
+        "নিজের পথে ইভো এল। টাভি ক্ষমা চাওয়ার প্রশংসা নয়, সরবরাহের তথ্য পরীক্ষা করতে বলল।",
+        "ইভো নিশ্চিত করল, “কাচ পূর্ব ফটকে ছিল। কথাটা স্পষ্ট করে লেখো।” টাভি বাক্য বদলাল।",
+        "সেলির অনুমতি নিয়ে তারা স্থানীয় তিনটি ঘোষণাই বদলাল। প্রতিটি সংশোধন মূল ঘোষণার মতোই চোখে পড়বে।",
+        "দূরের ছয়টি কপি স্থানীয় পথের বাইরে। ইভো আগামী দিনের নির্ধারিত সরবরাহে টাভিকে সঙ্গে নেওয়ার কথা বলল।",
+        "ইভো বলল, “সংশোধনে সাহায্য করব। তার মানে আমাদের মধ্যে সব ঠিক হয়ে গেছে নয়।” টাভি পার্থক্যটা মেনে নিল।"
+      ],
+      "introduction": "টাভি যেখানে প্রকাশ্যে অভিযোগ ছড়িয়েছিল, সেখানেই সংশোধন পৌঁছানো শুরু করে।",
+      "title": "নয়টি ঠিকানা"
+    },
+    "cs": {
+      "altTexts": [
+        "Tavi stojí před svým oznámením na kryté nástěnce.",
+        "Tavi píše novou kartičku pod vyvěšeným oznámením.",
+        "Tavi podává Ivovi opravu ke kontrole.",
+        "Ivo ukazuje na opravu a Tavi drží tužku.",
+        "Ivo připíná opravu; Tavi drží tři sundaná oznámení.",
+        "Ivo rozkládá mezi sebou a Tavim plán trasy.",
+        "Ivo stojí proti Tavimu vedle opravené nástěnky."
+      ],
+      "captions": [
+        "Na první místní nástěnce našel Tavi své oznámení úhledně připnuté uprostřed. Někdo už ho rozložil.",
+        "Nezakryl ho výmluvou. Napsal: „Mé oznámení obvinilo lidi, aniž jsem ověřil, co se stalo.“",
+        "Na své trase dorazil Ivo. Tavi ho požádal o ověření údajů o dodávce, ne o pochvalu omluvy.",
+        "„Sklo bylo u východní brány,“ potvrdil Ivo. „Napiš to přímo.“ Tavi větu změnil.",
+        "Se svolením Seli nahradili všechna tři místní oznámení. Každá oprava zůstane stejně viditelná jako původní text.",
+        "Šest vzdálených kopií bylo mimo místní trasu. Ivo nabídl, že Taviho vezme s sebou na zítřejší pravidelný rozvoz.",
+        "„Pomůžu s opravami,“ řekl Ivo. „To neznamená, že je mezi námi všechno napravené.“ Tavi ten rozdíl přijal."
+      ],
+      "introduction": "Tavi začíná opravovat obvinění na stejných veřejných místech, kam je sám rozšířil.",
+      "title": "Devět adres"
+    },
+    "de": {
+      "altTexts": [
+        "Tavi steht vor seiner Ankündigung an einem überdachten Aushang.",
+        "Tavi schreibt unter der aufgehängten Ankündigung eine neue Karte.",
+        "Tavi reicht Ivo eine Berichtigung zur Prüfung.",
+        "Ivo zeigt auf die Berichtigung; Tavi hält einen Bleistift.",
+        "Ivo befestigt eine Berichtigung; Tavi hält drei abgenommene Mitteilungen.",
+        "Ivo öffnet zwischen sich und Tavi einen Routenplan.",
+        "Ivo steht Tavi neben dem berichtigten Aushang gegenüber."
+      ],
+      "captions": [
+        "Am ersten örtlichen Aushang fand Tavi seine Ankündigung ordentlich in der Mitte befestigt. Jemand hatte sie bereits aufgefaltet.",
+        "Er verdeckte sie nicht mit einer Ausrede. Er schrieb: „Meine Ankündigung hat Menschen beschuldigt, ohne dass ich die Ereignisse geprüft hatte.“",
+        "Ivo kam auf seiner Route vorbei. Tavi bat ihn, die Lieferangaben zu prüfen, nicht die Entschuldigung zu loben.",
+        "„Das Glas war am Osttor“, bestätigte Ivo. „Schreib das deutlich.“ Tavi änderte den Satz.",
+        "Mit Selis Erlaubnis ersetzten sie alle drei örtlichen Mitteilungen. Jede Berichtigung sollte genauso sichtbar bleiben wie der ursprüngliche Text.",
+        "Die sechs entfernten Exemplare lagen außerhalb der Ortsroute. Ivo bot an, Tavi morgen auf seine geplanten Lieferfahrten mitzunehmen.",
+        "„Ich helfe bei den Berichtigungen“, sagte Ivo. „Das heißt nicht, dass zwischen uns alles wieder gut ist.“ Tavi akzeptierte den Unterschied."
+      ],
+      "introduction": "Tavi beginnt, die Vorwürfe über dieselben öffentlichen Wege zu berichtigen, auf denen er sie verbreitet hat.",
+      "title": "Neun Ziele"
+    },
+    "en": {
+      "altTexts": [
+        "Tavi faces his announcement at a sheltered noticeboard.",
+        "Tavi writes a fresh card below the posted announcement.",
+        "Tavi offers a correction to Ivo for checking.",
+        "Ivo points to the correction while Tavi holds a pencil.",
+        "Ivo pins a correction while Tavi holds three removed notices.",
+        "Ivo opens a route diagram between himself and Tavi.",
+        "Ivo faces Tavi beside the corrected noticeboard."
+      ],
+      "captions": [
+        "At the first local noticeboard, Tavi found his announcement pinned neatly in the center. Someone had already unfolded it.",
+        "He did not cover it with an excuse. He wrote, “My announcement blamed people without checking what happened.”",
+        "Ivo arrived on his route. Tavi asked him to check the delivery facts, not to praise the apology.",
+        "“The glass was at the east gate,” Ivo confirmed. “Say that plainly.” Tavi changed the sentence.",
+        "With Seli’s permission, they replaced all three local notices. Each correction would stay as visible as the original.",
+        "The six distant copies were beyond the local route. Ivo offered to accompany Tavi on tomorrow’s scheduled deliveries.",
+        "“I’ll help with the corrections,” Ivo said. “That doesn’t mean everything between us is fixed.” Tavi accepted the difference."
+      ],
+      "introduction": "Tavi starts correcting the same public channels he used to spread the accusation.",
+      "title": "Nine Destinations"
+    },
+    "es": {
+      "altTexts": [
+        "Tavi contempla su anuncio en un tablón protegido por un tejadillo.",
+        "Tavi escribe una tarjeta nueva debajo del anuncio expuesto.",
+        "Tavi ofrece una corrección a Ivo para que la revise.",
+        "Ivo señala la corrección mientras Tavi sostiene un lápiz.",
+        "Ivo fija una corrección mientras Tavi sostiene tres avisos retirados.",
+        "Ivo abre un plano de ruta entre Tavi y él.",
+        "Ivo mira a Tavi junto al tablón corregido."
+      ],
+      "captions": [
+        "En el primer tablón local, Tavi encontró su anuncio bien sujeto en el centro. Alguien ya lo había desplegado.",
+        "No lo tapó con una excusa. Escribió: «Mi anuncio culpó a otras personas sin comprobar lo que había ocurrido».",
+        "Ivo llegó siguiendo su ruta. Tavi le pidió revisar los datos de la entrega, no elogiar la disculpa.",
+        "«El vidrio estaba en la puerta este», confirmó Ivo. «Dilo claramente». Tavi cambió la frase.",
+        "Con permiso de Seli, sustituyeron los tres avisos locales. Cada corrección quedaría tan visible como el original.",
+        "Las seis copias lejanas quedaban fuera de la ruta local. Ivo se ofreció a llevar a Tavi con él en sus entregas programadas del día siguiente.",
+        "«Ayudaré con las correcciones», dijo Ivo. «Eso no significa que todo entre nosotros esté arreglado». Tavi aceptó la diferencia."
+      ],
+      "introduction": "Tavi empieza a rectificar sus acusaciones en los mismos lugares públicos donde las difundió.",
+      "title": "Nueve destinos"
+    },
+    "fr": {
+      "altTexts": [
+        "Tavi regarde son annonce sur un panneau abrité.",
+        "Tavi écrit une nouvelle carte sous l’annonce affichée.",
+        "Tavi tend une rectification à Ivo pour vérification.",
+        "Ivo montre la rectification tandis que Tavi tient un crayon.",
+        "Ivo épingle une rectification ; Tavi tient trois avis retirés.",
+        "Ivo déplie un plan de tournée entre lui et Tavi.",
+        "Ivo fait face à Tavi près du panneau corrigé."
+      ],
+      "captions": [
+        "Au premier panneau local, Tavi trouva son annonce soigneusement épinglée au centre. Quelqu’un l’avait déjà dépliée.",
+        "Il ne la recouvrit pas d’une excuse. Il écrivit : « Mon annonce a accusé des personnes sans vérifier ce qui s’était passé. »",
+        "Ivo arriva au cours de sa tournée. Tavi lui demanda de vérifier les faits de livraison, pas de féliciter ses excuses.",
+        "« Le verre était à la porte est », confirma Ivo. « Dis-le clairement. » Tavi modifia la phrase.",
+        "Avec l’autorisation de Seli, ils remplacèrent les trois avis locaux. Chaque rectification resterait aussi visible que l’original.",
+        "Les six exemplaires lointains dépassaient la tournée locale. Ivo proposa à Tavi de l’emmener lors de ses livraisons prévues le lendemain.",
+        "« Je t’aiderai à rectifier », dit Ivo. « Cela ne veut pas dire que tout est réparé entre nous. » Tavi accepta la différence."
+      ],
+      "introduction": "Tavi commence à rectifier ses accusations aux mêmes endroits publics où il les a diffusées.",
+      "title": "Neuf destinations"
+    },
+    "hi": {
+      "altTexts": [
+        "तावी छत वाले सूचना-पट पर अपनी घोषणा देख रहा है।",
+        "तावी लगी हुई घोषणा के नीचे नया कार्ड लिख रहा है।",
+        "तावी सुधार वाला कार्ड जाँचने के लिए ईवो को दे रहा है।",
+        "ईवो सुधार की ओर इशारा कर रहा है और तावी पेंसिल पकड़े है।",
+        "ईवो सुधार लगा रहा है और तावी तीन हटाई गई घोषणाएँ पकड़े है।",
+        "ईवो अपने और तावी के बीच रास्ते का नक्शा खोल रहा है।",
+        "सुधरे सूचना-पट के पास ईवो तावी के सामने खड़ा है।"
+      ],
+      "captions": [
+        "पहले स्थानीय सूचना-पट पर तावी की घोषणा बीच में करीने से लगी थी। किसी ने उसे पहले ही खोलकर पढ़ लिया था।",
+        "उसने बहाने से उसे नहीं ढका। लिखा, “मैंने जो हुआ उसे जाँचे बिना अपनी घोषणा में लोगों को दोष दिया।”",
+        "अपने रास्ते से ईवो वहाँ पहुँचा। तावी ने माफी की तारीफ नहीं, डिलीवरी के तथ्यों की जाँच माँगी।",
+        "ईवो ने कहा, “काँच पूर्वी फाटक पर था। यह साफ लिखो।” तावी ने वाक्य बदल दिया।",
+        "सेली की अनुमति से उन्होंने तीनों स्थानीय घोषणाएँ बदल दीं। हर सुधार मूल घोषणा जितना ही साफ दिखाई देगा।",
+        "दूर की छह प्रतियाँ स्थानीय रास्ते से बाहर थीं। ईवो ने अगले दिन की अपनी तय डिलीवरी पर तावी को साथ ले जाने की पेशकश की।",
+        "ईवो बोला, “सुधार में मदद करूँगा। इसका मतलब यह नहीं कि हमारे बीच सब ठीक हो गया।” तावी ने फर्क स्वीकार किया।"
+      ],
+      "introduction": "तावी उन्हीं सार्वजनिक जगहों पर सुधार पहुँचाना शुरू करता है जहाँ आरोप फैलाए थे।",
+      "title": "नौ पते"
+    },
+    "id": {
+      "altTexts": [
+        "Tavi berdiri di depan pengumumannya pada papan beratap.",
+        "Tavi menulis kartu baru di bawah pengumuman yang terpasang.",
+        "Tavi menyerahkan pembetulan kepada Ivo untuk diperiksa.",
+        "Ivo menunjuk pembetulan sementara Tavi memegang pensil.",
+        "Ivo memasang pembetulan; Tavi memegang tiga pengumuman yang dilepas.",
+        "Ivo membuka peta rute di antara dirinya dan Tavi.",
+        "Ivo menghadap Tavi di samping papan yang sudah dibetulkan."
+      ],
+      "captions": [
+        "Di papan pengumuman pertama, Tavi menemukan pengumumannya terpasang rapi di tengah. Seseorang sudah membuka lipatannya.",
+        "Ia tidak menutupinya dengan alasan. Ia menulis, “Pengumumanku menyalahkan orang lain tanpa memeriksa apa yang terjadi.”",
+        "Ivo tiba dalam perjalanan rutinnya. Tavi meminta Ivo memeriksa fakta pengiriman, bukan memuji permintaan maafnya.",
+        "“Kacanya berada di gerbang timur,” Ivo memastikan. “Tulis dengan jelas.” Tavi mengubah kalimatnya.",
+        "Dengan izin Seli, mereka mengganti ketiga pengumuman setempat. Setiap pembetulan akan tetap sama terlihatnya dengan pengumuman semula.",
+        "Enam salinan yang jauh berada di luar rute setempat. Ivo menawarkan untuk mengajak Tavi ikut dalam pengiriman terjadwalnya besok.",
+        "“Aku akan membantu membetulkan,” kata Ivo. “Bukan berarti semuanya di antara kita sudah pulih.” Tavi menerima perbedaan itu."
+      ],
+      "introduction": "Tavi mulai membetulkan tuduhannya di tempat-tempat umum yang ia gunakan untuk menyebarkannya.",
+      "title": "Sembilan Tujuan"
+    },
+    "it": {
+      "altTexts": [
+        "Tavi guarda il proprio annuncio su una bacheca riparata.",
+        "Tavi scrive una nuova cartolina sotto l’annuncio esposto.",
+        "Tavi porge una rettifica a Ivo perché la controlli.",
+        "Ivo indica la rettifica mentre Tavi tiene una matita.",
+        "Ivo fissa una rettifica; Tavi tiene tre avvisi rimossi.",
+        "Ivo apre una mappa del percorso fra sé e Tavi.",
+        "Ivo guarda Tavi accanto alla bacheca corretta."
+      ],
+      "captions": [
+        "Alla prima bacheca locale, Tavi trovò l’annuncio fissato con cura al centro. Qualcuno lo aveva già aperto.",
+        "Non lo coprì con una scusa. Scrisse: «Il mio annuncio ha accusato altre persone senza verificare che cosa fosse successo».",
+        "Ivo arrivò durante il suo giro. Tavi gli chiese di controllare i fatti della consegna, non di lodare le scuse.",
+        "«I vetri erano alla porta est», confermò Ivo. «Dillo chiaramente». Tavi cambiò la frase.",
+        "Con il permesso di Seli sostituirono tutti e tre gli avvisi locali. Ogni rettifica sarebbe rimasta visibile quanto l’originale.",
+        "Le sei copie lontane erano fuori dal giro locale. Ivo si offrì di portare Tavi con sé durante le consegne programmate del giorno dopo.",
+        "«Ti aiuterò con le rettifiche», disse Ivo. «Non vuol dire che fra noi sia tutto sistemato». Tavi accettò la differenza."
+      ],
+      "introduction": "Tavi comincia a rettificare le accuse negli stessi luoghi pubblici in cui le ha diffuse.",
+      "title": "Nove destinazioni"
+    },
+    "ja": {
+      "altTexts": [
+        "タヴィが屋根付き掲示板のお知らせを見ています。",
+        "タヴィが貼られたお知らせの下で、新しいカードを書いています。",
+        "タヴィがイヴォに訂正文を差し出し、確認を頼んでいます。",
+        "イヴォが訂正文を指し、タヴィが鉛筆を持っています。",
+        "イヴォが訂正を留め、タヴィが外した三枚を持っています。",
+        "イヴォが自分とタヴィの間で経路図を開いています。",
+        "訂正した掲示板のそばで、イヴォがタヴィと向き合っています。"
+      ],
+      "captions": [
+        "町の最初の掲示板では、お知らせが中央にきれいに留められていました。誰かがすでに紙を開いて読んでいました。",
+        "言い訳で隠すことはしません。「事実を確かめず、人を責めるお知らせを出しました」と書きました。",
+        "配達中のイヴォが来ました。タヴィが頼んだのは、謝り方を褒めることではなく、配達の事実の確認でした。",
+        "「ガラスは東門にあった。それをはっきり書こう」。イヴォの確認を受けて、タヴィは文を直しました。",
+        "セリの許可を得て、町の三枚をすべて差し替えました。訂正も、元のお知らせと同じくらい目立つ場所に残します。",
+        "遠方の六枚は、町の配達範囲の外です。イヴォは明日の決まった配達に、タヴィを同行させると申し出ました。",
+        "「訂正は手伝う。でも、ぼくらの間が全部元どおりになったわけじゃない」。タヴィはその違いを受け止めました。"
+      ],
+      "introduction": "タヴィは非難を広めたのと同じ場所で、訂正を届け始めます。",
+      "title": "九つの宛先"
+    },
+    "ko": {
+      "altTexts": [
+        "타비가 지붕 있는 게시판의 공지문을 바라봐요.",
+        "타비가 붙어 있는 공지문 아래에서 새 카드를 써요.",
+        "타비가 정정문을 이보에게 내밀어 확인을 부탁해요.",
+        "이보가 정정문을 가리키고, 타비는 연필을 들고 있어요.",
+        "이보가 정정문을 붙이고, 타비가 떼어 낸 원본 세 장을 들어요.",
+        "이보가 자신과 타비 사이에 경로도를 펼쳐요.",
+        "고친 게시판 옆에서 이보가 타비를 마주 봐요."
+      ],
+      "captions": [
+        "첫 마을 게시판에서 타비의 공지문은 한가운데 반듯하게 붙어 있었어요. 누군가 벌써 펼쳐 읽은 뒤였어요.",
+        "타비는 변명으로 덮지 않았어요. “사실을 확인하지 않고 사람들을 탓하는 공지문을 냈습니다”라고 썼어요.",
+        "배달 중이던 이보가 왔어요. 타비는 사과를 칭찬해 달라는 대신 배달 사실을 확인해 달라고 했어요.",
+        "“유리는 동문에 있었어. 그걸 분명히 써.” 이보의 확인을 듣고 타비는 문장을 바꿨어요.",
+        "셀리의 허락을 받아 마을 공지문 세 부를 모두 교체했어요. 정정문도 원래 공지문만큼 잘 보이는 자리에 남겼어요.",
+        "나머지 여섯 부는 마을 배달 구역 밖에 있었어요. 이보는 내일 예정된 배달길에 타비와 함께 가겠다고 했어요.",
+        "“정정은 도울게. 하지만 우리 사이가 전부 괜찮아졌다는 뜻은 아니야.” 타비는 그 차이를 받아들였어요."
+      ],
+      "introduction": "타비는 비난을 퍼뜨렸던 바로 그곳에 정정문을 전하기 시작합니다.",
+      "title": "아홉 주소"
+    },
+    "pl": {
+      "altTexts": [
+        "Tavi stoi przed swoim ogłoszeniem na zadaszonej tablicy.",
+        "Tavi pisze nową kartkę pod wywieszonym ogłoszeniem.",
+        "Tavi podaje Ivowi sprostowanie do sprawdzenia.",
+        "Ivo wskazuje sprostowanie, a Tavi trzyma ołówek.",
+        "Ivo przypina sprostowanie; Tavi trzyma trzy zdjęte ogłoszenia.",
+        "Ivo rozkłada między sobą a Tavim plan trasy.",
+        "Ivo stoi naprzeciw Taviego obok poprawionej tablicy."
+      ],
+      "captions": [
+        "Na pierwszej miejscowej tablicy Tavi znalazł swoje ogłoszenie równo przypięte pośrodku. Ktoś już je rozłożył.",
+        "Nie zasłonił go wymówką. Napisał: „Moje ogłoszenie oskarżało innych bez sprawdzenia, co się wydarzyło”.",
+        "Ivo dotarł tam podczas swojego obchodu. Tavi poprosił go o sprawdzenie faktów dotyczących dostawy, nie o pochwałę przeprosin.",
+        "„Szkło było przy wschodniej bramie”, potwierdził Ivo. „Napisz to jasno”. Tavi poprawił to zdanie.",
+        "Za zgodą Seli wymienili wszystkie trzy miejscowe ogłoszenia. Każde sprostowanie miało pozostać równie widoczne jak oryginał.",
+        "Sześć odległych kopii było poza miejscową trasą. Ivo zaproponował, że Tavi pojedzie z nim na jutrzejsze zaplanowane dostawy.",
+        "„Pomogę ze sprostowaniami”, powiedział Ivo. „To nie znaczy, że między nami wszystko jest naprawione”. Tavi przyjął tę różnicę."
+      ],
+      "introduction": "Tavi zaczyna prostować zarzuty tam, gdzie wcześniej publicznie je rozpowszechnił.",
+      "title": "Dziewięć miejsc"
+    },
+    "pt": {
+      "altTexts": [
+        "Tavi observa seu anúncio em um mural coberto.",
+        "Tavi escreve um novo cartão sob o anúncio exposto.",
+        "Tavi oferece uma correção a Ivo para conferência.",
+        "Ivo aponta para a correção enquanto Tavi segura um lápis.",
+        "Ivo prende uma correção; Tavi segura três avisos retirados.",
+        "Ivo abre um mapa de rota entre ele e Tavi.",
+        "Ivo está diante de Tavi ao lado do mural corrigido."
+      ],
+      "captions": [
+        "No primeiro mural local, Tavi encontrou seu anúncio preso bem no centro. Alguém já o havia desdobrado.",
+        "Ele não o encobriu com uma desculpa. Escreveu: “Meu anúncio culpou pessoas sem verificar o que havia acontecido.”",
+        "Ivo chegou durante sua rota. Tavi pediu que verificasse os fatos da entrega, não que elogiasse o pedido de desculpas.",
+        "“Os vidros estavam no portão leste”, confirmou Ivo. “Diga isso claramente.” Tavi mudou a frase.",
+        "Com a permissão de Seli, trocaram os três avisos locais. Cada correção ficaria tão visível quanto o texto original.",
+        "As seis cópias distantes estavam fora da rota local. Ivo se ofereceu para levar Tavi com ele nas entregas programadas do dia seguinte.",
+        "“Vou ajudar com as correções”, disse Ivo. “Isso não significa que esteja tudo resolvido entre nós.” Tavi aceitou a diferença."
+      ],
+      "introduction": "Tavi começa a corrigir suas acusações nos mesmos locais públicos onde as divulgou.",
+      "title": "Nove destinos"
+    },
+    "ru": {
+      "altTexts": [
+        "Тави смотрит на объявление на доске под навесом.",
+        "Тави пишет новую карточку под вывешенным объявлением.",
+        "Тави протягивает Иво исправление для проверки.",
+        "Иво указывает на исправление; Тави держит карандаш.",
+        "Иво прикалывает исправление; Тави держит три снятых объявления.",
+        "Иво раскрывает схему маршрута между собой и Тави.",
+        "Иво стоит перед Тави возле исправленной доски."
+      ],
+      "captions": [
+        "На первой городской доске Тави нашёл своё объявление, аккуратно приколотое в центре. Кто-то уже развернул лист.",
+        "Он не стал прикрывать его оправданием. Он написал: «В своём объявлении я обвинил людей, не проверив, что случилось».",
+        "По своему маршруту подошёл Иво. Тави попросил проверить факты доставки, а не похвалить извинение.",
+        "«Стекло было у восточных ворот, — подтвердил Иво. — Так и напиши». Тави изменил предложение.",
+        "С разрешения Сели они заменили все три городских объявления. Исправления будут так же заметны, как исходные сообщения.",
+        "Шесть остальных экземпляров были вне городского маршрута. Иво предложил взять Тави с собой на завтрашнюю плановую доставку.",
+        "«Я помогу исправить сообщения, — сказал Иво. — Но это не значит, что между нами уже всё хорошо». Тави принял это."
+      ],
+      "introduction": "Тави начинает исправлять обвинения там же, где их распространил.",
+      "title": "Девять адресов"
+    },
+    "tr": {
+      "altTexts": [
+        "Tavi, üstü örtülü panodaki duyurusunun karşısında duruyor.",
+        "Tavi, asılı duyurunun altında yeni bir kart yazıyor.",
+        "Tavi, kontrol etmesi için Ivo’ya bir düzeltme uzatıyor.",
+        "Ivo düzeltmeyi gösterirken Tavi kalem tutuyor.",
+        "Ivo düzeltmeyi asarken Tavi kaldırılmış üç duyuruyu tutuyor.",
+        "Ivo, Tavi ile arasına bir güzergâh planı açıyor.",
+        "Ivo, düzeltilmiş panonun yanında Tavi’ye dönük duruyor."
+      ],
+      "captions": [
+        "İlk yerel panoda Tavi, duyurusunu tam ortaya özenle asılmış buldu. Biri çoktan açıp bakmıştı.",
+        "Üzerini bir bahaneyle örtmedi. “Duyurum, ne olduğunu kontrol etmeden insanları suçladı,” diye yazdı.",
+        "Ivo dağıtım sırasında geldi. Tavi ondan özrünü övmesini değil, teslimat bilgilerini doğrulamasını istedi.",
+        "“Camlar doğu kapısındaydı,” dedi Ivo. “Bunu açıkça söyle.” Tavi cümleyi değiştirdi.",
+        "Seli’nin izniyle üç yerel duyurunun hepsini değiştirdiler. Her düzeltme, ilk duyuru kadar görünür kalacaktı.",
+        "Uzaktaki altı kopya yerel güzergâhın dışındaydı. Ivo, Tavi’yi ertesi günkü planlı teslimatlarına götürmeyi önerdi.",
+        "“Düzeltmelere yardım edeceğim,” dedi Ivo. “Bu, aramızdaki her şey düzeldi demek değil.” Tavi aradaki farkı kabul etti."
+      ],
+      "introduction": "Tavi, suçlamayı yaydığı kamusal kanalları bu kez düzeltmek için kullanır.",
+      "title": "Dokuz Hedef"
+    },
+    "vi": {
+      "altTexts": [
+        "Tavi nhìn thông báo của mình trên bảng tin có mái che.",
+        "Tavi viết thẻ mới dưới thông báo đang treo.",
+        "Tavi đưa bản đính chính cho Ivo kiểm tra.",
+        "Ivo chỉ bản đính chính, còn Tavi cầm bút.",
+        "Ivo ghim bản đính chính; Tavi giữ ba thông báo đã gỡ.",
+        "Ivo mở sơ đồ tuyến đường giữa mình và Tavi.",
+        "Ivo đứng đối diện Tavi cạnh bảng tin đã sửa."
+      ],
+      "captions": [
+        "Ở bảng tin đầu tiên, Tavi thấy thông báo của mình được ghim ngay ngắn chính giữa. Ai đó đã mở nếp gấp ra.",
+        "Cậu không lấy lý do để che nó đi. Cậu viết: “Thông báo của mình đã trách người khác mà chưa kiểm tra chuyện xảy ra.”",
+        "Ivo đi ngang trong chuyến giao thường lệ. Tavi nhờ cậu kiểm tra thông tin giao hàng, chứ không khen lời xin lỗi.",
+        "“Kính đã ở cổng đông,” Ivo xác nhận. “Hãy nói rõ điều đó.” Tavi sửa lại câu.",
+        "Được Seli cho phép, họ thay cả ba thông báo trong thị trấn. Mỗi bản đính chính sẽ dễ thấy như bản cũ.",
+        "Sáu bản ở xa nằm ngoài tuyến địa phương. Ivo đề nghị đưa Tavi đi cùng trong chuyến giao hàng đã lên lịch của mình vào ngày mai.",
+        "“Mình sẽ giúp đính chính,” Ivo nói. “Nhưng không có nghĩa là mọi chuyện giữa chúng ta đã được sửa chữa.” Tavi chấp nhận sự khác biệt."
+      ],
+      "introduction": "Tavi bắt đầu đính chính ngay tại những nơi công cộng cậu từng dùng để lan truyền lời buộc tội.",
+      "title": "Chín điểm đến"
+    },
+    "zh": {
+      "altTexts": [
+        "塔维面对有顶棚公告板上的公告。",
+        "塔维在原公告下方写一张新卡片。",
+        "塔维把更正递给伊沃核对。",
+        "伊沃指着更正，塔维拿着铅笔。",
+        "伊沃钉上更正，塔维拿着三张取下的原公告。",
+        "伊沃在自己和塔维之间展开路线图。",
+        "伊沃在已更正的公告板旁面对塔维。"
+      ],
+      "captions": [
+        "在第一块镇内公告板上，塔维发现自己的公告端正地钉在中央。已经有人把它展开读过了。",
+        "他没有用借口盖过去，而是写下：“我的公告没有核实事情经过，就指责了别人。”",
+        "伊沃送信经过这里。塔维请他核对送货事实，而不是称赞这份道歉。",
+        "“玻璃当时就在东门，”伊沃确认道，“把这一点说清楚。”塔维修正了句子。",
+        "得到塞莉许可后，他们替换了三份镇内公告。每份更正都会和原公告一样显眼。",
+        "另外六份超出了镇内路线。伊沃答应利用明天原定的送货行程，陪塔维走一趟。",
+        "“我会帮忙更正，”伊沃说，“但不代表我们之间已经没事了。”塔维接受了这两者的不同。"
+      ],
+      "introduction": "塔维开始沿着自己散播指责的渠道，逐一发布更正。",
+      "title": "九个地址"
+    }
+  },
+  "number": 13,
+  "panels": [
+    {
+      "altText": "Tavi faces his announcement at a sheltered noticeboard.",
+      "image": "N03E13P01.png"
+    },
+    {
+      "altText": "Tavi writes a fresh card below the posted announcement.",
+      "image": "N03E13P02.png"
+    },
+    {
+      "altText": "Tavi offers a correction to Ivo for checking.",
+      "image": "N03E13P03.png"
+    },
+    {
+      "altText": "Ivo points to the correction while Tavi holds a pencil.",
+      "image": "N03E13P04.png"
+    },
+    {
+      "altText": "Ivo pins a correction while Tavi holds three removed notices.",
+      "image": "N03E13P05.png"
+    },
+    {
+      "altText": "Ivo opens a route diagram between himself and Tavi.",
+      "image": "N03E13P06.png"
+    },
+    {
+      "altText": "Ivo faces Tavi beside the corrected noticeboard.",
+      "image": "N03E13P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "communication",
+    "listening",
+    "responsibility"
+  ],
+  "version": 1
+}

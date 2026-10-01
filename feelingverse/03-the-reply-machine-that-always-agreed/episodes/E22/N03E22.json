@@ -1,0 +1,439 @@
+{
+  "id": "N03E22",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "ينزل تافي ولوما الإطار ويصل إيفو بثلاثة صناديق.",
+        "يفحص تافي وإيفو الزجاج داخل ثلاثة صناديق مفتوحة.",
+        "تركب لوما لوح زجاج، ويثبت تافي فانوسا منخفضا.",
+        "تدفع سيلي عربة فارغة عبر المدخل الواسع.",
+        "يبقى تافي وسيلي خلف حاجز المسار العلوي.",
+        "ينظر تافي على امتداد الفوانيس المنخفضة في الفناء المحمي.",
+        "ينهي أربعة رفاق العمل بجوار فوانيس الفناء غير المضاءة."
+      ],
+      "captions": [
+        "عند مدخل الفناء، أنزل تافي ولوما الإطار المضبوط، فيما وصل إيفو بثلاثة صناديق تحتوي على الزجاج.",
+        "فحصوا الشحنة معا: ثلاثة صناديق، زجاج سليم، ولا قطع ناقصة. وقع إيفو فقط على ما عدوه بالفعل.",
+        "بعد تثبيت المدخل، ركبت لوما وتافي الزجاج في الفوانيس المنخفضة. يستخدم كل فانوس وحدة ضوء محكمة بلا لهب.",
+        "اختبرت سيلي الممر الواسع بعربة توصيل فارغة. لم تعلق بقواعد المدخل، ولم تضق مساحة الالتفاف.",
+        "فوقهم، جذبت الريح زينة الجزء العلوي غير المستخدم. أبقته سيلي مغلقا رغم جمال منظره.",
+        "نظر تافي إلى المسار الأصغر في الأسفل. جعلت انحناءاته اللطيفة الفوانيس أقرب إلى من سيستخدمونه.",
+        "عند الغروب، انتهوا من آخر تركيب. غدا سيفحصون الأضواء قبل دخول أي شخص."
+      ],
+      "introduction": "تتحول الخطة المشتركة إلى عمل ملموس، ويصبح المسار الآمن المرحب أهم من الإبهار.",
+      "title": "المسار السفلي"
+    },
+    "bn": {
+      "altTexts": [
+        "টাভি ও লুমা কাঠামো নামাচ্ছে, ইভো তিন বাক্স নিয়ে পৌঁছাচ্ছে।",
+        "টাভি ও ইভো তিনটি খোলা বাক্সে কাচ পরীক্ষা করছে।",
+        "লুমা কাচ বসাচ্ছে, টাভি নিচু লণ্ঠন ধরে আছে।",
+        "সেলি খালি ঠেলাগাড়ি চওড়া প্রবেশপথ দিয়ে চালাচ্ছে।",
+        "টাভি ও সেলি ওপরের পথের বাধার পেছনে রয়েছে।",
+        "টাভি আড়াল-থাকা উঠোনের নিচু লণ্ঠনগুলোর সারি দেখছে।",
+        "চার সঙ্গী উঠোনের নিভে থাকা লণ্ঠনের পাশে কাজ শেষ করছে।"
+      ],
+      "captions": [
+        "উঠোনের প্রবেশপথে টাভি ও লুমা মাপ মেলানো কাঠামো রাখল। তখন ইভো কাচ ভরা তিনটি বাক্স নিয়ে এল।",
+        "তারা একসঙ্গে মাল দেখল। তিন বাক্স, অক্ষত কাচ, কিছু কম নেই। ইভো শুধু সত্যি গোনা জিনিসের জন্য সই করল।",
+        "প্রবেশপথের কাঠামো শক্ত করে বসানোর পরে লুমা ও টাভি নিচু লণ্ঠনে কাচ লাগাল। প্রতিটি লণ্ঠনে ছিল আলো জ্বালানোর সিল-করা যন্ত্রাংশ, যাতে আগুন লাগে না।",
+        "সেলি খালি ঠেলাগাড়ি নিয়ে চওড়া পথ পরীক্ষা করল। গাড়ি কাঠামোর পায়ায় আটকায়নি, বাঁক নেওয়ার জায়গাও সরু হয়নি।",
+        "ওপরে ব্যবহার না করা সাজ বাতাসে টান খাচ্ছিল। দৃশ্য সুন্দর হলেও সেলি সেই অংশ বন্ধ রাখল।",
+        "টাভি নিচের ছোট পথটি দেখল। নরম বাঁকগুলো লণ্ঠনকে সেখান দিয়ে হাঁটা মানুষের কাছে এনে দিয়েছে।",
+        "সূর্য ডোবার সময় শেষ অংশ বসানো হলো। কাল কাউকে ঢোকানোর আগে আলো পরীক্ষা হবে।"
+      ],
+      "introduction": "যৌথ পরিকল্পনা হাতে-কলমে কাজে বদলায়, আর জাঁকজমকের চেয়ে নিরাপদ সবার উপযোগী পথ গুরুত্বপূর্ণ হয়।",
+      "title": "নিচের পথ"
+    },
+    "cs": {
+      "altTexts": [
+        "Tavi a Luma pokládají rám; Ivo přijíždí se třemi bednami.",
+        "Tavi a Ivo kontrolují sklo ve třech otevřených bednách.",
+        "Luma vsazuje sklo a Tavi drží nízkou lucernu.",
+        "Seli veze prázdný vozík širokým vstupem.",
+        "Tavi a Seli zůstávají za zábranou horní trasy.",
+        "Tavi hledí podél nízkých luceren na chráněném nádvoří.",
+        "Čtyři společníci dokončují práci u nerozsvícených luceren."
+      ],
+      "captions": [
+        "U vstupu na nádvoří Tavi s Lumou položili upravený rám právě ve chvíli, kdy Ivo přijel se třemi bednami skla.",
+        "Dodávku společně zkontrolovali. Tři bedny, neporušené sklo, nic nechybělo. Ivo podepsal jen to, co opravdu spočítali.",
+        "Po upevnění vstupu Tavi s Lumou zasazovali skla do nízkých luceren. Každá lucerna používala uzavřený světelný modul bez plamene.",
+        "Seli vyzkoušela široký průchod prázdným vozíkem. Nic se nezachytávalo o patky a zatáčka zůstala dost široká.",
+        "Nad nimi vítr škubal nepoužitou horní výzdobou. Seli nechala tento úsek uzavřený, přestože odtud byl krásný výhled.",
+        "Tavi se podíval na menší trasu dole. Její mírné zatáčky přiváděly lucerny blíž k lidem, kteří tudy půjdou.",
+        "Při západu slunce dokončili poslední montáž. Zítra světla vyzkoušejí, než kdokoli vstoupí."
+      ],
+      "introduction": "Společný plán se promění v práci a velkolepost ustoupí bezpečné, přístupné trase.",
+      "title": "Dolní stezka"
+    },
+    "de": {
+      "altTexts": [
+        "Tavi und Luma senken den Rahmen ab; Ivo bringt drei Kisten.",
+        "Tavi und Ivo prüfen das Glas in drei offenen Kisten.",
+        "Luma setzt eine Glasscheibe ein; Tavi hält eine niedrige Laterne fest.",
+        "Seli schiebt den leeren Handwagen durch den breiten Eingang.",
+        "Tavi und Seli bleiben hinter der Absperrung des oberen Weges.",
+        "Tavi blickt entlang der niedrigen Laternen im geschützten Hof.",
+        "Vier Gefährten beenden die Arbeit neben den unbeleuchteten Hoflaternen."
+      ],
+      "captions": [
+        "Am Hofeingang setzten Tavi und Luma den angepassten Rahmen ab, als Ivo mit drei Kisten Laternenglas ankam.",
+        "Gemeinsam prüften sie die Lieferung. Drei Kisten, unversehrtes Glas, nichts fehlte. Ivo bestätigte nur, was sie wirklich gezählt hatten.",
+        "Nachdem der Eingang befestigt war, setzten Luma und Tavi Glas in niedrige Laternen ein. Jede verwendete ein geschlossenes, flammenloses Leuchtmodul.",
+        "Seli prüfte den breiten Durchgang mit einem leeren Handwagen. Nichts blieb an den Standfüßen hängen oder verengte die Kurve.",
+        "Über ihnen zerrte der Wind an der ungenutzten oberen Dekoration. Seli ließ den Abschnitt gesperrt, obwohl die Aussicht wunderschön war.",
+        "Tavi sah auf den kleineren Weg hinunter. Seine sanften Kurven brachten die Laternen näher zu den Menschen, die dort entlanggehen würden.",
+        "Bei Sonnenuntergang war das letzte Teil eingesetzt. Morgen würden sie die Lichter prüfen, bevor jemand hineinging."
+      ],
+      "introduction": "Der gemeinsame Plan wird Wirklichkeit; ein sicherer, zugänglicher Weg zählt mehr als große Wirkung.",
+      "title": "Der untere Weg"
+    },
+    "en": {
+      "altTexts": [
+        "Tavi and Luma lower the frame as Ivo arrives with three crates.",
+        "Tavi and Ivo check glass in three open crates.",
+        "Luma fits a glass panel while Tavi steadies a low lantern.",
+        "Seli rolls the empty cart through the wide entrance.",
+        "Tavi and Seli remain behind the upper-route barrier.",
+        "Tavi looks along the low lanterns in the sheltered courtyard.",
+        "Four companions finish beside the unlit courtyard lanterns."
+      ],
+      "captions": [
+        "At the courtyard entrance, Tavi and Luma set down the fitted frame as Ivo arrived with three glass crates.",
+        "They checked the delivery together. Three crates, intact glass, no missing pieces. Ivo signed only for what they had actually counted.",
+        "After securing the entrance, Luma and Tavi fitted glass into the low lanterns. Each lantern used a sealed, flameless light module.",
+        "Seli tested the broad passage with an empty delivery cart. Nothing caught on the entrance feet or narrowed the turn.",
+        "Above them, wind tugged at the unused upper decorations. Seli kept that section closed, even though the view was beautiful.",
+        "Tavi looked down at the smaller route. Its gentle bends brought the lanterns closer to the people who would use them.",
+        "At sunset, they finished the last fitting. Tomorrow, the lights would be tested before anyone entered."
+      ],
+      "introduction": "The shared plan becomes physical work, and spectacle gives way to a safe, welcoming route.",
+      "title": "The Lower Path"
+    },
+    "es": {
+      "altTexts": [
+        "Tavi y Luma bajan el marco; Ivo llega con tres cajas.",
+        "Tavi e Ivo revisan el vidrio de tres cajas abiertas.",
+        "Luma encaja un cristal mientras Tavi estabiliza un farol bajo.",
+        "Seli empuja el carro vacío por la entrada ancha.",
+        "Tavi y Seli permanecen detrás de la barrera del tramo superior.",
+        "Tavi mira la hilera de faroles bajos del patio protegido.",
+        "Cuatro compañeros terminan junto a los faroles aún apagados."
+      ],
+      "captions": [
+        "En la entrada del patio, Tavi y Luma bajaron el marco ajustado cuando Ivo llegó con tres cajas de vidrio.",
+        "Revisaron juntos la entrega. Tres cajas, vidrio intacto, ninguna pieza ausente. Ivo firmó solo lo que habían contado realmente.",
+        "Después de asegurar la entrada, Luma y Tavi colocaron vidrio en los faroles bajos. Cada farol usaba un módulo de luz sellado, sin llama.",
+        "Seli probó el paso ancho con un carro vacío. Nada se enganchaba en las patas ni estrechaba la curva.",
+        "Arriba, el viento tiraba de los adornos que no usarían. Seli mantuvo cerrado aquel tramo, aunque la vista fuera hermosa.",
+        "Tavi miró el recorrido más pequeño. Sus curvas suaves acercaban los faroles a las personas que iban a recorrerlo.",
+        "Al ponerse el sol terminaron el último ajuste. Mañana probarían las luces antes de permitir la entrada."
+      ],
+      "introduction": "El plan compartido se convierte en trabajo real y da prioridad a un recorrido seguro y acogedor.",
+      "title": "El sendero inferior"
+    },
+    "fr": {
+      "altTexts": [
+        "Tavi et Luma abaissent le cadre ; Ivo arrive avec trois caisses.",
+        "Tavi et Ivo vérifient le verre dans trois caisses ouvertes.",
+        "Luma pose un panneau de verre pendant que Tavi maintient une lanterne basse.",
+        "Seli pousse le chariot vide dans la large entrée.",
+        "Tavi et Seli restent derrière la barrière du parcours supérieur.",
+        "Tavi regarde les lanternes basses de la cour abritée.",
+        "Quatre compagnons terminent près des lanternes encore éteintes."
+      ],
+      "captions": [
+        "À l’entrée de la cour, Tavi et Luma posèrent le cadre ajusté quand Ivo arriva avec trois caisses de verre.",
+        "Ils vérifièrent ensemble la livraison. Trois caisses, du verre intact, aucune pièce manquante. Ivo ne confirma que ce qu’ils avaient réellement compté.",
+        "Après avoir fixé l’entrée, Luma et Tavi équipèrent les lanternes basses de verre. Chacune utilisait un module lumineux fermé, sans flamme.",
+        "Seli testa le large passage avec un chariot vide. Rien n’accrochait les pieds de l’entrée ni ne rétrécissait le virage.",
+        "Au-dessus, le vent tirait sur les décorations inutilisées. Seli garda ce passage fermé, malgré la beauté de la vue.",
+        "Tavi regarda le parcours plus modeste. Ses courbes douces rapprochaient les lanternes des personnes qui l’emprunteraient.",
+        "Au coucher du soleil, ils terminèrent le dernier montage. Le lendemain, les lumières seraient testées avant toute entrée."
+      ],
+      "introduction": "Le projet partagé devient un travail concret, au service d’un chemin sûr et accueillant plutôt que spectaculaire.",
+      "title": "Le parcours du bas"
+    },
+    "hi": {
+      "altTexts": [
+        "तावी और लूमा चौखटा नीचे रखते हैं और ईवो तीन पेटियों के साथ आता है।",
+        "तावी और ईवो तीन खुली पेटियों का काँच जाँच रहे हैं।",
+        "लूमा काँच लगा रही है और तावी नीची लालटेन थामे है।",
+        "सेली खाली हाथगाड़ी चौड़े प्रवेश से ले जा रही है।",
+        "तावी और सेली ऊपरी रास्ते की रोक के पीछे रहते हैं।",
+        "तावी सुरक्षित आँगन की नीची लालटेनों के साथ-साथ देख रहा है।",
+        "चार साथी आँगन की बुझी लालटेनों के पास आखिरी काम पूरा कर रहे हैं।"
+      ],
+      "captions": [
+        "आँगन के प्रवेश-द्वार पर तावी और लूमा ने ठीक किया हुआ चौखटा रखा। तभी ईवो काँच से भरी तीन पेटियाँ लेकर आया।",
+        "सबने साथ जाँचा: तीन पेटियाँ, सलामत काँच, कुछ गायब नहीं। ईवो ने केवल उतने सामान पर दस्तखत किए जितना उन्होंने सच में गिना।",
+        "प्रवेश-द्वार का चौखटा मजबूती से लगाने के बाद लूमा और तावी ने नीची लालटेनों में काँच लगाया। हर लालटेन में रोशनी देने वाला सीलबंद पुर्जा था, जिसमें लौ नहीं जलती थी।",
+        "सेली ने खाली हाथगाड़ी से चौड़ी राह जाँची। वह चौखटे के पायों में नहीं अटकी और मोड़ भी सँकरा नहीं था।",
+        "ऊपर के बिना इस्तेमाल वाले सजावटी हिस्से हवा में हिल रहे थे। नज़ारा सुंदर था, फिर भी सेली ने वह हिस्सा बंद रखा।",
+        "तावी ने नीचे का छोटा रास्ता देखा। उसके हलके मोड़ लालटेनों को उन लोगों के करीब लाते थे जो वहाँ चलेंगे।",
+        "सूरज ढलने तक आखिरी जोड़ लग गया। कल किसी के अंदर आने से पहले बत्तियाँ जाँची जाएँगी।"
+      ],
+      "introduction": "साझा योजना काम में बदलती है और चमक-दमक से ज्यादा महत्व सुरक्षित, खुली राह को मिलता है।",
+      "title": "नीचे का रास्ता"
+    },
+    "id": {
+      "altTexts": [
+        "Tavi dan Luma menurunkan rangka; Ivo datang dengan tiga peti.",
+        "Tavi dan Ivo memeriksa kaca dalam tiga peti terbuka.",
+        "Luma memasang kaca sementara Tavi menahan lentera rendah.",
+        "Seli mendorong gerobak kosong melalui pintu masuk yang lebar.",
+        "Tavi dan Seli tetap di belakang pembatas rute atas.",
+        "Tavi memandang deretan lentera rendah di halaman terlindung.",
+        "Empat rekan selesai bekerja di dekat lentera halaman yang belum menyala."
+      ],
+      "captions": [
+        "Di pintu masuk halaman, Tavi dan Luma menurunkan rangka yang sudah disesuaikan saat Ivo datang membawa tiga peti berisi kaca.",
+        "Mereka memeriksa kiriman bersama. Tiga peti, kaca utuh, tidak ada yang kurang. Ivo hanya menandatangani apa yang benar-benar mereka hitung.",
+        "Setelah mengamankan pintu masuk, Luma dan Tavi memasang kaca pada lentera rendah. Setiap lentera memakai modul cahaya tertutup tanpa nyala api.",
+        "Seli menguji jalan lebar dengan gerobak kosong. Tidak ada yang tersangkut pada kaki pintu atau mempersempit tikungan.",
+        "Di atas, angin menarik hiasan jalur yang tidak dipakai. Seli tetap menutup bagian itu meskipun pemandangannya indah.",
+        "Tavi memandang rute yang lebih kecil. Tikungannya yang landai mendekatkan lentera kepada orang-orang yang akan melewatinya.",
+        "Saat matahari terbenam, mereka menyelesaikan pemasangan terakhir. Besok, lampu akan diuji sebelum siapa pun masuk."
+      ],
+      "introduction": "Rencana bersama menjadi pekerjaan nyata; jalur aman dan ramah lebih penting daripada kemegahan.",
+      "title": "Jalur Bawah"
+    },
+    "it": {
+      "altTexts": [
+        "Tavi e Luma abbassano la cornice; Ivo arriva con tre casse.",
+        "Tavi e Ivo controllano i vetri in tre casse aperte.",
+        "Luma inserisce un vetro mentre Tavi tiene ferma una lanterna bassa.",
+        "Seli spinge il carretto vuoto attraverso l’ingresso ampio.",
+        "Tavi e Seli restano dietro la barriera del percorso superiore.",
+        "Tavi osserva le lanterne basse nel cortile riparato.",
+        "Quattro compagni terminano accanto alle lanterne ancora spente."
+      ],
+      "captions": [
+        "All’ingresso del cortile, Tavi e Luma posarono la cornice adattata mentre Ivo arrivava con tre casse di vetri.",
+        "Controllarono insieme la consegna. Tre casse, vetri intatti, nessun pezzo mancante. Ivo firmò soltanto quanto avevano davvero contato.",
+        "Dopo aver fissato l’ingresso, Luma e Tavi montarono i vetri nelle lanterne basse. Ogni lanterna usava un modulo luminoso sigillato, senza fiamma.",
+        "Seli provò il passaggio largo con un carretto vuoto. Nulla si impigliava nei piedi dell’ingresso o restringeva la curva.",
+        "In alto, il vento tirava le decorazioni inutilizzate. Seli mantenne chiuso quel tratto, anche se la vista era bellissima.",
+        "Tavi guardò il percorso più piccolo. Le curve dolci avvicinavano le lanterne alle persone che lo avrebbero usato.",
+        "Al tramonto completarono l’ultimo montaggio. Il giorno dopo avrebbero provato le luci prima di far entrare chiunque."
+      ],
+      "introduction": "Il progetto condiviso diventa lavoro concreto e privilegia un percorso sicuro e accogliente rispetto allo spettacolo.",
+      "title": "Il sentiero inferiore"
+    },
+    "ja": {
+      "altTexts": [
+        "タヴィとルマが枠を下ろし、イヴォが三箱と到着しています。",
+        "タヴィとイヴォが、開いた三箱のガラスを調べています。",
+        "ルマがガラスをはめ、タヴィが低いランタンを支えています。",
+        "セリが空の手押し車を広い入口へ通しています。",
+        "タヴィとセリが上の道の柵の手前にとどまっています。",
+        "タヴィが風を避けられる中庭の低いランタンを見渡しています。",
+        "四人が、まだ灯っていない中庭のランタンのそばで作業を終えています。"
+      ],
+      "captions": [
+        "中庭の入口でタヴィとルマが調整した枠を下ろすと、イヴォがガラス三箱を運んできました。",
+        "皆で配達を確認しました。三箱、無傷のガラス、欠品なし。イヴォは実際に数えた分だけに署名しました。",
+        "入口を固定してから、ルマとタヴィは低いランタンへガラスをはめました。灯りはすべて、炎を使わない密閉式の部品です。",
+        "セリは空の手押し車で広い通路を試しました。入口の足に引っかからず、曲がる幅も十分あります。",
+        "上では、使わない飾りを風が引っ張っていました。眺めが美しくても、セリは上の区間を閉じたままにしました。",
+        "タヴィは小さくなった下の道を見ました。緩やかな曲がり道は、歩く人の近くへランタンを導いていました。",
+        "日没に最後の取り付けが終わりました。明日は、誰かが入る前に灯りを試します。"
+      ],
+      "introduction": "共同の計画が実際の作業になり、華やかさより安全で入りやすい道が選ばれます。",
+      "title": "下の道"
+    },
+    "ko": {
+      "altTexts": [
+        "타비와 루마가 틀을 내리고, 이보가 세 상자와 함께 도착해요.",
+        "타비와 이보가 열린 세 상자의 유리를 점검해요.",
+        "루마가 유리를 끼우고, 타비가 낮은 등을 붙잡아요.",
+        "셀리가 빈 손수레를 넓은 입구로 밀고 지나가요.",
+        "타비와 셀리가 위쪽 길의 차단막 뒤에 머물러 있어요.",
+        "타비가 보호된 마당의 낮은 등들을 따라 바라봐요.",
+        "네 동료가 아직 켜지지 않은 마당 등 옆에서 작업을 마쳐요."
+      ],
+      "captions": [
+        "마당 입구에서 타비와 루마가 맞춘 틀을 내려놓자, 이보가 유리 세 상자를 가져왔어요.",
+        "함께 배달을 확인했어요. 세 상자, 멀쩡한 유리, 빠진 부품 없음. 이보는 실제 센 것만 확인해 서명했어요.",
+        "입구를 고정한 뒤 루마와 타비는 낮은 등에 유리를 끼웠어요. 모든 등은 밀봉된 불꽃 없는 조명 부품을 사용했어요.",
+        "셀리는 빈 배달 수레로 넓은 통로를 시험했어요. 입구 받침발에 걸리지 않고 돌아갈 공간도 충분했어요.",
+        "위쪽에서는 쓰지 않는 장식들이 바람에 흔들렸어요. 경치가 아름다워도 셀리는 그 구간을 계속 닫아 두었어요.",
+        "타비는 더 작아진 아래 길을 봤어요. 완만한 굽이는 등을 실제로 걷는 사람 가까이 데려왔어요.",
+        "해 질 무렵 마지막 설치가 끝났어요. 내일은 누구든 들어오기 전에 먼저 불을 시험할 거예요."
+      ],
+      "introduction": "공동 계획은 손으로 하는 일이 되고, 화려함보다 안전하고 열린 길이 중요해집니다.",
+      "title": "아래쪽 길"
+    },
+    "pl": {
+      "altTexts": [
+        "Tavi i Luma opuszczają ramę; Ivo przywozi trzy skrzynie.",
+        "Tavi i Ivo sprawdzają szkło w trzech otwartych skrzyniach.",
+        "Luma wkłada szybkę, a Tavi przytrzymuje niski lampion.",
+        "Seli przetacza pusty wózek przez szerokie wejście.",
+        "Tavi i Seli pozostają za barierą górnej trasy.",
+        "Tavi patrzy wzdłuż niskich lampionów na osłoniętym dziedzińcu.",
+        "Czworo towarzyszy kończy pracę przy nieświecących lampionach."
+      ],
+      "captions": [
+        "Przy wejściu na dziedziniec Tavi i Luma odstawiali dopasowaną ramę, gdy Ivo przyjechał z trzema skrzyniami szkła.",
+        "Razem sprawdzili dostawę. Trzy skrzynie, całe szkło, żadnych braków. Ivo podpisał tylko to, co naprawdę policzyli.",
+        "Po zamocowaniu wejścia Luma i Tavi osadzali szkło w niskich lampionach. Każdy korzystał z zamkniętego modułu świetlnego bez płomienia.",
+        "Seli sprawdziła szerokie przejście pustym wózkiem. Nic nie zaczepiało o nóżki wejścia ani nie zwężało zakrętu.",
+        "Nad nimi wiatr szarpał nieużywane górne ozdoby. Seli zostawiła ten odcinek zamknięty, mimo pięknego widoku.",
+        "Tavi spojrzał na mniejszą trasę. Łagodne zakręty zbliżały lampiony do osób, które miały tędy przechodzić.",
+        "O zachodzie słońca zakończyli ostatni montaż. Jutro sprawdzą światła, zanim ktokolwiek wejdzie."
+      ],
+      "introduction": "Wspólny plan staje się pracą, a bezpieczne i dostępne przejście okazuje się ważniejsze od rozmachu.",
+      "title": "Dolna ścieżka"
+    },
+    "pt": {
+      "altTexts": [
+        "Tavi e Luma baixam a moldura; Ivo chega com três caixotes.",
+        "Tavi e Ivo conferem os vidros em três caixotes abertos.",
+        "Luma encaixa um vidro enquanto Tavi firma uma lanterna baixa.",
+        "Seli empurra o carrinho vazio pela entrada larga.",
+        "Tavi e Seli permanecem atrás da barreira do trecho superior.",
+        "Tavi olha a fileira de lanternas baixas no pátio protegido.",
+        "Quatro companheiros terminam o trabalho perto das lanternas ainda apagadas."
+      ],
+      "captions": [
+        "Na entrada do pátio, Tavi e Luma baixaram a moldura ajustada quando Ivo chegou com três caixotes contendo os vidros.",
+        "Conferiram a entrega juntos. Três caixotes, vidro intacto, nenhuma peça faltando. Ivo assinou apenas o que realmente haviam contado.",
+        "Depois de fixar a entrada, Luma e Tavi encaixaram os vidros nas lanternas baixas. Cada lanterna usava um módulo selado de luz, sem chama.",
+        "Seli testou a passagem larga com um carrinho vazio. Nada prendia nos pés da entrada nem estreitava a curva.",
+        "Acima deles, o vento puxava os enfeites não utilizados. Seli manteve aquele trecho fechado, embora a vista fosse bonita.",
+        "Tavi olhou para o caminho menor. Suas curvas suaves aproximavam as lanternas das pessoas que passariam por ali.",
+        "Ao pôr do sol, terminaram o último encaixe. No dia seguinte, testariam as luzes antes de permitir a entrada de qualquer pessoa."
+      ],
+      "introduction": "O plano compartilhado vira trabalho concreto, priorizando um caminho seguro e acolhedor em vez do espetáculo.",
+      "title": "O caminho inferior"
+    },
+    "ru": {
+      "altTexts": [
+        "Тави и Лума опускают раму; Иво прибывает с тремя ящиками.",
+        "Тави и Иво проверяют стекло в трёх открытых ящиках.",
+        "Лума вставляет стекло; Тави удерживает низкий фонарь.",
+        "Сели катит пустую тележку через широкий вход.",
+        "Тави и Сели остаются за ограждением верхнего маршрута.",
+        "Тави смотрит вдоль низких фонарей защищённого двора.",
+        "Четверо товарищей заканчивают работу возле незажжённых фонарей двора."
+      ],
+      "captions": [
+        "У входа во двор Тави и Лума поставили подогнанную раму. В это время Иво привёз три ящика стекла.",
+        "Они вместе проверили груз: три ящика, целое стекло, всё на месте. Иво расписался лишь за то, что действительно пересчитали.",
+        "Закрепив вход, Лума и Тави вставили стёкла в низкие фонари. В каждом использовался герметичный световой модуль без пламени.",
+        "Сели проверила широкий проход пустой тележкой. Ничто не цеплялось за опоры и не мешало повороту.",
+        "Наверху ветер трепал неиспользованные украшения. Сели оставила этот участок закрытым, хотя вид оттуда был прекрасен.",
+        "Тави посмотрел на меньший маршрут внизу. Его плавные изгибы приближали фонари к тем, кто здесь пройдёт.",
+        "К закату они закончили последнее крепление. Завтра свет проверят прежде, чем кого-либо впустят."
+      ],
+      "introduction": "Общий план превращается в работу, а зрелищность уступает безопасному, открытому для всех маршруту.",
+      "title": "Нижняя дорожка"
+    },
+    "tr": {
+      "altTexts": [
+        "Tavi ile Luma çerçeveyi indiriyor; Ivo üç sandık getiriyor.",
+        "Tavi ile Ivo, üç açık sandıktaki camları kontrol ediyor.",
+        "Luma cam takarken Tavi alçak feneri sabit tutuyor.",
+        "Seli, boş el arabasını geniş girişten geçiriyor.",
+        "Tavi ile Seli, üst yol bariyerinin arkasında kalıyor.",
+        "Tavi, korunaklı avludaki alçak fenerlerin sırasına bakıyor.",
+        "Dört arkadaş, henüz yanmayan avlu fenerlerinin yanında işi bitiriyor."
+      ],
+      "captions": [
+        "Avlu girişinde Tavi ile Luma ayarlanmış çerçeveyi indirirken Ivo, içlerinde fener camları bulunan üç sandıkla geldi.",
+        "Teslimatı birlikte kontrol ettiler. Üç sandık, sağlam camlar, eksik parça yoktu. Ivo yalnızca gerçekten saydıklarını onayladı.",
+        "Girişi sabitledikten sonra Luma ile Tavi alçak fenerlere camları taktı. Her fener kapalı, alevsiz bir ışık modülü kullanıyordu.",
+        "Seli geniş geçidi boş bir el arabasıyla denedi. Hiçbir şey giriş ayaklarına takılmıyor, dönüşü daraltmıyordu.",
+        "Yukarıda rüzgâr, kullanılmayan süsleri çekiştiriyordu. Manzara güzel olsa da Seli o bölümü kapalı tuttu.",
+        "Tavi daha küçük yola baktı. Yumuşak kıvrımları, fenerleri yolu kullanacak insanlara yaklaştırıyordu.",
+        "Gün batımında son parçayı taktılar. Ertesi gün kimse içeri girmeden ışıklar sınanacaktı."
+      ],
+      "introduction": "Ortak plan somut işe dönüşür; gösterişin yerini güvenli ve herkese açık bir yol alır.",
+      "title": "Alt Yol"
+    },
+    "vi": {
+      "altTexts": [
+        "Tavi và Luma hạ khung; Ivo đến với ba thùng.",
+        "Tavi và Ivo kiểm tra kính trong ba thùng mở.",
+        "Luma lắp kính, còn Tavi giữ một chiếc đèn thấp.",
+        "Seli đẩy xe trống qua lối vào rộng.",
+        "Tavi và Seli đứng sau rào chắn tuyến trên.",
+        "Tavi nhìn dọc hàng đèn thấp trong sân được che chắn.",
+        "Bốn người hoàn tất công việc cạnh đèn sân chưa bật."
+      ],
+      "captions": [
+        "Ở lối vào sân, Tavi và Luma đặt khung đã chỉnh xuống đúng lúc Ivo đến với ba thùng kính.",
+        "Họ cùng kiểm tra hàng. Ba thùng, kính nguyên vẹn, không thiếu mảnh nào. Ivo chỉ xác nhận những gì họ thực sự đếm.",
+        "Sau khi cố định lối vào, Luma và Tavi lắp kính cho đèn thấp. Mỗi đèn dùng một bộ phát sáng kín, không có ngọn lửa.",
+        "Seli thử lối đi rộng bằng xe đẩy trống. Không gì vướng chân khung hay làm hẹp khúc rẽ.",
+        "Trên cao, gió kéo những đồ trang trí không dùng đến. Seli vẫn đóng đoạn ấy, dù cảnh rất đẹp.",
+        "Tavi nhìn con đường nhỏ hơn. Những khúc cong nhẹ đưa đèn đến gần người sẽ đi qua.",
+        "Khi mặt trời lặn, họ hoàn tất phần lắp cuối. Ngày mai sẽ thử đèn trước khi cho bất kỳ ai vào."
+      ],
+      "introduction": "Kế hoạch chung thành công việc thật, ưu tiên lối đi an toàn và thân thiện thay vì phô trương.",
+      "title": "Con đường phía dưới"
+    },
+    "zh": {
+      "altTexts": [
+        "塔维和卢玛放下框架，伊沃带着三个箱子到来。",
+        "塔维和伊沃检查三个打开箱子里的玻璃。",
+        "卢玛安装玻璃片，塔维扶稳一盏低灯笼。",
+        "塞莉推着空车穿过宽阔入口。",
+        "塔维和塞莉留在上方路线的围挡后。",
+        "塔维沿着避风庭院里的低灯笼望去。",
+        "四位伙伴在尚未点亮的庭院灯笼旁结束安装。"
+      ],
+      "captions": [
+        "在庭院入口，塔维和卢玛放下调好的框架，伊沃也推来了三箱玻璃。",
+        "他们一起核对货物：三箱、玻璃完好、没有缺件。伊沃只为实际清点过的内容签收。",
+        "固定好入口后，卢玛和塔维给低矮灯笼装上玻璃。每盏灯都使用密封的无明火发光模块。",
+        "塞莉推着空送货车测试宽通道。入口底脚没有挂住车，也没有挤窄转弯空间。",
+        "上方，风拉扯着暂不用的装饰。那里景色虽美，塞莉仍让那一段保持关闭。",
+        "塔维望向下面较小的路线。柔和的弯道，让灯笼离真正使用这条路的人更近。",
+        "日落时，他们装好最后一个配件。明天，所有人进入之前，灯光还要先经过测试。"
+      ],
+      "introduction": "共同的方案变成实际劳动，壮观的场面让位于安全而欢迎所有人的路线。",
+      "title": "下方的小路"
+    }
+  },
+  "number": 22,
+  "panels": [
+    {
+      "altText": "Tavi and Luma lower the frame as Ivo arrives with three crates.",
+      "image": "N03E22P01.png"
+    },
+    {
+      "altText": "Tavi and Ivo check glass in three open crates.",
+      "image": "N03E22P02.png"
+    },
+    {
+      "altText": "Luma fits a glass panel while Tavi steadies a low lantern.",
+      "image": "N03E22P03.png"
+    },
+    {
+      "altText": "Seli rolls the empty cart through the wide entrance.",
+      "image": "N03E22P04.png"
+    },
+    {
+      "altText": "Tavi and Seli remain behind the upper-route barrier.",
+      "image": "N03E22P05.png"
+    },
+    {
+      "altText": "Tavi looks along the low lanterns in the sheltered courtyard.",
+      "image": "N03E22P06.png"
+    },
+    {
+      "altText": "Four companions finish beside the unlit courtyard lanterns.",
+      "image": "N03E22P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "communication",
+    "listening",
+    "responsibility"
+  ],
+  "version": 1
+}

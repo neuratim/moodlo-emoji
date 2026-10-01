@@ -1,0 +1,442 @@
+{
+  "id": "N02E20",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "تجلس ميند عند الطاولة التي أُخليت، بجانب الدرزة الممزقة في المظلة.",
+        "تُخاط الدرزة ويظل الخط الزخرفي الباهت دون تغيير.",
+        "يثبت روك المظلة على إطار مدعوم بثبات على الأرض.",
+        "تبقى الصينية جافة في اختبار الماء ويتلاشى الأزرق.",
+        "تعيد ميند الأداة إلى روك.",
+        "ترحب سيلا بالأصدقاء الثلاثة في غرفة ضيوف جافة.",
+        "تنام ميند قرب بطانيتها وشريط برتقالي واحد."
+      ],
+      "captions": [
+        "في مخزن القوارب، بسط روك المظلة الممزقة على الطاولة التي أخلاها. جلست ميند حيث ترى الدرزة كلها وتصل إليها.",
+        "خاطت ميند الدرزة المتفق عليها. لاحظت خطًا زخرفيًا باهتًا وتركته كما هو. لم يكن تمزقًا آخر.",
+        "فحص روك الغرز معها. ثم ركب المظلة المصلحة على إطارها الخشبي فوق أرض المخزن.",
+        "اختبرا المظلة فوق صينية فارغة. لم يمر الماء عبر الدرزة. اكتمل الإصلاح الذي وعدت به ميند، فتلاشى الشريط الأزرق.",
+        "قال روك: «سأفحص القارب قبل كل عبور». أعادت ميند الأداة. لم تعد بحاجة إلى مراقبته غدًا.",
+        "عرضت سيلا على المسافرين غرفة ضيوف المشتل. ساروا إليها قبل المطر واستقروا في الغرفة الدافئة، بينما كان ضوء الغروب يدخل من النافذة.",
+        "بدأ المطر بعد الظلام. استراح شريط برتقالي واحد قرب ميند. قالت: «الطائرة في صباح اليوم السادس»، ثم نامت."
+      ],
+      "introduction": "تنهي ميند الإصلاح المتفق عليه، ويظل التركيب والفحص من مسؤولية روك.",
+      "title": "آخر غرزة قبل المطر"
+    },
+    "bn": {
+      "altTexts": [
+        "মেন্ড গুছিয়ে রাখা টেবিলে ছাউনির ছেঁড়া সেলাইয়ের পাশে বসে।",
+        "ছেঁড়া সেলাই ঠিক হয়, বিবর্ণ সাজের রেখা অপরিবর্তিত থাকে।",
+        "রুক মেঝেতে ঠেকানো কাঠামোয় ছাউনি লাগায়।",
+        "জলের পরীক্ষায় ট্রে শুকনো থাকে; নীল ফিতা মিলিয়ে যায়।",
+        "মেন্ড রুককে যন্ত্র ফিরিয়ে দেয়।",
+        "তিন যাত্রী আরামদায়ক অতিথিঘরে পৌঁছয়; খোলা জানালা দিয়ে অস্তগামী সূর্যের আলো ঢোকে।",
+        "মেন্ড একটি কমলা ফিতা নিয়ে কম্বলের পাশে ঘুমায়।"
+      ],
+      "captions": [
+        "নৌকাঘরে রুক গুছিয়ে রাখা টেবিলে ছেঁড়া ছাউনিটি মেলে দিল। মেন্ড এমন জায়গায় বসল, যেখান থেকে ছেঁড়া সেলাইয়ের পুরোটাই দেখা যায় এবং হাত পৌঁছয়।",
+        "মেন্ড ঠিক করা সেলাই সারাল। বিবর্ণ সাজের দাগ দেখে রেখে দিল। সেটা নতুন ছেঁড়া নয়।",
+        "রুক সঙ্গে ফোঁড় দেখল। তারপর নৌকাঘরের মেঝেতে কাঠের কাঠামোয় সারানো ছাউনি লাগাল।",
+        "তারা খালি ট্রের ওপরে জল দিয়ে পরীক্ষা করল। সেলাই ভেদ করে জল ঢুকল না। মেন্ডের ঠিক করা কাজ শেষ, নীল ফিতা মিলিয়ে গেল।",
+        "“প্রতিবার ছাড়ার আগে নৌকা পরীক্ষা করব,” রুক বলল। মেন্ড যন্ত্রটি ফিরিয়ে দিল। কাল তাকে রুকের কাজের ওপর নজর রাখতে হবে না।",
+        "সেলা যাত্রীদের চারাবাগানের অতিথিঘরে থাকতে দিল। বৃষ্টি নামার আগেই তারা সেখানে হেঁটে গেল। আরামদায়ক উষ্ণ ঘরটিতে জানালা দিয়ে অস্তগামী সূর্যের আলো ঢুকছিল।",
+        "অন্ধকারের পরে বৃষ্টি নামল। মেন্ডের পাশে একটি কমলা ফিতা। “ঘুড়ি ষষ্ঠ সকালের,” সে বলে ঘুমিয়ে পড়ল।"
+      ],
+      "introduction": "মেন্ড ঠিক করা অংশ সারায়; বসানো আর নিরাপত্তা পরীক্ষা রুকের কাজ থাকে।",
+      "title": "বৃষ্টির আগে শেষ ফোঁড়"
+    },
+    "cs": {
+      "altTexts": [
+        "Mend sedí u uklizeného stolu vedle roztrženého švu plachty.",
+        "Mend šije šev vedle vybledlého, neporušeného pruhu.",
+        "Rook nasazuje opravenou modrou plachtu na konstrukci.",
+        "Úspěšnou zkoušku vodou doprovází mizící modrá stuha.",
+        "Mend vrací Rookovi nástroj vedle vyzkoušené stříšky.",
+        "Sela vítá tři cestovatele v suchém pokoji.",
+        "Mend spí s oranžovou stuhou, venku prší na okenice."
+      ],
+      "captions": [
+        "V loděnici Rook rozložil roztrženou plachtu na uklizený stůl. Mend si sedla tak, aby viděla na celý šev a dosáhla na něj.",
+        "Mend zašila dohodnutý šev. Všimla si vybledlého ozdobného pruhu, ale nechala ho být. Nebyla to další trhlina.",
+        "Rook s ní zkontroloval stehy. Pak opravenou plachtu nasadil na dřevěnou konstrukci na podlaze loděnice.",
+        "Vyzkoušeli stříšku nad prázdným tácem. Voda švem neprošla. Mendina slíbená oprava byla hotová a modrá stuha se rozpustila.",
+        "„Před každou plavbou loď zkontroluji,“ řekl Rook. Mend mu vrátila nástroj. Zítra na něj nemusí dohlížet.",
+        "Sela nabídla cestovatelům pokoj pro hosty u svého zahradnictví. Došli tam před deštěm a ubytovali se v teplém pokoji, do kterého oknem svítilo zapadající slunce.",
+        "Po setmění začalo pršet. Vedle Mend odpočívala jedna oranžová stuha. „Drak je na šesté ráno,“ řekla a šla spát."
+      ],
+      "introduction": "Mend dokončí svou část a zbytek svěří Rookovi.",
+      "title": "Poslední steh před deštěm"
+    },
+    "de": {
+      "altTexts": [
+        "Mend sitzt am freien Tisch neben der gerissenen Naht des Stoffdachs.",
+        "Mend näht neben einem verblassten, aber intakten Zierstreifen.",
+        "Rook befestigt das reparierte blaue Dach an einem Rahmen auf dem Boden.",
+        "Der Wassertest gelingt, während Mends blaues Band verblasst.",
+        "Mend gibt Rook neben dem geprüften Dach ein Werkzeug zurück.",
+        "Sela begrüßt drei Reisende in einem trockenen Gästezimmer.",
+        "Mend schläft mit einem orangefarbenen Band, während Regen die Fensterläden berührt."
+      ],
+      "captions": [
+        "Im Bootsschuppen breitete Rook das zerrissene Stoffdach auf dem freien Tisch aus. Mend setzte sich so, dass sie die ganze Naht sehen und erreichen konnte.",
+        "Mend nähte die vereinbarte Naht. Als sie einen verblassten Zierstreifen bemerkte, ließ sie ihn in Ruhe. Er war kein weiterer Riss.",
+        "Rook prüfte die Stiche mit ihr. Dann befestigte er das reparierte Dach am Holzrahmen auf dem Boden des Schuppens.",
+        "Sie testeten das Dach über einer leeren Schale. Das Wasser drang nicht durch die Naht. Mends versprochene Reparatur war fertig, und das blaue Band verschwand.",
+        "„Vor jeder Überfahrt kontrolliere ich das Boot“, sagte Rook. Mend gab das Werkzeug zurück. Sie musste ihn morgen nicht beaufsichtigen.",
+        "Sela bot den Reisenden das Gästezimmer ihrer Gärtnerei an. Sie gingen vor dem Regen dorthin und richteten sich im warmen Zimmer ein, während die Abendsonne durchs Fenster schien.",
+        "Nach Einbruch der Dunkelheit begann es zu regnen. Ein orangefarbenes Band ruhte neben Mend. „Der Drachen ist am sechsten Morgen dran“, sagte sie und schlief ein."
+      ],
+      "introduction": "Mend erledigt ihren begrenzten Teil und überlässt Rook den Rest.",
+      "title": "Der letzte Stich vor dem Regen"
+    },
+    "en": {
+      "altTexts": [
+        "Mend sits at the cleared table beside the awning’s torn seam.",
+        "Mend stitches a seam beside a faded but intact decorative stripe.",
+        "Rook fits the repaired blue awning to a frame on the floor.",
+        "A water test passes as Mend’s blue ribbon fades.",
+        "Mend returns Rook’s tool beside the tested awning.",
+        "Sela welcomes three travelers into a dry guest room.",
+        "Mend sleeps with one orange ribbon as rain touches the shuttered window."
+      ],
+      "captions": [
+        "In the boatshed, Rook spread the torn awning on the cleared table. Mend sat where she could see and reach the whole seam.",
+        "Mend stitched the agreed seam. When she noticed a faded decorative stripe, she left it alone. It was not another tear.",
+        "Rook checked the stitches with her. Then he fitted the repaired awning to its wooden frame on the boatshed floor.",
+        "They tested the awning over an empty tray. Water stayed outside the seam. Mend's promised repair was complete, and the blue ribbon dissolved.",
+        "“I will check the boat before any crossing,” Rook said. Mend handed back the tool. She did not have to supervise him tomorrow.",
+        "Sela offered the travelers her nursery's guest room. They walked there before the rain and settled into the warm room as sunset shone through the window.",
+        "Rain began after dark. One orange ribbon rested beside Mend. “The kite is on the sixth morning,” she said, and went to sleep."
+      ],
+      "introduction": "Mend finishes her limited ferry task and leaves the remaining work with Rook.",
+      "title": "The Last Stitch Before Rain"
+    },
+    "es": {
+      "altTexts": [
+        "Mend se sienta ante la mesa despejada junto a la costura rasgada del toldo.",
+        "Mend cose junto a una raya decorativa descolorida pero intacta.",
+        "Rook monta el toldo azul reparado en una estructura apoyada en el suelo.",
+        "La prueba con agua sale bien mientras desaparece la cinta azul.",
+        "Mend devuelve una herramienta a Rook junto al toldo probado.",
+        "Sela recibe a tres viajeros en una habitación seca.",
+        "Mend duerme con una cinta naranja mientras llueve sobre los postigos."
+      ],
+      "captions": [
+        "En el cobertizo, Rook extendió el toldo rasgado sobre la mesa despejada. Mend se sentó donde podía ver y alcanzar toda la costura.",
+        "Mend cosió la costura acordada. Cuando vio una raya decorativa descolorida, la dejó como estaba. No era otro desgarro.",
+        "Rook comprobó las puntadas con ella. Después montó el toldo reparado en su estructura de madera, sobre el suelo del cobertizo.",
+        "Probaron el toldo sobre una bandeja vacía. El agua no atravesó la costura. La reparación prometida estaba completa y la cinta azul se disolvió.",
+        "«Revisaré el barco antes de cada travesía», dijo Rook. Mend devolvió la herramienta. No tenía que supervisarlo al día siguiente.",
+        "Sela ofreció a los viajeros la habitación de huéspedes del vivero. Llegaron antes de la lluvia y se instalaron en el cálido cuarto mientras el sol del atardecer entraba por la ventana.",
+        "Empezó a llover después de anochecer. Una cinta naranja descansaba junto a Mend. «La cometa es para la sexta mañana», dijo, y se durmió."
+      ],
+      "introduction": "Mend termina su tarea limitada y deja el resto a Rook.",
+      "title": "La última puntada antes de la lluvia"
+    },
+    "fr": {
+      "altTexts": [
+        "Mend est assise à la table dégagée, près de la couture déchirée de l’auvent.",
+        "Mend coud près d’une rayure délavée, mais intacte.",
+        "Rook fixe l’auvent bleu réparé sur une structure posée au sol.",
+        "Le test d’eau réussit tandis que le ruban bleu disparaît.",
+        "Mend rend un outil à Rook près de l’auvent testé.",
+        "Sela accueille trois voyageurs dans une chambre sèche.",
+        "Mend dort avec un ruban orange tandis que la pluie touche les volets."
+      ],
+      "captions": [
+        "Dans le hangar, Rook étala l’auvent déchiré sur la table dégagée. Mend s’assit de façon à voir et à atteindre toute la couture.",
+        "Mend répara la couture convenue. Lorsqu’elle remarqua une rayure décorative délavée, elle n’y toucha pas. Ce n’était pas une autre déchirure.",
+        "Rook vérifia les points avec elle. Puis il installa l’auvent réparé sur sa structure en bois, posée au sol du hangar.",
+        "Ils testèrent l’auvent au-dessus d’un plateau vide. L’eau ne traversa pas la couture. La réparation promise était terminée et le ruban bleu se dissipa.",
+        "« Je vérifierai le bateau avant toute traversée », dit Rook. Mend lui rendit l’outil. Elle n’avait pas à le surveiller demain.",
+        "Sela proposa aux voyageurs la chambre d’amis de sa pépinière. Ils y arrivèrent avant la pluie et s’installèrent bien au chaud, tandis que le soleil couchant éclairait la pièce par la fenêtre.",
+        "La pluie commença après la tombée du jour. Un ruban orange reposait près de Mend. « Le cerf-volant, c’est le sixième matin », dit-elle avant de dormir."
+      ],
+      "introduction": "Mend termine sa tâche limitée et confie le reste à Rook.",
+      "title": "Le dernier point avant la pluie"
+    },
+    "hi": {
+      "altTexts": [
+        "मेंड साफ़ की हुई मेज़ पर छाजन की उधड़ी सिलाई के पास बैठती है।",
+        "फटी सिलाई सुधरती है, फीकी सजावटी धारी वैसी ही रहती है।",
+        "रूक फर्श पर टिके ढाँचे में छाजन लगाता है।",
+        "पानी की जाँच में ट्रे सूखी रहती है और नीला रिबन गायब होता है।",
+        "मेंड रूक को औज़ार वापस देती है।",
+        "तीन यात्री आरामदायक अतिथि कमरे में पहुँचते हैं; खुली खिड़की से डूबते सूरज की रोशनी आती है।",
+        "मेंड कंबल के पास एक नारंगी रिबन के साथ सोती है।"
+      ],
+      "captions": [
+        "नावघर में रूक ने फटा छाजन साफ़ की हुई मेज़ पर फैलाया। मेंड ऐसी जगह बैठी जहाँ से पूरी उधड़ी सिलाई दिखती थी और उस तक हाथ पहुँचता था।",
+        "मेंड ने तय सिलाई की। सजावट की फीकी धारी दिखी तो उसने छोड़ दी। वह दूसरी फटी जगह नहीं थी।",
+        "रूक ने उसके साथ टाँके देखे। फिर नावघर के फर्श पर सुधरे छाजन को लकड़ी के ढाँचे पर लगाया।",
+        "उन्होंने खाली ट्रे के ऊपर पानी डालकर जाँचा। सिलाई से पानी अंदर नहीं आया। मेंड की तय मरम्मत पूरी हुई और नीला रिबन मिट गया।",
+        "“हर यात्रा से पहले नाव जाँचूँगा,” रूक ने कहा। मेंड ने औज़ार लौटा दिया। कल उसे रूक की निगरानी नहीं करनी थी।",
+        "सेला ने यात्रियों को अपनी पौधशाला के अतिथि कमरे में ठहरने को कहा। वे बारिश शुरू होने से पहले वहाँ पहुँचे। आरामदायक गर्म कमरे की खिड़की से डूबते सूरज की रोशनी आ रही थी।",
+        "अँधेरा होने के बाद बारिश शुरू हुई। मेंड के पास एक नारंगी रिबन था। “पतंग छठी सुबह है,” उसने कहा और सो गई।"
+      ],
+      "introduction": "मेंड तय मरम्मत पूरी करती है; लगाना और सुरक्षा जाँचना रूक के जिम्मे रहता है।",
+      "title": "बारिश से पहले आखिरी टाँका"
+    },
+    "id": {
+      "altTexts": [
+        "Mend duduk di meja yang telah dikosongkan, di dekat jahitan tudung yang robek.",
+        "Jahitan diperbaiki; garis hias pudar tidak diubah.",
+        "Rook memasang kain pada rangka yang ditopang lantai.",
+        "Uji air menunjukkan baki tetap kering; pita biru memudar.",
+        "Mend menyerahkan kembali alat kepada Rook.",
+        "Sela menyambut tiga pelancong di kamar tamu yang kering.",
+        "Mend tidur dengan satu pita jingga di dekat selimut."
+      ],
+      "captions": [
+        "Di gudang perahu, Rook membentangkan tudung yang robek di meja yang telah dikosongkan. Mend duduk agar dapat melihat dan menjangkau seluruh jahitan.",
+        "Mend menjahit bagian yang disepakati. Ketika melihat garis hias yang pudar, ia membiarkannya. Itu bukan robekan lain.",
+        "Rook memeriksa jahitan bersamanya. Lalu ia memasang tudung yang telah diperbaiki pada rangka kayu di lantai gudang.",
+        "Mereka mengujinya di atas baki kosong. Air tidak menembus jahitan. Perbaikan yang dijanjikan Mend selesai, dan pita biru lenyap.",
+        "“Akan kuperiksa perahu sebelum setiap penyeberangan,” kata Rook. Mend mengembalikan alat. Ia tidak perlu mengawasi Rook besok.",
+        "Sela menawarkan kamar tamu di kebun bibitnya. Mereka berjalan ke sana sebelum hujan dan beristirahat di kamar yang hangat, sementara cahaya senja masuk melalui jendela.",
+        "Hujan mulai turun setelah gelap. Satu pita jingga beristirahat di sisi Mend. “Layang-layangnya pagi keenam,” katanya, lalu tidur."
+      ],
+      "introduction": "Mend menyelesaikan perbaikan tudung perahu yang telah disepakati.",
+      "title": "Jahitan Terakhir Sebelum Hujan"
+    },
+    "it": {
+      "altTexts": [
+        "Mend siede al tavolo sgombro accanto alla cucitura strappata della copertura.",
+        "Mend cuce vicino a una striscia decorativa sbiadita ma integra.",
+        "Rook monta la copertura blu riparata su un telaio a terra.",
+        "La prova con l’acqua riesce mentre svanisce il nastro blu.",
+        "Mend restituisce un attrezzo a Rook vicino alla copertura verificata.",
+        "Sela accoglie tre viaggiatori in una camera asciutta.",
+        "Mend dorme con un nastro arancione mentre la pioggia batte sulle imposte."
+      ],
+      "captions": [
+        "Nel capanno Rook distese la copertura strappata sul tavolo sgombro. Mend si sedette dove poteva vedere e raggiungere tutta la cucitura.",
+        "Mend cucì il tratto concordato. Notò una striscia decorativa sbiadita e la lasciò stare. Non era un altro strappo.",
+        "Rook controllò con lei i punti. Poi montò la copertura riparata sul telaio di legno appoggiato sul pavimento.",
+        "Provarono la copertura sopra un vassoio vuoto. L’acqua non attraversò la cucitura. La riparazione promessa era completa e il nastro blu si dissolse.",
+        "«Controllerò la barca prima di ogni traversata», disse Rook. Mend restituì l’attrezzo. Non doveva sorvegliarlo domani.",
+        "Sela offrì ai viaggiatori la camera per gli ospiti del vivaio. Arrivarono prima della pioggia e si sistemarono nella stanza calda, mentre la luce del tramonto entrava dalla finestra.",
+        "Dopo il buio cominciò a piovere. Un nastro arancione riposava vicino a Mend. «L’aquilone è per la sesta mattina», disse, e si addormentò."
+      ],
+      "introduction": "Mend finisce il proprio compito limitato e lascia il resto a Rook.",
+      "title": "L’ultimo punto prima della pioggia"
+    },
+    "ja": {
+      "altTexts": [
+        "メンドが片づけた作業台に座り、雨よけの破れた縫い目を前にしています。",
+        "破れた縫い目だけを直し、色あせた飾りは残っています。",
+        "ルークが床で支えた木枠に、雨よけを取りつけています。",
+        "水を試しても受け皿は乾いたままで、青いリボンが消えています。",
+        "メンドがルークへ道具を返しています。",
+        "セラが、雨の入らない客室で三人を迎えています。",
+        "一本のオレンジのリボンを残して、メンドが眠っています。"
+      ],
+      "captions": [
+        "船小屋で、ルークは破れた雨よけを片づけた台に広げました。メンドは縫い目全体を見渡し、手が届く場所に座りました。",
+        "メンドは決めた縫い目を直しました。色あせた飾りの線に気づいても、そのままにしました。それは別の破れではありませんでした。",
+        "ルークは一緒に縫い目を調べました。それから船小屋の床で、直した雨よけを木枠に取りつけました。",
+        "空の受け皿の上で水をかけて試しました。縫い目から水は入りません。約束した修理が終わり、青いリボンが消えました。",
+        "「渡る前には、毎回船を確かめる」とルーク。メンドは道具を返しました。明日、彼を見張っている必要はありませんでした。",
+        "セラが苗畑の客室を貸してくれました。三人は雨の前にそこへ歩き、夕日が窓から差し込む暖かな部屋に落ち着きました。",
+        "暗くなってから、雨が降り始めました。メンドの隣にはオレンジのリボンが一本。「たこは六日目の朝」と言って、眠りました。"
+      ],
+      "introduction": "メンドは決めた修理を終え、設置と安全確認はルークに任せます。",
+      "title": "雨の前の最後のひと針"
+    },
+    "ko": {
+      "altTexts": [
+        "멘드가 정리된 작업대에 앉아 차양의 찢어진 이음매를 앞에 두고 있습니다.",
+        "찢어진 이음매만 고치고 빛바랜 장식은 남겨 둡니다.",
+        "루크가 바닥에 안정적으로 받친 나무틀에 차양을 답니다.",
+        "물 시험 뒤 쟁반은 마른 상태이며 파랑 리본이 사라집니다.",
+        "멘드가 루크에게 도구를 돌려줍니다.",
+        "셀라가 비가 들지 않는 손님방에서 세 여행자를 맞이합니다.",
+        "멘드가 주황 리본 하나를 남긴 채 잠듭니다."
+      ],
+      "captions": [
+        "배 창고에서 루크는 치운 작업대 위에 찢어진 차양을 폈습니다. 멘드는 이음매 전체를 보고 손이 닿는 곳에 앉았습니다.",
+        "멘드는 약속한 이음매를 꿰맸습니다. 색이 바랜 장식 줄을 보았지만 그대로 두었습니다. 그것은 또 다른 찢어진 곳이 아니었습니다.",
+        "루크가 멘드와 함께 바늘땀을 확인했습니다. 그런 다음 창고 바닥에서 수선한 차양을 나무틀에 설치했습니다.",
+        "빈 쟁반 위에서 물을 뿌려 시험했습니다. 이음매 안으로 물이 새지 않았습니다. 멘드의 수선 약속이 끝나고 파랑 리본이 사라졌습니다.",
+        "“운항 전에는 언제나 배를 점검할게.” 루크가 말했습니다. 멘드는 도구를 돌려주었습니다. 내일 그를 감독할 필요는 없었습니다.",
+        "셀라는 모종밭의 손님방을 내주었습니다. 친구들은 비가 오기 전에 그곳으로 걸어가, 노을빛이 창으로 들어오는 따뜻한 방에 자리를 잡았습니다.",
+        "어두워진 뒤 비가 내렸습니다. 주황 리본 하나가 멘드 곁에 놓였습니다. “연은 여섯째 날 아침이야.” 그렇게 말하고 잠들었습니다."
+      ],
+      "introduction": "멘드는 정한 수선을 끝내고 설치와 점검은 루크에게 맡깁니다.",
+      "title": "비 오기 전 마지막 바느질"
+    },
+    "pl": {
+      "altTexts": [
+        "Mend siedzi przy uporządkowanym stole obok rozdartego szwu osłony.",
+        "Mend zszywa szew przy wyblakłym, ale całym pasku ozdobnym.",
+        "Rook montuje naprawioną niebieską osłonę na stelażu stojącym na podłodze.",
+        "Próba z wodą udaje się, a niebieska wstążka gaśnie.",
+        "Mend oddaje Rookowi narzędzie obok sprawdzonej osłony.",
+        "Sela wita troje podróżnych w suchym pokoju gościnnym.",
+        "Mend śpi z pomarańczową wstążką, a deszcz dotyka okiennic."
+      ],
+      "captions": [
+        "W szopie Rook rozłożył rozdartą osłonę na uporządkowanym stole. Mend usiadła tak, by widzieć cały szew i do niego dosięgnąć.",
+        "Mend zszyła umówiony szew. Gdy zauważyła wyblakły ozdobny pasek, zostawiła go w spokoju. To nie było kolejne rozdarcie.",
+        "Rook razem z nią sprawdził ściegi. Potem na podłodze szopy nałożył naprawioną osłonę na drewniany stelaż.",
+        "Przetestowali osłonę nad pustą tacą. Woda nie przeszła przez szew. Obiecana naprawa była gotowa i niebieska wstążka zniknęła.",
+        "„Sprawdzę łódź przed każdą przeprawą” — powiedział Rook. Mend oddała narzędzie. Nie musiała jutro nad nim czuwać.",
+        "Sela zaoferowała podróżnym pokój gościnny przy szkółce. Dotarli tam przed deszczem i rozgościli się w ciepłym pokoju, gdy przez okno wpadało światło zachodzącego słońca.",
+        "Po zmroku zaczął padać deszcz. Jedna pomarańczowa wstążka leżała przy Mend. „Latawiec jest na szósty poranek” — powiedziała i zasnęła."
+      ],
+      "introduction": "Mend kończy swój ograniczony zakres pracy i zostawia resztę Rookowi.",
+      "title": "Ostatni ścieg przed deszczem"
+    },
+    "pt": {
+      "altTexts": [
+        "Mend se senta à mesa livre junto da costura rasgada da cobertura.",
+        "Mend costura perto de uma faixa decorativa desbotada, mas inteira.",
+        "Rook monta a cobertura azul reparada numa armação no chão.",
+        "O teste com água funciona enquanto a fita azul desaparece.",
+        "Mend devolve uma ferramenta a Rook perto da cobertura testada.",
+        "Sela recebe três viajantes num quarto seco.",
+        "Mend dorme com uma fita laranja enquanto a chuva toca as venezianas."
+      ],
+      "captions": [
+        "No galpão, Rook estendeu a cobertura rasgada sobre a mesa livre. Mend se sentou onde podia ver e alcançar a costura inteira.",
+        "Mend costurou o trecho combinado. Ao notar uma faixa decorativa desbotada, deixou-a como estava. Não era outro rasgo.",
+        "Rook conferiu os pontos com ela. Depois montou a cobertura reparada na armação de madeira apoiada no chão do galpão.",
+        "Testaram a cobertura sobre uma bandeja vazia. A água não passou pela costura. O conserto prometido estava pronto, e a fita azul se dissolveu.",
+        "“Vou verificar o barco antes de cada travessia”, disse Rook. Mend devolveu a ferramenta. Não precisava supervisioná-lo amanhã.",
+        "Sela ofereceu aos viajantes o quarto de hóspedes do viveiro. Chegaram antes da chuva e se acomodaram no quarto aquecido, enquanto a luz do pôr do sol entrava pela janela.",
+        "A chuva começou depois de escurecer. Uma fita laranja descansava junto de Mend. “A pipa é para a sexta manhã”, disse ela, e foi dormir."
+      ],
+      "introduction": "Mend termina sua tarefa limitada e deixa o restante com Rook.",
+      "title": "O último ponto antes da chuva"
+    },
+    "ru": {
+      "altTexts": [
+        "Менд сидит у расчищенного стола рядом с разорванным швом навеса.",
+        "Менд шьёт возле выцветшей, но целой декоративной полосы.",
+        "Рук натягивает починенный синий навес на каркас на полу.",
+        "Проверка водой проходит успешно, а синяя лента гаснет.",
+        "Менд возвращает Руку инструмент возле проверенного навеса.",
+        "Села встречает троих путников в сухой гостевой комнате.",
+        "Менд спит с оранжевой лентой, пока дождь касается ставней."
+      ],
+      "captions": [
+        "В сарае Рук разложил порванный навес на расчищенном столе. Менд села так, чтобы видеть весь шов и дотягиваться до него.",
+        "Менд зашила оговорённый шов. Заметив выцветшую декоративную полоску, она оставила её в покое. Это был не новый разрыв.",
+        "Рук проверил стежки вместе с ней. Затем установил починенный навес на деревянный каркас, стоявший на полу сарая.",
+        "Они проверили навес над пустым подносом. Вода не прошла сквозь шов. Обещанный ремонт завершился, и синяя лента растаяла.",
+        "«Я проверю лодку перед каждой переправой», — сказал Рук. Менд вернула инструмент. Ей не нужно было завтра следить за ним.",
+        "Села предложила путникам гостевую комнату при питомнике. Они добрались туда до дождя и устроились в тёплой комнате, пока в окно лился свет заката.",
+        "После наступления темноты начался дождь. Возле Менд лежала одна оранжевая лента. «Змей — на шестое утро», — сказала она и уснула."
+      ],
+      "introduction": "Менд завершает свою ограниченную задачу и оставляет остальное Руку.",
+      "title": "Последний стежок перед дождём"
+    },
+    "tr": {
+      "altTexts": [
+        "Mend, boşaltılmış masada tentenin sökülmüş dikişinin yanında oturuyor.",
+        "Mend solmuş ama sağlam bir süs çizgisinin yanında dikiş dikiyor.",
+        "Rook onarılmış mavi tenteyi yerdeki iskelete takıyor.",
+        "Su deneyi başarılı olurken Mend’in mavi kurdelesi kayboluyor.",
+        "Mend denenmiş tentenin yanında Rook’a aletini geri veriyor.",
+        "Sela üç yolcuyu kuru bir misafir odasında karşılıyor.",
+        "Mend turuncu kurdeleyle uyurken yağmur kepenklere vuruyor."
+      ],
+      "captions": [
+        "Kayıkhanede Rook yırtık tenteyi boşaltılmış masaya serdi. Mend, sökülen dikişin tamamını görebileceği ve ulaşabileceği bir yere oturdu.",
+        "Mend kararlaştırılan dikişi dikti. Solmuş bir süs çizgisi fark edince onu olduğu gibi bıraktı. Bu yeni bir yırtık değildi.",
+        "Rook ilmekleri onunla birlikte kontrol etti. Sonra onarılmış tenteyi kayıkhane zeminindeki ahşap iskelete taktı.",
+        "Tenteyi boş bir tepsinin üzerinde denediler. Su dikişten geçmedi. Mend’in söz verdiği onarım bitmişti; mavi kurdele kayboldu.",
+        "“Her geçişten önce tekneyi kontrol edeceğim,” dedi Rook. Mend aleti geri verdi. Yarın onu denetlemek zorunda değildi.",
+        "Sela yolculara fidanlığın misafir odasını sundu. Yağmurdan önce oraya yürüyüp sıcak odaya yerleştiler; gün batımının ışığı pencereden içeri süzülüyordu.",
+        "Hava karardıktan sonra yağmur başladı. Mend’in yanında bir turuncu kurdele vardı. “Uçurtma altıncı sabah,” dedi ve uyudu."
+      ],
+      "introduction": "Mend sınırlı görevini bitirir ve kalan işi Rook’a bırakır.",
+      "title": "Yağmurdan Önce Son İlmek"
+    },
+    "vi": {
+      "altTexts": [
+        "Mend ngồi bên bàn đã dọn, cạnh đường may bị rách của mái che.",
+        "Đường rách được khâu, sọc trang trí phai màu giữ nguyên.",
+        "Rook lắp vải lên khung được đỡ chắc trên sàn.",
+        "Khay vẫn khô sau thử nước, dải xanh dương biến mất.",
+        "Mend trả lại dụng cụ cho Rook.",
+        "Sela đón ba người bạn vào phòng nghỉ khô ráo.",
+        "Mend ngủ, chỉ còn dải cam cạnh chăn."
+      ],
+      "captions": [
+        "Trong nhà thuyền, Rook trải tấm mái che bị rách lên bàn đã dọn. Mend ngồi chỗ có thể nhìn và với tới cả đường may.",
+        "Mend khâu đúng đường đã thống nhất. Thấy một sọc trang trí bạc màu, cô để nguyên. Nó không phải vết rách khác.",
+        "Rook cùng cô kiểm tra mũi chỉ. Rồi anh gắn mái che đã sửa lên khung gỗ, ngay trên sàn nhà thuyền.",
+        "Họ thử nước bên trên khay rỗng. Nước không lọt qua đường may. Phần sửa Mend hứa đã xong, và dải xanh dương tan đi.",
+        "“Mình sẽ kiểm tra thuyền trước mỗi chuyến,” Rook nói. Mend trả dụng cụ. Ngày mai cô không cần giám sát anh.",
+        "Sela mời các bạn ở phòng nghỉ của vườn ươm. Họ đến đó trước cơn mưa và nghỉ trong căn phòng ấm, khi ánh hoàng hôn chiếu qua cửa sổ.",
+        "Mưa bắt đầu sau khi trời tối. Một dải cam nằm bên Mend. “Diều là sáng ngày thứ sáu,” cô nhắc, rồi ngủ."
+      ],
+      "introduction": "Mend sửa đúng phần đã thống nhất, còn Rook lắp và kiểm tra.",
+      "title": "Mũi khâu cuối trước cơn mưa"
+    },
+    "zh": {
+      "altTexts": [
+        "门德坐在清好的桌边，面前是雨篷上破裂的接缝。",
+        "被修补的是破缝，褪色装饰纹保持原样。",
+        "鲁克安装雨篷，框架稳稳支撑在地面。",
+        "试水后的托盘仍干燥，蓝色丝带逐渐消散。",
+        "门德把工具交还鲁克，准备结束工作。",
+        "塞拉在干燥的客房迎接三个朋友。",
+        "门德入睡，身边只剩一条橙色丝带。"
+      ],
+      "captions": [
+        "船棚里，鲁克把破了的雨篷铺在清好的桌上。门德坐下来，能看清、够到整条接缝。",
+        "门德缝好约定的地方。看到一条褪色的装饰纹时，她没有动它。那并不是另一道破口。",
+        "鲁克和她一起检查针脚，然后在船棚地板上把修好的雨篷装到木框架上。",
+        "他们在空托盘上方试水。水没有穿过接缝。门德承诺的修补完成了，蓝色丝带也消失了。",
+        "“每次开船前我都会检查船。”鲁克说。门德还回工具。她不必明天再来监督他。",
+        "塞拉请旅人们住进育苗园客房。他们赶在下雨前走到那里，在温暖的房间里安顿下来，夕阳正透过窗户照进屋里。",
+        "天黑后，雨开始下了。一条橙色丝带躺在门德旁边。“风筝约在第六天早晨。”她说，然后安心睡下。"
+      ],
+      "introduction": "门德只完成约定的修补，鲁克负责安装和检查。",
+      "title": "下雨前的最后一针"
+    }
+  },
+  "number": 20,
+  "panels": [
+    {
+      "altText": "Mend sits at the cleared table beside the awning’s torn seam.",
+      "image": "N02E20P01.png"
+    },
+    {
+      "altText": "Mend stitches a seam beside a faded but intact decorative stripe.",
+      "image": "N02E20P02.png"
+    },
+    {
+      "altText": "Rook fits the repaired blue awning to a frame on the floor.",
+      "image": "N02E20P03.png"
+    },
+    {
+      "altText": "A water test passes as Mend’s blue ribbon fades.",
+      "image": "N02E20P04.png"
+    },
+    {
+      "altText": "Mend returns Rook’s tool beside the tested awning.",
+      "image": "N02E20P05.png"
+    },
+    {
+      "altText": "Sela welcomes three travelers into a dry guest room.",
+      "image": "N02E20P06.png"
+    },
+    {
+      "altText": "Mend sleeps with one orange ribbon as rain touches the shuttered window.",
+      "image": "N02E20P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

@@ -1,0 +1,442 @@
+{
+  "id": "N02E17",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يفتح الصندوقان لفحص العدد والحالة كما كانا.",
+        "تسحب ميند عرضها المفتوح أمام بورو.",
+        "يختفي الفضي وتبقى الفوانيس في الصندوق غير مُصلحة.",
+        "تعترف ميند وبورو بمسؤولية كل منهما بجانب الصندوقين.",
+        "يوضع الصندوقان السليمان على عربة بورو.",
+        "في الورشة الأوسع، تبقى مع ميند ثلاثة أشرطة فقط.",
+        "ينتظر الأصدقاء العبّارة ومعهم ثلاثة أشرطة مختلفة بوضوح."
+      ],
+      "captions": [
+        "بعد دقائق وصلوا إلى الورشة. ظل الصندوق الأول يحوي اثني عشر فانوسًا، والثاني فارغًا.",
+        "قالت ميند: «قلت أيضًا إنني سأصلح كل فانوس إضافي. كان عرضًا أكبر من قدرتي. أسحبه الآن».",
+        "ارتخى الشريط الفضي واختفى. لم تصلح الفوانيس الاثنا عشر نفسها. غيرت الكلمات الصادقة الخطة، لا العمل المنتظر.",
+        "اعترف بورو: «كان علي أن أتحقق قبل إعلان مساعدتك. لكن التغيير ما زال مزعجًا». أومأت ميند. الأمران صحيحان.",
+        "فحصا الصندوقين معًا. لم يتلف شيء ولم يُرمَ سرًا. أخذ بورو الصندوقين على عربته اليدوية.",
+        "حين رحل بورو، صارت الأرض خالية. ظلت ميند قلقة، لكنها رأت أخيرًا أي الوعود بقي عليها الوفاء به.",
+        "عند الرصيف، أنهى روك فحوص السلامة قبل أن يصعد الأصدقاء الثلاثة إلى العبّارة المتجهة إلى نيري. تبعت ميند أشرطة برتقالية وزرقاء وخضراء. هذه المرة شملت الخطة زمن العبور."
+      ],
+      "introduction": "تتراجع ميند عن إصلاح كل الفوانيس الإضافية وتعيد الصندوقين.",
+      "title": "إغلاق باب العرض المفتوح"
+    },
+    "bn": {
+      "altTexts": [
+        "দুই বাক্স খুলে সংখ্যা ও অবস্থা দেখা হচ্ছে।",
+        "মেন্ড বোরোর সামনে সীমাহীন প্রস্তাব তুলে নেয়।",
+        "রুপালি ফিতা নেই, বাক্সের লণ্ঠনগুলো এখনও সারানো হয়নি।",
+        "বোরো ও মেন্ড নিজেদের দায় মেনে নেয়।",
+        "অক্ষত দুই বাক্স বোরোর ঠেলাগাড়িতে তোলা।",
+        "ফাঁকা কর্মশালায় মেন্ডের কাছে তিনটি ফিতা আছে।",
+        "তিন বন্ধু তিন রঙের ফিতা নিয়ে ঘাটে অপেক্ষা করে।"
+      ],
+      "captions": [
+        "কয়েক মিনিট পরে কর্মশালায় এল। প্রথম বাক্সে বারোটি লণ্ঠনই আছে। দ্বিতীয়টি এখনও খালি।",
+        "“সব বাড়তি লণ্ঠন সারাবও বলেছিলাম,” মেন্ড বলল। “সেটা খুব বড় প্রস্তাব ছিল। এখন ফিরিয়ে নিচ্ছি।”",
+        "রুপালি ফিতা আলগা হয়ে মিলিয়ে গেল। বারো লণ্ঠন নিজে সারেনি। সত্যি কথা পরিকল্পনা বদলায়, পড়ে থাকা কাজ মুছে দেয় না।",
+        "“তোমার সাহায্য ঘোষণা করার আগে আমারও দেখা উচিত ছিল,” বোরো মানল। “তবু বদলটা অসুবিধা করছে।” মেন্ড মাথা নাড়ল। দুটোই সত্যি।",
+        "তারা বাক্স দেখল। কিছু নষ্ট করা বা লুকিয়ে ফেলা হয়নি। বোরো দুই বাক্স ঠেলাগাড়িতে ফিরিয়ে নিল।",
+        "বোরো গেলে মেঝে ফাঁকা হলো। মেন্ডের এখনও অস্বস্তি, কিন্তু কোন প্রতিশ্রুতি তার রাখার বাকি তা এবার পরিষ্কার।",
+        "ঘাটে রুক নিরাপত্তা পরীক্ষা শেষ করার পরে তিন বন্ধু নেরি যাওয়ার নৌকায় উঠল। কমলা, নীল আর সবুজ ফিতা মেন্ডের পিছু নিল। এবার পরিকল্পনায় নদী পার হওয়ার সময়ও ধরা ছিল।"
+      ],
+      "introduction": "মেন্ড সব বাড়তি লণ্ঠন সারানোর প্রস্তাব তুলে নিয়ে জিনিস ফিরিয়ে দেয়।",
+      "title": "সীমাহীন প্রস্তাবের দরজা বন্ধ"
+    },
+    "cs": {
+      "altTexts": [
+        "Mend a Boro prohlížejí plnou a prázdnou krabici lampionů.",
+        "Mend u dvou krabic odvolává nabídku dalších oprav.",
+        "Po zmizení stříbrné stuhy zůstává dvanáct lampionů nedokončených.",
+        "Mend naslouchá Borovi u nedokončených lampionů.",
+        "Boro nakládá plnou i prázdnou krabici na vozík.",
+        "Mend stojí se třemi stuhami na uklizené podlaze dílny.",
+        "Mend při bezpečném nástupu následují tři konce stuh."
+      ],
+      "captions": [
+        "O několik minut později došli do dílny. V první krabici stále leželo dvanáct lampionů. Druhá byla stále prázdná.",
+        "„Také jsem slíbila opravit všechny další lampiony,“ řekla Mend Borovi. „Ta nabídka byla příliš velká. Teď ji odvolávám.“",
+        "Stříbrná stuha se uvolnila a zmizela. Dvanáct lampionů se samo neopravilo. Upřímná slova změnila plán, ne čekající práci.",
+        "„Měl jsem vše ověřit, než jsem oznámil tvou pomoc,“ uznal Boro. „Ale pořád je to nepříjemné.“ Mend přikývla. Platilo obojí.",
+        "Krabice společně zkontrolovali. Nic nebylo poškozené ani potají vyhozené. Boro obě odvezl na ručním vozíku.",
+        "Po Borově odchodu byla podlaha volná. Mend se ještě necítila dobře, ale konečně viděla, které sliby jí zbývá splnit.",
+        "Na nábřeží Rook dokončil bezpečnostní kontrolu a tři přátelé nastoupili na přívoz do Neri. Za Mend vlála oranžová, modrá a zelená stuha. Tentokrát plán počítal i s plavbou."
+      ],
+      "introduction": "Mend odvolá neomezenou nabídku a vrátí nedotčené lampiony.",
+      "title": "Zavřít otevřené dveře"
+    },
+    "de": {
+      "altTexts": [
+        "Mend und Boro prüfen eine volle und eine leere Laternenkiste.",
+        "Mend zieht neben den beiden Kisten ihr zusätzliches Laternenangebot zurück.",
+        "Zwölf Laternen bleiben unfertig, nachdem das silberne Band verschwindet.",
+        "Mend hört Boro neben den unfertigen Laternen zu.",
+        "Boro lädt die volle und die leere Kiste auf einen Handwagen.",
+        "Mend steht mit drei Bändern auf dem freien Werkstattboden.",
+        "Drei Bandenden folgen Mend auf die sicher vertäute Fähre."
+      ],
+      "captions": [
+        "Wenige Minuten später erreichten sie die Werkstatt. Zwölf Laternen füllten weiterhin die erste Kiste. Die zweite war noch immer leer.",
+        "„Ich habe auch jede zusätzliche Laterne zugesagt“, sagte Mend zu Boro. „Dieses Angebot war zu groß. Ich ziehe es jetzt zurück.“",
+        "Das silberne Band lockerte sich und verschwand. Die zwölf Laternen reparierten sich nicht selbst. Ehrliche Worte änderten den Plan, nicht die wartende Arbeit.",
+        "„Ich hätte vor der Ankündigung deiner Hilfe nachfragen sollen“, gab Boro zu. „Aber es ist trotzdem umständlich.“ Mend nickte. Beides stimmte.",
+        "Sie prüften die Kisten gemeinsam. Nichts war beschädigt oder heimlich weggeworfen worden. Boro nahm beide mit seinem Handwagen zurück.",
+        "Nach Boros Abschied war der Boden frei. Mend war noch unruhig, konnte aber endlich erkennen, welche Versprechen ihr zu erfüllen blieben.",
+        "Am Kai beendete Rook seine Sicherheitskontrollen, bevor die drei Freunde für die Fahrt nach Neri an Bord gingen. Ein orangefarbenes, ein blaues und ein grünes Band folgten Mend. Diesmal war die Überfahrt eingeplant."
+      ],
+      "introduction": "Mend zieht ihr unbegrenztes Angebot zurück und gibt die Laternen unberührt zurück.",
+      "title": "Die offene Tür schließen"
+    },
+    "en": {
+      "altTexts": [
+        "Mend and Boro inspect one full lantern box and one empty box.",
+        "Mend withdraws the extra-lantern offer beside the two boxes.",
+        "Twelve lanterns remain unfinished after the silver ribbon fades.",
+        "Mend listens as Boro looks at the unfinished lanterns.",
+        "Boro loads the full and empty lantern boxes onto a handcart.",
+        "Mend stands on the cleared workshop floor with three ribbons.",
+        "Three ribbon tails follow Mend onto the safely moored ferry."
+      ],
+      "captions": [
+        "A few minutes later, they reached the workshop. Twelve lanterns still filled the first box. The second box was still empty.",
+        "“I also said I would repair every extra lantern,” Mend told Boro. “That offer was too large. I am withdrawing it now.”",
+        "The silver ribbon loosened and disappeared. The twelve lanterns did not repair themselves. Honest words changed the plan, not the work already waiting.",
+        "“I should have checked before announcing your help,” Boro admitted. “But this is still inconvenient.” Mend nodded. Both things were true.",
+        "They checked the boxes together. Nothing had been damaged or secretly discarded. Boro took both boxes back on his handcart.",
+        "After Boro left, the floor was clear. Mend still felt uneasy, but she could finally see which promises were hers to keep.",
+        "At the quay, Rook finished his safety checks before the three friends boarded for Neri. Orange, blue, and green ribbons followed Mend. This time, the plan included the crossing."
+      ],
+      "introduction": "Mend withdraws her unlimited offer and returns the untouched lanterns.",
+      "title": "Closing the Open Door"
+    },
+    "es": {
+      "altTexts": [
+        "Mend y Boro revisan una caja llena y otra vacía.",
+        "Mend retira la oferta de los faroles junto a las dos cajas.",
+        "Doce faroles siguen sin reparar cuando desaparece la cinta plateada.",
+        "Mend escucha a Boro junto a los faroles sin terminar.",
+        "Boro carga las cajas llena y vacía en un carro.",
+        "Mend permanece con tres cintas sobre el suelo despejado del taller.",
+        "Tres colas de cinta siguen a Mend al transbordador bien amarrado."
+      ],
+      "captions": [
+        "Unos minutos después llegaron al taller. La primera caja seguía llena de doce faroles. La segunda continuaba vacía.",
+        "«También dije que arreglaría todos los faroles adicionales», explicó Mend. «Aquella oferta era demasiado grande. La retiro ahora».",
+        "La cinta plateada se aflojó y desapareció. Los doce faroles no se arreglaron solos. Las palabras sinceras cambiaron el plan, no el trabajo pendiente.",
+        "«Debí comprobarlo antes de anunciar tu ayuda», reconoció Boro. «Pero sigue siendo un inconveniente». Mend asintió. Ambas cosas eran ciertas.",
+        "Revisaron juntos las cajas. No había nada dañado ni tirado a escondidas. Boro se llevó ambas en su carro de mano.",
+        "Cuando Boro se fue, el suelo quedó despejado. Mend seguía inquieta, pero por fin distinguía las promesas que aún le correspondían.",
+        "En el muelle, Rook terminó las revisiones de seguridad antes de que los tres amigos subieran al transbordador hacia Neri. Las cintas naranja, azul y verde seguían a Mend. Esta vez, el plan incluía la travesía."
+      ],
+      "introduction": "Mend retira su oferta ilimitada y devuelve los faroles intactos.",
+      "title": "Cerrar la puerta abierta"
+    },
+    "fr": {
+      "altTexts": [
+        "Mend et Boro examinent une boîte pleine et une boîte vide.",
+        "Mend retire son offre de réparations supplémentaires près des deux boîtes.",
+        "Douze lanternes restent inachevées après la disparition du ruban argenté.",
+        "Mend écoute Boro près des lanternes inachevées.",
+        "Boro charge les boîtes pleine et vide sur une charrette.",
+        "Mend se tient avec trois rubans sur le sol dégagé de l’atelier.",
+        "Trois queues de rubans suivent Mend sur le bac bien amarré."
+      ],
+      "captions": [
+        "Quelques minutes plus tard, ils arrivèrent à l’atelier. Douze lanternes remplissaient toujours la première boîte. La seconde était toujours vide.",
+        "« J’ai aussi proposé de réparer toutes les lanternes supplémentaires, dit Mend. Cette offre était trop grande. Je la retire maintenant. »",
+        "Le ruban argenté se détendit et disparut. Les douze lanternes ne se réparèrent pas toutes seules. Les paroles sincères changeaient le projet, pas le travail restant.",
+        "« J’aurais dû vérifier avant d’annoncer ton aide, reconnut Boro. Mais cela reste embêtant. » Mend acquiesça. Les deux choses étaient vraies.",
+        "Ils vérifièrent les boîtes ensemble. Rien n’avait été abîmé ni jeté en cachette. Boro emporta les deux boîtes sur sa charrette à bras.",
+        "Après le départ de Boro, le sol était dégagé. Mend restait mal à l’aise, mais elle distinguait enfin les promesses qu’il lui restait à tenir.",
+        "Sur le quai, Rook termina les contrôles de sécurité avant que les trois amis embarquent pour Neri. Les rubans orange, bleu et vert suivaient Mend. Cette fois, la traversée était prévue."
+      ],
+      "introduction": "Mend retire son offre illimitée et rend les lanternes intactes.",
+      "title": "Refermer la porte ouverte"
+    },
+    "hi": {
+      "altTexts": [
+        "दोनों डिब्बे खोलकर उनकी संख्या और स्थिति जाँची जाती है।",
+        "मेंड बोरो के सामने बिना सीमा का प्रस्ताव वापस लेती है।",
+        "चाँदी की चमक जाती है; डिब्बे की लालटेनें अभी टूटी हैं।",
+        "बोरो और मेंड अपनी-अपनी जिम्मेदारी मानते हैं।",
+        "दोनों सही डिब्बे बोरो की हाथगाड़ी पर रखे जाते हैं।",
+        "खुली कार्यशाला में मेंड के पास तीन रिबन रह गए हैं।",
+        "तीन दोस्त तीन रंगों के रिबनों के साथ घाट पर प्रतीक्षा करते हैं।"
+      ],
+      "captions": [
+        "कुछ मिनट बाद वे कार्यशाला पहुँचे। पहले डिब्बे में बारह लालटेनें थीं। दूसरा अब भी खाली था।",
+        "“मैंने हर अतिरिक्त लालटेन ठीक करने को भी कहा था,” मेंड बोली। “वह प्रस्ताव बहुत बड़ा था। अब मैं उसे वापस ले रही हूँ।”",
+        "चाँदी वाला रिबन ढीला हुआ और मिट गया। बारह लालटेनें खुद नहीं बनीं। सच्चे शब्दों ने योजना बदली, बाकी पड़े काम को नहीं मिटाया।",
+        "“घोषणा से पहले मुझे भी जाँचना चाहिए था,” बोरो ने माना। “फिर भी यह बदलाव असुविधा है।” मेंड ने सिर हिलाया। दोनों बातें सही थीं।",
+        "उन्होंने दोनों डिब्बे देखे। कुछ तोड़ा या चुपचाप फेंका नहीं गया था। बोरो दोनों को हाथगाड़ी पर वापस ले गया।",
+        "बोरो गया तो फर्श खाली हुआ। मेंड अभी बेचैन थी, लेकिन अब देख सकती थी कि कौन-से वादे निभाना उसकी जिम्मेदारी है।",
+        "घाट पर रूक ने सुरक्षा जाँच पूरी की, फिर तीनों दोस्त नेरी जाने के लिए नाव पर चढ़े। नारंगी, नीला और हरा रिबन मेंड के पीछे लहराए। इस बार योजना में यात्रा का समय भी था।"
+      ],
+      "introduction": "मेंड सारी अतिरिक्त लालटेनें ठीक करने का प्रस्ताव वापस लेकर सामान लौटाती है।",
+      "title": "बिना सीमा की हामी का अंत"
+    },
+    "id": {
+      "altTexts": [
+        "Dua kotak diperiksa di lantai bengkel.",
+        "Mend menarik tawaran tanpa batas di hadapan Boro.",
+        "Lampion tetap rusak di dalam kotak setelah pita perak memudar.",
+        "Boro dan Mend mengakui tanggung jawab masing-masing.",
+        "Dua kotak dimuat utuh ke gerobak Boro.",
+        "Hanya tiga pita tersisa di bengkel yang lebih lapang.",
+        "Tiga teman menunggu feri dengan tiga pita yang jelas berbeda."
+      ],
+      "captions": [
+        "Beberapa menit kemudian, mereka tiba di bengkel. Kotak pertama masih berisi dua belas lampion. Kotak kedua tetap kosong.",
+        "“Aku juga berjanji memperbaiki setiap lampion tambahan,” kata Mend. “Tawaran itu terlalu besar. Sekarang aku menariknya kembali.”",
+        "Pita perak mengendur dan lenyap. Dua belas lampion tidak memperbaiki diri sendiri. Kata-kata jujur mengubah rencana, bukan pekerjaan yang masih menunggu.",
+        "“Seharusnya aku memeriksa sebelum mengumumkan bantuanmu,” aku Boro. “Tetapi perubahan ini tetap merepotkan.” Mend mengangguk. Keduanya benar.",
+        "Mereka memeriksa kedua kotak. Tidak ada yang rusak atau diam-diam dibuang. Boro membawa keduanya kembali dengan gerobak tangan.",
+        "Setelah Boro pergi, lantai kembali lapang. Mend masih gelisah, tetapi kini dapat melihat janji mana yang tetap menjadi tanggung jawabnya.",
+        "Di dermaga, Rook menyelesaikan pemeriksaan keselamatan sebelum ketiga teman naik feri menuju Neri. Pita jingga, biru, dan hijau mengikuti Mend. Kali ini, jadwal mencakup penyeberangan."
+      ],
+      "introduction": "Mend menarik tawaran memperbaiki semua lampion tambahan dan mengembalikan kotaknya.",
+      "title": "Menutup Tawaran Tanpa Batas"
+    },
+    "it": {
+      "altTexts": [
+        "Mend e Boro controllano una scatola piena e una vuota.",
+        "Mend ritira l’offerta delle lanterne aggiuntive accanto alle due scatole.",
+        "Dodici lanterne restano incomplete dopo la scomparsa del nastro argentato.",
+        "Mend ascolta Boro vicino alle lanterne incomplete.",
+        "Boro carica la scatola piena e quella vuota sul carretto.",
+        "Mend sta con tre nastri sul pavimento sgombro del laboratorio.",
+        "Tre code di nastro seguono Mend sul traghetto ben ormeggiato."
+      ],
+      "captions": [
+        "Pochi minuti dopo arrivarono al laboratorio. La prima scatola conteneva ancora dodici lanterne. La seconda era ancora vuota.",
+        "«Avevo anche promesso di riparare ogni lanterna aggiuntiva», disse Mend. «L’offerta era troppo grande. La ritiro adesso».",
+        "Il nastro argentato si allentò e sparì. Le dodici lanterne non si ripararono da sole. Le parole sincere cambiarono il piano, non il lavoro in attesa.",
+        "«Avrei dovuto verificare prima di annunciare il tuo aiuto», ammise Boro. «Ma resta un inconveniente». Mend annuì. Entrambe le cose erano vere.",
+        "Controllarono insieme le scatole. Nulla era danneggiato o buttato di nascosto. Boro portò via entrambe con il carretto.",
+        "Dopo che Boro partì, il pavimento era libero. Mend era ancora a disagio, ma finalmente distingueva le promesse che le restavano da mantenere.",
+        "Al molo Rook completò i controlli di sicurezza prima che i tre amici salissero a bordo per Neri. I nastri arancione, blu e verde seguivano Mend. Stavolta il piano comprendeva la traversata."
+      ],
+      "introduction": "Mend ritira la sua offerta illimitata e restituisce le lanterne intatte.",
+      "title": "Chiudere la porta aperta"
+    },
+    "ja": {
+      "altTexts": [
+        "二つの箱を開けると、元の中身がそのままあります。",
+        "メンドがボロに、数を決めない申し出を撤回すると伝えています。",
+        "銀色の光が消えても、箱のちょうちんは未修理です。",
+        "ボロとメンドが、それぞれの責任を認めています。",
+        "二つの箱が、そのままボロの手押し車に積まれています。",
+        "広くなった作業場で、メンドには三本のリボンだけが残っています。",
+        "三人が三色のリボンとともに、桟橋で渡し船を待っています。"
+      ],
+      "captions": [
+        "数分後、作業場に着きました。最初の箱には十二個のちょうちん。二つ目の箱はまだ空でした。",
+        "「追加のちょうちんを全部直すとも言ったね」とメンド。「大きすぎる申し出だった。今、取り消します」",
+        "銀色のリボンがゆるみ、消えました。でも十二個のちょうちんは勝手には直りません。正直な言葉が変えたのは計画で、残る作業ではありません。",
+        "「手伝ってもらうと知らせる前に、僕も確かめるべきだった」とボロ。「でも、やっぱり困るよ」メンドはうなずきました。どちらも本当でした。",
+        "二人で箱を確かめました。傷つけたり、黙って捨てたりした物はありません。ボロは二つとも手押し車で持ち帰りました。",
+        "ボロが帰ると床が空きました。メンドはまだ落ち着きません。でも、どの約束が自分に残っているのか、やっと見えました。",
+        "桟橋でルークが安全確認を終えてから、三人はネリ行きの船に乗りました。オレンジ、青、緑のリボンがメンドについてきます。今度は船旅の時間も計画に入っていました。"
+      ],
+      "introduction": "メンドは追加の修理を無制限に引き受ける約束を撤回します。",
+      "title": "開けっぱなしの申し出を閉じる"
+    },
+    "ko": {
+      "altTexts": [
+        "두 상자를 열어 원래의 수량과 상태를 확인합니다.",
+        "멘드가 보로 앞에서 제한 없는 제안을 철회합니다.",
+        "은빛 리본은 사라져도 상자 안 등불은 수리되지 않은 채입니다.",
+        "보로와 멘드가 상자 옆에서 각자의 책임을 인정합니다.",
+        "온전한 두 상자가 보로의 손수레에 실립니다.",
+        "넓어진 작업실에서 멘드에게 리본 세 개만 남아 있습니다.",
+        "세 친구가 세 가지 색의 리본과 함께 선착장에서 기다립니다."
+      ],
+      "captions": [
+        "몇 분 뒤 작업실에 도착했습니다. 첫 상자에는 등불 열두 개가 그대로 있었고 둘째 상자는 여전히 비어 있었습니다.",
+        "“추가 등불을 모두 고친다고도 했지.” 멘드가 말했습니다. “너무 큰 약속이었어. 지금 그 약속을 거둘게.”",
+        "은빛 리본이 느슨해지더니 사라졌습니다. 열두 등불이 저절로 고쳐지지는 않았습니다. 솔직한 말이 바꾼 것은 계획이지 남아 있는 작업이 아니었습니다.",
+        "“네 도움을 알리기 전에 나도 확인했어야 했어.” 보로가 인정했습니다. “그래도 불편한 건 사실이야.” 멘드가 고개를 끄덕였습니다. 둘 다 맞는 말이었습니다.",
+        "함께 상자를 점검했습니다. 망가뜨리거나 몰래 버린 물건은 없었습니다. 보로는 두 상자를 손수레에 싣고 돌아갔습니다.",
+        "보로가 떠나자 바닥이 비었습니다. 멘드는 아직 마음이 불편했지만 어떤 약속을 지켜야 하는지 마침내 분명히 보였습니다.",
+        "선착장에서 루크가 안전 점검을 마친 뒤, 세 친구는 네리행 배에 올랐습니다. 주황, 파랑, 초록 리본이 멘드를 따라왔습니다. 이번에는 뱃길 시간도 계획에 들어 있었습니다."
+      ],
+      "introduction": "멘드는 추가 등불을 모두 고치겠다는 약속을 거두고 상자를 돌려줍니다.",
+      "title": "끝없는 부탁의 문 닫기"
+    },
+    "pl": {
+      "altTexts": [
+        "Mend i Boro oglądają pełne oraz puste pudełko lampionów.",
+        "Mend wycofuje ofertę dodatkowych napraw przy dwóch pudełkach.",
+        "Dwanaście lampionów pozostaje niedokończonych po zniknięciu srebrnej wstążki.",
+        "Mend słucha Bora przy niedokończonych lampionach.",
+        "Boro ładuje pełne i puste pudełko na wózek.",
+        "Mend stoi z trzema wstążkami na pustej podłodze warsztatu.",
+        "Trzy końce wstążek towarzyszą Mend przy wejściu na zacumowany prom."
+      ],
+      "captions": [
+        "Kilka minut później weszli do warsztatu. Pierwsze pudełko nadal zawierało dwanaście lampionów. Drugie wciąż było puste.",
+        "„Obiecałam też naprawić każdy dodatkowy lampion” — powiedziała Mend. „Ta oferta była za duża. Teraz ją wycofuję”.",
+        "Srebrna wstążka poluzowała się i zniknęła. Dwanaście lampionów nie naprawiło się samo. Szczere słowa zmieniły plan, nie czekającą pracę.",
+        "„Powinienem był sprawdzić, zanim ogłosiłem twoją pomoc” — przyznał Boro. „Ale to nadal kłopot”. Mend przytaknęła. Obie rzeczy były prawdą.",
+        "Sprawdzili pudełka razem. Nic nie było zniszczone ani potajemnie wyrzucone. Boro zabrał obydwa na ręcznym wózku.",
+        "Po wyjściu Bora podłoga była wolna. Mend nadal czuła niepokój, ale wreszcie widziała, które obietnice pozostały jej do spełnienia.",
+        "Na nabrzeżu Rook zakończył kontrolę bezpieczeństwa, zanim troje przyjaciół wsiadło na prom do Neri. Za Mend ciągnęły się pomarańczowa, niebieska i zielona wstążka. Tym razem plan uwzględniał przeprawę."
+      ],
+      "introduction": "Mend wycofuje nieograniczoną ofertę i oddaje nietknięte lampiony.",
+      "title": "Zamknąć otwarte drzwi"
+    },
+    "pt": {
+      "altTexts": [
+        "Mend e Boro examinam uma caixa cheia e outra vazia.",
+        "Mend retira a oferta de consertos extras junto das duas caixas.",
+        "Doze lanternas continuam inacabadas após a fita prateada desaparecer.",
+        "Mend escuta Boro perto das lanternas inacabadas.",
+        "Boro carrega a caixa cheia e a vazia num carrinho.",
+        "Mend fica com três fitas no chão livre da oficina.",
+        "Três pontas de fita seguem Mend para a balsa bem amarrada."
+      ],
+      "captions": [
+        "Poucos minutos depois, chegaram à oficina. A primeira caixa ainda continha doze lanternas. A segunda continuava vazia.",
+        "“Também disse que consertaria todas as lanternas extras”, falou Mend. “Aquela oferta era grande demais. Estou retirando a oferta agora.”",
+        "A fita prateada afrouxou e desapareceu. As doze lanternas não se consertaram sozinhas. Palavras sinceras mudavam o plano, não o trabalho que já esperava.",
+        "“Eu devia ter conferido antes de anunciar sua ajuda”, admitiu Boro. “Mas isso ainda atrapalha.” Mend concordou. As duas coisas eram verdadeiras.",
+        "Conferiram as caixas juntos. Nada estava danificado nem fora jogado fora às escondidas. Boro levou as duas em seu carrinho de mão.",
+        "Depois que Boro saiu, o chão ficou livre. Mend ainda estava desconfortável, mas enfim enxergava as promessas que restavam para ela cumprir.",
+        "No cais, Rook terminou as verificações de segurança antes de os três amigos embarcarem para Neri. Fitas laranja, azul e verde seguiam Mend. Dessa vez, a travessia estava no plano."
+      ],
+      "introduction": "Mend retira sua oferta ilimitada e devolve as lanternas intactas.",
+      "title": "Fechar a porta aberta"
+    },
+    "ru": {
+      "altTexts": [
+        "Менд и Боро осматривают полную и пустую коробки.",
+        "Менд отзывает предложение дополнительных ремонтов возле двух коробок.",
+        "Двенадцать фонариков остаются неготовыми после исчезновения серебристой ленты.",
+        "Менд слушает Боро возле неготовых фонариков.",
+        "Боро грузит полную и пустую коробки на тележку.",
+        "Менд стоит с тремя лентами на свободном полу мастерской.",
+        "Три конца лент следуют за Менд на пришвартованный паром."
+      ],
+      "captions": [
+        "Через несколько минут они вошли в мастерскую. В первой коробке по-прежнему было двенадцать фонариков. Вторая всё ещё пустовала.",
+        "«Я ещё обещала чинить каждый дополнительный фонарик, — сказала Менд. — Это предложение было слишком большим. Сейчас я его отзываю».",
+        "Серебристая лента ослабла и исчезла. Двенадцать фонариков не починились сами. Честные слова изменили план, а не ожидавшую работу.",
+        "«Мне следовало проверить, прежде чем объявлять о твоей помощи, — признал Боро. — Но это всё равно неудобно». Менд кивнула. И то и другое было правдой.",
+        "Они вместе проверили коробки. Ничего не было испорчено или тайно выброшено. Боро увёз обе коробки на ручной тележке.",
+        "Когда Боро ушёл, пол освободился. Менд всё ещё было неловко, но теперь она ясно видела, какие обещания ей осталось выполнить.",
+        "На пристани Рук закончил проверку безопасности, прежде чем трое друзей сели на паром до Нери. За Менд тянулись оранжевая, синяя и зелёная ленты. На этот раз время переправы было в плане."
+      ],
+      "introduction": "Менд отзывает безграничное предложение и возвращает нетронутые фонарики.",
+      "title": "Закрыть открытую дверь"
+    },
+    "tr": {
+      "altTexts": [
+        "Mend ve Boro bir dolu, bir boş fener kutusunu inceliyor.",
+        "Mend iki kutunun yanında ek fener teklifini geri çekiyor.",
+        "Gümüş renkli kurdele kaybolsa da on iki fener bitmemiş duruyor.",
+        "Mend bitmemiş fenerlerin yanında Boro’yu dinliyor.",
+        "Boro dolu ve boş kutuyu el arabasına yüklüyor.",
+        "Mend boşalan atölye zemininde üç kurdelesiyle duruyor.",
+        "Üç kurdele ucu Mend’i güvenle bağlanmış feribota kadar izliyor."
+      ],
+      "captions": [
+        "Birkaç dakika sonra atölyeye geldiler. İlk kutuda hâlâ on iki fener vardı. İkinci kutu hâlâ boştu.",
+        "“Bütün ek fenerleri de onaracağımı söyledim,” dedi Mend. “Bu teklif çok büyüktü. Şimdi geri çekiyorum.”",
+        "Gümüş renkli kurdele gevşeyip kayboldu. On iki fener kendi kendini onarmadı. Dürüst sözler planı değiştirmişti, bekleyen işi değil.",
+        "“Yardımını duyurmadan önce kontrol etmeliydim,” diye kabul etti Boro. “Yine de bu zor oluyor.” Mend başını salladı. İkisi de doğruydu.",
+        "Kutuları birlikte kontrol ettiler. Hiçbir şey zarar görmemiş ya da gizlice atılmamıştı. Boro iki kutuyu da el arabasıyla götürdü.",
+        "Boro gidince zemin açıldı. Mend hâlâ huzursuzdu, ama artık hangi sözleri tutması gerektiğini görebiliyordu.",
+        "İskelede Rook güvenlik kontrollerini bitirdikten sonra üç arkadaş Neri’ye gitmek için feribota bindi. Mend’i turuncu, mavi ve yeşil kurdeleler izliyordu. Bu kez planda geçiş süresi de vardı."
+      ],
+      "introduction": "Mend sınırsız teklifini geri çeker ve dokunulmamış fenerleri iade eder.",
+      "title": "Açık Kapıyı Kapatmak"
+    },
+    "vi": {
+      "altTexts": [
+        "Hai hộp được mở để kiểm tra số lượng và tình trạng.",
+        "Mend rút lời nhận việc không giới hạn trước mặt Boro.",
+        "Dải bạc tan đi, các đèn trong hộp vẫn cần sửa.",
+        "Boro và Mend cùng thừa nhận phần trách nhiệm của mình.",
+        "Hai hộp nguyên vẹn được đặt lên xe đẩy của Boro.",
+        "Trong xưởng thoáng hơn, Mend chỉ còn ba dải băng.",
+        "Ba người chờ phà với ba màu ruy băng rõ rệt."
+      ],
+      "captions": [
+        "Vài phút sau, họ đến xưởng. Hộp đầu vẫn có mười hai đèn. Hộp thứ hai vẫn rỗng.",
+        "“Mình còn nói sẽ sửa mọi đèn bổ sung,” Mend bảo Boro. “Lời nhận đó quá lớn. Bây giờ mình rút lại.”",
+        "Dải bạc lỏng ra và biến mất. Mười hai đèn không tự sửa. Lời nói thật đổi kế hoạch, không xóa công việc đang chờ.",
+        "“Mình cũng phải kiểm tra trước khi thông báo cậu giúp,” Boro nhận. “Nhưng thay đổi này vẫn bất tiện.” Mend gật đầu. Cả hai điều đều đúng.",
+        "Họ kiểm tra hai hộp. Không món nào bị hỏng thêm hay lén vứt đi. Boro chở cả hai về bằng xe đẩy tay.",
+        "Boro đi rồi, sàn nhà trống ra. Mend vẫn băn khoăn, nhưng cuối cùng cũng thấy rõ những lời hứa nào còn thuộc phần mình.",
+        "Ở bến, Rook kiểm tra an toàn xong rồi ba người bạn mới lên phà đi Neri. Dải cam, xanh dương và xanh lá theo sau Mend. Lần này kế hoạch đã tính cả chuyến vượt sông."
+      ],
+      "introduction": "Mend rút lời nhận sửa mọi đèn bổ sung và trả lại hai hộp.",
+      "title": "Khép lời nhận việc không có điểm dừng"
+    },
+    "zh": {
+      "altTexts": [
+        "两只箱子并排打开，数量和状态都没有变化。",
+        "门德当面向博罗撤回没有数量限制的承诺。",
+        "银色丝带消散，箱里的十二盏灯笼仍待修。",
+        "门德和博罗在箱子旁承认各自的责任。",
+        "两只完整的箱子被放到博罗的手推车上。",
+        "修理屋更空旷了，门德身边只剩三条丝带。",
+        "三个朋友带着三条不同的丝带等候渡船。"
+      ],
+      "captions": [
+        "几分钟后，他们到了修理屋。第一只箱子里仍是十二盏灯笼，第二只箱子还是空的。",
+        "“我还答应修你带来的每一盏额外灯笼。”门德说，“这个答应太大了。我现在收回它。”",
+        "银色丝带松开、消失。十二盏灯笼却没有自己修好。诚实的话改变了计划，没有抹掉眼前的工作。",
+        "“宣布你帮忙前，我也该先问清楚。”博罗承认，“但现在改，仍然很不方便。”门德点头。这两件事都是真的。",
+        "他们一起检查箱子。没有东西损坏，也没有东西被偷偷丢掉。博罗用手推车把两只箱子都带走了。",
+        "博罗走后，地板空了出来。门德仍有些不安，却终于看清哪些承诺还需要自己完成。",
+        "在码头，鲁克先完成安全检查，三个朋友才登船前往内里。橙、蓝、绿三条丝带跟着门德。这次，日程里算进了航程。"
+      ],
+      "introduction": "门德撤回无限修灯笼的承诺，并把物品完整归还。",
+      "title": "收回没有尽头的答应"
+    }
+  },
+  "number": 17,
+  "panels": [
+    {
+      "altText": "Mend and Boro inspect one full lantern box and one empty box.",
+      "image": "N02E17P01.png"
+    },
+    {
+      "altText": "Mend withdraws the extra-lantern offer beside the two boxes.",
+      "image": "N02E17P02.png"
+    },
+    {
+      "altText": "Twelve lanterns remain unfinished after the silver ribbon fades.",
+      "image": "N02E17P03.png"
+    },
+    {
+      "altText": "Mend listens as Boro looks at the unfinished lanterns.",
+      "image": "N02E17P04.png"
+    },
+    {
+      "altText": "Boro loads the full and empty lantern boxes onto a handcart.",
+      "image": "N02E17P05.png"
+    },
+    {
+      "altText": "Mend stands on the cleared workshop floor with three ribbons.",
+      "image": "N02E17P06.png"
+    },
+    {
+      "altText": "Three ribbon tails follow Mend onto the safely moored ferry.",
+      "image": "N02E17P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

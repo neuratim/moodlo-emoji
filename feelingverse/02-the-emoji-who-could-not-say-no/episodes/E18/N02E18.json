@@ -1,0 +1,442 @@
+{
+  "id": "N02E18",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "تتحدث ميند أولًا مع روك عند رصيف نيري.",
+        "تشير ميند إلى درزة واحدة، والإطار من جهة روك.",
+        "يوافق روك على تقسيم المهام الجديد قرب الطاولة.",
+        "يمتد الشريط الأزرق المرتخي نحو الدرزة التي ما زالت ممزقة في المظلة.",
+        "يرتب روك الطاولة لتصبح جاهزة للإصلاح لاحقًا.",
+        "يعود الأصدقاء إلى المشتل ذي الأحواض الستة الثابتة.",
+        "تشير سيلا إلى الصواني المنقولة والحوضين المحتاجين إلى غطاء."
+      ],
+      "captions": [
+        "بعد ساعتين وصلوا إلى نيري. قبل لمس أداة، طلبت ميند من روك إعادة النظر في موعد ظهر الغد.",
+        "في المخزن عرضت ميند مهمة واحدة واضحة: خياطة درزة المظلة الممزقة هذا المساء. يتولى روك تركيبها على الإطار بنفسه.",
+        "فحص روك العمل وقال: «هذا مناسب. أتولى التركيب وفحوص السلامة. لا تحتاجين إلى الوجود هنا عند الظهر».",
+        "استرخى الشريط الأزرق لكنه بقي. صار نصيب ميند أصغر، لا مكتملًا. فالدرزة ما زالت تحتاج إلى خياطة متقنة.",
+        "شرحت ميند أن نباتات سيلا أولًا، قبل الغروب. وافق روك على إخلاء الطاولة أثناء وجودها في المشتل.",
+        "بعد مشي قصير، وجدوا سيلا قرب الأحواض الستة. قالت ميند: «لنحمِ النباتات بدلًا من بناء السقف الهائل الذي تخيلته».",
+        "أرتهم سيلا الصواني التي يمكن نقلها. اختاروا المظلة الموجودة وغطاءين منخفضين بدل سقف عملاق."
+      ],
+      "introduction": "يتفق روك وميند بوضوح على نصيب كل منهما من العمل.",
+      "title": "درزة واحدة، لا قارب كامل"
+    },
+    "bn": {
+      "altTexts": [
+        "নেরির ঘাটে মেন্ড আগে রুকের সঙ্গে কথা বলে।",
+        "মেন্ড একটি ছেঁড়া সেলাই দেখায়; কাঠামো রুকের সামনে।",
+        "রুক টেবিলের পাশে নতুন ভাগে রাজি হয়।",
+        "আলগা নীল ফিতা এখনও ছেঁড়া কাপড়ের দিকে।",
+        "রুক পরে সেলাই করার জন্য কাজের টেবিল গুছোয়।",
+        "তিন বন্ধু ছয় বেডের চারাবাগানে ফেরে।",
+        "সেলা সরানোর ট্রে ও ঢাকার দুটি বেড দেখায়।"
+      ],
+      "captions": [
+        "দু ঘণ্টা পরে নেরি পৌঁছল। যন্ত্র ছোঁয়ার আগে মেন্ড রুককে কাল দুপুরের কথা আবার আলোচনা করতে বলল।",
+        "নৌকাঘরে মেন্ড একটি স্পষ্ট কাজ বলল: আজ সন্ধ্যায় ছাউনির ছেঁড়া সেলাই সারাবে। রুক নিজেই কাঠামোয় লাগাবে।",
+        "রুক কাজ দেখল। “ঠিক আছে। লাগানো আর নিরাপত্তা পরীক্ষা আমি করব। দুপুরে তোমার থাকা লাগবে না।”",
+        "নীল ফিতা আলগা হলেও থাকল। মেন্ডের ভাগ ছোট হয়েছে, শেষ নয়। সেলাই এখনও যত্ন করে করতে হবে।",
+        "মেন্ড জানাল, সূর্য ডোবার আগে সেলার চারাগুলো সুরক্ষিত করার কাজটা আগে করতে হবে। রুক সেই সময়ের মধ্যে টেবিল ফাঁকা করে রাখবে বলল।",
+        "একটু হেঁটে সেলাকে ছয় বেডের পাশে পাওয়া গেল। “চারা বাঁচাই,” মেন্ড বলল, “আমার বিরাট ভাবনা বানাই না।”",
+        "সেলা কোন ট্রে সরানো যায় দেখাল। তারা বিশাল ছাদের বদলে পুরোনো ছাদ আর দুটি নিচু ঢাকনা বেছে নিল।"
+      ],
+      "introduction": "রুক ও মেন্ড নিজেদের কাজ স্পষ্টভাবে ভাগ করে।",
+      "title": "একটি সেলাই, পুরো নৌকা নয়"
+    },
+    "cs": {
+      "altTexts": [
+        "Mend mluví s Rookem na molu před vybalením nástrojů.",
+        "Mend ukazuje na jediný roztržený šev plachty.",
+        "Rook přijímá rozdělenou práci u pevné dřevěné konstrukce.",
+        "U roztržené plachty leží uvolněná modrá stuha.",
+        "Rook uklízí stůl a Mend se chystá do zahradnictví.",
+        "Mend se vrací k Sele a šesti nezměněným záhonům.",
+        "Sela vybírá tácy pod přístřešek a dva kryty záhonů."
+      ],
+      "captions": [
+        "O dvě hodiny později dorazili do Neri. Než Mend vzala nástroj, požádala Rooka o změnu zítřejší polední schůzky.",
+        "V loděnici nabídla Mend jasný úkol: dnes večer spravit roztržený šev. Rook pak plachtu sám nasadí na konstrukci.",
+        "Rook práci zkontroloval. „To půjde. O montáž a bezpečnostní kontroly se postarám já. V poledne tu být nemusíš.“",
+        "Modrá stuha se uvolnila, ale zůstala. Mendina část byla menší, ne hotová. Šev stále potřeboval pečlivé stehy.",
+        "Mend vysvětlila, že nejdřív musí pomoci Seliným rostlinám před západem slunce. Rook mezitím uvolní pracovní stůl.",
+        "Po krátké cestě našli Selu u šesti záhonů. „Ochraňme rostliny,“ řekla Mend. „Nemusíme kvůli tomu stavět tu obrovskou střechu, kterou jsem si vymyslela.“",
+        "Sela ukázala, které tácy lze přenést. Společně zvolili přístřešek a dva nízké kryty místo jedné obří střechy."
+      ],
+      "introduction": "Rook a Mend si jasně rozdělí práci na lodní stříšce.",
+      "title": "Jeden šev, ne celá loď"
+    },
+    "de": {
+      "altTexts": [
+        "Mend spricht am Kai mit Rook, bevor sie Werkzeug auspackt.",
+        "Mend zeigt auf die einzige gerissene Naht des Stoffdachs.",
+        "Rook stimmt der Arbeitsteilung neben dem festen Holzrahmen zu.",
+        "Ein lockeres blaues Band liegt neben dem noch zerrissenen Stoffdach.",
+        "Rook räumt einen Tisch frei, während Mend zur Gärtnerei aufbricht.",
+        "Mend kehrt zu Sela und den sechs unveränderten Beeten zurück.",
+        "Sela wählt Pflanzschalen für den Unterstand und zwei niedrige Abdeckungen aus."
+      ],
+      "captions": [
+        "Zwei Stunden später kamen sie in Neri an. Bevor Mend ein Werkzeug anfasste, bat sie Rook, den morgigen Mittagstermin neu zu besprechen.",
+        "Im Bootsschuppen bot Mend eine klare Aufgabe an: heute Abend die gerissene Naht reparieren. Rook würde das Dach selbst am Rahmen befestigen.",
+        "Rook prüfte die Arbeit. „Das passt. Ich übernehme Montage und Sicherheitskontrollen. Du musst nicht um zwölf hier sein.“",
+        "Das blaue Band lockerte sich, blieb aber da. Mends Teil war kleiner, nicht fertig. Die Naht brauchte noch sorgfältige Stiche.",
+        "Mend erklärte, dass Selas Pflanzen vor Sonnenuntergang zuerst dran seien. Rook wollte den Arbeitstisch während ihres Besuchs in der Gärtnerei freiräumen.",
+        "Nach einem kurzen Weg fanden sie Sela bei den sechs Beeten. „Schützen wir die Pflanzen“, sagte Mend. „Dafür müssen wir nicht das riesige Dach bauen, das ich mir ausgedacht habe.“",
+        "Sela zeigte, welche Schalen bewegt werden konnten. Gemeinsam wählten sie den Unterstand und zwei niedrige Abdeckungen statt eines riesigen Dachs."
+      ],
+      "introduction": "Rook und Mend teilen die Arbeit am Fährdach eindeutig auf.",
+      "title": "Eine Naht, kein ganzes Boot"
+    },
+    "en": {
+      "altTexts": [
+        "Mend speaks to Rook on Neri’s dock before unpacking tools.",
+        "Mend points to the awning’s single torn seam.",
+        "Rook accepts the divided work beside the sound wooden frame.",
+        "A slack blue ribbon rests beside the still-torn awning.",
+        "Rook clears a worktable as Mend prepares to visit the nursery.",
+        "Mend returns to Sela’s six unchanged seedling beds.",
+        "Sela selects trays for the shelter and two low bed covers."
+      ],
+      "captions": [
+        "Two hours later, they arrived in Neri. Before touching a tool, Mend asked Rook to reconsider tomorrow's noon appointment.",
+        "Inside the boatshed, Mend offered one clear task: mend the awning's torn seam this evening. Rook would fit it to the frame himself.",
+        "Rook checked the job. “That works. I will handle the fitting and safety checks. You do not have to be here at noon.”",
+        "The blue ribbon relaxed but stayed. Mend's part was smaller now, not finished. The seam still needed careful stitching.",
+        "Mend explained that Sela's plants came first, before sunset. Rook agreed to clear the worktable while she was at the nursery.",
+        "After a short walk, they found Sela beside the six beds. “Let us protect the plants,” Mend said, “not build my enormous idea.”",
+        "Sela showed them which trays could move. Together, they chose the shelter and two low covers instead of one giant roof."
+      ],
+      "introduction": "Rook and Mend make a specific, shared plan for the ferry awning.",
+      "title": "One Seam, Not a Whole Boat"
+    },
+    "es": {
+      "altTexts": [
+        "Mend habla con Rook en el muelle antes de sacar herramientas.",
+        "Mend señala la única costura rasgada del toldo.",
+        "Rook acepta repartirse el trabajo junto a la estructura de madera.",
+        "Una cinta azul floja descansa junto al toldo todavía rasgado.",
+        "Rook despeja una mesa mientras Mend se prepara para ir al vivero.",
+        "Mend vuelve junto a Sela y los seis bancales sin cambios.",
+        "Sela selecciona bandejas para el cobertizo y dos cubiertas bajas."
+      ],
+      "captions": [
+        "Dos horas después llegaron a Neri. Antes de tocar una herramienta, Mend pidió a Rook reconsiderar la cita del mediodía siguiente.",
+        "En el cobertizo, Mend ofreció una tarea clara: coser esa tarde la costura rasgada. Rook montaría el toldo en la estructura por su cuenta.",
+        "Rook examinó el trabajo. «Me parece bien. Yo haré el montaje y las revisiones de seguridad. No tienes que estar aquí al mediodía».",
+        "La cinta azul se aflojó, pero no desapareció. La parte de Mend era más pequeña, no estaba terminada. La costura aún necesitaba atención.",
+        "Mend explicó que primero atendería las plantas de Sela, antes del atardecer. Rook acordó despejar la mesa mientras ella estuviera en el vivero.",
+        "Tras un paseo corto, encontraron a Sela junto a los seis bancales. «Protejamos las plantas», dijo Mend. «No hace falta construir el enorme techo que yo había imaginado».",
+        "Sela mostró qué bandejas podían moverse. Juntos eligieron el cobertizo y dos cubiertas bajas, en vez de un techo gigante."
+      ],
+      "introduction": "Rook y Mend acuerdan cómo repartirse el trabajo del toldo.",
+      "title": "Una costura, no un barco entero"
+    },
+    "fr": {
+      "altTexts": [
+        "Mend parle à Rook sur le quai avant de sortir les outils.",
+        "Mend désigne l’unique couture déchirée de l’auvent.",
+        "Rook accepte le partage du travail près de la structure en bois.",
+        "Un ruban bleu détendu repose près de l’auvent encore déchiré.",
+        "Rook dégage une table pendant que Mend prépare son départ.",
+        "Mend retrouve Sela et les six plates-bandes inchangées.",
+        "Sela sélectionne des plateaux pour l’abri et deux protections basses."
+      ],
+      "captions": [
+        "Deux heures plus tard, ils arrivèrent à Neri. Avant de toucher un outil, Mend demanda à Rook de revoir leur rendez-vous du lendemain midi.",
+        "Dans le hangar, Mend proposa une tâche précise : réparer la couture déchirée de l’auvent ce soir. Rook fixerait lui-même l’auvent à sa structure.",
+        "Rook examina le travail. « Cela me convient. Je m’occuperai de l’installation et de la sécurité. Tu n’as pas besoin d’être ici à midi. »",
+        "Le ruban bleu se détendit, mais resta là. La part de Mend était plus petite, pas terminée. La couture avait encore besoin de points soignés.",
+        "Mend expliqua que les plants de Sela passaient d’abord, avant le coucher du soleil. Rook promit de dégager la table pendant sa visite à la pépinière.",
+        "Après une courte marche, ils retrouvèrent Sela près des six plates-bandes. « Protégeons les plants, dit Mend. Nous n’avons pas besoin de construire le toit gigantesque que j’avais imaginé. »",
+        "Sela montra quels plateaux pouvaient être déplacés. Ensemble, ils choisirent l’abri et deux protections basses au lieu d’un toit géant."
+      ],
+      "introduction": "Rook et Mend se répartissent précisément le travail sur l’auvent.",
+      "title": "Une couture, pas un bateau entier"
+    },
+    "hi": {
+      "altTexts": [
+        "नेरी के घाट पर मेंड पहले रूक से बात करती है।",
+        "मेंड एक फटी सिलाई दिखाती है; ढाँचा रूक के सामने है।",
+        "रूक मेज़ के पास नए बँटवारे से सहमत होता है।",
+        "ढीला नीला रिबन अब भी फटे कपड़े की ओर है।",
+        "रूक बाद की सिलाई के लिए कार्यमेज़ खाली करता है।",
+        "दोस्त छह क्यारियों वाली पौधशाला में लौटते हैं।",
+        "सेला उठाने वाली ट्रे और ढकने वाली दो क्यारियाँ दिखाती है।"
+      ],
+      "captions": [
+        "दो घंटे बाद वे नेरी पहुँचे। औज़ार छूने से पहले मेंड ने रूक से कल दोपहर वाले वादे पर फिर बात करने को कहा।",
+        "नावघर में मेंड ने एक साफ़ काम सुझाया: आज शाम छाजन की फटी सिलाई ठीक करना। रूक उसे ढाँचे पर खुद लगाएगा।",
+        "रूक ने काम देखा। “ठीक है। लगाना और सुरक्षा जाँचना मैं करूँगा। तुम्हें दोपहर को यहाँ रहने की जरूरत नहीं।”",
+        "नीला रिबन ढीला हुआ, मगर रहा। मेंड का हिस्सा छोटा हुआ था, पूरा नहीं। सिलाई अभी ध्यान से करनी थी।",
+        "मेंड ने कहा कि सूर्यास्त से पहले सेला के पौधे पहले करने हैं। रूक ने उस दौरान मेज़ साफ़ करने की बात मानी।",
+        "थोड़ा चलकर सेला छह क्यारियों के पास मिली। “पौधे बचाते हैं,” मेंड बोली, “मेरी विशाल कल्पना नहीं बनाते।”",
+        "सेला ने बताया कौन-सी ट्रे खिसक सकती हैं। उन्होंने विशाल छत के बजाय पुरानी छत और दो छोटे आवरण चुने।"
+      ],
+      "introduction": "रूक और मेंड अपना-अपना काम स्पष्ट रूप से तय करते हैं।",
+      "title": "एक सिलाई, पूरी नाव नहीं"
+    },
+    "id": {
+      "altTexts": [
+        "Mend menemui Rook di dermaga Neri sebelum mulai bekerja.",
+        "Mend menunjuk satu jahitan robek; rangka menjadi bagian Rook.",
+        "Rook menyetujui pembagian tugas di meja gudang.",
+        "Pita biru longgar mengarah ke jahitan yang masih robek.",
+        "Rook membersihkan meja kerja untuk perbaikan berikutnya.",
+        "Mend dan teman-temannya kembali ke kebun dengan enam petak tetap.",
+        "Sela menunjuk baki pilihan dan dua petak yang memerlukan penutup."
+      ],
+      "captions": [
+        "Dua jam kemudian, mereka tiba di Neri. Sebelum mengambil alat, Mend meminta Rook membicarakan ulang janji besok tengah hari.",
+        "Di gudang perahu, Mend menawarkan satu tugas yang jelas: memperbaiki jahitan tudung yang robek malam ini. Rook sendiri akan memasangnya pada rangka.",
+        "Rook memeriksa pekerjaannya. “Bisa. Pemasangan dan pemeriksaan keselamatan menjadi bagianku. Kau tidak perlu berada di sini tengah hari.”",
+        "Pita biru mengendur, tetapi tetap ada. Bagian Mend kini lebih kecil, belum selesai. Jahitannya masih membutuhkan ketelitian.",
+        "Mend menjelaskan bahwa tanaman Sela harus didahulukan sebelum matahari terbenam. Rook setuju merapikan meja selagi ia berada di kebun bibit.",
+        "Setelah berjalan sebentar, mereka menemukan Sela di dekat enam petak. “Mari melindungi tanaman,” kata Mend, “alih-alih membangun atap raksasa yang kubayangkan.”",
+        "Sela menunjukkan baki yang dapat dipindahkan. Mereka memilih tempat berteduh dan dua penutup rendah, bukan satu atap raksasa."
+      ],
+      "introduction": "Rook dan Mend menyepakati pembagian pekerjaan yang jelas.",
+      "title": "Satu Jahitan, Bukan Seluruh Perahu"
+    },
+    "it": {
+      "altTexts": [
+        "Mend parla con Rook sul molo prima di aprire gli attrezzi.",
+        "Mend indica l’unica cucitura strappata della copertura.",
+        "Rook accetta la divisione del lavoro vicino al solido telaio di legno.",
+        "Un nastro blu allentato riposa vicino alla copertura ancora strappata.",
+        "Rook sgombra il tavolo mentre Mend si prepara per il vivaio.",
+        "Mend torna da Sela e dalle sei aiuole immutate.",
+        "Sela sceglie vassoi per il riparo e due coperture basse."
+      ],
+      "captions": [
+        "Due ore dopo arrivarono a Neri. Prima di toccare un attrezzo, Mend chiese a Rook di ripensare all’appuntamento dell’indomani a mezzogiorno.",
+        "Nel capanno Mend offrì un compito preciso: riparare quella sera la cucitura strappata. Rook avrebbe montato da solo la copertura sul telaio.",
+        "Rook controllò il lavoro. «Va bene. Al montaggio e alla sicurezza penso io. Non devi essere qui a mezzogiorno».",
+        "Il nastro blu si allentò, ma rimase. La parte di Mend era più piccola, non finita. La cucitura richiedeva ancora attenzione.",
+        "Mend spiegò che prima del tramonto venivano le piante di Sela. Rook avrebbe liberato il tavolo mentre lei era al vivaio.",
+        "Dopo una breve passeggiata trovarono Sela accanto alle sei aiuole. «Proteggiamo le piante», disse Mend, «invece di costruire l’enorme tetto che avevo immaginato».",
+        "Sela mostrò quali vassoi si potevano spostare. Insieme scelsero il riparo e due coperture basse invece di un tetto gigante."
+      ],
+      "introduction": "Rook e Mend si dividono con precisione il lavoro sulla copertura.",
+      "title": "Una cucitura, non una barca intera"
+    },
+    "ja": {
+      "altTexts": [
+        "メンドがネリの桟橋で、まずルークに話しかけています。",
+        "メンドが一か所の縫い目を示し、木枠はルークの前にあります。",
+        "ルークが、作業台のそばで役割分担に同意しています。",
+        "ゆるんだ青いリボンが、まだ破れている布へ伸びています。",
+        "ルークが、あとで使う台を片づけています。",
+        "三人が、六つの苗床がある苗畑へ戻っています。",
+        "セラが、運べるトレーと覆う二つの苗床を指しています。"
+      ],
+      "captions": [
+        "二時間後、ネリに到着しました。道具に触る前に、メンドは明日の正午の約束を話し直そうとルークに頼みました。",
+        "船小屋でメンドは一つの作業を提案しました。今夜、破れた縫い目を直す。枠への取りつけはルークが担当します。",
+        "ルークは作業を見ました。「それでいい。取りつけと安全確認は僕がする。正午にここにいなくていいよ」",
+        "青いリボンはゆるみましたが、残りました。メンドの担当は小さくなっただけで、終わっていません。縫い目には丁寧な仕事が必要でした。",
+        "メンドは、日暮れ前にセラの苗を先に守ると説明しました。ルークはその間に作業台を空けると答えました。",
+        "少し歩くと、六つの苗床のそばにセラがいました。「苗を守ろう」とメンド。「私が思い描いた巨大な屋根を作るより、必要なことをしよう」",
+        "セラは動かせるトレーを示しました。みんなで、大きな屋根ではなく、既存の屋根と二つの低い覆いを選びました。"
+      ],
+      "introduction": "ルークとメンドは担当する作業を具体的に分け直します。",
+      "title": "船全部ではなく、一か所の縫い目"
+    },
+    "ko": {
+      "altTexts": [
+        "멘드가 네리 선착장에서 먼저 루크에게 말을 겁니다.",
+        "멘드가 찢어진 이음매 하나를 가리키고 나무틀은 루크 앞에 있습니다.",
+        "루크가 작업대 곁에서 새 역할 분담에 동의합니다.",
+        "느슨한 파랑 리본이 아직 찢어진 천을 향합니다.",
+        "루크가 나중에 수선할 수 있도록 작업대를 정리합니다.",
+        "세 친구가 여섯 모판이 그대로 있는 모종밭으로 돌아옵니다.",
+        "셀라가 옮길 쟁반과 덮개가 필요한 두 모판을 가리킵니다."
+      ],
+      "captions": [
+        "두 시간 뒤 네리에 도착했습니다. 도구를 집기 전, 멘드는 루크에게 내일 정오의 약속을 다시 이야기하자고 했습니다.",
+        "배 창고에서 멘드는 분명한 작업 하나를 제안했습니다. 자신이 오늘 저녁 찢어진 차양 이음매를 꿰매고, 차양을 틀에 설치하는 일은 루크가 맡는 것이었습니다.",
+        "루크가 일을 확인했습니다. “좋아. 설치와 안전 점검은 내가 맡을게. 네가 정오에 여기 있을 필요는 없어.”",
+        "파랑 리본은 느슨해졌지만 남았습니다. 멘드의 몫이 작아졌을 뿐 끝난 것은 아니었습니다. 이음매는 여전히 꼼꼼한 바느질이 필요했습니다.",
+        "멘드는 셀라의 모종을 해 지기 전에 먼저 덮어야 한다고 했습니다. 루크는 그동안 작업대를 치워 두겠다고 했습니다.",
+        "조금 걸어 여섯 모판 곁의 셀라를 만났습니다. “내가 상상한 거대한 지붕을 만드는 대신 모종을 보호하자.” 멘드가 말했습니다.",
+        "셀라가 옮길 수 있는 쟁반을 보여 주었습니다. 모두 함께 큰 지붕 하나 대신 기존 지붕과 낮은 덮개 두 개를 골랐습니다."
+      ],
+      "introduction": "루크와 멘드는 각자가 맡을 일을 구체적으로 다시 정합니다.",
+      "title": "배 전체가 아닌 이음매 하나"
+    },
+    "pl": {
+      "altTexts": [
+        "Mend rozmawia z Rookiem na przystani przed wyjęciem narzędzi.",
+        "Mend wskazuje jedyny rozdarty szew osłony.",
+        "Rook zgadza się na podział pracy obok mocnego drewnianego stelażu.",
+        "Luźna niebieska wstążka spoczywa przy nadal rozdartej osłonie.",
+        "Rook opróżnia stół, a Mend przygotowuje się do wizyty w szkółce.",
+        "Mend wraca do Seli i sześciu niezmienionych grządek.",
+        "Sela wybiera tace do schowka i dwie niskie osłony grządek."
+      ],
+      "captions": [
+        "Po dwóch godzinach dotarli do Neri. Zanim Mend dotknęła narzędzia, poprosiła Rooka o zmianę jutrzejszego spotkania w południe.",
+        "W szopie Mend zaproponowała konkretną pracę: dziś wieczorem zszyje rozdarty szew. Rook sam zamontuje osłonę na stelażu.",
+        "Rook sprawdził zadanie. „To pasuje. Zajmę się montażem i bezpieczeństwem. Nie musisz być tutaj w południe”.",
+        "Niebieska wstążka rozluźniła się, lecz została. Część Mend była mniejsza, nie skończona. Szew nadal potrzebował starannych ściegów.",
+        "Mend wyjaśniła, że przed zachodem najpierw musi pomóc roślinom Seli. Rook zgodził się w tym czasie uporządkować stół.",
+        "Po krótkim spacerze znaleźli Selę przy sześciu grządkach. „Chrońmy rośliny” — powiedziała Mend — „zamiast budować ogromny dach, który sobie wymyśliłam”.",
+        "Sela pokazała, które tace można przenieść. Razem wybrali schowek i dwie niskie osłony zamiast jednego wielkiego dachu."
+      ],
+      "introduction": "Rook i Mend jasno dzielą pracę nad zadaszeniem promu.",
+      "title": "Jeden szew, nie cała łódź"
+    },
+    "pt": {
+      "altTexts": [
+        "Mend conversa com Rook no cais antes de abrir as ferramentas.",
+        "Mend aponta para a única costura rasgada da cobertura.",
+        "Rook aceita dividir o trabalho perto da armação firme de madeira.",
+        "Uma fita azul frouxa repousa junto da cobertura ainda rasgada.",
+        "Rook limpa uma mesa enquanto Mend se prepara para visitar o viveiro.",
+        "Mend volta para Sela e os seis canteiros inalterados.",
+        "Sela escolhe bandejas para o abrigo e duas coberturas baixas."
+      ],
+      "captions": [
+        "Duas horas depois, chegaram a Neri. Antes de tocar numa ferramenta, Mend pediu a Rook que reconsiderasse o compromisso do meio-dia seguinte.",
+        "No galpão, Mend ofereceu uma tarefa clara: consertar a costura rasgada naquela noite. Rook montaria a cobertura na armação por conta própria.",
+        "Rook examinou o trabalho. “Assim funciona. Eu cuido da montagem e da segurança. Você não precisa estar aqui ao meio-dia.”",
+        "A fita azul afrouxou, mas ficou. A parte de Mend era menor, não estava pronta. A costura ainda precisava de pontos cuidadosos.",
+        "Mend explicou que as plantas de Sela vinham primeiro, antes do pôr do sol. Rook liberaria a mesa enquanto ela estivesse no viveiro.",
+        "Após uma curta caminhada, encontraram Sela junto dos seis canteiros. “Vamos proteger as plantas”, disse Mend, “em vez de construir o teto enorme que imaginei”.",
+        "Sela mostrou quais bandejas podiam ser movidas. Juntos escolheram o abrigo e duas coberturas baixas, em vez de um teto gigante."
+      ],
+      "introduction": "Rook e Mend dividem claramente o trabalho da cobertura.",
+      "title": "Uma costura, não um barco inteiro"
+    },
+    "ru": {
+      "altTexts": [
+        "Менд говорит с Руком на пристани до распаковки инструментов.",
+        "Менд показывает единственный порванный шов навеса.",
+        "Рук принимает разделение работы возле прочного деревянного каркаса.",
+        "Свободная синяя лента лежит возле всё ещё порванного навеса.",
+        "Рук освобождает стол, пока Менд собирается к растениям.",
+        "Менд возвращается к Селе и шести неизменённым грядкам.",
+        "Села выбирает подносы для навеса и два низких укрытия грядок."
+      ],
+      "captions": [
+        "Через два часа они прибыли в Нери. Прежде чем взять инструмент, Менд попросила Рука пересмотреть договорённость о встрече завтра в полдень.",
+        "В сарае Менд предложила конкретное дело: сегодня вечером починить порванный шов. Рук сам установит навес на каркас.",
+        "Рук осмотрел работу. «Подходит. Я займусь установкой и проверкой безопасности. Тебе не нужно быть здесь в полдень».",
+        "Синяя лента ослабла, но осталась. Задача Менд стала меньше, а не завершилась. Шов ещё требовал аккуратных стежков.",
+        "Менд объяснила, что до заката сначала нужно помочь растениям Селы. Рук согласился расчистить стол, пока она в питомнике.",
+        "После короткой прогулки они нашли Селу у шести грядок. «Давайте защитим растения, — сказала Менд, — вместо того чтобы строить огромную крышу, которую я придумала».",
+        "Села показала, какие подносы можно перенести. Вместе они выбрали хозяйственный навес и два низких укрытия вместо одной гигантской крыши."
+      ],
+      "introduction": "Рук и Менд чётко делят работу над навесом парома.",
+      "title": "Один шов, а не целая лодка"
+    },
+    "tr": {
+      "altTexts": [
+        "Mend aletleri açmadan iskelede Rook’la konuşuyor.",
+        "Mend tentedeki tek yırtık dikişi gösteriyor.",
+        "Rook sağlam ahşap iskeletin yanında iş bölümünü kabul ediyor.",
+        "Gevşek mavi kurdele, hâlâ yırtık tentenin yanında duruyor.",
+        "Mend fidanlığa hazırlanırken Rook masayı boşaltıyor.",
+        "Mend, Sela’ya ve değişmemiş altı ekim yatağına dönüyor.",
+        "Sela sundurma için tepsileri ve iki alçak örtüyü seçiyor."
+      ],
+      "captions": [
+        "İki saat sonra Neri’ye vardılar. Mend bir alete dokunmadan önce Rook’tan yarınki öğle randevusunu yeniden değerlendirmesini istedi.",
+        "Kayıkhanede Mend belirli bir iş önerdi: bu akşam tentenin yırtık dikişini onarmak. Tente iskeletine Rook tarafından takılacaktı.",
+        "Rook işi kontrol etti. “Bu olur. Montajı ve güvenlik kontrollerini ben yaparım. Öğlen burada bulunman gerekmiyor.”",
+        "Mavi kurdele gevşedi, ama kaldı. Mend’in payı küçülmüştü, bitmemişti. Dikiş hâlâ özen gerektiriyordu.",
+        "Mend, güneş batmadan önce Sela’nın bitkilerine yardım etmesi gerektiğini anlattı. Rook, Mend fidanlıktayken masayı boşaltmayı kabul etti.",
+        "Kısa bir yürüyüşten sonra Sela’yı altı yatağın yanında buldular. “Hayal ettiğim kocaman çatıyı kurmak yerine bitkileri koruyalım,” dedi Mend.",
+        "Sela hangi tepsilerin taşınabileceğini gösterdi. Birlikte dev çatı yerine sundurmayı ve iki alçak örtüyü seçtiler."
+      ],
+      "introduction": "Rook ve Mend tente işini açıkça paylaşır.",
+      "title": "Bütün Tekne Değil, Bir Dikiş"
+    },
+    "vi": {
+      "altTexts": [
+        "Mend gặp Rook ở bến Neri để nói chuyện trước.",
+        "Mend chỉ một đường rách, khung gỗ thuộc phần Rook.",
+        "Rook đồng ý cách chia việc mới bên bàn.",
+        "Dải xanh lỏng hướng về đường vải còn rách.",
+        "Rook dọn bàn chuẩn bị cho việc khâu sau đó.",
+        "Ba người trở lại vườn với sáu luống nguyên vị trí.",
+        "Sela chỉ khay cần chuyển và hai luống cần phủ."
+      ],
+      "captions": [
+        "Hai giờ sau họ tới Neri. Chưa cầm dụng cụ, Mend đã xin Rook bàn lại cuộc hẹn trưa mai.",
+        "Trong nhà thuyền, Mend đề nghị một việc rõ: khâu đường rách của mái che tối nay. Rook sẽ tự lắp lên khung.",
+        "Rook xem việc rồi đáp: “Được. Mình lo lắp và kiểm tra an toàn. Cậu không cần ở đây vào trưa mai.”",
+        "Dải xanh dương chùng xuống nhưng còn đó. Phần Mend nhỏ hơn chứ chưa xong. Đường may vẫn cần khâu cẩn thận.",
+        "Mend giải thích phải lo cây Sela trước hoàng hôn. Rook đồng ý dọn bàn trong lúc cô đến vườn ươm.",
+        "Đi bộ một đoạn ngắn, họ gặp Sela bên sáu luống. “Mình bảo vệ cây nhé,” Mend nói, “thay vì dựng mái che khổng lồ mà mình đã tưởng tượng.”",
+        "Sela chỉ những khay chuyển được. Họ chọn mái kho và hai tấm phủ thấp thay vì một mái khổng lồ."
+      ],
+      "introduction": "Rook và Mend xác định lại phần việc của mỗi người.",
+      "title": "Một đường may, không phải cả con thuyền"
+    },
+    "zh": {
+      "altTexts": [
+        "门德先在内里码头与鲁克交谈。",
+        "门德指着破缝，木框架留给鲁克处理。",
+        "鲁克在工作台旁确认新的分工。",
+        "放松的蓝色丝带仍伸向雨篷上破裂的接缝。",
+        "鲁克整理台面，为之后的修补留出空间。",
+        "三个朋友重新来到仍有六块苗床的育苗园。",
+        "塞拉指示可搬的育苗盘和留下的两块苗床。"
+      ],
+      "captions": [
+        "两个小时后，他们到达内里。门德还没拿工具，就先请鲁克重新谈谈明天正午的约定。",
+        "船棚里，门德提出一件明确的事：今晚修好雨篷那条破缝。把雨篷装上框架，则由鲁克自己负责。",
+        "鲁克看过后说：“这样可以。安装和安全检查我来做，你不用正午守在这里。”",
+        "蓝色丝带放松了，却仍在。门德的任务变少，不是已经完成。那条缝还需要仔细修补。",
+        "门德说明，塞拉的幼苗必须先在日落前盖好。鲁克同意，趁她去育苗园时清出工作台。",
+        "走了一小段路，他们在六块苗床旁找到塞拉。“我们来保护幼苗吧，”门德说，“不用造我想象中的巨大屋顶。”",
+        "塞拉指出哪些盘可以移动。大家选定已有的棚子和两顶低盖布，不再造一个大屋顶。"
+      ],
+      "introduction": "门德和鲁克重新确定各自负责的工作。",
+      "title": "一条缝，不是一整条船"
+    }
+  },
+  "number": 18,
+  "panels": [
+    {
+      "altText": "Mend speaks to Rook on Neri’s dock before unpacking tools.",
+      "image": "N02E18P01.png"
+    },
+    {
+      "altText": "Mend points to the awning’s single torn seam.",
+      "image": "N02E18P02.png"
+    },
+    {
+      "altText": "Rook accepts the divided work beside the sound wooden frame.",
+      "image": "N02E18P03.png"
+    },
+    {
+      "altText": "A slack blue ribbon rests beside the still-torn awning.",
+      "image": "N02E18P04.png"
+    },
+    {
+      "altText": "Rook clears a worktable as Mend prepares to visit the nursery.",
+      "image": "N02E18P05.png"
+    },
+    {
+      "altText": "Mend returns to Sela’s six unchanged seedling beds.",
+      "image": "N02E18P06.png"
+    },
+    {
+      "altText": "Sela selects trays for the shelter and two low bed covers.",
+      "image": "N02E18P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

@@ -1,0 +1,442 @@
+{
+  "id": "N02E01",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "يعرض تافي على ميند طائرة ورقية ذات عارضة مكسورة داخل الورشة.",
+        "يظهر الشريط البرتقالي الأول، والطائرة على الطاولة ما زالت مكسورة.",
+        "تنظر ميند إلى شريط مرتخٍ لا يعيق يديها أو قدميها.",
+        "يعرض بورو على ميند رسماً لقوس فوانيس مرتفع.",
+        "ينضم شريط أحمر مخطط إلى الشريط البرتقالي.",
+        "يعرض هاش، الذي لا فم له، صفحات الكتاب المفككة على ميند.",
+        "تحيط ثلاثة أشرطة بميند قرب الصفحات والطائرة المكسورة."
+      ],
+      "captions": [
+        "في بلدة لوما، كانت ميند تصلح أشياء الجميع. وفي أول صباح من الاستعدادات لحفل الافتتاح، جاء صديقها تافي بطائرة ورقية مكسورة ودعاها إلى إطلاقها معه.",
+        "وعدت ميند: «سأصلحها قبل شروق الشمس في اليوم الخامس». فالتف شريط برتقالي حولها برفق، وظل مرتخيًا.",
+        "كل وعد تقطعه ميند يصير شريطًا. وعندما تفي به، ينفك شريطه ويسقط. أما تغيير الوعد فيحتاج إلى حديث صادق مع الشخص الذي ينتظر؛ ولا يستطيع المقص أن يفعل ذلك بدلًا منها.",
+        "سرعان ما وصل بورو، الذي كان ينظم حفل افتتاح لوما، ومعه رسم. هل تستطيع ميند أن تقيم بنفسها قوس الفوانيس المرتفع عند ظهر اليوم الخامس؟",
+        "قالت ميند: «سأحضر». ظهر شريط أحمر مخطط. ابتسم بورو، ونسيت ميند أن تنظر في تقويمها.",
+        "بعد رحيل بورو، جاء هاش بكتاب خرائط تفككت صفحاته. وسأل ميند بلغة الإشارة إن كانت تستطيع تجليده قبل ظهر اليوم الثالث.",
+        "أجابت ميند: «سأفعل». انضم شريط بنفسجي إلى الآخرين. تلألأت ثلاثة وعود، والطائرة الورقية لم تُصلح بعد."
+      ],
+      "introduction": "تقطع ميند ثلاثة وعود قبل أن تصلح الطائرة الورقية.",
+      "title": "طائرة ورقية لوقت لاحق"
+    },
+    "bn": {
+      "altTexts": [
+        "টাভি কর্মশালায় মেন্ডকে ভাঙা কাঠিওয়ালা ঘুড়ি দেখাচ্ছে।",
+        "প্রথম কমলা ফিতা দেখা যাচ্ছে; টেবিলের ঘুড়ি এখনও ভাঙা।",
+        "মেন্ড আলগা ফিতা দেখছে; তার হাত-পা বাধামুক্ত।",
+        "বোরো মেন্ডকে উঁচু লণ্ঠনের তোরণের ছবি দেখাচ্ছে।",
+        "কমলা ফিতার পাশে লাল ডোরাকাটা ফিতা যোগ হচ্ছে।",
+        "মুখবিহীন হাশ মেন্ডকে বইয়ের আলাদা পাতা দেখাচ্ছে।",
+        "তিন ফিতার পাশে বইয়ের আলাদা পাতা আর ভাঙা ঘুড়ি রয়েছে।"
+      ],
+      "captions": [
+        "লুমা শহরে মেন্ড সবার জিনিস সারাত। উদ্বোধনী উৎসবের প্রস্তুতির প্রথম সকালে তার বন্ধু টাভি একটি ভাঙা ঘুড়ি নিয়ে এল—আর একসঙ্গে ঘুড়ি ওড়ানোর আমন্ত্রণও।",
+        "“পঞ্চম দিনের সূর্য ওঠার মধ্যে সারিয়ে দেব,” মেন্ড কথা দিল। একটি কমলা ফিতা আলগাভাবে তাকে জড়িয়ে ধরল।",
+        "মেন্ডের প্রতিটি প্রতিশ্রুতি একটি ফিতা হয়ে উঠত। কথা রাখলে সেই ফিতা খুলে পড়ত। প্রতিশ্রুতি বদলাতে হলে যে অপেক্ষা করছে, তাকে সত্যি কথা জানাতে হতো; কাঁচি দিয়ে সে কাজ হতো না।",
+        "একটু পরেই বোরো একটি নকশা নিয়ে এল। সে লুমার উদ্বোধনী উৎসবের আয়োজন করছিল। পঞ্চম দিনের দুপুরে মেন্ড কি নিজে লণ্ঠনের উঁচু তোরণ দাঁড় করিয়ে দিতে পারবে?",
+        "“আমি আসব,” মেন্ড বলল। লাল ডোরাকাটা ফিতা দেখা দিল। বোরো হাসল, আর মেন্ড ক্যালেন্ডার দেখতে ভুলে গেল।",
+        "বোরো চলে গেলে হাশ মানচিত্রের একটি বই আনল, যার পাতাগুলো খুলে গিয়েছিল। তৃতীয় দিনের দুপুরের মধ্যে মেন্ড সেটি বাঁধাই করতে পারবে কি না, সে ইশারা ভাষায় জানতে চাইল।",
+        "“পারব,” মেন্ড বলল। বেগুনি ফিতাও যোগ হলো। তিনটি প্রতিশ্রুতি ঝলমল করছে, কিন্তু ঘুড়ি এখনও ভাঙা।"
+      ],
+      "introduction": "ঘুড়ি সারানোর আগেই মেন্ড তিনটি প্রতিশ্রুতি দিয়ে ফেলে।",
+      "title": "পরে ওড়ানোর ঘুড়ি"
+    },
+    "cs": {
+      "altTexts": [
+        "Tavi podává Mend draka se zlomenou dřevěnou příčkou.",
+        "U Mend a rozbitého draka vzniká oranžová stuha.",
+        "Mend ukazuje Tavimu volnou oranžovou stuhu.",
+        "Boro ukazuje nákres vysokého lampionového oblouku.",
+        "Když Mend přikývne Borovi, objeví se červená pruhovaná stuha.",
+        "Hush, který nemá ústa, ukazuje Mend volné stránky knihy tras.",
+        "Vedle knihy a draka leží kolem Mend tři stuhy."
+      ],
+      "captions": [
+        "V městečku Luma Mend všem opravovala rozbité věci. První ráno příprav na slavnostní zahájení jí kamarád Tavi přinesl rozbitého draka a pozval ji, aby si ho spolu pustili.",
+        "„Do východu slunce pátého dne ho opravím,“ slíbila Mend. Volně se kolem ní ovinula oranžová stuha.",
+        "Každý Mendin slib se proměnil ve stuhu. Když slib splnila, stuha zmizela. Změnit slib znamenalo promluvit si upřímně s tím, kdo na ni čekal; nůžky to za ni udělat nemohly.",
+        "Brzy dorazil s nákresem Boro, který v městečku Luma připravoval slavnostní zahájení. Mohla by Mend osobně postavit vysoký lampionový oblouk v poledne pátého dne?",
+        "„Budu tam,“ řekla Mend. Objevila se červená pruhovaná stuha. Boro se usmál a Mend zapomněla nahlédnout do kalendáře.",
+        "Po Borově odchodu přišel Hush s knihou map, ze které se uvolnily stránky. Znakovým jazykem se zeptal, zda by ji Mend mohla svázat do poledne třetího dne.",
+        "„Ano,“ odpověděla Mend. Přibyla fialová stuha. Tři sliby se třpytily a drak byl pořád rozbitý."
+      ],
+      "introduction": "Mend dá tři sliby, aniž si ověří, kolik má času.",
+      "title": "Drak na později"
+    },
+    "de": {
+      "altTexts": [
+        "Tavi reicht Mend einen Drachen mit gebrochener Holzstrebe.",
+        "Neben Mend und dem kaputten Drachen erscheint ein orangefarbenes Band.",
+        "Mend zeigt Tavi das lockere orangefarbene Band.",
+        "Boro zeigt die Zeichnung eines hohen Laternenbogens.",
+        "Als Mend Boro zunickt, erscheint ein rot gestreiftes Band.",
+        "Der mundlose Hush zeigt Mend die losen Seiten eines Wegebuchs.",
+        "Drei Bänder liegen um Mend neben dem unfertigen Buch und Drachen."
+      ],
+      "captions": [
+        "In der Stadt Luma reparierte Mend Dinge für alle. Am ersten Morgen der Vorbereitungen für die Eröffnungsfeier brachte ihr Freund Tavi einen kaputten Drachen mit – und eine Einladung, ihn gemeinsam steigen zu lassen.",
+        "„Bis zum Sonnenaufgang am fünften Tag repariere ich ihn“, versprach Mend. Ein orangefarbenes Band legte sich locker um sie.",
+        "Jedes Versprechen von Mend wurde zu einem Band. Hielt sie ein Versprechen, fiel das Band von ihr ab. Wollte sie eines ändern, musste sie ehrlich mit der Person sprechen, die auf sie wartete. Eine Schere konnte ihr das nicht abnehmen.",
+        "Bald kam Boro mit einer Zeichnung. Er organisierte Lumas Eröffnungsfeier. Könnte Mend den hohen Laternenbogen am fünften Tag um zwölf persönlich aufrichten?",
+        "„Ich werde da sein“, sagte Mend. Ein rot gestreiftes Band erschien. Boro lächelte, und Mend vergaß, in ihren Kalender zu schauen.",
+        "Nachdem Boro gegangen war, kam Hush mit einem Kartenbuch, dessen Seiten sich gelöst hatten. In Gebärdensprache fragte er, ob Mend es bis zum dritten Tag um zwölf binden könne.",
+        "„Das mache ich“, antwortete Mend. Ein violettes Band kam dazu. Drei Versprechen schimmerten, und der Drachen war noch immer kaputt."
+      ],
+      "introduction": "Mend gibt drei Versprechen, ohne vorher ihre Zeit zu prüfen.",
+      "title": "Ein Drachen für später"
+    },
+    "en": {
+      "altTexts": [
+        "Tavi offers Mend a kite with a broken wooden spar.",
+        "An orange ribbon forms beside Mend and the broken kite.",
+        "Mend shows Tavi the loose orange ribbon.",
+        "Boro presents a drawing of a tall lantern arch.",
+        "A red striped ribbon appears as Mend nods to Boro.",
+        "Mouthless Hush shows Mend the loose pages of a route book.",
+        "Three ribbons lie around Mend beside the unfinished book and kite."
+      ],
+      "captions": [
+        "In the town of Luma, Mend repaired things for everyone. On the first morning of preparations for the opening celebration, her friend Tavi brought a broken kite—and an invitation to fly it together.",
+        "“I will mend it by sunrise on the fifth day,” Mend promised. An orange ribbon curled loosely around her.",
+        "Every promise Mend made became a ribbon. Keeping a promise made its ribbon fall away. Changing a promise meant speaking honestly to the person waiting; scissors could not do that for her.",
+        "Soon Boro, who was organizing Luma's opening celebration, arrived with a drawing. Could Mend put up the tall lantern arch herself at noon on the fifth day?",
+        "“I will be there,” Mend said. A red, striped ribbon appeared. Boro smiled, and Mend forgot to check her calendar.",
+        "After Boro left, Hush arrived with a book of maps whose pages had come loose. He used sign language to ask whether Mend could bind it by noon on the third day.",
+        "“I will,” Mend answered. A violet ribbon joined the others. Three promises shimmered, and the kite was still broken."
+      ],
+      "introduction": "Mend makes three promises before checking how much time she has.",
+      "title": "A Kite for Later"
+    },
+    "es": {
+      "altTexts": [
+        "Tavi ofrece a Mend una cometa con una varilla de madera rota.",
+        "Aparece una cinta naranja junto a Mend y la cometa rota.",
+        "Mend muestra a Tavi la cinta naranja suelta.",
+        "Boro presenta un dibujo de un arco alto de faroles.",
+        "Aparece una cinta roja a rayas cuando Mend asiente a Boro.",
+        "Hush, que no tiene boca, muestra las páginas sueltas a Mend.",
+        "Tres cintas rodean a Mend junto al libro y la cometa sin terminar."
+      ],
+      "captions": [
+        "En el pueblo de Luma, Mend reparaba cosas para todos. La primera mañana de los preparativos para la inauguración, su amigo Tavi le llevó una cometa rota y la invitó a hacerla volar juntos.",
+        "«La arreglaré antes del amanecer del quinto día», prometió Mend. Una cinta naranja se enroscó suavemente alrededor de ella.",
+        "Cada promesa de Mend se convertía en una cinta. Cuando cumplía una promesa, su cinta se soltaba. Cambiar una promesa exigía hablar con sinceridad con quien la esperaba; las tijeras no podían hacerlo por ella.",
+        "Pronto llegó Boro con un dibujo. Él organizaba la inauguración de Luma. ¿Podría Mend levantar en persona el alto arco de faroles al mediodía del quinto día?",
+        "«Estaré allí», dijo Mend. Apareció una cinta roja a rayas. Boro sonrió, y Mend olvidó consultar su calendario.",
+        "Cuando Boro se marchó, llegó Hush con un libro de mapas cuyas páginas se habían soltado. En lengua de señas preguntó si Mend podría encuadernarlo antes del mediodía del tercer día.",
+        "«Lo haré», respondió Mend. Se sumó una cinta violeta. Tres promesas brillaban, y la cometa seguía rota."
+      ],
+      "introduction": "Mend hace tres promesas sin comprobar de cuánto tiempo dispone.",
+      "title": "Una cometa para después"
+    },
+    "fr": {
+      "altTexts": [
+        "Tavi tend à Mend un cerf-volant dont une baguette est cassée.",
+        "Un ruban orange apparaît près de Mend et du cerf-volant cassé.",
+        "Mend montre à Tavi le ruban orange, qui reste lâche.",
+        "Boro présente le dessin d’une haute arche de lanternes.",
+        "Un ruban rouge rayé apparaît lorsque Mend acquiesce devant Boro.",
+        "Hush, qui n’a pas de bouche, montre les feuilles du guide à Mend.",
+        "Trois rubans entourent Mend près du guide et du cerf-volant inachevés."
+      ],
+      "captions": [
+        "Dans la ville de Luma, Mend réparait les affaires de tout le monde. Le premier matin des préparatifs de la fête d’ouverture, son ami Tavi lui apporta un cerf-volant cassé et l’invita à le faire voler avec lui.",
+        "« Je le réparerai avant le lever du soleil du cinquième jour », promit Mend. Un ruban orange s’enroula autour d’elle sans la serrer.",
+        "Chaque promesse de Mend devenait un ruban. Quand elle tenait une promesse, le ruban se détachait. Pour modifier une promesse, elle devait parler sincèrement à la personne qui l’attendait ; des ciseaux ne pouvaient pas le faire à sa place.",
+        "Bientôt, Boro arriva avec un dessin. Il organisait la fête d’ouverture de Luma. Mend pourrait-elle dresser elle-même la haute arche de lanternes à midi, le cinquième jour ?",
+        "« Je serai là », répondit Mend. Un ruban rouge rayé apparut. Boro sourit, et Mend oublia de consulter son calendrier.",
+        "Après le départ de Boro, Hush arriva avec un guide de cartes dont les pages s’étaient détachées. En langue des signes, il demanda si Mend pouvait le relier pour midi, le troisième jour.",
+        "« Je le ferai », répondit Mend. Un ruban violet rejoignit les autres. Trois promesses brillaient, et le cerf-volant était toujours cassé."
+      ],
+      "introduction": "Mend fait trois promesses sans vérifier le temps dont elle dispose.",
+      "title": "Un cerf-volant pour plus tard"
+    },
+    "hi": {
+      "altTexts": [
+        "तावी कार्यशाला में मेंड को टूटी कमानी वाली पतंग दिखाता है।",
+        "पहला नारंगी रिबन दिखाई देता है; मेज़ पर पतंग अभी टूटी है।",
+        "मेंड ढीले रिबन को देखती है; उसके हाथ-पैर खुले हैं।",
+        "बोरो मेंड को ऊँचे लालटेन-द्वार का चित्र दिखाता है।",
+        "नारंगी रिबन के पास लाल धारीदार रिबन जुड़ता है।",
+        "बिना मुँह वाला हश मेंड को किताब के अलग पन्ने दिखाता है।",
+        "तीन रिबनों के पास अलग पन्ने और टूटी पतंग रखी हैं।"
+      ],
+      "captions": [
+        "लूमा कस्बे में मेंड सबकी चीज़ें ठीक करती थी। उद्घाटन समारोह की तैयारियों की पहली सुबह उसका दोस्त तावी एक टूटी पतंग लाया—और उसे साथ उड़ाने का निमंत्रण भी।",
+        "“पाँचवें दिन सूरज निकलने तक ठीक कर दूँगी,” मेंड ने वादा किया। एक नारंगी रिबन उसके चारों ओर ढीला लिपट गया।",
+        "मेंड का हर वादा एक रिबन बन जाता था। वादा पूरा होने पर उसका रिबन खुलकर गिर जाता। वादा बदलने के लिए उस व्यक्ति से सच्ची बात करनी पड़ती जो इंतज़ार कर रहा था; कैंची यह काम नहीं कर सकती थी।",
+        "जल्द ही बोरो एक चित्र लेकर आया। वह लूमा के उद्घाटन समारोह की तैयारी कर रहा था। क्या मेंड पाँचवें दिन दोपहर में खुद लालटेनों वाला ऊँचा द्वार खड़ा कर सकती थी?",
+        "“मैं आऊँगी,” मेंड ने कहा। लाल धारीदार रिबन दिखाई दिया। बोरो मुसकराया और मेंड अपना कैलेंडर देखना भूल गई।",
+        "बोरो के जाने के बाद हश नक्शों की एक किताब लाया, जिसके पन्ने अलग हो गए थे। उसने संकेत भाषा में पूछा कि क्या मेंड तीसरे दिन दोपहर तक उसे बाँध सकती है।",
+        "“कर दूँगी,” मेंड ने कहा। एक बैंगनी रिबन भी जुड़ गया। तीन वादे चमक रहे थे, लेकिन पतंग अब भी टूटी थी।"
+      ],
+      "introduction": "पतंग ठीक होने से पहले ही मेंड तीन वादे कर लेती है।",
+      "title": "बाद में उड़ाने के लिए पतंग"
+    },
+    "id": {
+      "altTexts": [
+        "Tavi menawarkan layang-layang dengan bilah patah kepada Mend di bengkel.",
+        "Pita jingga pertama muncul; layang-layang masih rusak di meja.",
+        "Mend mengamati pita yang longgar tanpa mengganggu tangan atau kakinya.",
+        "Boro menunjukkan gambar gerbang lampion tinggi kepada Mend.",
+        "Pita merah bergaris bergabung dengan pita jingga di bengkel.",
+        "Hush menunjukkan halaman lepas; wajahnya tidak memiliki mulut.",
+        "Tiga pita mengelilingi Mend di samping buku dan layang-layang."
+      ],
+      "captions": [
+        "Di kota kecil Luma, Mend memperbaiki barang milik siapa saja. Pada pagi pertama persiapan perayaan pembukaan, temannya Tavi membawa layang-layang rusak dan mengajaknya menerbangkannya bersama.",
+        "“Akan kuperbaiki sebelum matahari terbit pada hari kelima,” janji Mend. Sebuah pita jingga melingkar longgar di sekelilingnya.",
+        "Setiap janji Mend menjadi pita. Saat janji itu ditepati, pitanya terlepas. Untuk mengubah janji, Mend harus berbicara jujur kepada orang yang menunggu; gunting tidak bisa melakukannya untuknya.",
+        "Tak lama kemudian, Boro datang membawa gambar. Ia mengurus perayaan pembukaan di Luma. Bisakah Mend sendiri mendirikan gerbang lampion yang tinggi pada tengah hari kelima?",
+        "“Aku akan datang,” jawab Mend. Pita merah bergaris muncul. Boro tersenyum, dan Mend lupa memeriksa kalendernya.",
+        "Setelah Boro pergi, Hush datang membawa buku peta yang halaman-halamannya terlepas. Dengan bahasa isyarat, ia bertanya apakah Mend bisa menjilidnya sebelum tengah hari ketiga.",
+        "“Baik, akan kujilid,” jawab Mend. Pita ungu muncul. Tiga janji berkilau, tetapi layang-layang itu masih rusak."
+      ],
+      "introduction": "Mend menerima tiga permintaan sebelum sempat memperbaiki layang-layang Tavi.",
+      "title": "Layang-layang untuk Nanti"
+    },
+    "it": {
+      "altTexts": [
+        "Tavi porge a Mend un aquilone con una stecca di legno spezzata.",
+        "Un nastro arancione appare accanto a Mend e all’aquilone rotto.",
+        "Mend mostra a Tavi il nastro arancione allentato.",
+        "Boro presenta il disegno di un alto arco di lanterne.",
+        "Un nastro rosso a righe appare mentre Mend annuisce a Boro.",
+        "Hush, che non ha bocca, mostra a Mend le pagine sciolte del libro.",
+        "Tre nastri circondano Mend vicino al libro e all’aquilone incompleti."
+      ],
+      "captions": [
+        "Nel paese di Luma, Mend riparava le cose di tutti. La prima mattina dei preparativi per la festa d’inaugurazione, il suo amico Tavi le portò un aquilone rotto e la invitò a farlo volare insieme.",
+        "«Lo riparerò entro l’alba del quinto giorno», promise Mend. Un nastro arancione si avvolse morbidamente attorno a lei.",
+        "Ogni promessa di Mend diventava un nastro. Quando la manteneva, il nastro si scioglieva. Per cambiare una promessa doveva parlare sinceramente con chi aspettava: le forbici non potevano farlo al posto suo.",
+        "Poco dopo arrivò Boro, che organizzava la festa d’inaugurazione di Luma, con un disegno. Mend avrebbe potuto alzare di persona l’alto arco di lanterne a mezzogiorno del quinto giorno?",
+        "«Ci sarò», disse Mend. Apparve un nastro rosso a righe. Boro sorrise e Mend dimenticò di controllare il calendario.",
+        "Dopo la partenza di Boro arrivò Hush con un libro di mappe le cui pagine si erano staccate. Le chiese nella lingua dei segni se potesse rilegarlo entro mezzogiorno del terzo giorno.",
+        "«Lo farò», rispose Mend. Si aggiunse un nastro viola. Tre promesse brillavano e l’aquilone era ancora rotto."
+      ],
+      "introduction": "Mend fa tre promesse senza controllare quanto tempo ha.",
+      "title": "Un aquilone per dopo"
+    },
+    "ja": {
+      "altTexts": [
+        "タヴィが作業場で、骨の折れたたこをメンドに見せています。",
+        "最初のオレンジ色のリボンが現れ、たこはまだ壊れています。",
+        "メンドが、手足の動きを妨げないリボンを見ています。",
+        "ボロがメンドに、高いランタンのアーチの絵を見せています。",
+        "赤いしま模様のリボンが、オレンジ色の隣に現れています。",
+        "口のないハッシュが、ばらばらの本のページを見せています。",
+        "三本のリボンのそばに、本のページと壊れたたこがあります。"
+      ],
+      "captions": [
+        "ルマの町で、メンドはみんなの物を修理していました。開会のお祝いの準備を始めた最初の朝、友達のタヴィが壊れたたこを持ってきて、一緒に揚げようと誘いました。",
+        "「五日目の日の出までに直すね」とメンドは約束しました。オレンジ色のリボンが、彼女の周りにゆるく巻きつきました。",
+        "メンドの約束は、どれもリボンになります。約束を果たすと、そのリボンがほどけて落ちます。約束を変えるには、待っている相手と正直に話す必要がありました。はさみでは代わりになりません。",
+        "まもなく、ルマの開会のお祝いを準備しているボロが、図面を持って来ました。五日目の正午、高いちょうちんの門をメンド自身に組み立ててほしいのです。",
+        "「必ず行くよ」とメンド。赤いしま模様のリボンが現れました。ボロが笑うと、メンドはカレンダーを見るのを忘れてしまいました。",
+        "ボロが帰ると、ハッシュがページの外れた地図の本を持ってきました。三日目の正午までにとじてもらえるか、メンドに手話で尋ねました。",
+        "「いいよ」とメンドは答えました。紫のリボンも加わります。三つの約束が光っていましたが、たこはまだ壊れたままでした。"
+      ],
+      "introduction": "メンドはたこを直す前に、三つの約束を引き受けます。",
+      "title": "あとで揚げるたこ"
+    },
+    "ko": {
+      "altTexts": [
+        "타비가 작업실의 멘드에게 살대가 부러진 연을 보여 줍니다.",
+        "첫 주황 리본이 나타나고 연은 아직 고쳐지지 않았습니다.",
+        "멘드가 손발을 자유롭게 둔 느슨한 리본을 바라봅니다.",
+        "보로가 멘드에게 높은 등불 아치 그림을 보여 줍니다.",
+        "주황 리본 옆에 줄무늬 빨강 리본이 나타납니다.",
+        "입이 없는 허시가 멘드에게 흩어진 책장을 보여 줍니다.",
+        "세 리본 곁에 흩어진 책장과 부러진 연이 놓여 있습니다."
+      ],
+      "captions": [
+        "루마 마을에서 멘드는 누구의 물건이든 고쳐 주었습니다. 개막 축제를 준비하던 첫날 아침, 친구 타비가 부러진 연을 가져오며 함께 연을 날리자고 했습니다.",
+        "“다섯째 날 해 뜨기 전까지 고칠게.” 멘드가 약속하자 주황 리본이 그녀의 주위를 느슨하게 감쌌습니다.",
+        "멘드의 약속은 모두 리본이 되었습니다. 약속을 지키면 그 리본이 풀려 떨어졌습니다. 약속을 바꾸려면 기다리는 사람과 솔직하게 이야기해야 했습니다. 가위가 그 일을 대신해 줄 수는 없었습니다.",
+        "곧 루마의 개막 축제를 준비하는 보로가 그림을 들고 왔습니다. 다섯째 날 정오에 멘드가 직접 높은 등불 아치를 세워 줄 수 있느냐고 물었습니다.",
+        "“그때 갈게.” 멘드가 말했습니다. 줄무늬 빨강 리본이 생겼습니다. 보로가 웃자 멘드는 달력을 확인하는 일을 잊었습니다.",
+        "보로가 떠난 뒤 허시가 낱장이 빠진 지도책을 가져왔습니다. 셋째 날 정오까지 책을 묶어 줄 수 있느냐고 멘드에게 수어로 물었습니다.",
+        "“그럴게.” 멘드가 대답했습니다. 보라 리본이 더해졌습니다. 세 약속이 반짝였지만 연은 여전히 부러져 있었습니다."
+      ],
+      "introduction": "연을 고치기도 전에 멘드는 세 가지 약속을 합니다.",
+      "title": "나중에 날릴 연"
+    },
+    "pl": {
+      "altTexts": [
+        "Tavi podaje Mend latawiec ze złamaną drewnianą listewką.",
+        "Przy Mend i zepsutym latawcu pojawia się pomarańczowa wstążka.",
+        "Mend pokazuje Taviemu luźną pomarańczową wstążkę.",
+        "Boro pokazuje rysunek wysokiej bramy z lampionami.",
+        "Gdy Mend przytakuje Borowi, pojawia się czerwona wstążka w paski.",
+        "Hush, który nie ma ust, pokazuje Mend luźne kartki przewodnika.",
+        "Trzy wstążki otaczają Mend przy niedokończonej książce i latawcu."
+      ],
+      "captions": [
+        "W miasteczku miasteczku Luma Mend naprawiała rzeczy dla wszystkich. Pierwszego ranka przygotowań do uroczystego otwarcia jej przyjaciel Tavi przyniósł zepsuty latawiec i zaprosił ją do wspólnego puszczania go na wietrze.",
+        "„Naprawię go do wschodu słońca piątego dnia” — obiecała Mend. Pomarańczowa wstążka luźno owinęła się wokół niej.",
+        "Każda obietnica Mend stawała się wstążką. Gdy Mend dotrzymywała słowa, wstążka odpadała. Zmiana obietnicy wymagała szczerej rozmowy z osobą, która czekała; nożyczki nie mogły jej w tym wyręczyć.",
+        "Wkrótce zjawił się Boro, organizator uroczystego otwarcia w miasteczku miasteczku Luma, i pokazał rysunek. Czy Mend osobiście postawi wysoką bramę z lampionami w południe piątego dnia?",
+        "„Będę tam” — powiedziała Mend. Pojawiła się czerwona wstążka w paski. Boro się uśmiechnął, a Mend zapomniała zajrzeć do kalendarza.",
+        "Po wyjściu Bora zjawił się Hush z książką z mapami, z której wypadły kartki. Zapytał w języku migowym, czy Mend oprawi ją do południa trzeciego dnia.",
+        "„Zrobię to” — odparła Mend. Dołączyła fioletowa wstążka. Trzy obietnice migotały, a latawiec nadal był zepsuty."
+      ],
+      "introduction": "Mend składa trzy obietnice, nie sprawdzając, ile ma czasu.",
+      "title": "Latawiec na później"
+    },
+    "pt": {
+      "altTexts": [
+        "Tavi oferece a Mend uma pipa com uma vareta de madeira quebrada.",
+        "Uma fita laranja aparece junto de Mend e da pipa quebrada.",
+        "Mend mostra a Tavi a fita laranja frouxa.",
+        "Boro apresenta o desenho de um arco alto de lanternas.",
+        "Uma fita vermelha listrada surge quando Mend concorda com Boro.",
+        "Hush, que não tem boca, mostra a Mend as páginas soltas do livro.",
+        "Três fitas cercam Mend junto do livro e da pipa inacabados."
+      ],
+      "captions": [
+        "Na vila de Luma, Mend consertava coisas para todos. Na primeira manhã dos preparativos para a festa de abertura, seu amigo Tavi trouxe uma pipa quebrada e um convite para soltá-la juntos.",
+        "“Vou consertá-la até o nascer do sol do quinto dia”, prometeu Mend. Uma fita laranja se enrolou frouxamente ao redor dela.",
+        "Cada promessa de Mend virava uma fita. Quando ela cumpria a promessa, a fita se soltava. Para mudar uma promessa, precisava conversar com sinceridade com quem esperava; tesouras não podiam fazer isso por ela.",
+        "Logo chegou Boro, que organizava a festa de abertura de Luma, trazendo um desenho. Mend poderia erguer pessoalmente o arco alto de lanternas ao meio-dia do quinto dia?",
+        "“Estarei lá”, disse Mend. Surgiu uma fita vermelha listrada. Boro sorriu, e Mend esqueceu de consultar o calendário.",
+        "Depois que Boro saiu, Hush chegou com um livro de mapas cujas páginas haviam se soltado. Perguntou em língua de sinais se Mend poderia encaderná-lo até o meio-dia do terceiro dia.",
+        "“Vou fazer isso”, respondeu Mend. Uma fita violeta se juntou às outras. Três promessas brilhavam, e a pipa continuava quebrada."
+      ],
+      "introduction": "Mend faz três promessas sem conferir quanto tempo tem.",
+      "title": "Uma pipa para depois"
+    },
+    "ru": {
+      "altTexts": [
+        "Тави протягивает Менд воздушного змея со сломанной деревянной перекладиной.",
+        "Возле Менд и сломанного змея появляется оранжевая лента.",
+        "Менд показывает Тави свободную оранжевую ленту.",
+        "Боро показывает рисунок высокой арки с фонариками.",
+        "Когда Менд кивает Боро, появляется красная полосатая лента.",
+        "Хаш, у которого нет рта, показывает Менд отдельные страницы книги.",
+        "Три ленты окружают Менд возле незаконченной книги и воздушного змея."
+      ],
+      "captions": [
+        "В городке Лума Менд чинила вещи для всех. В первое утро подготовки к празднику открытия её друг Тави принёс сломанного воздушного змея и предложил вместе его запустить.",
+        "«Я починю его к восходу солнца пятого дня», — пообещала Менд. Оранжевая лента свободно обвилась вокруг неё.",
+        "Каждое обещание Менд становилось лентой. Когда она выполняла обещание, лента спадала. Чтобы изменить обещание, нужно было честно поговорить с тем, кто ждал; ножницы не могли сделать это за неё.",
+        "Вскоре пришёл Боро, который готовил праздник открытия в Луме, и принёс рисунок. Сможет ли Менд лично поднять высокую арку с фонариками в полдень пятого дня?",
+        "«Я буду там», — сказала Менд. Появилась красная полосатая лента. Боро улыбнулся, и Менд забыла заглянуть в календарь.",
+        "Когда Боро ушёл, пришёл Хаш с книгой карт, из которой выпали страницы. На жестовом языке он спросил, сможет ли Менд переплести её к полудню третьего дня.",
+        "«Сделаю», — ответила Менд. К остальным присоединилась фиолетовая лента. Три обещания мерцали, а змей всё ещё был сломан."
+      ],
+      "introduction": "Менд даёт три обещания, не проверив, сколько у неё времени.",
+      "title": "Воздушный змей на потом"
+    },
+    "tr": {
+      "altTexts": [
+        "Tavi, çıtası kırılmış uçurtmayı Mend’e uzatıyor.",
+        "Mend ile kırık uçurtmanın yanında turuncu bir kurdele oluşuyor.",
+        "Mend, gevşek turuncu kurdeleyi Tavi’ye gösteriyor.",
+        "Boro, yüksek bir fener kemerinin çizimini gösteriyor.",
+        "Mend başını sallayınca kırmızı çizgili kurdele beliriyor.",
+        "Ağzı olmayan Hush, kitabın dağınık sayfalarını Mend’e gösteriyor.",
+        "Mend’in çevresinde, bitmemiş kitap ve uçurtmanın yanında üç kurdele var."
+      ],
+      "captions": [
+        "Luma kasabasında Mend herkesin eşyasını onarırdı. Açılış kutlamasının hazırlıklarının ilk sabahında arkadaşı Tavi, kırık bir uçurtma getirip onu birlikte uçurmaya davet etti.",
+        "“Beşinci gün güneş doğana kadar onaracağım,” diye söz verdi Mend. Turuncu bir kurdele ona gevşekçe dolandı.",
+        "Mend’in verdiği her söz bir kurdeleye dönüşürdü. Sözünü tutunca kurdele çözülüp düşerdi. Bir sözü değiştirmek için bekleyen kişiyle dürüstçe konuşması gerekirdi; makas bunu onun yerine yapamazdı.",
+        "Az sonra Luma’nın açılış kutlamasını düzenleyen Boro elinde bir çizimle geldi. Mend, yüksek fener kemerini beşinci gün öğlen bizzat kurabilir miydi?",
+        "“Orada olacağım,” dedi Mend. Kırmızı çizgili bir kurdele belirdi. Boro gülümsedi; Mend takvimine bakmayı unuttu.",
+        "Boro gidince Hush, sayfaları dağılmış bir harita kitabıyla geldi. İşaret diliyle, Mend’in kitabı üçüncü gün öğlene kadar ciltleyip ciltleyemeyeceğini sordu.",
+        "“Yaparım,” dedi Mend. Mor bir kurdele diğerlerine katıldı. Üç söz parıldıyordu, ama uçurtma hâlâ kırıktı."
+      ],
+      "introduction": "Mend, vaktini kontrol etmeden üç söz verir.",
+      "title": "Sonraya Kalan Uçurtma"
+    },
+    "vi": {
+      "altTexts": [
+        "Tavi đưa cánh diều gãy thanh ngang cho Mend trong xưởng.",
+        "Dải cam đầu tiên xuất hiện; cánh diều trên bàn vẫn hỏng.",
+        "Mend nhìn dải băng lỏng, tay chân vẫn cử động tự do.",
+        "Boro cho Mend xem bản vẽ cổng đèn lồng cao.",
+        "Dải đỏ kẻ sọc xuất hiện bên cạnh dải cam.",
+        "Hush không có miệng, đang đưa những trang rời cho Mend xem.",
+        "Ba dải băng ở cạnh Mend, sách rời trang và cánh diều hỏng."
+      ],
+      "captions": [
+        "Ở thị trấn Luma, Mend sửa đồ cho mọi người. Vào buổi sáng đầu tiên chuẩn bị lễ khai mạc, người bạn Tavi mang đến một cánh diều gãy và rủ cô cùng đi thả diều.",
+        "“Mình sẽ sửa xong trước lúc mặt trời mọc vào ngày thứ năm,” Mend hứa. Một dải ruy băng cam vòng lỏng quanh cô.",
+        "Mỗi lời hứa của Mend đều hóa thành một dải ruy băng. Khi cô giữ lời, dải băng tự tháo ra. Muốn thay đổi lời hứa, cô phải nói thật với người đang chờ; chiếc kéo không thể làm thay cô việc ấy.",
+        "Chẳng bao lâu, Boro, người tổ chức lễ khai mạc ở Luma, đến cùng một bản vẽ. Anh muốn nhờ Mend tự tay dựng cổng đèn lồng cao vào trưa ngày thứ năm.",
+        "“Mình sẽ đến,” Mend đáp. Một dải đỏ kẻ sọc xuất hiện. Boro mỉm cười, và Mend quên xem lịch.",
+        "Boro vừa đi, Hush đến cùng cuốn sách bản đồ đã rời trang. Cậu dùng ngôn ngữ ký hiệu hỏi Mend có thể đóng lại sách trước trưa ngày thứ ba không.",
+        "“Được,” Mend trả lời. Dải tím nhập vào các dải khác. Ba lời hứa lấp lánh, còn cánh diều vẫn gãy."
+      ],
+      "introduction": "Chưa sửa xong diều, Mend đã nhận ba lời hứa.",
+      "title": "Cánh diều để sau"
+    },
+    "zh": {
+      "altTexts": [
+        "塔维在修理屋里把一只骨架断裂的风筝递给门德。",
+        "第一条橙色丝带出现，桌上的风筝仍没有修好。",
+        "门德看着松散的丝带，手脚仍能自由活动。",
+        "博罗给门德看一幅高大灯笼拱门的图画。",
+        "红色条纹丝带出现在橙色丝带旁边。",
+        "没有嘴巴的哈什向门德展示散开的书页。",
+        "三条丝带围在门德身边，桌上放着散页书和坏风筝。"
+      ],
+      "captions": [
+        "在卢马小镇，门德总为大家修东西。筹备开幕庆典的第一天早晨，她的朋友塔维带来一只坏风筝，还邀请她一起去放风筝。",
+        "“我会在第五天日出前修好。”门德答应了。一条橙色丝带松松地绕在她身边。",
+        "门德的每个承诺都会变成一条丝带。兑现承诺，丝带就会脱落。想改变承诺，就得和等待她的人坦诚商量；剪刀可做不到这一点。",
+        "不久，负责筹办卢马开幕庆典的博罗带着一幅图画来了。他想请门德在第五天正午亲自竖起高高的灯笼拱门。",
+        "“我一定到。”门德说。一条带条纹的红色丝带出现了。博罗笑了，门德却忘了查看日历。",
+        "博罗走后，哈什带来一本书页已经散开的地图书。他用手语问门德，能不能在第三天正午前把书装订好。",
+        "“可以。”门德回答。紫色丝带也出现了。三个承诺闪着光，风筝却依然坏着。"
+      ],
+      "introduction": "风筝还没修好，门德已经接下了三个承诺。",
+      "title": "留待以后放的风筝"
+    }
+  },
+  "number": 1,
+  "panels": [
+    {
+      "altText": "Tavi offers Mend a kite with a broken wooden spar.",
+      "image": "N02E01P01.png"
+    },
+    {
+      "altText": "An orange ribbon forms beside Mend and the broken kite.",
+      "image": "N02E01P02.png"
+    },
+    {
+      "altText": "Mend shows Tavi the loose orange ribbon.",
+      "image": "N02E01P03.png"
+    },
+    {
+      "altText": "Boro presents a drawing of a tall lantern arch.",
+      "image": "N02E01P04.png"
+    },
+    {
+      "altText": "A red striped ribbon appears as Mend nods to Boro.",
+      "image": "N02E01P05.png"
+    },
+    {
+      "altText": "Mouthless Hush shows Mend the loose pages of a route book.",
+      "image": "N02E01P06.png"
+    },
+    {
+      "altText": "Three ribbons lie around Mend beside the unfinished book and kite.",
+      "image": "N02E01P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}

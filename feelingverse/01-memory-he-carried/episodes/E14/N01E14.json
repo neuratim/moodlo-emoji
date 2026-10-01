@@ -1,0 +1,439 @@
+{
+  "id": "N01E14",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "في صباح اليوم التالي، يصل Quest إلى ورشة العبّارات Sigh. بوابة المشاة عالقة، وينتظر راكبان بأمان خلف الدرابزين. قبل العثور على الإيصالات، يجب على Sigh أن يتولى عملية الإصلاح التي كان يؤجلها.",
+        "يقدم Quest مصباحًا وليس محاضرة. يشير Sigh إلى المزلاج الذي استقر فيه الحصى. إن المساعدة في الإصلاح تتيح للشخص الذي يعرف هذه البوابة أن يظل هو الشخص الذي يقوم بالعمل.",
+        "يقوم Sigh بإزالة الحصى والتحقق من حركة المزلاج. لقد أصبح الاعتذار تغييراً عملياً يمكن لأي شخص استخدامه. يحافظ Quest على ثبات المصباح للفحص النهائي.",
+        "عندما يغلق Sigh البوابة التي تم إصلاحها، يصدر مزلاجها تسلسلًا مألوفًا من النقرات عند مروره بثلاث شقوق تثبيت. يلاحظ Quiver التشابه وليس التشخيص. يوضح Sigh أن السكك الحديدية تستخدم نفس النوع من المزلاج.",
+        "بمجرد مرور الركاب، يعود Sigh إلى المكتب. الصوت الشبيه بالسكك الحديدية يقوده إلى تذكرة قديمة. لقد وصل ذات مرة إلى بوابة المحطة متأخرًا جدًا ليودع صديقًا مغادرًا. تستمع Nova إلى الشخص الذي يروي القصة، لا إلى إعادة تشغيل التسجيل.",
+        "يعود Sigh بعد ذلك إلى سجلات الخدمة التي جاء المسافرون من أجلها. انتقلت العدسة المطابقة إلى ورشة عمل في Nacre. جزء من ختم الميناء غير واضح، لذا يأخذ Quest نسخة للتحقق من الوجهة قبل ركوب العبّارة.",
+        "في ذلك المساء في Meadowfold، قامت Mend بتأمين مشبك الكابل الخارجي المرتخي لبوق الاتصال في المرج قبل بدء مكالمتهم. لم يسمع Rain سوى الأخبار العامة للمسافرين: وداع قديم، إيصال آخر، مكان آخر للسؤال عنه."
+      ],
+      "captions": [
+        "في صباح اليوم التالي، يصل Quest إلى ورشة العبّارات Sigh. بوابة المشاة عالقة، وينتظر راكبان بأمان خلف الدرابزين. قبل العثور على الإيصالات، يجب على Sigh أن يتولى عملية الإصلاح التي كان يؤجلها.\n\nSigh: \"قصدت إصلاح ذلك بالأمس.\"",
+        "يقدم Quest مصباحًا وليس محاضرة. يشير Sigh إلى المزلاج الذي استقر فيه الحصى. إن المساعدة في الإصلاح تتيح للشخص الذي يعرف هذه البوابة أن يظل هو الشخص الذي يقوم بالعمل.\n\nQuest: \"أرني أين تحتاج إلى الضوء.\"",
+        "يقوم Sigh بإزالة الحصى والتحقق من حركة المزلاج. لقد أصبح الاعتذار تغييراً عملياً يمكن لأي شخص استخدامه. يحافظ Quest على ثبات المصباح للفحص النهائي.\n\nSigh: \"جرب البوابة الآن.\"",
+        "عندما يغلق Sigh البوابة التي تم إصلاحها، يصدر مزلاجها تسلسلًا مألوفًا من النقرات عند مروره بثلاث شقوق تثبيت. يلاحظ Quiver التشابه وليس التشخيص. يوضح Sigh أن السكك الحديدية تستخدم نفس النوع من المزلاج.\n\nQuiver: \"مثل النقرات الثلاث لـ Rain. ربما يكون هناك خيط للتحقيق، وليس إثباتًا.\"",
+        "بمجرد مرور الركاب، يعود Sigh إلى المكتب. الصوت الشبيه بالسكك الحديدية يقوده إلى تذكرة قديمة. لقد وصل ذات مرة إلى بوابة المحطة متأخرًا جدًا ليودع صديقًا مغادرًا. تستمع Nova إلى الشخص الذي يروي القصة، لا إلى إعادة تشغيل التسجيل.\n\nSigh: \"لقد وصلت إلى البوابة متأخرًا جدًا. كان القطار يغادر بالفعل.\"",
+        "يعود Sigh بعد ذلك إلى سجلات الخدمة التي جاء المسافرون من أجلها. انتقلت العدسة المطابقة إلى ورشة عمل في Nacre. جزء من ختم الميناء غير واضح، لذا يأخذ Quest نسخة للتحقق من الوجهة قبل ركوب العبّارة.\n\nSigh: \"هذا هو إيصال إعادة التوجيه. احتفظ بالنسخة؛ فالأصل يبقى هنا.\"",
+        "في ذلك المساء في Meadowfold، قامت Mend بتأمين مشبك الكابل الخارجي المرتخي لبوق الاتصال في المرج قبل بدء مكالمتهم. لم يسمع Rain سوى الأخبار العامة للمسافرين: وداع قديم، إيصال آخر، مكان آخر للسؤال عنه.\n\nRain: \"فقدان شخص ما يمكن أن يملأ غرفة بأكملها.\""
+      ],
+      "introduction": "أكد Wail ورشة العمل المذكورة في سجلات Veyra. عند مرسى عبّارة Sigh، هناك بوابة مهملة تؤخر البحث. يكشف إصلاحها عن صوت مألوف، بينما تشير التذكرة القديمة وإيصال إعادة التوجيه إلى جزأين مختلفين من اللغز.",
+      "title": "اعتذار بالأيدي"
+    },
+    "bn": {
+      "altTexts": [
+        "পরদিন সকালে Quest Sigh-এর ফেরি মেরামতের কারখানায় পৌঁছায়। হাঁটার গেটটি আটকে আছে। দুই যাত্রী রেলিংয়ের পিছনে নিরাপদে অপেক্ষা করে। রসিদ খোঁজার আগে Sigh-কে সেই মেরামতটি করতে হবে, যা এতদিন পিছিয়ে দিয়েছে।",
+        "Quest উপদেশ না দিয়ে বাতি এগিয়ে দেয়। Sigh দেখায়, ছিটকিনির কোথায় কাঁকর জমেছে। Quest সাহায্য করে, কিন্তু গেটটি যে ভালো চেনে, মেরামতের কাজ তার হাতেই থাকে।",
+        "Sigh কাঁকর সরিয়ে ছিটকিনির নড়াচড়া পরীক্ষা করে। ক্ষমা চাওয়ার সঙ্গে এবার কাজও হয়েছে; গেটটি সবাই ব্যবহার করতে পারবে। শেষবার পরীক্ষা করার সময় Quest বাতিটি স্থির রাখে।",
+        "মেরামত করা গেট বন্ধ করতে গেলে ছিটকিনি তিনটি খাঁজ পেরিয়ে পরিচিত ছন্দে শব্দ করে। Quiver মিলটি লক্ষ করে; এতেই কোনো কারণ নিশ্চিত হয় না। Sigh জানায়, রেলগেটেও একই ধরনের ছিটকিনি ব্যবহৃত হয়।",
+        "যাত্রীরা পার হলে Sigh অফিসে ফেরে। রেলগেটের মতো শব্দ শুনে পুরোনো টিকিটটির কথা মনে পড়ে। একবার বন্ধুকে বিদায় জানাতে সে স্টেশনের গেটে দেরি করে পৌঁছেছিল। Nova তার মুখে ঘটনাটি শোনে, কোনো রেকর্ডিং দেখে না।",
+        "এরপর Sigh সেই মেরামতের নথি খোলে, যার জন্য বন্ধুরা এসেছে। জোড়ার অন্য লেন্সটি Nacre-এর একটি কারখানায় পাঠানো হয়েছিল। বন্দরের সিলের কিছু অংশ ঝাপসা। ফেরিতে ওঠার আগে গন্তব্য যাচাই করতে Quest রসিদের একটি নকল নেয়।",
+        "সেই সন্ধ্যায় Meadowfold-এ ফোন করার আগে Mend কথা বলার শিঙার বাইরের তারের আলগা ক্লিপটি লাগিয়ে দেয়। Rain শুধু যাত্রার সাধারণ খবর শোনে: পুরোনো একটি বিদায়, আরেকটি রসিদ, আর প্রশ্ন করার নতুন ঠিকানা।"
+      ],
+      "captions": [
+        "পরদিন সকালে Quest Sigh-এর ফেরি মেরামতের কারখানায় পৌঁছায়। হাঁটার গেটটি আটকে আছে। দুই যাত্রী রেলিংয়ের পিছনে নিরাপদে অপেক্ষা করে। রসিদ খোঁজার আগে Sigh-কে সেই মেরামতটি করতে হবে, যা এতদিন পিছিয়ে দিয়েছে।\n\nSigh: \"কালই ঠিক করব ভেবেছিলাম।\"",
+        "Quest উপদেশ না দিয়ে বাতি এগিয়ে দেয়। Sigh দেখায়, ছিটকিনির কোথায় কাঁকর জমেছে। Quest সাহায্য করে, কিন্তু গেটটি যে ভালো চেনে, মেরামতের কাজ তার হাতেই থাকে।\n\nQuest: \"কোথায় আলো ধরব, দেখান।\"",
+        "Sigh কাঁকর সরিয়ে ছিটকিনির নড়াচড়া পরীক্ষা করে। ক্ষমা চাওয়ার সঙ্গে এবার কাজও হয়েছে; গেটটি সবাই ব্যবহার করতে পারবে। শেষবার পরীক্ষা করার সময় Quest বাতিটি স্থির রাখে।\n\nSigh: \"এবার গেটটা ব্যবহার করে দেখুন।\"",
+        "মেরামত করা গেট বন্ধ করতে গেলে ছিটকিনি তিনটি খাঁজ পেরিয়ে পরিচিত ছন্দে শব্দ করে। Quiver মিলটি লক্ষ করে; এতেই কোনো কারণ নিশ্চিত হয় না। Sigh জানায়, রেলগেটেও একই ধরনের ছিটকিনি ব্যবহৃত হয়।\n\nQuiver: \"Rain-এর তিনটি টোকার মতো। হয়তো সূত্র, কিন্তু প্রমাণ নয়।\"",
+        "যাত্রীরা পার হলে Sigh অফিসে ফেরে। রেলগেটের মতো শব্দ শুনে পুরোনো টিকিটটির কথা মনে পড়ে। একবার বন্ধুকে বিদায় জানাতে সে স্টেশনের গেটে দেরি করে পৌঁছেছিল। Nova তার মুখে ঘটনাটি শোনে, কোনো রেকর্ডিং দেখে না।\n\nSigh: \"গেটে পৌঁছাতে দেরি হয়ে গিয়েছিল। ট্রেন তখন ছেড়ে যাচ্ছিল।\"",
+        "এরপর Sigh সেই মেরামতের নথি খোলে, যার জন্য বন্ধুরা এসেছে। জোড়ার অন্য লেন্সটি Nacre-এর একটি কারখানায় পাঠানো হয়েছিল। বন্দরের সিলের কিছু অংশ ঝাপসা। ফেরিতে ওঠার আগে গন্তব্য যাচাই করতে Quest রসিদের একটি নকল নেয়।\n\nSigh: \"এই হলো পাঠানোর রসিদ। নকলটি রাখুন। আসল এখানে থাকবে।\"",
+        "সেই সন্ধ্যায় Meadowfold-এ ফোন করার আগে Mend কথা বলার শিঙার বাইরের তারের আলগা ক্লিপটি লাগিয়ে দেয়। Rain শুধু যাত্রার সাধারণ খবর শোনে: পুরোনো একটি বিদায়, আরেকটি রসিদ, আর প্রশ্ন করার নতুন ঠিকানা।\n\nRain: \"কারও অভাব যেন পুরো ঘর ভরে রাখে।\""
+      ],
+      "introduction": "Veyra-এর নথিতে লেখা কারখানাটি Wail চিনিয়ে দিয়েছে। Sigh-এর ফেরিঘাটে অবহেলিত একটি গেট খোঁজের পথে বাধা হয়ে দাঁড়ায়। মেরামতের সময় পরিচিত শব্দ শোনা যায়। পুরোনো টিকিট আর পাঠানোর রসিদ রহস্যের দুটি আলাদা অংশ দেখায়।",
+      "title": "কাজ দিয়ে ক্ষমা চাওয়া"
+    },
+    "cs": {
+      "altTexts": [
+        "Následující ráno Quest dorazí do Sighovy dílny u přívozu. Branka pro pěší se zasekla a dva cestující čekají bezpečně za zábradlím. Než Sigh vyhledá doklady, musí se věnovat opravě, kterou odkládal.",
+        "Quest nabídne lampu, ne přednášku. Sigh ukáže na západku, v níž se usadil písek. Pomoc při opravě umožní, aby práci dál prováděl ten, kdo branku zná.",
+        "Sigh odstraní písek a zkontroluje pohyb západky. Omluva se proměnila v praktickou změnu, která někomu poslouží. Quest drží lampu pevně během poslední kontroly.",
+        "Když Sigh opravenou branku zavře, její tři dorazy vydají známý sled klepnutí. Quiver si všimne podobnosti; neurčuje příčinu. Sigh vysvětlí, že stejný typ západky používala železnice.",
+        "Jakmile cestující projdou, Sigh se vrátí do kanceláře. Zvuk připomínající železnici ho přivede ke staré jízdence. Kdysi dorazil k nádražní bráně příliš pozdě, aby se rozloučil s odjíždějícím přítelem. Nova naslouchá člověku, který příběh vypráví, nikoli jeho přehrávce.",
+        "Sigh se pak vrátí k servisním záznamům, kvůli nimž cestovatelé přišli. Druhá čočka putovala dál do dílny v Nacre. Část přístavního razítka je rozmazaná, a tak si Quest pořídí kopii, aby před naloděním ověřil cíl.",
+        "Toho večera Mend na louce Meadowfold upevní uvolněnou vnější svorku kabelu polní mluvicí trouby, než začne hovor. Rain zatím slyšel jen obecnou zprávu od cestovatelů: dávné rozloučení, další doklad a další místo, kde se mohou ptát."
+      ],
+      "captions": [
+        "Následující ráno Quest dorazí do Sighovy dílny u přívozu. Branka pro pěší se zasekla a dva cestující čekají bezpečně za zábradlím. Než Sigh vyhledá doklady, musí se věnovat opravě, kterou odkládal.\n\nSigh: „Chtěl jsem ji opravit už včera.“",
+        "Quest nabídne lampu, ne přednášku. Sigh ukáže na západku, v níž se usadil písek. Pomoc při opravě umožní, aby práci dál prováděl ten, kdo branku zná.\n\nQuest: „Ukaž mi, kam potřebuješ posvítit.“",
+        "Sigh odstraní písek a zkontroluje pohyb západky. Omluva se proměnila v praktickou změnu, která někomu poslouží. Quest drží lampu pevně během poslední kontroly.\n\nSigh: „Teď branku vyzkoušej.“",
+        "Když Sigh opravenou branku zavře, její tři dorazy vydají známý sled klepnutí. Quiver si všimne podobnosti; neurčuje příčinu. Sigh vysvětlí, že stejný typ západky používala železnice.\n\nQuiver: „Jako ta tři klepnutí u Raina. Možná stopa — ne důkaz.“",
+        "Jakmile cestující projdou, Sigh se vrátí do kanceláře. Zvuk připomínající železnici ho přivede ke staré jízdence. Kdysi dorazil k nádražní bráně příliš pozdě, aby se rozloučil s odjíždějícím přítelem. Nova naslouchá člověku, který příběh vypráví, nikoli jeho přehrávce.\n\nSigh: „K bráně jsem přišel pozdě. Vlak už odjížděl.“",
+        "Sigh se pak vrátí k servisním záznamům, kvůli nimž cestovatelé přišli. Druhá čočka putovala dál do dílny v Nacre. Část přístavního razítka je rozmazaná, a tak si Quest pořídí kopii, aby před naloděním ověřil cíl.\n\nSigh: „Tady je doklad o odeslání dál. Kopii si nechte, originál zůstane tady.“",
+        "Toho večera Mend na louce Meadowfold upevní uvolněnou vnější svorku kabelu polní mluvicí trouby, než začne hovor. Rain zatím slyšel jen obecnou zprávu od cestovatelů: dávné rozloučení, další doklad a další místo, kde se mohou ptát.\n\nRain: „Když ti někdo chybí, může to zaplnit celou místnost.“"
+      ],
+      "introduction": "Wail potvrdil dílnu uvedenou v záznamech z Veyry. U Sighova přívozu zdrží pátrání zanedbaná branka. Při opravě zazní známý zvuk, zatímco stará jízdenka a přepravní doklad ukážou na dvě různé části záhady.",
+      "title": "Omluva, která něco napraví"
+    },
+    "de": {
+      "altTexts": [
+        "Am nächsten Morgen erreicht Quest die Fährwerkstatt von Sigh. Das Fußgängertor steckt fest, zwei Passagiere warten sicher hinter der Reling. Bevor Sigh die Quittungen findet, muss er sich um eine Reparatur kümmern, die er aufgeschoben hat.",
+        "Quest bietet Licht an, statt Sigh zu belehren. Sigh zeigt auf den Riegel, an dem sich Schmutz festgesetzt hat. Durch die Hilfe bei der Reparatur bleibt die Person, die dieses Tor kennt, die Person, die die Arbeit ausführt.",
+        "Sigh entfernt den Schmutz und überprüft den Hub des Riegels. Die Entschuldigung ist zu einer praktischen Verbesserung geworden, die jemand nutzen kann. Quest hält die Lampe für die Endkontrolle ruhig.",
+        "Als Sigh das reparierte Tor schließt, erzeugen seine drei Anschläge eine vertraute Klopffolge. Quiver bemerkt die Ähnlichkeit, keine Diagnose. Sigh erklärt, dass die Eisenbahn die gleiche Art von Riegel verwendete.",
+        "Sobald die Passagiere durchgekommen sind, kehrt Sigh ins Büro zurück. Das eisenbahnähnliche Geräusch bringt ihn zu einer alten Fahrkarte. Einmal erreichte er ein Bahnhofstor zu spät, um sich von einem scheidenden Freund zu verabschieden. Nova hört der Person zu, die die Geschichte erzählt, nicht einer Wiederholung davon.",
+        "Sigh kehrt dann zu den Servicedatensätzen zurück, für die die Reisenden gekommen sind. Die passende Linse ging weiter zu einer Werkstatt in Nacre. Ein Teil des Hafenstempels ist verschwommen, daher erstellt Quest eine Kopie, um den Zielort vor dem Einsteigen überprüfen zu lassen.",
+        "An diesem Abend sichert Mend bei Meadowfold die lose äußere Kabelklemme des Feldhorns, bevor ihr Anruf beginnt. Rain hat nur die allgemeinen Neuigkeiten der Reisenden gehört: ein alter Abschied, eine weitere Quittung, ein anderer Ort zum Fragen."
+      ],
+      "captions": [
+        "Am nächsten Morgen erreicht Quest die Fährwerkstatt von Sigh. Das Fußgängertor steckt fest, zwei Passagiere warten sicher hinter der Reling. Bevor Sigh die Quittungen findet, muss er sich um eine Reparatur kümmern, die er aufgeschoben hat.\n\nSigh: „Das wollte ich gestern reparieren.“",
+        "Quest bietet Licht an, statt Sigh zu belehren. Sigh zeigt auf den Riegel, an dem sich Schmutz festgesetzt hat. Durch die Hilfe bei der Reparatur bleibt die Person, die dieses Tor kennt, die Person, die die Arbeit ausführt.\n\nQuest: „Zeig mir, wo du Licht brauchst.“",
+        "Sigh entfernt den Schmutz und überprüft den Hub des Riegels. Die Entschuldigung ist zu einer praktischen Verbesserung geworden, die jemand nutzen kann. Quest hält die Lampe für die Endkontrolle ruhig.\n\nSigh: „Probier das Tor jetzt aus.“",
+        "Als Sigh das reparierte Tor schließt, erzeugen seine drei Anschläge eine vertraute Klopffolge. Quiver bemerkt die Ähnlichkeit, keine Diagnose. Sigh erklärt, dass die Eisenbahn die gleiche Art von Riegel verwendete.\n\nQuiver: „Wie das dreimalige Klopfen bei Rain. Vielleicht ein Hinweis – kein Beweis.“",
+        "Sobald die Passagiere durchgekommen sind, kehrt Sigh ins Büro zurück. Das eisenbahnähnliche Geräusch bringt ihn zu einer alten Fahrkarte. Einmal erreichte er ein Bahnhofstor zu spät, um sich von einem scheidenden Freund zu verabschieden. Nova hört der Person zu, die die Geschichte erzählt, nicht einer Wiederholung davon.\n\nSigh: „Ich kam zu spät zum Tor. Der Zug fuhr bereits ab.“",
+        "Sigh kehrt dann zu den Servicedatensätzen zurück, für die die Reisenden gekommen sind. Die passende Linse ging weiter zu einer Werkstatt in Nacre. Ein Teil des Hafenstempels ist verschwommen, daher erstellt Quest eine Kopie, um den Zielort vor dem Einsteigen überprüfen zu lassen.\n\nSigh: „Dies ist die Weiterleitungsquittung. Behaltet die Kopie; das Original bleibt hier.“",
+        "An diesem Abend sichert Mend bei Meadowfold die lose äußere Kabelklemme des Feldhorns, bevor ihr Anruf beginnt. Rain hat nur die allgemeinen Neuigkeiten der Reisenden gehört: ein alter Abschied, eine weitere Quittung, ein anderer Ort zum Fragen.\n\nRain: „Jemanden zu vermissen kann einen ganzen Raum füllen.“"
+      ],
+      "introduction": "Wail hat die in den Unterlagen von Veyra genannte Werkstatt bestätigt. Am Fähranleger von Sigh verzögert ein vernachlässigtes Tor die Suche. Bei der Reparatur kommt ein bekanntes Geräusch zum Vorschein, während ein altes Ticket und ein Nachsendebeleg auf zwei verschiedene Teile des Rätsels hinweisen.",
+      "title": "Eine Entschuldigung mit Händen"
+    },
+    "en": {
+      "altTexts": [
+        "The following morning, Quest reaches Sigh's ferry workshop. Its pedestrian gate is stuck, with two passengers waiting safely behind the rail. Before finding the receipts, Sigh must attend to a repair he has been putting off.",
+        "Quest offers a lamp, not a lecture. Sigh indicates the latch where grit has lodged. Helping with the repair lets the person who knows this gate remain the person doing the work.",
+        "Sigh clears the grit and checks the latch's travel. The apology has become a practical change someone can use. Quest keeps the lamp steady for the final check.",
+        "When Sigh closes the repaired gate, its three detents make a familiar sequence of taps. Quiver notices the resemblance, not a diagnosis. Sigh explains that the railway used the same kind of latch.",
+        "Once the passengers have passed through, Sigh returns to the office. The railway-like sound brings him to an old ticket. He once reached a station gate too late to say goodbye to a departing friend. Nova listens to the person telling the story, not a replay of it.",
+        "Sigh then returns to the service records the travelers came for. The matching lens went onward to a workshop in Nacre. Part of the port stamp is blurred, so Quest takes a copy to have the destination checked before boarding.",
+        "That evening at Meadowfold, Mend secures the field horn's loose outer cable clip before their call begins. Rain has heard only the travelers' general news: an old farewell, another receipt, another place to ask."
+      ],
+      "captions": [
+        "The following morning, Quest reaches Sigh's ferry workshop. Its pedestrian gate is stuck, with two passengers waiting safely behind the rail. Before finding the receipts, Sigh must attend to a repair he has been putting off.\n\nSigh: “I meant to mend that yesterday.”",
+        "Quest offers a lamp, not a lecture. Sigh indicates the latch where grit has lodged. Helping with the repair lets the person who knows this gate remain the person doing the work.\n\nQuest: “Show me where you need the light.”",
+        "Sigh clears the grit and checks the latch's travel. The apology has become a practical change someone can use. Quest keeps the lamp steady for the final check.\n\nSigh: “Try the gate now.”",
+        "When Sigh closes the repaired gate, its three detents make a familiar sequence of taps. Quiver notices the resemblance, not a diagnosis. Sigh explains that the railway used the same kind of latch.\n\nQuiver: “Like Rain's three taps. A clue, perhaps—not proof.”",
+        "Once the passengers have passed through, Sigh returns to the office. The railway-like sound brings him to an old ticket. He once reached a station gate too late to say goodbye to a departing friend. Nova listens to the person telling the story, not a replay of it.\n\nSigh: “I reached the gate too late. The train was already leaving.”",
+        "Sigh then returns to the service records the travelers came for. The matching lens went onward to a workshop in Nacre. Part of the port stamp is blurred, so Quest takes a copy to have the destination checked before boarding.\n\nSigh: “This is its forwarding receipt. Keep the copy; the original stays here.”",
+        "That evening at Meadowfold, Mend secures the field horn's loose outer cable clip before their call begins. Rain has heard only the travelers' general news: an old farewell, another receipt, another place to ask.\n\nRain: “Missing someone can fill a whole room.”"
+      ],
+      "introduction": "Wail has confirmed the workshop named in Veyra's records. At Sigh's ferry landing, a neglected gate delays the search. Repairing it reveals a familiar sound, while an old ticket and a forwarding receipt point toward two different parts of the mystery.",
+      "title": "An Apology With Hands"
+    },
+    "es": {
+      "altTexts": [
+        "A la mañana siguiente, Quest llega al taller del ferry de Sigh. Su puerta peatonal está atascada, con dos pasajeros esperando a salvo detrás de la barandilla. Antes de encontrar los recibos, Sigh debe atender una reparación que ha estado posponiendo.",
+        "Quest ofrece iluminar el trabajo en lugar de darle un sermón. Sigh indica el pestillo donde se ha alojado arena. Ayudar con la reparación permite que la persona que conoce esta puerta siga siendo la persona que realiza el trabajo.",
+        "Sigh limpia la arena y comprueba el recorrido del pestillo. La disculpa se ha convertido en un cambio práctico que alguien puede utilizar. Quest mantiene la lámpara fija para la verificación final.",
+        "Cuando Sigh cierra la puerta reparada, sus tres retenes forman una secuencia familiar de golpes. Quiver nota el parecido, no un diagnóstico. Sigh explica que el ferrocarril utilizó el mismo tipo de pestillo.",
+        "Una vez que los pasajeros han pasado, Sigh regresa a la oficina. El sonido parecido al del ferrocarril lo lleva a un billete viejo. Una vez llegó demasiado tarde a la puerta de una estación para despedirse de un amigo que se marchaba. Nova escucha a la persona que cuenta la historia, no una repetición de la misma.",
+        "Sigh luego regresa a los registros de servicio por los que vinieron los viajeros. La lente correspondiente fue enviada a un taller en Nacre. Parte del sello del puerto está borroso, por lo que Quest toma una copia para verificar el destino antes de abordar.",
+        "Esa noche en Meadowfold, Mend asegura el clip del cable exterior suelto de la bocina del prado antes de que comience la llamada. Rain sólo ha oído las noticias generales de los viajeros: una vieja despedida, otro recibo, otro lugar donde preguntar."
+      ],
+      "captions": [
+        "A la mañana siguiente, Quest llega al taller del ferry de Sigh. Su puerta peatonal está atascada, con dos pasajeros esperando a salvo detrás de la barandilla. Antes de encontrar los recibos, Sigh debe atender una reparación que ha estado posponiendo.\n\nSigh: \"Quería arreglar eso ayer\".",
+        "Quest ofrece iluminar el trabajo en lugar de darle un sermón. Sigh indica el pestillo donde se ha alojado arena. Ayudar con la reparación permite que la persona que conoce esta puerta siga siendo la persona que realiza el trabajo.\n\nQuest: \"Muéstrame dónde necesitas la luz\".",
+        "Sigh limpia la arena y comprueba el recorrido del pestillo. La disculpa se ha convertido en un cambio práctico que alguien puede utilizar. Quest mantiene la lámpara fija para la verificación final.\n\nSigh: \"Prueba la puerta ahora\".",
+        "Cuando Sigh cierra la puerta reparada, sus tres retenes forman una secuencia familiar de golpes. Quiver nota el parecido, no un diagnóstico. Sigh explica que el ferrocarril utilizó el mismo tipo de pestillo.\n\nQuiver: \"Como los tres golpecitos de Rain. Quizás una pista, no una prueba\".",
+        "Una vez que los pasajeros han pasado, Sigh regresa a la oficina. El sonido parecido al del ferrocarril lo lleva a un billete viejo. Una vez llegó demasiado tarde a la puerta de una estación para despedirse de un amigo que se marchaba. Nova escucha a la persona que cuenta la historia, no una repetición de la misma.\n\nSigh: \"Llegué demasiado tarde a la puerta. El tren ya salía\".",
+        "Sigh luego regresa a los registros de servicio por los que vinieron los viajeros. La lente correspondiente fue enviada a un taller en Nacre. Parte del sello del puerto está borroso, por lo que Quest toma una copia para verificar el destino antes de abordar.\n\nSigh: \"Este es su recibo de envío. Guarden la copia; el original se queda aquí\".",
+        "Esa noche en Meadowfold, Mend asegura el clip del cable exterior suelto de la bocina del prado antes de que comience la llamada. Rain sólo ha oído las noticias generales de los viajeros: una vieja despedida, otro recibo, otro lugar donde preguntar.\n\nRain: “Extrañar a alguien puede llenar una habitación entera”."
+      ],
+      "introduction": "Wail ha confirmado el taller mencionado en los registros de Veyra. En el embarcadero del ferry de Sigh, una puerta descuidada retrasa la búsqueda. Repararla revela un sonido familiar, mientras que un boleto viejo y un recibo de envío apuntan hacia dos partes diferentes del misterio.",
+      "title": "Una disculpa con las manos"
+    },
+    "fr": {
+      "altTexts": [
+        "Le lendemain matin, Quest arrive à l'atelier du ferry de Sigh. Sa porte piétonne est bloquée, avec deux passagers attendant en toute sécurité derrière la rambarde. Avant de retrouver les reçus, Sigh doit s'occuper d'une réparation qu'il a reportée.",
+        "Quest propose une lampe, pas une conférence. Sigh indique le loquet où du sable s'est accumulé. Aider à la réparation permet à celui qui connaît ce portail de rester celui qui fait les travaux.",
+        "Sigh élimine les particules et vérifie la course du loquet. Les excuses sont devenues un changement pratique que quelqu’un peut utiliser. Quest maintient la lampe stable pour le contrôle final.",
+        "Lorsque Sigh ferme le portail réparé, ses trois crans forment une séquence familière de coups. Quiver remarque la ressemblance, pas un diagnostic. Sigh explique que le chemin de fer utilisait le même type de loquet.",
+        "Une fois les passagers passés, Sigh retourne au bureau. Ce bruit qui lui rappelle le chemin de fer le pousse à sortir un vieux billet. Un jour, il est arrivé trop tard à une porte de gare pour dire au revoir à un ami qui partait. Nova écoute la personne qui raconte l'histoire, pas une rediffusion de celle-ci.",
+        "Sigh retourne ensuite aux dossiers de service pour lesquels les voyageurs sont venus. La seconde lentille a été envoyée dans un atelier à Nacre. Une partie du cachet du port est floue, donc Quest en prend une copie pour faire vérifier la destination avant l'embarquement.",
+        "Ce soir-là, à Meadowfold, Mend sécurise le collier extérieur du câble du pavillon acoustique avant le début de l'appel. Rain n'a entendu que les nouvelles générales des voyageurs : un vieil adieu, un autre reçu, un autre endroit où demander."
+      ],
+      "captions": [
+        "Le lendemain matin, Quest arrive à l'atelier du ferry de Sigh. Sa porte piétonne est bloquée, avec deux passagers attendant en toute sécurité derrière la rambarde. Avant de retrouver les reçus, Sigh doit s'occuper d'une réparation qu'il a reportée.\n\nSigh : « J’avais l’intention de réparer ça hier. »",
+        "Quest propose une lampe, pas une conférence. Sigh indique le loquet où du sable s'est accumulé. Aider à la réparation permet à celui qui connaît ce portail de rester celui qui fait les travaux.\n\nQuest : « Montre-moi où tu as besoin de lumière. »",
+        "Sigh élimine les particules et vérifie la course du loquet. Les excuses sont devenues un changement pratique que quelqu’un peut utiliser. Quest maintient la lampe stable pour le contrôle final.\n\nSigh : « Essayez le portail maintenant. »",
+        "Lorsque Sigh ferme le portail réparé, ses trois crans forment une séquence familière de coups. Quiver remarque la ressemblance, pas un diagnostic. Sigh explique que le chemin de fer utilisait le même type de loquet.\n\nQuiver : « Comme les trois coups de Rain. Un indice, peut-être, pas une preuve. »",
+        "Une fois les passagers passés, Sigh retourne au bureau. Ce bruit qui lui rappelle le chemin de fer le pousse à sortir un vieux billet. Un jour, il est arrivé trop tard à une porte de gare pour dire au revoir à un ami qui partait. Nova écoute la personne qui raconte l'histoire, pas une rediffusion de celle-ci.\n\nSigh : « Je suis arrivé trop tard à la porte. Le train partait déjà. »",
+        "Sigh retourne ensuite aux dossiers de service pour lesquels les voyageurs sont venus. La seconde lentille a été envoyée dans un atelier à Nacre. Une partie du cachet du port est floue, donc Quest en prend une copie pour faire vérifier la destination avant l'embarquement.\n\nSigh : « Voici le reçu de réexpédition. Conservez la copie ; l'original reste ici. »",
+        "Ce soir-là, à Meadowfold, Mend sécurise le collier extérieur du câble du pavillon acoustique avant le début de l'appel. Rain n'a entendu que les nouvelles générales des voyageurs : un vieil adieu, un autre reçu, un autre endroit où demander.\n\nRain : « L'absence de quelqu'un peut remplir toute une pièce. »"
+      ],
+      "introduction": "Wail a confirmé l'atelier nommé dans les archives de Veyra. À l'embarcadère du ferry de Sigh, une porte négligée retarde les recherches. La réparer révèle un son familier, tandis qu'un vieux ticket et un reçu de transfert pointent vers deux parties différentes du mystère.",
+      "title": "Des excuses qui réparent"
+    },
+    "hi": {
+      "altTexts": [
+        "अगली सुबह Quest, Sigh की नौका कार्यशाला पहुँचता है। पैदल आने वालों का फाटक अटका है। दो यात्री रेलिंग के पीछे सुरक्षित इंतज़ार करते हैं। रसीद खोजने से पहले Sigh को वह मरम्मत करनी होगी जिसे वह टालता रहा है।",
+        "Quest भाषण देने के बजाय लैंप आगे करता है। Sigh दिखाता है कि कुंडी में कहाँ कंकड़ फँसे हैं। Quest मदद करता है, मगर फाटक को जानने वाला Sigh ही काम सँभालता है।",
+        "Sigh कंकड़ निकालकर कुंडी की चाल जाँचता है। माफ़ी अब काम में बदली है; फाटक का इस्तेमाल सब कर सकेंगे। आखिरी जाँच के लिए Quest लैंप स्थिर रखता है।",
+        "फाटक बंद होते समय कुंडी तीन खाँचों से गुज़रकर परिचित लय में आवाज़ करती है। Quiver समानता देखता है; इससे कारण तय नहीं हो जाता। Sigh बताता है कि रेलगेट में भी ऐसी कुंडी होती है।",
+        "यात्री निकल जाते हैं तो Sigh दफ़्तर लौटता है। रेलगेट जैसी आवाज़ से उसे पुराना टिकट याद आता है। एक बार दोस्त को विदा करने वह देर से पहुँचा था। Nova उसे अपनी बात कहते सुनती है, रिकॉर्डिंग दोबारा नहीं देखती।",
+        "फिर Sigh वह मरम्मत का रिकॉर्ड खोलता है जिसके लिए दोस्त आए हैं। जोड़ी का दूसरा लेंस Nacre की कार्यशाला भेजा गया था। बंदरगाह की मुहर कुछ धुँधली है। नौका में चढ़ने से पहले पता जाँचने के लिए Quest रसीद की प्रति लेता है।",
+        "उस शाम Meadowfold में कॉल से पहले Mend भोंपू के बाहरी तार की ढीली क्लिप कसती है। Rain को सिर्फ़ यात्रा की सामान्य खबर मिलती है: पुरानी विदाई, एक और रसीद, पूछने का नया पता।"
+      ],
+      "captions": [
+        "अगली सुबह Quest, Sigh की नौका कार्यशाला पहुँचता है। पैदल आने वालों का फाटक अटका है। दो यात्री रेलिंग के पीछे सुरक्षित इंतज़ार करते हैं। रसीद खोजने से पहले Sigh को वह मरम्मत करनी होगी जिसे वह टालता रहा है।\n\nSigh: \"कल ही ठीक करने का सोचा था।\"",
+        "Quest भाषण देने के बजाय लैंप आगे करता है। Sigh दिखाता है कि कुंडी में कहाँ कंकड़ फँसे हैं। Quest मदद करता है, मगर फाटक को जानने वाला Sigh ही काम सँभालता है।\n\nQuest: \"कहाँ रोशनी चाहिए, दिखाओ।\"",
+        "Sigh कंकड़ निकालकर कुंडी की चाल जाँचता है। माफ़ी अब काम में बदली है; फाटक का इस्तेमाल सब कर सकेंगे। आखिरी जाँच के लिए Quest लैंप स्थिर रखता है।\n\nSigh: \"अब फाटक आज़माओ।\"",
+        "फाटक बंद होते समय कुंडी तीन खाँचों से गुज़रकर परिचित लय में आवाज़ करती है। Quiver समानता देखता है; इससे कारण तय नहीं हो जाता। Sigh बताता है कि रेलगेट में भी ऐसी कुंडी होती है।\n\nQuiver: \"Rain की तीन दस्तकों जैसी। शायद सुराग, सबूत नहीं।\"",
+        "यात्री निकल जाते हैं तो Sigh दफ़्तर लौटता है। रेलगेट जैसी आवाज़ से उसे पुराना टिकट याद आता है। एक बार दोस्त को विदा करने वह देर से पहुँचा था। Nova उसे अपनी बात कहते सुनती है, रिकॉर्डिंग दोबारा नहीं देखती।\n\nSigh: \"गेट पर देर से पहुँचा था। ट्रेन तब जा रही थी।\"",
+        "फिर Sigh वह मरम्मत का रिकॉर्ड खोलता है जिसके लिए दोस्त आए हैं। जोड़ी का दूसरा लेंस Nacre की कार्यशाला भेजा गया था। बंदरगाह की मुहर कुछ धुँधली है। नौका में चढ़ने से पहले पता जाँचने के लिए Quest रसीद की प्रति लेता है।\n\nSigh: \"यह आगे भेजने की रसीद है। प्रति रखो। असली यहीं रहेगी।\"",
+        "उस शाम Meadowfold में कॉल से पहले Mend भोंपू के बाहरी तार की ढीली क्लिप कसती है। Rain को सिर्फ़ यात्रा की सामान्य खबर मिलती है: पुरानी विदाई, एक और रसीद, पूछने का नया पता।\n\nRain: \"किसी की कमी का एहसास पूरा कमरा भर सकता है।\""
+      ],
+      "introduction": "Wail ने Veyra के रिकॉर्ड वाली कार्यशाला पहचान दी है। Sigh के नौका घाट पर उपेक्षित फाटक खोज रोकता है। मरम्मत से परिचित आवाज़ सुनाई देती है। पुराना टिकट और आगे भेजने की रसीद रहस्य के अलग हिस्से दिखाते हैं।",
+      "title": "काम से माँगी माफ़ी"
+    },
+    "id": {
+      "altTexts": [
+        "Keesokan paginya, Quest mencapai bengkel feri Sigh. Gerbang pejalan kaki macet, dan dua penumpang menunggu dengan aman di belakang pagar pembatas. Sebelum menemukan kuitansinya, Sigh harus melakukan perbaikan yang telah dia tunda.",
+        "Quest menawarkan lampu, bukan ceramah. Sigh menunjukkan kait tempat pasir bersarang. Membantu perbaikan memungkinkan orang yang mengetahui gerbang ini tetap menjadi orang yang melakukan pekerjaan.",
+        "Sigh membersihkan pasir dan memeriksa pergerakan kait. Permintaan maaf telah menjadi perubahan praktis yang dapat digunakan seseorang. Quest menjaga lampu tetap stabil untuk pemeriksaan terakhir.",
+        "Saat Sigh menutup gerbang yang diperbaiki, ketiga penahannya menghasilkan rangkaian ketukan yang familiar. Quiver memperhatikan kemiripannya, bukan diagnosisnya. Sigh menjelaskan bahwa rel kereta api menggunakan jenis palang yang sama.",
+        "Setelah penumpang lewat, Sigh kembali ke kantor. Suara seperti kereta api membawanya ke tiket lama. Dia pernah sampai di gerbang stasiun terlambat untuk mengucapkan selamat tinggal kepada temannya yang akan berangkat. Nova mendengarkan orang yang menceritakan kisahnya, bukan memutar ulangnya.",
+        "Sigh kemudian kembali ke catatan servis yang dicari para pengelana. Lensa yang cocok dibawa ke bengkel di Nacre. Sebagian stempel pelabuhan kabur, sehingga Quest mengambil salinannya untuk memeriksa tujuan sebelum naik feri.",
+        "Malam itu di Meadowfold, Mend mengamankan klip kabel luar corong suara di padang rumput yang longgar sebelum panggilan mereka dimulai. Rain hanya mendengar berita umum para pelancong: perpisahan lama, tanda terima lagi, tempat lain untuk bertanya."
+      ],
+      "captions": [
+        "Keesokan paginya, Quest mencapai bengkel feri Sigh. Gerbang pejalan kaki macet, dan dua penumpang menunggu dengan aman di belakang pagar pembatas. Sebelum menemukan kuitansinya, Sigh harus melakukan perbaikan yang telah dia tunda.\n\nSigh: “Aku bermaksud memperbaikinya kemarin.”",
+        "Quest menawarkan lampu, bukan ceramah. Sigh menunjukkan kait tempat pasir bersarang. Membantu perbaikan memungkinkan orang yang mengetahui gerbang ini tetap menjadi orang yang melakukan pekerjaan.\n\nQuest: “Tunjukkan di mana kamu membutuhkan lampu.”",
+        "Sigh membersihkan pasir dan memeriksa pergerakan kait. Permintaan maaf telah menjadi perubahan praktis yang dapat digunakan seseorang. Quest menjaga lampu tetap stabil untuk pemeriksaan terakhir.\n\nSigh: “Coba gerbangnya sekarang.”",
+        "Saat Sigh menutup gerbang yang diperbaiki, ketiga penahannya menghasilkan rangkaian ketukan yang familiar. Quiver memperhatikan kemiripannya, bukan diagnosisnya. Sigh menjelaskan bahwa rel kereta api menggunakan jenis palang yang sama.\n\nQuiver: \"Seperti tiga ketukan Rain. Sebuah petunjuk, mungkin—bukan bukti.\"",
+        "Setelah penumpang lewat, Sigh kembali ke kantor. Suara seperti kereta api membawanya ke tiket lama. Dia pernah sampai di gerbang stasiun terlambat untuk mengucapkan selamat tinggal kepada temannya yang akan berangkat. Nova mendengarkan orang yang menceritakan kisahnya, bukan memutar ulangnya.\n\nSigh: \"Aku terlambat mencapai gerbang. Kereta sudah berangkat.\"",
+        "Sigh kemudian kembali ke catatan servis yang dicari para pengelana. Lensa yang cocok dibawa ke bengkel di Nacre. Sebagian stempel pelabuhan kabur, sehingga Quest mengambil salinannya untuk memeriksa tujuan sebelum naik feri.\n\nSigh: \"Ini adalah tanda terima penerusannya. Simpan salinannya; yang asli tetap di sini.\"",
+        "Malam itu di Meadowfold, Mend mengamankan klip kabel luar corong suara di padang rumput yang longgar sebelum panggilan mereka dimulai. Rain hanya mendengar berita umum para pelancong: perpisahan lama, tanda terima lagi, tempat lain untuk bertanya.\n\nRain: “Kehilangan seseorang dapat memenuhi seluruh ruangan.”"
+      ],
+      "introduction": "Wail telah mengkonfirmasi bengkel yang disebutkan dalam catatan Veyra. Di dermaga feri Sigh, sebuah gerbang yang terbengkalai menunda pencarian. Perbaikannya mengungkapkan suara yang familier, sementara tiket lama dan tanda terima penerusan mengarah ke dua bagian misteri yang berbeda.",
+      "title": "Permintaan Maaf Dengan Tangan"
+    },
+    "it": {
+      "altTexts": [
+        "La mattina seguente, Quest raggiunge l'officina dei traghetti di Sigh. Il suo cancello pedonale è bloccato, con due passeggeri che aspettano al sicuro dietro il parapetto. Prima di trovare le ricevute, Sigh deve occuparsi di una riparazione che ha rimandato.",
+        "Quest offre di fare luce, invece di fare una predica. Sigh indica il fermo in cui si è depositata la sabbia. Aiutare con la riparazione consente alla persona che conosce questo cancello di continuare a svolgere il lavoro.",
+        "Sigh elimina la sabbia e controlla la corsa del fermo. Le scuse sono diventate un cambiamento pratico che qualcuno può usare. Quest mantiene ferma la lampada per il controllo finale.",
+        "Quando Sigh chiude il cancello riparato, i suoi tre fermi formano una sequenza familiare di colpi. Quiver nota la somiglianza, non una diagnosi. Sigh spiega che la ferrovia utilizzava lo stesso tipo di chiusura.",
+        "Una volta passati i passeggeri, Sigh ritorna in ufficio. Il suono simile a quello della ferrovia lo porta a un vecchio biglietto. Una volta raggiunse il cancello della stazione troppo tardi per salutare un amico in partenza. Nova ascolta la persona che racconta la storia, non la sua riproduzione.",
+        "Sigh ritorna quindi ai registri di servizio per cui sono venuti i viaggiatori. La seconda lente è stata spedita in un laboratorio a Nacre. Parte del timbro del porto è sfocata, quindi Quest ne prende una copia per verificare la destinazione prima dell'imbarco.",
+        "Quella sera a Meadowfold, Mend fissa il fermacavo esterno allentato della tromba acustica del prato prima che inizi la chiamata. Rain ha sentito solo le notizie generali dei viaggiatori: un vecchio addio, un'altra ricevuta, un altro posto dove chiedere."
+      ],
+      "captions": [
+        "La mattina seguente, Quest raggiunge l'officina dei traghetti di Sigh. Il suo cancello pedonale è bloccato, con due passeggeri che aspettano al sicuro dietro il parapetto. Prima di trovare le ricevute, Sigh deve occuparsi di una riparazione che ha rimandato.\n\nSigh: \"Volevo ripararlo ieri.\"",
+        "Quest offre di fare luce, invece di fare una predica. Sigh indica il fermo in cui si è depositata la sabbia. Aiutare con la riparazione consente alla persona che conosce questo cancello di continuare a svolgere il lavoro.\n\nQuest: \"Mostrami dove ti serve la luce.\"",
+        "Sigh elimina la sabbia e controlla la corsa del fermo. Le scuse sono diventate un cambiamento pratico che qualcuno può usare. Quest mantiene ferma la lampada per il controllo finale.\n\nSigh: \"Prova il cancello adesso.\"",
+        "Quando Sigh chiude il cancello riparato, i suoi tre fermi formano una sequenza familiare di colpi. Quiver nota la somiglianza, non una diagnosi. Sigh spiega che la ferrovia utilizzava lo stesso tipo di chiusura.\n\nQuiver: \"Come i tre tocchi di Rain. Un indizio, forse, non una prova.\"",
+        "Una volta passati i passeggeri, Sigh ritorna in ufficio. Il suono simile a quello della ferrovia lo porta a un vecchio biglietto. Una volta raggiunse il cancello della stazione troppo tardi per salutare un amico in partenza. Nova ascolta la persona che racconta la storia, non la sua riproduzione.\n\nSigh: \"Sono arrivato al cancello troppo tardi. Il treno stava già partendo.\"",
+        "Sigh ritorna quindi ai registri di servizio per cui sono venuti i viaggiatori. La seconda lente è stata spedita in un laboratorio a Nacre. Parte del timbro del porto è sfocata, quindi Quest ne prende una copia per verificare la destinazione prima dell'imbarco.\n\nSigh: \"Questa è la ricevuta di spedizione. Conserva la copia; l'originale resta qui.\"",
+        "Quella sera a Meadowfold, Mend fissa il fermacavo esterno allentato della tromba acustica del prato prima che inizi la chiamata. Rain ha sentito solo le notizie generali dei viaggiatori: un vecchio addio, un'altra ricevuta, un altro posto dove chiedere.\n\nRain: \"La mancanza di qualcuno può riempire un'intera stanza.\""
+      ],
+      "introduction": "Wail ha confermato l'officina menzionata nei registri di Veyra. Allo sbarco del traghetto di Sigh, un cancello trascurato ritarda le ricerche. Ripararlo rivela un suono familiare, mentre un vecchio biglietto e una ricevuta di spedizione puntano verso due diverse parti del mistero.",
+      "title": "Le scuse con le mani"
+    },
+    "ja": {
+      "altTexts": [
+        "翌朝、Quest は Sigh の渡船の工房に到着します。歩行者用の門は引っかかって開かなくなり、2人の乗客が手すりの後ろで安全に待っている。領収書を見つける前に、Sigh は先延ばしにしていた修理に取り組まなければなりません。",
+        "Quest は講義ではなくランプを提供します。 Sigh は、砂が詰まったラッチを示します。Questは明かりを支え、この門をよく知るSighが修理できるよう手伝います。",
+        "Sigh は砂を取り除き、ラッチの移動をチェックします。謝罪は、誰かが利用できる実際的な変化になりました。 Quest は最終チェックのためにランプを安定させます。",
+        "Sigh が修理されたゲートを閉じると、留め金が三つの刻みを通り、聞き覚えのあるノックのリズムを刻みます。 Quiver は、診断ではなく、類似性に気づきました。 Sigh は、鉄道でも同じ種類のラッチが使用されていたと説明しています。",
+        "乗客が通過すると、Sigh はオフィスに戻ります。鉄道のような音を聞くと、彼は古い切符を思い出します。彼はかつて駅の改札に到着するのが遅すぎて、出発する友人に別れを告げることができなかった。 Novaが聞いているのは記録の再生ではなく、その出来事を経験したSigh自身の話です。",
+        "その後、Sigh は旅行者が求めていたサービス記録に戻ります。適合するレンズはNacreの工房に送られました。港の印の一部がぼやけているので、Questは搭乗前に目的地を確認するためにコピーを取ります。",
+        "その夜、Meadowfold では、通話が始まる前に、Mend が草原の通話ホーンの外側のケーブルを留める、緩んだクリップを固定します。 Rain は、旅行者の一般的なニュースしか聞いていません。古い別れ、別の領収書、別の場所での質問です。"
+      ],
+      "captions": [
+        "翌朝、Quest は Sigh の渡船の工房に到着します。歩行者用の門は引っかかって開かなくなり、2人の乗客が手すりの後ろで安全に待っている。領収書を見つける前に、Sigh は先延ばしにしていた修理に取り組まなければなりません。\n\nSigh: 「昨日それを直すつもりだったんです。」",
+        "Quest は講義ではなくランプを提供します。 Sigh は、砂が詰まったラッチを示します。Questは明かりを支え、この門をよく知るSighが修理できるよう手伝います。\n\nQuest: 「光が必要な場所を教えてください。」",
+        "Sigh は砂を取り除き、ラッチの移動をチェックします。謝罪は、誰かが利用できる実際的な変化になりました。 Quest は最終チェックのためにランプを安定させます。\n\nSigh: 「今すぐゲートを試してください。」",
+        "Sigh が修理されたゲートを閉じると、留め金が三つの刻みを通り、聞き覚えのあるノックのリズムを刻みます。 Quiver は、診断ではなく、類似性に気づきました。 Sigh は、鉄道でも同じ種類のラッチが使用されていたと説明しています。\n\nQuiver: 「Rain の 三度のノックのように。証拠ではなく、手がかりかもしれません。」",
+        "乗客が通過すると、Sigh はオフィスに戻ります。鉄道のような音を聞くと、彼は古い切符を思い出します。彼はかつて駅の改札に到着するのが遅すぎて、出発する友人に別れを告げることができなかった。 Novaが聞いているのは記録の再生ではなく、その出来事を経験したSigh自身の話です。\n\nSigh: 「ゲートに着くのが遅すぎました。電車はもう出発していました。」",
+        "その後、Sigh は旅行者が求めていたサービス記録に戻ります。適合するレンズはNacreの工房に送られました。港の印の一部がぼやけているので、Questは搭乗前に目的地を確認するためにコピーを取ります。\n\nSigh: 「これは転送受領書です。コピーを保管してください。原本はここにあります。」",
+        "その夜、Meadowfold では、通話が始まる前に、Mend が草原の通話ホーンの外側のケーブルを留める、緩んだクリップを固定します。 Rain は、旅行者の一般的なニュースしか聞いていません。古い別れ、別の領収書、別の場所での質問です。\n\nRain: 「誰かを恋しく思う気持ちで、部屋いっぱいになることもありますね。」"
+      ],
+      "introduction": "Wailは、Veyraの記録に記載されている工房を確認しました。 Sigh のフェリー乗り場では、修理を先延ばしにしていた門により捜索が遅れています。それを修復すると、聞き覚えのある音が明らかになり、古い切符と転送伝票が謎の 2 つの異なる部分を示しています。",
+      "title": "手を使った謝罪"
+    },
+    "ko": {
+      "altTexts": [
+        "다음날 아침 Quest는 Sigh의 페리 작업장에 도착합니다. 보행자 게이트는 막혔고 두 명의 승객이 난간 뒤에서 안전하게 기다리고 있습니다. Sigh는 영수증을 찾기 전에 그동안 미뤄왔던 수리 작업을 수행해야 합니다.",
+        "Quest는 강의가 아닌 램프를 제공합니다. Sigh는 모래가 박힌 걸쇠를 나타냅니다. Quest는 빛을 비추며, 이 문을 잘 아는 Sigh가 직접 수리할 수 있도록 돕습니다.",
+        "Sigh는 모래를 제거하고 래치의 이동을 확인합니다. 사과는 누군가가 활용할 수 있는 실질적인 변화가 됐다. Quest는 최종 점검을 위해 램프를 안정적으로 유지합니다.",
+        "Sigh가 수리된 게이트를 닫으면 걸쇠가 세 홈을 지나며 익숙한 두드림 소리를 냅니다. Quiver는 진단이 아닌 유사점을 발견합니다. Sigh는 철도가 동일한 종류의 걸쇠를 사용했다고 설명합니다.",
+        "승객이 통과하면 Sigh가 사무실로 돌아옵니다. 철도 출입문의 소리를 닮은 울림에, Sigh는 오래된 기차표를 떠올립니다. 그는 한 번은 출발하는 친구에게 작별 인사를 하기에는 너무 늦게 역 게이트에 도착했습니다. Nova는 기록을 재생해 듣는 것이 아니라, 그 일을 겪은 Sigh의 이야기를 직접 듣습니다.",
+        "그런 다음 Sigh는 여행자가 원하는 서비스 기록으로 돌아갑니다. 짝이 되는 렌즈는 Nacre의 공방으로 보내졌습니다. 항구 스탬프의 일부가 흐릿하므로 Quest는 탑승 전 목적지를 확인하기 위해 사본을 찍습니다.",
+        "그날 저녁 Meadowfold에서 Mend는 통화가 시작되기 전에 초원 통화용 나팔의 느슨한 외부 케이블 클립을 고정했습니다. Rain은 여행자의 일반적인 소식만 들었습니다: 오래된 작별 인사, 또 다른 영수증, 또 다른 물어볼 곳."
+      ],
+      "captions": [
+        "다음날 아침 Quest는 Sigh의 페리 작업장에 도착합니다. 보행자 게이트는 막혔고 두 명의 승객이 난간 뒤에서 안전하게 기다리고 있습니다. Sigh는 영수증을 찾기 전에 그동안 미뤄왔던 수리 작업을 수행해야 합니다.\n\nSigh: \"어제 고치려고 했어요.\"",
+        "Quest는 강의가 아닌 램프를 제공합니다. Sigh는 모래가 박힌 걸쇠를 나타냅니다. Quest는 빛을 비추며, 이 문을 잘 아는 Sigh가 직접 수리할 수 있도록 돕습니다.\n\nQuest: \"조명이 필요한 곳을 보여주세요.\"",
+        "Sigh는 모래를 제거하고 래치의 이동을 확인합니다. 사과는 누군가가 활용할 수 있는 실질적인 변화가 됐다. Quest는 최종 점검을 위해 램프를 안정적으로 유지합니다.\n\nSigh: \"지금 게이트를 시험해 보세요.\"",
+        "Sigh가 수리된 게이트를 닫으면 걸쇠가 세 홈을 지나며 익숙한 두드림 소리를 냅니다. Quiver는 진단이 아닌 유사점을 발견합니다. Sigh는 철도가 동일한 종류의 걸쇠를 사용했다고 설명합니다.\n\nQuiver: \"Rain의 세 번의 두드림과 같습니다. 아마도 증거가 아닌 단서일 것입니다.\"",
+        "승객이 통과하면 Sigh가 사무실로 돌아옵니다. 철도 출입문의 소리를 닮은 울림에, Sigh는 오래된 기차표를 떠올립니다. 그는 한 번은 출발하는 친구에게 작별 인사를 하기에는 너무 늦게 역 게이트에 도착했습니다. Nova는 기록을 재생해 듣는 것이 아니라, 그 일을 겪은 Sigh의 이야기를 직접 듣습니다.\n\nSigh: \"게이트에 너무 늦게 도착했어요. 기차는 이미 떠나고 있었어요.\"",
+        "그런 다음 Sigh는 여행자가 원하는 서비스 기록으로 돌아갑니다. 짝이 되는 렌즈는 Nacre의 공방으로 보내졌습니다. 항구 스탬프의 일부가 흐릿하므로 Quest는 탑승 전 목적지를 확인하기 위해 사본을 찍습니다.\n\nSigh: \"이것은 전달 영수증입니다. 사본을 보관하세요. 원본은 여기에 있습니다.\"",
+        "그날 저녁 Meadowfold에서 Mend는 통화가 시작되기 전에 초원 통화용 나팔의 느슨한 외부 케이블 클립을 고정했습니다. Rain은 여행자의 일반적인 소식만 들었습니다: 오래된 작별 인사, 또 다른 영수증, 또 다른 물어볼 곳.\n\nRain: \"누군가를 그리워하는 마음이 방 안을 가득 채울 때도 있죠.\""
+      ],
+      "introduction": "Wail은 Veyra의 기록에 이름이 지정된 작업장을 확인했습니다. Sigh의 페리 선착장에서 방치된 게이트로 인해 수색이 지연됩니다. 그것을 수리하면 익숙한 소리가 들리고, 오래된 티켓과 전달 영수증은 미스터리의 두 가지 다른 부분을 가리킵니다.",
+      "title": "손으로 사과하기"
+    },
+    "pl": {
+      "altTexts": [
+        "Następnego ranka Quest dociera do warsztatu promowego Sigha. Brama dla pieszych jest zablokowana, a dwóch pasażerów czeka bezpiecznie za poręczą. Zanim Sigh odnajdzie paragony, musi zająć się naprawą, którą odkładał na później.",
+        "Quest oferuje lampę, a nie wykład. Sigh wskazuje zatrzask, w którym osiadł piasek. Pomoc w naprawie pozwala osobie znającej tę bramę pozostać osobą wykonującą pracę.",
+        "Sigh usuwa piasek i sprawdza ruch zatrzasku. Przeprosiny stały się praktyczną zmianą, z której ktoś może skorzystać. Quest utrzymuje lampę stabilnie podczas ostatecznej kontroli.",
+        "Kiedy Sigh zamyka naprawioną bramę, trzy zapadki w jej zatrzasku tworzą znajomą sekwencję kliknięć. Quiver zauważa podobieństwo, a nie diagnozę. Sigh wyjaśnia, że w kolei zastosowano ten sam rodzaj zatrzasku.",
+        "Po przejściu pasażerów Sigh wraca do biura. Dźwięk przypominający kolej żelazną prowadzi go do starego biletu. Pewnego razu dotarł do bramy stacji za późno, aby pożegnać się z odjeżdżającym przyjacielem. Nova słucha osoby opowiadającej historię, a nie jej powtórki.",
+        "Następnie Sigh powraca do zapisów serwisowych, po które przyszli podróżni. Druga soczewka trafiła do warsztatu w Nacre. Część stempla portowego jest zamazana, dlatego Quest wykonuje kopię, aby sprawdzić miejsce docelowe przed wejściem na pokład.",
+        "Tego wieczoru na łące Meadowfold Mend zabezpiecza luźny zewnętrzny zacisk kabla tuby polowej przed rozpoczęciem rozmowy. Rain słyszał tylko ogólne wiadomości podróżnych: stare pożegnanie, kolejne pokwitowanie, kolejne miejsce, w którym można zapytać."
+      ],
+      "captions": [
+        "Następnego ranka Quest dociera do warsztatu promowego Sigha. Brama dla pieszych jest zablokowana, a dwóch pasażerów czeka bezpiecznie za poręczą. Zanim Sigh odnajdzie paragony, musi zająć się naprawą, którą odkładał na później.\n\nSigh: „Chciałem to naprawić wczoraj.”",
+        "Quest oferuje lampę, a nie wykład. Sigh wskazuje zatrzask, w którym osiadł piasek. Pomoc w naprawie pozwala osobie znającej tę bramę pozostać osobą wykonującą pracę.\n\nQuest: „Pokaż mi, gdzie potrzebujesz światła.”",
+        "Sigh usuwa piasek i sprawdza ruch zatrzasku. Przeprosiny stały się praktyczną zmianą, z której ktoś może skorzystać. Quest utrzymuje lampę stabilnie podczas ostatecznej kontroli.\n\nSigh: „Wypróbuj bramę teraz.”",
+        "Kiedy Sigh zamyka naprawioną bramę, trzy zapadki w jej zatrzasku tworzą znajomą sekwencję kliknięć. Quiver zauważa podobieństwo, a nie diagnozę. Sigh wyjaśnia, że w kolei zastosowano ten sam rodzaj zatrzasku.\n\nQuiver: \"Jak trzy stuknięcia Raina. Być może wskazówka, a nie dowód.\"",
+        "Po przejściu pasażerów Sigh wraca do biura. Dźwięk przypominający kolej żelazną prowadzi go do starego biletu. Pewnego razu dotarł do bramy stacji za późno, aby pożegnać się z odjeżdżającym przyjacielem. Nova słucha osoby opowiadającej historię, a nie jej powtórki.\n\nSigh: \"Dotarłem do bramki za późno. Pociąg już odjeżdżał.\"",
+        "Następnie Sigh powraca do zapisów serwisowych, po które przyszli podróżni. Druga soczewka trafiła do warsztatu w Nacre. Część stempla portowego jest zamazana, dlatego Quest wykonuje kopię, aby sprawdzić miejsce docelowe przed wejściem na pokład.\n\nSigh: \"To jest potwierdzenie nadania. Zachowaj kopię, oryginał zostanie tutaj.\"",
+        "Tego wieczoru na łące Meadowfold Mend zabezpiecza luźny zewnętrzny zacisk kabla tuby polowej przed rozpoczęciem rozmowy. Rain słyszał tylko ogólne wiadomości podróżnych: stare pożegnanie, kolejne pokwitowanie, kolejne miejsce, w którym można zapytać.\n\nRain: „Tęsknota za kimś może wypełnić cały pokój”."
+      ],
+      "introduction": "Wail potwierdził warsztat wymieniony w dokumentach z miasta Veyra. Na przystani promowej Sigha zaniedbana brama opóźnia poszukiwania. Naprawa ujawnia znajomy dźwięk, a stary bilet i potwierdzenie nadania prowadzą do dwóch różnych części tajemnicy.",
+      "title": "Przeprosiny rękami"
+    },
+    "pt": {
+      "altTexts": [
+        "Na manhã seguinte, Quest chega à oficina de balsas de Sigh. Seu portão de pedestres está preso, com dois passageiros esperando em segurança atrás da proteção. Antes de encontrar os recibos, Sigh deve realizar um reparo que vem adiando.",
+        "Quest oferece uma lâmpada, não uma palestra. Sigh indica a trava onde a areia se alojou. Ajudar na reparação permite que quem conhece este portão continue a ser a pessoa que faz o trabalho.",
+        "Sigh limpa a areia e verifica o curso da trava. O pedido de desculpas tornou-se uma mudança prática que alguém pode usar. Quest mantém a lâmpada estável para a verificação final.",
+        "Quando Sigh fecha o portão reparado, seus três ressaltos fazem uma sequência familiar de batidas. Quiver percebe a semelhança, não um diagnóstico. Sigh explica que a ferrovia utilizava o mesmo tipo de trava.",
+        "Após a passagem dos passageiros, Sigh retorna ao escritório. O som de uma ferrovia o leva a uma passagem antiga. Certa vez, ele chegou tarde demais ao portão da estação para se despedir de um amigo que estava partindo. Nova ouve a pessoa que conta a história, não uma repetição dela.",
+        "Sigh então retorna aos registros de serviço pelos quais os viajantes vieram. A lente correspondente foi enviada para uma oficina em Nacre. Parte do carimbo do porto está borrada, então Quest tira uma cópia para verificar o destino antes do embarque.",
+        "Naquela noite, em Meadowfold, Mend prende o clipe externo solto do cabo da corneta acústica do prado antes do início da chamada. Rain ouviu apenas as notícias gerais dos viajantes: uma velha despedida, outro recibo, outro lugar para perguntar."
+      ],
+      "captions": [
+        "Na manhã seguinte, Quest chega à oficina de balsas de Sigh. Seu portão de pedestres está preso, com dois passageiros esperando em segurança atrás da proteção. Antes de encontrar os recibos, Sigh deve realizar um reparo que vem adiando.\n\nSigh: “Eu pretendia consertar isso ontem.”",
+        "Quest oferece uma lâmpada, não uma palestra. Sigh indica a trava onde a areia se alojou. Ajudar na reparação permite que quem conhece este portão continue a ser a pessoa que faz o trabalho.\n\nQuest: “Mostre-me onde você precisa de luz.”",
+        "Sigh limpa a areia e verifica o curso da trava. O pedido de desculpas tornou-se uma mudança prática que alguém pode usar. Quest mantém a lâmpada estável para a verificação final.\n\nSigh: “Experimente o portão agora.”",
+        "Quando Sigh fecha o portão reparado, seus três ressaltos fazem uma sequência familiar de batidas. Quiver percebe a semelhança, não um diagnóstico. Sigh explica que a ferrovia utilizava o mesmo tipo de trava.\n\nQuiver: \"Como os três toques de Rain. Uma pista, talvez - não uma prova.\"",
+        "Após a passagem dos passageiros, Sigh retorna ao escritório. O som de uma ferrovia o leva a uma passagem antiga. Certa vez, ele chegou tarde demais ao portão da estação para se despedir de um amigo que estava partindo. Nova ouve a pessoa que conta a história, não uma repetição dela.\n\nSigh: \"Cheguei tarde demais ao portão. O trem já estava partindo.\"",
+        "Sigh então retorna aos registros de serviço pelos quais os viajantes vieram. A lente correspondente foi enviada para uma oficina em Nacre. Parte do carimbo do porto está borrada, então Quest tira uma cópia para verificar o destino antes do embarque.\n\nSigh: \"Este é o recibo de encaminhamento. Guarde a cópia; o original fica aqui.\"",
+        "Naquela noite, em Meadowfold, Mend prende o clipe externo solto do cabo da corneta acústica do prado antes do início da chamada. Rain ouviu apenas as notícias gerais dos viajantes: uma velha despedida, outro recibo, outro lugar para perguntar.\n\nRain: “A falta de alguém pode encher uma sala inteira.”"
+      ],
+      "introduction": "Wail confirmou a oficina nomeada nos registros de Veyra. No cais da balsa de Sigh, um portão negligenciado atrasa a busca. Consertá-lo revela um som familiar, enquanto um bilhete antigo e um recibo de encaminhamento apontam para duas partes diferentes do mistério.",
+      "title": "Um pedido de desculpas com as mãos"
+    },
+    "ru": {
+      "altTexts": [
+        "На следующее утро Quest достигает паромной мастерской Sigh. Его пешеходные ворота застряли, а за перилами благополучно ждут два пассажира. Прежде чем найти квитанции, Sigh должен заняться ремонтом, который он откладывал.",
+        "Quest предлагает лампу, а не лекцию. Sigh указывает на защелку, в которой застрял песок. Помощь в ремонте позволяет человеку, знающему эти ворота, оставаться человеком, выполняющим работу.",
+        "Sigh удаляет песок и проверяет ход защелки. Извинения стали практическим изменением, которое кто-то может использовать. Quest сохраняет лампу неподвижной для окончательной проверки.",
+        "Когда Sigh закрывает отремонтированные ворота, три паза в защелке издают знакомую последовательность постукиваний. Quiver отмечает сходство, а не диагноз. Sigh объясняет, что на железной дороге использовалась такая же защелка.",
+        "Как только пассажиры пройдут, Sigh возвращается в офис. Звук, похожий на железнодорожный, приводит его к старому билету. Однажды он добрался до ворот вокзала слишком поздно, чтобы попрощаться с уходящим другом. Nova слушает человека, рассказывающего историю, а не воспроизводит ее.",
+        "Затем Sigh возвращается к служебным записям, за которыми пришли путешественники. Вторая линза отправилась в мастерскую в Nacre. Часть штампа порта размыта, поэтому Quest снимает копию, чтобы проверить пункт назначения перед посадкой.",
+        "В тот вечер на лугу Meadowfold Mend закрепляет незакрепленный внешний зажим кабеля полевого рупора перед началом разговора. Rain слышал только общие новости путешественников: старое прощание, еще один чек, еще одно место, где можно спросить."
+      ],
+      "captions": [
+        "На следующее утро Quest достигает паромной мастерской Sigh. Его пешеходные ворота застряли, а за перилами благополучно ждут два пассажира. Прежде чем найти квитанции, Sigh должен заняться ремонтом, который он откладывал.\n\nSigh: «Я хотел это исправить вчера».",
+        "Quest предлагает лампу, а не лекцию. Sigh указывает на защелку, в которой застрял песок. Помощь в ремонте позволяет человеку, знающему эти ворота, оставаться человеком, выполняющим работу.\n\nQuest: «Покажи мне, где тебе нужен свет».",
+        "Sigh удаляет песок и проверяет ход защелки. Извинения стали практическим изменением, которое кто-то может использовать. Quest сохраняет лампу неподвижной для окончательной проверки.\n\nSigh: «Теперь попробуй открыть ворота».",
+        "Когда Sigh закрывает отремонтированные ворота, три паза в защелке издают знакомую последовательность постукиваний. Quiver отмечает сходство, а не диагноз. Sigh объясняет, что на железной дороге использовалась такая же защелка.\n\nQuiver: \"Как три стука Rain. Возможно, это подсказка, но не доказательство\".",
+        "Как только пассажиры пройдут, Sigh возвращается в офис. Звук, похожий на железнодорожный, приводит его к старому билету. Однажды он добрался до ворот вокзала слишком поздно, чтобы попрощаться с уходящим другом. Nova слушает человека, рассказывающего историю, а не воспроизводит ее.\n\nSigh: \"Я добрался до ворот слишком поздно. Поезд уже уходил.\"",
+        "Затем Sigh возвращается к служебным записям, за которыми пришли путешественники. Вторая линза отправилась в мастерскую в Nacre. Часть штампа порта размыта, поэтому Quest снимает копию, чтобы проверить пункт назначения перед посадкой.\n\nSigh: \"Это квитанция о пересылке. Копию сохраните, оригинал останется здесь\".",
+        "В тот вечер на лугу Meadowfold Mend закрепляет незакрепленный внешний зажим кабеля полевого рупора перед началом разговора. Rain слышал только общие новости путешественников: старое прощание, еще один чек, еще одно место, где можно спросить.\n\nRain: «Тоска по кому-то может заполнить целую комнату»."
+      ],
+      "introduction": "Wail подтвердил мастерскую, указанную в записях Veyra. На паромной пристани Sigh поиск задерживается из-за ворот, ремонт которых долго откладывали. При ремонте ворот обнаруживается знакомый звук, а старый билет и квитанция о пересылке указывают на две разные части тайны.",
+      "title": "Извинения руками"
+    },
+    "tr": {
+      "altTexts": [
+        "Ertesi sabah Quest, Sigh'ın feribot atölyesine ulaşır. Yaya kapısı sıkıştı ve iki yolcu korkuluğun arkasında güvenle bekliyor. Makbuzları bulmadan önce Sigh'ın ertelediği bir onarımla ilgilenmesi gerekiyor.",
+        "Quest bir ders değil, bir lamba sunuyor. Sigh kumun yerleştiği mandalı gösterir. Onarıma yardım etmek, bu kapıyı bilen kişinin işi yapan kişi olarak kalmasını sağlar.",
+        "Sigh kumu temizler ve mandalın hareketini kontrol eder. Özür, birinin kullanabileceği pratik bir değişiklik haline geldi. Quest, son kontrol için lambayı sabit tutar.",
+        "Sigh onarılan kapıyı kapattığında, mandalın üç çentiği tanıdık bir tıklama dizisi oluşturuyor. Quiver bu sesin bir benzerlik olduğunu, henüz bir açıklama olmadığını belirtir. Sigh, demiryolunun da aynı tür mandalı kullandığını açıklıyor.",
+        "Yolcular geçtikten sonra Sigh ofise geri döner. Demiryolunu andıran ses onu eski bir bilete getiriyor. Bir defasında istasyon kapısına, ayrılan bir arkadaşına veda etmek için çok geç ulaşmıştı. Nova hikayenin tekrarını değil, anlatan kişiyi dinler.",
+        "Sigh daha sonra yolcuların geldiği servis kayıtlarına geri döner. Eşleşen lens, Nacre'deki bir atölyeye gönderildi. Liman damgasının bir kısmı bulanık olduğundan Quest, feribota binmeden önce varış yerini kontrol ettirmek için bir kopyasını alıyor.",
+        "O akşam Meadowfold çayırında Mend, çağrı başlamadan önce çayırdaki konuşma hunisinin gevşek dış kablo klipsini sabitliyor. Rain yalnızca gezginlerin genel haberlerini duydu: eski bir veda, başka bir makbuz, sorulacak başka bir yer."
+      ],
+      "captions": [
+        "Ertesi sabah Quest, Sigh'ın feribot atölyesine ulaşır. Yaya kapısı sıkıştı ve iki yolcu korkuluğun arkasında güvenle bekliyor. Makbuzları bulmadan önce Sigh'ın ertelediği bir onarımla ilgilenmesi gerekiyor.\n\nSigh: \"Bunu dün düzeltmeyi düşünüyordum.\"",
+        "Quest bir ders değil, bir lamba sunuyor. Sigh kumun yerleştiği mandalı gösterir. Onarıma yardım etmek, bu kapıyı bilen kişinin işi yapan kişi olarak kalmasını sağlar.\n\nQuest: \"Bana ışığa ihtiyaç duyduğun yeri göster.\"",
+        "Sigh kumu temizler ve mandalın hareketini kontrol eder. Özür, birinin kullanabileceği pratik bir değişiklik haline geldi. Quest, son kontrol için lambayı sabit tutar.\n\nSigh: \"Şimdi kapıyı deneyin.\"",
+        "Sigh onarılan kapıyı kapattığında, mandalın üç çentiği tanıdık bir tıklama dizisi oluşturuyor. Quiver bu sesin bir benzerlik olduğunu, henüz bir açıklama olmadığını belirtir. Sigh, demiryolunun da aynı tür mandalı kullandığını açıklıyor.\n\nQuiver: \"Rain'in üç dokunuşu gibi. Belki bir ipucu, kanıt değil.\"",
+        "Yolcular geçtikten sonra Sigh ofise geri döner. Demiryolunu andıran ses onu eski bir bilete getiriyor. Bir defasında istasyon kapısına, ayrılan bir arkadaşına veda etmek için çok geç ulaşmıştı. Nova hikayenin tekrarını değil, anlatan kişiyi dinler.\n\nSigh: \"Kapıya çok geç ulaştım. Tren çoktan kalkıyordu.\"",
+        "Sigh daha sonra yolcuların geldiği servis kayıtlarına geri döner. Eşleşen lens, Nacre'deki bir atölyeye gönderildi. Liman damgasının bir kısmı bulanık olduğundan Quest, feribota binmeden önce varış yerini kontrol ettirmek için bir kopyasını alıyor.\n\nSigh: \"Bu, sevk makbuzudur. Kopyasını saklayın; orijinali burada kalacak.\"",
+        "O akşam Meadowfold çayırında Mend, çağrı başlamadan önce çayırdaki konuşma hunisinin gevşek dış kablo klipsini sabitliyor. Rain yalnızca gezginlerin genel haberlerini duydu: eski bir veda, başka bir makbuz, sorulacak başka bir yer.\n\nRain: \"Birini özlemek bütün odayı doldurabilir.\""
+      ],
+      "introduction": "Wail, Veyra kayıtlarında adı geçen atölyeyi doğruladı. Sigh'ın feribot iskelesinde ihmal edilen bir kapı, aramayı geciktirir. Tamir edildiğinde tanıdık bir ses ortaya çıkarken, eski bir bilet ve sevk makbuzu gizemin iki farklı kısmına işaret eder.",
+      "title": "Ellerle Özür"
+    },
+    "vi": {
+      "altTexts": [
+        "Sáng hôm sau, Quest đến xưởng phà của Sigh. Cổng dành cho người đi bộ của nó bị kẹt, có hai hành khách đang đợi an toàn phía sau lan can. Trước khi tìm thấy biên lai, Sigh phải tiến hành sửa chữa mà anh đã trì hoãn.",
+        "Quest cung cấp một chiếc đèn chứ không phải một bài giảng. Sigh chỉ chỗ sạn mắc trong chốt. Giúp sửa chữa cho phép người biết cổng này vẫn là người thực hiện công việc.",
+        "Sigh làm sạch hạt sạn và kiểm tra hành trình của chốt. Lời xin lỗi đã trở thành một sự thay đổi thiết thực mà ai đó có thể sử dụng. Quest giữ đèn ổn định cho lần kiểm tra cuối cùng.",
+        "Khi Sigh đóng cổng đã sửa chữa, ba nấc trên chốt sẽ tạo ra một chuỗi tiếng gõ quen thuộc. Quiver nhận thấy sự giống nhau chứ không phải là chẩn đoán. Sigh giải thích rằng đường sắt đã sử dụng loại chốt tương tự.",
+        "Sau khi hành khách đã đi qua, Sigh quay trở lại văn phòng. Âm thanh giống như đường sắt đưa anh đến tấm vé cũ. Có lần anh đến cổng nhà ga quá muộn để có thể nói lời tạm biệt với một người bạn sắp ra đi. Nova lắng nghe người kể câu chuyện chứ không phải phát lại câu chuyện đó.",
+        "Sigh sau đó quay lại hồ sơ dịch vụ mà khách du lịch đã tìm kiếm. Thấu kính phù hợp đã được chuyển đến xưởng ở Nacre. Một phần dấu của bến cảng bị mờ nên Quest lấy một bản sao để kiểm tra điểm đến trước khi lên phà.",
+        "Tối hôm đó tại Meadowfold, Mend cố định kẹp cáp bên ngoài lỏng lẻo của loa ngoài đồng cỏ trước khi cuộc gọi của họ bắt đầu. Rain chỉ nghe được tin tức chung chung của lữ khách: một lời chia tay cũ, một biên nhận khác, một nơi khác để hỏi."
+      ],
+      "captions": [
+        "Sáng hôm sau, Quest đến xưởng phà của Sigh. Cổng dành cho người đi bộ của nó bị kẹt, có hai hành khách đang đợi an toàn phía sau lan can. Trước khi tìm thấy biên lai, Sigh phải tiến hành sửa chữa mà anh đã trì hoãn.\n\nSigh: “Hôm qua tôi đã định sửa cái đó.”",
+        "Quest cung cấp một chiếc đèn chứ không phải một bài giảng. Sigh chỉ chỗ sạn mắc trong chốt. Giúp sửa chữa cho phép người biết cổng này vẫn là người thực hiện công việc.\n\nQuest: “Hãy chỉ cho tôi nơi bạn cần ánh sáng.”",
+        "Sigh làm sạch hạt sạn và kiểm tra hành trình của chốt. Lời xin lỗi đã trở thành một sự thay đổi thiết thực mà ai đó có thể sử dụng. Quest giữ đèn ổn định cho lần kiểm tra cuối cùng.\n\nSigh: “Thử cổng ngay bây giờ.”",
+        "Khi Sigh đóng cổng đã sửa chữa, ba nấc trên chốt sẽ tạo ra một chuỗi tiếng gõ quen thuộc. Quiver nhận thấy sự giống nhau chứ không phải là chẩn đoán. Sigh giải thích rằng đường sắt đã sử dụng loại chốt tương tự.\n\nQuiver: \"Giống như ba tiếng gõ mà Rain nghe thấy. Một manh mối, có lẽ—không phải bằng chứng.\"",
+        "Sau khi hành khách đã đi qua, Sigh quay trở lại văn phòng. Âm thanh giống như đường sắt đưa anh đến tấm vé cũ. Có lần anh đến cổng nhà ga quá muộn để có thể nói lời tạm biệt với một người bạn sắp ra đi. Nova lắng nghe người kể câu chuyện chứ không phải phát lại câu chuyện đó.\n\nSigh: \"Tôi đến cổng quá muộn. Tàu đã chạy mất rồi.\"",
+        "Sigh sau đó quay lại hồ sơ dịch vụ mà khách du lịch đã tìm kiếm. Thấu kính phù hợp đã được chuyển đến xưởng ở Nacre. Một phần dấu của bến cảng bị mờ nên Quest lấy một bản sao để kiểm tra điểm đến trước khi lên phà.\n\nSigh: \"Đây là biên lai chuyển tiếp của nó. Hãy giữ bản sao, bản gốc vẫn ở đây.\"",
+        "Tối hôm đó tại Meadowfold, Mend cố định kẹp cáp bên ngoài lỏng lẻo của loa ngoài đồng cỏ trước khi cuộc gọi của họ bắt đầu. Rain chỉ nghe được tin tức chung chung của lữ khách: một lời chia tay cũ, một biên nhận khác, một nơi khác để hỏi.\n\nRain: “Nỗi nhớ một người có thể choán đầy cả căn phòng.”"
+      ],
+      "introduction": "Wail đã xác nhận xưởng có tên trong hồ sơ của Veyra. Tại bến phà Sigh, một cánh cổng chưa được sửa đã làm trì hoãn việc tìm kiếm. Sửa chữa nó sẽ phát ra âm thanh quen thuộc, trong khi một tấm vé cũ và biên nhận chuyển tiếp chỉ ra hai phần khác nhau của bí ẩn.",
+      "title": "Lời xin lỗi bằng tay"
+    },
+    "zh": {
+      "altTexts": [
+        "第二天一早，Quest到达Sigh的摆渡车间。它的人行大门被卡住了，两名乘客在栏杆后面安全地等待着。在找到收据之前，Sigh 必须处理他一直拖延的维修工作。",
+        "Quest提供的是一盏灯，没有站在一旁说教。 Sigh 指出门闩里卡着砂砾的地方。Quest提供照明，让熟悉这扇门的Sigh自己完成修理。",
+        "Sigh 清除砂砾并检查闩锁的行程。道歉已经成为人们可以利用的实际改变。 Quest 使灯保持稳定以进行最终检查。",
+        "当 Sigh 关闭修复后的门时，门闩经过三个卡位，发出熟悉的敲击节奏。 Quiver 注意到的是相似之处，而不是诊断。 Sigh解释说，铁路使用的是同一种插销。",
+        "乘客通过后，Sigh 返回办公室。与铁路闸门相似的声音，让他想起一张旧车票。有一次，他到了车站门口，来不及向即将离去的朋友道别。 Nova 听的是人讲故事，而不是重播。",
+        "Sigh 然后返回旅客前来查找的服务记录。配套镜片继续前往Nacre的车间。港印部分模糊，Quest 需要复印一份，以便在登船前检查目的地。",
+        "那天晚上，在 Meadowfold，Mend 在通话开始前固定了草地通话喇叭松动的外部电缆夹。 Rain只听到了旅行者的一般消息：一次旧的告别，另一张收据，另一个询问的地方。"
+      ],
+      "captions": [
+        "第二天一早，Quest到达Sigh的摆渡车间。它的人行大门被卡住了，两名乘客在栏杆后面安全地等待着。在找到收据之前，Sigh 必须处理他一直拖延的维修工作。\n\nSigh：“我昨天就想把它修好。”",
+        "Quest提供的是一盏灯，没有站在一旁说教。 Sigh 指出门闩里卡着砂砾的地方。Quest提供照明，让熟悉这扇门的Sigh自己完成修理。\n\nQuest：“告诉我哪里需要光。”",
+        "Sigh 清除砂砾并检查闩锁的行程。道歉已经成为人们可以利用的实际改变。 Quest 使灯保持稳定以进行最终检查。\n\nSigh：“现在试试门。”",
+        "当 Sigh 关闭修复后的门时，门闩经过三个卡位，发出熟悉的敲击节奏。 Quiver 注意到的是相似之处，而不是诊断。 Sigh解释说，铁路使用的是同一种插销。\n\nQuiver：“就像 Rain 的三击一样。也许是一个线索，但不是证据。”",
+        "乘客通过后，Sigh 返回办公室。与铁路闸门相似的声音，让他想起一张旧车票。有一次，他到了车站门口，来不及向即将离去的朋友道别。 Nova 听的是人讲故事，而不是重播。\n\nSigh：“我到门口太晚了，火车已经开走了。”",
+        "Sigh 然后返回旅客前来查找的服务记录。配套镜片继续前往Nacre的车间。港印部分模糊，Quest 需要复印一份，以便在登船前检查目的地。\n\nSigh：“这是转发回执，保留副本，原件留在这里。”",
+        "那天晚上，在 Meadowfold，Mend 在通话开始前固定了草地通话喇叭松动的外部电缆夹。 Rain只听到了旅行者的一般消息：一次旧的告别，另一张收据，另一个询问的地方。\n\nRain：“想念一个人可以填满整个房间。”"
+      ],
+      "introduction": "Wail已确认Veyra记录中指定的车间。在 Sigh 的渡轮码头，一个被忽视的大门延误了搜索。修复它后会发出熟悉的声音，而一张旧票和一张转发收据则指向了这个谜团的两个不同部分。",
+      "title": "用手道歉"
+    }
+  },
+  "number": 14,
+  "panels": [
+    {
+      "altText": "The following morning, Quest reaches Sigh's ferry workshop. Its pedestrian gate is stuck, with two passengers waiting safely behind the rail. Before finding the receipts, Sigh must attend to a repair he has been putting off.",
+      "image": "N01E14P01.png"
+    },
+    {
+      "altText": "Quest offers a lamp, not a lecture. Sigh indicates the latch where grit has lodged. Helping with the repair lets the person who knows this gate remain the person doing the work.",
+      "image": "N01E14P02.png"
+    },
+    {
+      "altText": "Sigh clears the grit and checks the latch's travel. The apology has become a practical change someone can use. Quest keeps the lamp steady for the final check.",
+      "image": "N01E14P03.png"
+    },
+    {
+      "altText": "When Sigh closes the repaired gate, its three detents make a familiar sequence of taps. Quiver notices the resemblance, not a diagnosis. Sigh explains that the railway used the same kind of latch.",
+      "image": "N01E14P04.png"
+    },
+    {
+      "altText": "Once the passengers have passed through, Sigh returns to the office. The railway-like sound brings him to an old ticket. He once reached a station gate too late to say goodbye to a departing friend. Nova listens to the person telling the story, not a replay of it.",
+      "image": "N01E14P05.png"
+    },
+    {
+      "altText": "Sigh then returns to the service records the travelers came for. The matching lens went onward to a workshop in Nacre. Part of the port stamp is blurred, so Quest takes a copy to have the destination checked before boarding.",
+      "image": "N01E14P06.png"
+    },
+    {
+      "altText": "That evening at Meadowfold, Mend secures the field horn's loose outer cable clip before their call begins. Rain has heard only the travelers' general news: an old farewell, another receipt, another place to ask.",
+      "image": "N01E14P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

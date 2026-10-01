@@ -1,0 +1,439 @@
+{
+  "id": "N01E25",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "في صباح اليوم التالي، بعد عمليات فحص جديدة والتأكد مجددًا من موافقة Rain، وجد القارئ المقترن تسجيلًا واحدًا داخل Rain: تسجيل ذكرى Sigh الحزينة الذي يعيد نفسه باستمرار. تستمر النقرات الثلاث في التكرار، مما يؤدي إلى زيادة ضغط التمدد الذي أدى إلى نمو Rain. هذا التكرار الضار هو السم السحري، وليس الحزن نفسه.",
+        "توضح Nova أن التسجيل انتهى قبل الرسالة المطمئنة التي تلقاها Sigh. ليس من الضروري أن يشاهد Rain الوداع القديم مرة أخرى. عثر الجهاز على نسخة تالفة، وسأله أصدقاؤه عما إذا كان لا يزال يريد إطلاقها من داخله.",
+        "يمد Rain كفّيه المضمومتين كما فعل عند المقعد. لكنه يترك الضوء يرحل هذه المرة. يوجّه المسار الضوء الداكن الوحيد إلى جهاز الاستقبال المغلق. لم يعد التسجيل محصورًا داخل Rain، فتوقف ازدياد الضغط الذي يكبّره، لكنه لم يعد إلى حجمه المعتاد بعد.",
+        "بمجرد عزل التسجيل بالكامل، يستخدم Quest المكبس المزود بغطاء واقٍ داخل جهاز الاستقبال المغلق. تنكسر النسخة المصنعة وينطفئ ضوءها الأزرق. جهاز القراءة مطفأ. تبقى فقط بقايا باهتة خلف الزجاج.",
+        "خلال الدقائق القليلة التالية الهادئة، يعود الجسم المرن لـ Rain إلى حجمه الطبيعي. ينتظر أصدقاؤه بجانبه حتى يكتمل التغيير. إنه لا يزال Rain، بنفس الدمعة المألوفة وقادرًا على الشعور بأكثر من إحساس في الوقت نفسه.",
+        "وبعد أسبوع واحد، لم يعد النمو. يرتدي Rain طوقه الأصلي وزجاجته الفارغة مرة أخرى، ويعود كوبه المفضل بين يديه. لا تزال بعض الأمسيات صعبة، لكنه وأصدقاؤه يواصلون تخصيص الوقت لبعضهم البعض.",
+        "في وقت لاحق من ذلك اليوم، بعد رحلة عربة عادية يقودها Bash، يعود Rain وNova إلى مقعدهما في Mosaic. القناة والشق والمساحة بجانب Rain مألوفة. يجلسون حيث بدأت القصة."
+      ],
+      "captions": [
+        "في صباح اليوم التالي، بعد عمليات فحص جديدة والتأكد مجددًا من موافقة Rain، وجد القارئ المقترن تسجيلًا واحدًا داخل Rain: تسجيل ذكرى Sigh الحزينة الذي يعيد نفسه باستمرار. تستمر النقرات الثلاث في التكرار، مما يؤدي إلى زيادة ضغط التمدد الذي أدى إلى نمو Rain. هذا التكرار الضار هو السم السحري، وليس الحزن نفسه.\n\nRain: \"الضوء من المقعد. اعتقدت أنه قد انطفأ.\"",
+        "توضح Nova أن التسجيل انتهى قبل الرسالة المطمئنة التي تلقاها Sigh. ليس من الضروري أن يشاهد Rain الوداع القديم مرة أخرى. عثر الجهاز على نسخة تالفة، وسأله أصدقاؤه عما إذا كان لا يزال يريد إطلاقها من داخله.\n\nNova: \"تلك اللحظة ليست كل قصة Sigh. هل ما زلت ترغب في إخراج هذه النسخة من داخلك؟\"\nRain: \"نعم. ابقي معي بينما أفعل ذلك.\"",
+        "يمد Rain كفّيه المضمومتين كما فعل عند المقعد. لكنه يترك الضوء يرحل هذه المرة. يوجّه المسار الضوء الداكن الوحيد إلى جهاز الاستقبال المغلق. لم يعد التسجيل محصورًا داخل Rain، فتوقف ازدياد الضغط الذي يكبّره، لكنه لم يعد إلى حجمه المعتاد بعد.\n\nRain: \"لست مضطرًا إلى حمله بعد الآن.\"",
+        "بمجرد عزل التسجيل بالكامل، يستخدم Quest المكبس المزود بغطاء واقٍ داخل جهاز الاستقبال المغلق. تنكسر النسخة المصنعة وينطفئ ضوءها الأزرق. جهاز القراءة مطفأ. تبقى فقط بقايا باهتة خلف الزجاج.\n\nQuest: \"لقد أُتلفت النسخة. لم يبق أي ضوء نشط.\"",
+        "خلال الدقائق القليلة التالية الهادئة، يعود الجسم المرن لـ Rain إلى حجمه الطبيعي. ينتظر أصدقاؤه بجانبه حتى يكتمل التغيير. إنه لا يزال Rain، بنفس الدمعة المألوفة وقادرًا على الشعور بأكثر من إحساس في الوقت نفسه.\n\nRain: \"أشعر بالحزن. وأشعر أنني أخفّ.\"\nMend: \"يمكنك الشعور بكليهما.\"",
+        "وبعد أسبوع واحد، لم يعد النمو. يرتدي Rain طوقه الأصلي وزجاجته الفارغة مرة أخرى، ويعود كوبه المفضل بين يديه. لا تزال بعض الأمسيات صعبة، لكنه وأصدقاؤه يواصلون تخصيص الوقت لبعضهم البعض.\n\nRain: \"لا تزال بعض الأمسيات صعبة.\"\nNova: \"أخبرنا. سنواصل قضاء الوقت معًا.\"",
+        "في وقت لاحق من ذلك اليوم، بعد رحلة عربة عادية يقودها Bash، يعود Rain وNova إلى مقعدهما في Mosaic. القناة والشق والمساحة بجانب Rain مألوفة. يجلسون حيث بدأت القصة.\n\nRain: \"نفس المكان غدًا؟\"\nNova: \"بالطبع.\""
+      ],
+      "introduction": "بعد ليلة من الراحة، أصبح Rain جاهزًا للبحث عن الضوء الصغير الذي وجده أسفل المقعد. يقوم الأصدقاء بفحص الجهاز وطلب الإذن منه مرة أخرى. إن البحث الطويل على وشك أن يصبح إجراءً صغيرًا تم اختياره بعناية.",
+      "title": "الذكرى التي حملها"
+    },
+    "bn": {
+      "altTexts": [
+        "পরদিন সকালে যন্ত্র আবার পরীক্ষা করে Rain-এর সম্মতি নেওয়া হয়। দুই লেন্সের পাঠযন্ত্র এবার Rain-এর ভেতরে একটি আবদ্ধ রেকর্ডিং খুঁজে পায়: Sigh-এর দুঃখের স্মৃতিটি বারবার চলছে। তিনটি টোকার পুনরাবৃত্তি শরীর বাড়ানোর চাপ তৈরি করছে। এই ক্ষতিকর পুনরাবৃত্তিই জাদুর বিষ, দুঃখ অনুভূতিটি নয়।",
+        "Nova বোঝায়, Sigh আশ্বাসের চিঠি পাওয়ার আগেই রেকর্ডিংটি শেষ হয়েছিল। Rain-কে পুরোনো বিদায়টি আবার দেখতে হবে না। যন্ত্র ক্ষতিগ্রস্ত একটি নকল খুঁজে পেয়েছে। সেটি বের করে দিতে সে এখনও রাজি কি না, বন্ধুরা জানতে চায়।",
+        "বেঞ্চের মতোই Rain দুই হাতের তালু বাটির মতো করে এগিয়ে দেয়। এবার সে আলোটি ছেড়ে দেয়। নির্দিষ্ট পথ ধরে একটিমাত্র গাঢ় আলো বন্ধ গ্রহণপাত্রে ঢোকে। রেকর্ডিং আর Rain-এর ভেতরে আটকে নেই, তাই শরীর বাড়ানোর নতুন চাপও হচ্ছে না। তবে সে এখনও আগের আকারে ফেরেনি।",
+        "রেকর্ডিং পুরোপুরি আলাদা হলে Quest বন্ধ গ্রহণপাত্রের ভেতরের সুরক্ষিত চাপযন্ত্র চালায়। তৈরি করা নকলটি ভেঙে যায়, নীল আলো নিভে যায়। পাঠযন্ত্র বন্ধ করা হয়। কাচের পিছনে শুধু নিষ্প্রভ অবশিষ্টাংশ থাকে।",
+        "পরের কয়েকটি শান্ত মিনিটে Rain-এর নমনীয় শরীর স্বাভাবিক আকারে ফিরে আসে। পরিবর্তন শেষ না হওয়া পর্যন্ত বন্ধুরা পাশে অপেক্ষা করে। সেই পরিচিত অশ্রুবিন্দু নিয়ে সে এখনও Rain। তার মনে একাধিক অনুভূতির জায়গা আছে।",
+        "এক সপ্তাহ পরেও শরীর আর বড় হয়নি। Rain আবার নিজের পুরোনো কলার আর খালি বোতল পরেছে। প্রিয় কাপটিও হাতে ফিরেছে। কিছু সন্ধ্যা এখনও কঠিন, কিন্তু বন্ধুরা একে অপরের জন্য সময় রাখে।",
+        "সেদিন পরে Bash-এর চালানো গাড়িতে সাধারণ একটি যাত্রা শেষে Rain আর Nova Mosaic-এর সেই বেঞ্চে ফেরে। খাল, খাঁজ, Rain-এর পাশের জায়গা—সব পরিচিত। যেখানে শুরু হয়েছিল, সেখানেই তারা বসে।"
+      ],
+      "captions": [
+        "পরদিন সকালে যন্ত্র আবার পরীক্ষা করে Rain-এর সম্মতি নেওয়া হয়। দুই লেন্সের পাঠযন্ত্র এবার Rain-এর ভেতরে একটি আবদ্ধ রেকর্ডিং খুঁজে পায়: Sigh-এর দুঃখের স্মৃতিটি বারবার চলছে। তিনটি টোকার পুনরাবৃত্তি শরীর বাড়ানোর চাপ তৈরি করছে। এই ক্ষতিকর পুনরাবৃত্তিই জাদুর বিষ, দুঃখ অনুভূতিটি নয়।\n\nRain: \"বেঞ্চের সেই আলো। ভেবেছিলাম নিভে গেছে।\"",
+        "Nova বোঝায়, Sigh আশ্বাসের চিঠি পাওয়ার আগেই রেকর্ডিংটি শেষ হয়েছিল। Rain-কে পুরোনো বিদায়টি আবার দেখতে হবে না। যন্ত্র ক্ষতিগ্রস্ত একটি নকল খুঁজে পেয়েছে। সেটি বের করে দিতে সে এখনও রাজি কি না, বন্ধুরা জানতে চায়।\n\nNova: \"ওই মুহূর্তটাই Sigh-এর পুরো গল্প নয়। এখনও নকলটা ছেড়ে দিতে চাও?\"\nRain: \"হ্যাঁ। তখন আমার পাশে থেকো।\"",
+        "বেঞ্চের মতোই Rain দুই হাতের তালু বাটির মতো করে এগিয়ে দেয়। এবার সে আলোটি ছেড়ে দেয়। নির্দিষ্ট পথ ধরে একটিমাত্র গাঢ় আলো বন্ধ গ্রহণপাত্রে ঢোকে। রেকর্ডিং আর Rain-এর ভেতরে আটকে নেই, তাই শরীর বাড়ানোর নতুন চাপও হচ্ছে না। তবে সে এখনও আগের আকারে ফেরেনি।\n\nRain: \"এটা আর বয়ে রাখতে হবে না।\"",
+        "রেকর্ডিং পুরোপুরি আলাদা হলে Quest বন্ধ গ্রহণপাত্রের ভেতরের সুরক্ষিত চাপযন্ত্র চালায়। তৈরি করা নকলটি ভেঙে যায়, নীল আলো নিভে যায়। পাঠযন্ত্র বন্ধ করা হয়। কাচের পিছনে শুধু নিষ্প্রভ অবশিষ্টাংশ থাকে।\n\nQuest: \"নকলটি নষ্ট হয়েছে। আর কোনো সক্রিয় আলো নেই।\"",
+        "পরের কয়েকটি শান্ত মিনিটে Rain-এর নমনীয় শরীর স্বাভাবিক আকারে ফিরে আসে। পরিবর্তন শেষ না হওয়া পর্যন্ত বন্ধুরা পাশে অপেক্ষা করে। সেই পরিচিত অশ্রুবিন্দু নিয়ে সে এখনও Rain। তার মনে একাধিক অনুভূতির জায়গা আছে।\n\nRain: \"মন খারাপ। আবার হালকাও লাগছে।\"\nMend: \"দুটি অনুভূতিই একসঙ্গে থাকতে পারে।\"",
+        "এক সপ্তাহ পরেও শরীর আর বড় হয়নি। Rain আবার নিজের পুরোনো কলার আর খালি বোতল পরেছে। প্রিয় কাপটিও হাতে ফিরেছে। কিছু সন্ধ্যা এখনও কঠিন, কিন্তু বন্ধুরা একে অপরের জন্য সময় রাখে।\n\nRain: \"কিছু সন্ধ্যা এখনও কঠিন লাগে।\"\nNova: \"আমাদের বোলো। আমরা একসঙ্গে সময় কাটাতে থাকব।\"",
+        "সেদিন পরে Bash-এর চালানো গাড়িতে সাধারণ একটি যাত্রা শেষে Rain আর Nova Mosaic-এর সেই বেঞ্চে ফেরে। খাল, খাঁজ, Rain-এর পাশের জায়গা—সব পরিচিত। যেখানে শুরু হয়েছিল, সেখানেই তারা বসে।\n\nRain: \"কালও একই জায়গা?\"\nNova: \"অবশ্যই।\""
+      ],
+      "introduction": "এক রাত বিশ্রামের পর Rain বেঞ্চের নিচে পাওয়া ছোট আলোটি খুঁজে দেখতে প্রস্তুত। বন্ধুরা যন্ত্র পরীক্ষা করে আবার তার অনুমতি চায়। দীর্ঘ অনুসন্ধান এবার যত্ন করে বেছে নেওয়া ছোট একটি কাজে পৌঁছায়।",
+      "title": "যে স্মৃতি সে বয়ে এনেছিল"
+    },
+    "cs": {
+      "altTexts": [
+        "Druhý den ráno, po nových kontrolách a Rainově opětovném souhlasu, párová čtečka najde jeden záznam vázaný uvnitř něj: smyčku Sighovy smutné vzpomínky. Její tři klepnutí se stále opakují a vytvářejí tlak rozpínání, kvůli němuž Rain rostl. Magickým jedem je škodlivá smyčka — ne samotný smutek.",
+        "Nova vysvětlí, že záznam skončil před Sighovým uklidňujícím dopisem. Rain nemusí znovu sledovat dávné rozloučení. Přístroj našel poškozenou kopii a přátelé se zeptají, zda ji stále chce pustit.",
+        "Rain nastaví dlaně sevřené do misky, jako tehdy u lavičky. Tentokrát nechá světlo odejít. Vodicí zařízení přenese jediné tmavé světlo do přijímací komory zajištěné západkou. Když už v něm záznam není vázaný, další tlak rozpínání nepřibývá; jeho tělo se ale ještě nevrátilo do původní velikosti.",
+        "Jakmile je záznam zcela oddělený, Quest použije chráněný lis uvnitř komory zajištěné západkou. Vyrobená kopie se rozpadne a její modré světlo zhasne. Čtečku vypnou; za sklem zůstanou jen matné zbytky.",
+        "Během několika dalších klidných minut se Rainovo pružné tělo vrátí do obvyklé velikosti. Přátelé u něj počkají, dokud změna neskončí. Je to stále Rain se stejnou známou slzou a místem pro více než jeden pocit.",
+        "O týden později se růst nevrátil. Rain zase nosí původní límec a prázdnou lahvičku a v rukou má svůj oblíbený šálek. Některé večery jsou stále těžké, ale s přáteli si na sebe dál dělají čas.",
+        "Později téhož dne, po obyčejné jízdě vozem, který řídil Bash, se Rain a Nova vrátí ke své lavičce ve městě Mosaic. Kanál, zářez i místo vedle Raina jsou jim známé. Posadí se tam, kde příběh začal."
+      ],
+      "captions": [
+        "Druhý den ráno, po nových kontrolách a Rainově opětovném souhlasu, párová čtečka najde jeden záznam vázaný uvnitř něj: smyčku Sighovy smutné vzpomínky. Její tři klepnutí se stále opakují a vytvářejí tlak rozpínání, kvůli němuž Rain rostl. Magickým jedem je škodlivá smyčka — ne samotný smutek.\n\nRain: „To světlo od lavičky. Myslel jsem, že zhaslo.“",
+        "Nova vysvětlí, že záznam skončil před Sighovým uklidňujícím dopisem. Rain nemusí znovu sledovat dávné rozloučení. Přístroj našel poškozenou kopii a přátelé se zeptají, zda ji stále chce pustit.\n\nNova: „Ten okamžik není celý Sighův příběh. Chceš tu kopii pořád nechat jít?“\nRain: „Ano. Zůstaňte se mnou, až to udělám.“",
+        "Rain nastaví dlaně sevřené do misky, jako tehdy u lavičky. Tentokrát nechá světlo odejít. Vodicí zařízení přenese jediné tmavé světlo do přijímací komory zajištěné západkou. Když už v něm záznam není vázaný, další tlak rozpínání nepřibývá; jeho tělo se ale ještě nevrátilo do původní velikosti.\n\nRain: „Už ho nemusím nést.“",
+        "Jakmile je záznam zcela oddělený, Quest použije chráněný lis uvnitř komory zajištěné západkou. Vyrobená kopie se rozpadne a její modré světlo zhasne. Čtečku vypnou; za sklem zůstanou jen matné zbytky.\n\nQuest: „Je zničený. Žádné aktivní světlo nezůstalo.“",
+        "Během několika dalších klidných minut se Rainovo pružné tělo vrátí do obvyklé velikosti. Přátelé u něj počkají, dokud změna neskončí. Je to stále Rain se stejnou známou slzou a místem pro více než jeden pocit.\n\nRain: „Je mi smutno. A lehčeji.“\nMend: „Můžeš cítit obojí.“",
+        "O týden později se růst nevrátil. Rain zase nosí původní límec a prázdnou lahvičku a v rukou má svůj oblíbený šálek. Některé večery jsou stále těžké, ale s přáteli si na sebe dál dělají čas.\n\nRain: „Některé večery jsou pořád těžké.“\nNova: „Řekni nám to. Budeme si na sebe dál dělat čas.“",
+        "Později téhož dne, po obyčejné jízdě vozem, který řídil Bash, se Rain a Nova vrátí ke své lavičce ve městě Mosaic. Kanál, zářez i místo vedle Raina jsou jim známé. Posadí se tam, kde příběh začal.\n\nRain: „Zítra na stejném místě?“\nNova: „Samozřejmě.“"
+      ],
+      "introduction": "Po nočním odpočinku je Rain připraven hledat malé světlo, které našel pod lavičkou. Přátelé zkontrolují zařízení a znovu ho požádají o svolení. Dlouhé pátrání vyústí v jeden malý, pečlivě zvolený čin.",
+      "title": "Vzpomínka, kterou nesl"
+    },
+    "de": {
+      "altTexts": [
+        "Am nächsten Morgen, nach erneuten Kontrollen und dem erneuten Ja von Rain, findet das Lesegerät mit beiden Linsen eine in Rain gebundene Aufnahme: Sighs traurige Erinnerungsschleife. Ihre drei Klopftöne wiederholen sich ständig und bauen den Expansionsdruck auf, der Rain zum Wachsen gebracht hat. Der schädliche Kreislauf ist das magische Gift – nicht die Traurigkeit selbst.",
+        "Nova erklärt, dass die Aufnahme vor dem beruhigenden Brief von Sigh endete. Rain muss sich den alten Abschied nicht noch einmal ansehen. Der Apparat hat ein beschädigtes Exemplar geortet und seine Freunde fragen, ob er die Kopie weiterhin loslassen möchte.",
+        "Rain hält seine Hände wie eine Schale vor sich, so wie damals an der Bank. Diesmal lässt er das Licht los. Die Führung trägt das einzelne dunkle Licht in den verriegelten Aufnahmebehälter. Da die Aufnahme nicht mehr in ihm gebunden ist, kommt kein neuer Expansionsdruck hinzu; sein Körper hat seine normale Größe noch nicht wieder angenommen.",
+        "Sobald die Aufnahme vollständig isoliert ist, verwendet Quest die geschützte Presse im verriegelten Empfänger. Die hergestellte Kopie geht kaputt und ihr blaues Licht erlischt. Das Lesegerät wird ausgeschaltet; hinter dem Glas bleiben nur matte Rückstände zurück.",
+        "In den nächsten ruhigen Minuten nimmt Rains elastischer Körper wieder seine normale Größe an. Seine Freunde warten an seiner Seite, bis die Veränderung vollzogen ist. Er ist immer noch Rain, mit der gleichen vertrauten Träne und Raum für mehr als ein Gefühl.",
+        "Eine Woche später ist das Wachstum nicht zurückgekehrt. Rain trägt wieder seinen ursprünglichen Kragen und die leere Flasche, und seine Lieblingstasse ist wieder in seinen Händen. Manche Abende sind immer noch schwierig, aber er und seine Freunde nehmen sich weiterhin Zeit füreinander.",
+        "Später an diesem Tag, nach einer gewöhnlichen Fahrt im Nutzwagen mit Bash am Steuer, kehren Rain und Nova in Mosaic zu ihrer Bank zurück. Der Kanal, die Kerbe und der Raum neben Rain sind vertraut. Sie sitzen dort, wo die Geschichte begann."
+      ],
+      "captions": [
+        "Am nächsten Morgen, nach erneuten Kontrollen und dem erneuten Ja von Rain, findet das Lesegerät mit beiden Linsen eine in Rain gebundene Aufnahme: Sighs traurige Erinnerungsschleife. Ihre drei Klopftöne wiederholen sich ständig und bauen den Expansionsdruck auf, der Rain zum Wachsen gebracht hat. Der schädliche Kreislauf ist das magische Gift – nicht die Traurigkeit selbst.\n\nRain: „Das Licht von der Bank. Ich dachte, es wäre ausgegangen.“",
+        "Nova erklärt, dass die Aufnahme vor dem beruhigenden Brief von Sigh endete. Rain muss sich den alten Abschied nicht noch einmal ansehen. Der Apparat hat ein beschädigtes Exemplar geortet und seine Freunde fragen, ob er die Kopie weiterhin loslassen möchte.\n\nNova: „Dieser Moment ist nicht die ganze Geschichte von Sigh. Möchtest du die Kopie immer noch loslassen?“\nRain: „Ja. Bleib bei mir, während ich es tue.“",
+        "Rain hält seine Hände wie eine Schale vor sich, so wie damals an der Bank. Diesmal lässt er das Licht los. Die Führung trägt das einzelne dunkle Licht in den verriegelten Aufnahmebehälter. Da die Aufnahme nicht mehr in ihm gebunden ist, kommt kein neuer Expansionsdruck hinzu; sein Körper hat seine normale Größe noch nicht wieder angenommen.\n\nRain: „Ich muss es nicht mehr tragen.“",
+        "Sobald die Aufnahme vollständig isoliert ist, verwendet Quest die geschützte Presse im verriegelten Empfänger. Die hergestellte Kopie geht kaputt und ihr blaues Licht erlischt. Das Lesegerät wird ausgeschaltet; hinter dem Glas bleiben nur matte Rückstände zurück.\n\nQuest: „Es ist zerstört. Es ist kein aktives Licht mehr übrig.“",
+        "In den nächsten ruhigen Minuten nimmt Rains elastischer Körper wieder seine normale Größe an. Seine Freunde warten an seiner Seite, bis die Veränderung vollzogen ist. Er ist immer noch Rain, mit der gleichen vertrauten Träne und Raum für mehr als ein Gefühl.\n\nRain: „Ich fühle mich traurig. Und leichter.“\nMend: „Du darfst beides fühlen.“",
+        "Eine Woche später ist das Wachstum nicht zurückgekehrt. Rain trägt wieder seinen ursprünglichen Kragen und die leere Flasche, und seine Lieblingstasse ist wieder in seinen Händen. Manche Abende sind immer noch schwierig, aber er und seine Freunde nehmen sich weiterhin Zeit füreinander.\n\nRain: „Manche Abende sind immer noch hart.“\nNova: „Sag es uns. Wir werden weiterhin Zeit miteinander verbringen.“",
+        "Später an diesem Tag, nach einer gewöhnlichen Fahrt im Nutzwagen mit Bash am Steuer, kehren Rain und Nova in Mosaic zu ihrer Bank zurück. Der Kanal, die Kerbe und der Raum neben Rain sind vertraut. Sie sitzen dort, wo die Geschichte begann.\n\nRain: „Morgen derselbe Ort?“\nNova: „Natürlich.“"
+      ],
+      "introduction": "Nach einer erholsamen Nacht ist Rain bereit, nach dem kleinen Licht zu suchen, das er unter der Bank gefunden hat. Die Freunde überprüfen den Apparat und fragen ihn erneut um Erlaubnis. Die lange Suche wird bald zu einer kleinen, sorgfältig ausgewählten Aktion.",
+      "title": "Die Erinnerung, die er trug"
+    },
+    "en": {
+      "altTexts": [
+        "The next morning, after fresh checks and Rain's renewed yes, the paired reader finds one bound recording inside him: Sigh's sad-memory loop. Its three taps keep repeating, building the expansion pressure that has made Rain grow. The harmful loop is the magical poison—not sadness itself.",
+        "Nova explains that the recording ended before Sigh's reassuring letter. Rain does not have to watch the old farewell again. The apparatus has located a damaged copy, and his friends ask whether he still wants to release it.",
+        "Rain holds out his cupped hands, as he did at the bench. This time, he lets the light go. The guide carries the single dark light into the latched receiver. With the recording no longer bound inside him, no new expansion pressure is added; his body has not yet settled back.",
+        "Once the recording is fully isolated, Quest uses the guarded press inside the latched receiver. The manufactured copy breaks and its blue light goes out. The reader is switched off; only dull residue remains behind the glass.",
+        "Over the next few quiet minutes, Rain's elastic body settles back to its ordinary size. His friends wait beside him until the change is complete. He is still Rain, with the same familiar tear and room for more than one feeling.",
+        "One week later, the growth has not returned. Rain wears his original collar and empty bottle again, and his favorite cup is back in his hands. Some evenings are still difficult, but he and his friends keep making time for one another.",
+        "Later that day, after an ordinary wagon ride with Bash at the controls, Rain and Nova return to their bench in Mosaic. The canal, the notch and the space beside Rain are familiar. They sit where the story began."
+      ],
+      "captions": [
+        "The next morning, after fresh checks and Rain's renewed yes, the paired reader finds one bound recording inside him: Sigh's sad-memory loop. Its three taps keep repeating, building the expansion pressure that has made Rain grow. The harmful loop is the magical poison—not sadness itself.\n\nRain: “The light from the bench. I thought it had gone out.”",
+        "Nova explains that the recording ended before Sigh's reassuring letter. Rain does not have to watch the old farewell again. The apparatus has located a damaged copy, and his friends ask whether he still wants to release it.\n\nNova: “That moment isn't all of Sigh's story. Do you still want to let the copy go?”\nRain: “Yes. Stay with me while I do it.”",
+        "Rain holds out his cupped hands, as he did at the bench. This time, he lets the light go. The guide carries the single dark light into the latched receiver. With the recording no longer bound inside him, no new expansion pressure is added; his body has not yet settled back.\n\nRain: “I don't have to carry it anymore.”",
+        "Once the recording is fully isolated, Quest uses the guarded press inside the latched receiver. The manufactured copy breaks and its blue light goes out. The reader is switched off; only dull residue remains behind the glass.\n\nQuest: “It's destroyed. No active light remains.”",
+        "Over the next few quiet minutes, Rain's elastic body settles back to its ordinary size. His friends wait beside him until the change is complete. He is still Rain, with the same familiar tear and room for more than one feeling.\n\nRain: “I feel sad. And lighter.”\nMend: “Both are allowed.”",
+        "One week later, the growth has not returned. Rain wears his original collar and empty bottle again, and his favorite cup is back in his hands. Some evenings are still difficult, but he and his friends keep making time for one another.\n\nRain: “Some evenings are still hard.”\nNova: “Tell us. We'll keep making time together.”",
+        "Later that day, after an ordinary wagon ride with Bash at the controls, Rain and Nova return to their bench in Mosaic. The canal, the notch and the space beside Rain are familiar. They sit where the story began.\n\nRain: “Same place tomorrow?”\nNova: “Of course.”"
+      ],
+      "introduction": "After a night of rest, Rain is ready to look for the little light he found beneath the bench. The friends check the apparatus and ask his permission again. The long search is about to become one small, carefully chosen action.",
+      "title": "The Memory He Carried"
+    },
+    "es": {
+      "altTexts": [
+        "A la mañana siguiente, después de nuevas comprobaciones y el renovado sí de Rain, el lector de dos lentes encuentra una grabación retenida en su interior: un recuerdo triste de Sigh que se repite en bucle. Sus tres golpecitos se siguen repitiendo, generando la presión de expansión que ha hecho crecer a Rain. El bucle dañino es el veneno mágico, no la tristeza misma.",
+        "Nova explica que la grabación terminó antes de la carta tranquilizadora de Sigh. Rain no tiene por qué volver a ver la vieja despedida. El aparato ha localizado una copia dañada y sus amigos le preguntan si todavía quiere liberarla.",
+        "Rain extiende las manos ahuecadas, como hizo junto al banco. Esta vez, deja ir la luz. La guía lleva la única luz oscura al receptor bloqueado. Como la grabación ya no está atada dentro de él, no se agrega nueva presión de expansión; su cuerpo aún no ha recuperado su tamaño normal.",
+        "Una vez que la grabación está completamente aislada, Quest utiliza la prensa protegida dentro del receptor bloqueado. La copia fabricada se rompe y su luz azul se apaga. El lector está apagado; detrás del cristal sólo quedan residuos opacos.",
+        "Durante los siguientes minutos de tranquilidad, el cuerpo elástico de Rain vuelve a su tamaño normal. Sus amigos esperan a su lado hasta que se complete el cambio. Sigue siendo Rain, con la misma lágrima familiar y espacio para más de un sentimiento.",
+        "Una semana después, el crecimiento no ha regresado. Rain vuelve a lucir su collar original y su botella vacía, y su taza favorita vuelve a estar en sus manos. Algunas noches siguen siendo difíciles, pero él y sus amigos siguen haciéndose tiempo el uno para el otro.",
+        "Más tarde ese día, después de un paseo normal en vehículo con Bash a los mandos, Rain y Nova regresan a su banco en Mosaic. El canal, la muesca y el espacio al lado de Rain les resultan familiares. Se sientan donde comenzó la historia."
+      ],
+      "captions": [
+        "A la mañana siguiente, después de nuevas comprobaciones y el renovado sí de Rain, el lector de dos lentes encuentra una grabación retenida en su interior: un recuerdo triste de Sigh que se repite en bucle. Sus tres golpecitos se siguen repitiendo, generando la presión de expansión que ha hecho crecer a Rain. El bucle dañino es el veneno mágico, no la tristeza misma.\n\nRain: \"La luz del banco. Pensé que se había apagado\".",
+        "Nova explica que la grabación terminó antes de la carta tranquilizadora de Sigh. Rain no tiene por qué volver a ver la vieja despedida. El aparato ha localizado una copia dañada y sus amigos le preguntan si todavía quiere liberarla.\n\nNova: \"Ese momento no es toda la historia de Sigh. ¿Aún quieres dejar ir la copia?\"\nRain: \"Sí. Quédate conmigo mientras lo hago\".",
+        "Rain extiende las manos ahuecadas, como hizo junto al banco. Esta vez, deja ir la luz. La guía lleva la única luz oscura al receptor bloqueado. Como la grabación ya no está atada dentro de él, no se agrega nueva presión de expansión; su cuerpo aún no ha recuperado su tamaño normal.\n\nRain: “Ya no tengo que cargarlo”.",
+        "Una vez que la grabación está completamente aislada, Quest utiliza la prensa protegida dentro del receptor bloqueado. La copia fabricada se rompe y su luz azul se apaga. El lector está apagado; detrás del cristal sólo quedan residuos opacos.\n\nQuest: \"La copia está destruida. No queda ninguna luz activa\".",
+        "Durante los siguientes minutos de tranquilidad, el cuerpo elástico de Rain vuelve a su tamaño normal. Sus amigos esperan a su lado hasta que se complete el cambio. Sigue siendo Rain, con la misma lágrima familiar y espacio para más de un sentimiento.\n\nRain: “Me siento triste y más ligero”.\nMend: \"Puedes sentir ambas cosas\".",
+        "Una semana después, el crecimiento no ha regresado. Rain vuelve a lucir su collar original y su botella vacía, y su taza favorita vuelve a estar en sus manos. Algunas noches siguen siendo difíciles, pero él y sus amigos siguen haciéndose tiempo el uno para el otro.\n\nRain: “Algunas noches todavía son duras”.\nNova: \"Cuéntanos. Seguiremos reservando tiempo para estar juntos\".",
+        "Más tarde ese día, después de un paseo normal en vehículo con Bash a los mandos, Rain y Nova regresan a su banco en Mosaic. El canal, la muesca y el espacio al lado de Rain les resultan familiares. Se sientan donde comenzó la historia.\n\nRain: “¿Mañana en el mismo lugar?”\nNova: \"Por supuesto\"."
+      ],
+      "introduction": "Después de una noche de descanso, Rain está listo para buscar la pequeña luz que encontró debajo del banco. Los amigos revisan el aparato y vuelven a pedirle permiso. La larga búsqueda está a punto de convertirse en una pequeña acción cuidadosamente elegida.",
+      "title": "El recuerdo que llevaba"
+    },
+    "fr": {
+      "altTexts": [
+        "Le lendemain matin, après de nouvelles vérifications et le oui renouvelé de Rain, le lecteur couplé trouve en lui un enregistrement qui reste enfermé dans son corps : le souvenir triste de Sigh, enregistré en boucle. Ses trois coups ne cessent de se répéter, créant la pression d'expansion qui a fait croître Rain. La boucle nuisible est le poison magique, et non la tristesse elle-même.",
+        "Nova explique que l'enregistrement s'est terminé avant la lettre rassurante de Sigh. Rain n'a plus besoin de revoir les anciens adieux. L'appareil a localisé une copie endommagée et ses amis lui demandent s'il souhaite toujours la laisser partir.",
+        "Rain tend ses mains en coupe, comme sur le banc. Cette fois, il laisse partir la lumière. Le guide transporte la seule lumière sombre dans le récepteur verrouillé. L’enregistrement n’étant plus lié à l’intérieur de lui, aucune nouvelle pression d’expansion n’est ajoutée ; son corps n'a pas encore retrouvé sa taille habituelle.",
+        "Une fois l'enregistrement complètement isolé, Quest utilise la presse protégée à l'intérieur du récepteur verrouillé. La copie fabriquée se casse et sa lumière bleue s'éteint. Le lecteur est éteint ; seuls des résidus mats restent derrière la vitre.",
+        "Au cours des prochaines minutes tranquilles, le corps élastique de Rain retrouve sa taille ordinaire. Ses amis attendent à ses côtés jusqu'à ce que le changement soit complet. Il est toujours Rain, avec la même larme familière et de la place pour plus d'un sentiment.",
+        "Une semaine plus tard, la croissance n'est pas revenue. Rain porte à nouveau son col d'origine et sa bouteille vide, et sa tasse préférée est de retour entre ses mains. Certaines soirées sont encore difficiles, mais lui et ses amis continuent de prendre du temps ensemble.",
+        "Plus tard dans la journée, après une promenade ordinaire en véhicule avec Bash aux commandes, Rain et Nova retournent à leur banc à Mosaic. Le canal, l'encoche et l'espace à côté de Rain sont familiers. Ils sont assis là où l'histoire a commencé."
+      ],
+      "captions": [
+        "Le lendemain matin, après de nouvelles vérifications et le oui renouvelé de Rain, le lecteur couplé trouve en lui un enregistrement qui reste enfermé dans son corps : le souvenir triste de Sigh, enregistré en boucle. Ses trois coups ne cessent de se répéter, créant la pression d'expansion qui a fait croître Rain. La boucle nuisible est le poison magique, et non la tristesse elle-même.\n\nRain : « La lumière du banc. Je pensais qu'elle s'était éteinte. »",
+        "Nova explique que l'enregistrement s'est terminé avant la lettre rassurante de Sigh. Rain n'a plus besoin de revoir les anciens adieux. L'appareil a localisé une copie endommagée et ses amis lui demandent s'il souhaite toujours la laisser partir.\n\nNova : « Ce moment ne représente pas toute l'histoire de Sigh. Veux-tu toujours laisser partir cette copie ? »\nRain : « Oui. Reste avec moi pendant que je le fais. »",
+        "Rain tend ses mains en coupe, comme sur le banc. Cette fois, il laisse partir la lumière. Le guide transporte la seule lumière sombre dans le récepteur verrouillé. L’enregistrement n’étant plus lié à l’intérieur de lui, aucune nouvelle pression d’expansion n’est ajoutée ; son corps n'a pas encore retrouvé sa taille habituelle.\n\nRain : « Je n'ai plus besoin de le porter. »",
+        "Une fois l'enregistrement complètement isolé, Quest utilise la presse protégée à l'intérieur du récepteur verrouillé. La copie fabriquée se casse et sa lumière bleue s'éteint. Le lecteur est éteint ; seuls des résidus mats restent derrière la vitre.\n\nQuest : « Il est détruit. Il ne reste aucune lumière active. »",
+        "Au cours des prochaines minutes tranquilles, le corps élastique de Rain retrouve sa taille ordinaire. Ses amis attendent à ses côtés jusqu'à ce que le changement soit complet. Il est toujours Rain, avec la même larme familière et de la place pour plus d'un sentiment.\n\nRain : « Je me sens triste. Et plus léger. »\nMend : « Tu peux ressentir les deux. »",
+        "Une semaine plus tard, la croissance n'est pas revenue. Rain porte à nouveau son col d'origine et sa bouteille vide, et sa tasse préférée est de retour entre ses mains. Certaines soirées sont encore difficiles, mais lui et ses amis continuent de prendre du temps ensemble.\n\nRain : « Certaines soirées sont encore difficiles. »\nNova : « Dis-le-nous. Nous continuerons à passer du temps ensemble. »",
+        "Plus tard dans la journée, après une promenade ordinaire en véhicule avec Bash aux commandes, Rain et Nova retournent à leur banc à Mosaic. Le canal, l'encoche et l'espace à côté de Rain sont familiers. Ils sont assis là où l'histoire a commencé.\n\nRain : « Même endroit demain ? »\nNova : « Bien sûr. »"
+      ],
+      "introduction": "Après une nuit de repos, Rain est prêt à chercher la petite lumière qu'il a trouvée sous le banc. Les amis vérifient l'appareil et lui demandent à nouveau la permission. La longue recherche est sur le point de devenir une petite action soigneusement choisie.",
+      "title": "Le souvenir qu'il portait"
+    },
+    "hi": {
+      "altTexts": [
+        "अगली सुबह नई जाँच और Rain की दोबारा सहमति के बाद दोनों लेंसों का यंत्र उसके भीतर एक बँधी रिकॉर्डिंग पाता है। Sigh की दुखभरी याद बार-बार चल रही है। तीन दस्तकों की पुनरावृत्ति शरीर फैलाने वाला दबाव बढ़ाती है। यही नुकसानदेह चक्र जादुई ज़हर है, दुख की भावना नहीं।",
+        "Nova बताती है कि Sigh को भरोसा दिलाने वाला पत्र आने से पहले रिकॉर्डिंग खत्म हो गई थी। Rain को पुरानी विदाई दोबारा नहीं देखनी होगी। यंत्र को खराब प्रति मिली है। दोस्त पूछते हैं कि वह अभी भी उसे बाहर छोड़ना चाहता है या नहीं।",
+        "Rain हाथों की अंजुरी आगे करता है, जैसे बेंच पर की थी। इस बार वह रोशनी जाने देता है। तय रास्ते से एक गहरी रोशनी बंद रिसीवर में जाती है। रिकॉर्डिंग अब उसके भीतर नहीं बँधी, इसलिए शरीर फैलाने का नया दबाव नहीं बनता। मगर शरीर अभी सामान्य आकार में नहीं लौटा।",
+        "रिकॉर्डिंग पूरी तरह अलग होने पर Quest बंद रिसीवर की कवच वाली प्रेस चलाता है। बनाई हुई प्रति टूटती है और नीली रोशनी बुझती है। रीडर यंत्र बंद है। काँच के पीछे केवल निष्प्रभ अवशेष बचते हैं।",
+        "अगले कुछ शांत मिनटों में Rain का लचीला शरीर अपने साधारण आकार में लौटता है। बदलाव पूरा होने तक दोस्त पास इंतज़ार करते हैं। उसी परिचित आँसू के साथ वह अब भी Rain है। उसके मन में एक से ज़्यादा भावनाएँ रह सकती हैं।",
+        "एक सप्ताह बाद भी शरीर फिर बड़ा नहीं हुआ। Rain ने पुराना कॉलर और खाली बोतल पहन ली है। पसंदीदा कप फिर हाथ में है। कुछ शामें अभी भी मुश्किल हैं, मगर दोस्त एक-दूसरे के लिए समय निकालते हैं।",
+        "उसी दिन बाद में Bash की चलाई गाड़ी से साधारण सफ़र के बाद Rain और Nova, Mosaic की बेंच पर लौटते हैं। नहर, खाँचा और Rain के पास की जगह परिचित हैं। वे वहीं बैठते हैं जहाँ कहानी शुरू हुई थी।"
+      ],
+      "captions": [
+        "अगली सुबह नई जाँच और Rain की दोबारा सहमति के बाद दोनों लेंसों का यंत्र उसके भीतर एक बँधी रिकॉर्डिंग पाता है। Sigh की दुखभरी याद बार-बार चल रही है। तीन दस्तकों की पुनरावृत्ति शरीर फैलाने वाला दबाव बढ़ाती है। यही नुकसानदेह चक्र जादुई ज़हर है, दुख की भावना नहीं।\n\nRain: \"बेंच की वही रोशनी। सोचा था बुझ गई।\"",
+        "Nova बताती है कि Sigh को भरोसा दिलाने वाला पत्र आने से पहले रिकॉर्डिंग खत्म हो गई थी। Rain को पुरानी विदाई दोबारा नहीं देखनी होगी। यंत्र को खराब प्रति मिली है। दोस्त पूछते हैं कि वह अभी भी उसे बाहर छोड़ना चाहता है या नहीं।\n\nNova: \"वह पल Sigh की पूरी कहानी नहीं। अभी भी प्रति को जाने देना चाहते हो?\"\nRain: \"हाँ। उस समय मेरे साथ रहना।\"",
+        "Rain हाथों की अंजुरी आगे करता है, जैसे बेंच पर की थी। इस बार वह रोशनी जाने देता है। तय रास्ते से एक गहरी रोशनी बंद रिसीवर में जाती है। रिकॉर्डिंग अब उसके भीतर नहीं बँधी, इसलिए शरीर फैलाने का नया दबाव नहीं बनता। मगर शरीर अभी सामान्य आकार में नहीं लौटा।\n\nRain: \"इसे अब और ढोना नहीं है।\"",
+        "रिकॉर्डिंग पूरी तरह अलग होने पर Quest बंद रिसीवर की कवच वाली प्रेस चलाता है। बनाई हुई प्रति टूटती है और नीली रोशनी बुझती है। रीडर यंत्र बंद है। काँच के पीछे केवल निष्प्रभ अवशेष बचते हैं।\n\nQuest: \"प्रति नष्ट हो गई। कोई सक्रिय रोशनी नहीं बची।\"",
+        "अगले कुछ शांत मिनटों में Rain का लचीला शरीर अपने साधारण आकार में लौटता है। बदलाव पूरा होने तक दोस्त पास इंतज़ार करते हैं। उसी परिचित आँसू के साथ वह अब भी Rain है। उसके मन में एक से ज़्यादा भावनाएँ रह सकती हैं।\n\nRain: \"दुख भी है। हल्का भी लग रहा है।\"\nMend: \"दोनों भावनाएँ साथ रह सकती हैं।\"",
+        "एक सप्ताह बाद भी शरीर फिर बड़ा नहीं हुआ। Rain ने पुराना कॉलर और खाली बोतल पहन ली है। पसंदीदा कप फिर हाथ में है। कुछ शामें अभी भी मुश्किल हैं, मगर दोस्त एक-दूसरे के लिए समय निकालते हैं।\n\nRain: \"कुछ शामें अभी भी मुश्किल हैं।\"\nNova: \"हमें बताना। साथ समय निकालते रहेंगे।\"",
+        "उसी दिन बाद में Bash की चलाई गाड़ी से साधारण सफ़र के बाद Rain और Nova, Mosaic की बेंच पर लौटते हैं। नहर, खाँचा और Rain के पास की जगह परिचित हैं। वे वहीं बैठते हैं जहाँ कहानी शुरू हुई थी।\n\nRain: \"कल भी वही जगह?\"\nNova: \"बेशक।\""
+      ],
+      "introduction": "एक रात आराम के बाद Rain बेंच के नीचे मिली छोटी रोशनी खोजने को तैयार है। दोस्त उपकरण जाँचकर फिर अनुमति माँगते हैं। लंबी खोज अब सोच-समझकर चुने एक छोटे कदम तक आ पहुँची है।",
+      "title": "वह याद जो उसने सँभाली"
+    },
+    "id": {
+      "altTexts": [
+        "Keesokan paginya, setelah pemeriksaan baru dan Rain kembali menyetujui, alat pembaca dua lensa menemukan satu rekaman terikat di dalam tubuh Rain: rekaman kenangan sedih Sigh yang terus berulang. Tiga ketukannya terus berulang, membangun tekanan ekspansi yang membuat Rain tumbuh. Pengulangan yang berbahaya itulah racun ajaibnya—bukan kesedihan itu sendiri.",
+        "Nova menjelaskan bahwa rekaman berakhir sebelum surat penenangan Sigh. Rain tidak perlu menyaksikan kembali perpisahan itu. Alat itu telah menemukan salinan yang rusak, dan teman-temannya bertanya apakah dia masih ingin melepaskannya.",
+        "Rain mengulurkan kedua tangannya yang menangkup, seperti saat di bangku dulu. Kali ini, ia melepaskan cahaya itu. Jalur pemandu mengarahkan satu cahaya gelap ke dalam penerima yang terkunci. Dengan rekaman tidak lagi terikat di dalam dirinya, tidak ada tekanan ekspansi baru yang ditambahkan; tubuhnya belum kembali ke ukuran biasa.",
+        "Setelah rekaman diisolasi sepenuhnya, Quest menggunakan mesin press yang dilindungi di dalam penerima yang terkunci. Salinan buatan itu pecah dan cahaya birunya padam. Pembaca dimatikan; hanya sisa-sisa kusam yang tertinggal di balik kaca.",
+        "Selama beberapa menit berikutnya, tubuh elastis Rain kembali ke ukuran biasanya. Teman-temannya menunggu di sampingnya sampai perubahan itu selesai. Dia masih Rain, dengan air mata yang sama dan ruang untuk lebih dari satu perasaan.",
+        "Satu minggu kemudian, pertumbuhan belum kembali. Rain memakai kerah aslinya dan botol kosong lagi, dan cangkir favoritnya kembali ke tangannya. Beberapa malam masih terasa sulit, namun dia dan teman-temannya tetap meluangkan waktu untuk satu sama lain.",
+        "Kemudian pada hari itu, setelah perjalanan biasa dengan kendaraan angkut yang dikemudikan Bash, Rain dan Nova kembali ke bangku mereka di Mosaic. Kanal, takik, dan ruang di samping Rain sudah tidak asing lagi. Mereka duduk di tempat cerita dimulai."
+      ],
+      "captions": [
+        "Keesokan paginya, setelah pemeriksaan baru dan Rain kembali menyetujui, alat pembaca dua lensa menemukan satu rekaman terikat di dalam tubuh Rain: rekaman kenangan sedih Sigh yang terus berulang. Tiga ketukannya terus berulang, membangun tekanan ekspansi yang membuat Rain tumbuh. Pengulangan yang berbahaya itulah racun ajaibnya—bukan kesedihan itu sendiri.\n\nRain: “Cahaya dari bangku. Aku pikir sudah padam.”",
+        "Nova menjelaskan bahwa rekaman berakhir sebelum surat penenangan Sigh. Rain tidak perlu menyaksikan kembali perpisahan itu. Alat itu telah menemukan salinan yang rusak, dan teman-temannya bertanya apakah dia masih ingin melepaskannya.\n\nNova: \"Momen itu bukanlah keseluruhan cerita Sigh. Apakah kamu masih ingin melepaskan salinannya?\"\nRain: \"Ya. Tetaplah bersamaku selagi aku melakukannya.\"",
+        "Rain mengulurkan kedua tangannya yang menangkup, seperti saat di bangku dulu. Kali ini, ia melepaskan cahaya itu. Jalur pemandu mengarahkan satu cahaya gelap ke dalam penerima yang terkunci. Dengan rekaman tidak lagi terikat di dalam dirinya, tidak ada tekanan ekspansi baru yang ditambahkan; tubuhnya belum kembali ke ukuran biasa.\n\nRain: “Aku tidak perlu membawanya lagi.”",
+        "Setelah rekaman diisolasi sepenuhnya, Quest menggunakan mesin press yang dilindungi di dalam penerima yang terkunci. Salinan buatan itu pecah dan cahaya birunya padam. Pembaca dimatikan; hanya sisa-sisa kusam yang tertinggal di balik kaca.\n\nQuest: \"Salinannya sudah hancur. Tidak ada cahaya aktif yang tersisa.\"",
+        "Selama beberapa menit berikutnya, tubuh elastis Rain kembali ke ukuran biasanya. Teman-temannya menunggu di sampingnya sampai perubahan itu selesai. Dia masih Rain, dengan air mata yang sama dan ruang untuk lebih dari satu perasaan.\n\nRain: “Aku merasa sedih. Dan lebih ringan.”\nMend: “Kamu boleh merasakan keduanya.”",
+        "Satu minggu kemudian, pertumbuhan belum kembali. Rain memakai kerah aslinya dan botol kosong lagi, dan cangkir favoritnya kembali ke tangannya. Beberapa malam masih terasa sulit, namun dia dan teman-temannya tetap meluangkan waktu untuk satu sama lain.\n\nRain: “Beberapa malam masih terasa sulit.”\nNova: \"Beri tahu kami. Kami akan terus meluangkan waktu bersama.\"",
+        "Kemudian pada hari itu, setelah perjalanan biasa dengan kendaraan angkut yang dikemudikan Bash, Rain dan Nova kembali ke bangku mereka di Mosaic. Kanal, takik, dan ruang di samping Rain sudah tidak asing lagi. Mereka duduk di tempat cerita dimulai.\n\nRain: “Besok di tempat yang sama?”\nNova: “Tentu saja.”"
+      ],
+      "introduction": "Setelah istirahat semalaman, Rain siap mencari cahaya kecil yang ia temukan di bawah bangku. Teman-temannya memeriksa peralatan dan meminta izinnya kembali. Pencarian panjang akan menjadi sebuah tindakan kecil yang dipilih dengan cermat.",
+      "title": "Kenangan yang Dibawanya"
+    },
+    "it": {
+      "altTexts": [
+        "La mattina dopo, dopo nuovi controlli e il rinnovato sì di Rain, il lettore a due lenti individua una registrazione intrappolata all'interno di Rain: un ricordo triste di Sigh che si ripete senza sosta. I suoi tre colpetti continuano a ripetersi, creando la pressione di espansione che ha fatto crescere Rain. Il circolo vizioso è il veleno magico, non la tristezza stessa.",
+        "Nova spiega che la registrazione è terminata prima della lettera rassicurante di Sigh. Rain non è obbligato a rivedere quel vecchio addio. L'apparato ha individuato una copia danneggiata e i suoi amici gli chiedono se vuole ancora rilasciarla.",
+        "Rain tende le mani a coppa, come aveva fatto alla panchina. Questa volta lascia andare la luce. La guida trasporta l'unica luce scura nel ricevitore agganciato. Con la registrazione non più intrappolata al suo interno, non viene aggiunta alcuna nuova pressione di espansione; il suo corpo non ha ancora ripreso le dimensioni normali.",
+        "Una volta che la registrazione è completamente isolata, Quest utilizza la pressa protetta all'interno del ricevitore bloccato. La copia fabbricata si rompe e la sua luce blu si spegne. Il lettore è spento; dietro il vetro rimangono solo residui opachi.",
+        "Nei successivi minuti tranquilli, il corpo elastico di Rain ritorna alle sue dimensioni normali. I suoi amici aspettano accanto a lui finché il cambiamento non sarà completo. È ancora Rain, con la stessa lacrima familiare e spazio per più di un sentimento.",
+        "Una settimana dopo, la crescita non è tornata. Rain indossa di nuovo il collare originale e la bottiglia vuota, e la sua tazza preferita è di nuovo nelle sue mani. Alcune sere sono ancora difficili, ma lui e i suoi amici continuano a prendersi del tempo l'uno per l'altro.",
+        "Più tardi quel giorno, dopo un normale giro in carrozza con Bash ai comandi, Rain e Nova tornano alla loro panchina a Mosaic. Il canale, la tacca e lo spazio accanto a Rain sono familiari. Si siedono dove la storia è iniziata."
+      ],
+      "captions": [
+        "La mattina dopo, dopo nuovi controlli e il rinnovato sì di Rain, il lettore a due lenti individua una registrazione intrappolata all'interno di Rain: un ricordo triste di Sigh che si ripete senza sosta. I suoi tre colpetti continuano a ripetersi, creando la pressione di espansione che ha fatto crescere Rain. Il circolo vizioso è il veleno magico, non la tristezza stessa.\n\nRain: \"La luce della panchina. Pensavo si fosse spenta\".",
+        "Nova spiega che la registrazione è terminata prima della lettera rassicurante di Sigh. Rain non è obbligato a rivedere quel vecchio addio. L'apparato ha individuato una copia danneggiata e i suoi amici gli chiedono se vuole ancora rilasciarla.\n\nNova: \"Quel momento non è tutta la storia di Sigh. Vuoi ancora lasciare andare la copia?\"\nRain: \"Sì. Resta con me mentre lo faccio.\"",
+        "Rain tende le mani a coppa, come aveva fatto alla panchina. Questa volta lascia andare la luce. La guida trasporta l'unica luce scura nel ricevitore agganciato. Con la registrazione non più intrappolata al suo interno, non viene aggiunta alcuna nuova pressione di espansione; il suo corpo non ha ancora ripreso le dimensioni normali.\n\nRain: \"Non devo più portarlo con me.\"",
+        "Una volta che la registrazione è completamente isolata, Quest utilizza la pressa protetta all'interno del ricevitore bloccato. La copia fabbricata si rompe e la sua luce blu si spegne. Il lettore è spento; dietro il vetro rimangono solo residui opachi.\n\nQuest: \"La copia è distrutta. Non rimane alcuna luce attiva.\"",
+        "Nei successivi minuti tranquilli, il corpo elastico di Rain ritorna alle sue dimensioni normali. I suoi amici aspettano accanto a lui finché il cambiamento non sarà completo. È ancora Rain, con la stessa lacrima familiare e spazio per più di un sentimento.\n\nRain: \"Mi sento triste. E più leggero.\"\nMend: \"Puoi provare entrambe le cose.\"",
+        "Una settimana dopo, la crescita non è tornata. Rain indossa di nuovo il collare originale e la bottiglia vuota, e la sua tazza preferita è di nuovo nelle sue mani. Alcune sere sono ancora difficili, ma lui e i suoi amici continuano a prendersi del tempo l'uno per l'altro.\n\nRain: \"Alcune sere sono ancora difficili.\"\nNova: \"Diccelo. Continueremo a ritagliarci del tempo insieme.\"",
+        "Più tardi quel giorno, dopo un normale giro in carrozza con Bash ai comandi, Rain e Nova tornano alla loro panchina a Mosaic. Il canale, la tacca e lo spazio accanto a Rain sono familiari. Si siedono dove la storia è iniziata.\n\nRain: \"Lo stesso posto domani?\"\nNova: \"Certamente.\""
+      ],
+      "introduction": "Dopo una notte di riposo, Rain è pronto a cercare la lucina che ha trovato sotto la panchina. Gli amici controllano l'apparecchio e gli chiedono nuovamente il permesso. La lunga ricerca sta per diventare una piccola azione scelta con cura.",
+      "title": "La memoria che portava con sé"
+    },
+    "ja": {
+      "altTexts": [
+        "翌朝、改めて状態を確認し、Rain の同意をもう一度確かめた後、二枚のレンズを組み合わせた読み取り装置は Rainの体内に閉じ込められた一つの記録を発見します。それは、Sigh の悲しい記憶のループです。その 三度のノックが繰り返され、Rain を成長させた拡張圧力が高まります。有害なループは魔法の毒であり、悲しみそのものではありません。",
+        "Nova は、Sighを安心させた手紙が届く前に、その記憶の記録は終わっていたと説明しています。 Rain は、昔の別れをもう一度見る必要はありません。装置が見つけたのは、壊れた複製です。友人たちは、それでも手放したいか、Rainにもう一度尋ねます。",
+        "Rainはベンチで光を包んだときのように、両手をそろえて差し出します。今度は、その光を手放します。ガイドは単一の暗い光をラッチ付き受け入れ容器に運びます。記憶の記録が彼の中にもはや束縛されていないため、新たな拡張プレッシャーは加えられません。彼の体はまだ元に戻っていない。",
+        "記憶の記録が完全に分離されると、Quest はラッチ付き受け入れ容器内の保護されたプレスを使用します。製造されたコピーは壊れ、青い光が消えます。読み取り装置の電源がオフになっています。ガラスの後ろには鈍い残留物だけが残ります。",
+        "続く静かな数分の間に、Rainの弾力のある体は元の大きさに戻っていきます。彼の友人たちは、変化が完了するまで彼の隣で待ちます。彼は今でも Rain であり、同じおなじみの涙と複数の感情を受け入れる余地を持っています。",
+        "一週間経っても、体が再び大きくなることはありません。 Rain は元の首輪と空のボトルを再び着用し、お気に入りのカップが彼の手に戻りました。依然として難しい夜もありますが、彼と彼の友人たちはお互いのために時間を作り続けています。",
+        "その日遅く、Bashが運転する普通の荷車に乗って帰った後、Rain と Nova は Mosaic でベンチに戻ります。運河も、ベンチの切り込みも、Rainの隣の席も、昔からのままです。彼らは物語が始まった場所に座っています。"
+      ],
+      "captions": [
+        "翌朝、改めて状態を確認し、Rain の同意をもう一度確かめた後、二枚のレンズを組み合わせた読み取り装置は Rainの体内に閉じ込められた一つの記録を発見します。それは、Sigh の悲しい記憶のループです。その 三度のノックが繰り返され、Rain を成長させた拡張圧力が高まります。有害なループは魔法の毒であり、悲しみそのものではありません。\n\nRain: 「ベンチの下の光。消えたのかと思っていました。」",
+        "Nova は、Sighを安心させた手紙が届く前に、その記憶の記録は終わっていたと説明しています。 Rain は、昔の別れをもう一度見る必要はありません。装置が見つけたのは、壊れた複製です。友人たちは、それでも手放したいか、Rainにもう一度尋ねます。\n\nNova: 「あの瞬間が Sigh の物語のすべてではありません。それでもコピーを手放しますか?」\nRain: 「はい。私がやっている間、そばにいてください。」",
+        "Rainはベンチで光を包んだときのように、両手をそろえて差し出します。今度は、その光を手放します。ガイドは単一の暗い光をラッチ付き受け入れ容器に運びます。記憶の記録が彼の中にもはや束縛されていないため、新たな拡張プレッシャーは加えられません。彼の体はまだ元に戻っていない。\n\nRain: 「もう、抱え続けなくていいんですね。」",
+        "記憶の記録が完全に分離されると、Quest はラッチ付き受け入れ容器内の保護されたプレスを使用します。製造されたコピーは壊れ、青い光が消えます。読み取り装置の電源がオフになっています。ガラスの後ろには鈍い残留物だけが残ります。\n\nQuest: 「破壊されました。もう光っているものはありません。」",
+        "続く静かな数分の間に、Rainの弾力のある体は元の大きさに戻っていきます。彼の友人たちは、変化が完了するまで彼の隣で待ちます。彼は今でも Rain であり、同じおなじみの涙と複数の感情を受け入れる余地を持っています。\n\nRain: 「悲しいです。そして心が軽くなりました。」\nMend: 「どちらの気持ちもあっていいんです。」",
+        "一週間経っても、体が再び大きくなることはありません。 Rain は元の首輪と空のボトルを再び着用し、お気に入りのカップが彼の手に戻りました。依然として難しい夜もありますが、彼と彼の友人たちはお互いのために時間を作り続けています。\n\nRain: 「夜はまだつらい時もあります。」\nNova: 「教えてください。これからも一緒に時間を作りましょう。」",
+        "その日遅く、Bashが運転する普通の荷車に乗って帰った後、Rain と Nova は Mosaic でベンチに戻ります。運河も、ベンチの切り込みも、Rainの隣の席も、昔からのままです。彼らは物語が始まった場所に座っています。\n\nRain: 「明日も同じ場所ですか？」\nNova: 「もちろんです。」"
+      ],
+      "introduction": "一晩休んだ後、Rain はベンチの下で見つけた小さな光を探す準備ができています。友人たちは装置をチェックし、もう一度許可を求めます。長い探求が、慎重に選ばれた一つの小さな行動になろうとしています。",
+      "title": "彼が背負った記憶"
+    },
+    "ko": {
+      "altTexts": [
+        "다음날 아침, 새로 확인하고 Rain이 다시 '예'라고 답한 후, 두 렌즈를 짝지은 판독 장치는 Rain의 몸 안에 갇힌 기록 하나를 발견합니다. 바로 Sigh의 슬픈 기억 루프입니다. 세 번의 두드림이 계속 반복되면서 Rain을 성장시키는 팽창 압력이 형성됩니다. 해로운 고리는 슬픔 그 자체가 아니라 마법의 독입니다.",
+        "Nova는 Sigh를 안심시킨 편지가 도착하기 전에 기억 기록이 종료되었다고 설명합니다. Rain은 옛 이별을 다시 볼 필요가 없습니다. 장치는 손상된 사본을 찾았고 그의 친구들은 그에게 아직도 그 기록을 놓아주고 싶은지 묻습니다.",
+        "Rain은 벤치에서 그랬듯 두 손을 오목하게 모아 내밉니다. 이번에는 그 빛을 놓아줍니다. 가이드는 단일 어두운 빛을 래치된 수신기로 전달합니다. 기억 기록이 더 이상 그의 내부에 묶여 있지 않으므로 새로운 확장 압력이 추가되지 않습니다. 몸은 아직 원래 크기로 돌아오지 않았습니다.",
+        "기억 기록이 완전히 격리되면 Quest는 래치된 수신기 내부의 보호된 프레스를 사용합니다. 제작된 복사본이 깨지고 그 사본의 파란 빛이 꺼집니다. 판독 장치가 꺼져 있습니다. 유리 뒤에는 흐릿한 잔여물만 남습니다.",
+        "이어지는 조용한 몇 분 동안 Rain의 탄력 있는 몸체가 원래 크기로 돌아왔습니다. 그의 친구들은 변화가 완료될 때까지 그의 옆에서 기다립니다. 그는 여전히 Rain이며, 익숙한 눈물과 여러 감정을 느낄 수 있는 여지를 갖고 있습니다.",
+        "일주일이 지나도 몸이 다시 커지는 일은 없었습니다. Rain은 원래 칼라와 빈 병을 다시 착용하고, 가장 좋아하는 컵이 그의 손에 돌아왔습니다. 어떤 저녁은 여전히 힘들지만 그와 그의 친구들은 계속해서 서로를 위한 시간을 만듭니다.",
+        "그날 늦게 Bash가 운전하는 평범한 차량을 타고 온 뒤 Rain 및 Nova는 Mosaic의 벤치로 돌아옵니다. 운하와 홈, 그리고 Rain 옆 공간이 익숙하다. 그들은 이야기가 시작된 곳에 앉아 있습니다."
+      ],
+      "captions": [
+        "다음날 아침, 새로 확인하고 Rain이 다시 '예'라고 답한 후, 두 렌즈를 짝지은 판독 장치는 Rain의 몸 안에 갇힌 기록 하나를 발견합니다. 바로 Sigh의 슬픈 기억 루프입니다. 세 번의 두드림이 계속 반복되면서 Rain을 성장시키는 팽창 압력이 형성됩니다. 해로운 고리는 슬픔 그 자체가 아니라 마법의 독입니다.\n\nRain: \"벤치 아래의 빛. 꺼진 줄 알았어요.\"",
+        "Nova는 Sigh를 안심시킨 편지가 도착하기 전에 기억 기록이 종료되었다고 설명합니다. Rain은 옛 이별을 다시 볼 필요가 없습니다. 장치는 손상된 사본을 찾았고 그의 친구들은 그에게 아직도 그 기록을 놓아주고 싶은지 묻습니다.\n\nNova: \"그 순간이 Sigh 이야기의 전부는 아닙니다. 아직도 그 사본을 놓아주고 싶나요?\"\nRain: \"네. 제가 하는 동안 옆에 있어주세요.\"",
+        "Rain은 벤치에서 그랬듯 두 손을 오목하게 모아 내밉니다. 이번에는 그 빛을 놓아줍니다. 가이드는 단일 어두운 빛을 래치된 수신기로 전달합니다. 기억 기록이 더 이상 그의 내부에 묶여 있지 않으므로 새로운 확장 압력이 추가되지 않습니다. 몸은 아직 원래 크기로 돌아오지 않았습니다.\n\nRain: “더 이상 들고 다닐 필요가 없어요.”",
+        "기억 기록이 완전히 격리되면 Quest는 래치된 수신기 내부의 보호된 프레스를 사용합니다. 제작된 복사본이 깨지고 그 사본의 파란 빛이 꺼집니다. 판독 장치가 꺼져 있습니다. 유리 뒤에는 흐릿한 잔여물만 남습니다.\n\nQuest: \"파괴되었습니다. 이제 빛나는 것은 남아 있지 않아요.\"",
+        "이어지는 조용한 몇 분 동안 Rain의 탄력 있는 몸체가 원래 크기로 돌아왔습니다. 그의 친구들은 변화가 완료될 때까지 그의 옆에서 기다립니다. 그는 여전히 Rain이며, 익숙한 눈물과 여러 감정을 느낄 수 있는 여지를 갖고 있습니다.\n\nRain: \"슬프고 가벼워진 기분이에요.\"\nMend: \"두 감정이 함께 있어도 괜찮아요.\"",
+        "일주일이 지나도 몸이 다시 커지는 일은 없었습니다. Rain은 원래 칼라와 빈 병을 다시 착용하고, 가장 좋아하는 컵이 그의 손에 돌아왔습니다. 어떤 저녁은 여전히 힘들지만 그와 그의 친구들은 계속해서 서로를 위한 시간을 만듭니다.\n\nRain: “어떤 저녁은 여전히 힘들어요.”\nNova: \"말해 보세요. 계속해서 함께 시간을 보내겠습니다.\"",
+        "그날 늦게 Bash가 운전하는 평범한 차량을 타고 온 뒤 Rain 및 Nova는 Mosaic의 벤치로 돌아옵니다. 운하와 홈, 그리고 Rain 옆 공간이 익숙하다. 그들은 이야기가 시작된 곳에 앉아 있습니다.\n\nRain: “내일도 같은 장소요?”\nNova: “물론이죠.”"
+      ],
+      "introduction": "하룻밤의 휴식을 취한 후 Rain은 벤치 아래에서 발견한 작은 빛을 찾을 준비가 되었습니다. 친구들은 장치를 확인하고 다시 허락을 구합니다. 오랜 탐색이 곧 하나의 작고 신중하게 선택된 행동이 될 것입니다.",
+      "title": "그가 짊어진 기억"
+    },
+    "pl": {
+      "altTexts": [
+        "Następnego ranka, po ponownym sprawdzeniu i ponownej zgodzie Raina, czytnik z dwiema soczewkami wykrywa wewnątrz Raina jedno uwięzione nagranie: pętlę smutnego wspomnienia Sigha. Trzy stuknięcia z nagrania powtarzają się, tworząc ciśnienie rozprężania, które spowodowało wzrost Raina. Szkodliwa pętla jest magiczną trucizną – nie samym smutkiem.",
+        "Nova wyjaśnia, że nagranie zakończyło się, zanim Sigh dostał list, który przyniósł mu ulgę. Rain nie musi odtwarzać tamtego pożegnania. Aparatura zlokalizowała uszkodzony egzemplarz, a jego przyjaciele pytają, czy nadal chce wypuścić z siebie tę kopię.",
+        "Rain wyciąga dłonie złożone w miseczkę, tak jak na ławce. Tym razem pozwala światełku odejść. Prowadnica przenosi pojedyncze ciemne światło do zatrzaskowego odbiornika. Ponieważ nagranie nie jest już w nim związane, nie dodaje się żadnego nowego ciśnienia rozprężającego; jego ciało nie wróciło jeszcze do zwykłych rozmiarów.",
+        "Po całkowitym odizolowaniu nagrania Quest wykorzystuje zabezpieczoną prasę wewnątrz zatrzaskowego odbiornika. Wyprodukowany egzemplarz pęka i gaśnie jego niebieskie światło. Czytnik jest wyłączony; za szybą pozostaje tylko matowa pozostałość.",
+        "W ciągu następnych kilku spokojnych minut elastyczne ciało Raina wraca do swoich zwykłych rozmiarów. Przyjaciele czekają obok niego, aż zmiana się zakończy. Nadal jest Rainem, z tą samą znajomą łzą i miejscem na więcej niż jedno uczucie.",
+        "Tydzień później wzrost nie powrócił. Rain znów ma na sobie swój pierwotny kołnierz i pustą butelkę, a jego ulubiony kubek znów jest w jego rękach. Niektóre wieczory są nadal trudne, ale on i jego przyjaciele znajdują dla siebie czas.",
+        "Później tego samego dnia, po zwykłej przejażdżce wozem z Bashem za sterami, Rain i Nova wracają na swoją ławkę w mieście Mosaic. Kanał, wycięcie i przestrzeń obok Raina są znajome. Siedzą tam, gdzie zaczęła się historia."
+      ],
+      "captions": [
+        "Następnego ranka, po ponownym sprawdzeniu i ponownej zgodzie Raina, czytnik z dwiema soczewkami wykrywa wewnątrz Raina jedno uwięzione nagranie: pętlę smutnego wspomnienia Sigha. Trzy stuknięcia z nagrania powtarzają się, tworząc ciśnienie rozprężania, które spowodowało wzrost Raina. Szkodliwa pętla jest magiczną trucizną – nie samym smutkiem.\n\nRain: \"Światełko spod ławki. Myślałem, że zgasło.\"",
+        "Nova wyjaśnia, że nagranie zakończyło się, zanim Sigh dostał list, który przyniósł mu ulgę. Rain nie musi odtwarzać tamtego pożegnania. Aparatura zlokalizowała uszkodzony egzemplarz, a jego przyjaciele pytają, czy nadal chce wypuścić z siebie tę kopię.\n\nNova: \"Ten moment to nie cała historia Sigha. Czy nadal chcesz wypuścić kopię?\"\nRain: \"Tak. Zostań ze mną, kiedy to zrobię.\"",
+        "Rain wyciąga dłonie złożone w miseczkę, tak jak na ławce. Tym razem pozwala światełku odejść. Prowadnica przenosi pojedyncze ciemne światło do zatrzaskowego odbiornika. Ponieważ nagranie nie jest już w nim związane, nie dodaje się żadnego nowego ciśnienia rozprężającego; jego ciało nie wróciło jeszcze do zwykłych rozmiarów.\n\nRain: „Nie muszę już tego nosić.”",
+        "Po całkowitym odizolowaniu nagrania Quest wykorzystuje zabezpieczoną prasę wewnątrz zatrzaskowego odbiornika. Wyprodukowany egzemplarz pęka i gaśnie jego niebieskie światło. Czytnik jest wyłączony; za szybą pozostaje tylko matowa pozostałość.\n\nQuest: \"Zostało zniszczone. Nie pozostało żadne aktywne światło.\"",
+        "W ciągu następnych kilku spokojnych minut elastyczne ciało Raina wraca do swoich zwykłych rozmiarów. Przyjaciele czekają obok niego, aż zmiana się zakończy. Nadal jest Rainem, z tą samą znajomą łzą i miejscem na więcej niż jedno uczucie.\n\nRain: \"Czuję się smutny. I lżejszy. \"\nMend: „Możesz czuć jedno i drugie.”",
+        "Tydzień później wzrost nie powrócił. Rain znów ma na sobie swój pierwotny kołnierz i pustą butelkę, a jego ulubiony kubek znów jest w jego rękach. Niektóre wieczory są nadal trudne, ale on i jego przyjaciele znajdują dla siebie czas.\n\nRain: „Niektóre wieczory są nadal trudne.”\nNova: \"Powiedz nam. Nadal będziemy znajdować dla siebie czas.\"",
+        "Później tego samego dnia, po zwykłej przejażdżce wozem z Bashem za sterami, Rain i Nova wracają na swoją ławkę w mieście Mosaic. Kanał, wycięcie i przestrzeń obok Raina są znajome. Siedzą tam, gdzie zaczęła się historia.\n\nRain: „Jutro w tym samym miejscu?”\nNova: „Oczywiście.”"
+      ],
+      "introduction": "Po nocy odpoczynku Rain jest gotowy na poszukiwanie małego światła, które znalazł pod ławką. Przyjaciele sprawdzają aparat i ponownie proszą go o pozwolenie. Długie poszukiwania wkrótce staną się jedną małą, starannie przemyślaną czynnością.",
+      "title": "Wspomnienie, które niósł"
+    },
+    "pt": {
+      "altTexts": [
+        "Na manhã seguinte, após novas verificações e o sim renovado de Rain, o leitor de duas lentes encontra uma gravação presa dentro de Rain: uma lembrança triste de Sigh que se repete sem parar. Seus três toques continuam se repetindo, aumentando a pressão de expansão que fez o Rain crescer. O ciclo prejudicial é o veneno mágico – não a tristeza em si.",
+        "Nova explica que a gravação terminou antes da carta tranquilizadora de Sigh. Rain não precisa assistir novamente à velha despedida. O aparelho localizou uma cópia danificada e seus amigos perguntam se ele ainda deseja liberá-la.",
+        "Rain estende as mãos em concha, como fez junto ao banco. Desta vez, deixa a luz ir. A guia conduz a única luz escura para o receptor travado. Com a gravação não mais presa dentro dele, nenhuma nova pressão de expansão é adicionada; seu corpo ainda não voltou ao tamanho normal.",
+        "Assim que a gravação estiver totalmente isolada, o Quest usa a prensa protegida dentro do receptor travado. A cópia fabricada quebra e sua luz azul se apaga. O leitor está desligado; apenas resíduos opacos permanecem atrás do vidro.",
+        "Nos próximos minutos tranquilos, o corpo elástico do Rain volta ao seu tamanho normal. Seus amigos esperam ao lado dele até que a mudança seja concluída. Ele ainda é Rain, com a mesma lágrima familiar e espaço para mais de um sentimento.",
+        "Uma semana depois, o crescimento não voltou. Rain usa novamente a gola original e o frasco vazio, e sua xícara favorita está de volta em suas mãos. Algumas noites ainda são difíceis, mas ele e seus amigos continuam reservando tempo um para o outro.",
+        "Mais tarde naquele dia, após um passeio normal de carroça com Bash nos controles, Rain e Nova retornam ao seu banco em Mosaic. O canal, o entalhe e o espaço ao lado do Rain são familiares. Eles se sentam onde a história começou."
+      ],
+      "captions": [
+        "Na manhã seguinte, após novas verificações e o sim renovado de Rain, o leitor de duas lentes encontra uma gravação presa dentro de Rain: uma lembrança triste de Sigh que se repete sem parar. Seus três toques continuam se repetindo, aumentando a pressão de expansão que fez o Rain crescer. O ciclo prejudicial é o veneno mágico – não a tristeza em si.\n\nRain: \"A luz do banco. Achei que tinha apagado.\"",
+        "Nova explica que a gravação terminou antes da carta tranquilizadora de Sigh. Rain não precisa assistir novamente à velha despedida. O aparelho localizou uma cópia danificada e seus amigos perguntam se ele ainda deseja liberá-la.\n\nNova: \"Esse momento não é toda a história de Sigh. Você ainda quer deixar a cópia ir?\"\nRain: \"Sim. Fique comigo enquanto eu faço isso.\"",
+        "Rain estende as mãos em concha, como fez junto ao banco. Desta vez, deixa a luz ir. A guia conduz a única luz escura para o receptor travado. Com a gravação não mais presa dentro dele, nenhuma nova pressão de expansão é adicionada; seu corpo ainda não voltou ao tamanho normal.\n\nRain: “Não preciso mais carregá-lo.”",
+        "Assim que a gravação estiver totalmente isolada, o Quest usa a prensa protegida dentro do receptor travado. A cópia fabricada quebra e sua luz azul se apaga. O leitor está desligado; apenas resíduos opacos permanecem atrás do vidro.\n\nQuest: \"A cópia foi destruída. Nenhuma luz ativa permanece.\"",
+        "Nos próximos minutos tranquilos, o corpo elástico do Rain volta ao seu tamanho normal. Seus amigos esperam ao lado dele até que a mudança seja concluída. Ele ainda é Rain, com a mesma lágrima familiar e espaço para mais de um sentimento.\n\nRain: \"Sinto-me triste. E mais leve.\"\nMend: “Você pode sentir as duas coisas.”",
+        "Uma semana depois, o crescimento não voltou. Rain usa novamente a gola original e o frasco vazio, e sua xícara favorita está de volta em suas mãos. Algumas noites ainda são difíceis, mas ele e seus amigos continuam reservando tempo um para o outro.\n\nRain: “Algumas noites ainda são difíceis.”\nNova: \"Conte-nos. Continuaremos passando tempo juntos.\"",
+        "Mais tarde naquele dia, após um passeio normal de carroça com Bash nos controles, Rain e Nova retornam ao seu banco em Mosaic. O canal, o entalhe e o espaço ao lado do Rain são familiares. Eles se sentam onde a história começou.\n\nRain: “Mesmo lugar amanhã?”\nNova: “Claro.”"
+      ],
+      "introduction": "Depois de uma noite de descanso, Rain está pronto para procurar a pequena luz que encontrou debaixo do banco. Os amigos verificam o aparelho e pedem novamente sua permissão. A longa busca está prestes a se tornar uma ação pequena e cuidadosamente escolhida.",
+      "title": "A memória que ele carregava"
+    },
+    "ru": {
+      "altTexts": [
+        "На следующее утро, после новых проверок и повторного ответа Rain «да», считыватель с парой линз обнаруживает внутри Rain одну удерживаемую запись: петлю грустных воспоминаний Sigh. Три стука из записи продолжают повторяться, создавая давление расширения, которое привело к росту Rain. Вредная петля — это магический яд, а не сама печаль.",
+        "Nova объясняет, что запись закончилась до того, как Sigh получил обнадеживающее письмо. Rain не придется снова смотреть старое прощание. Аппарат обнаружил поврежденную копию, и его друзья спрашивают, хочет ли он еще ее выпустить.",
+        "Rain протягивает сложенные чашечкой ладони, как тогда у скамейки. На этот раз он отпускает огонек. Направляющая проводит единственный темный свет в защелкнутый приемник. Поскольку запись больше не связана внутри него, никакого нового давления расширения не возникает; его тело еще не вернулось к обычному размеру.",
+        "Как только запись полностью изолирована, Quest использует защищенный пресс внутри защелкивающегося приемника. Изготовленная копия ломается, и ее синий свет гаснет. Считыватель выключен; за стеклом остается только матовый осадок.",
+        "В течение следующих нескольких минут тишины упругое тело Rain возвращается к своему обычному размеру. Его друзья ждут рядом с ним, пока изменение не завершится. Он по-прежнему Rain, с той же знакомой слезой и местом для многих чувств.",
+        "Спустя неделю рост не возобновился. Rain снова носит свой прежний воротник и пустую бутылку, а его любимая чашка снова в его руках. Иногда вечера по-прежнему бывают трудными, но он и его друзья продолжают находить время друг для друга.",
+        "Позже в тот же день, после обычной поездки на повозке под управлением Bash, Rain и Nova возвращаются на свою скамейку в Mosaic. Канал, выемка и пространство рядом с Rain знакомы. Они сидят там, где началась история."
+      ],
+      "captions": [
+        "На следующее утро, после новых проверок и повторного ответа Rain «да», считыватель с парой линз обнаруживает внутри Rain одну удерживаемую запись: петлю грустных воспоминаний Sigh. Три стука из записи продолжают повторяться, создавая давление расширения, которое привело к росту Rain. Вредная петля — это магический яд, а не сама печаль.\n\nRain: \"Огонек под скамейкой. Я думал, он погас\".",
+        "Nova объясняет, что запись закончилась до того, как Sigh получил обнадеживающее письмо. Rain не придется снова смотреть старое прощание. Аппарат обнаружил поврежденную копию, и его друзья спрашивают, хочет ли он еще ее выпустить.\n\nNova: \"Этот момент — это еще не вся история Sigh. Ты все еще хочешь отпустить эту копию?\"\nRain: \"Да. Оставайся со мной, пока я это сделаю.\"",
+        "Rain протягивает сложенные чашечкой ладони, как тогда у скамейки. На этот раз он отпускает огонек. Направляющая проводит единственный темный свет в защелкнутый приемник. Поскольку запись больше не связана внутри него, никакого нового давления расширения не возникает; его тело еще не вернулось к обычному размеру.\n\nRain: «Мне больше не нужно его нести».",
+        "Как только запись полностью изолирована, Quest использует защищенный пресс внутри защелкивающегося приемника. Изготовленная копия ломается, и ее синий свет гаснет. Считыватель выключен; за стеклом остается только матовый осадок.\n\nQuest: \"Копия уничтожена. Активного свечения больше нет\".",
+        "В течение следующих нескольких минут тишины упругое тело Rain возвращается к своему обычному размеру. Его друзья ждут рядом с ним, пока изменение не завершится. Он по-прежнему Rain, с той же знакомой слезой и местом для многих чувств.\n\nRain: \"Мне грустно. И легче\".\nMend: «Можно чувствовать и то, и другое».",
+        "Спустя неделю рост не возобновился. Rain снова носит свой прежний воротник и пустую бутылку, а его любимая чашка снова в его руках. Иногда вечера по-прежнему бывают трудными, но он и его друзья продолжают находить время друг для друга.\n\nRain: «Некоторые вечера все еще бывают тяжелыми».\nNova: \"Расскажи нам. Мы продолжим проводить время вместе\".",
+        "Позже в тот же день, после обычной поездки на повозке под управлением Bash, Rain и Nova возвращаются на свою скамейку в Mosaic. Канал, выемка и пространство рядом с Rain знакомы. Они сидят там, где началась история.\n\nRain: «Завтра в том же месте?»\nNova: «Конечно»."
+      ],
+      "introduction": "После ночного отдыха Rain готов искать маленький огонек, который он нашел под скамейкой. Друзья проверяют аппарат и еще раз спрашивают его разрешения. Долгий поиск превратится в одно маленькое, тщательно выбранное действие.",
+      "title": "Воспоминание, которое он нес"
+    },
+    "tr": {
+      "altTexts": [
+        "Ertesi sabah, yeni kontroller ve Rain'in yenilenen evet yanıtının ardından, iki mercekli okuma cihazı Rain'in içinde tek bir bağlı kayıt buluyor: Sigh'ın hüzünlü anı döngüsü. Üç dokunuşu tekrarlanarak Rain'in büyümesini sağlayan genleşme basıncını artırıyor. Zararlı döngü, üzüntünün kendisi değil, büyülü bir zehirdir.",
+        "Nova, kaydın Sigh'ın güven verici mektubundan önce bittiğini açıklıyor. Rain'in eski vedayı yeniden izlemesine gerek yok. Cihaz hasarlı bir kopya bulmuştur ve arkadaşları, onu hâlâ serbest bırakmak isteyip istemediğini sorar.",
+        "Rain, bankta yaptığı gibi çanak şeklinde tuttuğu ellerini uzatıyor. Bu kez ışığı serbest bırakıyor. Kılavuz, tek karanlık ışığı mandallı alıcıya taşır. Kayıt artık onun içinde bağlı olmadığı için yeni bir genişleme basıncı eklenmez; vücudu henüz normal boyutuna dönmedi.",
+        "Kayıt tamamen izole edildikten sonra Quest, mandallı alıcının içindeki korumalı presi kullanır. Üretilen kopya kırılır ve mavi ışığı söner. Okuyucu kapalıdır; camın arkasında yalnızca donuk kalıntı kalır.",
+        "Sonraki birkaç sessiz dakika içinde Rain'in elastik gövdesi normal boyutuna geri döner. Değişiklik tamamlanana kadar arkadaşları onun yanında bekler. O hâlâ Rain; tanıdık gözyaşı hâlâ orada ve birden fazla duyguya yer var.",
+        "Bir hafta sonra büyüme geri dönmedi. Rain eski yakasını ve boş şişesini yeniden takıyor ve en sevdiği kupa yeniden eline geçiyor. Bazı akşamlar hâlâ zorlu geçiyor ama o ve arkadaşları birbirlerine zaman ayırmaya devam ediyor.",
+        "O günün ilerleyen saatlerinde, Bash'in kullandığı yük aracıyla sıradan bir yolculuktan sonra Rain ve Nova, Mosaic'teki banklarına geri dönüyor. Kanal, çentik ve Rain'in yanındaki boşluk tanıdık geliyor. Hikayenin başladığı yerde oturuyorlar."
+      ],
+      "captions": [
+        "Ertesi sabah, yeni kontroller ve Rain'in yenilenen evet yanıtının ardından, iki mercekli okuma cihazı Rain'in içinde tek bir bağlı kayıt buluyor: Sigh'ın hüzünlü anı döngüsü. Üç dokunuşu tekrarlanarak Rain'in büyümesini sağlayan genleşme basıncını artırıyor. Zararlı döngü, üzüntünün kendisi değil, büyülü bir zehirdir.\n\nRain: \"Bankın altındaki ışık. Söndüğünü sanıyordum.\"",
+        "Nova, kaydın Sigh'ın güven verici mektubundan önce bittiğini açıklıyor. Rain'in eski vedayı yeniden izlemesine gerek yok. Cihaz hasarlı bir kopya bulmuştur ve arkadaşları, onu hâlâ serbest bırakmak isteyip istemediğini sorar.\n\nNova: \"Sigh'ın hikayesinin tamamı o an değil. Hala kopyayı bırakmak istiyor musun?\"\nRain: \"Evet. Ben bunu yaparken benimle kal.\"",
+        "Rain, bankta yaptığı gibi çanak şeklinde tuttuğu ellerini uzatıyor. Bu kez ışığı serbest bırakıyor. Kılavuz, tek karanlık ışığı mandallı alıcıya taşır. Kayıt artık onun içinde bağlı olmadığı için yeni bir genişleme basıncı eklenmez; vücudu henüz normal boyutuna dönmedi.\n\nRain: \"Artık onu taşımama gerek yok.\"",
+        "Kayıt tamamen izole edildikten sonra Quest, mandallı alıcının içindeki korumalı presi kullanır. Üretilen kopya kırılır ve mavi ışığı söner. Okuyucu kapalıdır; camın arkasında yalnızca donuk kalıntı kalır.\n\nQuest: \"Yok edildi. Aktif ışık kalmadı.\"",
+        "Sonraki birkaç sessiz dakika içinde Rain'in elastik gövdesi normal boyutuna geri döner. Değişiklik tamamlanana kadar arkadaşları onun yanında bekler. O hâlâ Rain; tanıdık gözyaşı hâlâ orada ve birden fazla duyguya yer var.\n\nRain: \"Kendimi üzgün hissediyorum. Ve daha hafifim.\"\nMend: “İkisini birden hissedebilirsin.”",
+        "Bir hafta sonra büyüme geri dönmedi. Rain eski yakasını ve boş şişesini yeniden takıyor ve en sevdiği kupa yeniden eline geçiyor. Bazı akşamlar hâlâ zorlu geçiyor ama o ve arkadaşları birbirlerine zaman ayırmaya devam ediyor.\n\nRain: \"Bazı akşamlar hâlâ zordur.\"\nNova: \"Söyle bize. Birlikte vakit geçirmeye devam edeceğiz.\"",
+        "O günün ilerleyen saatlerinde, Bash'in kullandığı yük aracıyla sıradan bir yolculuktan sonra Rain ve Nova, Mosaic'teki banklarına geri dönüyor. Kanal, çentik ve Rain'in yanındaki boşluk tanıdık geliyor. Hikayenin başladığı yerde oturuyorlar.\n\nRain: \"Yarın aynı yerde mi?\"\nNova: “Elbette.”"
+      ],
+      "introduction": "Bir gece dinlendikten sonra Rain bankın altında bulduğu küçük ışığı aramaya hazır. Arkadaşlar aparatı kontrol edip tekrar izin isterler. Uzun arayış, dikkatle seçilmiş küçük bir eyleme dönüşmek üzere.",
+      "title": "Taşıdığı Hatıra"
+    },
+    "vi": {
+      "altTexts": [
+        "Sáng hôm sau, sau những lần kiểm tra mới và Rain đồng ý lại, máy đọc dùng cặp thấu kính tìm thấy một bản ghi ràng buộc bên trong anh: vòng lặp ký ức buồn của Sigh. Ba tiếng gõ của nó liên tục lặp lại, tạo ra áp suất giãn nở đã khiến cơ thể Rain lớn lên. Chất độc ma thuật chính là vòng lặp có hại ấy, chứ không phải nỗi buồn.",
+        "Nova giải thích rằng bản ghi kết thúc trước khi Sigh nhận được lá thư khiến anh yên lòng. Rain không phải xem lại lời chia tay năm xưa. Bộ máy đã tìm thấy một bản sao bị hỏng và bạn bè của anh hỏi liệu anh có còn muốn thả bản sao đó ra hay không.",
+        "Rain đưa hai bàn tay khum lại ra trước, như lúc ở băng ghế. Lần này, anh để đốm sáng ra đi. Thanh dẫn hướng mang ánh sáng tối duy nhất vào bộ thu có chốt. Khi bản ghi không còn bị ràng buộc bên trong anh nữa, không có áp lực giãn nở mới nào được thêm vào; cơ thể anh vẫn chưa trở về kích thước bình thường.",
+        "Sau khi bản ghi được cách ly hoàn toàn, Quest sử dụng máy ép được bảo vệ bên trong bộ thu có chốt. Bản sao nhân tạo vỡ ra và ánh sáng xanh của nó tắt. Đầu đọc đã tắt; chỉ còn lại cặn xỉn màu phía sau kính.",
+        "Trong vài phút yên tĩnh tiếp theo, cơ thể đàn hồi của Rain dần trở lại kích thước bình thường. Bạn bè của anh ấy đợi bên cạnh anh ấy cho đến khi sự thay đổi hoàn tất. Anh ấy vẫn là Rain, với cùng một giọt nước mắt quen thuộc và có nhiều chỗ cho nhiều cảm giác.",
+        "Một tuần sau, cơ thể Rain vẫn không lớn lên nữa. Rain lại đeo chiếc cổ áo ban đầu và chiếc chai rỗng, chiếc cốc yêu thích đã quay trở lại trên tay anh ấy. Có những buổi tối vẫn còn khó khăn nhưng anh và bạn bè vẫn luôn dành thời gian cho nhau.",
+        "Cuối ngày hôm đó, sau chuyến đi bằng xe thông thường với Bash ở vị trí điều khiển, Rain và Nova quay trở lại băng ghế của họ ở Mosaic. Kênh, rãnh và không gian bên cạnh Rain quen thuộc. Họ ngồi ở nơi câu chuyện bắt đầu."
+      ],
+      "captions": [
+        "Sáng hôm sau, sau những lần kiểm tra mới và Rain đồng ý lại, máy đọc dùng cặp thấu kính tìm thấy một bản ghi ràng buộc bên trong anh: vòng lặp ký ức buồn của Sigh. Ba tiếng gõ của nó liên tục lặp lại, tạo ra áp suất giãn nở đã khiến cơ thể Rain lớn lên. Chất độc ma thuật chính là vòng lặp có hại ấy, chứ không phải nỗi buồn.\n\nRain: \"Ánh sáng bên dưới băng ghế. Tôi tưởng nó đã tắt rồi.\"",
+        "Nova giải thích rằng bản ghi kết thúc trước khi Sigh nhận được lá thư khiến anh yên lòng. Rain không phải xem lại lời chia tay năm xưa. Bộ máy đã tìm thấy một bản sao bị hỏng và bạn bè của anh hỏi liệu anh có còn muốn thả bản sao đó ra hay không.\n\nNova: \"Khoảnh khắc đó không phải là tất cả câu chuyện của Sigh. Bạn vẫn muốn buông bản sao đó ra à?\"\nRain: \"Đúng vậy. Hãy ở bên tôi khi tôi làm việc đó.\"",
+        "Rain đưa hai bàn tay khum lại ra trước, như lúc ở băng ghế. Lần này, anh để đốm sáng ra đi. Thanh dẫn hướng mang ánh sáng tối duy nhất vào bộ thu có chốt. Khi bản ghi không còn bị ràng buộc bên trong anh nữa, không có áp lực giãn nở mới nào được thêm vào; cơ thể anh vẫn chưa trở về kích thước bình thường.\n\nRain: “Tôi không phải mang nó nữa.”",
+        "Sau khi bản ghi được cách ly hoàn toàn, Quest sử dụng máy ép được bảo vệ bên trong bộ thu có chốt. Bản sao nhân tạo vỡ ra và ánh sáng xanh của nó tắt. Đầu đọc đã tắt; chỉ còn lại cặn xỉn màu phía sau kính.\n\nQuest: \"Nó đã bị phá hủy. Không còn ánh sáng hoạt động nào nữa.\"",
+        "Trong vài phút yên tĩnh tiếp theo, cơ thể đàn hồi của Rain dần trở lại kích thước bình thường. Bạn bè của anh ấy đợi bên cạnh anh ấy cho đến khi sự thay đổi hoàn tất. Anh ấy vẫn là Rain, với cùng một giọt nước mắt quen thuộc và có nhiều chỗ cho nhiều cảm giác.\n\nRain: “Tôi thấy buồn và nhẹ nhõm hơn.”\nMend: “Cậu có thể cảm thấy cả hai điều đó.”",
+        "Một tuần sau, cơ thể Rain vẫn không lớn lên nữa. Rain lại đeo chiếc cổ áo ban đầu và chiếc chai rỗng, chiếc cốc yêu thích đã quay trở lại trên tay anh ấy. Có những buổi tối vẫn còn khó khăn nhưng anh và bạn bè vẫn luôn dành thời gian cho nhau.\n\nRain: “Một số buổi tối vẫn khó khăn.”\nNova: \"Hãy cho chúng tôi biết. Chúng ta sẽ tiếp tục dành thời gian bên nhau.\"",
+        "Cuối ngày hôm đó, sau chuyến đi bằng xe thông thường với Bash ở vị trí điều khiển, Rain và Nova quay trở lại băng ghế của họ ở Mosaic. Kênh, rãnh và không gian bên cạnh Rain quen thuộc. Họ ngồi ở nơi câu chuyện bắt đầu.\n\nRain: “Ngày mai vẫn ở chỗ đó?”\nNova: “Tất nhiên rồi.”"
+      ],
+      "introduction": "Sau một đêm nghỉ ngơi, Rain đã sẵn sàng đi tìm ánh sáng nhỏ mà anh tìm thấy bên dưới băng ghế. Những người bạn kiểm tra bộ máy và xin phép anh một lần nữa. Việc tìm kiếm lâu dài sắp trở thành một hành động nhỏ được lựa chọn cẩn thận.",
+      "title": "Ký ức anh mang theo"
+    },
+    "zh": {
+      "altTexts": [
+        "第二天早上，经过新的检查和 Rain 的再次确认，配对读取装置发现了他体内的一段绑定记忆记录：Sigh 的悲伤记忆循环。它的三声敲击不断重复，形成了使 Rain 的身体不断变大的扩张压力。有害循环是魔法毒素，而不是悲伤本身。",
+        "Nova解释说，记忆记录在Sigh 后来收到的那封宽慰他的信之前就结束了。 Rain不必再看旧的告别。该设备找到了一份损坏的副本，他的朋友问他是否仍想把它释放出来。",
+        "Rain像在长凳旁时那样，伸出捧拢的双手。这一次，他让光点离开。引导器将唯一的暗淡光点带入锁定的接收器中。由于记忆记录不再束缚在他体内，因此不再增加新的扩张压力；他的身体还没有恢复原来的大小。",
+        "一旦记忆记录完全隔离，Quest 就会使用锁存接收器内的防护压力机。制造出来的副本破裂，蓝光熄灭。读取装置已关闭；玻璃后面只剩下暗淡的残留物。",
+        "在接下来的几分钟里，Rain富有弹性的身体恢复到正常尺寸。他的朋友们在他身边等待，直到改变完成。他仍然是Rain，仍有那滴熟悉的眼泪，也可以同时拥有不止一种感受。",
+        "一周后，Rain 的身体仍没有再次变大。 Rain又戴上了原来的项圈和空瓶子，他最喜欢的杯子又回到了手里。有些晚上仍然很困难，但他和他的朋友们一直在为彼此腾出时间。",
+        "当天晚些时候，搭乘Bash驾驶的普通运货车回来后，Rain 和 Nova 返回 Mosaic 的长凳上。 运河、长凳上的缺口，还有Rain身旁的位置，都和记忆中一样熟悉。他们坐在故事开始的地方。"
+      ],
+      "captions": [
+        "第二天早上，经过新的检查和 Rain 的再次确认，配对读取装置发现了他体内的一段绑定记忆记录：Sigh 的悲伤记忆循环。它的三声敲击不断重复，形成了使 Rain 的身体不断变大的扩张压力。有害循环是魔法毒素，而不是悲伤本身。\n\nRain：“长凳下的光点。我以为它已经熄灭了。”",
+        "Nova解释说，记忆记录在Sigh 后来收到的那封宽慰他的信之前就结束了。 Rain不必再看旧的告别。该设备找到了一份损坏的副本，他的朋友问他是否仍想把它释放出来。\n\nNova：“那一刻还不是Sigh故事的全部。你还想放开那份副本吗？”\nRain：“是的。我做的时候陪着我。”",
+        "Rain像在长凳旁时那样，伸出捧拢的双手。这一次，他让光点离开。引导器将唯一的暗淡光点带入锁定的接收器中。由于记忆记录不再束缚在他体内，因此不再增加新的扩张压力；他的身体还没有恢复原来的大小。\n\nRain：“我不用再带着它了。”",
+        "一旦记忆记录完全隔离，Quest 就会使用锁存接收器内的防护压力机。制造出来的副本破裂，蓝光熄灭。读取装置已关闭；玻璃后面只剩下暗淡的残留物。\n\nQuest：“它被毁了。已经没有发光的部分了。”",
+        "在接下来的几分钟里，Rain富有弹性的身体恢复到正常尺寸。他的朋友们在他身边等待，直到改变完成。他仍然是Rain，仍有那滴熟悉的眼泪，也可以同时拥有不止一种感受。\n\nRain：“我感到悲伤。但也轻松了。”\nMend：“你可以同时感到这两种情绪。”",
+        "一周后，Rain 的身体仍没有再次变大。 Rain又戴上了原来的项圈和空瓶子，他最喜欢的杯子又回到了手里。有些晚上仍然很困难，但他和他的朋友们一直在为彼此腾出时间。\n\nRain：“有些晚上还是很难受。”\nNova：“告诉我们。我们会继续抽出时间在一起。”",
+        "当天晚些时候，搭乘Bash驾驶的普通运货车回来后，Rain 和 Nova 返回 Mosaic 的长凳上。 运河、长凳上的缺口，还有Rain身旁的位置，都和记忆中一样熟悉。他们坐在故事开始的地方。\n\nRain：“明天同一个地方？”\nNova：“当然。”"
+      ],
+      "introduction": "经过一夜的休息，Rain 准备寻找他在长凳下发现的光点。朋友们检查了设备并再次征求他的许可。漫长的搜寻即将变成一项精心选择的小行动。",
+      "title": "他携带的记忆"
+    }
+  },
+  "number": 25,
+  "panels": [
+    {
+      "altText": "The next morning, after fresh checks and Rain's renewed yes, the paired reader finds one bound recording inside him: Sigh's sad-memory loop. Its three taps keep repeating, building the expansion pressure that has made Rain grow. The harmful loop is the magical poison—not sadness itself.",
+      "image": "N01E25P01.png"
+    },
+    {
+      "altText": "Nova explains that the recording ended before Sigh's reassuring letter. Rain does not have to watch the old farewell again. The apparatus has located a damaged copy, and his friends ask whether he still wants to release it.",
+      "image": "N01E25P02.png"
+    },
+    {
+      "altText": "Rain holds out his cupped hands, as he did at the bench. This time, he lets the light go. The guide carries the single dark light into the latched receiver. With the recording no longer bound inside him, no new expansion pressure is added; his body has not yet settled back.",
+      "image": "N01E25P03.png"
+    },
+    {
+      "altText": "Once the recording is fully isolated, Quest uses the guarded press inside the latched receiver. The manufactured copy breaks and its blue light goes out. The reader is switched off; only dull residue remains behind the glass.",
+      "image": "N01E25P04.png"
+    },
+    {
+      "altText": "Over the next few quiet minutes, Rain's elastic body settles back to its ordinary size. His friends wait beside him until the change is complete. He is still Rain, with the same familiar tear and room for more than one feeling.",
+      "image": "N01E25P05.png"
+    },
+    {
+      "altText": "One week later, the growth has not returned. Rain wears his original collar and empty bottle again, and his favorite cup is back in his hands. Some evenings are still difficult, but he and his friends keep making time for one another.",
+      "image": "N01E25P06.png"
+    },
+    {
+      "altText": "Later that day, after an ordinary wagon ride with Bash at the controls, Rain and Nova return to their bench in Mosaic. The canal, the notch and the space beside Rain are familiar. They sit where the story began.",
+      "image": "N01E25P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "care",
+    "friendship",
+    "mystery"
+  ],
+  "version": 1
+}

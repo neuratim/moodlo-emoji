@@ -1,0 +1,439 @@
+{
+  "id": "N03E14",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "ينتظر تافي خارج باب لوما الفيروزي المغلق.",
+        "يتحدث تافي من مسافة محترمة خارج الباب.",
+        "يستمع تافي وباب لوما ما زال مغلقا.",
+        "يكتب تافي في دفتر صغير خارج المشغل.",
+        "يظهر نصف رسم مطوي من تحت الباب المغلق.",
+        "يحمل تافي الرسم ويلتفت نحو الطريق.",
+        "يسلم تافي الرسم المطوي إلى سيلي في مركز البريد."
+      ],
+      "captions": [
+        "قبل مغادرة البلدة، ذهب تافي إلى مشغل لوما. توقف في الخارج ولم يحاول إدارة المقبض.",
+        "نادى: «أصحح الإعلان. هل تسمحين لي بأن أخبر الناس لماذا غبت عن موعدنا؟»",
+        "أجابت لوما من خلف الباب: «يمكنك القول إنني كنت أساعد عند المنحدر. لا تشارك رسائلنا الخاصة».",
+        "كتب تافي هذا الحد في دفتره. وقال: «ولن أرسل ردودا شخصية عبر الآلة».",
+        "مررت لوما قياسات المدخل تحت الباب. «هذه لسيلي. لست مستعدة للعمل معك بعد».",
+        "قال تافي: «شكرا». أخذ الرسم واحترم صمتها. ظل الباب مغلقا.",
+        "في مركز البريد، سلم القياسات إلى سيلي. هذه المرة، وصلت رسالة مهمة بلا حكم مضاف."
+      ],
+      "introduction": "تضع لوما حدودا لمشاركتها، ويتعلم تافي احترامها.",
+      "title": "الباب الذي بقي مغلقا"
+    },
+    "bn": {
+      "altTexts": [
+        "টাভি লুমার বন্ধ নীলচে-সবুজ দরজার বাইরে অপেক্ষা করছে।",
+        "টাভি দরজা থেকে যথাযথ দূরত্ব রেখে কথা বলছে।",
+        "টাভি শুনছে, লুমার দরজা বন্ধই আছে।",
+        "টাভি কাজের ঘরের বাইরে ছোট নোটবুকে লিখছে।",
+        "বন্ধ দরজার নিচ দিয়ে ভাঁজ করা নকশা অর্ধেক বেরিয়ে আছে।",
+        "টাভি নকশা নিয়ে রাস্তার দিকে ঘুরছে।",
+        "টাভি ডাকঘরে সেলিকে ভাঁজ করা নকশা দিচ্ছে।"
+      ],
+      "captions": [
+        "শহর ছাড়ার আগে টাভি লুমার কাজের ঘরে গেল। হাতল ঘোরানোর চেষ্টা না করে বাইরে থামল।",
+        "সে ডাকল, “ঘোষণাটি ঠিক করছি। তুমি কেন আসতে পারোনি, সবাইকে বলতে পারি?”",
+        "লুমা দরজার ওপার থেকে বলল, “ঢালু পথের কাজে সাহায্য করছিলাম বলতে পারো। আমাদের ব্যক্তিগত বার্তা দেখিয়ো না।”",
+        "টাভি সীমাটি নোটবুকে লিখল। “আর যন্ত্র দিয়ে ব্যক্তিগত উত্তর পাঠাব না,” সে বলল।",
+        "লুমা দরজার নিচ দিয়ে প্রবেশপথের মাপ দিল। “এগুলো সেলির জন্য। তোমার সঙ্গে কাজ করতে এখনও প্রস্তুত নই।”",
+        "“ধন্যবাদ,” টাভি বলল। সে নকশা নিল এবং লুমার নীরবতাকে সম্মান করল। দরজা বন্ধ রইল।",
+        "ডাকঘরে টাভি মাপ সেলিকে দিল। এবার একটি জরুরি বার্তার সঙ্গে বাড়তি রায় যোগ হলো না।"
+      ],
+      "introduction": "লুমা নিজের অংশগ্রহণের সীমা ঠিক করে, আর টাভি সেই সীমা সম্মান করতে শেখে।",
+      "title": "বন্ধ থাকা দরজা"
+    },
+    "cs": {
+      "altTexts": [
+        "Tavi čeká před Luminými zavřenými tyrkysovými dveřmi.",
+        "Tavi mluví z uctivé vzdálenosti přede dveřmi.",
+        "Tavi naslouchá; Luminy dveře zůstávají zavřené.",
+        "Tavi píše do malého sešitu před dílnou.",
+        "Pod zavřenými dveřmi leží napůl prostrčený výkres.",
+        "Tavi drží výkres a otáčí se k ulici.",
+        "Tavi podává přeložený výkres Seli na poště."
+      ],
+      "captions": [
+        "Než vyrazil z města, Tavi zašel k Lumině dílně. Zastavil se venku, místo aby zkusil kliku.",
+        "„Opravuji to oznámení,“ zavolal. „Smím lidem říct, proč jsi nepřišla na naši schůzku?“",
+        "Luma odpověděla přes dveře. „Můžeš říct, že jsem pomáhala u rampy. Naše soukromé zprávy nesdílej.“",
+        "Tavi si hranici zapsal do sešitu. „A osobní odpovědi už přes stroj posílat nebudu,“ řekl.",
+        "Pod dveřmi Luma podala rozměry vstupu. „Tohle je pro Seli. Ještě nejsem připravená s tebou pracovat.“",
+        "„Děkuji,“ řekl Tavi. Vzal si výkres a respektoval její mlčení. Dveře zůstaly zavřené.",
+        "Na poště předal rozměry Seli. Důležitá zpráva tentokrát dorazila bez přidaného úsudku."
+      ],
+      "introduction": "Luma stanoví hranice svého zapojení a Tavi se je učí respektovat.",
+      "title": "Dveře zůstávají zavřené"
+    },
+    "de": {
+      "altTexts": [
+        "Tavi wartet vor Lumas geschlossener türkisfarbener Tür.",
+        "Tavi spricht mit respektvollem Abstand vor der Tür.",
+        "Tavi hört zu; Lumas Tür bleibt geschlossen.",
+        "Tavi schreibt vor dem Atelier in ein kleines Notizbuch.",
+        "Eine gefaltete Zeichnung liegt halb unter der geschlossenen Tür.",
+        "Tavi hält die Zeichnung und wendet sich zur Gasse.",
+        "Tavi reicht Seli im Depot die gefaltete Zeichnung."
+      ],
+      "captions": [
+        "Vor der Abreise ging Tavi zu Lumas Atelier. Er blieb draußen stehen, statt die Klinke zu drücken.",
+        "„Ich berichtige die Ankündigung“, rief er. „Darf ich erzählen, warum du unser Treffen verpasst hast?“",
+        "Luma antwortete durch die Tür. „Du darfst sagen, dass ich an der Rampe geholfen habe. Teile unsere privaten Nachrichten nicht.“",
+        "Tavi schrieb die Grenze in sein Notizbuch. „Und ich werde keine persönlichen Antworten mehr durch die Maschine schicken“, sagte er.",
+        "Luma schob die Eingangsmaße unter der Tür durch. „Die sind für Seli. Ich bin noch nicht bereit, wieder mit dir zu arbeiten.“",
+        "„Danke“, sagte Tavi. Er nahm die Zeichnung und respektierte ihr Schweigen. Die Tür blieb zu.",
+        "Im Depot übergab er Seli die Maße. Diesmal kam eine wichtige Nachricht ohne zusätzliches Urteil an."
+      ],
+      "introduction": "Luma setzt ihrer Beteiligung Grenzen, und Tavi lernt, sie zu respektieren.",
+      "title": "Die Tür bleibt zu"
+    },
+    "en": {
+      "altTexts": [
+        "Tavi waits outside Luma’s closed teal door.",
+        "Tavi speaks from a respectful distance outside the door.",
+        "Tavi listens; Luma’s door stays closed.",
+        "Tavi writes in a small notebook outside the studio.",
+        "A folded drawing rests halfway under the closed door.",
+        "Tavi holds the drawing and turns toward the lane.",
+        "Tavi hands the folded drawing to Seli at the depot."
+      ],
+      "captions": [
+        "Before leaving town, Tavi went to Luma’s studio. He stopped outside instead of trying the handle.",
+        "“I’m correcting the announcement,” he called. “May I tell people why you missed our meeting?”",
+        "Luma answered through the door. “You may say I was helping at the ramp. Don’t share our private messages.”",
+        "Tavi wrote the limit in his notebook. “And I won’t send personal replies through the machine,” he said.",
+        "Under the door, Luma passed the entrance measurements. “These are for Seli. I’m not ready to work with you yet.”",
+        "“Thank you,” Tavi said. He took the drawing and respected her silence. The door remained closed.",
+        "At the depot, he gave Seli the measurements. For once, an important message arrived without an added judgment."
+      ],
+      "introduction": "Luma sets limits on her involvement, and Tavi learns to respect them.",
+      "title": "The Door Left Closed"
+    },
+    "es": {
+      "altTexts": [
+        "Tavi espera frente a la puerta turquesa cerrada de Luma.",
+        "Tavi habla manteniendo una distancia respetuosa ante la puerta.",
+        "Tavi escucha; la puerta de Luma sigue cerrada.",
+        "Tavi escribe en un cuaderno pequeño fuera del estudio.",
+        "Un dibujo doblado asoma por debajo de la puerta cerrada.",
+        "Tavi sostiene el dibujo y se vuelve hacia la calle.",
+        "Tavi entrega el dibujo doblado a Seli en la oficina."
+      ],
+      "captions": [
+        "Antes de salir de la ciudad, Tavi fue al estudio de Luma. Se detuvo fuera sin probar el picaporte.",
+        "«Estoy corrigiendo el anuncio», dijo desde fuera. «¿Puedo contar por qué faltaste a nuestra reunión?».",
+        "Luma respondió desde dentro. «Puedes decir que estaba ayudando en la rampa. No compartas nuestros mensajes privados».",
+        "Tavi anotó aquel límite. «Y no enviaré respuestas personales a través de la máquina», dijo.",
+        "Luma pasó las medidas de la entrada por debajo de la puerta. «Son para Seli. Todavía no estoy lista para trabajar contigo».",
+        "«Gracias», dijo Tavi. Recogió el dibujo y respetó su silencio. La puerta siguió cerrada.",
+        "En la oficina de reparto entregó las medidas a Seli. Por una vez, un mensaje importante llegó sin un juicio añadido."
+      ],
+      "introduction": "Luma establece los límites de su participación, y Tavi aprende a respetarlos.",
+      "title": "La puerta que siguió cerrada"
+    },
+    "fr": {
+      "altTexts": [
+        "Tavi attend devant la porte turquoise fermée de Luma.",
+        "Tavi parle à distance respectueuse devant la porte.",
+        "Tavi écoute ; la porte de Luma reste fermée.",
+        "Tavi écrit dans un petit carnet devant l’atelier.",
+        "Un dessin plié dépasse à moitié sous la porte fermée.",
+        "Tavi tient le dessin et se tourne vers la rue.",
+        "Tavi remet le dessin plié à Seli au dépôt."
+      ],
+      "captions": [
+        "Avant de quitter la ville, Tavi alla à l’atelier de Luma. Il s’arrêta dehors sans essayer la poignée.",
+        "« Je rectifie l’annonce », appela-t-il. « Puis-je dire pourquoi tu as manqué notre rendez-vous ? »",
+        "Luma répondit derrière la porte. « Tu peux dire que j’aidais à la rampe. Ne partage pas nos messages privés. »",
+        "Tavi nota cette limite dans son carnet. « Et je n’enverrai plus de réponses personnelles par la machine », dit-il.",
+        "Luma glissa les mesures de l’entrée sous la porte. « C’est pour Seli. Je ne suis pas encore prête à travailler avec toi. »",
+        "« Merci », dit Tavi. Il prit le dessin et respecta son silence. La porte resta fermée.",
+        "Au dépôt, il remit les mesures à Seli. Pour une fois, un message important arriva sans jugement ajouté."
+      ],
+      "introduction": "Luma fixe les limites de sa participation, et Tavi apprend à les respecter.",
+      "title": "La porte restée fermée"
+    },
+    "hi": {
+      "altTexts": [
+        "तावी लूमा के बंद फिरोज़ी दरवाज़े के बाहर इंतज़ार कर रहा है।",
+        "तावी दरवाज़े से उचित दूरी रखकर बोल रहा है।",
+        "तावी सुन रहा है और लूमा का दरवाज़ा बंद है।",
+        "तावी कामघर के बाहर छोटी नोटबुक में लिख रहा है।",
+        "बंद दरवाज़े के नीचे से मुड़ा नक्शा आधा बाहर निकला है।",
+        "तावी नक्शा लेकर रास्ते की ओर मुड़ रहा है।",
+        "तावी डाकघर में सेली को मुड़ा नक्शा दे रहा है।"
+      ],
+      "captions": [
+        "कस्बा छोड़ने से पहले तावी लूमा के कामघर गया। उसने हैंडल घुमाने के बजाय बाहर रुकना चुना।",
+        "उसने आवाज़ दी, “मैं घोषणा सुधार रहा हूँ। क्या लोगों को बता सकता हूँ कि तुम मुलाकात में क्यों नहीं आई थीं?”",
+        "लूमा ने अंदर से कहा, “बता सकते हो कि मैं रैंप में मदद कर रही थी। हमारे निजी संदेश मत दिखाना।”",
+        "तावी ने सीमा अपनी नोटबुक में लिखी। “और मशीन से निजी जवाब भी नहीं भेजूँगा,” उसने कहा।",
+        "लूमा ने दरवाज़े के नीचे से प्रवेश-द्वार की नाप दी। “यह सेली के लिए है। अभी तुम्हारे साथ काम करने को तैयार नहीं हूँ।”",
+        "“धन्यवाद,” तावी बोला। उसने नक्शा लिया और लूमा की चुप्पी का सम्मान किया। दरवाज़ा बंद ही रहा।",
+        "डाकघर में उसने नाप सेली को दे दी। इस बार एक जरूरी संदेश में अपनी ओर से फैसला नहीं जोड़ा गया।"
+      ],
+      "introduction": "लूमा अपनी भागीदारी की सीमाएँ तय करती है और तावी उनका सम्मान करना सीखता है।",
+      "title": "बंद रहने दिया गया दरवाज़ा"
+    },
+    "id": {
+      "altTexts": [
+        "Tavi menunggu di luar pintu hijau kebiruan Luma yang tertutup.",
+        "Tavi berbicara sambil menjaga jarak yang sopan dari pintu.",
+        "Tavi mendengarkan; pintu Luma tetap tertutup.",
+        "Tavi menulis di buku kecil di luar studio.",
+        "Gambar terlipat menyembul separuh dari bawah pintu tertutup.",
+        "Tavi memegang gambar dan berbalik menuju jalan.",
+        "Tavi menyerahkan gambar terlipat kepada Seli di kantor pengiriman."
+      ],
+      "captions": [
+        "Sebelum meninggalkan kota, Tavi mendatangi studio Luma. Ia berhenti di luar, bukan mencoba gagang pintunya.",
+        "“Aku sedang membetulkan pengumuman itu,” panggilnya. “Boleh kuceritakan kenapa kamu tidak datang ke pertemuan kita?”",
+        "Luma menjawab dari dalam. “Boleh bilang aku membantu di jalur landai. Jangan bagikan pesan pribadi kita.”",
+        "Tavi mencatat batas itu di buku kecilnya. “Aku juga tidak akan mengirim balasan pribadi lewat mesin lagi,” katanya.",
+        "Luma menyelipkan ukuran pintu masuk di bawah pintu. “Ini untuk Seli. Aku belum siap bekerja bersamamu.”",
+        "“Terima kasih,” kata Tavi. Ia mengambil gambar itu dan menghormati diamnya Luma. Pintu tetap tertutup.",
+        "Di kantor pengiriman, ia memberikan ukuran itu kepada Seli. Kali ini, pesan penting sampai tanpa tambahan penilaian."
+      ],
+      "introduction": "Luma menetapkan batas keterlibatannya, dan Tavi belajar menghormatinya.",
+      "title": "Pintu yang Tetap Tertutup"
+    },
+    "it": {
+      "altTexts": [
+        "Tavi aspetta davanti alla porta turchese chiusa di Luma.",
+        "Tavi parla da una distanza rispettosa davanti alla porta.",
+        "Tavi ascolta; la porta di Luma resta chiusa.",
+        "Tavi scrive in un piccolo quaderno fuori dallo studio.",
+        "Un disegno piegato sporge a metà sotto la porta chiusa.",
+        "Tavi tiene il disegno e si volta verso la strada.",
+        "Tavi consegna il disegno piegato a Seli nell’ufficio."
+      ],
+      "captions": [
+        "Prima di lasciare la città, Tavi andò allo studio di Luma. Si fermò fuori senza provare la maniglia.",
+        "«Sto correggendo l’annuncio», chiamò. «Posso dire perché hai saltato il nostro incontro?»",
+        "Luma rispose da dentro. «Puoi dire che aiutavo alla rampa. Non condividere i nostri messaggi privati».",
+        "Tavi annotò quel limite nel quaderno. «E non manderò risposte personali attraverso la macchina», disse.",
+        "Luma passò le misure dell’ingresso sotto la porta. «Sono per Seli. Non sono ancora pronta a lavorare con te».",
+        "«Grazie», disse Tavi. Prese il disegno e rispettò il suo silenzio. La porta rimase chiusa.",
+        "All’ufficio consegne, porse le misure a Seli. Per una volta, un messaggio importante arrivò senza un giudizio aggiunto."
+      ],
+      "introduction": "Luma pone dei limiti al proprio coinvolgimento e Tavi impara a rispettarli.",
+      "title": "La porta rimasta chiusa"
+    },
+    "ja": {
+      "altTexts": [
+        "タヴィがルマの閉じた青緑の扉の外で待っています。",
+        "タヴィが扉から距離を置いて話しています。",
+        "タヴィが聞いています。ルマの扉は閉じたままです。",
+        "タヴィが工房の外で小さな手帳に書いています。",
+        "折った図面が、閉じた扉の下から半分出ています。",
+        "タヴィが図面を持ち、道のほうへ向き直っています。",
+        "タヴィが郵便所でセリに折った図面を渡しています。"
+      ],
+      "captions": [
+        "町を出る前に、タヴィはルマの工房へ行きました。取っ手を試さず、外で立ち止まりました。",
+        "「お知らせを訂正しているんだ。約束に来られなかった理由を、皆に伝えてもいい？」と呼びかけました。",
+        "ルマは扉越しに答えました。「スロープを手伝っていたことはいいわ。でも、個人的なやり取りは見せないで」",
+        "タヴィはその条件を手帳に書きました。「それから、個人的な返信を機械で送ることはもうしないよ」",
+        "扉の下から入口の寸法図が出てきました。「これはセリに。あなたと一緒に働く準備は、まだできていないの」",
+        "「ありがとう」。タヴィは図面を受け取り、ルマの沈黙を尊重しました。扉は閉じたままでした。",
+        "郵便所で、タヴィは寸法をセリに渡しました。大切な連絡が、余分な決めつけなしに届きました。"
+      ],
+      "introduction": "ルマは自分が関わる範囲を決め、タヴィはその境界を尊重することを学びます。",
+      "title": "開かない扉"
+    },
+    "ko": {
+      "altTexts": [
+        "타비가 루마의 닫힌 청록색 문 밖에서 기다려요.",
+        "타비가 문에서 적당히 떨어져 말을 걸어요.",
+        "타비가 귀를 기울이고, 루마의 문은 닫혀 있어요.",
+        "타비가 공방 밖에서 작은 수첩에 기록해요.",
+        "접힌 도면이 닫힌 문 아래로 반쯤 나와 있어요.",
+        "타비가 도면을 들고 길 쪽으로 돌아서요.",
+        "타비가 우편소에서 셀리에게 접힌 도면을 건네요."
+      ],
+      "captions": [
+        "마을을 떠나기 전, 타비는 루마의 공방을 찾아갔어요. 손잡이를 돌려 보지 않고 밖에 멈췄어요.",
+        "“공지문을 바로잡고 있어. 네가 약속에 못 온 이유를 사람들에게 말해도 될까?” 타비가 물었어요.",
+        "루마가 문 너머에서 답했어요. “경사로를 돕고 있었다고 해도 돼. 하지만 우리 개인 메시지는 공개하지 마.”",
+        "타비는 그 한계를 수첩에 적었어요. “그리고 기계로 개인 답장을 보내지 않을게.”",
+        "루마가 문 아래로 입구 치수 도면을 내밀었어요. “셀리에게 전해 줘. 너와 함께 일할 준비는 아직 안 됐어.”",
+        "“고마워.” 타비는 도면을 받고 루마의 침묵을 존중했어요. 문은 그대로 닫혀 있었어요.",
+        "우편소에서 타비는 도면을 셀리에게 전했어요. 이번에는 중요한 소식에 제멋대로 내린 판단을 덧붙이지 않았어요."
+      ],
+      "introduction": "루마는 자신이 참여할 범위를 정하고, 타비는 그 경계를 존중하는 법을 배웁니다.",
+      "title": "닫아 둔 문"
+    },
+    "pl": {
+      "altTexts": [
+        "Tavi czeka przed zamkniętymi turkusowymi drzwiami Lumy.",
+        "Tavi mówi, zachowując odpowiedni odstęp od drzwi.",
+        "Tavi słucha; drzwi Lumy pozostają zamknięte.",
+        "Tavi pisze w małym notesie przed pracownią.",
+        "Złożony rysunek wystaje do połowy spod zamkniętych drzwi.",
+        "Tavi trzyma rysunek i odwraca się w stronę uliczki.",
+        "Tavi podaje Seli złożony rysunek w punkcie wysyłkowym."
+      ],
+      "captions": [
+        "Przed wyjazdem z miasta Tavi poszedł do pracowni Lumy. Zatrzymał się na zewnątrz, zamiast naciskać klamkę.",
+        "„Prostuję ogłoszenie”, zawołał. „Czy mogę powiedzieć, dlaczego nie przyszłaś na nasze spotkanie?”",
+        "Luma odpowiedziała przez drzwi. „Możesz powiedzieć, że pomagałam przy rampie. Nie udostępniaj naszych prywatnych wiadomości”.",
+        "Tavi zapisał tę granicę w notesie. „Nie będę też wysyłać osobistych odpowiedzi przez maszynę”, powiedział.",
+        "Luma wsunęła pod drzwiami wymiary wejścia. „To dla Seli. Jeszcze nie jestem gotowa z tobą pracować”.",
+        "„Dziękuję”, powiedział Tavi. Wziął rysunek i uszanował jej milczenie. Drzwi pozostały zamknięte.",
+        "W punkcie wysyłkowym przekazał wymiary Seli. Tym razem ważna wiadomość dotarła bez dołączonego osądu."
+      ],
+      "introduction": "Luma wyznacza granice swojego udziału, a Tavi uczy się je szanować.",
+      "title": "Drzwi pozostają zamknięte"
+    },
+    "pt": {
+      "altTexts": [
+        "Tavi espera diante da porta turquesa fechada de Luma.",
+        "Tavi fala mantendo uma distância respeitosa da porta.",
+        "Tavi escuta; a porta de Luma permanece fechada.",
+        "Tavi escreve em um pequeno caderno fora do ateliê.",
+        "Um desenho dobrado aparece pela metade sob a porta fechada.",
+        "Tavi segura o desenho e se vira para a rua.",
+        "Tavi entrega o desenho dobrado a Seli na central."
+      ],
+      "captions": [
+        "Antes de sair da cidade, Tavi foi ao ateliê de Luma. Parou do lado de fora sem tentar girar a maçaneta.",
+        "“Estou corrigindo o anúncio”, chamou. “Posso contar por que você faltou ao nosso encontro?”",
+        "Luma respondeu de dentro. “Pode dizer que eu estava ajudando na rampa. Não compartilhe nossas mensagens particulares.”",
+        "Tavi anotou o limite no caderno. “E não vou enviar respostas pessoais pela máquina”, disse.",
+        "Luma passou as medidas da entrada por baixo da porta. “São para Seli. Ainda não estou pronta para trabalhar com você.”",
+        "“Obrigado”, disse Tavi. Pegou o desenho e respeitou o silêncio dela. A porta continuou fechada.",
+        "Na central, entregou as medidas a Seli. Pela primeira vez, uma mensagem importante chegou sem um julgamento acrescentado."
+      ],
+      "introduction": "Luma estabelece limites para sua participação, e Tavi aprende a respeitá-los.",
+      "title": "A porta que continuou fechada"
+    },
+    "ru": {
+      "altTexts": [
+        "Тави ждёт перед закрытой бирюзовой дверью Лумы.",
+        "Тави говорит, соблюдая расстояние от двери.",
+        "Тави слушает; дверь Лумы остаётся закрытой.",
+        "Тави делает запись в маленьком блокноте возле студии.",
+        "Сложенный чертёж наполовину выступает из-под закрытой двери.",
+        "Тави держит чертёж и поворачивается к улице.",
+        "Тави передаёт сложенный чертёж Сели на почте."
+      ],
+      "captions": [
+        "Перед отъездом Тави пришёл к студии Лумы. Он остановился снаружи и не стал трогать ручку.",
+        "«Я исправляю объявление, — позвал он. — Можно рассказать, почему ты пропустила нашу встречу?»",
+        "Лума ответила из-за двери: «Можно сказать, что я помогала с пандусом. Личные сообщения не показывай».",
+        "Тави записал это ограничение. «И личных ответов через машину больше не будет», — сказал он.",
+        "Лума просунула под дверью чертёж входа. «Это для Сели. Работать с тобой я пока не готова».",
+        "«Спасибо», — сказал Тави. Он взял чертёж и отнёсся с уважением к её молчанию. Дверь осталась закрытой.",
+        "На почте он передал размеры Сели. На этот раз важное сообщение дошло без добавленного суждения."
+      ],
+      "introduction": "Лума устанавливает границы своего участия, а Тави учится их уважать.",
+      "title": "Закрытая дверь"
+    },
+    "tr": {
+      "altTexts": [
+        "Tavi, Luma’nın kapalı turkuaz kapısının önünde bekliyor.",
+        "Tavi, kapının önünde saygılı bir uzaklıktan konuşuyor.",
+        "Tavi dinliyor; Luma’nın kapısı kapalı kalıyor.",
+        "Tavi, atölyenin dışında küçük bir deftere yazıyor.",
+        "Katlanmış bir çizim, kapalı kapının altından yarıya kadar çıkıyor.",
+        "Tavi çizimi tutarak sokağa dönüyor.",
+        "Tavi, katlanmış çizimi merkezde Seli’ye veriyor."
+      ],
+      "captions": [
+        "Kasabadan ayrılmadan önce Tavi, Luma’nın atölyesine gitti. Kapı kolunu denemek yerine dışarıda durdu.",
+        "“Duyuruyu düzeltiyorum,” diye seslendi. “Buluşmaya neden gelmediğini anlatabilir miyim?”",
+        "Luma kapının arkasından yanıtladı. “Rampada yardım ettiğimi söyleyebilirsin. Özel mesajlarımızı paylaşma.”",
+        "Tavi sınırı defterine yazdı. “Artık kişisel yanıtları makineden göndermeyeceğim,” dedi.",
+        "Luma giriş ölçülerini kapının altından uzattı. “Bunlar Seli için. Seninle çalışmaya henüz hazır değilim.”",
+        "“Teşekkür ederim,” dedi Tavi. Çizimi aldı ve Luma’nın sessizliğine saygı gösterdi. Kapı kapalı kaldı.",
+        "Dağıtım merkezinde ölçüleri Seli’ye verdi. Bu kez önemli bir mesaj, eklenmiş bir yargı olmadan ulaştı."
+      ],
+      "introduction": "Luma kendi katılımına sınırlar koyar ve Tavi bu sınırlara saygı duymayı öğrenir.",
+      "title": "Kapalı Kalan Kapı"
+    },
+    "vi": {
+      "altTexts": [
+        "Tavi chờ trước cánh cửa xanh ngọc đang đóng của Luma.",
+        "Tavi nói từ khoảng cách tôn trọng trước cửa.",
+        "Tavi lắng nghe; cửa của Luma vẫn đóng.",
+        "Tavi viết vào sổ nhỏ bên ngoài xưởng.",
+        "Một bản vẽ gấp nhô ra nửa chừng dưới cửa đóng.",
+        "Tavi cầm bản vẽ và quay ra đường.",
+        "Tavi đưa bản vẽ gấp cho Seli ở trạm."
+      ],
+      "captions": [
+        "Trước khi rời thị trấn, Tavi đến xưởng của Luma. Cậu dừng bên ngoài thay vì thử tay nắm.",
+        "“Mình đang đính chính thông báo,” cậu gọi. “Mình có thể kể vì sao cậu lỡ cuộc hẹn không?”",
+        "Luma trả lời qua cửa. “Cậu có thể nói mình giúp sửa đường dốc. Đừng chia sẻ thư riêng của chúng ta.”",
+        "Tavi ghi giới hạn ấy vào sổ. “Mình cũng sẽ không gửi thư riêng qua máy nữa,” cậu nói.",
+        "Luma luồn bản kích thước lối vào dưới cửa. “Đây là cho Seli. Mình chưa sẵn sàng làm việc với cậu.”",
+        "“Cảm ơn cậu,” Tavi nói. Cậu nhận bản vẽ và tôn trọng sự im lặng của Luma. Cửa vẫn đóng.",
+        "Ở trạm giao nhận, cậu đưa kích thước cho Seli. Lần này, một thông tin quan trọng đến nơi mà không kèm phán xét."
+      ],
+      "introduction": "Luma đặt giới hạn cho sự tham gia của mình, và Tavi học cách tôn trọng những giới hạn ấy.",
+      "title": "Cánh cửa vẫn đóng"
+    },
+    "zh": {
+      "altTexts": [
+        "塔维在卢玛紧闭的青绿色门外等候。",
+        "塔维与门保持距离，在外面说话。",
+        "塔维听着，卢玛的门仍然关着。",
+        "塔维在工作间外的小笔记本上记录。",
+        "一张折好的图纸从紧闭的门下伸出一半。",
+        "塔维拿着图纸，转身走向小路。",
+        "塔维在邮递站把折好的图纸交给塞莉。"
+      ],
+      "captions": [
+        "离开小镇前，塔维来到卢玛的工作间。他停在门外，没有试着转动门把手。",
+        "“我正在更正公告，”他隔门说道，“可以告诉大家，你那天为什么没来吗？”",
+        "卢玛隔着门回答：“可以说我在帮忙修坡道。但别公开我们的私人消息。”",
+        "塔维把这个界限记进笔记本：“我也不会再通过机器发私人回复。”",
+        "卢玛从门下递出入口尺寸图：“这是给塞莉的。我还没准备好和你一起工作。”",
+        "“谢谢。”塔维拿起图纸，尊重她的沉默。门依然关着。",
+        "在邮递站，他把尺寸交给塞莉。这一次，重要的消息没有夹带额外的判断。"
+      ],
+      "introduction": "卢玛为自己的参与设下界限，塔维学着尊重这些界限。",
+      "title": "仍然关着的门"
+    }
+  },
+  "number": 14,
+  "panels": [
+    {
+      "altText": "Tavi waits outside Luma’s closed teal door.",
+      "image": "N03E14P01.png"
+    },
+    {
+      "altText": "Tavi speaks from a respectful distance outside the door.",
+      "image": "N03E14P02.png"
+    },
+    {
+      "altText": "Tavi listens; Luma’s door stays closed.",
+      "image": "N03E14P03.png"
+    },
+    {
+      "altText": "Tavi writes in a small notebook outside the studio.",
+      "image": "N03E14P04.png"
+    },
+    {
+      "altText": "A folded drawing rests halfway under the closed door.",
+      "image": "N03E14P05.png"
+    },
+    {
+      "altText": "Tavi holds the drawing and turns toward the lane.",
+      "image": "N03E14P06.png"
+    },
+    {
+      "altText": "Tavi hands the folded drawing to Seli at the depot.",
+      "image": "N03E14P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "communication",
+    "listening",
+    "responsibility"
+  ],
+  "version": 1
+}

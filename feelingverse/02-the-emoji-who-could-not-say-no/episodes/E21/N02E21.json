@@ -1,0 +1,442 @@
+{
+  "id": "N02E21",
+  "localizations": {
+    "ar": {
+      "altTexts": [
+        "تستيقظ ميند في غرفة الضيوف والمطر مستمر.",
+        "تتفقد سيلا والأصدقاء شتلات سليمة يحميها السقف من المطر.",
+        "العبّارة ذات المظلة الزرقاء ما زالت مربوطة برصيف نيري.",
+        "يشير روك إلى النهر المضطرب من الرصيف الآمن.",
+        "يعرض تافي الطريق البري البديل على الخريطة.",
+        "تجلس ميند بجانب تافي وهاش على مقعد مظلل.",
+        "تدعو سيلا الأصدقاء إلى طاولة تحت سقف الفناء."
+      ],
+      "captions": [
+        "في صباح اليوم الخامس، ظل المطر يطرق المصاريع. استيقظت ميند في نيري، لا على طريق نحو ثلاثة مواعيد ظهر مستحيلة.",
+        "بعد الفطور فحصوا المشتل مع سيلا. صمد الغطاءان وبقيت المظلة جافة. لم تحتج نبتة إلى إنقاذ بطولي.",
+        "عند الرصيف، كان روك قد ركب المظلة المصلحة. لكن النهر كان مضطربًا، فأبقى العبّارة مربوطة بأمان.",
+        "قال روك: «إصلاح المظلة لا يضمن أن عبور النهر آمن». أومأت ميند. إتمام المهمة لا يعني تجاهل ظرف جديد.",
+        "فتح تافي الخريطة. يمكن سلوك الطريق الشرقي ذي الساعات الثلاث، لكن لا موعد يجبرهم على المغادرة الآن.",
+        "اختاروا الانتظار في نيري. شعرت ميند بالتململ، ثم جلست بجانب أصدقائها بدل اختراع عمل عاجل لتبرير بقائها.",
+        "قرب الظهر، دعتهم سيلا إلى وجبة صغيرة للاحتفال بالافتتاح في فناء نيري المسقوف. كانوا مرحبًا بهم، حتى من دون أن يحضروا عملًا معهم."
+      ],
+      "introduction": "النهر ليس آمنًا بعد، فيختار الأصدقاء البقاء في نيري.",
+      "title": "يمكن للعبّارة أن تنتظر"
+    },
+    "bn": {
+      "altTexts": [
+        "মেন্ড অতিথিঘরে জেগে ওঠে; বাইরে বৃষ্টি হচ্ছে।",
+        "সেলা ও বন্ধুরা ছাউনির নিচে বৃষ্টি থেকে রক্ষা পাওয়া সুস্থ চারাগুলো দেখছে।",
+        "নীল ছাউনির নৌকা নেরির ঘাটে বাঁধা আছে।",
+        "রুক নিরাপদ ঘাট থেকে অশান্ত নদী দেখায়।",
+        "টাভি মানচিত্রে বিকল্প সড়ক দেখায়।",
+        "মেন্ড টাভি ও হাশের পাশে ছাদওয়ালা বেঞ্চে বসে।",
+        "সেলা তিন বন্ধুকে ছাদওয়ালা খাবারের টেবিলে ডাকে।"
+      ],
+      "captions": [
+        "পঞ্চম সকালেও বৃষ্টি জানালায় পড়ছিল। মেন্ড নেরিতে জাগল, তিন অসম্ভব দুপুরের সাক্ষাতের দিকে যাওয়ার পথে নয়।",
+        "খাওয়ার পরে সেলার সঙ্গে বাগান দেখল। ঢাকনা ঠিক, ছাদের নিচে শুকনো। কোনও চারার জন্য বীরের উদ্ধার দরকার হলো না।",
+        "ঘাটে রুক সারানো ছাউনি নৌকায় লাগিয়ে রেখেছিল। কিন্তু নদী অশান্ত, তাই নৌকা নিরাপদে বাঁধা থাকল।",
+        "“ছাউনি সারানো মানেই নদী নিরাপদ নয়,” রুক বলল। মেন্ড মাথা নাড়ল। কাজ শেষ হলেও নতুন অবস্থা দেখতে হয়।",
+        "টাভি মানচিত্র খুলল। পূর্বের তিন ঘণ্টার সড়ক নেওয়া যায়, কিন্তু এখনই বেরোনো জরুরি এমন কথা নেই।",
+        "তারা নেরিতে অপেক্ষা বেছে নিল। মেন্ড অস্থির হলো, তারপর থাকার কারণ বানাতে নতুন জরুরি কাজ না গড়ে বন্ধুদের পাশে বসল।",
+        "দুপুরের কাছাকাছি সেলা তাদের নেরির ঢাকা উঠোনে ছোট উদ্বোধনী ভোজে ডাকল। তারা কোনও কাজ করতে আসেনি, তবু অতিথি হিসেবে তাদের সাদরে জায়গা দেওয়া হলো।"
+      ],
+      "introduction": "নদী এখনও নিরাপদ নয় বলে বন্ধুরা নেরিতে থেকে যায়।",
+      "title": "খেয়ানৌকা অপেক্ষা করতে পারে"
+    },
+    "cs": {
+      "altTexts": [
+        "Mend se probouzí v suchém pokoji, venku dál prší.",
+        "Sela s přáteli kontroluje zdravé sazenice chráněné před deštěm pod přístřeškem.",
+        "Rook nechává zastřešený přívoz uvázaný u mokrého mola.",
+        "Mend poslouchá, zatímco Rook ukazuje na neklidnou řeku.",
+        "Tavi ukazuje náhradní východní cestu na mapě.",
+        "Mend sedí s Tavim a Hushem na kryté lavičce u mola.",
+        "Sela zve přátele ke stolu na krytém dvorku."
+      ],
+      "captions": [
+        "Pátého rána déšť stále klepal na okenice. Mend se probudila v Neri, ne na cestě ke třem nemožným poledním schůzkám.",
+        "Po snídani se Selou zkontrolovali zahradnictví. Kryty držely, přístřešek zůstal suchý a žádná rostlina nepotřebovala hrdinskou záchranu.",
+        "U mola už Rook namontoval opravenou stříšku. Řeka však byla příliš neklidná, a tak nechal přívoz bezpečně přivázaný.",
+        "„Opravená stříška nezaručí klidnou vodu,“ řekl Rook. Mend přikývla. Hotový úkol neznamenal přehlížet novou situaci.",
+        "Tavi otevřel mapu. Mohli jít tříhodinovou východní cestou, ale žádná schůzka je nenutila odjet hned.",
+        "Rozhodli se počkat v Neri. Mend byla neklidná, ale sedla si k přátelům místo vymýšlení naléhavé práce, kterou by pobyt ospravedlnila.",
+        "Kolem poledne je Sela pozvala na malý zahajovací oběd na krytém dvorku v Neri. Byli vítaní, i když s sebou nepřinesli žádnou práci."
+      ],
+      "introduction": "Déšť prověří nový plán, aniž by Mend musela všechny zachraňovat.",
+      "title": "Přívoz může počkat"
+    },
+    "de": {
+      "altTexts": [
+        "Mend wacht im trockenen Gästezimmer auf, während es draußen weiterregnet.",
+        "Sela und die Freunde betrachten gesunde, unter dem Dach vor Regen geschützte Setzlinge.",
+        "Rook lässt die überdachte Fähre am regennassen Kai festgebunden.",
+        "Mend hört zu, während Rook auf den unruhigen Fluss zeigt.",
+        "Tavi zeigt den alternativen Ostweg auf der Karte.",
+        "Mend sitzt mit Tavi und Hush auf einer geschützten Bank am Kai.",
+        "Sela begrüßt die Freunde an einem Tisch im überdachten Hof."
+      ],
+      "captions": [
+        "Am fünften Morgen klopfte der Regen noch an die Läden. Mend erwachte in Neri, nicht auf dem Weg zu drei unmöglichen Mittagsterminen.",
+        "Nach dem Frühstück prüften sie die Gärtnerei mit Sela. Die Abdeckungen hielten, der Unterstand war trocken, und keine Pflanze brauchte eine heldenhafte Rettung.",
+        "Am Kai hatte Rook das reparierte Dach montiert. Doch der Fluss war zu unruhig, deshalb ließ er die Fähre sicher vertäut.",
+        "„Ein repariertes Dach verspricht kein sicheres Wasser“, sagte Rook. Mend nickte. Eine erledigte Aufgabe war kein Grund, veränderte Bedingungen zu ignorieren.",
+        "Tavi öffnete die Karte. Sie könnten den dreistündigen Ostweg nehmen, aber kein Termin verlangte, dass sie jetzt aufbrachen.",
+        "Sie entschieden sich, in Neri zu warten. Mend wurde unruhig, setzte sich dann aber zu ihren Freunden, statt zur Rechtfertigung dringende Arbeit zu erfinden.",
+        "Gegen Mittag lud Sela sie zu einem kleinen Eröffnungsessen in Neris überdachtem Hof ein. Sie waren willkommen, auch wenn sie keine Arbeit mitgebracht hatten."
+      ],
+      "introduction": "Der Regen prüft den neuen Plan, ohne dass Mend alle retten muss.",
+      "title": "Die Fähre kann warten"
+    },
+    "en": {
+      "altTexts": [
+        "Mend wakes in the dry guest room while rain continues outside.",
+        "Sela and the friends inspect healthy seedlings protected from rain under the shelter.",
+        "Rook keeps the now-covered ferry moored beside a rain-wet dock.",
+        "Mend listens while Rook points to the choppy river.",
+        "Tavi shows the alternative eastern road on the route map.",
+        "Mend sits with Tavi and Hush on a sheltered dock bench.",
+        "Sela welcomes the friends to a covered courtyard table."
+      ],
+      "captions": [
+        "On the fifth morning, rain still tapped the shutters. Mend woke in Neri, not on a road toward three impossible noon appointments.",
+        "After breakfast, they checked the nursery with Sela. The covers held, the shelter stayed dry, and no plant needed a heroic rescue.",
+        "At the dock, Rook had fitted the repaired awning. But the river was too rough, so he kept the ferry safely tied up.",
+        "“A repaired awning is not a promise of safe water,” Rook said. Mend nodded. Completing a task did not mean ignoring a new condition.",
+        "Tavi opened the map. They could take the three-hour eastern road, but there was no appointment that required them to leave now.",
+        "They chose to wait in Neri. Mend felt restless, then sat beside her friends instead of inventing urgent work to justify staying.",
+        "Near noon, Sela invited them to a small opening meal in Neri's covered courtyard. They were welcome even though they had brought no work."
+      ],
+      "introduction": "Rain tests the new plan without requiring Mend to rescue everyone.",
+      "title": "The Ferry Can Wait"
+    },
+    "es": {
+      "altTexts": [
+        "Mend despierta en la habitación seca mientras sigue lloviendo fuera.",
+        "Sela y sus amigos revisan los plantones sanos, protegidos de la lluvia bajo el cobertizo.",
+        "Rook mantiene amarrado el transbordador cubierto junto al muelle mojado.",
+        "Mend escucha a Rook, que señala el río agitado.",
+        "Tavi muestra el camino oriental alternativo en el mapa.",
+        "Mend se sienta con Tavi y Hush en un banco resguardado del muelle.",
+        "Sela recibe a los amigos junto a una mesa en el patio cubierto."
+      ],
+      "captions": [
+        "La quinta mañana, la lluvia seguía golpeando los postigos. Mend despertó en Neri, no en un camino hacia tres citas imposibles al mediodía.",
+        "Después del desayuno revisaron el vivero con Sela. Las cubiertas resistían, el cobertizo seguía seco y ninguna planta necesitaba un rescate heroico.",
+        "En el muelle, Rook ya había instalado el toldo reparado. Pero el río estaba demasiado agitado, así que mantuvo el transbordador bien amarrado.",
+        "«Un toldo reparado no garantiza que sea seguro navegar», dijo Rook. Mend asintió. Terminar una tarea no significaba ignorar que las condiciones habían cambiado.",
+        "Tavi abrió el mapa. Podían tomar el camino oriental de tres horas, pero ninguna cita los obligaba a salir en ese momento.",
+        "Decidieron esperar en Neri. Mend se sintió inquieta y después se sentó con sus amigos, sin inventarse trabajo urgente para justificar la espera.",
+        "Cerca del mediodía, Sela los invitó a una pequeña comida de inauguración en el patio cubierto de Neri. Eran bienvenidos aunque no hubieran traído ningún trabajo."
+      ],
+      "introduction": "La lluvia pone a prueba el plan sin exigir que Mend lo salve todo.",
+      "title": "El transbordador puede esperar"
+    },
+    "fr": {
+      "altTexts": [
+        "Mend se réveille dans la chambre sèche sous la pluie persistante.",
+        "Sela et ses amis vérifient les jeunes plants en bonne santé, protégés de la pluie sous l’abri.",
+        "Rook garde le bac désormais couvert amarré près du quai mouillé.",
+        "Mend écoute Rook, qui désigne le fleuve agité.",
+        "Tavi montre la route orientale de remplacement sur la carte.",
+        "Mend s’assoit avec Tavi et Hush sur un banc abrité du quai.",
+        "Sela accueille les amis près d’une table dans la cour couverte."
+      ],
+      "captions": [
+        "Le cinquième matin, la pluie frappait toujours les volets. Mend se réveilla à Neri, pas sur une route vers trois rendez-vous impossibles à midi.",
+        "Après le petit-déjeuner, ils vérifièrent les plants avec Sela. Les protections tenaient, l’abri était sec et aucune plante n’avait besoin d’un sauvetage héroïque.",
+        "Au quai, Rook avait installé l’auvent réparé. Mais le fleuve était trop agité ; il garda donc le bac solidement amarré.",
+        "« Un auvent réparé ne garantit pas un fleuve sûr », dit Rook. Mend acquiesça. Terminer une tâche ne signifiait pas ignorer un changement de conditions.",
+        "Tavi ouvrit la carte. Ils pouvaient emprunter la route orientale de trois heures, mais aucun rendez-vous ne les obligeait à partir immédiatement.",
+        "Ils choisirent d’attendre à Neri. Mend se sentit agitée, puis s’assit avec ses amis au lieu d’inventer un travail urgent pour justifier l’attente.",
+        "Vers midi, Sela les invita à un petit repas d’ouverture dans la cour couverte de Neri. Ils étaient les bienvenus, même sans apporter de travail."
+      ],
+      "introduction": "La pluie éprouve le nouveau plan sans obliger Mend à tout sauver.",
+      "title": "Le bac peut attendre"
+    },
+    "hi": {
+      "altTexts": [
+        "मेंड अतिथि कमरे में जागती है; बाहर बारिश हो रही है।",
+        "सेला और दोस्त छत के नीचे बारिश से सुरक्षित स्वस्थ पौधों को देखते हैं।",
+        "नीले छाजन वाली नाव नेरी घाट से बँधी रहती है।",
+        "रूक सुरक्षित घाट से उग्र पानी की ओर दिखाता है।",
+        "तावी नक्शे पर वैकल्पिक सड़क दिखाता है।",
+        "मेंड तावी और हश के साथ छत वाली बेंच पर बैठती है।",
+        "सेला तीन दोस्तों को छत वाली खाने की मेज़ पर आमंत्रित करती है।"
+      ],
+      "captions": [
+        "पाँचवीं सुबह भी बारिश खिड़की पर पड़ रही थी। मेंड नेरी में जागी, तीन असंभव दोपहर की मुलाकातों की राह पर नहीं।",
+        "नाश्ते के बाद सेला के साथ पौधशाला देखी। आवरण टिके थे, छत के नीचे सूखा था और किसी पौधे को वीरतापूर्ण बचाव नहीं चाहिए था।",
+        "घाट पर रूक ने ठीक छाजन नाव में लगा दिया था। पर नदी उग्र थी, इसलिए नाव सुरक्षित बाँधकर रखी थी।",
+        "“सुधरा छाजन सुरक्षित नदी की गारंटी नहीं,” रूक बोला। मेंड ने सिर हिलाया। काम पूरा होने पर भी नई परिस्थिति देखनी होती है।",
+        "तावी ने नक्शा खोला। तीन घंटे की पूर्व वाली सड़क ले सकते थे, लेकिन अभी निकलने की माँग करने वाला कोई वादा नहीं था।",
+        "उन्होंने नेरी में रुकना चुना। मेंड बेचैन हुई, फिर रुकने को सही ठहराने के लिए नया जरूरी काम गढ़ने के बजाय दोस्तों के पास बैठ गई।",
+        "दोपहर के करीब सेला ने उन्हें नेरी के ढके आँगन में छोटे उद्घाटन-भोज पर बुलाया। वे कोई काम करने नहीं आए थे, फिर भी उनका स्वागत था।"
+      ],
+      "introduction": "नदी अभी सुरक्षित नहीं, इसलिए दोस्त नेरी में रुकते हैं।",
+      "title": "नाव इंतज़ार कर सकती है"
+    },
+    "id": {
+      "altTexts": [
+        "Mend bangun di kamar tamu saat hujan masih turun.",
+        "Sela dan teman-temannya memeriksa bibit sehat yang terlindung dari hujan di bawah atap.",
+        "Feri bertudung biru tetap terikat pada dermaga Neri.",
+        "Rook menunjuk permukaan sungai dari dermaga yang aman.",
+        "Tavi memperlihatkan jalur darat alternatif pada peta.",
+        "Mend duduk di bangku teduh bersama Tavi dan Hush.",
+        "Sela mengajak tiga temannya menuju meja makan beratap."
+      ],
+      "captions": [
+        "Pada pagi kelima, hujan masih mengetuk daun jendela. Mend bangun di Neri, bukan di jalan menuju tiga pertemuan tengah hari yang mustahil.",
+        "Sesudah sarapan, mereka memeriksa kebun bersama Sela. Penutup bertahan, tempat berteduh tetap kering, dan tidak ada tanaman yang membutuhkan penyelamatan heroik.",
+        "Di dermaga, Rook telah memasang tudung yang diperbaiki. Namun, sungai terlalu bergelombang; feri tetap tertambat dengan aman.",
+        "“Tudung yang sudah diperbaiki tidak menjamin sungai aman untuk diseberangi,” kata Rook. Mend mengangguk. Selesainya satu tugas tidak berarti mengabaikan keadaan baru.",
+        "Tavi membuka peta. Mereka bisa menggunakan jalan timur selama tiga jam, tetapi tidak ada janji yang mengharuskan mereka pergi sekarang.",
+        "Mereka memilih menunggu di Neri. Mend gelisah, lalu duduk bersama teman-temannya alih-alih menciptakan pekerjaan mendesak untuk membenarkan keberadaannya.",
+        "Menjelang tengah hari, Sela mengundang mereka ke jamuan pembukaan kecil di halaman beratap Neri. Mereka tetap diterima meskipun tidak membawa pekerjaan."
+      ],
+      "introduction": "Sungai belum aman; Mend dan teman-temannya memilih tetap di Neri.",
+      "title": "Feri Bisa Menunggu"
+    },
+    "it": {
+      "altTexts": [
+        "Mend si sveglia nella stanza asciutta mentre fuori continua a piovere.",
+        "Sela e gli amici controllano le piantine sane, protette dalla pioggia sotto il riparo.",
+        "Rook tiene ormeggiato il traghetto coperto vicino al molo bagnato.",
+        "Mend ascolta Rook mentre indica il fiume agitato.",
+        "Tavi mostra sulla mappa la strada orientale alternativa.",
+        "Mend siede con Tavi e Hush su una panca riparata al molo.",
+        "Sela accoglie gli amici a un tavolo nel cortile coperto."
+      ],
+      "captions": [
+        "La quinta mattina la pioggia picchiettava ancora sulle imposte. Mend si svegliò a Neri, non in viaggio verso tre appuntamenti impossibili a mezzogiorno.",
+        "Dopo colazione controllarono il vivaio con Sela. Le coperture reggevano, il riparo era asciutto e nessuna pianta aveva bisogno di un salvataggio eroico.",
+        "Al molo Rook aveva montato la copertura riparata. Ma il fiume era troppo agitato, così lasciò il traghetto ben ormeggiato.",
+        "«Una copertura riparata non rende sicura la navigazione», disse Rook. Mend annuì. Finire un compito non significava ignorare una condizione nuova.",
+        "Tavi aprì la mappa. Potevano prendere la strada orientale di tre ore, ma nessun appuntamento li obbligava a partire subito.",
+        "Scelsero di aspettare a Neri. Mend si sentì irrequieta, poi si sedette con gli amici invece di inventare lavori urgenti per giustificare la sosta.",
+        "Verso mezzogiorno Sela li invitò a un piccolo pranzo inaugurale nel cortile coperto di Neri. Erano i benvenuti anche se non avevano portato nessun lavoro."
+      ],
+      "introduction": "La pioggia mette alla prova il piano senza chiedere a Mend di salvare tutti.",
+      "title": "Il traghetto può aspettare"
+    },
+    "ja": {
+      "altTexts": [
+        "外では雨が降り続き、メンドが雨の入らない客室で目を覚ましています。",
+        "セラと友だちが、屋根の下で雨から守られた元気な苗を確かめています。",
+        "青い雨よけのある船が、ネリの桟橋につながれています。",
+        "ルークが、安全な桟橋から荒れた川を示しています。",
+        "タヴィが、地図の別の陸路を見せています。",
+        "メンドがタヴィとハッシュのいる屋根つきのベンチに座っています。",
+        "セラが三人を、屋根つきの食卓へ招いています。"
+      ],
+      "captions": [
+        "五日目の朝も、雨は窓をたたいていました。メンドはネリで目覚めました。三つの正午へ急ぐ道の上ではありませんでした。",
+        "朝食後、セラと苗畑を確かめました。覆いはしっかりし、屋根の下は乾いています。英雄の救出を待つ苗はありませんでした。",
+        "桟橋では、ルークが修理済みの雨よけを船に取りつけていました。でも川は荒れていたので、船は安全に係留したままでした。",
+        "「雨よけが直っても、川を安全に渡れるとは限らない」とルーク。メンドはうなずきました。仕事を終えても、新しい状況は無視できません。",
+        "タヴィが地図を開きました。東の陸路なら三時間。でも今すぐ出発しなければならない約束はありませんでした。",
+        "三人はネリで待つことにしました。落ち着かないメンドも、居場所の理由になる急用を作らず、友達の隣に座りました。",
+        "正午近く、セラがネリの屋根つきの中庭で、開会を祝うささやかな食事に誘いました。仕事を持ってきていなくても、三人は歓迎されていました。"
+      ],
+      "introduction": "川がまだ危険なため、友達はネリにとどまります。",
+      "title": "渡し船は待てる"
+    },
+    "ko": {
+      "altTexts": [
+        "밖에서는 비가 계속 내리고, 멘드가 비가 들지 않는 손님방에서 깨어납니다.",
+        "셀라와 친구들이 지붕 아래에서 비를 피한 건강한 모종을 살펴봅니다.",
+        "파란 차양을 단 나룻배가 네리 선착장에 묶여 있습니다.",
+        "루크가 안전한 선착장에서 거친 강물을 가리킵니다.",
+        "타비가 지도의 다른 육로를 보여 줍니다.",
+        "멘드가 타비와 허시 옆의 지붕 있는 벤치에 앉습니다.",
+        "셀라가 세 친구를 지붕 아래 식탁으로 초대합니다."
+      ],
+      "captions": [
+        "다섯째 날 아침에도 비가 덧문을 두드렸습니다. 멘드는 네리에서 눈을 떴습니다. 불가능한 정오 약속 세 곳을 향해 달리는 길 위가 아니었습니다.",
+        "아침 뒤 셀라와 모종밭을 확인했습니다. 덮개는 튼튼하고 지붕 아래는 말라 있었습니다. 영웅 같은 구조가 필요한 모종은 없었습니다.",
+        "선착장에서 루크는 수선한 차양을 배에 설치해 두었습니다. 그러나 강이 거칠어 배는 안전하게 묶어 두었습니다.",
+        "“차양을 고쳤다고 강까지 안전해지는 것은 아니야.” 루크가 말했습니다. 멘드는 고개를 끄덕였습니다. 한 일을 끝내도 새 상황은 살펴야 했습니다.",
+        "타비가 지도를 펼쳤습니다. 세 시간 걸리는 동쪽 육로도 있었지만 지금 떠나야만 하는 약속은 없었습니다.",
+        "친구들은 네리에서 기다리기로 했습니다. 마음이 불안하고 가만히 있기 어려웠지만, 멘드는 기다림을 정당화하려고 급한 일을 꾸며내는 대신 친구 옆에 앉았습니다.",
+        "정오가 가까워지자 셀라는 네리의 지붕 있는 안뜰에서 개막을 축하하는 작은 식사에 친구들을 초대했습니다. 일을 가져오지 않았어도 세 사람은 환영받았습니다."
+      ],
+      "introduction": "강이 아직 안전하지 않아 친구들은 네리에 남기로 합니다.",
+      "title": "나룻배는 기다릴 수 있다"
+    },
+    "pl": {
+      "altTexts": [
+        "Mend budzi się w suchym pokoju, gdy na zewnątrz nadal pada.",
+        "Sela i przyjaciele oglądają zdrowe sadzonki chronione przed deszczem pod zadaszeniem.",
+        "Rook trzyma osłonięty prom przywiązany przy mokrej przystani.",
+        "Mend słucha, a Rook wskazuje wzburzoną rzekę.",
+        "Tavi pokazuje na mapie alternatywną drogę wschodnią.",
+        "Mend siedzi z Tavim i Hushem na osłoniętej ławce w przystani.",
+        "Sela wita przyjaciół przy stole na zadaszonym dziedzińcu."
+      ],
+      "captions": [
+        "Piątego ranka deszcz nadal stukał w okiennice. Mend obudziła się w Neri, nie na drodze do trzech niemożliwych spotkań w południe.",
+        "Po śniadaniu sprawdzili szkółkę z Selą. Osłony trzymały, schowek był suchy i żadna roślina nie potrzebowała bohaterskiego ratunku.",
+        "W przystani Rook miał już zamontowaną naprawioną osłonę. Rzeka była jednak zbyt wzburzona, więc zostawił prom bezpiecznie zacumowany.",
+        "„Naprawiony dach nie gwarantuje spokojnej wody” — powiedział Rook. Mend przytaknęła. Skończone zadanie nie znaczyło, że należy ignorować nowe warunki.",
+        "Tavi otworzył mapę. Mogli wybrać trzygodzinną drogę wschodnią, ale żadne spotkanie nie zmuszało ich do natychmiastowego wyjścia.",
+        "Postanowili poczekać w Neri. Mend poczuła niepokój, a potem usiadła z przyjaciółmi zamiast wymyślać pilną pracę usprawiedliwiającą czekanie.",
+        "Około południa Sela zaprosiła ich na mały posiłek z okazji otwarcia na zadaszonym dziedzińcu w Neri. Byli mile widziani, choć nie przynieśli żadnej pracy."
+      ],
+      "introduction": "Deszcz sprawdza nowy plan, nie wymagając od Mend ratowania wszystkich.",
+      "title": "Prom może poczekać"
+    },
+    "pt": {
+      "altTexts": [
+        "Mend acorda no quarto seco enquanto a chuva continua lá fora.",
+        "Sela e os amigos verificam as mudas saudáveis, protegidas da chuva sob o abrigo.",
+        "Rook mantém a balsa coberta amarrada junto do cais molhado.",
+        "Mend escuta enquanto Rook aponta para o rio agitado.",
+        "Tavi mostra a estrada leste alternativa no mapa.",
+        "Mend senta com Tavi e Hush num banco protegido do cais.",
+        "Sela recebe os amigos junto de uma mesa no pátio coberto."
+      ],
+      "captions": [
+        "Na quinta manhã, a chuva ainda batia nas venezianas. Mend acordou em Neri, não numa estrada para três compromissos impossíveis ao meio-dia.",
+        "Depois do café, conferiram o viveiro com Sela. As coberturas resistiam, o abrigo estava seco e nenhuma planta precisava de um resgate heroico.",
+        "No cais, Rook havia instalado a cobertura consertada. Mas o rio estava agitado demais, então manteve a balsa bem amarrada.",
+        "“Uma cobertura consertada não torna a navegação segura”, disse Rook. Mend concordou. Terminar uma tarefa não significava ignorar uma condição nova.",
+        "Tavi abriu o mapa. Podiam seguir pela estrada leste de três horas, mas nenhum compromisso exigia que partissem naquele momento.",
+        "Escolheram esperar em Neri. Mend ficou inquieta, depois se sentou com os amigos em vez de inventar trabalho urgente para justificar a espera.",
+        "Perto do meio-dia, Sela os convidou para uma pequena refeição de abertura no pátio coberto de Neri. Eram bem-vindos mesmo sem trazer trabalho."
+      ],
+      "introduction": "A chuva testa o novo plano sem exigir que Mend salve todo mundo.",
+      "title": "A balsa pode esperar"
+    },
+    "ru": {
+      "altTexts": [
+        "Менд просыпается в сухой комнате, а за окном продолжает идти дождь.",
+        "Села и друзья осматривают здоровые саженцы, укрытые от дождя под навесом.",
+        "Рук держит крытый паром у мокрой пристани на привязи.",
+        "Менд слушает, пока Рук указывает на неспокойную реку.",
+        "Тави показывает на карте запасную восточную дорогу.",
+        "Менд сидит с Тави и Хашем на крытой скамье у пристани.",
+        "Села приглашает друзей к столу в крытом дворе."
+      ],
+      "captions": [
+        "На пятое утро дождь всё ещё стучал по ставням. Менд проснулась в Нери, а не на пути к трём невозможным встречам в полдень.",
+        "После завтрака они осмотрели питомник с Селой. Укрытия держались, под навесом было сухо, и растения не нуждались в героическом спасении.",
+        "На пристани Рук уже установил починенный навес. Но река слишком волновалась, поэтому он оставил паром надёжно пришвартованным.",
+        "«Починенный навес ещё не делает переправу безопасной», — сказал Рук. Менд кивнула. Завершить задачу — не значит игнорировать новые условия.",
+        "Тави раскрыл карту. Они могли пойти по трёхчасовой восточной дороге, но ни одна встреча не требовала выходить сейчас.",
+        "Они решили подождать в Нери. Менд почувствовала беспокойство, а потом села рядом с друзьями вместо того, чтобы выдумывать срочную работу.",
+        "Около полудня Села пригласила их на небольшой обед в честь открытия в крытом дворе Нери. Им были рады, хотя они не принесли никакой работы."
+      ],
+      "introduction": "Дождь проверяет новый план, не требуя, чтобы Менд всех спасала.",
+      "title": "Паром может подождать"
+    },
+    "tr": {
+      "altTexts": [
+        "Mend kuru odada uyanırken dışarıda yağmur sürüyor.",
+        "Sela ve arkadaşları, sundurmanın altında yağmurdan korunan sağlıklı fideleri kontrol eder.",
+        "Rook üstü örtülmüş feribotu ıslak iskeleye bağlı tutuyor.",
+        "Mend dinlerken Rook dalgalı nehri gösteriyor.",
+        "Tavi haritada alternatif doğu yolunu gösteriyor.",
+        "Mend, Tavi ve Hush’la korunaklı iskele bankında oturuyor.",
+        "Sela arkadaşlarını kapalı avludaki masada karşılıyor."
+      ],
+      "captions": [
+        "Beşinci sabah yağmur hâlâ kepenklere vuruyordu. Mend, üç imkânsız öğle randevusuna giden yolda değil, Neri’de uyandı.",
+        "Kahvaltıdan sonra Sela’yla fidanlığı kontrol ettiler. Örtüler dayanmış, sundurma kuru kalmıştı. Hiçbir bitkinin kahramanca kurtarılması gerekmiyordu.",
+        "İskelede Rook onarılmış tenteyi takmıştı. Ama nehir fazla dalgalıydı; feribotu güvenle bağlı tuttu.",
+        "“Onarılmış bir tente, nehirde güvenle yolculuk edebileceğimiz anlamına gelmez,” dedi Rook. Mend başını salladı. Bir işi bitirmek, yeni koşulları görmezden gelmek değildi.",
+        "Tavi haritayı açtı. Üç saatlik doğu yolunu kullanabilirlerdi, ama onları hemen yola çıkmaya zorlayan bir randevu yoktu.",
+        "Neri’de beklemeyi seçtiler. Mend huzursuzlandı, sonra beklemeyi haklı göstermek için acil iş uydurmak yerine arkadaşlarının yanına oturdu.",
+        "Öğleye doğru Sela onları Neri’nin üstü örtülü avlusunda küçük bir açılış yemeğine davet etti. Yanlarında iş getirmeseler de sofrada yerleri vardı."
+      ],
+      "introduction": "Yağmur, Mend’in herkesi kurtarmasını gerektirmeden yeni planı sınar.",
+      "title": "Feribot Bekleyebilir"
+    },
+    "vi": {
+      "altTexts": [
+        "Mend tỉnh trong phòng khách khi trời vẫn mưa.",
+        "Sela cùng các bạn kiểm tra những cây con khỏe mạnh được che mưa dưới mái trú.",
+        "Phà có mái xanh vẫn được buộc an toàn ở bến Neri.",
+        "Rook chỉ mặt sông động từ bến an toàn.",
+        "Tavi cho xem đường bộ thay thế trên bản đồ.",
+        "Mend ngồi trên ghế có mái bên Tavi và Hush.",
+        "Sela mời ba người đến bàn ăn có mái."
+      ],
+      "captions": [
+        "Sáng ngày thứ năm, mưa vẫn gõ cửa chớp. Mend thức dậy ở Neri, không phải trên đường đến ba cuộc hẹn trưa bất khả thi.",
+        "Sau bữa sáng, họ cùng Sela xem vườn. Tấm phủ chắc, mái kho khô, không cây nào cần một cuộc giải cứu anh hùng.",
+        "Ở bến, Rook đã gắn mái che được sửa lên thuyền. Nhưng sông còn quá động, nên anh giữ phà buộc chắc tại bến.",
+        "“Mái che đã sửa không có nghĩa là nước sông an toàn,” Rook nói. Mend gật đầu. Xong việc không phải lý do bỏ qua tình hình mới.",
+        "Tavi mở bản đồ. Có thể đi đường đông ba giờ, nhưng không có cuộc hẹn nào buộc họ phải rời đi ngay.",
+        "Họ chọn chờ ở Neri. Mend thấy bồn chồn, rồi ngồi cạnh bạn thay vì nghĩ ra việc gấp để chứng minh mình có lý do ở lại.",
+        "Gần trưa, Sela mời họ dự bữa ăn nhỏ mừng khai mạc tại sân có mái ở Neri. Họ vẫn được chào đón dù không mang theo công việc."
+      ],
+      "introduction": "Dòng sông chưa an toàn nên nhóm bạn ở lại Neri.",
+      "title": "Phà có thể chờ"
+    },
+    "zh": {
+      "altTexts": [
+        "门德在干燥的客房醒来，窗外还在下雨。",
+        "塞拉和朋友们查看棚下避雨的健康小苗。",
+        "装有蓝色雨篷的渡船安全地停在内里码头。",
+        "鲁克从安全的码头指向不平静的河面。",
+        "塔维展示地图上的另一条陆路。",
+        "门德坐到塔维和哈什身旁的有顶长凳上。",
+        "塞拉邀请三个朋友走向有屋顶的饭桌。"
+      ],
+      "captions": [
+        "第五天早晨，雨还敲着窗板。门德在内里醒来，不再奔走于三个不可能同时赴约的正午之间。",
+        "早饭后，他们与塞拉检查育苗园。盖布稳固，棚内干燥，没有哪株植物需要英雄式的抢救。",
+        "码头上，鲁克已经装好修过的雨篷。可河面太急，他仍让渡船稳稳系在岸边。",
+        "“雨篷修好，不代表河水安全。”鲁克说。门德点头。完成任务，也要继续留意新的情况。",
+        "塔维打开地图。他们可以走三个小时的东边陆路，但眼下没有非得出发不可的约定。",
+        "他们决定留在内里等候。门德有些坐不住，还是选择陪朋友坐下，而不是编出紧急工作证明自己该留下。",
+        "快到正午，塞拉邀请他们到内里有顶的院子，参加一顿小小的开幕聚餐。即使没有带来任何工作，他们也一样受欢迎。"
+      ],
+      "introduction": "河面仍不安全，门德和朋友决定留在内里。",
+      "title": "渡船可以等一等"
+    }
+  },
+  "number": 21,
+  "panels": [
+    {
+      "altText": "Mend wakes in the dry guest room while rain continues outside.",
+      "image": "N02E21P01.png"
+    },
+    {
+      "altText": "Sela and the friends inspect healthy seedlings protected from rain under the shelter.",
+      "image": "N02E21P02.png"
+    },
+    {
+      "altText": "Rook keeps the now-covered ferry moored beside a rain-wet dock.",
+      "image": "N02E21P03.png"
+    },
+    {
+      "altText": "Mend listens while Rook points to the choppy river.",
+      "image": "N02E21P04.png"
+    },
+    {
+      "altText": "Tavi shows the alternative eastern road on the route map.",
+      "image": "N02E21P05.png"
+    },
+    {
+      "altText": "Mend sits with Tavi and Hush on a sheltered dock bench.",
+      "image": "N02E21P06.png"
+    },
+    {
+      "altText": "Sela welcomes the friends to a covered courtyard table.",
+      "image": "N02E21P07.png"
+    }
+  ],
+  "schema": 1,
+  "tags": [
+    "family",
+    "fantasy",
+    "friendship",
+    "honest-limits",
+    "promises",
+    "shared-work"
+  ],
+  "version": 1
+}
