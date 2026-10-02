@@ -57,7 +57,7 @@
       ],
       "captions": [
         "Druhý den ráno, cestou do kalibrační místnosti, Alarm spatří uvolněný kabel nad přístupem k nástupišti. Zazvoní na nádražní ruční zvonek a ukáže bezpečnou cestu pryč.\n\nAlarm: „Dál od toho kabelu! Projděte dveřmi do čekárny.“",
-        "Quiver zpoza zábradlí prohlíží místo, na které Alarm ukázal. Jedna svorka se hýbe, ostatní podpěry drží. Když vědí přesně, co je špatně, další krok je menší a jasnější.\n\nQuiver: „Ta svorka. Zůstaneme stranou, dokud Phew neodpojí vedení.“",
+        "Quiver zpoza zábradlí prohlíží místo, na které Alarm ukázal. Jedna svorka se hýbe, ostatní podpěry drží. Když vědí přesně, co je špatně, je snazší rozhodnout, co udělat dál.\n\nQuiver: „Ta svorka. Zůstaneme stranou, dokud Phew neodpojí vedení.“",
         "Bash shromáždí všech šest členů pátrací skupiny i Alarma v přilehlé čekárně. Kufr vezmou s sebou. Mohou tu bezpečně počkat, aniž by porovnání vzdali nebo stáli pod kabelem.\n\nBash: „Všech šest dovnitř. Alarme, pojď s námi.“",
         "Alarm je uvnitř stále otřesený tím, co viděl. Nova mu dá čas na vysvětlení. Varování bylo užitečné, i když další slova přicházejí pomalu.\n\nNova: „Nespěchej. Co se podle tebe pohnulo jako první?“",
         "Venku Phew odpojí provozní vedení a upevní uvolněnou svorku. Teprve když je přístup bezpečný, přinese do místnosti jednoduchý přístroj na porovnání rytmu. Optická čočka je zatím stále v dílně.\n\nPhew: „Přístup už je bezpečný. Můžeme porovnání provést uvnitř.“",
@@ -78,7 +78,7 @@
         "An diesem Abend bei Meadowfold berichtet Nova über die Postline vom Vergleich. Rain hört, dass das Geräusch außerhalb von ihm einen passenden Hinweis hat. Weder der Anruf noch der Test können bisher sagen, was sein Wachstum verursacht."
       ],
       "captions": [
-        "Am nächsten Morgen entdeckt Alarm auf dem Weg zum Kalibrierungsraum ein loses Kabel über dem Bahnsteigzugang. Er läutet die Handglocke des Bahnhofs und zeigt einen klaren Weg von dort weg.\n\nAlarm: „Zurück von diesem Kabel! Benutzen Sie die Tür zum Schutzraum.“",
+        "Am nächsten Morgen entdeckt Alarm auf dem Weg zum Kalibrierungsraum ein loses Kabel über dem Bahnsteigzugang. Er läutet die Handglocke des Bahnhofs und zeigt einen klaren Weg von dort weg.\n\nAlarm: „Zurück von diesem Kabel! Geht durch die Tür in den Warteraum.“",
         "Hinter dem Schutzgeländer prüft Quiver die von Alarm angezeigte Stelle. Eine Klemme bewegt sich; die anderen Halterungen sind stabil. Weil sie die genaue Ursache kennen, können sie den nächsten Schritt gezielt planen.\n\nQuiver: „Diese Klemme. Wir halten Abstand, bis Phew die Leitung abgeschaltet hat.“",
         "Bash versammelt die sechs Ermittler und Alarm im angrenzenden Warteraum. Der Koffer kommt mit. Sie können hier sicher warten, ohne den Vergleich aufzugeben oder unter dem Kabel zu stehen.\n\nBash: „Alle sechs drinnen. Alarm, komm mit.“",
         "Drinnen ist Alarm immer noch erschüttert von dem, was er gesehen hat. Nova gibt ihm Zeit zum Erklären. Die Warnung war nützlich, auch wenn die Worte danach langsam kommen.\n\nNova: „Lass dir Zeit. Was hat sich zuerst bewegt?“",
@@ -122,8 +122,8 @@
         "Esa noche en Meadowfold, Nova cuenta por Postline el resultado de la comparación. Rain escucha que el sonido tiene una pista coincidente fuera de él. Ni la llamada ni la prueba pueden decir aún qué está provocando su crecimiento."
       ],
       "captions": [
-        "A la mañana siguiente, de camino a la sala de calibración, Alarm detecta un cable suelto sobre el acceso a la plataforma. Hace sonar la campana de la estación y señala un camino despejado para alejarse del cable.\n\nAlarm: \"¡Aléjense de ese cable! Usen la puerta del refugio\".",
-        "Desde detrás de la barandilla, Quiver comprueba el lugar indicado por Alarm. Una abrazadera se está moviendo; los otros soportes son estables. Saber exactamente qué está mal hace que el siguiente paso sea más pequeño y claro.\n\nQuiver: \"Esa abrazadera. Nos mantendremos alejados hasta que Phew aísle la línea\".",
+        "A la mañana siguiente, de camino a la sala de calibración, Alarm detecta un cable suelto sobre el acceso al andén. Hace sonar la campana de la estación y señala un camino despejado para alejarse del cable.\n\nAlarm: \"¡Aléjense de ese cable! Usen la puerta del refugio\".",
+        "Desde detrás de la barandilla, Quiver comprueba el lugar indicado por Alarm. Una abrazadera se está moviendo; los otros soportes son estables. Saber exactamente qué está mal les ayuda a decidir con más claridad qué hacer después.\n\nQuiver: \"Esa abrazadera. Nos mantendremos alejados hasta que Phew aísle la línea\".",
         "Bash reúne a los seis investigadores y a Alarm en el refugio contiguo. El maletín va con ellos. Aquí pueden esperar con seguridad sin abandonar la comparación ni permanecer debajo del cable.\n\nBash: \"Los seis adentro. Alarm, ven con nosotros\".",
         "En el interior, Alarm todavía está conmocionado por lo que vio. Nova le da tiempo para explicarse. La advertencia fue útil a pesar de que las palabras que siguen llegan lentamente.\n\nNova: \"Tómate tu tiempo. ¿Qué viste moverse primero?\"",
         "En el exterior, Phew aísla la línea de servicio y asegura la abrazadera suelta. Sólo después de que el acceso sea seguro, trae el sencillo comparador de ritmo a la habitación. La lente óptica todavía está en el taller.\n\nPhew: \"Ahora el acceso es seguro. Podemos hacer la comparación desde dentro\".",
@@ -191,7 +191,7 @@
         "Keesokan paginya, dalam perjalanan ke ruang kalibrasi, Alarm melihat kabel lepas di atas akses menuju peron. Dia membunyikan bel stasiun dan menunjukkan rute yang jelas untuk menjauh darinya.\n\nAlarm: \"Menjauh dari kabel itu! Gunakan pintu perlindungan.\"",
         "Dari balik pagar pembatas, Quiver memeriksa tempat yang ditunjukkan Alarm. Satu penjepit sedang bergerak; penyangga lainnya stabil. Mengetahui secara pasti apa yang salah membuat langkah selanjutnya menjadi lebih kecil dan jelas.\n\nQuiver: \"Penjepit itu. Kita jaga jarak sampai Phew memutus aliran listriknya.\"",
         "Bash mengumpulkan enam penyelidik dan Alarm di tempat penampungan sebelah. Koper itu ikut dibawa. Mereka dapat menunggu dengan aman di sini tanpa meninggalkan perbandingan atau berdiri di bawah kabel.\n\nBash: \"Keenamnya di dalam. Alarm, ikut kami.\"",
-        "Di dalam, Alarm masih terguncang dengan apa yang dilihatnya. Nova memberinya waktu untuk menjelaskan. Peringatan itu berguna meskipun kata-kata setelahnya datang dengan lambat.\n\nNova: \"Luangkan waktu kamu. Apa yang kamu lihat pertama kali bergerak?\"",
+        "Di dalam, Alarm masih terguncang dengan apa yang dilihatnya. Nova memberinya waktu untuk menjelaskan. Peringatan itu berguna meskipun kata-kata setelahnya datang dengan lambat.\n\nNova: \"Pelan-pelan saja. Apa yang kamu lihat pertama kali bergerak?\"",
         "Di luar, Phew mengisolasi jalur servis dan mengamankan klem yang longgar. Hanya setelah jalur masuknya aman barulah dia membawa pembanding ritme sederhana ke dalam ruangan. Lensa optiknya masih ada di bengkel.\n\nPhew: \"Jalur masuknya aman sekarang. Kita bisa membuat perbandingan di dalamnya.\"",
         "Di tempat penampungan, pembanding mekanis mencatat denting samar pengait. Hush memeriksanya terhadap salinan ketukan Rain. Tiga ketukan dan jeda yang panjang cukup sesuai untuk mengikuti riwayat wadah itu.\n\nHush [berbahasa isyarat]: \"Tiga ketukan. Jedanya juga cocok.\"",
         "Malam itu di Meadowfold, Nova melaporkan perbandingannya melalui Postline. Rain mendengar bahwa suara tersebut memiliki petunjuk yang cocok di luar dirinya. Baik panggilan maupun tes belum bisa mengatakan apa yang menyebabkan pertumbuhannya.\n\nRain [melalui Postline berkabel]: “Jadi, kamu memiliki sesuatu untuk diikuti.”\nNova [melalui Postline berkabel]: \"Ya. Sebuah pola—belum ada jawaban.\""
@@ -211,7 +211,7 @@
       ],
       "captions": [
         "La mattina successiva, sulla strada per la sala di calibrazione, Alarm individua un cavo allentato sopra l'accesso al marciapiede della stazione. Fa suonare la campana della stazione e indica la strada libera per allontanarsene.\n\nAlarm: \"Indietro da quel cavo! Usate la porta del rifugio.\"",
-        "Da dietro il guardrail, Quiver controlla il punto indicato da Alarm. Un morsetto si sta muovendo; gli altri supporti sono stabili. Sapere esattamente cosa c’è che non va rende il passo successivo più piccolo e più chiaro.\n\nQuiver: \"Quel morsetto. Restiamo lontani finché Phew non avrà isolato la linea.\"",
+        "Da dietro il guardrail, Quiver controlla il punto indicato da Alarm. Un morsetto si sta muovendo; gli altri supporti sono stabili. Sapere esattamente cosa c’è che non va aiuta a capire con più chiarezza come intervenire.\n\nQuiver: \"Quel morsetto. Restiamo lontani finché Phew non avrà isolato la linea.\"",
         "Bash riunisce i sei investigatori e Alarm nel rifugio adiacente. La valigetta viene con loro. Possono aspettare tranquillamente qui senza abbandonare il confronto o stare sotto il cavo.\n\nBash: \"Tutti e sei dentro. Alarm, vieni con noi.\"",
         "All'interno, Alarm è ancora scosso da ciò che ha visto. Nova gli dà il tempo di spiegare. L'avvertimento è stato utile anche se le parole che lo seguono arrivano lentamente.\n\nNova: \"Prenditi il tuo tempo. Cosa hai visto muoversi per primo?\"",
         "All'esterno, Phew isola la linea di servizio e fissa il morsetto allentato. Solo dopo che l'accesso è sicuro porta nella stanza il semplice comparatore di ritmo. La lente ottica è ancora in officina.\n\nPhew: “L'accesso adesso è sicuro, possiamo fare il confronto all'interno”.",
@@ -232,11 +232,11 @@
         "その夜、NovaはPostlineでMeadowfoldへ比較の結果を伝えます。 Rain は、その音に一致する手がかりが自分の外にあることを聞きました。電話もテストも、何が彼の成長を引き起こしているのかまだ分からない。"
       ],
       "captions": [
-        "翌朝、Alarm は校正室に向かう途中、プラットフォーム アプローチの上にあるケーブルが緩んでいるのを発見しました。彼は駅のハンドベルを鳴らして、ケーブルを避けて通れる安全な道を示しました。\n\nAlarm: 「ケーブルから離れてください! 待合室の入り口を通ってください。」",
+        "翌朝、Alarm は調整室に向かう途中、ホームへ向かう通路の上にあるケーブルが緩んでいるのを見つけます。彼は駅のハンドベルを鳴らして、ケーブルを避けて通れる安全な道を示します。\n\nAlarm: 「ケーブルから離れてください！ 待合室の入り口を通ってください。」",
         "Quiver はガードレールの後ろから、Alarm が指示した場所を確認します。 1 つのクランプが動いています。他のサポートは安定しています。何が間違っているのかを正確に知ることで、次にすべきことを具体的に絞れます。\n\nQuiver: 「そのクランプです。Phew が回線を切り離すまで、我々は距離を保ちます。」",
         "Bashは仲間六人がそろっていることを確かめ、Alarmとともに隣の待合室へ避難します。ケースも一緒に持ち込みます。彼らは、比較を放棄したり、ケーブルの下に立ったりすることなく、ここで安全に待つことができます。\n\nBash: 「6人全員が中にいます。Alarm、一緒に来てください。」",
-        "部屋の中でも Alarm は、見たものにまだ動揺しています。 Nova は彼に説明する時間を与えます。今は言葉がすぐに出てこなくても、さっきの警告は確かに役立ちました。\n\nNova: 「ゆっくりしてください。最初に何が動くのを見ましたか?」",
-        "外側では、Phew が引き込み線を分離し、緩んだクランプを固定します。安全に近づくことができて初めて、彼は単純なリズムコンパレーターを部屋に持ち込みます。光学レンズは、まだ工房に置いたままです。\n\nPhew: 「通路はもう安全です。中で比較を始められます。」",
+        "部屋の中でも Alarm は、見たものにまだ動揺しています。 Nova は彼に説明する時間を与えます。今は言葉がすぐに出てこなくても、さっきの警告は確かに役立ちました。\n\nNova: 「急がなくて大丈夫です。最初に何が動くのを見ましたか？」",
+        "外側では、Phew が引き込み線を分離し、緩んだクランプを固定します。安全に近づくことができて初めて、彼はリズムを比べる簡単な装置を部屋に持ち込みます。光学レンズは、まだ工房に置いたままです。\n\nPhew: 「通路はもう安全です。中で比較を始められます。」",
         "待合室では、機械式比較器が留め金のかすかな音を記録します。 Hush は、それを Rainのノックを書き写した記録と照合します。 三度の音と長い間がよく似ています。記憶容器の来歴を調べ続ける理由ができました。\n\nHush [手話]: 「三度のノック。間の長さも一致しています。」",
         "その夜、NovaはPostlineでMeadowfoldへ比較の結果を伝えます。 Rain は、その音に一致する手がかりが自分の外にあることを聞きました。電話もテストも、何が彼の成長を引き起こしているのかまだ分からない。\n\nRain [Postline有線電話]: 「追いかける手がかりができたんですね。」\nNova [Postline有線電話]: 「はい。パターンです。まだ答えはありません。」"
       ],
@@ -257,10 +257,10 @@
         "다음날 아침 교정실로 가는 길에 Alarm은 플랫폼 진입로 위에서 느슨한 케이블을 발견했습니다. 그는 역 핸드벨을 울리고 케이블을 피해 갈 수 있는 안전한 길을 가리킨다.\n\nAlarm: \"그 케이블에서 떨어지세요! 대피소 출입구를 이용하세요.\"",
         "가드레일 뒤에서 Quiver는 Alarm이 가리키는 지점을 확인합니다. 클램프 하나가 움직이고 있습니다. 다른 지지대는 단단히 고정되어 있습니다. 무엇이 잘못되었는지 정확히 알면 다음에 할 일을 구체적으로 정할 수 있습니다.\n\nQuiver: \"그 클램프. Phew가 라인을 격리할 때까지 가까이 가지 맙시다.\"",
         "Bash는 6명의 조사관과 Alarm을 인접한 대피소에 모았습니다. 장비 상자도 함께 가져옵니다. 그들은 비교를 포기하거나 케이블 아래에 서지 않고도 여기서 안전하게 기다릴 수 있습니다.\n\nBash: \"6명 모두 안에 있어요. Alarm, 우리와 함께 가세요.\"",
-        "내부에서 Alarm은 그가 본 것에 여전히 흔들리고 있습니다. Nova는 그에게 설명할 시간을 줍니다. 지금은 말이 쉽게 나오지 않아도, 조금 전의 경고는 분명 도움이 됐습니다.\n\nNova: \"시간을 가지세요. 무엇이 먼저 움직이는 걸 봤나요?\"",
+        "내부에서 Alarm은 그가 본 것에 여전히 흔들리고 있습니다. Nova는 그에게 설명할 시간을 줍니다. 지금은 말이 쉽게 나오지 않아도, 조금 전의 경고는 분명 도움이 됐습니다.\n\nNova: \"천천히 말해도 괜찮아요. 무엇이 먼저 움직이는 걸 봤나요?\"",
         "외부에서는 Phew가 서비스 라인을 분리하고 느슨한 클램프를 고정합니다. 접근이 안전한 후에야 그는 간단한 리듬 비교기를 방으로 가져옵니다. 광학 렌즈는 아직 작업장에 있습니다.\n\nPhew: \"이제 진입로는 안전합니다. 내부에서 비교할 수 있습니다.\"",
         "대피소에서는 기계식 비교기가 걸쇠에서 나는 희미한 울림을 기록합니다. Hush는 기록해 둔 Rain의 두드림과 비교하여 이를 확인합니다. 세 번의 울림과 그 뒤의 긴 간격이 꽤 닮았습니다. 기억 보관 용기의 내력을 계속 조사할 만한 단서입니다.\n\nHush [수어]: \"세 번 두드리는 소리입니다. 간격도 일치합니다.\"",
-        "그날 저녁 Nova는 Postline으로 Meadowfold에 비교 결과를 전합니다. Rain은 그 소리가 자신의 외부에 일치하는 단서를 가지고 있다는 것을 듣습니다. 전화 통화도 비교 시험도 그의 성장을 일으키는 원인이 무엇인지는 아직 알 수 없습니다.\n\nRain [Postline 유선 전화]: \"이제 더 알아볼 단서가 생겼네요.\"\nNova [Postline 유선 전화]: \"예. 패턴입니다. 아직 답변은 아닙니다.\""
+        "그날 저녁 Nova는 Postline으로 Meadowfold에 비교 결과를 전합니다. Rain은 그 소리가 자신의 외부에 일치하는 단서를 가지고 있다는 것을 듣습니다. 전화 통화도 비교 시험도 그의 성장을 일으키는 원인이 무엇인지는 아직 알 수 없습니다.\n\nRain [Postline 유선 전화]: \"이제 더 알아볼 단서가 생겼네요.\"\nNova [Postline 유선 전화]: \"네. 같은 리듬을 찾았어요. 아직 답은 아니지만요.\""
       ],
       "introduction": "Phew는 역의 조용한 방에서 걸쇠와 Rain이 보고한 리듬의 비교를 정리했습니다. 느슨한 서비스 케이블은 방문을 방해합니다. 팀은 다음 관찰을 신뢰하기 전에 실제의 구체적인 위험과 무서운 추측을 구별해야 합니다.",
       "title": "종은 예언이 아니다"
@@ -277,12 +277,12 @@
       ],
       "captions": [
         "Następnego ranka w drodze do pomieszczenia kalibracyjnego Alarm zauważa luźny kabel nad dojściem do peronu. Uruchamia dzwonek ostrzegawczy i wskazuje bezpieczną drogę z dala od kabla.\n\nAlarm: \"Odsuńcie się od tego kabla! Skorzystajcie z drzwi schronu.\"",
-        "Zza poręczy Quiver sprawdza miejsce wskazane przez Alarma. Jeden zacisk się porusza; pozostałe podpory są stabilne. Dokładna wiedza na temat tego, co jest nie tak, sprawia, że następny krok jest mniejszy i wyraźniejszy.\n\nQuiver: \"Ten zacisk. Pozostajemy w bezpiecznej odległości, dopóki Phew nie odizoluje linii. \"",
+        "Zza poręczy Quiver sprawdza miejsce wskazane przez Alarma. Jeden zacisk się porusza; pozostałe podpory są stabilne. Kiedy wiedzą dokładnie, co się stało, łatwiej im zdecydować, jak zareagować.\n\nQuiver: \"Ten zacisk. Pozostajemy w bezpiecznej odległości, dopóki Phew nie odizoluje linii.\"",
         "Bash gromadzi sześcioro przyjaciół i Alarma w przyległym schronie. Walizka jest z nimi. Mogą tu bezpiecznie poczekać, nie rezygnując z porównania ani nie stojąc pod kablem.\n\nBash: \"Cała szóstka w środku. Alarmie, chodź z nami.\"",
         "Wewnątrz Alarm wciąż jest wstrząśnięty tym, co zobaczył. Nova daje mu czas na wyjaśnienia. Ostrzeżenie było przydatne, mimo że słowa po nim padają powoli.\n\nNova: \"Nie spiesz się. Co zauważyłeś jako pierwsze?\"",
         "Na zewnątrz Phew izoluje przewód zasilający i zabezpiecza luźny zacisk. Dopiero gdy dojście jest bezpieczne, przynosi do pokoju prosty komparator rytmu. Soczewka optyczna nadal znajduje się w warsztacie.\n\nPhew: \"Dojście jest już bezpieczne. Możemy dokonać porównania wewnątrz.\"",
         "W schronie mechaniczny komparator rejestruje słaby dźwięk zapięcia. Hush porównuje to ze skopiowanym rytmem stuknięć Raina. Trzy uderzenia i długa przerwa zgadzają się na tyle, że uzasadniają podążanie za historią pojemnika.\n\nHush [w języku migowym]: „Trzy stuknięcia. Długość przerwy też się zgadza.”",
-        "Tego wieczoru na łące Meadowfold Nova donosi o porównaniu za pośrednictwem Postline. Rain dowiaduje się, że znaleźli poza jego ciałem wskazówkę pasującą do stuknięć. Ani rozmowa, ani test nie mogą jeszcze powiedzieć, co jest przyczyną jego wzrostu.\n\nRain [przez przewodową linię Postline]: „Masz więc za czym podążać”.\nNova [przez przewodową linię Postline]: \"Tak. Wzór - jeszcze nie odpowiedź. \""
+        "Tego wieczoru na łące Meadowfold Nova donosi o porównaniu za pośrednictwem Postline. Rain dowiaduje się, że znaleźli poza jego ciałem wskazówkę pasującą do stuknięć. Ani rozmowa, ani test nie mogą jeszcze powiedzieć, co jest przyczyną jego wzrostu.\n\nRain [przez przewodową linię Postline]: „Masz więc za czym podążać”.\nNova [przez przewodową linię Postline]: \"Tak. Wzór - jeszcze nie odpowiedź.\""
       ],
       "introduction": "Phew zorganizował porównanie zapięcia i rytmu opisanego przez Raina w cichym pomieszczeniu stacji. Luźny kabel serwisowy zakłóca wizytę. Zespół musi odróżnić rzeczywiste, konkretne zagrożenie od przerażających domysłów, zanim będzie mógł zaufać kolejnej obserwacji.",
       "title": "Dzwon, a nie przepowiednia"
@@ -299,7 +299,7 @@
       ],
       "captions": [
         "Na manhã seguinte, a caminho da sala de calibração, Alarm avista um cabo solto acima do acesso à plataforma. Ele toca o sino da estação e indica um caminho livre para se afastarem do cabo.\n\nAlarm: \"Afaste-se desse cabo! Use a porta do abrigo.\"",
-        "Atrás do guardrail, Quiver verifica o local indicado por Alarm. Uma braçadeira está se movendo; os outros suportes são estáveis. Saber exatamente o que está errado torna o próximo passo menor e mais claro.\n\nQuiver: \"Essa braçadeira. Permanecemos afastados até que Phew isole a linha.\"",
+        "Atrás do guardrail, Quiver verifica o local indicado por Alarm. Uma braçadeira está se movendo; os outros suportes são estáveis. Saber exatamente o que está errado ajuda a decidir com mais clareza como agir.\n\nQuiver: \"Essa braçadeira. Permanecemos afastados até que Phew isole a linha.\"",
         "Bash reúne os seis investigadores e Alarm no abrigo adjacente. A maleta vai com eles. Eles podem esperar aqui com segurança, sem abandonar a comparação ou ficar sob o cabo.\n\nBash: \"Todos os seis dentro. Alarm, venha conosco.\"",
         "Lá dentro, Alarm ainda está abalado com o que viu. Nova lhe dá tempo para explicar. O aviso foi útil, embora as palavras depois dele venham lentamente.\n\nNova: \"Não tenha pressa. O que você viu se mover primeiro?\"",
         "Do lado de fora, Phew isola a linha de serviço e protege a braçadeira solta. Somente depois que o acesso estiver seguro ele traz o comparador de ritmo simples para a sala. A lente óptica ainda está na oficina.\n\nPhew: \"O acesso está seguro agora. Podemos fazer a comparação internamente.\"",
@@ -325,7 +325,7 @@
         "Bash собирает шестерых сыщиков и Alarm в соседнем укрытии. Чемодан тоже с ними. Они могут спокойно ждать здесь, не отказываясь от запланированного сравнения и не стоя под кабелем.\n\nBash: \"Все шестеро внутри. Alarm, пойдем с нами\".",
         "Внутри Alarm все еще потрясен увиденным. Nova дает ему время объясниться. Предупреждение было полезным, хотя слова после него доносились медленно.\n\nNova: \"Не торопись. Что начало двигаться первым?\"",
         "Снаружи Phew изолирует сервисную линию и фиксирует свободный зажим. Только после того, как подход будет безопасным, он приносит в комнату простой компаратор ритма. Оптическая линза все еще находится в мастерской.\n\nPhew: \"Теперь проход безопасен. Мы можем провести сравнение внутри.\"",
-        "В убежище механический компаратор фиксирует слабый звон застежки. Hush сверяет его со скопированным ритмом стука Rain. Три удара и длинная пауза совпадают достаточно близко, чтобы оправдать отслеживание истории контейнера.\n\nHush [на языке жестов]: \"Три стука. Пауза тоже совпадает\".",
+        "В убежище механический компаратор фиксирует слабый звон застежки. Hush сверяет его со скопированным ритмом стука Rain. Три удара и длинная пауза достаточно похожи, чтобы продолжить поиски по истории контейнера.\n\nHush [на языке жестов]: \"Три стука. Пауза тоже совпадает\".",
         "В тот вечер на лугу Meadowfold Nova сообщает о сравнении через Postline. Rain узнает, что вне его тела нашлась подсказка с таким же ритмом. Ни звонок, ни тест пока не могут сказать, что является причиной его роста.\n\nRain [по проводной линии Postline]: «Значит, вам есть за чем следить».\nNova [по проводной линии Postline]: \"Да. Ритм совпадает, но ответа пока нет\"."
       ],
       "introduction": "Phew организовал сравнение застежки и ритма, сообщаемого Rain, в тихой комнате станции. Незакрепленный сервисный кабель прерывает посещение. Команда должна отличить реальную, конкретную опасность от пугающих догадок, прежде чем она сможет доверять следующему наблюдению.",
@@ -343,11 +343,11 @@
       ],
       "captions": [
         "Ertesi sabah kalibrasyon odasına giderken Alarm, perona giden yolun üzerinde gevşek bir kablo fark ediyor. İstasyonun uyarı zilini çalıyor ve kablodan uzak, güvenli bir yolu gösteriyor.\n\nAlarm: \"Şu kablodan uzaklaşın! Sığınağın kapısını kullanın.\"",
-        "Quiver, korkuluğun arkasından Alarm'ın gösterdiği noktayı kontrol eder. Bir kelepçe hareket ediyor; diğer destekler sabittir. Tam olarak neyin yanlış olduğunu bilmek bir sonraki adımı daha küçük ve daha net hale getirir.\n\nQuiver: \"Şu kelepçe. Phew hattı izole edene kadar uzakta duracağız.\"",
+        "Quiver, korkuluğun arkasından Alarm'ın gösterdiği noktayı kontrol eder. Bir kelepçe hareket ediyor; diğer destekler sabittir. Tam olarak neyin yanlış olduğunu bilmek bir sonraki adımı daha kolay ve daha net hale getirir.\n\nQuiver: \"Şu kelepçe. Phew hattı izole edene kadar uzakta duracağız.\"",
         "Bash, altı araştırmacıyı ve Alarm'ı bitişikteki barınakta bir araya getiriyor. Çanta da yanlarında. Ritim karşılaştırmasından vazgeçmeden, kablonun uzağında güvenle bekleyebilirler.\n\nBash: \"Altısı da içeride. Alarm, bizimle gel.\"",
         "İçeride Alarm gördükleri karşısında hâlâ sarsılıyordu. Nova ona açıklaması için zaman veriyor. Sonradan açıklamakta zorlansa da uyarısı işe yaradı.\n\nNova: \"Acele etme. İlk olarak neyin hareket ettiğini gördün?\"",
         "Dışarıda, Phew servis hattını izole eder ve gevşek kelepçeyi sabitler. Ancak geçiş yolu güvenli olduktan sonra basit ritim karşılaştırıcısını odaya getiriyor. Optik lens hâlâ atölyede.\n\nPhew: \"Geçiş yolu artık güvenli. Karşılaştırmayı içeride yapabiliriz.\"",
-        "Bekleme odasındaki mekanik karşılaştırıcı, tokanın zayıf sesini kaydeder. Hush bunu Rain'in ritminin kopyasıyla karşılaştırır. Üç vuruş ve uzun aralık, taşıyıcının geçmişini takip etmeyi haklı çıkaracak kadar yakın bir şekilde uyuşuyor.\n\nHush [işaret diliyle]: \"Üç dokunuş. Boşluk da eşleşiyor.\"",
+        "Bekleme odasındaki mekanik karşılaştırıcı, tokanın zayıf sesini kaydeder. Hush bunu Rain'in ritminin kopyasıyla karşılaştırır. Üç vuruş ve uzun aralık, taşıyıcının geçmişini takip etmeyi haklı çıkaracak kadar yakın bir şekilde uyuşuyor.\n\nHush [işaret diliyle]: \"Üç tıkırtı. Boşluk da eşleşiyor.\"",
         "O akşam Meadowfold çayırında Nova, karşılaştırmayı Postline üzerinden bildirdi. Rain, sesin kendisinin dışında eşleşen bir ipucu olduğunu duyar. Ne çağrı ne de test onun büyümesine neyin sebep olduğunu henüz söyleyemez.\n\nRain [kablolu Postline]: \"Yani takip edecek bir şeyin var.\"\nNova [kablolu Postline]: \"Evet. Bir model; henüz bir cevap değil.\""
       ],
       "introduction": "Phew, istasyonun sessiz odasında toka ile Rain'in bildirilen ritminin bir karşılaştırmasını düzenledi. Gevşek bir servis kablosu ziyareti kesintiye uğratıyor. Ekibin bir sonraki gözleme güvenebilmesi için önce gerçek, spesifik bir tehlikeyi korkutucu tahminlerden ayırması gerekiyor.",
@@ -367,10 +367,10 @@
         "Sáng hôm sau, trên đường đến phòng hiệu chuẩn, Alarm phát hiện một sợi cáp lỏng lẻo phía trên lối tiếp cận sân ga. Anh ta bấm chuông ở nhà ga và chỉ lối đi an toàn tránh xa sợi cáp.\n\nAlarm: \"Tránh xa sợi cáp đó! Đi qua cửa vào chỗ trú đi.\"",
         "Từ phía sau lan can, Quiver kiểm tra vị trí Alarm vừa chỉ. Một chiếc kẹp đang chuyển động; các điểm đỡ khác đều ổn định. Biết chính xác điều gì sai sẽ giúp họ biết rõ bước tiếp theo cần làm gì.\n\nQuiver: \"Cái kẹp đó. Chúng tôi sẽ tránh xa cho đến khi Phew cô lập được đường dây.\"",
         "Bash tập hợp sáu điều tra viên và Alarm tại nơi trú ẩn liền kề. Chiếc vali cũng được mang theo. Họ có thể yên tâm chờ đợi ở đây mà không cần từ bỏ sự so sánh hay đứng dưới dây cáp.\n\nBash: \"Cả sáu người bên trong. Alarm, đi cùng chúng tôi.\"",
-        "Bên trong, Alarm vẫn còn bàng hoàng trước những gì mình nhìn thấy. Nova cho anh ấy thời gian để giải thích. Lời cảnh báo rất hữu ích mặc dù những lời sau nó đến chậm.\n\nNova: \"Cứ từ từ. Bạn thấy điều gì chuyển động đầu tiên?\"",
+        "Bên trong, Alarm vẫn còn bàng hoàng trước những gì mình nhìn thấy. Nova cho anh ấy thời gian để giải thích. Lời cảnh báo rất hữu ích mặc dù những lời sau nó đến chậm.\n\nNova: \"Cứ từ từ. Cậu thấy điều gì chuyển động đầu tiên?\"",
         "Bên ngoài, Phew cách ly đường dây dịch vụ và cố định kẹp lỏng. Chỉ khi lối đi đã an toàn, anh mới mang máy so sánh nhịp điệu đơn giản vào phòng. Thấu kính quang học vẫn còn ở xưởng.\n\nPhew: \"Lối vào giờ đã an toàn. Chúng ta có thể so sánh bên trong.\"",
         "Trong nơi trú ẩn, bộ so sánh cơ học ghi lại tiếng ngân rất khẽ của chiếc móc. Hush kiểm tra nó với nhịp gõ đã chép lại của Rain. Ba tiếng gõ và khoảng lặng dài đủ giống nhau để họ tiếp tục lần theo lịch sử của hộp chứa.\n\nHush [bằng ngôn ngữ ký hiệu]: \"Ba tiếng gõ. Khoảng lặng cũng khớp.\"",
-        "Tối hôm đó tại Meadowfold, Nova đưa tin so sánh trên Postline. Rain biết rằng họ đã tìm được một manh mối bên ngoài cơ thể anh có nhịp gõ tương tự. Cả cuộc gọi và bài kiểm tra đều chưa thể nói được điều gì đã gây ra việc cơ thể lớn lên của anh ấy.\n\nRain [qua đường dây Postline]: “Vậy là bạn có thứ để theo dõi.”\nNova [qua đường dây Postline]: \"Đúng. Nhịp gõ khớp, nhưng vẫn chưa có câu trả lời.\""
+        "Tối hôm đó tại Meadowfold, Nova đưa tin so sánh trên Postline. Rain biết rằng họ đã tìm được một manh mối bên ngoài cơ thể anh có nhịp gõ tương tự. Cả cuộc gọi và bài kiểm tra đều chưa thể nói được điều gì đã gây ra việc cơ thể lớn lên của anh ấy.\n\nRain [qua đường dây Postline]: “Vậy là cậu có thứ để theo dõi.”\nNova [qua đường dây Postline]: \"Đúng. Nhịp gõ khớp, nhưng vẫn chưa có câu trả lời.\""
       ],
       "introduction": "Phew đã sắp xếp so sánh nhịp điệu của chiếc móc cài và nhịp điệu được báo cáo của Rain trong căn phòng yên tĩnh của nhà ga. Cáp dịch vụ lỏng lẻo làm gián đoạn chuyến thăm. Nhóm phải phân biệt một mối nguy hiểm thực sự, cụ thể với những phỏng đoán đáng sợ trước khi có thể tin tưởng vào quan sát tiếp theo.",
       "title": "Tiếng chuông, không phải lời tiên tri"
@@ -386,7 +386,7 @@
         "当天晚上，Nova通过Postline向Meadowfold报告了比较结果。 Rain听到声音在自己体外也有相似的来源。无论是通话还是测试都无法说明是什么让他的身体变大。"
       ],
       "captions": [
-        "第二天早上，在前往校准室的路上，Alarm 在平台引道上方发现一根松动的电缆。他摇响车站的手铃，并指出了一条能避开电缆的畅通路线。\n\nAlarm：“离那根电缆远一点！从候车室门口走。”",
+        "第二天早上，在前往校准室的路上，Alarm 在通往站台的通道上方发现一根松动的电缆。他摇响车站的手铃，并指出了一条能避开电缆的畅通路线。\n\nAlarm：“离那根电缆远一点！从候车室门口走。”",
         "Quiver 从护栏后面检查 Alarm 指示的位置。一个夹具正在移动；其他支撑稳定。确切地知道问题出在哪里可以让他们知道下一步具体该做什么。\n\nQuiver：“那个夹子。我们保持距离，直到 Phew 隔离线路。”",
         "Bash 将六名调查员和 Alarm 聚集在旁边的候车室中。箱子也被带了进来。他们可以在这里安全地等待，而不会放弃比较或站在电缆下面。\n\nBash：“六个人都在里面。Alarm，跟我们来吧。”",
         "在里面，Alarm仍然被他所看到的所震惊。 Nova给了他解释的时间。他一时还说不清经过，但刚才的警告已经帮上了忙。\n\nNova：“慢慢来。你首先看到什么在移动？”",

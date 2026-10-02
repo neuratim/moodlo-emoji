@@ -15,7 +15,7 @@
         "بعد ساعتين وصلوا إلى نيري. قبل لمس أداة، طلبت ميند من روك إعادة النظر في موعد ظهر الغد.",
         "في المخزن عرضت ميند مهمة واحدة واضحة: خياطة درزة المظلة الممزقة هذا المساء. يتولى روك تركيبها على الإطار بنفسه.",
         "فحص روك العمل وقال: «هذا مناسب. أتولى التركيب وفحوص السلامة. لا تحتاجين إلى الوجود هنا عند الظهر».",
-        "استرخى الشريط الأزرق لكنه بقي. صار نصيب ميند أصغر، لا مكتملًا. فالدرزة ما زالت تحتاج إلى خياطة متقنة.",
+        "استرخى الشريط الأزرق لكنه بقي. صار العمل المطلوب من ميند أقل، لكنه لم يكتمل بعد. فالدرزة ما زالت تحتاج إلى خياطة متقنة.",
         "شرحت ميند أن نباتات سيلا أولًا، قبل الغروب. وافق روك على إخلاء الطاولة أثناء وجودها في المشتل.",
         "بعد مشي قصير، وجدوا سيلا قرب الأحواض الستة. قالت ميند: «لنحمِ النباتات بدلًا من بناء السقف الهائل الذي تخيلته».",
         "أرتهم سيلا الصواني التي يمكن نقلها. اختاروا المظلة الموجودة وغطاءين منخفضين بدل سقف عملاق."
@@ -37,10 +37,10 @@
         "দু ঘণ্টা পরে নেরি পৌঁছল। যন্ত্র ছোঁয়ার আগে মেন্ড রুককে কাল দুপুরের কথা আবার আলোচনা করতে বলল।",
         "নৌকাঘরে মেন্ড একটি স্পষ্ট কাজ বলল: আজ সন্ধ্যায় ছাউনির ছেঁড়া সেলাই সারাবে। রুক নিজেই কাঠামোয় লাগাবে।",
         "রুক কাজ দেখল। “ঠিক আছে। লাগানো আর নিরাপত্তা পরীক্ষা আমি করব। দুপুরে তোমার থাকা লাগবে না।”",
-        "নীল ফিতা আলগা হলেও থাকল। মেন্ডের ভাগ ছোট হয়েছে, শেষ নয়। সেলাই এখনও যত্ন করে করতে হবে।",
+        "নীল ফিতা আলগা হলেও থাকল। মেন্ডের কাজ কমেছে, কিন্তু এখনও শেষ হয়নি। সেলাই এখনও যত্ন করে করতে হবে।",
         "মেন্ড জানাল, সূর্য ডোবার আগে সেলার চারাগুলো সুরক্ষিত করার কাজটা আগে করতে হবে। রুক সেই সময়ের মধ্যে টেবিল ফাঁকা করে রাখবে বলল।",
-        "একটু হেঁটে সেলাকে ছয় বেডের পাশে পাওয়া গেল। “চারা বাঁচাই,” মেন্ড বলল, “আমার বিরাট ভাবনা বানাই না।”",
-        "সেলা কোন ট্রে সরানো যায় দেখাল। তারা বিশাল ছাদের বদলে পুরোনো ছাদ আর দুটি নিচু ঢাকনা বেছে নিল।"
+        "একটু হেঁটে সেলাকে ছয় বেডের পাশে পাওয়া গেল। মেন্ড বলল, “আমার কল্পনার বিশাল ছাদ না বানিয়ে এবার চারা বাঁচানোর ব্যবস্থাই করি।”",
+        "সেলা কোন ট্রে সরানো যায় দেখাল। তারা বিশাল ছাদের বদলে পুরোনো ছাদ আর দুটি নিচু ছাউনি বেছে নিল।"
       ],
       "introduction": "রুক ও মেন্ড নিজেদের কাজ স্পষ্টভাবে ভাগ করে।",
       "title": "একটি সেলাই, পুরো নৌকা নয়"
@@ -169,9 +169,9 @@
         "दो घंटे बाद वे नेरी पहुँचे। औज़ार छूने से पहले मेंड ने रूक से कल दोपहर वाले वादे पर फिर बात करने को कहा।",
         "नावघर में मेंड ने एक साफ़ काम सुझाया: आज शाम छाजन की फटी सिलाई ठीक करना। रूक उसे ढाँचे पर खुद लगाएगा।",
         "रूक ने काम देखा। “ठीक है। लगाना और सुरक्षा जाँचना मैं करूँगा। तुम्हें दोपहर को यहाँ रहने की जरूरत नहीं।”",
-        "नीला रिबन ढीला हुआ, मगर रहा। मेंड का हिस्सा छोटा हुआ था, पूरा नहीं। सिलाई अभी ध्यान से करनी थी।",
-        "मेंड ने कहा कि सूर्यास्त से पहले सेला के पौधे पहले करने हैं। रूक ने उस दौरान मेज़ साफ़ करने की बात मानी।",
-        "थोड़ा चलकर सेला छह क्यारियों के पास मिली। “पौधे बचाते हैं,” मेंड बोली, “मेरी विशाल कल्पना नहीं बनाते।”",
+        "नीला रिबन ढीला हुआ, मगर रहा। मेंड का काम कम हुआ था, लेकिन अभी पूरा नहीं हुआ था। सिलाई अभी ध्यान से करनी थी।",
+        "मेंड ने कहा कि सूर्यास्त से पहले उसे सेला के पौधों को बचाने में मदद करनी है। रूक ने उस दौरान मेज़ साफ़ करने की बात मानी।",
+        "थोड़ा चलकर सेला छह क्यारियों के पास मिली। मेंड ने कहा, “मेरी कल्पना की विशाल छत बनाने के बजाय पौधों को बचाने की व्यवस्था करते हैं।”",
         "सेला ने बताया कौन-सी ट्रे खिसक सकती हैं। उन्होंने विशाल छत के बजाय पुरानी छत और दो छोटे आवरण चुने।"
       ],
       "introduction": "रूक और मेंड अपना-अपना काम स्पष्ट रूप से तय करते हैं।",
@@ -191,7 +191,7 @@
         "Dua jam kemudian, mereka tiba di Neri. Sebelum mengambil alat, Mend meminta Rook membicarakan ulang janji besok tengah hari.",
         "Di gudang perahu, Mend menawarkan satu tugas yang jelas: memperbaiki jahitan tudung yang robek malam ini. Rook sendiri akan memasangnya pada rangka.",
         "Rook memeriksa pekerjaannya. “Bisa. Pemasangan dan pemeriksaan keselamatan menjadi bagianku. Kau tidak perlu berada di sini tengah hari.”",
-        "Pita biru mengendur, tetapi tetap ada. Bagian Mend kini lebih kecil, belum selesai. Jahitannya masih membutuhkan ketelitian.",
+        "Pita biru mengendur, tetapi tetap ada. Tugas Mend kini lebih sedikit, tetapi belum selesai. Jahitannya masih membutuhkan ketelitian.",
         "Mend menjelaskan bahwa tanaman Sela harus didahulukan sebelum matahari terbenam. Rook setuju merapikan meja selagi ia berada di kebun bibit.",
         "Setelah berjalan sebentar, mereka menemukan Sela di dekat enam petak. “Mari melindungi tanaman,” kata Mend, “alih-alih membangun atap raksasa yang kubayangkan.”",
         "Sela menunjukkan baki yang dapat dipindahkan. Mereka memilih tempat berteduh dan dua penutup rendah, bukan satu atap raksasa."
@@ -238,7 +238,7 @@
         "青いリボンはゆるみましたが、残りました。メンドの担当は小さくなっただけで、終わっていません。縫い目には丁寧な仕事が必要でした。",
         "メンドは、日暮れ前にセラの苗を先に守ると説明しました。ルークはその間に作業台を空けると答えました。",
         "少し歩くと、六つの苗床のそばにセラがいました。「苗を守ろう」とメンド。「私が思い描いた巨大な屋根を作るより、必要なことをしよう」",
-        "セラは動かせるトレーを示しました。みんなで、大きな屋根ではなく、既存の屋根と二つの低い覆いを選びました。"
+        "セラは動かせるトレーを示しました。みんなで、大きな屋根ではなく、もともとある屋根と二つの低い覆いを選びました。"
       ],
       "introduction": "ルークとメンドは担当する作業を具体的に分け直します。",
       "title": "船全部ではなく、一か所の縫い目"
@@ -279,7 +279,7 @@
         "Po dwóch godzinach dotarli do Neri. Zanim Mend dotknęła narzędzia, poprosiła Rooka o zmianę jutrzejszego spotkania w południe.",
         "W szopie Mend zaproponowała konkretną pracę: dziś wieczorem zszyje rozdarty szew. Rook sam zamontuje osłonę na stelażu.",
         "Rook sprawdził zadanie. „To pasuje. Zajmę się montażem i bezpieczeństwem. Nie musisz być tutaj w południe”.",
-        "Niebieska wstążka rozluźniła się, lecz została. Część Mend była mniejsza, nie skończona. Szew nadal potrzebował starannych ściegów.",
+        "Niebieska wstążka rozluźniła się, lecz została. Mend miała teraz mniej do zrobienia, ale jej zadanie wciąż nie było skończone. Szew nadal potrzebował starannych ściegów.",
         "Mend wyjaśniła, że przed zachodem najpierw musi pomóc roślinom Seli. Rook zgodził się w tym czasie uporządkować stół.",
         "Po krótkim spacerze znaleźli Selę przy sześciu grządkach. „Chrońmy rośliny” — powiedziała Mend — „zamiast budować ogromny dach, który sobie wymyśliłam”.",
         "Sela pokazała, które tace można przenieść. Razem wybrali schowek i dwie niskie osłony zamiast jednego wielkiego dachu."
@@ -343,7 +343,7 @@
       ],
       "captions": [
         "İki saat sonra Neri’ye vardılar. Mend bir alete dokunmadan önce Rook’tan yarınki öğle randevusunu yeniden değerlendirmesini istedi.",
-        "Kayıkhanede Mend belirli bir iş önerdi: bu akşam tentenin yırtık dikişini onarmak. Tente iskeletine Rook tarafından takılacaktı.",
+        "Kayıkhanede Mend belirli bir iş önerdi: bu akşam tentenin yırtık dikişini onarmak. Tenteyi iskelete Rook takacaktı.",
         "Rook işi kontrol etti. “Bu olur. Montajı ve güvenlik kontrollerini ben yaparım. Öğlen burada bulunman gerekmiyor.”",
         "Mavi kurdele gevşedi, ama kaldı. Mend’in payı küçülmüştü, bitmemişti. Dikiş hâlâ özen gerektiriyordu.",
         "Mend, güneş batmadan önce Sela’nın bitkilerine yardım etmesi gerektiğini anlattı. Rook, Mend fidanlıktayken masayı boşaltmayı kabul etti.",
@@ -367,7 +367,7 @@
         "Hai giờ sau họ tới Neri. Chưa cầm dụng cụ, Mend đã xin Rook bàn lại cuộc hẹn trưa mai.",
         "Trong nhà thuyền, Mend đề nghị một việc rõ: khâu đường rách của mái che tối nay. Rook sẽ tự lắp lên khung.",
         "Rook xem việc rồi đáp: “Được. Mình lo lắp và kiểm tra an toàn. Cậu không cần ở đây vào trưa mai.”",
-        "Dải xanh dương chùng xuống nhưng còn đó. Phần Mend nhỏ hơn chứ chưa xong. Đường may vẫn cần khâu cẩn thận.",
+        "Dải xanh dương chùng xuống nhưng còn đó. Mend phải làm ít việc hơn, nhưng vẫn chưa làm xong. Đường may vẫn cần khâu cẩn thận.",
         "Mend giải thích phải lo cây Sela trước hoàng hôn. Rook đồng ý dọn bàn trong lúc cô đến vườn ươm.",
         "Đi bộ một đoạn ngắn, họ gặp Sela bên sáu luống. “Mình bảo vệ cây nhé,” Mend nói, “thay vì dựng mái che khổng lồ mà mình đã tưởng tượng.”",
         "Sela chỉ những khay chuyển được. Họ chọn mái kho và hai tấm phủ thấp thay vì một mái khổng lồ."
@@ -389,10 +389,10 @@
         "两个小时后，他们到达内里。门德还没拿工具，就先请鲁克重新谈谈明天正午的约定。",
         "船棚里，门德提出一件明确的事：今晚修好雨篷那条破缝。把雨篷装上框架，则由鲁克自己负责。",
         "鲁克看过后说：“这样可以。安装和安全检查我来做，你不用正午守在这里。”",
-        "蓝色丝带放松了，却仍在。门德的任务变少，不是已经完成。那条缝还需要仔细修补。",
+        "蓝色丝带放松了，却仍在。门德要做的事变少了，但还没有做完。那条缝还需要仔细修补。",
         "门德说明，塞拉的幼苗必须先在日落前盖好。鲁克同意，趁她去育苗园时清出工作台。",
         "走了一小段路，他们在六块苗床旁找到塞拉。“我们来保护幼苗吧，”门德说，“不用造我想象中的巨大屋顶。”",
-        "塞拉指出哪些盘可以移动。大家选定已有的棚子和两顶低盖布，不再造一个大屋顶。"
+        "塞拉指出哪些盘可以移动。大家选定已有的棚子和两处低矮的布棚，不再造一个大屋顶。"
       ],
       "introduction": "门德和鲁克重新确定各自负责的工作。",
       "title": "一条缝，不是一整条船"

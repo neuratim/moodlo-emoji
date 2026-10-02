@@ -15,7 +15,7 @@
         "في صباح اليوم التالي، اتبع Beam مسار ورشة العمل عبر حديقة على ضفة النهر في Orin. Wail يعتني بمقعد فارغ بجوار شجرة. يتوقف Beam ليسأل عن الطريق، ثم يلاحظ الشريط الباهت المربوط بمسند ذراع المقعد.\n\nWail: \"كان صديقي يجلس هنا.\"",
         "يمد Beam يده إلى حقيبته ليخرج شريطًا زاهيًا يحتفظ به للاحتفالات. إنه يقصد تقديم اللون، وليس استبدال الشخص. لكنه لم يسأل بعد عما يعنيه هذا المقعد بالتحديد بالنسبة إلى Wail.\n\nBeam: \"هل ترغب في وضع هذا على التعريشة؟\"",
         "يقوم Wail بفك الشريط الباهت وإمساكه بعناية. لونه البالي هو جزء مما يريد الاحتفاظ به. يقوم Beam بخفض شريطه الجديد بدلاً من محاولة شرح سبب كونه أفضل.\n\nWail: \"ليس بدلاً من هذا.\"",
-        "يضع Beam شريطه بعيدًا ويستخدم كرسي الزائر، ويترك المقعد الذي يتذكره فارغًا. يسأل عن الصديق بدل الزينة. يمكن أن ينتظر التحقيق محادثة لا تطالب بأي شيء في المقابل.\n\nBeam: \"أخبرني عن صديقك.\"",
+        "يضع Beam شريطه بعيدًا ويستخدم كرسي الزائر، ويترك المقعد الذي يتذكره فارغًا. يسأل عن الصديق بدل الزينة. يمكن تأجيل التحقيق قليلًا من أجل حديث لا يطلب فيه Beam شيئًا في المقابل.\n\nBeam: \"أخبرني عن صديقك.\"",
         "عندما ينضم إليهم Quest، يقوم Wail بمقارنة رسم الغلاف بشريطه. لقد رأى أوعية ذاكرة مصنّعة مثل هذا الوعاء يتم تسليمها إلى ورشة العمل المجاورة. إن تذكر شخص ما من خلال القماش ليس مثل حمل جهاز مصمم لتخزين تسجيل للذاكرة.\n\nWail: \"أعرف هذا النوع من أوعية الذاكرة. سبق أن أصلح Sigh واحدًا في الورشة المجاورة.\"",
         "يؤكد Wail أن عنوان الخدمة ينتمي إلى ورشة العبّارات الخاصة بـ Sigh ويشير إلى نفس مسار ضفاف النهر. مرت العدسة المطابقة من هناك. غدًا، عندما يفتح مكتب السجلات، يمكنهم أن يطلبوا من Sigh إيصال إعادة التوجيه.\n\nWail: \"اسأل Sigh. إنه يحتفظ بالإيصالات، حتى القديمة منها.\"",
         "في ذلك المساء، في Meadowfold، جاء Hope للزيارة دون تقديم حل جديد. Rain يصنع مكانًا بجانب يده. من الممكن الاستمرار في البحث عن إجابة والاستمتاع بتواجد شخص ما هناك.\n\nRain: \"يمكنك الجلوس هنا دون إصلاح أي شيء.\""
@@ -59,7 +59,7 @@
         "Druhý den ráno jde Beam k dílně přes zahradu u řeky v Orinu. Wail pečuje o prázdné sedadlo vedle stromu. Beam se zastaví, aby se zeptal na cestu, a pak si všimne vybledlé stuhy přivázané k područce.\n\nWail: „Tady sedával můj přítel.“",
         "Beam sáhne do tašky pro pestrou stuhu, která mu zbyla z vlastních oslav. Chce nabídnout trochu barvy, ne nahradit člověka. Zatím se ale nezeptal, co pro Waila právě toto místo znamená.\n\nBeam: „Chtěl bys tuhle na mřížoví?“",
         "Wail rozváže vybledlou stuhu a opatrně ji drží. Její zašlé barvy patří k tomu, co si chce ponechat. Beam spustí svou novou stuhu, místo aby vysvětloval, proč by měla být lepší.\n\nWail: „Ne místo téhle.“",
-        "Beam odloží stuhu a posadí se na židli pro návštěvu; místo uchovávané ve vzpomínce nechá prázdné. Zeptá se na přítele místo na výzdobu. Pátrání může počkat na rozhovor, který za sebe nic nežádá.\n\nBeam: „Pověz mi o svém příteli.“",
+        "Beam odloží stuhu a posadí se na židli pro návštěvu; místo uchovávané ve vzpomínce nechá prázdné. Zeptá se na přítele místo na výzdobu. Pátrání chvíli počká. Beam jen naslouchá a nic za to nežádá.\n\nBeam: „Pověz mi o svém příteli.“",
         "Když se přidá Quest, Wail porovná kresbu pouzdra se svou stuhou. Takové nosiče viděl dodávat do sousední dílny. Připomínat si někoho kouskem látky není totéž jako nosit zařízení vyrobené k uchovávání záznamu.\n\nWail: „Tenhle druh nosiče znám. Sigh s jedním pracoval tady vedle.“",
         "Wail potvrdí, že servisní adresa patří Sighově dílně u přívozu, a ukáže na tutéž cestu podél řeky. Druhá čočka tudy prošla. Zítra, až se otevře přepážka s evidencí, mohou Sigha požádat o doklad o jejím odeslání dál.\n\nWail: „Zeptejte se Sigha. Doklady si nechává, i ty staré.“",
         "Toho večera na louce Meadowfold přijde Hope na návštěvu bez nového řešení. Rain udělá místo vedle své ruky. Mohou dál hledat odpověď a přitom mít radost z toho, že někdo prostě zůstane nablízku.\n\nRain: „Můžeš si sem sednout, aniž bys něco opravoval.“"
@@ -144,10 +144,10 @@
         "Ce soir-là, de retour à Meadowfold, Hope vient en visite sans apporter de nouvelle solution. Rain fait une place à côté de sa main. Il est possible de continuer à chercher une réponse tout en profitant du simple fait que quelqu'un soit là."
       ],
       "captions": [
-        "Le lendemain matin, Beam suit le chemin de l'atelier à travers le jardin au bord de la rivière d'Orin. Wail s'occupe d'un siège vide à côté d'un arbre. Beam s'arrête pour demander son chemin, puis remarque le ruban délavé attaché à l'accoudoir du siège.\n\nWail : « Mon ami était assis ici. »",
+        "Le lendemain matin, Beam suit le chemin de l'atelier à travers le jardin au bord de la rivière d'Orin. Wail s'occupe d'un siège vide à côté d'un arbre. Beam s'arrête pour demander son chemin, puis remarque le ruban délavé attaché à l'accoudoir du siège.\n\nWail : « Mon ami venait s’asseoir ici. »",
         "Beam cherche dans son sac un ruban brillant laissé par ses propres célébrations. Il entend offrir de la couleur, pas remplacer une personne. Mais il n'a pas encore demandé ce que ce siège particulier signifie pour Wail.\n\nBeam : « Veux-tu mettre ceci sur le treillis ? »",
         "Wail dénoue le ruban délavé et le tient soigneusement. Sa couleur usée fait partie de ce qu'il souhaite conserver. Beam baisse son nouveau ruban au lieu d'essayer d'expliquer pourquoi il devrait être meilleur.\n\nWail : « Pas à la place de celui-ci. »",
-        "Beam range son ruban et utilise la chaise visiteur, laissant le siège réservé au souvenir vide. Il pose des questions sur l'ami au lieu de la décoration. L’enquête peut attendre une conversation qui n’exige rien en retour.\n\nBeam : « Parle-moi de ton ami. »",
+        "Beam range son ruban et utilise la chaise visiteur, laissant vide le siège où son ami venait s’asseoir. Il pose des questions sur l'ami au lieu de la décoration. L’enquête peut attendre une conversation qui n’exige rien en retour.\n\nBeam : « Parle-moi de ton ami. »",
         "Lorsque Quest les rejoint, Wail compare le dessin du boîtier avec son ruban. Il a vu de tels supports fabriqués livrés à l'atelier voisin. Se souvenir de quelqu'un à travers un morceau de tissu n'est pas la même chose que porter un appareil conçu pour stocker un enregistrement.\n\nWail : « Je connais ce genre de réceptacle. Sigh en a reçu un dans l'atelier voisin. »",
         "Wail confirme que l'adresse de service appartient à l'atelier de ferry de Sigh et pointe le long du même sentier riverain. La seconde lentille est passée par là. Demain, à l'ouverture de son bureau d'enregistrement, ils pourront demander à Sigh le récépissé de transmission.\n\nWail : « Demandez à Sigh. Il garde les reçus, même les anciens. »",
         "Ce soir-là, de retour à Meadowfold, Hope vient en visite sans apporter de nouvelle solution. Rain fait une place à côté de sa main. Il est possible de continuer à chercher une réponse tout en profitant du simple fait que quelqu'un soit là.\n\nRain : « Tu peux t'asseoir ici sans rien réparer. »"
@@ -191,10 +191,10 @@
         "Keesokan paginya, Beam mengikuti jalur bengkel melalui taman sungai Orin. Wail sedang merawat kursi kosong di samping pohon. Beam berhenti sejenak untuk menanyakan jalannya, lalu memperhatikan pita pudar yang diikatkan pada sandaran tangan kursi.\n\nWail: “Temanku dulu duduk di sini.”",
         "Beam merogoh tasnya untuk mengambil pita cerah yang tersisa dari perayaannya sendiri. Maksudnya menawarkan warna, bukan menggantikan seseorang. Namun dia belum menanyakan apa arti kursi khusus ini bagi Wail.\n\nBeam: “Apakah kamu ingin ini di teralis?”",
         "Wail melepaskan ikatan pita yang pudar dan memegangnya dengan hati-hati. Warna usangnya adalah bagian dari apa yang ingin dia pertahankan. Beam menurunkan pita barunya alih-alih mencoba menjelaskan mengapa pita itu harus lebih baik.\n\nWail: “Jangan menggantikan pita ini.”",
-        "Beam meletakkan pitanya dan menggunakan kursi pengunjung, membiarkan kursi untuk mengenang teman Wail tetap kosong. Dia bertanya tentang temannya, bukan tentang dekorasinya. Investigasi mungkin menunggu percakapan yang tidak menuntut imbalan apa pun.\n\nBeam: “Ceritakan tentang temanmu.”",
-        "Saat Quest bergabung, Wail membandingkan gambar rumah wadah dengan pitanya. Dia telah melihat wadah yang diproduksi dikirim ke bengkel tetangga. Mengingat seseorang melalui kain tidak sama dengan membawa alat yang dibuat untuk menyimpan rekaman.\n\nWail: \"Aku mengenal wadah semacam itu. Sigh pernah menerima satu di bengkel sebelah.\"",
+        "Beam meletakkan pitanya dan menggunakan kursi pengunjung, membiarkan kursi untuk mengenang teman Wail tetap kosong. Dia bertanya tentang temannya, bukan tentang dekorasinya. Penyelidikan bisa menunggu selama percakapan ini yang tidak menuntut imbalan apa pun.\n\nBeam: “Ceritakan tentang temanmu.”",
+        "Saat Quest bergabung, Wail membandingkan gambar selubung wadah dengan pitanya. Dia telah melihat wadah yang diproduksi dikirim ke bengkel tetangga. Mengingat seseorang melalui kain tidak sama dengan membawa alat yang dibuat untuk menyimpan rekaman.\n\nWail: \"Aku mengenal wadah semacam itu. Sigh pernah menerima satu di bengkel sebelah.\"",
         "Wail mengonfirmasi bahwa alamat layanan tersebut milik bengkel feri Sigh dan menunjuk ke arah jalur tepi sungai yang sama. Lensa yang cocok melewati sana. Besok, ketika meja pencatatannya dibuka, mereka dapat meminta tanda terima penerusan kepada Sigh.\n\nWail: “Tanya Sigh. Dia menyimpan kuitansinya, bahkan yang lama.”",
-        "Malam itu, kembali ke Meadowfold, Hope berkunjung tanpa membawa solusi baru. Rain membuat tempat di samping tangannya. Dimungkinkan untuk terus mencari jawaban dan tetap menikmati kehadiran seseorang.\n\nRain: “Kamu bisa duduk di sini tanpa memperbaiki apa pun.”"
+        "Malam itu, kembali ke Meadowfold, Hope berkunjung tanpa membawa solusi baru. Rain membuat tempat di samping tangannya. Mereka bisa terus mencari jawaban sambil menikmati kebersamaan.\n\nRain: “Kamu bisa duduk di sini tanpa memperbaiki apa pun.”"
       ],
       "introduction": "Di Orin, jalan menuju alamat layanan melewati taman tepi sungai tempat Wail menyediakan tempat duduk untuk teman yang tidak hadir. Para pengelana berhenti sejenak tanpa meninggalkan pencarian mereka. Beam belajar bahwa menawarkan sesuatu yang baru berbeda dengan mendengarkan apa yang ingin dipertahankan seseorang.",
       "title": "Taman Dengan Kursi Kosong"
@@ -233,11 +233,11 @@
       ],
       "captions": [
         "翌朝、Beam は Orin の川沿いの庭園を通り、工房へ向かう小道をたどります。 Wail は木の横の空席の手入れをしています。 Beam は道を尋ねるために立ち止まり、椅子の肘掛けに色あせたリボンが結ばれていることに気づきました。\n\nWail: 「私の友達はよくここに座っていました。」",
-        "Beam は、自分のお祝いで残した明るいリボンを求めてバッグに手を伸ばします。友人の代わりを用意するつもりはなく、少し彩りを添えたいだけでした。しかし、彼はこの特定の座席がWailにとって何を意味するのかまだ尋ねていません。\n\nBeam: 「これを花棚に飾りますか?」",
-        "Wail は色あせたリボンをほどき、大切に持ちます。その使い古された色は、彼が保持したいものの一部です。 Beam は、なぜそれがより良いものであるべきかを説明しようとする代わりに、新しいリボンを下げます。\n\nWail: 「このリボンの代わりにはしないでください。」",
+        "Beam は、自分のお祝いで残した鮮やかなリボンを取り出そうとバッグに手を伸ばします。友人の代わりを用意するつもりはなく、少し彩りを添えたいだけでした。しかし、彼はこの特定の座席がWailにとって何を意味するのかまだ尋ねていません。\n\nBeam: 「これを花棚に飾りますか？」",
+        "Wail は色あせたリボンをほどき、大切に持ちます。その使い古された色は、彼が保持したいものの一部です。 Beam は、新しい方がいいと説得しようとせず、新しいリボンを下げます。\n\nWail: 「このリボンの代わりにはしないでください。」",
         "Beam はリボンをしまい、来客用の椅子を使用し、友人のための席を空席のままにします。彼は飾りではなく友人について尋ねます。調査は少し待てます。何かを聞き出すためではなく、ただ友人の話を聞く時間です。\n\nBeam: 「あなたの友達について教えてください。」",
         "Quest が参加すると、Wail は筐体の図面とリボンを比較します。彼は、そのように製造された記憶容器が近隣の作業場に納品されるのを見てきました。布を通して誰かを思い出すことは、記憶の記録を保存するために作られた装置を持ち歩くことと同じではありません。\n\nWail: 「その種類の記憶容器なら知っています。隣の工房で Sigh が一つ整備していました。」",
-        "Wail は、サービスの住所が Sigh の渡船の工房に属し、同じ川沿いの道を指していることを確認します。対になるレンズも、その工房を経由していました。明日、記録デスクが開いたら、Sigh に転送受領書を要求できます。\n\nWail: 「Sigh に聞いてください。彼は古い領収書も含めて領収書を保管しています。」",
+        "Wail は、サービスの住所が Sigh の渡船の工房に属し、同じ川沿いの道を指していることを確認します。対になるレンズも、その工房を経由していました。明日、記録の窓口が開いたら、Sigh に転送先を記した受領書を見せてもらえます。\n\nWail: 「Sigh に聞いてください。彼は古い領収書も含めて領収書を保管しています。」",
         "その夜、Meadowfold に戻り、Hope が新しい解決策を持参せずに訪問しました。 Rainは自分の手のそばに、Hopeの座る場所を空けます。答えを探し続けながらも、ただそこに誰かがいることを楽しむことは可能です。\n\nRain: 「何も直さずにここに座っていて大丈夫です。」"
       ],
       "introduction": "Orin では、記録にある工房へ向かう道が、川沿いの庭園を通っています。そこではWailが、不在の友人のために席を空けています。旅行者たちは探索を放棄することなく立ち止まります。 Beam は、何か新しいものを提供することと、誰かが保持したいものに耳を傾けることは異なることを学びました。",
@@ -256,11 +256,11 @@
       "captions": [
         "다음날 아침, Beam은 Orin의 강 정원을 통과하는 작업장 경로를 따라갑니다. Wail은 나무 옆 빈 자리를 돌보고 있습니다. Beam은 잠시 멈춰 길을 묻다가 의자 팔걸이에 묶인 빛바랜 리본을 발견합니다.\n\nWail: “내 친구가 여기 앉곤 했어요.”",
         "Beam은 자신의 축하 행사에서 남겨둔 밝은 리본을 찾기 위해 가방에 손을 뻗습니다. 누군가를 대신하려는 게 아니라, 밝은 색을 더해 주고 싶었을 뿐입니다. 그러나 그는 아직 이 특정 좌석이 Wail에게 어떤 의미인지 묻지 않았습니다.\n\nBeam: \"이걸 꽃 시렁에 달아 드릴까요?\"",
-        "Wail은 빛 바랜 리본을 풀어 조심스럽게 잡아줍니다. 낡은 색깔은 그가 간직하고 싶은 것의 일부이다. Beam은 새 리본이 더 좋아야 하는 이유를 설명하는 대신 새 리본을 내립니다.\n\nWail: \"이 리본을 대신하는 건 싫어요.\"",
+        "Wail은 빛 바랜 리본을 풀어 조심스럽게 잡아줍니다. 낡은 색깔은 그가 간직하고 싶은 것의 일부이다. Beam은 새 리본이 더 낫다고 설득하려 하지 않고 새 리본을 내립니다.\n\nWail: \"이 리본을 대신하는 건 싫어요.\"",
         "Beam은 리본을 치우고 방문자 의자를 사용하며 친구를 위해 남겨 둔 자리는 비워 둡니다. 그는 장식 대신 친구에 대해 묻습니다. 조사는 잠시 기다려도 됩니다. 무언가를 알아내려는 목적 없이, 친구의 이야기를 들어 주는 시간입니다.\n\nBeam: \"당신의 친구에 대해 말해주세요.\"",
         "Quest가 합류하면 Wail은 하우징 도면을 자신의 리본과 비교합니다. 그는 그러한 제조 기억 보관 용기가 인근 작업장으로 전달되는 것을 보았습니다. 천 조각으로 누군가를 추억한다는 것은 기억 기록을 저장하기 위해 만든 장치를 들고 다니는 것과는 다르다.\n\nWail: \"나는 그런 종류의 기억 보관 용기를 알고 있습니다. Sigh가 옆 작업장에서 하나를 정비한 적이 있어요.\"",
-        "Wail은 서비스 주소가 Sigh의 페리 작업장에 속하며 동일한 강변 경로를 따라 있음을 확인합니다. 일치하는 렌즈가 그곳을 통과했습니다. 내일 기록 데스크가 열리면 Sigh에게 전달 영수증을 요청할 수 있습니다.\n\nWail: \"Sigh에게 물어보세요. 그는 영수증을 보관하고 있어요. 오래된 영수증이라도요.\"",
-        "그날 저녁 Meadowfold에서 Hope는 새로운 솔루션을 가져오지 않고 방문합니다. Rain은 자기 손 옆에 Hope가 앉을 자리를 마련합니다. 계속해서 답을 찾고 있으면서도 누군가가 그 자리에 있다는 것만으로도 즐거움을 느낄 수 있습니다.\n\nRain: \"아무것도 고치지 않고 여기 앉아 있어도 됩니다.\""
+        "Wail은 서비스 주소가 Sigh의 페리 작업장에 속하며 동일한 강변 경로를 따라 있음을 확인합니다. 짝이 되는 렌즈가 그곳을 통과했습니다. 내일 기록 데스크가 열리면 Sigh에게 전달 영수증을 요청할 수 있습니다.\n\nWail: \"Sigh에게 물어보세요. 그는 영수증을 보관하고 있어요. 오래된 영수증이라도요.\"",
+        "그날 저녁 Meadowfold에서 Hope는 새로운 해결책을 가져오지 않고 방문합니다. Rain은 자기 손 옆에 Hope가 앉을 자리를 마련합니다. 계속해서 답을 찾고 있으면서도 누군가가 그 자리에 있다는 것만으로도 즐거움을 느낄 수 있습니다.\n\nRain: \"아무것도 고치지 않고 여기 앉아 있어도 됩니다.\""
       ],
       "introduction": "Orin에서 기록에 적힌 공방으로 가는 길은 강변 정원을 지납니다. 그곳에서 Wail은 함께하지 못하는 친구를 위해 자리를 비워 두고 있습니다. 여행자들은 조사를 포기하지 않고 잠시 멈춥니다. Beam은 새로운 것을 제공하는 것은 누군가가 갖고 싶어하는 것을 듣는 것과 다르다는 것을 배웁니다.",
       "title": "빈 자리가 있는 정원"
@@ -346,7 +346,7 @@
         "Beam kendi kutlamalarından kalan parlak kurdeleyi almak için çantasına uzanıyor. Bir kişinin yerini almak değil, renk sunmak istiyor. Ancak henüz bu koltuğun Wail için ne anlama geldiğini sormadı.\n\nBeam: \"Bunu çardağın kafesine bağlamak ister misin?\"",
         "Wail solmuş şeridi çözer ve dikkatlice tutar. Eskimiş rengi, saklamak istediği şeyin bir parçası. Beam neden daha iyi olması gerektiğini açıklamaya çalışmak yerine yeni kurdelesini indiriyor.\n\nWail: \"Bunun yerine değil.\"",
         "Beam kurdelesini bir kenara koyar ve ziyaretçi koltuğunu kullanarak Wail'in arkadaşına ayrılan koltuğu boş bırakır. Süs yerine arkadaşını soruyor. Soruşturma karşılığında hiçbir şey talep etmeyen bir konuşmayı bekleyebilir.\n\nBeam: “Bana arkadaşından bahset.”",
-        "Quest onlara katıldığında Wail mahfaza çizimini şeridiyle karşılaştırır. Bu tür üretilmiş taşıyıcıların komşu atölyeye teslim edildiğini gördü. Birini kumaşla hatırlamak, bir kaydı saklamak için yapılmış bir cihazı taşımakla aynı şey değildir.\n\nWail: \"Bu tür bir taşıyıcı biliyorum. Sigh yan taraftaki bir taşıyıcıyla ilgilendi.\"",
+        "Quest onlara katıldığında Wail mahfaza çizimini şeridiyle karşılaştırır. Bu tür üretilmiş taşıyıcıların komşu atölyeye teslim edildiğini gördü. Birini kumaşla hatırlamak, bir kaydı saklamak için yapılmış bir cihazı taşımakla aynı şey değildir.\n\nWail: \"Bu tür taşıyıcıları tanıyorum. Sigh yan atölyede biriyle çalışmıştı.\"",
         "Wail, servis adresinin Sigh'ın feribot atölyesine ait olduğunu doğrular ve nehir kıyısındaki yolu gösterir. Eşleşen mercek oradan geçti. Yarın kayıt masası açıldığında Sigh'dan sevk makbuzunu isteyebilirler.\n\nWail: \"Sigh'a sorun. Makbuzları, hatta eskilerini bile saklıyor.\"",
         "O akşam Meadowfold çayırında Hope yeni bir çözüm getirmeden ziyarete geldi. Rain elinin yanında bir yer açıyor. Bir cevap aramaya devam ederken yine de birisinin orada olmasından keyif almak mümkündür.\n\nRain: \"Hiçbir şeyi tamir etmeden burada oturabilirsin.\""
       ],
@@ -367,10 +367,10 @@
         "Sáng hôm sau, Beam đi theo con đường đến xưởng xuyên qua khu vườn ven sông của Orin. Wail đang chăm sóc một chiếc ghế trống bên cạnh một cái cây. Beam dừng lại để hỏi đường, rồi nhận thấy dải ruy băng đã phai màu buộc vào tay vịn ghế.\n\nWail: “Bạn tôi từng ngồi ở đây.”",
         "Beam thò tay vào túi lấy một dải ruy băng sáng còn sót lại từ lễ kỷ niệm của chính anh ấy. Ý của anh ấy là mang lại màu sắc chứ không phải thay thế một người. Nhưng anh vẫn chưa hỏi chiếc ghế đặc biệt này có ý nghĩa gì với Wail.\n\nBeam: “Cậu có muốn tôi buộc dải băng này lên giàn không?”",
         "Wail tháo dải ruy băng đã phai màu và giữ nó cẩn thận. Màu đã phai của dải băng là một phần của những gì anh ấy muốn giữ lại. Beam hạ dải băng mới của mình xuống thay vì cố gắng giải thích tại sao nó phải tốt hơn.\n\nWail: “Không thay thế cái này.”",
-        "Beam cất dải băng của mình đi và sử dụng ghế dành cho khách, để trống chiếc ghế dành để tưởng nhớ người bạn. Anh ấy hỏi về người bạn thay vì về đồ trang trí. Cuộc điều tra có thể chờ đợi một cuộc trò chuyện mà không đòi hỏi đáp lại bất cứ điều gì.\n\nBeam: “Hãy kể cho tôi nghe về bạn của bạn.”",
+        "Beam cất dải băng của mình đi và sử dụng ghế dành cho khách, để trống chiếc ghế dành để tưởng nhớ người bạn. Anh ấy hỏi về người bạn thay vì về đồ trang trí. Cuộc điều tra có thể chờ đợi một cuộc trò chuyện mà không đòi hỏi đáp lại bất cứ điều gì.\n\nBeam: “Kể cho tôi nghe về người bạn ấy nhé.”",
         "Khi Quest tham gia cùng họ, Wail so sánh bản vẽ vỏ thiết bị với dải băng của mình. Anh ấy đã từng thấy những vật chứa ký ức được chế tạo như vậy được chuyển đến xưởng lân cận. Việc tưởng nhớ một người qua tấm vải không giống như việc mang theo một thiết bị được chế tạo để lưu trữ bản ghi.\n\nWail: \"Tôi biết loại vật chứa đó. Sigh từng bảo dưỡng một chiếc ở xưởng bên cạnh.\"",
         "Wail xác nhận địa chỉ dịch vụ thuộc xưởng phà của Sigh và chỉ đường đi tiếp dọc theo bờ sông. Thấu kính còn lại từng được chuyển qua xưởng đó. Ngày mai, khi quầy hồ sơ mở cửa, họ có thể yêu cầu Sigh cung cấp biên lai chuyển tiếp.\n\nWail: \"Hãy hỏi Sigh. Anh ấy vẫn giữ các biên lai, kể cả những biên lai cũ.\"",
-        "Tối hôm đó, tại đồng cỏ Meadowfold, Hope ghé thăm mà không mang theo giải pháp mới. Rain dành một chỗ bên cạnh bàn tay mình. Vẫn có thể tiếp tục tìm câu trả lời và đồng thời thấy vui vì có người ở bên.\n\nRain: “Bạn có thể ngồi đây mà không cần sửa chữa gì cả.”"
+        "Tối hôm đó, tại đồng cỏ Meadowfold, Hope ghé thăm mà không mang theo giải pháp mới. Rain dành một chỗ bên cạnh bàn tay mình. Vẫn có thể tiếp tục tìm câu trả lời và đồng thời thấy vui vì có người ở bên.\n\nRain: “Cậu có thể ngồi đây mà không cần sửa chữa gì cả.”"
       ],
       "introduction": "Ở Orin, địa chỉ dịch vụ dẫn qua một khu vườn ven sông, nơi Wail giữ chỗ cho một người bạn vắng mặt. Các lữ khách tạm dừng mà không từ bỏ cuộc tìm kiếm của họ. Beam biết rằng việc đưa ra điều gì đó mới khác với việc lắng nghe những gì ai đó muốn giữ.",
       "title": "Khu vườn với chiếc ghế trống"
@@ -388,10 +388,10 @@
       "captions": [
         "第二天早上，Beam沿着车间小路穿过Orin的河滨花园。 Wail正在照料树旁的一个空座位。 Beam 停下来问路，然后注意到座椅扶手上系着一条褪色的丝带。\n\nWail：“我朋友以前坐在这里。”",
         "Beam 把手伸进包里，取出一条自己庆祝活动时留下的鲜艳丝带。他的意思是提供色彩，而不是取代一个人。但他尚未询问这个特殊座位对 Wail 意味着什么。\n\nBeam：“你想把这条系在花架上吗？”",
-        "Wail解开褪色的丝带，小心翼翼地握住。它磨损的颜色是他想要保留的一部分。 Beam 放下了他的新丝带，而不是试图解释为什么它应该更好。\n\nWail：“别换掉这一条。”",
+        "Wail解开褪色的丝带，小心翼翼地握住。它磨损的颜色是他想要保留的一部分。 Beam 放下了他的新丝带，没有再试着说服 Wail 换上新的。\n\nWail：“别换掉这一条。”",
         "Beam收起丝带，使用访客椅，让留给那位朋友的座位继续空着。他问的是朋友而不是装饰品。调查可以等一等；这次倾听也不需要对方回报什么。\n\nBeam：“跟我说说你的朋友吧。”",
         "当Quest加入他们时，Wail将外壳图纸与他的丝带进行比较。他曾见过这样制造的载体被运送到邻近的车间。借一条丝带怀念某人与携带用于存储记忆记录的设备不同。\n\nWail：“我知道那种记忆容器。Sigh在隔壁接过一个。”",
-        "Wail确认该服务地址属于Sigh的轮渡车间，且位于同一条河道沿线。配套的镜片曾从那里转运。明天，当其记录台开放时，他们可以向 Sigh 索要转发收据。\n\nWail：“问Sigh。他保留收据，甚至是旧的。”",
+        "Wail确认该服务地址属于Sigh的轮渡车间，且位于同一条河道沿线。配套的镜片曾从那里转运。明天，当其记录台开放时，他们可以向 Sigh 索要转寄收据。\n\nWail：“问Sigh。他保留收据，甚至是旧的。”",
         "当晚，回到Meadowfold，Hope来访，没有带来新的解决方案。 Rain 在自己手边给 Hope 留了一个位置。寻找答案可以继续，眼前的陪伴也一样珍贵。\n\nRain：“你可以坐在这里，什么也不修。”"
       ],
       "introduction": "在Orin，服务地址穿过一个河边花园，Wail在那里为缺席的朋友保留了座位。旅行者们停下来，没有放弃寻找。 Beam 了解到提供新的东西与倾听别人想要保留的东西是不同的。",

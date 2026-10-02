@@ -16,7 +16,7 @@
         "لم يغادروا إلى لوما إلا بعد الفحوص. جلست ميند تحت المظلة التي أصلحتها، بينما قاد روك القارب.",
         "بعد ساعتين، ظهرت فوانيس لوما الستة خلف الرصيف. كان القوس منخفضًا بما يكفي لترى ميند السماء فوقه.",
         "قابلهم بورو في الساحة. قال: «تم الافتتاح، لكنني ما زلت مستاءً من تغيير الخطة في هذا الوقت المتأخر».",
-        "أجابت ميند: «أفهم. في المرة المقبلة أتحقق قبل الإجابة». لم تعده بألا يشعر بخيبة أمل مرة أخرى أبدًا.",
+        "أجابت ميند: «أفهم. في المرة المقبلة سأتحقق قبل الإجابة». لم تعده بألا يشعر بخيبة أمل مرة أخرى أبدًا.",
         "في الورشة، انتظرت الطائرة على الرف. وضعت ميند الأدوات قربها، استعدادًا للصباح المتفق عليه، لا لليلة أخرى بلا نوم.",
         "تمنى تافي وهاش لها ليلة طيبة. أغلقت ميند الورشة. بقي شريط برتقالي واحد، وصار في الغد متسع أخيرًا."
       ],
@@ -39,8 +39,8 @@
         "দু ঘণ্টা পরে ঘাটের ওপারে লুমার ছয় লণ্ঠন দেখা গেল। তোরণ নিচু বলে তার ওপরের আকাশও দেখা যাচ্ছিল।",
         "চত্বরে বোরোর সঙ্গে দেখা। “উদ্বোধন হয়েছে,” সে বলল। “তবু এত কাছে এসে বদলাতে হওয়ায় এখনও খারাপ লাগছে।”",
         "“বুঝি,” মেন্ড বলল। “পরের বার উত্তর দেওয়ার আগে দেখব।” বোরোকে আর কখনও হতাশ হতে হবে না, এমন কথা দিল না।",
-        "কর্মশালায় ঘুড়িটি তাকের ওপর অপেক্ষা করছিল। মেন্ড পাশে যন্ত্র রাখল—ঠিক করা সকালের জন্য, আরেকটি জাগা রাতের জন্য নয়।",
-        "টাভি ও হাশ শুভরাত্রি বলল। মেন্ড কর্মশালা বন্ধ করল। একটি কমলা ফিতা বাকি, আর কালকের দিনে অবশেষে ফাঁকা জায়গা আছে।"
+        "কর্মশালায় ঘুড়িটি তাকের ওপর অপেক্ষা করছিল। মেন্ড পাশে যন্ত্র রাখল—আগে থেকে ঠিক করা সকালের কাজের জন্য, আরেকটি নির্ঘুম রাতের জন্য নয়।",
+        "টাভি ও হাশ শুভরাত্রি বলল। মেন্ড কর্মশালা বন্ধ করল। একটি কমলা ফিতা বাকি, আর কালকের পরিকল্পনায় অবশেষে কিছু অবসর সময় আছে।"
       ],
       "introduction": "নিরাপদে ফিরে মেন্ড বোরোর বাকি মনখারাপও শোনে।",
       "title": "করতালি ছাড়া ঘরে ফেরা"
@@ -57,10 +57,10 @@
       ],
       "captions": [
         "Později odpoledne déšť zeslábl a řeka se uklidnila. Rook znovu zkontroloval loď i trasu, než dovolil nastoupit.",
-        "Teprve po kontrole vypluli do městečka Luma. Mend seděla pod opravenou stříškou a Rook řídil loď.",
-        "O dvě hodiny později se za nábřežím objevilo šest lampionů v městečku Luma. Oblouk byl tak nízký, že Mend nad ním viděla nebe.",
+        "Teprve po kontrole vypluli do Lumy. Mend seděla pod opravenou stříškou a Rook řídil loď.",
+        "O dvě hodiny později se za nábřežím objevilo šest lampionů v Lumě. Oblouk byl tak nízký, že Mend nad ním viděla nebe.",
         "Na náměstí je potkal Boro. „Zahájení proběhlo,“ řekl. „Pořád mě mrzí, že se muselo tak pozdě změnit.“",
-        "„Rozumím,“ odpověděla Mend. „Příště si vše ověřím před odpovědí.“ Neslíbila, že Boro už nikdy nebude zklamaný.",
+        "„Rozumím,“ odpověděla Mend. „Příště si ověřím, co zvládnu, než odpovím.“ Neslíbila, že Boro už nikdy nebude zklamaný.",
         "V dílně čekal drak na polici. Mend vedle něj nachystala nástroje na dohodnuté ráno, ne na další probdělou noc.",
         "Tavi a Hush popřáli dobrou noc. Mend zavřela dílnu. Zůstala jedna oranžová stuha a kolem zítřka bylo konečně volné místo."
       ],
@@ -84,7 +84,7 @@
         "Auf dem Platz trafen sie Boro. „Die Eröffnung fand statt“, sagte er. „Ich ärgere mich noch immer, dass wir so spät alles ändern mussten.“",
         "„Das verstehe ich“, antwortete Mend. „Nächstes Mal prüfe ich erst, bevor ich antworte.“ Sie versprach nicht, dass Boro nie wieder enttäuscht wäre.",
         "In der Werkstatt wartete der Drachen im Regal. Mend legte das Werkzeug daneben, bereit für den vereinbarten Morgen – nicht für eine weitere schlaflose Nacht.",
-        "Tavi und Hush sagten gute Nacht. Mend schloss die Werkstatt. Ein orangefarbenes Band blieb, und der morgige Tag hatte endlich Platz darum herum."
+        "Tavi und Hush sagten gute Nacht. Mend schloss die Werkstatt. Ein orangefarbenes Band blieb, und im Plan für morgen war endlich genug Zeit dafür."
       ],
       "introduction": "Mend kehrt nach Luma zurück und beginnt mit einem gewöhnlichen Gespräch, Vertrauen aufzubauen.",
       "title": "Ohne Applaus nach Hause"
@@ -126,9 +126,9 @@
         "Solo después de las revisiones salieron hacia Luma. Mend se sentó bajo el toldo que había reparado, mientras Rook dirigía el barco.",
         "Dos horas después aparecieron los seis faroles de Luma detrás del muelle. El arco era tan bajo que Mend podía ver el cielo por encima.",
         "En la plaza los recibió Boro. «La inauguración se celebró», dijo. «Sigo molesto por haber tenido que cambiarla tan tarde».",
-        "«Lo entiendo», respondió Mend. «La próxima vez comprobaré antes de responder». No prometió que Boro nunca volvería a sentirse decepcionado.",
+        "«Lo entiendo», respondió Mend. «La próxima vez comprobaré lo que puedo hacer antes de responder». No prometió que Boro nunca volvería a sentirse decepcionado.",
         "En el taller, la cometa esperaba en su estantería. Mend dejó las herramientas al lado, listas para la mañana acordada, no para otra noche sin dormir.",
-        "Tavi y Hush se despidieron. Mend cerró el taller. Quedaba una cinta naranja, y el día siguiente por fin tenía espacio a su alrededor."
+        "Tavi y Hush se despidieron. Mend cerró el taller. Quedaba una cinta naranja, y en el calendario del día siguiente por fin quedaba tiempo de sobra."
       ],
       "introduction": "Mend regresa a Luma y empieza a reparar la confianza mediante una conversación sencilla.",
       "title": "Volver sin aplausos"
@@ -150,7 +150,7 @@
         "Boro les retrouva sur la place. « L’ouverture a eu lieu, dit-il. Je suis encore contrarié d’avoir dû la modifier si tard. »",
         "« Je comprends, répondit Mend. La prochaine fois, je vérifierai avant de répondre. » Elle ne promit pas que Boro ne serait plus jamais déçu.",
         "À l’atelier, le cerf-volant attendait sur son étagère. Mend posa les outils à côté, pour le matin convenu, pas pour une nouvelle nuit blanche.",
-        "Tavi et Hush lui souhaitèrent bonne nuit. Mend ferma l’atelier. Un seul ruban orange restait, et le lendemain avait enfin de la place autour de lui."
+        "Tavi et Hush lui souhaitèrent bonne nuit. Mend ferma l’atelier. Un seul ruban orange restait, et le programme du lendemain lui laissait enfin du temps pour souffler."
       ],
       "introduction": "Mend revient à Luma et commence à rétablir la confiance par une conversation ordinaire.",
       "title": "Rentrer sans applaudissements"
@@ -171,8 +171,8 @@
         "दो घंटे बाद घाट के पार लूमा की छह लालटेनें दिखीं। द्वार इतना छोटा था कि उसके ऊपर का आसमान भी दिख रहा था।",
         "चौक में बोरो मिला। “उद्घाटन हो गया,” उसने कहा। “लेकिन इतनी देर से बदलना पड़ा, उसका दुख अभी है।”",
         "“समझती हूँ,” मेंड बोली। “अगली बार जवाब से पहले जाँचूँगी।” उसने बोरो के फिर कभी निराश न होने का वादा नहीं किया।",
-        "कार्यशाला में पतंग शेल्फ पर थी। मेंड ने उसके पास औज़ार रखे—तय सुबह के लिए, एक और जागी रात के लिए नहीं।",
-        "तावी और हश ने शुभरात्रि कहा। मेंड ने कार्यशाला बंद की। एक नारंगी रिबन बचा था और कल के दिन में आखिर खाली जगह थी।"
+        "कार्यशाला में पतंग शेल्फ पर थी। मेंड ने उसके पास औज़ार रखे—अगली सुबह के तय काम के लिए, एक और नींद के बिना बिताई रात के लिए नहीं।",
+        "तावी और हश ने शुभरात्रि कहा। मेंड ने कार्यशाला बंद की। एक नारंगी रिबन बचा था और कल की योजना में आखिर कुछ खाली समय था।"
       ],
       "introduction": "सुरक्षित यात्रा के बाद मेंड बोरो की बची हुई नाराज़गी भी सुनती है।",
       "title": "बिना तालियों के घर वापसी"
@@ -192,7 +192,7 @@
         "Baru setelah pemeriksaan mereka berangkat ke Luma. Mend duduk di bawah tudung hasil perbaikannya, sementara Rook mengemudikan perahu.",
         "Dua jam kemudian, enam lampion Luma tampak di belakang dermaga. Gerbangnya cukup rendah sehingga Mend dapat melihat langit di atasnya.",
         "Di alun-alun, Boro menemui mereka. “Pembukaannya tetap berlangsung,” katanya. “Tetapi aku masih kecewa harus mengubahnya begitu dekat waktunya.”",
-        "“Aku mengerti,” jawab Mend. “Lain kali, aku memeriksa sebelum menjawab.” Ia tidak menjanjikan bahwa Boro tak akan pernah kecewa lagi.",
+        "“Aku mengerti,” jawab Mend. “Lain kali, aku akan memeriksa sebelum menjawab.” Ia tidak menjanjikan bahwa Boro tak akan pernah kecewa lagi.",
         "Di bengkel, layang-layang menunggu di rak. Mend menyiapkan alat di dekatnya untuk pagi yang disepakati, bukan untuk kembali bekerja tanpa tidur.",
         "Tavi dan Hush mengucapkan selamat malam. Mend menutup bengkel. Satu pita jingga tersisa, dan akhirnya jadwal besok tidak sesak."
       ],
@@ -216,7 +216,7 @@
         "In piazza incontrarono Boro. «L’inaugurazione si è fatta», disse. «Sono ancora dispiaciuto per averla cambiata così tardi».",
         "«Capisco», rispose Mend. «La prossima volta controllerò prima di rispondere». Non promise che Boro non sarebbe mai più stato deluso.",
         "In laboratorio l’aquilone aspettava sullo scaffale. Mend sistemò gli attrezzi accanto, pronti per la mattina concordata, non per un’altra notte insonne.",
-        "Tavi e Hush augurarono la buonanotte. Mend chiuse il laboratorio. Rimaneva un nastro arancione e il domani aveva finalmente spazio intorno."
+        "Tavi e Hush augurarono la buonanotte. Mend chiuse il laboratorio. Rimaneva un nastro arancione e nel programma del giorno dopo c’era finalmente del tempo libero."
       ],
       "introduction": "Mend torna a Luma e comincia a ricostruire la fiducia con una semplice conversazione.",
       "title": "Tornare senza applausi"
@@ -277,12 +277,12 @@
       ],
       "captions": [
         "Później deszcz osłabł, a rzeka się uspokoiła. Rook ponownie sprawdził łódź i trasę, zanim pozwolił komuś wejść na pokład.",
-        "Dopiero po kontroli ruszyli do miasteczka Luma. Mend usiadła pod osłoną, którą naprawiła, a Rook prowadził łódź.",
-        "Dwie godziny później za nabrzeżem ukazało się sześć lampionów miasteczku miasteczku Luma. Brama była tak niska, że Mend widziała nad nią niebo.",
+        "Dopiero po kontroli ruszyli do Lumy. Mend usiadła pod osłoną, którą naprawiła, a Rook prowadził łódź.",
+        "Dwie godziny później za nabrzeżem ukazało się sześć lampionów Lumy. Brama była tak niska, że Mend widziała nad nią niebo.",
         "Na placu spotkał ich Boro. „Otwarcie się odbyło” — powiedział. „Nadal nie podoba mi się, że musiałem tak późno je zmieniać”.",
         "„Rozumiem” — odpowiedziała Mend. „Następnym razem sprawdzę, zanim odpowiem”. Nie obiecała, że Boro już nigdy nie będzie rozczarowany.",
         "W warsztacie latawiec czekał na półce. Mend położyła obok narzędzia na umówiony poranek, nie na kolejną bezsenną noc.",
-        "Tavi i Hush powiedzieli dobranoc. Mend zamknęła warsztat. Została jedna pomarańczowa wstążka, a wokół jutrzejszego dnia było wreszcie trochę miejsca."
+        "Tavi i Hush powiedzieli dobranoc. Mend zamknęła warsztat. Została jedna pomarańczowa wstążka, a w planie na jutro było wreszcie trochę wolnego czasu."
       ],
       "introduction": "Mend wraca do domu i zwyczajną rozmową zaczyna odbudowywać zaufanie.",
       "title": "Powrót bez oklasków"
@@ -304,7 +304,7 @@
         "Na praça, encontraram Boro. “A abertura aconteceu”, disse ele. “Ainda estou chateado por ter mudado tudo tão tarde.”",
         "“Eu entendo”, respondeu Mend. “Da próxima vez, vou conferir antes de responder.” Não prometeu que Boro nunca mais ficaria decepcionado.",
         "Na oficina, a pipa esperava na prateleira. Mend deixou as ferramentas ao lado, prontas para a manhã combinada, não para outra noite sem dormir.",
-        "Tavi e Hush deram boa-noite. Mend fechou a oficina. Restava uma fita laranja, e o dia seguinte enfim tinha espaço ao redor dela."
+        "Tavi e Hush deram boa-noite. Mend fechou a oficina. Restava uma fita laranja, e na agenda do dia seguinte enfim sobrava tempo."
       ],
       "introduction": "Mend volta a Luma e começa a reconstruir a confiança em uma conversa comum.",
       "title": "Voltar sem aplausos"
@@ -326,7 +326,7 @@
         "На площади их встретил Боро. «Открытие состоялось, — сказал он. — Я всё ещё недоволен тем, что пришлось всё менять так поздно».",
         "«Понимаю, — ответила Менд. — В следующий раз проверю, прежде чем отвечать». Она не обещала, что Боро больше никогда не разочаруется.",
         "В мастерской змей ждал на полке. Менд положила инструменты рядом — для условленного утра, а не для ещё одной бессонной ночи.",
-        "Тави и Хаш пожелали доброй ночи. Менд закрыла мастерскую. Осталась одна оранжевая лента, и у завтрашнего дня наконец появилось свободное место."
+        "Тави и Хаш пожелали доброй ночи. Менд закрыла мастерскую. Осталась одна оранжевая лента, и в расписании на завтра наконец появилось свободное время."
       ],
       "introduction": "Менд возвращается в Луму и обычным разговором начинает восстанавливать доверие.",
       "title": "Домой без аплодисментов"
@@ -348,7 +348,7 @@
         "Meydanda Boro onları karşıladı. “Açılış yapıldı,” dedi. “Bu kadar geç değiştirmek zorunda kalmaktan hâlâ hoşnut değilim.”",
         "“Anlıyorum,” dedi Mend. “Bir dahaki sefere cevap vermeden kontrol edeceğim.” Boro’nun bir daha hiç üzülmeyeceğine söz vermedi.",
         "Atölyede uçurtma rafta bekliyordu. Mend aletleri yanına koydu; kararlaştırılan sabah için, yeni bir uykusuz gece için değil.",
-        "Tavi ile Hush iyi geceler dedi. Mend atölyeyi kapattı. Bir turuncu kurdele kalmıştı; yarının çevresinde sonunda boşluk vardı."
+        "Tavi ile Hush iyi geceler dedi. Mend atölyeyi kapattı. Bir turuncu kurdele kalmıştı; yarının programında sonunda boş zaman vardı."
       ],
       "introduction": "Mend, sıradan bir konuşmayla güveni onarmaya başlar.",
       "title": "Alkışsız Eve Dönüş"
@@ -370,7 +370,7 @@
         "Ở quảng trường, Boro gặp họ. “Lễ đã diễn ra,” anh nói. “Nhưng mình vẫn không vui vì phải đổi kế hoạch sát ngày như thế.”",
         "“Mình hiểu,” Mend đáp. “Lần tới, mình sẽ kiểm tra trước khi trả lời.” Cô không hứa rằng Boro sẽ chẳng bao giờ thất vọng nữa.",
         "Về xưởng, diều vẫn chờ trên kệ. Mend đặt dụng cụ bên cạnh để sẵn cho buổi sáng đã hẹn, không phải cho một đêm mất ngủ nữa.",
-        "Tavi và Hush chúc ngủ ngon. Mend đóng xưởng. Còn một dải cam, và ngày mai cuối cùng có khoảng trống quanh lời hứa ấy."
+        "Tavi và Hush chúc ngủ ngon. Mend đóng xưởng. Còn một dải cam, và trong lịch ngày mai cuối cùng cũng còn thời gian rảnh."
       ],
       "introduction": "Mend trở về sau khi kiểm tra an toàn và lắng nghe nỗi thất vọng còn lại của Boro.",
       "title": "Về nhà không có tiếng vỗ tay"

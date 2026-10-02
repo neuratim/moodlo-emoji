@@ -12,7 +12,7 @@
         "في ذلك المساء، في Meadowfold، تمتد الشمس المنخفضة بظل Rain إلى السياج البعيد. لا يزال لدى جسده مساحة، ولكن كل يوم جديد يجعله يتساءل عن مقدار المساحة الإضافية التي سيحتاجها. Mend تجيب على الخوف، وليس الظل."
       ],
       "captions": [
-        "في صباح اليوم التالي، بعد الوصول إلى رصيف Lunara والمشي إلى الأرشيف، يلتقي Quest وNova بـ Wit. ويعرضان عنوان الإرجاع الذي تم التحقق منه. هنا، تُحفظ سجلات أوعية الذاكرة، وهي لا تحكي حياة أصحابها كاملة.\n\nWit: \"السجل ليس حياة كاملة. دعونا نرى أي تسجيل تبحثون عنه.\"",
+        "في صباح اليوم التالي، بعد الوصول إلى رصيف Lunara والمشي إلى الأرشيف، يلتقي Quest وNova بـ Wit. ويعرضان عنوان الإرجاع الذي تم التحقق منه. هنا، تُحفظ سجلات أوعية الذاكرة، وهي لا تحكي حياة أصحابها كاملة.\n\nWit: \"التسجيل لا يحكي حياة كاملة. دعونا نرى أي تسجيل تبحثون عنه.\"",
         "يعرض Quest الأدلة بالترتيب الذي عثروا عليها به: المشبك، وصورة الوعاء، وإيصال الخدمة، وصورة الإرسال، والعدسة التي تم إصلاحها. هذه الأشياء أدت إلى بعضها البعض؛ لم تسافر جميعها في الصندوق الأصلي.\n\nQuest: \"لقد قادنا المشبك إلى ورشة العمل. وقادتنا ورشة العمل إلى هذه العدسة.\"",
         "يطابق Wit مرجع كتالوج وعاء الذاكرة مع الشحنة التي تم تسليمها إلى Mosaic. ولم يتم تسجيله مرة أخرى في الأرشيف. يوضح Quest أن الغلاف التالف لا يزال في المحطة؛ محتوياته المفقودة هي ما يجب عليهم تحديده.\n\nWit: \"لدينا قيد وعاء الذاكرة. والآن نحتاج إلى وصف ما يحمله.\"",
         "صفحة الشحن سليمة، لكن صفحة المحتويات ممزقة. لا تجد Nova سوى حافة الصفحة المتبقية. إن معرفة وعاء الذاكرة الذي وصل إلى Mosaic لا يعني معرفة التسجيل الموجود بداخله.\n\nNova: \"إذاً نحن نعرف وعاء الذاكرة، وليس بعد ما يحمله.\"",
@@ -38,7 +38,7 @@
         "Quest সূত্রগুলো পাওয়ার ক্রমে সাজায়: আটকানি, পাত্রের ছবি, মেরামতের রসিদ, পাঠানোর ছবি, আর মেরামত করা লেন্স। একটি সূত্র থেকে আরেকটি পাওয়া গেছে। সব জিনিস প্রথম বাক্সটিতে ছিল না।\n\nQuest: \"আটকানি থেকে কারখানার খোঁজ মিলেছে। কারখানা থেকে এই লেন্সের।\"",
         "Wit পাত্রের তালিকার নম্বরটি Mosaic-এ পাঠানো চালানের সঙ্গে মেলায়। পাত্রটি সংরক্ষণাগারে ফেরত আসার কোনো নথি নেই। Quest জানায়, ভাঙা খোলস এখনও স্টেশনে আছে। ভেতরের হারানো জিনিসটি কী ছিল, সেটিই জানতে হবে।\n\nWit: \"পাত্রটির নথি পেয়েছি। এবার তার ভেতরে কী ছিল, সেই বর্ণনা দরকার।\"",
         "মাল পাঠানোর পাতাটি অক্ষত, কিন্তু ভেতরের জিনিসের বিবরণ দেওয়া পাতাটি ছেঁড়া। Nova শুধু ছেঁড়া কিনারা পায়। কোন পাত্র Mosaic-এ পৌঁছেছে জানা গেলেও, তার ভেতরে কোন রেকর্ডিং ছিল তা জানা যায় না।\n\nNova: \"পাত্রটি চিনেছি। ভেতরে কী ছিল, এখনও জানি না।\"",
-        "Fret বেঁচে থাকা পাঠানোর আর জমা রাখার কার্ডগুলো নিয়ে আসে। Quest একবারে একটি করে নম্বর মেলায়। তুলনা করার মতো নথি অল্পই। ভয়ে সব কাগজের অন্তহীন স্তূপ ঘাঁটতে হবে না।\n\nFret: \"এগুলোর নম্বর পাত্রটির সঙ্গে মেলে। আগে এগুলোই দেখি।\"",
+        "Fret পাঠানো আর জমা রাখার যে কার্ডগুলো এখনও অক্ষত আছে, সেগুলো নিয়ে আসে। Quest একবারে একটি করে নম্বর মেলায়। তুলনা করার মতো নথি অল্পই। ভয়ে সব কাগজের অন্তহীন স্তূপ ঘাঁটতে হবে না।\n\nFret: \"এগুলোর নম্বর পাত্রটির সঙ্গে মেলে। আগে এগুলোই দেখি।\"",
         "একটি জমা রাখার কার্ডে Sigh-এর নাম আছে। পাত্রের তালিকার নম্বরও মেলে। গেটের বর্ণনাটি Orin-এ Sigh-এর বলা ঘটনার সঙ্গে মিলে যায়। Hush ফোনের দিকে Wit-এর দৃষ্টি টানে। এবার Sigh-কে জিজ্ঞেস করতে হবে, বাকিটা বানিয়ে নেওয়া যাবে না।\n\nHush [ইশারার ভাষায়]: \"Sigh-কে জিজ্ঞেস করুন। তার হয়ে সিদ্ধান্ত নেবেন না।\"",
         "সেই সন্ধ্যায় Meadowfold-এ নিচু সূর্যের আলোয় Rain-এর ছায়া দূরের বেড়া ছুঁয়েছে। তার শরীরের জন্য এখনও জায়গা আছে। কিন্তু প্রতিদিন সে ভাবে, আর কতটা জায়গা লাগবে। Mend তার ছায়া নয়, তার ভয়ের কথাটির উত্তর দেয়।\n\nRain: \"ভয় হচ্ছে, আমার জন্য আর জায়গা থাকবে না।\"\nMend: \"আজ রাতের জায়গা আছে। কাল কতটা লাগবে, একসঙ্গে দেখব।\""
       ],
@@ -84,7 +84,7 @@
         "Die Versandseite ist intakt, die Inhaltsseite ist jedoch herausgerissen. Nova findet nur den abgerissenen Rest am Seitenrand. Zu wissen, welcher Speicherträger Mosaic erreicht hat, ist nicht dasselbe wie zu wissen, wessen Aufnahme sich darin befand.\n\nNova: „Wir kennen also den Träger, aber noch nicht, was er enthielt.“",
         "Fret bringt stattdessen die erhaltenen Versand- und Hinterlegungskarten mit. Quest prüft jeweils eine passende Referenz. Es gibt nur wenige Datensätze zum Vergleich; Angst muss die Suche nicht zu einem endlosen Haufen machen.\n\nFret: „Diese stimmen mit der Nummer des Speicherträgers überein. Überprüfen wir sie vor dem Rest.“",
         "Eine noch erhaltene Hinterlegungskarte trägt den Namen Sigh und stimmt mit der Katalognummer des Speicherträgers überein. Die Beschreibung des Tors stimmt mit der Geschichte überein, die er in Orin erzählt hat. Hush weist Wit auf das Telefon hin: Der nächste Schritt besteht darin, Sigh zu fragen und nicht den Rest zu erfinden.\n\nHush [gebärdet]: „Fragt Sigh. Entscheidet nicht für ihn.“",
-        "An diesem Abend, zurück bei Meadowfold, dehnt die tiefstehende Sonne den Schatten von Rain bis zum gegenüberliegenden Zaun aus. Sein Körper hat noch Platz, aber jeder neue Tag lässt ihn fragen, wie viel mehr Platz er brauchen wird. Mend antwortet auf die Angst, nicht auf den Schatten.\n\nRain: „Ich fürchte, mir geht der Platz aus.“\nMend: „Heute Abend ist noch Platz. Den morgigen Platz prüfen wir gemeinsam.“"
+        "An diesem Abend, zurück bei Meadowfold, dehnt die tiefstehende Sonne den Schatten von Rain bis zum gegenüberliegenden Zaun aus. Sein Körper hat noch Platz, aber jeder neue Tag lässt ihn fragen, wie viel mehr Platz er brauchen wird. Mend antwortet auf die Angst, nicht auf den Schatten.\n\nRain: „Ich fürchte, mir geht der Platz aus.“\nMend: „Heute Abend ist noch Platz. Morgen sehen wir gemeinsam nach, wie viel Platz du brauchst.“"
       ],
       "introduction": "Die überprüfte Rücksendeadresse führt die Ermittler zum Archiv von Lunara. Ihre Beweise können nun anhand der eigenen Aufzeichnungen der Ausstellung überprüft werden. Eine fehlende Inhaltsseite blockiert die offensichtliche Antwort, daher muss das Team einen anderen dokumentierten Weg zu der Person finden, die die Aufnahme hinterlegt hat.",
       "title": "Der Raum der unvollendeten Geschichten"
@@ -166,7 +166,7 @@
         "उस शाम Meadowfold में ढलते सूरज से Rain की छाया दूर की बाड़ तक जाती है। शरीर के लिए अभी जगह है, मगर हर दिन वह सोचता है कि और कितनी लगेगी। Mend छाया को नहीं, उसके डर को जवाब देती है।"
       ],
       "captions": [
-        "अगली सुबह Lunara के घाट से अभिलेखागार तक चलकर Quest और Nova, Wit से मिलते हैं। वे जाँचा हुआ वापसी का पता दिखाते हैं। यहाँ स्मृति-पात्रों का रिकॉर्ड है, पर एक रिकॉर्डिंग किसी की पूरी ज़िंदगी नहीं होती।\n\nWit: \"रिकॉर्ड पूरी ज़िंदगी नहीं है। देखते हैं किसकी खोज है।\"",
+        "अगली सुबह Lunara के घाट से अभिलेखागार तक चलकर Quest और Nova, Wit से मिलते हैं। वे जाँचा हुआ वापसी का पता दिखाते हैं। यहाँ स्मृति-पात्रों का रिकॉर्ड है, पर एक रिकॉर्डिंग किसी की पूरी ज़िंदगी नहीं होती।\n\nWit: \"एक रिकॉर्डिंग पूरी ज़िंदगी नहीं बताती। देखते हैं किसकी खोज है।\"",
         "Quest सुराग मिलने के क्रम में सजाता है: क्लिप, पात्र की तस्वीर, मरम्मत की रसीद, भेजने की तस्वीर और ठीक किया लेंस। एक से दूसरा सुराग मिला था। सब चीज़ें पहले बक्से में साथ नहीं थीं।\n\nQuest: \"क्लिप से कार्यशाला मिली। कार्यशाला से यह लेंस।\"",
         "Wit पात्र की सूची का संदर्भ Mosaic भेजी खेप से मिलाता है। पात्र अभिलेखागार लौटा हो, ऐसा रिकॉर्ड नहीं है। Quest बताता है कि टूटा खोल अभी स्टेशन पर है। उसके भीतर की गायब चीज़ पहचाननी होगी।\n\nWit: \"पात्र का रिकॉर्ड है। अब भीतर क्या था, उसका विवरण चाहिए।\"",
         "माल भेजने का पन्ना सही है, मगर भीतर की चीज़ों के विवरण वाला पन्ना फाड़ा गया है। Nova को बचा किनारा मिलता है। कौन-सा पात्र Mosaic पहुँचा, इससे भीतर कौन-सी रिकॉर्डिंग थी, यह पता नहीं चलता।\n\nNova: \"पात्र पहचान लिया। उसमें क्या था, अभी नहीं जानते।\"",
@@ -189,7 +189,7 @@
       ],
       "captions": [
         "Keesokan paginya, setelah sampai di dermaga Lunara dan berjalan menuju arsip, Quest dan Nova bertemu dengan Wit. Mereka menunjukkan alamat pengembalian yang terverifikasi. Di sini, wadah dan kehidupan yang direkamnya diarsipkan sebagai hal yang berbeda.\n\nWit: \"Sebuah rekaman bukanlah seluruh kehidupan. Mari kita lihat mana yang kamu cari.\"",
-        "Quest menjabarkan petunjuk sesuai urutan menemukannya: pengait, foto komponen, tanda terima layanan, foto pengiriman, dan lensa yang diperbaiki. Objek-objek ini mengarah satu sama lain; mereka tidak semuanya bepergian dengan peti aslinya.\n\nQuest: \"Pengaitnya membawa kami ke bengkel. Bengkel itu membawa kami ke lensa ini.\"",
+        "Quest menjabarkan petunjuk sesuai urutan menemukannya: pengait, foto komponen, tanda terima layanan, foto pengiriman, dan lensa yang diperbaiki. Satu petunjuk membawa mereka ke petunjuk berikutnya; tidak semuanya ikut dikirim bersama peti semula.\n\nQuest: \"Pengaitnya membawa kami ke bengkel. Bengkel itu membawa kami ke lensa ini.\"",
         "Wit mencocokkan referensi wadah dalam katalog dengan kiriman yang diantar ke Mosaic. Pengembaliannya ke arsip tidak pernah tercatat. Quest menjelaskan bahwa cangkang yang rusak masih ada di stasiun; isinya yang hilang itulah yang harus mereka identifikasi.\n\nWit: \"Kami memiliki catatan wadah. Sekarang kami memerlukan deskripsi tentang apa yang ada di dalamnya.\"",
         "Halaman pengiriman masih utuh, namun halaman isinya terkoyak. Nova hanya menemukan sobekan yang tersisa di dekat jilid. Mengetahui wadah mana yang mencapai Mosaic tidak sama dengan mengetahui rekaman siapa yang ada di dalamnya.\n\nNova: “Jadi kami mengetahui wadahnya, tetapi belum tahu apa isinya.”",
         "Fret membawa kartu pengiriman dan penitipan yang masih tersimpan sebagai gantinya. Quest memeriksa satu referensi yang cocok dalam satu waktu. Hanya ada beberapa catatan untuk dibandingkan; rasa takut tidak perlu mengubah pencarian menjadi tumpukan yang tak ada habisnya.\n\nFret: \"Ini cocok dengan nomor wadah. Mari kita periksa sebelum yang lain.\"",
@@ -233,11 +233,11 @@
       ],
       "captions": [
         "翌朝、Lunara の桟橋に到着し、資料館まで歩いた後、Quest と Nova が Wit と出会います。二人は確認できた返送先の住所を見せます。ここでは、記憶容器と記憶容器が記録する人生は別のものとして記録されます。\n\nWit: 「一つの記録が、人生のすべてではありません。どれを探しているのか見てみましょう。」",
-        "Quest は、留め金、ハードウェアの写真、サービス受領書、発送写真、修理したレンズという手がかりを見つけた順に並べます。一つの手がかりが次へとつながりました。すべてが最初の箱に入っていたわけではありません。\n\nQuest: 「留め具が私たちを工房に導いてくれました。工房が私たちをこのレンズに導きました。」",
-        "Witは記憶容器の目録番号を、Mosaicへ送られた荷物の記録と照合します。資料館に戻されたと記録されることはありませんでした。 Quest は、損傷した外殻がまだ駅にあると説明しています。欠けている内容を特定しなければなりません。\n\nWit: 「記憶容器のエントリがあります。次に、その内容の説明が必要です。」",
+        "Quest は、留め金、記憶容器の写真、整備の受領書、発送写真、修理したレンズという手がかりを見つけた順に並べます。一つの手がかりが次へとつながりました。すべてが最初の箱に入っていたわけではありません。\n\nQuest: 「留め具が私たちを工房に導いてくれました。工房が私たちをこのレンズに導きました。」",
+        "Witは記憶容器の目録番号を、Mosaicへ送られた荷物の記録と照合します。資料館に戻されたと記録されることはありませんでした。 Quest は、損傷した外殻がまだ駅にあると説明しています。欠けている内容を特定しなければなりません。\n\nWit: 「記憶容器の記録は見つかりました。次に、その内容の説明が必要です。」",
         "配送ページは無傷ですが、中身を記したページが破れています。 Nova は破れたページの付け根だけを見つけます。どの記憶容器が Mosaic に到達したかを知ることは、その中に誰の記憶の記録が入っていたかを知ることと同じではありません。\n\nNova: 「つまり、記憶容器についてはわかっていますが、その内容はまだわかっていません。」",
         "Fretは代わりに残されていた発送カードと寄託カードを持ってきます。 Questは一致する番号を一つずつ確認します。比べる記録は数枚だけです。不安だからといって、際限なく資料を積み上げる必要はありません。\n\nFret：「これは記憶容器の番号と一致します。残りの資料より先に、こちらを確認しましょう。」",
-        "残っている一枚の寄託カードにSighの名前があり、カードの番号も記憶容器の目録番号と一致します。その門の説明は、彼が Orin で語った物語と一致しています。 Hush は Wit を電話機に向けます。次のステップは、分からない部分を想像で埋めずに、Sigh に質問することです。\n\nHush [手話]: 「Sighに聞いてください。彼のために決めないでください。」",
+        "残っている一枚の寄託カードにSighの名前があり、カードの番号も記憶容器の目録番号と一致します。その門の説明は、彼が Orin で語った物語と一致しています。 Hush は Wit を電話機に向けます。次のステップは、分からない部分を想像で埋めずに、Sigh に質問することです。\n\nHush [手話]: 「Sighに聞いてください。本人に代わって決めないでください。」",
         "その夜、Meadowfold に戻ると、低い太陽が Rain の影を遠くのフェンスまで伸ばしています。まだ彼の体が休める広さはありますが、毎日が来るたびに、どれだけのスペースが必要になるだろうかと考えている。 Mend は影ではなく恐怖に答えます。\n\nRain: 「自分のいられる場所がなくなりそうで怖いです。」\nMend: 「今夜は十分な場所があります。明日のことは、また一緒に確かめましょう。」"
       ],
       "introduction": "確認できた返送先の住所をたどり、仲間たちはLunaraの資料館へ向かいます。彼らの証拠は、展覧会自体の記録と照合できるようになりました。中身を記したページが失われているため、記録を預けた人を探すには、ほかの書類をたどらなければなりません。",
@@ -255,11 +255,11 @@
       ],
       "captions": [
         "다음날 아침, Lunara의 부두에 도착해 기록 보관소로 걸어간 후, Quest와 Nova는 Wit을 만납니다. 두 사람은 확인한 반송 주소를 보여 줍니다. 여기서는 기억 보관 용기와 거기에 기록된 한 사람의 삶이 서로 다른 것으로 기록된다.\n\nWit: \"기록 하나가 한 사람의 삶 전부는 아닙니다. 당신이 어떤 것을 찾고 있는지 한번 볼까요?\"",
-        "Quest는 걸쇠, 하드웨어 사진, 서비스 영수증, 배송 사진, 수리된 렌즈 등 발견한 순서대로 단서를 제시합니다. 한 단서가 다음 단서로 이어졌습니다. 모두 처음부터 같은 상자에 들어 있던 물건은 아닙니다.\n\nQuest: \"걸쇠가 우리를 공방으로 이끌었습니다. 공방은 우리를 이 렌즈로 이끌었습니다.\"",
+        "Quest는 걸쇠, 기억 보관 용기 사진, 정비 영수증, 배송 사진, 수리된 렌즈 등 발견한 순서대로 단서를 제시합니다. 한 단서가 다음 단서로 이어졌습니다. 모두 처음부터 같은 상자에 들어 있던 물건은 아닙니다.\n\nQuest: \"걸쇠가 우리를 공방으로 이끌었습니다. 공방은 우리를 이 렌즈로 이끌었습니다.\"",
         "Wit은 기억 보관 용기의 목록 번호를 Mosaic로 보낸 화물 기록과 대조합니다. 기록 보관소로 돌아왔다는 기록은 없습니다. Quest는 손상된 외피가 아직 역에 있다고 설명합니다. 누락된 내용을 식별해야 합니다.\n\nWit: \"기억 보관 용기의 항목이 있습니다. 이제 그것이 무엇을 가지고 있는지에 대한 설명이 필요합니다.\"",
-        "배송페이지는 온전한데, 내용페이지가 찢겨져있습니다. Nova가 찾은 것은 뜯긴 페이지의 남은 가장자리뿐입니다. 어느 기억 보관 용기가 Mosaic에 도달했는지 아는 것은 그 안에 누구의 기억 기록이 있었는지 아는 것과는 다릅니다.\n\nNova: \"어떤 기억 보관 용기인지는 알지만, 안에 무엇이 있었는지는 아직 모르는 거네요.\"",
-        "Fret은 대신 남아 있는 파견 카드와 기탁 카드를 가져옵니다. Quest는 일치하는 번호를 하나씩 확인합니다. 비교할 기록이 몇 개밖에 없습니다. 두려움 때문에 수색을 끝없는 더미로 만들 필요는 없습니다.\n\nFret: \"이것들은 기억 보관 용기 번호와 일치합니다. 나머지보다 먼저 확인하자.\"",
-        "남아 있는 기탁 카드 한 장에 Sigh의 이름이 있고, 기억 보관 용기의 목록 번호도 일치합니다. 게이트 설명은 그가 Orin에서 말한 이야기와 일치합니다. Hush는 Wit을 전화기 쪽으로 가리킵니다. 다음 단계는 빈 부분을 상상으로 채우는 것이 아니라 Sigh에게 물어보는 것입니다.\n\nHush [수어]: \"Sigh에게 물어보세요. 그를 위해 결정하지 마세요.\"",
+        "배송 기록이 있는 페이지는 온전하지만, 내용물이 적힌 페이지는 찢겨 있습니다. Nova가 찾은 것은 뜯긴 페이지의 남은 가장자리뿐입니다. 어느 기억 보관 용기가 Mosaic에 도달했는지 아는 것은 그 안에 누구의 기억 기록이 있었는지 아는 것과는 다릅니다.\n\nNova: \"어떤 기억 보관 용기인지는 알지만, 안에 무엇이 있었는지는 아직 모르는 거네요.\"",
+        "Fret은 대신 남아 있는 발송 카드와 기탁 카드를 가져옵니다. Quest는 일치하는 번호를 하나씩 확인합니다. 비교할 기록이 몇 개밖에 없습니다. 두려움 때문에 수색을 끝없는 더미로 만들 필요는 없습니다.\n\nFret: \"이것들은 기억 보관 용기 번호와 일치합니다. 나머지보다 먼저 확인하자.\"",
+        "남아 있는 기탁 카드 한 장에 Sigh의 이름이 있고, 기억 보관 용기의 목록 번호도 일치합니다. 게이트 설명은 그가 Orin에서 말한 이야기와 일치합니다. Hush는 Wit을 전화기 쪽으로 가리킵니다. 다음 단계는 빈 부분을 상상으로 채우는 것이 아니라 Sigh에게 물어보는 것입니다.\n\nHush [수어]: \"Sigh에게 물어보세요. 본인 대신 결정하지 마세요.\"",
         "그날 저녁 Meadowfold에서는 낮은 태양이 Rain의 그림자를 먼 울타리까지 뻗었습니다. 아직 몸을 쉬게 할 자리는 충분하지만 매일매일 그는 얼마나 더 많은 공간이 필요한지 궁금해합니다. Mend는 그림자가 아닌 두려움에 답합니다.\n\nRain: “공간이 부족할까 봐 걱정됩니다.”\nMend: \"오늘 밤에는 자리가 있습니다. 내일 자리를 함께 확인하겠습니다.\""
       ],
       "introduction": "확인된 반송 주소를 통해 조사관은 Lunara의 기록 보관소로 이동합니다. 그들의 증거는 이제 전시회 자체 기록과 대조하여 확인할 수 있습니다. 내용을 적은 페이지가 없어 바로 답을 찾을 수 없으므로 팀은 기록을 맡긴 사람에게 연락할 수 있는 문서화된 다른 경로를 찾아야 합니다.",
@@ -282,7 +282,7 @@
         "Strona wysyłkowa jest nienaruszona, ale strona z zawartością została wyrwana. Nova znajduje tylko skrawek przy grzbiecie. Wiedza o tym, który nośnik dotarł do miasta Mosaic, to nie to samo, co wiedza, czyje nagranie się na nim znajdowało.\n\nNova: „Więc znamy pojemnik, ale nie wiemy jeszcze, co zawierał.”",
         "Zamiast tego Fret przynosi ocalałe karty wysyłkowe i depozytowe. Quest sprawdza jedno pasujące odniesienie na raz. Jest tylko kilka zapisów do porównania; strach nie musi zmieniać poszukiwań w niekończący się stos.\n\nFret: \"Te pasują do numeru pojemnika. Sprawdźmy je przed resztą.\"",
         "Jedna zachowana karta depozytowa zawiera imię Sigh i odpowiada numerowi katalogowemu pojemnika. Opis bramy zgadza się z historią opowiedzianą przez niego w Orinie. Hush wskazuje Witowi telefon: następnym krokiem jest zapytanie Sigha, a nie wymyślanie reszty.\n\nHush [w języku migowym]: „Zapytajcie Sigha. Nie decydujcie za niego.”",
-        "Tego wieczoru, na łące Meadowfold, nisko położone słońce rzuca cień Raina na daleki płot. Nadal jest wystarczająco dużo miejsca na jego ciało, ale każdy nowy dzień sprawia, że zastanawia się, ile więcej miejsca będzie mu potrzebne. Mend odpowiada na strach, a nie na cień.\n\nRain: „Obawiam się, że zabraknie mi miejsca.”\nMend: \"Jest miejsce dziś wieczorem. Jutro sprawdzimy to razem. \""
+        "Tego wieczoru, na łące Meadowfold, nisko położone słońce rzuca cień Raina na daleki płot. Nadal jest wystarczająco dużo miejsca na jego ciało, ale każdy nowy dzień sprawia, że zastanawia się, ile więcej miejsca będzie mu potrzebne. Mend odpowiada na strach, a nie na cień.\n\nRain: „Obawiam się, że zabraknie mi miejsca.”\nMend: \"Jest miejsce dziś wieczorem. Jutro sprawdzimy to razem.\""
       ],
       "introduction": "Zweryfikowany adres zwrotny prowadzi śledczych do archiwum w Lunarze. Zebrane przez nich dowody można teraz porównać z dokumentacją wystawową. Brak strony opisującej zawartość blokuje oczywistą odpowiedź, więc zespół musi znaleźć inną udokumentowaną drogę do osoby, która oddała nagranie na przechowanie.",
       "title": "Pokój niedokończonych historii"
@@ -365,12 +365,12 @@
       ],
       "captions": [
         "Sáng hôm sau, sau khi đến bến tàu của Lunara và đi bộ đến kho lưu trữ, Quest và Nova gặp Wit. Họ đưa ra địa chỉ gửi trả đã được xác minh. Ở đây, vật chứa ký ức và cuộc đời được ghi lại trong đó được trình bày dưới dạng những thứ khác nhau.\n\nWit: \"Một bản ghi không phải là cả cuộc đời. Hãy xem bạn đang tìm kiếm cái nào.\"",
-        "Quest sắp xếp các manh mối theo thứ tự mà họ tìm thấy: móc cài, ảnh phần cứng, biên lai dịch vụ, ảnh gửi đi và thấu kính đã sửa chữa. Vật này dẫn họ đến vật tiếp theo; không phải tất cả đều từng nằm trong chiếc thùng ban đầu.\n\nQuest: \"Chiếc móc đã dẫn chúng tôi đến xưởng. Xưởng đã dẫn chúng tôi đến với thấu kính này.\"",
+        "Quest sắp xếp các manh mối theo thứ tự mà họ tìm thấy: móc cài, ảnh hộp chứa, biên lai dịch vụ, ảnh gửi đi và thấu kính đã sửa chữa. Vật này dẫn họ đến vật tiếp theo; không phải tất cả đều từng nằm trong chiếc thùng ban đầu.\n\nQuest: \"Chiếc móc đã dẫn chúng tôi đến xưởng. Xưởng đã dẫn chúng tôi đến với thấu kính này.\"",
         "Wit đối chiếu mã danh mục của vật chứa ký ức với lô hàng được giao cho Mosaic. Nó không bao giờ được ghi nhận trở lại vào kho lưu trữ. Quest giải thích rằng chiếc vỏ bị hư hỏng vẫn còn ở trạm; nội dung còn thiếu của nó là những gì họ phải xác định.\n\nWit: \"Chúng tôi đã có mục nhập của vật chứa ký ức. Bây giờ chúng tôi cần mô tả về những gì nó chứa.\"",
-        "Trang vận chuyển còn nguyên nhưng trang nội dung đã bị rách. Nova chỉ tìm thấy mép giấy còn sót lại. Việc biết vật chứa ký ức nào đã đến Mosaic không giống như việc biết bản ghi bên trong đó của ai.\n\nNova: “Vì vậy, chúng tôi biết vật chứa ký ức, chưa biết nó chứa gì.”",
-        "Thay vào đó, Fret mang theo phiếu gửi hàng và thẻ ký gửi còn sót lại. Quest lần lượt kiểm tra từng mã tham chiếu khớp nhau. Chỉ có một vài hồ sơ để so sánh; nỗi sợ hãi không cần biến cuộc tìm kiếm thành một đống vô tận.\n\nFret: \"Những cái này khớp với số vật chứa ký ức. Hãy kiểm tra chúng trước những phần còn lại.\"",
+        "Trang vận chuyển còn nguyên nhưng trang nội dung đã bị rách. Nova chỉ tìm thấy mép giấy còn sót lại. Việc biết vật chứa ký ức nào đã đến Mosaic không giống như việc biết bản ghi bên trong đó của ai.\n\nNova: “Vậy là chúng tớ đã biết về chiếc hộp lưu giữ ký ức, nhưng chưa biết bên trong có gì.”",
+        "Thay vào đó, Fret mang theo phiếu gửi hàng và thẻ ký gửi còn sót lại. Quest lần lượt kiểm tra từng mã tham chiếu khớp nhau. Chỉ có một vài hồ sơ để so sánh; không cần vì lo sợ mà lục tìm trong những chồng hồ sơ vô tận.\n\nFret: \"Những cái này khớp với số vật chứa ký ức. Hãy kiểm tra chúng trước những phần còn lại.\"",
         "Một thẻ ký gửi còn sót lại có tên Sigh và khớp với tham chiếu danh mục của vật chứa ký ức. Mô tả về cánh cổng của nó phù hợp với câu chuyện anh kể ở Orin. Hush hướng Wit về phía điện thoại: bước tiếp theo là hỏi Sigh chứ không phải tự bịa ra phần còn lại.\n\nHush [bằng ngôn ngữ ký hiệu]: \"Hãy hỏi Sigh. Đừng quyết định thay anh ấy.\"",
-        "Tối hôm đó, tại đồng cỏ Meadowfold, ánh nắng thấp trải dài bóng Rain đến tận hàng rào phía xa. Vẫn còn đủ chỗ cho cơ thể anh, nhưng mỗi ngày mới lại khiến anh tự hỏi mình sẽ cần thêm bao nhiêu chỗ trống. Mend giải đáp nỗi sợ hãi chứ không phải cái bóng.\n\nRain: “Tôi sợ hết chỗ.”\nMend: \"Tối nay còn chỗ. Ngày mai chúng ta sẽ cùng nhau kiểm tra chỗ trống.\""
+        "Tối hôm đó, tại đồng cỏ Meadowfold, ánh nắng thấp trải dài bóng Rain đến tận hàng rào phía xa. Vẫn còn đủ chỗ cho cơ thể anh, nhưng mỗi ngày mới lại khiến anh tự hỏi mình sẽ cần thêm bao nhiêu chỗ trống. Mend giải đáp nỗi sợ hãi chứ không phải cái bóng.\n\nRain: “Tớ sợ hết chỗ.”\nMend: \"Tối nay còn chỗ. Ngày mai chúng ta sẽ cùng nhau kiểm tra chỗ trống.\""
       ],
       "introduction": "Địa chỉ trả lại đã được xác minh sẽ đưa các nhà điều tra đến kho lưu trữ của Lunara. Bằng chứng của họ bây giờ có thể được kiểm tra dựa trên hồ sơ của chính triển lãm. Một trang nội dung bị thiếu sẽ chặn câu trả lời hiển nhiên, vì vậy nhóm phải tìm một lộ trình được ghi lại bằng tài liệu khác tới người đã ký gửi bản ghi.",
       "title": "Căn phòng của những câu chuyện dang dở"
@@ -387,8 +387,8 @@
       ],
       "captions": [
         "第二天早上，到达Lunara的码头并步行至档案馆后，Quest和Nova与Wit会合。他们出示了核实过的退货地址。在这里，载体和它记录的生活被作为不同的东西归档。\n\nWit：“一段记录不等于完整的一生。让我们看看你们要找的是哪一段。”",
-        "Quest按照他们发现的顺序列出了线索：扣环、硬件照片、服务收据、发货照片和修复过的镜片。这些线索环环相扣；它们并不是都来自最初那个板条箱。\n\nQuest：“扣环把我们带到了车间。车间把我们带到了这片镜片。”",
-        "Wit 将记忆容器的目录参考与交付给 Mosaic 的货件相匹配。它从未登记退回档案馆。 Quest解释说，损坏的外壳仍在车站；他们必须找出其中缺失的内容。\n\nWit：“我们有记忆容器的条目。现在我们需要对其所持物品的描述。”",
+        "Quest按照他们发现的顺序列出了线索：扣环、记忆容器的照片、服务收据、发货照片和修复过的镜片。这些线索环环相扣；它们并不是都来自最初那个板条箱。\n\nQuest：“扣环把我们带到了车间。车间把我们带到了这片镜片。”",
+        "Wit 将记忆容器的目录参考与交付给 Mosaic 的货件相匹配。它从未登记退回档案馆。 Quest解释说，损坏的外壳仍在车站；他们必须找出其中缺失的内容。\n\nWit：“找到记忆容器的记录了。现在还需要知道，它里面原来装着什么。”",
         "发货页完好无损，但内容页已被撕掉。 Nova 只找到它的存根。知道哪个载体到达了 Mosaic 并不等于知道里面有谁的记忆记录。\n\nNova：“所以我们知道记忆容器，但还不知道它装了什么。”",
         "Fret带来了保存下来的调度卡和寄存卡。 Quest逐一核对相符的编号。需要比较的记录只有几份，不必因为害怕遗漏，就把所有资料都翻出来。\n\nFret：“这些与容器编号相符。我们先检查一下。”",
         "一张保存下来的寄存卡上写着Sigh的名字，卡片上的编号也与记忆容器的目录编号相符。卡片对闸门的描述与Sigh在Orin讲的经历相符。Hush示意Wit去打电话：下一步该问Sigh，而不是自己编出其余的故事。\n\nHush [手语]：“问Sigh。不要替他做决定。”",
