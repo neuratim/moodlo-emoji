@@ -1,6 +1,6 @@
 {
   "downloadBase": "https://raw.githubusercontent.com/neuratim/moodlo-emoji/main/feelingverse",
-  "generatedAt": "2026-10-02T01:20:07.637695Z",
+  "generatedAt": "2026-10-02T12:33:44.702830Z",
   "licence": "CC0 1.0 Universal (public domain). No attribution required.",
   "narratives": [
     {
@@ -2262,7 +2262,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E01/N01E01P01.png",
           "files": {
-            "N01E01.json": "2a3cc9d642562de57f88d59a4aa59cfee18367cdc2d14d8907342450646d446c",
+            "N01E01.json": "c0fb23687d0a451d4c6d3e50db364e1201d7d0c1ddd105e2c4d1d6388fc4f8ad",
             "N01E01P01.png": "28e6eda7472ffe72e850ab3bcd2fceb5977c72f063948df11a7dfb79c0ae87e2",
             "N01E01P02.png": "d1ef446dc49ea415447d60ba065decf310c5bcd538021eb1820fa51b6d9e840c",
             "N01E01P03.png": "b28271e2929602dbce4954dfefbca26925e690bdcf7eba1f331a0e15a4e9d7ba",
@@ -2347,7 +2347,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E02/N01E02P01.png",
           "files": {
-            "N01E02.json": "1313efbc0cfd4c342e5980fb3f60f9829fea725be92e4089c29841c277877ed8",
+            "N01E02.json": "6bd945e5a54f4b3f22f0b97778515b4a47658daec5bb0ed1ef8a257e70eb6658",
             "N01E02P01.png": "c96c00b7fdfd84f90530d6824c836e67526b19d8d901f4764add4392b8d5fe8a",
             "N01E02P02.png": "400d538fe9884b17ae73a4a07de0fc7394036ecb004b6f5e61d16f009b489a15",
             "N01E02P03.png": "2f571af8399a753a7ae3f2a2d7d8dc5592f3766c7864367384cf36629d216266",
@@ -2432,7 +2432,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E03/N01E03P01.png",
           "files": {
-            "N01E03.json": "da88c374645183131b4904b91fc11620c647a9d553ae35f39588a479cd11af95",
+            "N01E03.json": "264b1ccde3be85673b7c413633cb9777b46845408dc2242e3c949f2e3951321d",
             "N01E03P01.png": "cbe3de9e8f989bea5b914e6c8dabe92308e7251c0467f658ca4419cab5ec4c5a",
             "N01E03P02.png": "4dc62111b95209b90705adf5bf08fcb59f957ec2b45d715bb0b9f0bb8e7fad4c",
             "N01E03P03.png": "d88f9509cf2e0ce0996bdf1574677c3ecfafc5d686a6e67acd9b1f3e3720b537",
@@ -2517,7 +2517,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E04/N01E04P01.png",
           "files": {
-            "N01E04.json": "582618446f16c8c10b8c0e09939cfa13a0c4824bb5845a13790e9e6b7f4da848",
+            "N01E04.json": "1d7ec2471a7fd39d57d79e71ddec699f5e434e6dc949b08d77b66a08dc6405d7",
             "N01E04P01.png": "34d298e71e96287bcc7c3b775494642e2d48c9b37fcabe4f2f57ffd7d208432d",
             "N01E04P02.png": "b646fa67e1f4ba7345ecea85a23428416678c52cc2ba17f417e956cc232d27df",
             "N01E04P03.png": "49f328a34428a22bcfa6018f6bb64b648c7c56eb9ce2de8aa93e6582fc404783",
@@ -2602,7 +2602,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E05/N01E05P01.png",
           "files": {
-            "N01E05.json": "b555d5d494c7fac5e0e11e7c56fb77a1441d094d5f440db86291a59e2368530b",
+            "N01E05.json": "f83360dc845541dd4fe64879249318a78759c0312ff61b8e54383337ef2f6b3d",
             "N01E05P01.png": "aa45969f3b66dbf6fff6528c55e58ebcb63b43dd6be37ea8a098e93f8e22c547",
             "N01E05P02.png": "4209e098c093132c506c9db6ccf1c774137d4020913d1d3133a96c3dcae8b9fa",
             "N01E05P03.png": "f053a9995d575fe2809abe3e8f53da1743fd9f0097a0c9641483263b506d9309",
@@ -2687,7 +2687,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E06/N01E06P01.png",
           "files": {
-            "N01E06.json": "bf1d59bd491615f5959793c299ed76d4e134625d726ec7ab441a3134e4ed1df2",
+            "N01E06.json": "89cd2bdc868e52523e2d7cfd60d69cf9432ab77540720ffb338d3659403b5259",
             "N01E06P01.png": "089564c6850f291b40212f950dfdac2cd327c40fc293d5a9edb6174a8021f6c8",
             "N01E06P02.png": "4fec35de4999faf5ded069ce2739dad27d5a925cca9e7f862ce88b1e9a3fd6a2",
             "N01E06P03.png": "08be7e4e1f21efaa43c9ccbc10305b5ccddbe480298d500fe410f4a4d33d4a78",
@@ -2772,7 +2772,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E07/N01E07P01.png",
           "files": {
-            "N01E07.json": "3ed5e8215cf78e1ccb841b9fc7c02309c11aabd027c6421aead759e92cabde2c",
+            "N01E07.json": "a10fee975ccc5e4fc1945191326b6fc1b9f365a4e511c77bda65f29a6a770ce8",
             "N01E07P01.png": "cd5fc2b13e101b2a718a8562cf3e2eb4ffc28f8d68ce0dc2f8212efbfd490a09",
             "N01E07P02.png": "d54f0d96b287d1270bb503d2ec74cc0f567a4477638e2e83599d5a580276f067",
             "N01E07P03.png": "3a3bcdc122eaa8fe3e7b4cb571df926be8d9dcbbf451008a8fb540e6b5cd68ae",
@@ -2857,7 +2857,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E08/N01E08P01.png",
           "files": {
-            "N01E08.json": "2fbc0c6f1716aa8547cdd6b79778eabf40f2b691f2eec205891bc0e0f1ef8d09",
+            "N01E08.json": "eed9d068af14f9f6efc42d755f252f916c56fdf1ca7dff542eb8c9c8d072a2b3",
             "N01E08P01.png": "76291ba2dc4823bb6b5b2b039ebcf27fb3701b96a515df325e88ed97ab303b4f",
             "N01E08P02.png": "2668a67a344c120732b15c98f229e317933897f9c762309352ea38b229051053",
             "N01E08P03.png": "c7620f09ef4b4a417c2e143f8e2b01552a84b9b7158c135e6a84852b35a0d05b",
@@ -2942,7 +2942,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E09/N01E09P01.png",
           "files": {
-            "N01E09.json": "c67c110cf3b1505f9a3cb0390956e76e8ffd447e82411a40b70a5cc4fdb249a9",
+            "N01E09.json": "a6bd9c6a0613fbc2bf695520b2bd5150080a6c35499c893ebd06b31289816c59",
             "N01E09P01.png": "9928a92c4c83cbe6bd6f4aae6dc2f57af36a696019ef06cc6304187bf6ef230e",
             "N01E09P02.png": "98d9a527c16500fc6245d2a235601340dd7a06672c864bfedaeff29cdc774d45",
             "N01E09P03.png": "957e1f8cbc21c4b1f20c51c92e80d10dbb10535356ff6e2b9578ccfdc55b9d6f",
@@ -3027,7 +3027,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E10/N01E10P01.png",
           "files": {
-            "N01E10.json": "a1bf2e52045f1cae73301c1c9dc18888cfe5ac15d19eb8080cd763d0c47c871d",
+            "N01E10.json": "68aa9eaeacc847a27b90752bf4b73fb75c6654470a4661f72a9d358189e1c066",
             "N01E10P01.png": "87dd2eafc926a2a23af699e576e22381436b05774b3fb7485031abc1308455aa",
             "N01E10P02.png": "a5d547d594c1509eebdcfb9c5e88b83b2485ac8e584d4bae8d557a3ef17333db",
             "N01E10P03.png": "f95f5e2ea70cc4051ddabb527c0119b2522db84fb65031a5c08bba49c371055e",
@@ -3112,7 +3112,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E11/N01E11P01.png",
           "files": {
-            "N01E11.json": "7b2fbcf721cbec85ad4c3b075d2d0160f6529f5e20a33aa222cd836f35c2e16b",
+            "N01E11.json": "9962a4f7c12cd348724f4150c21798dcdfca69caa49d1e0a54fdf52160909a16",
             "N01E11P01.png": "30f78f7ef5a56ec07e0fd9a5129fe9ffbf4e4ddac943271d8b90b4242eb9bc18",
             "N01E11P02.png": "5e5c1b7916a74d54514c35b48ca5935cfe1b4fad998955ac839fbd0c478559b0",
             "N01E11P03.png": "eb0f9f9b53e3ce574d448204983cc4131b87751a472d569b11080a5b5472a745",
@@ -3197,7 +3197,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E12/N01E12P01.png",
           "files": {
-            "N01E12.json": "cef81e8f1caf7736ff5ebb4bfc9a688916cc53686152745fb777e2c4c26abb0f",
+            "N01E12.json": "c1e26aadc2d0bb384f65c0e5efdcf76ec69404f732a9a22e7445e7fce037784e",
             "N01E12P01.png": "eca25da5d6a0642bf5b25054848cca9fb3f55a2c3ef7cd4aa0ff8a699cfea26a",
             "N01E12P02.png": "8d1d07885098befbed7901865ca4d7a6a5903551c4da3e2baf154209da17696c",
             "N01E12P03.png": "91a88b2c4ed34e01b8694fa41dc6e8df9436e43eda2ff4155cf0ecc94905f44e",
@@ -3282,7 +3282,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E13/N01E13P01.png",
           "files": {
-            "N01E13.json": "fe8fe9426c309a9acf1c5ebc39f931c63b377af03f80976eec65f2e354b875af",
+            "N01E13.json": "9ba7987deca604706339540713d683fcbeda63a5e241e81707f75906c11471bf",
             "N01E13P01.png": "16045acb4fc8f7a0d1cf3e4c8533f658d807cf17a2bc4ee4cd6fc0aa26992bf9",
             "N01E13P02.png": "e8ce920cb235468246af64b2a7ca66f4918c26487d38c69ba10afda1f8975cbc",
             "N01E13P03.png": "457821739007b79f0b97a8eab7bbc22ccf5a598d32f0025b97317795bea2948b",
@@ -3367,7 +3367,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E14/N01E14P01.png",
           "files": {
-            "N01E14.json": "1a245fe640765500f839d06350b6c4bc2f140d50025b579617245174a333624b",
+            "N01E14.json": "0e5705973bf639d342270dbd261525836de0b22e1dc9af453b1428352e7aeaba",
             "N01E14P01.png": "310b691b276d1eb59eba008e0b1a4383398b532fbbee2d73fea58d29a94ea7a7",
             "N01E14P02.png": "acc54c79843c458c32706db8dcc7d2789163930b8c771d68a1235870493c85e9",
             "N01E14P03.png": "a62318b6a1d789b383a5146bd8afe12e385c1f42a908ba97eae0e17a5abef87b",
@@ -3452,7 +3452,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E15/N01E15P01.png",
           "files": {
-            "N01E15.json": "ad592cc728110a82c602508ce92edd5e2f99779a0895bf583e069077eb2b1623",
+            "N01E15.json": "6bad3344649c78e27b4ebf36ad3a5fba7053bf56497f372ec39fe815b9f6a32c",
             "N01E15P01.png": "c3e006ed2d5d074f92c40404c500a8035ffe8f27f9544b785424132eef3f683c",
             "N01E15P02.png": "736831d2867f2a31875be9920491fbafec956e689d7ef33a0be6f79680b44f5a",
             "N01E15P03.png": "28b9415d2b31dcccd3bd8b93dabdb455566bb70968017762988bd11d92df5b1c",
@@ -3537,7 +3537,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E16/N01E16P01.png",
           "files": {
-            "N01E16.json": "c1aa989837d85e4080052f006d82ec443f98d9594bc1244e65ed2f934a2ce985",
+            "N01E16.json": "7d9f838c8dba28551802b85f4ab7b8c0bf9ac7f3d449835921dcdb355dcff9ab",
             "N01E16P01.png": "fba278545b2d4cd2781b13a2b87fde680c6353a5931be986bf54a2393d010e0a",
             "N01E16P02.png": "e8bc761634a91491d8fcb93d462e84281c3e76066262a5ac54d55b0afff7bff9",
             "N01E16P03.png": "28c668c1e42cc087f9f0550554411e4daafd89ce767a370d19db96f500cbb128",
@@ -3622,7 +3622,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E17/N01E17P01.png",
           "files": {
-            "N01E17.json": "5b128e85ae6e09661849a8c390dcae585e571baa559455b40a5e16fdbfccbf46",
+            "N01E17.json": "8b3235cdf44976bcafd2d2f7851168423b619c1d7304cd3c863161860c0229e3",
             "N01E17P01.png": "8adab816bd9d532bee33ddf7a0080f227bfd0b17cbad5afc810842036a2d2c91",
             "N01E17P02.png": "b59a10a21c4bedaee27da7cf333ba7a8aa39a72be0c462c95e753bafc839bd95",
             "N01E17P03.png": "313efaab9efb20121ba918c1a755eb314f66696cb0b0b39f22fee1b329f6df4e",
@@ -3707,7 +3707,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E18/N01E18P01.png",
           "files": {
-            "N01E18.json": "13da5ddba0b871bdaa2e7ed4426d26dee147afdac24f2553a480fe415f828b82",
+            "N01E18.json": "a9c4aefd8e2ae0d1a747f6df7706d2da86d18c6f9c72d6950dc2359f5cdb40a8",
             "N01E18P01.png": "8323913d71465f6c8c6fe923a66b93720af885916f567ab55673deadcb8f8bf2",
             "N01E18P02.png": "3fb6b695ef7f8a5a94dea5f974ccd79f3e790ae8ee1284748b8bdf6cad6e6a9c",
             "N01E18P03.png": "b9e07aff767550967918daecec99d28598eb9ac36f355306f355944b6faad4a3",
@@ -3792,7 +3792,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E19/N01E19P01.png",
           "files": {
-            "N01E19.json": "05d833ee8f6a2993fc31f2b596258c2c7a76919196f11db582190e3a85132f1e",
+            "N01E19.json": "407ce0ea8d413a174f560bf1d4bf65b34f14608ae9299676869884c4371df9ef",
             "N01E19P01.png": "6e0291fc2db3f351bc1eecf48b87450797cdbfb1dadc0fe5e8c77d1c893c90f5",
             "N01E19P02.png": "2c2aa42a8942491b5e6c894e90b6ff9b3e1ee40e948206b4a459e260beab388e",
             "N01E19P03.png": "7343b7d73a1226cce7cedf046e67c5337f9decfdda644d9926527a84ac46ae1e",
@@ -3877,7 +3877,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E20/N01E20P01.png",
           "files": {
-            "N01E20.json": "2be4f4db44ce9e1b512041985227025aa20b4b6515f728bf66ef00a266857c69",
+            "N01E20.json": "1cd8c6cc4421390ce0a884239a11dcf1e0b53f57ac3b79910032688e21390a17",
             "N01E20P01.png": "45bd5d37fcd59247e58b205a483fc8522c3e170c8ccd34ac786e2a4cf33428bd",
             "N01E20P02.png": "c7529fe211b369c2cc8687662a3cdc309554bd982c7c832d84dbfe738c27c7d3",
             "N01E20P03.png": "366c5a366c014e23b48aaab8110e8170690045ef2cccc8d545d2cedd51fec7ed",
@@ -3962,7 +3962,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E21/N01E21P01.png",
           "files": {
-            "N01E21.json": "8cc1a11bc847ea2f138f7222d5a79b2b2a4151c14ef8955d073c318b80ce409a",
+            "N01E21.json": "baf4403f2ecac5abe32920e0b10fcce868a72e26e1f3822ae451ce1c0d635a0a",
             "N01E21P01.png": "eb586e02f7082d85405ce5c65ea40907c70efd92aa2761ad6951dea6c0b09a37",
             "N01E21P02.png": "f323b04df1078ed3f338c0d6eb12d283565ddd7a19e38e5250a513de0940c9eb",
             "N01E21P03.png": "5fcbf6549548878aa6f0d0b9f096dcb06c2293a8340a24c111f0ef441562b9a3",
@@ -4047,7 +4047,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E22/N01E22P01.png",
           "files": {
-            "N01E22.json": "79ee474c0274b7c1db7af2dd95dcc5a65c8937aa9cc161ff538ca2c5729cfc4b",
+            "N01E22.json": "e985897006d6f1bc0884e4ace280ceeabea25d644f83f12159c8da1664cbfc5f",
             "N01E22P01.png": "8dab7568b70b8e3379aa2dd1816950dd09d5ff858aa70f11e56f9c4c0f2e9547",
             "N01E22P02.png": "890829a33091388a984c35631e15aeb78686c63db46722cb87b3ef1ffa0b6488",
             "N01E22P03.png": "02255534221c71e455a51892c9a99e53f5f36fdcb4b3bd75e53aaf44cc782af0",
@@ -4132,7 +4132,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E23/N01E23P01.png",
           "files": {
-            "N01E23.json": "cd10a4aed8d60a12fcd327bfe81a0b24f9e81b0ea843b06440f566eb474d076d",
+            "N01E23.json": "ea4c0ea3f57be202fd77090903bb4f3797245e4887b5262005bc63f92e06f88b",
             "N01E23P01.png": "c5fc71166ffda54be87ae6bbdde9d557fb75f1c2a421a060028194aa5483755b",
             "N01E23P02.png": "3bdf9b4e2b84c390185500ef71509a474cfdccdc9826029968629aa136d193a8",
             "N01E23P03.png": "07a96a457fe111c92c6491acc541c360a60288f7029de57be20829917f42f7d4",
@@ -4217,7 +4217,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E24/N01E24P01.png",
           "files": {
-            "N01E24.json": "891b2c67135bd5fceddb5e2ad5e1342d140aad6845838a186abb59336bed0f4c",
+            "N01E24.json": "ed648551367c6a873358b1da6590e88c67993c8934d4523716e6416a50e23509",
             "N01E24P01.png": "80c132e699acaad0f4d62df8d3b9785c1cbdfd446707b03b28348985dc9f3d7e",
             "N01E24P02.png": "c3465a4695ce9c0ac05b86a0c890622628c9402f6aedc7c2c9fafa92b37022d1",
             "N01E24P03.png": "d3e35ab1ed828ac44964b665ce5e3b989889fec3ac223188e50daef5f9fd136b",
@@ -4302,7 +4302,7 @@
           },
           "cover": "01-memory-he-carried/episodes/E25/N01E25P01.png",
           "files": {
-            "N01E25.json": "d0237cac6ef655d7c1a51a39a2e39a9e7aa228ad558b1cc3f1f6333c0c871f12",
+            "N01E25.json": "57c9a6b844ec23e00ff0067ede4b1245cd7074d902cbd0e3ddc614c92b0ffbf9",
             "N01E25P01.png": "f5fcbe53f19f4770299b9d2ff8414dc7dc2e5ac9dbb40126acfdad9a714ce7a4",
             "N01E25P02.png": "5823478737d24f6eed1f94eb4b0086fff1637e80c66c31ffc3a573cdc3ebd719",
             "N01E25P03.png": "7102b760c1b31be42e5cac9620ba324f82556345c15d471760bb680b6171b170",
@@ -4479,7 +4479,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E01/N02E01P01.png",
           "files": {
-            "N02E01.json": "2d35ed2f7e43428c3a5181f71981b93bd1d9859f4545c06ca0c46e1e76f46cb9",
+            "N02E01.json": "2e4d767ed267c9ee2a08124f9facc8007dbf73b0d92bd5ca7056cfef4557228c",
             "N02E01P01.png": "1d95a3a60ae9edf61609ce9c0fb6bebc207b0775df4ea54bde3eb87a034d9d29",
             "N02E01P02.png": "d24a0087a65635067c5a14c6650e93985f760ebd22d992ffd522626feeabbedd",
             "N02E01P03.png": "2b6d36835ef8b3920074838add5ba9422c217b00124998ce76a2235293577020",
@@ -4567,7 +4567,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E02/N02E02P01.png",
           "files": {
-            "N02E02.json": "4cb161d4e7912670e767341bc409d8ebeacb8c1f0d3aca1c9fdda40141a0c3b9",
+            "N02E02.json": "e5a9367da35fa4550a6d795c1738891edfcfbd368d2088a09add64b5660ca4a7",
             "N02E02P01.png": "4f75a24a0d4f4aa91ef9bf9ed2a25b83903f842e4bc09313c3133bd59ce5fae5",
             "N02E02P02.png": "2031909ff32f6c8a9c3c660ce62e70a2dd9353319dad431452091474592c21dc",
             "N02E02P03.png": "d2fd6844eef7335c6eb8aed9422420bd5da263f87b4999b4b8c0d4a9187025e0",
@@ -4655,7 +4655,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E03/N02E03P01.png",
           "files": {
-            "N02E03.json": "0371545691ca0e783382f7af34a220aab10ae4d2c544aa2459ef1be479f07aff",
+            "N02E03.json": "7290530a2509e65b71ee541ade24b8a920de65d04f4dcf3fc797c2f6ad6f9f37",
             "N02E03P01.png": "65f93d39c2370e41a59f66775ea9cb2092f76010148881147d2b311337c33778",
             "N02E03P02.png": "85fccb7d63fdf0be2535bd4e90dbb8c8a32b463e83571840816dda22f8883c82",
             "N02E03P03.png": "252e1405890db39db7990e6cd4552e47593095d855099d2014c8567a31822207",
@@ -4743,7 +4743,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E04/N02E04P01.png",
           "files": {
-            "N02E04.json": "49899e8d49f75232fb745cbdb7ebf9803c10165ac6247841299f1f723875a6e4",
+            "N02E04.json": "58389b7e42b15c4ebf6757ce7794516faa5be09bfd183a6b0f4d4625fa090b13",
             "N02E04P01.png": "7b02942751e397349334622cb935a96e1a0b015280339c7226a7dd507d43e23a",
             "N02E04P02.png": "286b727a8259882f3babe7e2b7a2685d97e3cd03d8827d0de888e78b653dea17",
             "N02E04P03.png": "61816a2d277b87cb8ad3c66a364b74e46bc4a0b14cd7c17b872f19ad97bf0653",
@@ -4831,7 +4831,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E05/N02E05P01.png",
           "files": {
-            "N02E05.json": "e656698de269b6f2ad981394d834217b28b21c8cb29292898a881ea5f72df96c",
+            "N02E05.json": "e8e9fd9a1fb58182e464c725868881c3afb1e5f793f18c22b6a7836b66d2b47b",
             "N02E05P01.png": "b930002a3b076266152e53cda5f5b3d030276d7aa48ebbbb49a93989e9921b1b",
             "N02E05P02.png": "f1df1e1cc708993d8ec3db227f9669adffe0ae4dd65a45584c2038926fac4d78",
             "N02E05P03.png": "3ab3c7e551cc45285f5e8c7cefd105b80bb6b212820abe4ea0b80108e7f261ba",
@@ -4919,7 +4919,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E06/N02E06P01.png",
           "files": {
-            "N02E06.json": "3c5a8faba4287a393882f03cd0c2312b89f6f504d40fa22f4ce4508b89b5288b",
+            "N02E06.json": "cab037b3149fecab8d495aceff9d75d2b1b46cfe17e436d6e478c993ea5daf0a",
             "N02E06P01.png": "ac94fac8be7e3d712e04fda0598282a0b2aaeb7359dcb8b247633eaeede79240",
             "N02E06P02.png": "9a92f6dd81aa091a3501d84c77cff809c0fa296f86838b1517be84bd7c3f4c93",
             "N02E06P03.png": "0a7bc75af3f64242b85566842031179b280207cac627d338e59c225c6534528f",
@@ -5007,7 +5007,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E07/N02E07P01.png",
           "files": {
-            "N02E07.json": "12fdb308bcdcbda779ad31bb0db465595ecd45ebe1c30016ea369d4f990bcda2",
+            "N02E07.json": "77fa46a878208df26e9ddfdb9608847a3c1a682371b20cee94bb4383e4d9038f",
             "N02E07P01.png": "fd80ef1117eb31b7a7f23b61da7f0c922ace90ed5047d1e6ca2c522953708b50",
             "N02E07P02.png": "6e3fe55dd6c32610f7ba0e126bfaf75543e73367416c9a1ede0daa73281834f9",
             "N02E07P03.png": "5ab40127885f3deeecbb7085f036bac923fd44a88646c4c8fcdb566942301ea7",
@@ -5095,7 +5095,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E08/N02E08P01.png",
           "files": {
-            "N02E08.json": "fa495a97a4a194bacce021a103cc34483335daaecb478775c653519c463e0484",
+            "N02E08.json": "ac78b9c22fdeb0f51300ff5dac6847b08d500785724def5ae685ca538caa69ba",
             "N02E08P01.png": "009fe8c4d39cf57903c9705bf0f240f92458de3582b4d300789aaff450d585a2",
             "N02E08P02.png": "3ff8bba99430aafc0b7724c8cde9ca840969baad4d3605ad020ffa4bd952f885",
             "N02E08P03.png": "7a25bd3b875cb6efba15ea1c535c4f1e8257e2634ceedb9a9c97a4b946e7150c",
@@ -5183,7 +5183,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E09/N02E09P01.png",
           "files": {
-            "N02E09.json": "6ad3e59aba1ab39ccdbffac710fd674ada563567d24bd651169a6e62f65895dd",
+            "N02E09.json": "50377a448515c2d42c04d4e6b45a7837878245facc14b4ca8efbd786845ac071",
             "N02E09P01.png": "c281ed2d287d2725eda1c1d2059a995060f700aaf25ee5900bedd3182b0bfae4",
             "N02E09P02.png": "c1728b1b50c66eaabea6bf85f033357847f2c46b2a5f35a54822c321e018bbab",
             "N02E09P03.png": "8ecb47a3947882c179ffd695ebb68bc26fbdb6af415e2776de23c769b31be6a6",
@@ -5271,7 +5271,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E10/N02E10P01.png",
           "files": {
-            "N02E10.json": "d3c5f3f2ee30aadfdaa7957b0fd4ff8392930a1cb3e5649ab985aa823e8d1d80",
+            "N02E10.json": "32dd868782d09007bd3982c5efdcab9c2966d7efa9224309c32f43a7556ad9c6",
             "N02E10P01.png": "61702153f8d956d6c83b04337be0c36a538d2258ff712130f9d86c45de3771c8",
             "N02E10P02.png": "72bf524d68e045d4bdc565384a7e8e365e3a05e404a23323d35b192f6868f63b",
             "N02E10P03.png": "cd4eeddb90d5fd3203c624f13f10061b87e8a645d5e1371f4268f1a0d0ae8779",
@@ -5359,7 +5359,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E11/N02E11P01.png",
           "files": {
-            "N02E11.json": "ab004f97c69e91e7a3e8e2203186198025f3e7c51878deea309d2269858f4fb7",
+            "N02E11.json": "d98f5121cc4a7282762c0a57f007751cde6669035f4f454011ff4d6a00a2ee59",
             "N02E11P01.png": "626b5101d6b7b67488d040b6852263cbbd4654b561c4f029c1e5ba02a20643aa",
             "N02E11P02.png": "44f8128bec3c660c4256aba3ceafd7706eb2b0e96a80a454b9d10edbc73d01ff",
             "N02E11P03.png": "8b0065567535358ed3439a6596baf438b0dfe1b7311a7d0ace20b5d32e0ad43c",
@@ -5447,7 +5447,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E12/N02E12P01.png",
           "files": {
-            "N02E12.json": "a25d00f309b9b6335d55ab35cbf6720531b67409ebc1934cac6b1d74376ecb8a",
+            "N02E12.json": "96078744a1b829bdd66fc458aec98375cbe5f31ffe5b08a832aa520f58e613aa",
             "N02E12P01.png": "2a46e140a023513a76396a5f08212af9503d4139aae370e37ff29323d23a4246",
             "N02E12P02.png": "3b2ff6fac47ee4777cbdde01021763ef0d1feebfe0d890e46ef2e4a6f8fe126a",
             "N02E12P03.png": "8876463301d13c87f799f7b95290ddd5752393d46adfeaac72d01c7085d48abf",
@@ -5535,7 +5535,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E13/N02E13P01.png",
           "files": {
-            "N02E13.json": "9d63e92355be1ef7b9f7610a898a6a1e5755042ed2eea7ce9331eda71744e9dd",
+            "N02E13.json": "eda392344f81d32108faee21f0306ed4ef2e52e2b6f0549479b9ca439d3faa08",
             "N02E13P01.png": "8329fe33aa6fb63a64b41e2c68b7a7b8f59a12d013c0debfaa1e8450e624d938",
             "N02E13P02.png": "826fde3cc225141fdf982b6d5bdea59f382f5d6a594485be32abf76416dbfe71",
             "N02E13P03.png": "4842e20e5f2270165be505a95d53497b7f331d4842c8963078eec36573b408bf",
@@ -5623,7 +5623,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E14/N02E14P01.png",
           "files": {
-            "N02E14.json": "5b76b7c7754a5c405cc29b4e6ece7b5689ffdbb905690db650f67fea78ab473f",
+            "N02E14.json": "9465958af38c55a4dae0e0e2e20406d91fa18bc9e815f638c5463f4477afb3dc",
             "N02E14P01.png": "79738ddb6fb6bc5d82b9b6def97c642d44fe7efecbf553105d9eca50b07b74fb",
             "N02E14P02.png": "c80c2e5eaa9f17edd3a63da93ae4de610ea436812237a7a35320d5f80458fd1b",
             "N02E14P03.png": "344bf4343453c20be7c6ff996f900736315fe9f7f514f1ddc5a5d082c534dfb7",
@@ -5711,7 +5711,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E15/N02E15P01.png",
           "files": {
-            "N02E15.json": "bd3e880413c2391d6dbe9501ae5d9f18c0a3146b1b01dca9155ed276461af8c1",
+            "N02E15.json": "2ec82bddb923743fc5f41aa793947c735caa4b1d6d8f5eec956f411dbd4069f9",
             "N02E15P01.png": "e57f318e94d39be8c84a3956ec483e02463169ecbf6db0cb7921cb39b8603f21",
             "N02E15P02.png": "f59b7ecca8ea2afaad59fdee1c1c549d4b28e88625c5331ff03e1a929e6bb5ed",
             "N02E15P03.png": "753b46bc27d712d9d1efa25fab2e1fb8096ecb4b89df8349779f25f9d1bcba6a",
@@ -5799,7 +5799,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E16/N02E16P01.png",
           "files": {
-            "N02E16.json": "9b5db9eef447f3b6a487e567bdecfc158f94f5e85d354368d06f69b40355b1d7",
+            "N02E16.json": "673a87681d3483d6612bb088811bc13f58fe761b4a2ce0905e86adfce6328d5a",
             "N02E16P01.png": "63d180f1ade65eabc388efe00d41cde9e0844b470f7462433cc7ae54d8bf5b16",
             "N02E16P02.png": "a5631bc37c325d787f0d8e256fd9c8eae6dc201b376945d1315b3a2b7b15b050",
             "N02E16P03.png": "532b3e41068b3b10e3004176c237a3ce9cb9fcba399e0210c312f970a2645f73",
@@ -5887,7 +5887,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E17/N02E17P01.png",
           "files": {
-            "N02E17.json": "49459f8de7d924821a3a723ac5a3eb44d67a83e352943c790b8f4ae9353922e6",
+            "N02E17.json": "32ceca33ed47a56bb2ffa9ad0aa722fe75db3b3f7ce5de04278fa4b05e768071",
             "N02E17P01.png": "825ae9fabceb85520ce343d3f209cb8e4b87384df02b55e3b65dad47ce54f61e",
             "N02E17P02.png": "7986f4f75012ed66b0d6824659e78b233c571ef38a0174a1787d5491ce800483",
             "N02E17P03.png": "40bfc3909cc4b7725049f0709f59140394ccf7cb736122ab954c768fbf0327c8",
@@ -5975,7 +5975,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E18/N02E18P01.png",
           "files": {
-            "N02E18.json": "e271cef33ddde396db03b50b797e196d817bdf66965cac580f87b4e8ae8c91da",
+            "N02E18.json": "c89029e66b79576a8e809ddce00e08f7e5a38ae1c3a8dda37243fb2287d45dee",
             "N02E18P01.png": "46eb95f23ba51e62b895b9df00ca1277fa550a9e7aa85ebee7d0ac3093652c3c",
             "N02E18P02.png": "79dabee9531ddde3c9b37a386cde6d2c71a50b70eef38b0543176ce0dc12f0a9",
             "N02E18P03.png": "accdd5452525c0da34d59fec6cd1103cf2734e2d5379a427b659f29de1c73d2d",
@@ -6063,7 +6063,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E19/N02E19P01.png",
           "files": {
-            "N02E19.json": "7ca3e7a5604374c83d166ef1f2c16623139df6e76cc182d8f5d81d64eac28193",
+            "N02E19.json": "4ca074bda87a1cf9cb5a181cfab68fff435c4009fc1d431f264f13c6b6108e23",
             "N02E19P01.png": "cb733b8ad5469b76b3c76d97fb56de1620ebc74b892ff2b009242d6d007e359f",
             "N02E19P02.png": "e523d1228ab1e5802c58fd44060ddc4f703cfb3b329afc8a44ad6620311c3061",
             "N02E19P03.png": "dae2d899490ced0a81119352ac24a4a006231d930e4e92560c15badd7429566a",
@@ -6151,7 +6151,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E20/N02E20P01.png",
           "files": {
-            "N02E20.json": "0cf5567439efab0ab4ac0341bcbc08fdd195c18c9cd06b32ba3a2ec823452570",
+            "N02E20.json": "7125f19c50660038f938d21e88b9e9776171bfb8c9371d7895c6d691a958c233",
             "N02E20P01.png": "2bee8be3f1873d5b92a54547f252bf26a89ebf44f54e65773fc7330826fbf52b",
             "N02E20P02.png": "405e69df0abc781eb58c35f21bccab3ee9491ec204fa9b3a52dfc991e4f7a58c",
             "N02E20P03.png": "22033c2f5e3cdadaccd6791c40cae8764fa74206a1be6cba36223982dbac5ce5",
@@ -6239,7 +6239,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E21/N02E21P01.png",
           "files": {
-            "N02E21.json": "9b73f51a46dd8343313a26c06fc84bc2a758c2fc7f5a7ed79d9ab8ebf9a9a64e",
+            "N02E21.json": "dad57eb5db84efcdb5e4e029c9186fa19aa154f1fb3b2afad41fff148a9adf6d",
             "N02E21P01.png": "bf0b7e05e7abc27d004c9b68a8a91440774e094c2715b7b3f29d2cb0fc251db3",
             "N02E21P02.png": "8af3a4e64e429efb82067d49d92a0325684938b24d4c2a7dbf6812ac4626a28e",
             "N02E21P03.png": "5477e7d84fba090c4476f49644f0855c97b1a8425d14bd011effb5276da1dc05",
@@ -6327,7 +6327,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E22/N02E22P01.png",
           "files": {
-            "N02E22.json": "32c22f5f96b02ce11d332f0128ce0d332c4ad653b29ca4e5439eecb9998f35e0",
+            "N02E22.json": "d7d0bc0c5de86250046cbe9711f0283838e3bcbdabdc08f6dc45db49a4be94ce",
             "N02E22P01.png": "4ba3f90bd99e7a33fa35c159db0acb45114fe1bab90f5f0a2fbc3adb424ac9fc",
             "N02E22P02.png": "68eb93cddc69853540253f527832c7ed635e7ede19aadd174f6efc12b2f141c8",
             "N02E22P03.png": "59a2f955e8045e4bdd05d88e272cec42f0fb24056676ac6cef243487ad9b81a1",
@@ -6415,7 +6415,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E23/N02E23P01.png",
           "files": {
-            "N02E23.json": "e754871899651fa06e0950a46e7126a62c491d479aa38f0dffd8ecac14d62a68",
+            "N02E23.json": "e40348b4f946111a2f55c21f59cac77b5bb4010c615602855eeeed7f668a713d",
             "N02E23P01.png": "f47aa7602651c894d4d7c79d4c5598103b31081bbf465c4e925b733b543cf6e2",
             "N02E23P02.png": "2cef514a11f1d5629cd467e60e79d9b319842e19fc92dc7165789a36674cc6ca",
             "N02E23P03.png": "1db49db5efd566f5b0b93d567f9e76d0c0920668a236587ff0250b2bbceb0020",
@@ -6503,7 +6503,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E24/N02E24P01.png",
           "files": {
-            "N02E24.json": "63970cd794a1230f048d01dbed7df955eccabcb06e04666c6bf55ee0b694bfd3",
+            "N02E24.json": "ed0eb0ec56836d80c5f13e9aa0971a989ee7984288f7aeeb77756ca7dbe67f5d",
             "N02E24P01.png": "b6fb1229efc3b7eacb3c7336ea405a3ae2b6ee0e481273a3eab768293f467248",
             "N02E24P02.png": "c2367dfe30610a58383392badec3c25d200c1c297037ca071d89376da1245389",
             "N02E24P03.png": "65771c07dcfffd34641da66632be0156145d9d3c0ec2b0916a41993f569fd74b",
@@ -6591,7 +6591,7 @@
           },
           "cover": "02-the-emoji-who-could-not-say-no/episodes/E25/N02E25P01.png",
           "files": {
-            "N02E25.json": "5ea9a5ad3367f35051ba7bf41b834407d0cec6d368fe89ca3cd1c587dedcf57d",
+            "N02E25.json": "7e21e8d0bb2cfab374a6452cf3a17acc543be207919f894a8fe541d90bcbc627",
             "N02E25P01.png": "bed4fafba65b80bdbe38c01b466b25dbce7603a00670918e8dd1ad579cbed104",
             "N02E25P02.png": "2a8b84ccc327d9ac2a02e06e0cf750cfe9e549d49c6d9e6315adb1f46601aaaf",
             "N02E25P03.png": "14f7599469aca00ab34df59025977df2824aef9540908b9e07d99dbc2ba3df89",
@@ -6774,7 +6774,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E01/N03E01P01.png",
           "files": {
-            "N03E01.json": "b3ef913f1affe8d884295362d5e50777d7cec26c7147783213fa642528379452",
+            "N03E01.json": "e78f5289095b9dd663de2452d5e7c38a2f69bc79227d22be5b3611da94ddc8b0",
             "N03E01P01.png": "e85b00f9d66eadb0a24fb710b79fc246fd3f70e3b5e61312b9af110fda8cc3c2",
             "N03E01P02.png": "fa962f2bb30bf3fce492f36d7d7db3b2652a20a7b3e99fb15dcc544b3b1990c5",
             "N03E01P03.png": "204b0d06a21f530f11f2b3ce0ad4266d72f3c8e9bb1a297f416fe64a6085e101",
@@ -6859,7 +6859,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E02/N03E02P01.png",
           "files": {
-            "N03E02.json": "4ad4389333251e533e37050ab2722df891b280cee1e9f971c0dc19971dbef1a9",
+            "N03E02.json": "6958e79f93079dbd7843650a323113cf1200a411850a1abe99a5e064e6d28ef9",
             "N03E02P01.png": "49cb92ffd61493ef3166684dbaff0455cb16999a1b9a847e9478abbd8d639679",
             "N03E02P02.png": "7ac2ad10c79513f70c3409b97d5fbb2a6869428f20e5dd8ad5f037fc5b7a19b2",
             "N03E02P03.png": "e44d7ea7ed28ed5c728384ec108f2832e80390766e2d663e5b8c9666592e728b",
@@ -6944,7 +6944,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E03/N03E03P01.png",
           "files": {
-            "N03E03.json": "c0b691b956a8b8eb8681991a7e8ffb595f4c14d32228a965e4aaf574d9e7b9d1",
+            "N03E03.json": "c3f675527ad0590c5fbd66d3166d3d84ae091078282fa993955a4278d699f567",
             "N03E03P01.png": "79d8f6314a22e269b2777c0235220502f5ed0bb51a26b17bcaa827cd479aaab6",
             "N03E03P02.png": "6eb79843f2bcc4ad060e23ea5f833620638f74022f356e16b858e69ae7079555",
             "N03E03P03.png": "7bbd7d4631659944baab1357030b27b98096b317f3b810d5732545d8d84d2437",
@@ -7029,7 +7029,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E04/N03E04P01.png",
           "files": {
-            "N03E04.json": "f2c057904a554284a47eff95e0f24bbc8b6fb692cf2637794f827fdb323a4a86",
+            "N03E04.json": "20f51c34d650572bd0c1c047da1251eade569198fe88aafc506bee38a72cdd08",
             "N03E04P01.png": "e321881a6fdb837f0d99fddf9520cc84744b4b1f2fe5f984f24ab78806e1005c",
             "N03E04P02.png": "be9c5c2325c8d50cef0bceb93128c5ea863311cf09401a04768527e8a20f2a77",
             "N03E04P03.png": "e03e50b311a0f2c5d1b58d5fd91686e61448cb8b81e78f3d410f2c4edc5f30e1",
@@ -7114,7 +7114,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E05/N03E05P01.png",
           "files": {
-            "N03E05.json": "81e6a360022fb410eddc82270cb41b57129141aa48d688af34b44614bdcb74f2",
+            "N03E05.json": "475785d553c9644da6e875aa81441dd3a0c614b438a91fd4dd654743a2fb5fc8",
             "N03E05P01.png": "5b9538780d186fe8c5e9a2cec8dc428f97822d59d67f0dedba9309952e995571",
             "N03E05P02.png": "1ceac61852a66f652aae86835cfbb4d138e1daaa875f0d916e75fb70bad12a62",
             "N03E05P03.png": "d11afeac2bd8748fa429241bcb5c89730e7d965f268616d69c018cdf14758702",
@@ -7199,7 +7199,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E06/N03E06P01.png",
           "files": {
-            "N03E06.json": "0d810825a126ee5b12620c97d52f10e7ddae428ec0187deb721fe5ad6ee4e936",
+            "N03E06.json": "8c39bda2fa763ad1958d8f0c632d3e62176a27edc7d882e8d08bdf50d9cd1c28",
             "N03E06P01.png": "87126146c7c0665d32765eee506ff9dd83d0b00ab967080016cad368aa4dad4a",
             "N03E06P02.png": "f96254a42050274367dbf33e6e950177fbc45c316466668aa6f0c646bf0308ac",
             "N03E06P03.png": "24f3395e8d7a12d02e8bce93a89f75a8c66b3e10e882908000d0735c4d5e9410",
@@ -7284,7 +7284,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E07/N03E07P01.png",
           "files": {
-            "N03E07.json": "059b2bc5945dcba08d96c5f0c66b1a35bef7fe3b1616707caac2e446f21bafd9",
+            "N03E07.json": "21ff750869c3d3967d403a2d660fad034cfc97dc8690c513a954b4e9cf72bcbc",
             "N03E07P01.png": "6bb224b7b82135bb7bb6484f9b626962d47daf80f46418c1a2957dc07b13403b",
             "N03E07P02.png": "33dd23082145fc10d1c52663fffe6d97cb6a66200ab35a8d3f58183eec37e034",
             "N03E07P03.png": "6b9b0fb01b1bb8232fb19fcf78a0bec842a798c5c69f33fb4ac9146c1a8385e6",
@@ -7369,7 +7369,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E08/N03E08P01.png",
           "files": {
-            "N03E08.json": "e46aa3d6fd17e171c747cee08a50112654b885b6d21d05dd19cf1ffaf9859fb7",
+            "N03E08.json": "5a0fd0963680b0977e749ddbdee92e69b7a9ba00fd391bfc3ba63ceda39f485d",
             "N03E08P01.png": "63fb72129bf118bc082e0baf5b043c6a65b58db8fdeee64a0d4fa3177e113b34",
             "N03E08P02.png": "a19e08924fab3efd9939e591d59551cac644f5dcbc8f9a3137c5986720809498",
             "N03E08P03.png": "d330fd460fc271c258a06f44d7480da127335dc3ab2e7318c95ce76bcaf9b49e",
@@ -7454,7 +7454,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E09/N03E09P01.png",
           "files": {
-            "N03E09.json": "2b130c7cba200e1d700c6a594a663ddd415adf7d676a9f9e5e8046ef946e8e05",
+            "N03E09.json": "6fa60e93faf54daceb16d9abd6620d90ac5423e707c013f73f3ee78a62f83a50",
             "N03E09P01.png": "04f6d4d5bef44e0ea6aceb03ce37bf593e0f68c6b29c284d4590609362044de9",
             "N03E09P02.png": "66b7f70b6fead296700e4d4ee63f4bc7d4c5f477aa64ea7eb6438755b710f716",
             "N03E09P03.png": "fe4fe33ccfbac86546d341548da5c30e1527999272b7ef08b1e7d96551bc9c59",
@@ -7539,7 +7539,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E10/N03E10P01.png",
           "files": {
-            "N03E10.json": "964f9abb09d0b98ffbb22e5b3c40f88f094ca4d1f42e7316b5893f96240cc8bd",
+            "N03E10.json": "b4db862ea19ecf40d1d653f8cb4772e7644fe3cfac35e3137cdecb445d68a412",
             "N03E10P01.png": "03c12a1cdfbc6cc48ad29067e65804ba02548a39210f97e07918768a655ff7c1",
             "N03E10P02.png": "458b4274c832da7185647e00685719658d64c02edf1e12bdde55d26bdfff8339",
             "N03E10P03.png": "a848b12446c5396f681969d5adc888ed7fd41d0bb0ce42d113dabdc0d5aa3457",
@@ -7624,7 +7624,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E11/N03E11P01.png",
           "files": {
-            "N03E11.json": "d5690c6437f713e6c0cb05f209819f1a3d21d829109d60da804ddbc6c42d44a8",
+            "N03E11.json": "dbc217226fa5b3897e0a61c65ccaf2e65bb896d287735a2fd40e5d12cad90502",
             "N03E11P01.png": "7d707b4abef527d3749e21be01cf392da5214fcdb43b394e2d4c9ed047668665",
             "N03E11P02.png": "3aa935f5eb905e56796a8fd6ca551c20d84b43af3e97ded4a03686ac9dad1a5b",
             "N03E11P03.png": "b6ff56473f125168929dc602f4e626e7a2f525712883ca0133461a7e51f6bade",
@@ -7709,7 +7709,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E12/N03E12P01.png",
           "files": {
-            "N03E12.json": "5d5ea68366d20944099a186ef5ccfc3845e4a8984aadbd82f73b9e6c63a9ae19",
+            "N03E12.json": "8e610c58233f21010bda68443529daea661f6d0997d97bcb81604401f679f4f4",
             "N03E12P01.png": "05feabc210f2d9783660fda0d0029c0f1f8320f0122392448fce322295b674aa",
             "N03E12P02.png": "0a7ef8a35880e6bd52b11861b028f12cece6e6fe19297a060bf52999867a5642",
             "N03E12P03.png": "755a5f2c9e3a7b9bbe3c7febae40280cf5faf13acffd46f22d70aa732fa64c55",
@@ -7794,7 +7794,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E13/N03E13P01.png",
           "files": {
-            "N03E13.json": "3350f062f452c417ba2dcbaed8a43a3e9699f34e249537efc2301927e88b042a",
+            "N03E13.json": "6c94d02d6d359c64958da432792cabfcc572850dc27b3f61e1e0124b7105fdd3",
             "N03E13P01.png": "d81341de9caf69b3db4fcaa09f145242323892995c8a2be91a4aabf8ee089f26",
             "N03E13P02.png": "10c09d44f878e94fda54c10bb717650a0958aefa43787983ea68494930bbcb91",
             "N03E13P03.png": "0d95d18953fc38bf458bcb8a79380b0a6ca646cdb4cda92fab5fd842cc9a7948",
@@ -7879,7 +7879,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E14/N03E14P01.png",
           "files": {
-            "N03E14.json": "deb652dfdce7dc7e46da8a07033c3a3c85c8a1a0efd72a62018827c678abcef0",
+            "N03E14.json": "69d53640b223a1716f26cae620ca184379594a79a2e63f1953c83c785e186d7e",
             "N03E14P01.png": "9865b1f62bdcbe5f472bf3a066fe8515d99a0b884886e01048259f06e9d31b8e",
             "N03E14P02.png": "d15e10ac53d030276fe884b6c3e061d7f1c647a7b4f90edd5f0b12f31bb9b3a1",
             "N03E14P03.png": "e424c6bb4071535f64bba9dd46d0b6e0c14ded45d3b5a13f7f107b489edaa7c8",
@@ -7964,7 +7964,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E15/N03E15P01.png",
           "files": {
-            "N03E15.json": "d0616745122d7bd518829a0f6929e2f572c79b5abf9372adc998a7a4eb30d455",
+            "N03E15.json": "2f63fd7bede4fad74836702b5baca72eb0e63748ed2fcb6a2936b8613ac4cc0b",
             "N03E15P01.png": "3e3b99a754813c680b376b03c49536ae868f3c6af6b96c0aba7d3d7fd1417d45",
             "N03E15P02.png": "30f345a88e5c37a962ab4e4ec006bb59e58bcf1f76554c6d08e8010fb0961005",
             "N03E15P03.png": "542d607d4c0ead29b858618ca164cd5d19a95c8a682f5a6397e62ee91958bb96",
@@ -8049,7 +8049,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E16/N03E16P01.png",
           "files": {
-            "N03E16.json": "c892f8efcb2599423b51be45cbf1e3bda63f68f081982f1341534413217635bb",
+            "N03E16.json": "91fd5c0b67a261595ce7aef0e3732e82779a040ccfa12e780ec96c6d15054897",
             "N03E16P01.png": "f2368170f5f71a411faf73ca051dce1cc428c7d6bc3a9fc5425a301f22dd6028",
             "N03E16P02.png": "35425694473f45bb6a5af2ff3322976e5759b18287c3a2f44653cacf7b514142",
             "N03E16P03.png": "02710c4994d97d360772ab853ebc9ee46faf5fb4a4067cadc8d7581eb0307a9e",
@@ -8134,7 +8134,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E17/N03E17P01.png",
           "files": {
-            "N03E17.json": "449934bfff7902361f4cf8942b3e998ea95d22e572d625a6daf654dcc0aecc85",
+            "N03E17.json": "ca5fc20551302050ba4ce62b3eb3f1104e87c6d4fbf66ee546dcb7c2354f772e",
             "N03E17P01.png": "8f30a55c462b9bde4cfd2db06e4df4d6b6ded93ba7405bc092e99e917ed89065",
             "N03E17P02.png": "788dbd0d9b6209ffde69d81df033fab67577a58c44f1313de797f6a5d1908e3e",
             "N03E17P03.png": "ae7396e338b79328aa21e0f50f608d51932fb391894a2caba9362ab4ac636572",
@@ -8219,7 +8219,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E18/N03E18P01.png",
           "files": {
-            "N03E18.json": "d95a2a9c3ef7766370c4a84acce8a1e3a665223eb0af7bda88cb1f32000281cd",
+            "N03E18.json": "3638578cb5e55a7291a8fc6f6e032f102ce049d9b5f37ec4966fe4699ad79aa2",
             "N03E18P01.png": "5970a0f24d37b625c97493445ffec33d8971bef55420f825d96a7bc8773d2fde",
             "N03E18P02.png": "2ff234cfd7a1ec2e21c4c0ae29334c06bff880f7fe947625b471e6bdf846f865",
             "N03E18P03.png": "0b58a532ef15536dee717573d046f80c723bbf27ce797452a870eac5a8891b34",
@@ -8304,7 +8304,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E19/N03E19P01.png",
           "files": {
-            "N03E19.json": "b267fb14c589868152375e8e2cd9fcfd91a3dfd5aa67b5e15bab1645d388f5a3",
+            "N03E19.json": "6945fd69e41a4a1248ca68913a174a22a13a8e65f57701a8572a3ba33d01516e",
             "N03E19P01.png": "7dec1c5df1e772f5b6857905895311881a34e889d93755df564538f99fd5156a",
             "N03E19P02.png": "cc6b9fc1730ec14b7333f92b7cd593b23e772642b26c6dbb9b0cd49ddae43771",
             "N03E19P03.png": "f6c7b1eb188e34905e29e312f09347467add25d2a86b301066a3accb247931e7",
@@ -8389,7 +8389,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E20/N03E20P01.png",
           "files": {
-            "N03E20.json": "99c8ef604dc10e614fd99bf361426ade1ed0497a7269ddee689a233b915cd8db",
+            "N03E20.json": "2a92d988483bc9d021823d562df011bb441d46d0ddfa4ca6af07f9d531db4c59",
             "N03E20P01.png": "f63b8b829dec70d5688646a6e1b4a5f393e72e6f8202ad0bef609215de2d3e34",
             "N03E20P02.png": "74ca4055e2cd47d9a22bcf0abcb27b8fdd726f97d6957e0b6311693eded206a2",
             "N03E20P03.png": "23413a0e750afeb8db980034c9b5647d75957cbc30d13861d29014d99de0db77",
@@ -8474,7 +8474,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E21/N03E21P01.png",
           "files": {
-            "N03E21.json": "4c6a1636261ed16acbbe3edfeef8c58d26671e82d1a5688161c8cb84c0a329dc",
+            "N03E21.json": "d044237956edb0fa0ad958ce14ae5f6a058a3fcad8823516dd2f03a4aa9d0fb3",
             "N03E21P01.png": "8e26fead286367cd89705ea1ba974e8955181f75ab8354cb177102655155354c",
             "N03E21P02.png": "4161043cdbd3bc6d040e74e1b2b9932d5a36eea25dc9d80f51cefaf4a989ea45",
             "N03E21P03.png": "96c05f629f42fd6199a525faca5a29c2025dcd3136da7723676b2a101d2cdcd6",
@@ -8559,7 +8559,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E22/N03E22P01.png",
           "files": {
-            "N03E22.json": "e5cecbf1d18e190758ca298ac26ad34ce64d8e8b1d38321b58b232e354c962d9",
+            "N03E22.json": "2cdd14319f049551268216ebd3c645334309831d91b803f1d9c1a55ad0366ef5",
             "N03E22P01.png": "2c56459c9a95d63ff552c674af0ddb74b7b3b87b0f5a5faf01d6b627bb6a2e2c",
             "N03E22P02.png": "d5c0f94b5fb84181e3cc34c7a7e30e8dc36538ace99cff9ff13cc5c080ef403a",
             "N03E22P03.png": "52270f4d499ba312d5ec9cd3fdfd2745960bbeb7a07d1c256a2b42a193427579",
@@ -8644,7 +8644,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E23/N03E23P01.png",
           "files": {
-            "N03E23.json": "6cbc283367ff026b3f114cbdec0074c3a3d29c73c3c8c1f98a8109a1eb04c396",
+            "N03E23.json": "49cc13630a549ec6ba1f0bbf3bb6731b1fe2069b3b26aec9eb5b22ebebe4386b",
             "N03E23P01.png": "2da389cdd81fb7d1323c3c8c6ae2e727a0112275c3042ba215982ee6c819b279",
             "N03E23P02.png": "1be17bf1cf9ec7be8714caa26bd0ae5efbee7ef8a311abecd709e02c9979f350",
             "N03E23P03.png": "80f52bffb92a0dbee31a971006d2acf2b69d4b6c0be945181df0790c6e30d754",
@@ -8729,7 +8729,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E24/N03E24P01.png",
           "files": {
-            "N03E24.json": "fbbf62ae962ce3e5c6266d1fc948b3f609d531a3bbed9c1c7edb74422f83f540",
+            "N03E24.json": "740c6b4b0de42d754e154641f3f6a0bf93eefb18068c150e094fc5601c78f37a",
             "N03E24P01.png": "5cabe5c4504b7624714140e74669dbf73a32422fc2822e3a23ef7f8c3b80bfcb",
             "N03E24P02.png": "5576e613c20c9bbb46dc4b95c4dd7fd8668b1f02c7b52c0700841366afc0327c",
             "N03E24P03.png": "6afddfcae45a26214daf615ae7e5b82356b9eaa3abcef2b9cc963c8fd3a813c9",
@@ -8814,7 +8814,7 @@
           },
           "cover": "03-the-reply-machine-that-always-agreed/episodes/E25/N03E25P01.png",
           "files": {
-            "N03E25.json": "117a62c52a5c2c2fedc01de25cd7433957ce9825035c5cf10e55c8fbbe39da9b",
+            "N03E25.json": "eeaba1e1ba2aafdd977568370f9b4cdcc3c8cae80fb3b335b751352f144c72a8",
             "N03E25P01.png": "12b3582c36fe478cb785243d57e94cc491f24b0b54f140b95377c2980eff7597",
             "N03E25P02.png": "f50608884119d2ea79f9d5dbeaae5f20701df1c6cb6a877f66b520a9a607f301",
             "N03E25P03.png": "2183f329bc75382078a91848b14e67bf878c5e9b14265dbb01140eceb6e1b2c9",
@@ -8975,6 +8975,6 @@
       "version": 1
     }
   ],
-  "revision": 26,
+  "revision": 27,
   "schema": 3
 }
