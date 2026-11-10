@@ -1,0 +1,16 @@
+# What NeuraTiM Moodlo downloads, and nothing else: the catalogues, the
+# previews and the sealed files. Written by the Moodlo repository's
+# emoji-studio; never edited by hand. An allow-list.
+/*
+!/.gitignore
+!/.gitattributes
+!/LICENSE
+!/README.md
+!/catalogue.json
+!/previews/
+!/feelingverse/
+/feelingverse/*
+!/feelingverse/catalogue.json
+!/files/
+
+.DS_Store

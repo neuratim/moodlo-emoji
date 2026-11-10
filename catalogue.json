@@ -1,0 +1,1234 @@
+{
+  "downloadBase": "https://raw.githubusercontent.com/neuratim/moodlo-emoji/main",
+  "families": [
+    {
+      "id": "classic",
+      "localizations": {
+        "ar": {
+          "name": "رموز تعبيرية كلاسيكية"
+        },
+        "bn": {
+          "name": "ক্লাসিক ইমোজি"
+        },
+        "cs": {
+          "name": "Klasické emoji"
+        },
+        "de": {
+          "name": "Klassische Emojis"
+        },
+        "es": {
+          "name": "Emojis clásicos"
+        },
+        "fr": {
+          "name": "Émojis classiques"
+        },
+        "hi": {
+          "name": "क्लासिक इमोजी"
+        },
+        "id": {
+          "name": "Emoji klasik"
+        },
+        "it": {
+          "name": "Emoji classiche"
+        },
+        "ja": {
+          "name": "クラシック絵文字"
+        },
+        "ko": {
+          "name": "클래식 이모지"
+        },
+        "pl": {
+          "name": "Klasyczne emoji"
+        },
+        "pt": {
+          "name": "Emojis clássicos"
+        },
+        "ru": {
+          "name": "Классические эмодзи"
+        },
+        "tr": {
+          "name": "Klasik emojiler"
+        },
+        "vi": {
+          "name": "Emoji cổ điển"
+        },
+        "zh": {
+          "name": "经典表情"
+        }
+      },
+      "name": "Classic emoji"
+    },
+    {
+      "id": "human",
+      "localizations": {
+        "ar": {
+          "name": "صور رمزية بشرية"
+        },
+        "bn": {
+          "name": "মানব অবতার"
+        },
+        "cs": {
+          "name": "Lidské avatary"
+        },
+        "de": {
+          "name": "Menschliche Avatare"
+        },
+        "es": {
+          "name": "Avatares humanos"
+        },
+        "fr": {
+          "name": "Avatars humains"
+        },
+        "hi": {
+          "name": "मानव अवतार"
+        },
+        "id": {
+          "name": "Avatar manusia"
+        },
+        "it": {
+          "name": "Avatar umani"
+        },
+        "ja": {
+          "name": "人物アバター"
+        },
+        "ko": {
+          "name": "사람 아바타"
+        },
+        "pl": {
+          "name": "Ludzkie awatary"
+        },
+        "pt": {
+          "name": "Avatares humanos"
+        },
+        "ru": {
+          "name": "Человеческие аватары"
+        },
+        "tr": {
+          "name": "İnsan avatarları"
+        },
+        "vi": {
+          "name": "Hình đại diện người"
+        },
+        "zh": {
+          "name": "人物头像"
+        }
+      },
+      "name": "Human avatars"
+    },
+    {
+      "id": "animated",
+      "localizations": {
+        "ar": {
+          "name": "شخصيات متحركة"
+        },
+        "bn": {
+          "name": "অ্যানিমেটেড চরিত্র"
+        },
+        "cs": {
+          "name": "Animované postavičky"
+        },
+        "de": {
+          "name": "Animationsfiguren"
+        },
+        "es": {
+          "name": "Personajes animados"
+        },
+        "fr": {
+          "name": "Personnages animés"
+        },
+        "hi": {
+          "name": "एनिमेटेड किरदार"
+        },
+        "id": {
+          "name": "Karakter animasi"
+        },
+        "it": {
+          "name": "Personaggi animati"
+        },
+        "ja": {
+          "name": "アニメキャラクター"
+        },
+        "ko": {
+          "name": "애니메이션 캐릭터"
+        },
+        "pl": {
+          "name": "Postacie animowane"
+        },
+        "pt": {
+          "name": "Personagens animados"
+        },
+        "ru": {
+          "name": "Мультяшные персонажи"
+        },
+        "tr": {
+          "name": "Animasyon karakterleri"
+        },
+        "vi": {
+          "name": "Nhân vật hoạt hình"
+        },
+        "zh": {
+          "name": "动画角色"
+        }
+      },
+      "name": "Animated characters"
+    },
+    {
+      "id": "superhero",
+      "localizations": {
+        "ar": {
+          "name": "أبطال خارقون"
+        },
+        "bn": {
+          "name": "সুপারহিরো"
+        },
+        "cs": {
+          "name": "Superhrdinové"
+        },
+        "de": {
+          "name": "Superhelden"
+        },
+        "es": {
+          "name": "Superhéroes"
+        },
+        "fr": {
+          "name": "Super-héros"
+        },
+        "hi": {
+          "name": "सुपरहीरो"
+        },
+        "id": {
+          "name": "Pahlawan super"
+        },
+        "it": {
+          "name": "Supereroi"
+        },
+        "ja": {
+          "name": "スーパーヒーロー"
+        },
+        "ko": {
+          "name": "슈퍼히어로"
+        },
+        "pl": {
+          "name": "Superbohaterowie"
+        },
+        "pt": {
+          "name": "Super-heróis"
+        },
+        "ru": {
+          "name": "Супергерои"
+        },
+        "tr": {
+          "name": "Süper kahramanlar"
+        },
+        "vi": {
+          "name": "Siêu anh hùng"
+        },
+        "zh": {
+          "name": "超级英雄"
+        }
+      },
+      "name": "Superheroes"
+    },
+    {
+      "id": "fantasy",
+      "localizations": {
+        "ar": {
+          "name": "خيال"
+        },
+        "bn": {
+          "name": "ফ্যান্টাসি"
+        },
+        "cs": {
+          "name": "Fantasy"
+        },
+        "de": {
+          "name": "Fantasy"
+        },
+        "es": {
+          "name": "Fantasía"
+        },
+        "fr": {
+          "name": "Fantasy"
+        },
+        "hi": {
+          "name": "फ़ैंटेसी"
+        },
+        "id": {
+          "name": "Fantasi"
+        },
+        "it": {
+          "name": "Fantasy"
+        },
+        "ja": {
+          "name": "ファンタジー"
+        },
+        "ko": {
+          "name": "판타지"
+        },
+        "pl": {
+          "name": "Fantasy"
+        },
+        "pt": {
+          "name": "Fantasia"
+        },
+        "ru": {
+          "name": "Фэнтези"
+        },
+        "tr": {
+          "name": "Fantastik"
+        },
+        "vi": {
+          "name": "Kỳ ảo"
+        },
+        "zh": {
+          "name": "奇幻"
+        }
+      },
+      "name": "Fantasy"
+    },
+    {
+      "id": "robot",
+      "localizations": {
+        "ar": {
+          "name": "روبوتات"
+        },
+        "bn": {
+          "name": "রোবট"
+        },
+        "cs": {
+          "name": "Roboti"
+        },
+        "de": {
+          "name": "Roboter"
+        },
+        "es": {
+          "name": "Robots"
+        },
+        "fr": {
+          "name": "Robots"
+        },
+        "hi": {
+          "name": "रोबोट"
+        },
+        "id": {
+          "name": "Robot"
+        },
+        "it": {
+          "name": "Robot"
+        },
+        "ja": {
+          "name": "ロボット"
+        },
+        "ko": {
+          "name": "로봇"
+        },
+        "pl": {
+          "name": "Roboty"
+        },
+        "pt": {
+          "name": "Robôs"
+        },
+        "ru": {
+          "name": "Роботы"
+        },
+        "tr": {
+          "name": "Robotlar"
+        },
+        "vi": {
+          "name": "Người máy"
+        },
+        "zh": {
+          "name": "机器人"
+        }
+      },
+      "name": "Robots"
+    },
+    {
+      "id": "alien",
+      "localizations": {
+        "ar": {
+          "name": "كائنات فضائية"
+        },
+        "bn": {
+          "name": "এলিয়েন"
+        },
+        "cs": {
+          "name": "Mimozemšťané"
+        },
+        "de": {
+          "name": "Außerirdische"
+        },
+        "es": {
+          "name": "Extraterrestres"
+        },
+        "fr": {
+          "name": "Extraterrestres"
+        },
+        "hi": {
+          "name": "एलियन"
+        },
+        "id": {
+          "name": "Alien"
+        },
+        "it": {
+          "name": "Alieni"
+        },
+        "ja": {
+          "name": "エイリアン"
+        },
+        "ko": {
+          "name": "외계인"
+        },
+        "pl": {
+          "name": "Kosmici"
+        },
+        "pt": {
+          "name": "Alienígenas"
+        },
+        "ru": {
+          "name": "Пришельцы"
+        },
+        "tr": {
+          "name": "Uzaylılar"
+        },
+        "vi": {
+          "name": "Người ngoài hành tinh"
+        },
+        "zh": {
+          "name": "外星人"
+        }
+      },
+      "name": "Aliens"
+    }
+  ],
+  "generatedAt": "2026-11-10T14:54:22.854794Z",
+  "licence": "Copyright NeuraTiM. For use in NeuraTiM Moodlo only; not for resale or redistribution.",
+  "revision": 3,
+  "schema": 3,
+  "styles": [
+    {
+      "archive": "packs/alien-1.zip",
+      "bundled": false,
+      "bytes": 8967853,
+      "description": "Four friendly aliens bringing their feelings from another planet.",
+      "family": "alien",
+      "id": "alien",
+      "localizations": {
+        "ar": {
+          "description": "أربعة كائنات فضائية ودودة تحمل مشاعرها من كوكب آخر.",
+          "name": "أصدقاء من الفضاء"
+        },
+        "bn": {
+          "description": "চারটি বন্ধুসুলভ এলিয়েন, অন্য গ্রহ থেকে তাদের অনুভূতি নিয়ে এসেছে।",
+          "name": "এলিয়েন বন্ধুরা"
+        },
+        "cs": {
+          "description": "Čtyři přátelští mimozemšťané přinášejí své pocity z jiné planety.",
+          "name": "Mimozemští kamarádi"
+        },
+        "de": {
+          "description": "Vier freundliche Außerirdische bringen ihre Gefühle von einem anderen Planeten mit.",
+          "name": "Außerirdische Freunde"
+        },
+        "es": {
+          "description": "Cuatro extraterrestres amables que traen sus sentimientos de otro planeta.",
+          "name": "Amigos alienígenas"
+        },
+        "fr": {
+          "description": "Quatre extraterrestres sympathiques qui apportent leurs émotions d’une autre planète.",
+          "name": "Amis extraterrestres"
+        },
+        "hi": {
+          "description": "चार दोस्ताना एलियन, जो दूसरे ग्रह से अपनी भावनाएँ लाए हैं।",
+          "name": "एलियन दोस्त"
+        },
+        "id": {
+          "description": "Empat alien ramah yang membawa perasaan mereka dari planet lain.",
+          "name": "Teman alien"
+        },
+        "it": {
+          "description": "Quattro alieni amichevoli che portano i loro sentimenti da un altro pianeta.",
+          "name": "Amici alieni"
+        },
+        "ja": {
+          "description": "ほかの惑星から気持ちを運んでくる、親しみやすい4人のエイリアン。",
+          "name": "エイリアンの仲間"
+        },
+        "ko": {
+          "description": "다른 행성에서 감정을 가지고 온 다정한 외계인 넷.",
+          "name": "외계인 친구들"
+        },
+        "pl": {
+          "description": "Czworo przyjaznych kosmitów, którzy przynoszą uczucia z innej planety.",
+          "name": "Kosmiczni przyjaciele"
+        },
+        "pt": {
+          "description": "Quatro alienígenas simpáticos que trazem seus sentimentos de outro planeta.",
+          "name": "Amigos alienígenas"
+        },
+        "ru": {
+          "description": "Четыре дружелюбных пришельца приносят свои чувства с другой планеты.",
+          "name": "Друзья-пришельцы"
+        },
+        "tr": {
+          "description": "Duygularını başka bir gezegenden getiren dört sevimli uzaylı.",
+          "name": "Uzaylı dostlar"
+        },
+        "vi": {
+          "description": "Bốn người ngoài hành tinh thân thiện mang cảm xúc từ một hành tinh khác.",
+          "name": "Những người bạn ngoài hành tinh"
+        },
+        "zh": {
+          "description": "四位友好的外星人，带着来自另一个星球的感受。",
+          "name": "外星伙伴"
+        }
+      },
+      "name": "Alien friends",
+      "preview": "previews/alien.webp",
+      "previewBytes": 30378,
+      "previewSha256": "3d4053f05092687eb2d915472efbf8f8e1e4f4369162b06d004f15aef9f94874",
+      "sha256": "984d6e1a8874ff788f308e78197499a1835b9444e1a174879af84c99a355549d",
+      "version": 1
+    },
+    {
+      "archive": "packs/animated-1.zip",
+      "bundled": false,
+      "bytes": 11518390,
+      "description": "Four big-eyed characters straight out of an animated film.",
+      "family": "animated",
+      "id": "animated",
+      "localizations": {
+        "ar": {
+          "description": "أربع شخصيات بعيون كبيرة كأنها خرجت من فيلم رسوم متحركة.",
+          "name": "أصدقاء متحركون"
+        },
+        "bn": {
+          "description": "বড় চোখের চারটি চরিত্র, যেন সরাসরি অ্যানিমেটেড ছবি থেকে উঠে এসেছে।",
+          "name": "অ্যানিমেটেড বন্ধুরা"
+        },
+        "cs": {
+          "description": "Čtyři postavičky s velkýma očima jako z animovaného filmu.",
+          "name": "Animovaní přátelé"
+        },
+        "de": {
+          "description": "Vier Figuren mit großen Augen, wie aus einem Animationsfilm.",
+          "name": "Animierte Freunde"
+        },
+        "es": {
+          "description": "Cuatro personajes de ojos grandes, salidos de una película animada.",
+          "name": "Amigos animados"
+        },
+        "fr": {
+          "description": "Quatre personnages aux grands yeux, tout droit sortis d’un film d’animation.",
+          "name": "Amis animés"
+        },
+        "hi": {
+          "description": "बड़ी आँखों वाले चार किरदार, मानो किसी एनिमेटेड फ़िल्म से निकले हों।",
+          "name": "एनिमेटेड दोस्त"
+        },
+        "id": {
+          "description": "Empat karakter bermata besar, seperti langsung keluar dari film animasi.",
+          "name": "Teman animasi"
+        },
+        "it": {
+          "description": "Quattro personaggi dai grandi occhi, usciti da un film d’animazione.",
+          "name": "Amici animati"
+        },
+        "ja": {
+          "description": "アニメ映画から飛び出してきたような、目の大きな4人のキャラクター。",
+          "name": "アニメの仲間"
+        },
+        "ko": {
+          "description": "애니메이션 영화에서 막 나온 듯한 눈이 큰 네 캐릭터.",
+          "name": "애니메이션 친구들"
+        },
+        "pl": {
+          "description": "Cztery postacie o wielkich oczach, jak prosto z filmu animowanego.",
+          "name": "Animowani przyjaciele"
+        },
+        "pt": {
+          "description": "Quatro personagens de olhos grandes, saídos de um filme de animação.",
+          "name": "Amigos animados"
+        },
+        "ru": {
+          "description": "Четыре большеглазых персонажа, будто из анимационного фильма.",
+          "name": "Мультяшные друзья"
+        },
+        "tr": {
+          "description": "Bir animasyon filminden çıkmış gibi dört iri gözlü karakter.",
+          "name": "Animasyon dostlar"
+        },
+        "vi": {
+          "description": "Bốn nhân vật mắt to như bước ra từ một bộ phim hoạt hình.",
+          "name": "Những người bạn hoạt hình"
+        },
+        "zh": {
+          "description": "四个大眼睛角色，仿佛刚从动画电影里走出来。",
+          "name": "动画伙伴"
+        }
+      },
+      "name": "Animated friends",
+      "preview": "previews/animated.webp",
+      "previewBytes": 43668,
+      "previewSha256": "4f196eebb3c6b5387f62055b4105074996bd72c1d5eb363510272cb5280fd51f",
+      "sha256": "cf5630474a1f7601ae4f6aff960b56c91d19a572ea2c36cd2991a9cd69239467",
+      "version": 1
+    },
+    {
+      "archive": "packs/aurora-2.zip",
+      "bundled": true,
+      "bytes": 7661309,
+      "description": "Glowing glass orbs under flowing aurora light.",
+      "family": "classic",
+      "id": "aurora",
+      "localizations": {
+        "cs": {
+          "description": "Zářivé skleněné koule pod vlnící se polární září.",
+          "name": "Polární záře"
+        }
+      },
+      "name": "Mood Aurora",
+      "preview": "previews/aurora.webp",
+      "previewBytes": 39958,
+      "previewSha256": "9b3f687c8b498b30cdfa62752d9912892c8141af90902b061dbf9b89d858bb6e",
+      "sha256": "c61a9f977f92f490350110097e76e1175bdf880ecc386562054e2ffe45d19430",
+      "version": 2
+    },
+    {
+      "archive": "packs/ceramic-3.zip",
+      "bundled": false,
+      "bytes": 8884582,
+      "description": "Smooth glazed characters with a warm, hand-crafted finish.",
+      "family": "classic",
+      "id": "ceramic",
+      "localizations": {
+        "cs": {
+          "description": "Hladké glazované postavičky s hřejivým, ručně vyráběným vzhledem.",
+          "name": "Keramika"
+        }
+      },
+      "name": "Ceramic",
+      "preview": "previews/ceramic.webp",
+      "previewBytes": 43912,
+      "previewSha256": "998968a28686462eb0393ce881ebcdfa20b8aaafde88e0f38c4556ea4333c2e5",
+      "sha256": "212e684b4ea7cbcd41bcb1f07723d02bcee58e85e6488974074212aac9533093",
+      "version": 3
+    },
+    {
+      "archive": "packs/clay-3.zip",
+      "bundled": false,
+      "bytes": 7809566,
+      "description": "Soft sculpted clay with playful shapes and gentle shadows.",
+      "family": "classic",
+      "id": "clay",
+      "localizations": {
+        "cs": {
+          "description": "Měkká modelovaná hlína s hravými tvary a jemnými stíny.",
+          "name": "Modelovací hlína"
+        }
+      },
+      "name": "Clay",
+      "preview": "previews/clay.webp",
+      "previewBytes": 50434,
+      "previewSha256": "f68b7ef1228f6a60cca04f6a3347e0c12f51b4a6d004d5c67f52a472f0df14c9",
+      "sha256": "b039127ef3bc27408079cf085a26340eaa24a78f84acd1af13dff899726c405e",
+      "version": 3
+    },
+    {
+      "archive": "packs/fantasy-1.zip",
+      "bundled": false,
+      "bytes": 14108726,
+      "description": "An elf, a dwarf, a fairy and a young wizard from an enchanted forest.",
+      "family": "fantasy",
+      "id": "fantasy",
+      "localizations": {
+        "ar": {
+          "description": "قزم من الإلف، وقزم جبلي، وجنية، وساحر شاب من غابة مسحورة.",
+          "name": "شعب الخيال"
+        },
+        "bn": {
+          "description": "জাদুবনের এক এলফ, এক বামন, এক পরি আর এক তরুণ জাদুকর।",
+          "name": "রূপকথার মানুষ"
+        },
+        "cs": {
+          "description": "Elfka, trpaslík, víla a mladý čaroděj z kouzelného lesa.",
+          "name": "Pohádkový lid"
+        },
+        "de": {
+          "description": "Eine Elfe, ein Zwerg, eine Fee und ein junger Zauberer aus einem Zauberwald.",
+          "name": "Fantasyvolk"
+        },
+        "es": {
+          "description": "Una elfa, un enano, un hada y un joven mago de un bosque encantado.",
+          "name": "Pueblo de fantasía"
+        },
+        "fr": {
+          "description": "Une elfe, un nain, une fée et un jeune magicien d’une forêt enchantée.",
+          "name": "Peuple féerique"
+        },
+        "hi": {
+          "description": "जादुई जंगल से एक एल्फ़, एक बौना, एक परी और एक युवा जादूगर।",
+          "name": "परीलोक के लोग"
+        },
+        "id": {
+          "description": "Seorang elf, kurcaci, peri, dan penyihir muda dari hutan ajaib.",
+          "name": "Penghuni dunia fantasi"
+        },
+        "it": {
+          "description": "Un’elfa, un nano, una fata e un giovane mago da una foresta incantata.",
+          "name": "Popolo fantastico"
+        },
+        "ja": {
+          "description": "魔法の森からやって来たエルフ、ドワーフ、妖精、若い魔法使い。",
+          "name": "ファンタジーの住人"
+        },
+        "ko": {
+          "description": "마법의 숲에서 온 엘프, 드워프, 요정, 그리고 젊은 마법사.",
+          "name": "판타지 종족"
+        },
+        "pl": {
+          "description": "Elfka, krasnolud, wróżka i młody czarodziej z zaczarowanego lasu.",
+          "name": "Baśniowy lud"
+        },
+        "pt": {
+          "description": "Uma elfa, um anão, uma fada e um jovem mago de uma floresta encantada.",
+          "name": "Povo da fantasia"
+        },
+        "ru": {
+          "description": "Эльфийка, гном, фея и юный волшебник из зачарованного леса.",
+          "name": "Сказочный народ"
+        },
+        "tr": {
+          "description": "Büyülü bir ormandan bir elf, bir cüce, bir peri ve genç bir büyücü.",
+          "name": "Masal halkı"
+        },
+        "vi": {
+          "description": "Một tiên tộc, một người lùn, một nàng tiên và một pháp sư trẻ từ khu rừng phép thuật.",
+          "name": "Cư dân kỳ ảo"
+        },
+        "zh": {
+          "description": "来自魔法森林的精灵、矮人、仙子和年轻巫师。",
+          "name": "奇幻族群"
+        }
+      },
+      "name": "Fantasy folk",
+      "preview": "previews/fantasy.webp",
+      "previewBytes": 49444,
+      "previewSha256": "142b80c673e75812ad3ae88c95411bc0fdd3c2f1774de6905e02fcbb101d06e2",
+      "sha256": "aedf8729a230fd87152513b2b3b18102a169903c66b416da2f08ff3c0178fd73",
+      "version": 1
+    },
+    {
+      "archive": "packs/felt-3.zip",
+      "bundled": false,
+      "bytes": 12646636,
+      "description": "Cozy stitched felt characters with visible fibers and seams.",
+      "family": "classic",
+      "id": "felt",
+      "localizations": {
+        "cs": {
+          "description": "Útulné plstěné postavičky s viditelnými vlákny a švy.",
+          "name": "Plsť"
+        }
+      },
+      "name": "Felt",
+      "preview": "previews/felt.webp",
+      "previewBytes": 128054,
+      "previewSha256": "5bee4ee03bdef758fec1f71a78c1539172913fbec63f4cf465f9e7766b03a882",
+      "sha256": "6a365b40f9d0f3b8d3ff06dc8db1c666f9c13e7536c774458c9aee98531d1e19",
+      "version": 3
+    },
+    {
+      "archive": "packs/garden-2.zip",
+      "bundled": true,
+      "bytes": 10124540,
+      "description": "Hand-painted watercolour faces in wreaths of leaves and flowers.",
+      "family": "classic",
+      "id": "garden",
+      "localizations": {
+        "cs": {
+          "description": "Ručně malované akvarelové tváře ve věncích z listů a květů.",
+          "name": "Akvarelová zahrada"
+        }
+      },
+      "name": "Watercolor Garden",
+      "preview": "previews/garden.webp",
+      "previewBytes": 42108,
+      "previewSha256": "f3b75bd834164748175197a1d92f3f686bb63012962b7c5728b7a25ec3efadf6",
+      "sha256": "b88c35b932acd7f1b84a34b50b969363a384dc4c91aa4980ec2a81f38609feb5",
+      "version": 2
+    },
+    {
+      "archive": "packs/glass-3.zip",
+      "bundled": false,
+      "bytes": 14070040,
+      "description": "Translucent glass figures with luminous color and reflections.",
+      "family": "classic",
+      "id": "glass",
+      "localizations": {
+        "cs": {
+          "description": "Průsvitné skleněné postavičky se zářivými barvami a odlesky.",
+          "name": "Sklo"
+        }
+      },
+      "name": "Glass",
+      "preview": "previews/glass.webp",
+      "previewBytes": 61928,
+      "previewSha256": "800314c45deea9cf6ecd4fb02b4be769c414c8da953d4004234e94c5955f9ca2",
+      "sha256": "f30be495e31dd9d609fc3a9972e467206dc2d13985729da96f1c539f2fd759a1",
+      "version": 3
+    },
+    {
+      "archive": "packs/gouache-3.zip",
+      "bundled": false,
+      "bytes": 13125422,
+      "description": "Bold matte gouache with expressive brush texture.",
+      "family": "classic",
+      "id": "gouache",
+      "localizations": {
+        "cs": {
+          "description": "Výrazný matný kvaš s živou strukturou štětce.",
+          "name": "Kvaš"
+        }
+      },
+      "name": "Gouache",
+      "preview": "previews/gouache.webp",
+      "previewBytes": 67584,
+      "previewSha256": "cb1252ef3537774572464693cc8d116507ec9dea41c0b7c06d8843ef8e29c96e",
+      "sha256": "f6d8f4ab2f5820a8e6fae565bf82c473efd3bf1a98fd86073b084be0a18e7ec1",
+      "version": 3
+    },
+    {
+      "archive": "packs/human-2.zip",
+      "bundled": false,
+      "bytes": 10681330,
+      "description": "Four illustrated people of different ages who feel it with you.",
+      "family": "human",
+      "id": "human",
+      "localizations": {
+        "ar": {
+          "description": "أربعة أشخاص مرسومين من أعمار مختلفة يشعرون معك.",
+          "name": "أناس عاديون"
+        },
+        "bn": {
+          "description": "ভিন্ন বয়সের চারজন আঁকা মানুষ, যারা তোমার সঙ্গে অনুভব করে।",
+          "name": "দৈনন্দিন মানুষ"
+        },
+        "cs": {
+          "description": "Čtyři ilustrovaní lidé různého věku, kteří to cítí s vámi.",
+          "name": "Lidé všedního dne"
+        },
+        "de": {
+          "description": "Vier gezeichnete Menschen verschiedenen Alters, die mit dir fühlen.",
+          "name": "Menschen von nebenan"
+        },
+        "es": {
+          "description": "Cuatro personas ilustradas de distintas edades que sienten contigo.",
+          "name": "Gente de cada día"
+        },
+        "fr": {
+          "description": "Quatre personnes illustrées d’âges différents qui ressentent avec vous.",
+          "name": "Gens de tous les jours"
+        },
+        "hi": {
+          "description": "अलग-अलग उम्र के चार चित्रित लोग, जो आपके साथ महसूस करते हैं।",
+          "name": "रोज़मर्रा के लोग"
+        },
+        "id": {
+          "description": "Empat orang ilustrasi dari berbagai usia yang ikut merasakannya bersamamu.",
+          "name": "Orang sehari-hari"
+        },
+        "it": {
+          "description": "Quattro persone illustrate di età diverse che sentono con te.",
+          "name": "Gente di tutti i giorni"
+        },
+        "ja": {
+          "description": "あなたと一緒に感じる、年齢もさまざまな4人のイラストの人物。",
+          "name": "いつもの人たち"
+        },
+        "ko": {
+          "description": "당신과 함께 느끼는, 나이가 다른 네 명의 일러스트 인물.",
+          "name": "일상 속 사람들"
+        },
+        "pl": {
+          "description": "Czworo ilustrowanych ludzi w różnym wieku, którzy czują to razem z tobą.",
+          "name": "Ludzie na co dzień"
+        },
+        "pt": {
+          "description": "Quatro pessoas ilustradas de idades diferentes que sentem junto com você.",
+          "name": "Gente do dia a dia"
+        },
+        "ru": {
+          "description": "Четыре нарисованных человека разного возраста, которые чувствуют вместе с вами.",
+          "name": "Люди вокруг"
+        },
+        "tr": {
+          "description": "Seninle birlikte hisseden, farklı yaşlarda dört çizim insan.",
+          "name": "Gündelik insanlar"
+        },
+        "vi": {
+          "description": "Bốn người được vẽ ở nhiều độ tuổi, cùng cảm nhận với bạn.",
+          "name": "Người thường ngày"
+        },
+        "zh": {
+          "description": "四位不同年龄的插画人物，与你感同身受。",
+          "name": "身边的人"
+        }
+      },
+      "name": "Everyday people",
+      "preview": "previews/human.webp",
+      "previewBytes": 39600,
+      "previewSha256": "73758f23e259fe99be9e21c913c8e26baa8adc67942f8f9a5654b1f132c272ca",
+      "sha256": "381b5a39fac217fb777a8af5c7055862411c51ad1cdec7e7de25758dcaf362e4",
+      "version": 2
+    },
+    {
+      "archive": "packs/ink-3.zip",
+      "bundled": false,
+      "bytes": 15727266,
+      "description": "Confident ink lines with graphic contrast and lively marks.",
+      "family": "classic",
+      "id": "ink",
+      "localizations": {
+        "cs": {
+          "description": "Sebevědomé inkoustové linie s výrazným kontrastem a živou kresbou.",
+          "name": "Inkoust"
+        }
+      },
+      "name": "Ink",
+      "preview": "previews/ink.webp",
+      "previewBytes": 75060,
+      "previewSha256": "e980acfee1410f550cd8b037cd2c1a904bf8044d67a8c1810d80c52c1ea2ab00",
+      "sha256": "45d7054499f1f782c846f79f480be2b59f48bc2a319a3d95f21d46c5a607b090",
+      "version": 3
+    },
+    {
+      "archive": "packs/oil-3.zip",
+      "bundled": false,
+      "bytes": 16574254,
+      "description": "Rich oil-painted emoji with deep color and visible brushwork.",
+      "family": "classic",
+      "id": "oil",
+      "localizations": {
+        "cs": {
+          "description": "Syté olejomalby s hlubokými barvami a patrnými tahy štětce.",
+          "name": "Olejomalba"
+        }
+      },
+      "name": "Oil Paint",
+      "preview": "previews/oil.webp",
+      "previewBytes": 121792,
+      "previewSha256": "09d75bd7b587320b855d275218b1c4b8925b6499bcc27685487ed97393ff050e",
+      "sha256": "f6b3027a3ede52e9b891db658cdedcc7b6e1adbbdda1d310efd15b1948662ea9",
+      "version": 3
+    },
+    {
+      "archive": "packs/paper-3.zip",
+      "bundled": false,
+      "bytes": 9435639,
+      "description": "Layered paper-cut characters with tactile edges and soft depth.",
+      "family": "classic",
+      "id": "paper",
+      "localizations": {
+        "cs": {
+          "description": "Vrstvené papírové postavičky s hmatatelnými hranami a jemnou hloubkou.",
+          "name": "Papírová koláž"
+        }
+      },
+      "name": "Paper Craft",
+      "preview": "previews/paper.webp",
+      "previewBytes": 72196,
+      "previewSha256": "e00c752ab63d7bf3f28ed595eae5f7bb788bb4e50d6560e84156169675a07616",
+      "sha256": "40b0ed05f6a01d0054d1a5f3c22dbda067b4ea2ac14fa9519bb9e21acd660da2",
+      "version": 3
+    },
+    {
+      "archive": "packs/pixel-3.zip",
+      "bundled": false,
+      "bytes": 9890362,
+      "description": "Crisp pixel-art emoji with bright, readable expressions.",
+      "family": "classic",
+      "id": "pixel",
+      "localizations": {
+        "cs": {
+          "description": "Ostré pixelové emoji s jasnými a dobře čitelnými výrazy.",
+          "name": "Pixel art"
+        }
+      },
+      "name": "Pixel Art",
+      "preview": "previews/pixel.webp",
+      "previewBytes": 39330,
+      "previewSha256": "d8a276b9997eee869728913427d4196d1ffeea9abe394f2c248ff49414c09bc0",
+      "sha256": "5038ab626ddad34f69d725561a1b34174e0938e7a8c58ce2f666cb345b672461",
+      "version": 3
+    },
+    {
+      "archive": "packs/robot-1.zip",
+      "bundled": false,
+      "bytes": 10196461,
+      "description": "Four friendly robots showing every feeling on screens and lamps.",
+      "family": "robot",
+      "id": "robot",
+      "localizations": {
+        "ar": {
+          "description": "أربعة روبوتات ودودة تُظهر كل شعور على الشاشات والمصابيح.",
+          "name": "أصدقاء آليون"
+        },
+        "bn": {
+          "description": "চারটি বন্ধুসুলভ রোবট, পর্দা আর আলোয় প্রতিটি অনুভূতি দেখায়।",
+          "name": "রোবট বন্ধুরা"
+        },
+        "cs": {
+          "description": "Čtyři přátelští roboti ukazují každý pocit na displejích a lampách.",
+          "name": "Robotí kamarádi"
+        },
+        "de": {
+          "description": "Vier freundliche Roboter zeigen jedes Gefühl auf Bildschirmen und Lampen.",
+          "name": "Roboterfreunde"
+        },
+        "es": {
+          "description": "Cuatro robots amables que muestran cada sentimiento en pantallas y luces.",
+          "name": "Amigos robots"
+        },
+        "fr": {
+          "description": "Quatre robots sympathiques qui montrent chaque émotion sur leurs écrans et leurs lampes.",
+          "name": "Amis robots"
+        },
+        "hi": {
+          "description": "चार दोस्ताना रोबोट, जो हर भावना स्क्रीन और लैंप पर दिखाते हैं।",
+          "name": "रोबोट दोस्त"
+        },
+        "id": {
+          "description": "Empat robot ramah yang menampilkan setiap perasaan di layar dan lampunya.",
+          "name": "Teman robot"
+        },
+        "it": {
+          "description": "Quattro robot amichevoli che mostrano ogni sentimento su schermi e lampade.",
+          "name": "Amici robot"
+        },
+        "ja": {
+          "description": "スクリーンやランプでどんな気持ちも見せてくれる、親しみやすい4体のロボット。",
+          "name": "ロボットの仲間"
+        },
+        "ko": {
+          "description": "화면과 램프로 모든 감정을 보여 주는 다정한 로봇 넷.",
+          "name": "로봇 친구들"
+        },
+        "pl": {
+          "description": "Cztery przyjazne roboty pokazujące każde uczucie na ekranach i lampkach.",
+          "name": "Robotyczni przyjaciele"
+        },
+        "pt": {
+          "description": "Quatro robôs simpáticos que mostram cada sentimento em telas e luzes.",
+          "name": "Amigos robôs"
+        },
+        "ru": {
+          "description": "Четыре дружелюбных робота показывают любые чувства на экранах и лампах.",
+          "name": "Друзья-роботы"
+        },
+        "tr": {
+          "description": "Her duyguyu ekranlarında ve lambalarında gösteren dört sevimli robot.",
+          "name": "Robot dostlar"
+        },
+        "vi": {
+          "description": "Bốn người máy thân thiện thể hiện mọi cảm xúc trên màn hình và đèn.",
+          "name": "Những người bạn người máy"
+        },
+        "zh": {
+          "description": "四个友好的机器人，用屏幕和灯光表达每一种感受。",
+          "name": "机器人伙伴"
+        }
+      },
+      "name": "Robot friends",
+      "preview": "previews/robot.webp",
+      "previewBytes": 30492,
+      "previewSha256": "e3503d56f7b0521ec936db8adf74bc4e8c9283f92ef5d573604ddb2c7a3587b3",
+      "sha256": "a3a1ba92bf9539723b958c15cd0762e7b08eed859dea406b740582255ff202da",
+      "version": 1
+    },
+    {
+      "archive": "packs/sunnypop-2.zip",
+      "bundled": true,
+      "bytes": 4892055,
+      "description": "Glossy, candy-bright cartoon characters full of sunshine.",
+      "family": "classic",
+      "id": "sunnypop",
+      "localizations": {
+        "cs": {
+          "description": "Lesklé, cukrově zářivé kreslené postavičky plné slunce.",
+          "name": "Slunečný pop"
+        }
+      },
+      "name": "Sunny Pop",
+      "preview": "previews/sunnypop.webp",
+      "previewBytes": 16762,
+      "previewSha256": "fa7b1ef22142660dac88ef51cc9a4454acff58db6c515fcf3f820daae7d67834",
+      "sha256": "f7315fb68f75d5deb3f176c1c0bfe7e3b69f60d038985077b4d78fe950805f2e",
+      "version": 2
+    },
+    {
+      "archive": "packs/superhero-2.zip",
+      "bundled": false,
+      "bytes": 10492948,
+      "description": "Four masked heroes who wear every mood in costume.",
+      "family": "superhero",
+      "id": "superhero",
+      "localizations": {
+        "ar": {
+          "description": "أربعة أبطال مقنّعين يرتدون كل مزاج بزيّهم.",
+          "name": "فرقة الأبطال"
+        },
+        "bn": {
+          "description": "মুখোশ পরা চার নায়ক, যারা পোশাকে প্রতিটি মেজাজ ধরে রাখে।",
+          "name": "হিরো স্কোয়াড"
+        },
+        "cs": {
+          "description": "Čtyři maskovaní hrdinové, kteří každou náladu nosí v kostýmu.",
+          "name": "Hrdinská parta"
+        },
+        "de": {
+          "description": "Vier maskierte Heldinnen und Helden, die jede Stimmung im Kostüm tragen.",
+          "name": "Heldentruppe"
+        },
+        "es": {
+          "description": "Cuatro héroes enmascarados que llevan cada estado de ánimo con su traje.",
+          "name": "Escuadrón de héroes"
+        },
+        "fr": {
+          "description": "Quatre héros masqués qui portent chaque humeur en costume.",
+          "name": "L'équipe des héros"
+        },
+        "hi": {
+          "description": "नकाबपोश चार नायक, जो हर मूड को अपनी पोशाक में पहनते हैं।",
+          "name": "हीरो दस्ता"
+        },
+        "id": {
+          "description": "Empat pahlawan bertopeng yang mengenakan setiap suasana hati dalam kostumnya.",
+          "name": "Regu pahlawan"
+        },
+        "it": {
+          "description": "Quattro eroi mascherati che indossano ogni stato d’animo in costume.",
+          "name": "Squadra di eroi"
+        },
+        "ja": {
+          "description": "どんな気分もコスチュームで表す、仮面の4人のヒーロー。",
+          "name": "ヒーロー隊"
+        },
+        "ko": {
+          "description": "모든 기분을 코스튬으로 표현하는 가면 쓴 네 영웅.",
+          "name": "히어로 팀"
+        },
+        "pl": {
+          "description": "Czworo zamaskowanych bohaterów, którzy każdy nastrój noszą w kostiumie.",
+          "name": "Drużyna bohaterów"
+        },
+        "pt": {
+          "description": "Quatro heróis mascarados que vestem cada humor com o uniforme.",
+          "name": "Esquadrão de heróis"
+        },
+        "ru": {
+          "description": "Четыре героя в масках, у которых любое настроение — в костюме.",
+          "name": "Команда героев"
+        },
+        "tr": {
+          "description": "Her ruh halini kostümüyle taşıyan dört maskeli kahraman.",
+          "name": "Kahraman ekibi"
+        },
+        "vi": {
+          "description": "Bốn anh hùng đeo mặt nạ khoác lên mọi tâm trạng trong bộ trang phục.",
+          "name": "Biệt đội anh hùng"
+        },
+        "zh": {
+          "description": "四位蒙面英雄，用战衣演绎每一种心情。",
+          "name": "英雄小队"
+        }
+      },
+      "name": "Hero squad",
+      "preview": "previews/superhero.webp",
+      "previewBytes": 34308,
+      "previewSha256": "8ee77e90e574756450a10eb21bdef7dea76308b160b22ca056844c3477e919e0",
+      "sha256": "a8b1714a0187fcc3e814ecc175472fa75ed8de6c4f4d239125b0f6353503a493",
+      "version": 2
+    },
+    {
+      "archive": "packs/universe-2.zip",
+      "bundled": false,
+      "bytes": 6918108,
+      "description": "Little planets and moons with rings, stars and nebula colour.",
+      "family": "classic",
+      "id": "universe",
+      "localizations": {
+        "cs": {
+          "description": "Malé planety a měsíce s prstenci, hvězdami a barvami mlhovin.",
+          "name": "Vesmír emoji"
+        }
+      },
+      "name": "Emoji Universe",
+      "preview": "previews/universe.webp",
+      "previewBytes": 28090,
+      "previewSha256": "aeef81c56fc2184c4c9b794eaed0e54a7cbc921cb7706bf343fa2911ca2b7bcb",
+      "sha256": "4cef351023027624434369e97038c6efc4ac37b531b35d1246b13f7f12fe9ad0",
+      "version": 2
+    },
+    {
+      "archive": "packs/watercolor-3.zip",
+      "bundled": false,
+      "bytes": 14998817,
+      "description": "Airy watercolor characters with gentle washes and organic edges.",
+      "family": "classic",
+      "id": "watercolor",
+      "localizations": {
+        "cs": {
+          "description": "Vzdušné akvarelové postavičky s jemnými lazurami a přirozenými okraji.",
+          "name": "Akvarel"
+        }
+      },
+      "name": "Watercolor",
+      "preview": "previews/watercolor.webp",
+      "previewBytes": 76682,
+      "previewSha256": "7b9eabe06ad0662fa928662113de37b3814599a6e907d0d152c0b0c1f3651df1",
+      "sha256": "d291972cf81be8775912c0ce9887fac77ae9f7b4eb431ffb0a4eb18e40080cf1",
+      "version": 3
+    },
+    {
+      "archive": "packs/weather-2.zip",
+      "bundled": true,
+      "bytes": 6117914,
+      "description": "Sunny clouds and soft skies that change with the mood.",
+      "family": "classic",
+      "id": "weather",
+      "localizations": {
+        "cs": {
+          "description": "Slunečné mráčky a jemná obloha, které se mění s náladou.",
+          "name": "Počasí nálad"
+        }
+      },
+      "name": "Mood Weather",
+      "preview": "previews/weather.webp",
+      "previewBytes": 29774,
+      "previewSha256": "6d01b2b968899c4db5e3f5b81bec84fdeed8423212d2ed6fc8f10195ca5614f9",
+      "sha256": "55044100686eef63a203dad6cb74ec5fdec57ec93bd5a5c8a119d6adf8a37dc2",
+      "version": 2
+    },
+    {
+      "archive": "packs/wood-3.zip",
+      "bundled": false,
+      "bytes": 10855341,
+      "description": "Carved wooden emoji with natural grain and rounded forms.",
+      "family": "classic",
+      "id": "wood",
+      "localizations": {
+        "cs": {
+          "description": "Vyřezávané dřevěné emoji s přirozenou kresbou a oblými tvary.",
+          "name": "Dřevo"
+        }
+      },
+      "name": "Wood",
+      "preview": "previews/wood.webp",
+      "previewBytes": 90034,
+      "previewSha256": "9b3dff43ca5898f039d8c1ccb41bade8eaa559f610181e641ec18e9aba880aa4",
+      "sha256": "8002c9b196c3b966030bb4bb6f26fc4f5afc614e891ff47058f58950a9f1df67",
+      "version": 3
+    }
+  ]
+}

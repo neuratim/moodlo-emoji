@@ -1,0 +1,6 @@
+# Line endings: the same bytes on every machine.
+* text=auto eol=lf
+
+# Never converted.
+*.bin binary
+*.webp binary
