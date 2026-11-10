@@ -116,6 +116,63 @@
       "name": "Human avatars"
     },
     {
+      "id": "photo",
+      "localizations": {
+        "ar": {
+          "name": "وجوه حقيقية"
+        },
+        "bn": {
+          "name": "বাস্তব মুখ"
+        },
+        "cs": {
+          "name": "Skutečné tváře"
+        },
+        "de": {
+          "name": "Echte Gesichter"
+        },
+        "es": {
+          "name": "Caras reales"
+        },
+        "fr": {
+          "name": "Vrais visages"
+        },
+        "hi": {
+          "name": "असली चेहरे"
+        },
+        "id": {
+          "name": "Wajah nyata"
+        },
+        "it": {
+          "name": "Volti reali"
+        },
+        "ja": {
+          "name": "リアルな顔"
+        },
+        "ko": {
+          "name": "실사 얼굴"
+        },
+        "pl": {
+          "name": "Prawdziwe twarze"
+        },
+        "pt": {
+          "name": "Rostos reais"
+        },
+        "ru": {
+          "name": "Настоящие лица"
+        },
+        "tr": {
+          "name": "Gerçek yüzler"
+        },
+        "vi": {
+          "name": "Gương mặt thật"
+        },
+        "zh": {
+          "name": "真实面孔"
+        }
+      },
+      "name": "Real faces"
+    },
+    {
       "id": "animated",
       "localizations": {
         "ar": {
@@ -399,11 +456,125 @@
         }
       },
       "name": "Aliens"
+    },
+    {
+      "id": "animal",
+      "localizations": {
+        "ar": {
+          "name": "حيوانات"
+        },
+        "bn": {
+          "name": "প্রাণী"
+        },
+        "cs": {
+          "name": "Zvířata"
+        },
+        "de": {
+          "name": "Tiere"
+        },
+        "es": {
+          "name": "Animales"
+        },
+        "fr": {
+          "name": "Animaux"
+        },
+        "hi": {
+          "name": "जानवर"
+        },
+        "id": {
+          "name": "Hewan"
+        },
+        "it": {
+          "name": "Animali"
+        },
+        "ja": {
+          "name": "どうぶつ"
+        },
+        "ko": {
+          "name": "동물"
+        },
+        "pl": {
+          "name": "Zwierzęta"
+        },
+        "pt": {
+          "name": "Animais"
+        },
+        "ru": {
+          "name": "Животные"
+        },
+        "tr": {
+          "name": "Hayvanlar"
+        },
+        "vi": {
+          "name": "Động vật"
+        },
+        "zh": {
+          "name": "动物"
+        }
+      },
+      "name": "Animals"
+    },
+    {
+      "id": "monster",
+      "localizations": {
+        "ar": {
+          "name": "وحوش"
+        },
+        "bn": {
+          "name": "দানব"
+        },
+        "cs": {
+          "name": "Příšerky"
+        },
+        "de": {
+          "name": "Monster"
+        },
+        "es": {
+          "name": "Monstruos"
+        },
+        "fr": {
+          "name": "Monstres"
+        },
+        "hi": {
+          "name": "राक्षस"
+        },
+        "id": {
+          "name": "Monster"
+        },
+        "it": {
+          "name": "Mostri"
+        },
+        "ja": {
+          "name": "モンスター"
+        },
+        "ko": {
+          "name": "몬스터"
+        },
+        "pl": {
+          "name": "Potworki"
+        },
+        "pt": {
+          "name": "Monstros"
+        },
+        "ru": {
+          "name": "Монстры"
+        },
+        "tr": {
+          "name": "Canavarlar"
+        },
+        "vi": {
+          "name": "Quái vật"
+        },
+        "zh": {
+          "name": "怪兽"
+        }
+      },
+      "name": "Monsters"
     }
   ],
-  "generatedAt": "2026-11-10T18:42:38.393465Z",
+  "generatedAt": "2026-11-10T22:29:30.479686Z",
   "licence": "Copyright NeuraTiM. For use in NeuraTiM Moodlo only; not for resale or redistribution.",
-  "revision": 4,
+  "revision": 5,
   "schema": 3,
   "styles": [
     {
@@ -575,6 +746,90 @@
       "version": 2
     },
     {
+      "archive": "packs/appliance-bots-1.zip",
+      "bundled": false,
+      "bytes": 12246369,
+      "description": "Toasters, kettles and washing machines that come alive.",
+      "family": "robot",
+      "id": "appliance-bots",
+      "localizations": {
+        "ar": {
+          "description": "محمّصات وغلايات وغسالات تدبّ فيها الحياة.",
+          "name": "روبوتات الأجهزة المنزلية"
+        },
+        "bn": {
+          "description": "টোস্টার, কেটলি আর ওয়াশিং মেশিন যারা জেগে ওঠে।",
+          "name": "যন্ত্রপাতি রোবট"
+        },
+        "cs": {
+          "description": "Topinkovače, konvice a pračky, které ožívají.",
+          "name": "Spotřebičoví roboti"
+        },
+        "de": {
+          "description": "Toaster, Wasserkocher und Waschmaschinen, die lebendig werden.",
+          "name": "Haushaltsroboter"
+        },
+        "es": {
+          "description": "Tostadoras, hervidores y lavadoras que cobran vida.",
+          "name": "Robots electrodomésticos"
+        },
+        "fr": {
+          "description": "Des grille-pain, des bouilloires et des machines à laver qui prennent vie.",
+          "name": "Robots électroménagers"
+        },
+        "hi": {
+          "description": "टोस्टर, केतली और वॉशिंग मशीन, जो जीवित हो उठते हैं।",
+          "name": "घरेलू उपकरण रोबोट"
+        },
+        "id": {
+          "description": "Pemanggang roti, ketel, dan mesin cuci yang hidup.",
+          "name": "Robot perabot rumah"
+        },
+        "it": {
+          "description": "Tostapane, bollitori e lavatrici che prendono vita.",
+          "name": "Robot elettrodomestici"
+        },
+        "ja": {
+          "description": "トースターやケトル、洗濯機がいきいきと動き出す。",
+          "name": "家電ロボット"
+        },
+        "ko": {
+          "description": "살아 움직이는 토스터, 주전자, 세탁기.",
+          "name": "가전 로봇"
+        },
+        "pl": {
+          "description": "Tostery, czajniki i pralki, które ożywają.",
+          "name": "Roboty AGD"
+        },
+        "pt": {
+          "description": "Torradeiras, chaleiras e máquinas de lavar que ganham vida.",
+          "name": "Robôs eletrodomésticos"
+        },
+        "ru": {
+          "description": "Оживающие тостеры, чайники и стиральные машины.",
+          "name": "Роботы-бытовая техника"
+        },
+        "tr": {
+          "description": "Canlanan ekmek kızartma makineleri, su ısıtıcıları ve çamaşır makineleri.",
+          "name": "Ev aleti robotlar"
+        },
+        "vi": {
+          "description": "Máy nướng bánh, ấm đun nước và máy giặt bỗng sống dậy.",
+          "name": "Người máy đồ gia dụng"
+        },
+        "zh": {
+          "description": "会活过来的烤面包机、水壶和洗衣机。",
+          "name": "家电机器人"
+        }
+      },
+      "name": "Appliance bots",
+      "preview": "previews/appliance-bots.webp",
+      "previewBytes": 38388,
+      "previewSha256": "c9cfe38067fdb75218ea2ff45286b2addc200013d19e46a83c213d90680e05aa",
+      "sha256": "96e74ed952d711db7e617c31abf1a39a9c1e32c38838bea960db29e68aee22fb",
+      "version": 1
+    },
+    {
       "archive": "packs/aurora-3.zip",
       "bundled": true,
       "bytes": 8639391,
@@ -593,6 +848,258 @@
       "previewSha256": "9b3f687c8b498b30cdfa62752d9912892c8141af90902b061dbf9b89d858bb6e",
       "sha256": "57f32d5699abe788f4e183874059106dc8f3524d6e504ecd487f25ce3c6ecbe8",
       "version": 3
+    },
+    {
+      "archive": "packs/botanical-aliens-1.zip",
+      "bundled": false,
+      "bytes": 15463096,
+      "description": "Moss, cactus, mushroom and kelp aliens from a garden planet.",
+      "family": "alien",
+      "id": "botanical-aliens",
+      "localizations": {
+        "ar": {
+          "description": "كائنات من الطحلب والصبار والفطر وعشب البحر من كوكب حديقة.",
+          "name": "كائنات نباتية فضائية"
+        },
+        "bn": {
+          "description": "বাগান-গ্রহ থেকে আসা শ্যাওলা, ক্যাকটাস, মাশরুম আর সামুদ্রিক শৈবালের এলিয়েন।",
+          "name": "উদ্ভিদ এলিয়েন"
+        },
+        "cs": {
+          "description": "Mimozemšťané z mechu, kaktusu, houby a chaluhy ze zahradní planety.",
+          "name": "Rostlinní mimozemšťané"
+        },
+        "de": {
+          "description": "Aliens aus Moos, Kaktus, Pilz und Seetang von einem Gartenplaneten.",
+          "name": "Pflanzen-Aliens"
+        },
+        "es": {
+          "description": "Alienígenas de musgo, cactus, seta y alga de un planeta jardín.",
+          "name": "Alienígenas botánicos"
+        },
+        "fr": {
+          "description": "Des extraterrestres de mousse, de cactus, de champignon et de varech venus d'une planète-jardin.",
+          "name": "Extraterrestres botaniques"
+        },
+        "hi": {
+          "description": "बाग़ीचे वाले ग्रह से काई, कैक्टस, मशरूम और समुद्री शैवाल के एलियन।",
+          "name": "वनस्पति एलियन"
+        },
+        "id": {
+          "description": "Alien lumut, kaktus, jamur, dan rumput laut dari planet taman.",
+          "name": "Alien tumbuhan"
+        },
+        "it": {
+          "description": "Alieni di muschio, cactus, fungo e alga da un pianeta giardino.",
+          "name": "Alieni botanici"
+        },
+        "ja": {
+          "description": "庭の惑星からやってきた、コケ、サボテン、キノコ、海藻の宇宙人。",
+          "name": "植物星人"
+        },
+        "ko": {
+          "description": "정원 행성에서 온 이끼, 선인장, 버섯, 해초 외계인.",
+          "name": "식물 외계인"
+        },
+        "pl": {
+          "description": "Kosmici z mchu, kaktusa, grzyba i wodorostów z planety-ogrodu.",
+          "name": "Roślinni kosmici"
+        },
+        "pt": {
+          "description": "Alienígenas de musgo, cacto, cogumelo e alga de um planeta jardim.",
+          "name": "Alienígenas botânicos"
+        },
+        "ru": {
+          "description": "Пришельцы из мха, кактуса, гриба и ламинарии с планеты-сада.",
+          "name": "Растительные пришельцы"
+        },
+        "tr": {
+          "description": "Bahçe gezegeninden yosun, kaktüs, mantar ve deniz yosunu uzaylılar.",
+          "name": "Bitki uzaylılar"
+        },
+        "vi": {
+          "description": "Người ngoài hành tinh rêu, xương rồng, nấm và tảo bẹ đến từ hành tinh vườn.",
+          "name": "Người ngoài hành tinh thực vật"
+        },
+        "zh": {
+          "description": "来自花园星球的苔藓、仙人掌、蘑菇和海带外星人。",
+          "name": "植物外星人"
+        }
+      },
+      "name": "Botanical aliens",
+      "preview": "previews/botanical-aliens.webp",
+      "previewBytes": 38704,
+      "previewSha256": "664a0cfc04f5082ef6fe98ee035e0e11751dcc57272aef024438106f68ae60f8",
+      "sha256": "fbe361361fe388e6cc8aca1ab41df16ffd991e3c04fa1c80b8f11afaee8aabb3",
+      "version": 1
+    },
+    {
+      "archive": "packs/candid-men-1.zip",
+      "bundled": false,
+      "bytes": 13865935,
+      "description": "Warm, sunlit candid photos of four men, shot on analogue film.",
+      "family": "photo",
+      "id": "candid-men",
+      "localizations": {
+        "ar": {
+          "description": "صور عفوية دافئة مشمسة لأربعة رجال، ملتقطة على فيلم تناظري.",
+          "name": "رجال على الفيلم"
+        },
+        "bn": {
+          "description": "অ্যানালগ ফিল্মে তোলা চারজন পুরুষের উষ্ণ, রোদেলা স্বতঃস্ফূর্ত ছবি।",
+          "name": "ফিল্মে পুরুষেরা"
+        },
+        "cs": {
+          "description": "Hřejivé, prosluněné momentky čtyř mužů, nafocené na analogový film.",
+          "name": "Muži na filmu"
+        },
+        "de": {
+          "description": "Warme, sonnige Schnappschüsse von vier Männern auf analogem Film.",
+          "name": "Männer auf Film"
+        },
+        "es": {
+          "description": "Fotos espontáneas, cálidas y soleadas de cuatro hombres, tomadas en película analógica.",
+          "name": "Hombres en película"
+        },
+        "fr": {
+          "description": "Des photos spontanées, chaudes et ensoleillées de quatre hommes, prises sur pellicule argentique.",
+          "name": "Hommes sur pellicule"
+        },
+        "hi": {
+          "description": "एनालॉग फ़िल्म पर खींची चार पुरुषों की गर्म, धूप भरी सहज तस्वीरें।",
+          "name": "फ़िल्म पर पुरुष"
+        },
+        "id": {
+          "description": "Foto candid empat pria yang hangat dan cerah, dipotret dengan film analog.",
+          "name": "Pria dalam film"
+        },
+        "it": {
+          "description": "Foto spontanee, calde e soleggiate di quattro uomini, scattate su pellicola analogica.",
+          "name": "Uomini su pellicola"
+        },
+        "ja": {
+          "description": "アナログフィルムで撮った、4人の男性のあたたかな日差しのスナップ。",
+          "name": "フィルムの男性たち"
+        },
+        "ko": {
+          "description": "아날로그 필름으로 찍은, 햇살 가득하고 따뜻한 네 남성의 자연스러운 사진.",
+          "name": "필름 속 남성들"
+        },
+        "pl": {
+          "description": "Ciepłe, słoneczne zdjęcia z ukrycia czterech mężczyzn, na kliszy analogowej.",
+          "name": "Mężczyźni na kliszy"
+        },
+        "pt": {
+          "description": "Fotos espontâneas, quentes e ensolaradas de quatro homens, em filme analógico.",
+          "name": "Homens em filme"
+        },
+        "ru": {
+          "description": "Тёплые солнечные снимки четырёх мужчин, снятые на аналоговую плёнку.",
+          "name": "Мужчины на плёнке"
+        },
+        "tr": {
+          "description": "Analog filmle çekilmiş dört erkeğin sıcak, güneşli doğal fotoğrafları.",
+          "name": "Filmde erkekler"
+        },
+        "vi": {
+          "description": "Ảnh chụp tự nhiên ấm áp, đầy nắng của bốn người đàn ông, chụp bằng phim.",
+          "name": "Đàn ông trên phim"
+        },
+        "zh": {
+          "description": "用胶片拍下的四位男士温暖、洒满阳光的抓拍照片。",
+          "name": "胶片男士"
+        }
+      },
+      "name": "Men on film",
+      "preview": "previews/candid-men.webp",
+      "previewBytes": 46286,
+      "previewSha256": "8b1a86d84481c4e2cb29d154f95a0d63d0a96751d1232350901481fcc5137a62",
+      "sha256": "bafaeeb0bbeb2b3132aeb1148a1c10b105075f04e667cb9f0fa616ce69555341",
+      "version": 1
+    },
+    {
+      "archive": "packs/candid-women-1.zip",
+      "bundled": false,
+      "bytes": 13994622,
+      "description": "Warm, sunlit candid photos of four women, shot on analogue film.",
+      "family": "photo",
+      "id": "candid-women",
+      "localizations": {
+        "ar": {
+          "description": "صور عفوية دافئة مشمسة لأربع نساء، ملتقطة على فيلم تناظري.",
+          "name": "نساء على الفيلم"
+        },
+        "bn": {
+          "description": "অ্যানালগ ফিল্মে তোলা চারজন নারীর উষ্ণ, রোদেলা স্বতঃস্ফূর্ত ছবি।",
+          "name": "ফিল্মে নারীরা"
+        },
+        "cs": {
+          "description": "Hřejivé, prosluněné momentky čtyř žen, nafocené na analogový film.",
+          "name": "Ženy na filmu"
+        },
+        "de": {
+          "description": "Warme, sonnige Schnappschüsse von vier Frauen auf analogem Film.",
+          "name": "Frauen auf Film"
+        },
+        "es": {
+          "description": "Fotos espontáneas, cálidas y soleadas de cuatro mujeres, tomadas en película analógica.",
+          "name": "Mujeres en película"
+        },
+        "fr": {
+          "description": "Des photos spontanées, chaudes et ensoleillées de quatre femmes, prises sur pellicule argentique.",
+          "name": "Femmes sur pellicule"
+        },
+        "hi": {
+          "description": "एनालॉग फ़िल्म पर खींची चार महिलाओं की गर्म, धूप भरी सहज तस्वीरें।",
+          "name": "फ़िल्म पर महिलाएँ"
+        },
+        "id": {
+          "description": "Foto candid empat wanita yang hangat dan cerah, dipotret dengan film analog.",
+          "name": "Wanita dalam film"
+        },
+        "it": {
+          "description": "Foto spontanee, calde e soleggiate di quattro donne, scattate su pellicola analogica.",
+          "name": "Donne su pellicola"
+        },
+        "ja": {
+          "description": "アナログフィルムで撮った、4人の女性のあたたかな日差しのスナップ。",
+          "name": "フィルムの女性たち"
+        },
+        "ko": {
+          "description": "아날로그 필름으로 찍은, 햇살 가득하고 따뜻한 네 여성의 자연스러운 사진.",
+          "name": "필름 속 여성들"
+        },
+        "pl": {
+          "description": "Ciepłe, słoneczne zdjęcia z ukrycia czterech kobiet, na kliszy analogowej.",
+          "name": "Kobiety na kliszy"
+        },
+        "pt": {
+          "description": "Fotos espontâneas, quentes e ensolaradas de quatro mulheres, em filme analógico.",
+          "name": "Mulheres em filme"
+        },
+        "ru": {
+          "description": "Тёплые солнечные снимки четырёх женщин, снятые на аналоговую плёнку.",
+          "name": "Женщины на плёнке"
+        },
+        "tr": {
+          "description": "Analog filmle çekilmiş dört kadının sıcak, güneşli doğal fotoğrafları.",
+          "name": "Filmde kadınlar"
+        },
+        "vi": {
+          "description": "Ảnh chụp tự nhiên ấm áp, đầy nắng của bốn người phụ nữ, chụp bằng phim.",
+          "name": "Phụ nữ trên phim"
+        },
+        "zh": {
+          "description": "用胶片拍下的四位女士温暖、洒满阳光的抓拍照片。",
+          "name": "胶片女士"
+        }
+      },
+      "name": "Women on film",
+      "preview": "previews/candid-women.webp",
+      "previewBytes": 35762,
+      "previewSha256": "6991e6e438c7bcb76b9f460db934689850915282f779d63e260465ddfb528594",
+      "sha256": "e72dd9b8f64c1bcbec7638390102f6d8f68c795e0ba3ffeccb902a9abd8f8f93",
+      "version": 1
     },
     {
       "archive": "packs/ceramic-4.zip",
@@ -633,6 +1140,426 @@
       "previewSha256": "f68b7ef1228f6a60cca04f6a3347e0c12f51b4a6d004d5c67f52a472f0df14c9",
       "sha256": "d05b589a694fcb501272acf2b651ffdc85fde86106b9d84a6b2bb1ecd56018b5",
       "version": 4
+    },
+    {
+      "archive": "packs/clay-women-1.zip",
+      "bundled": false,
+      "bytes": 14738597,
+      "description": "Hand-sculpted stop-motion women with fingerprints in the clay.",
+      "family": "animated",
+      "id": "clay-women",
+      "localizations": {
+        "ar": {
+          "description": "نساء من رسوم الإيقاف الحركي، منحوتات يدويًا وبصمات الأصابع ظاهرة في الصلصال.",
+          "name": "نساء من الصلصال"
+        },
+        "bn": {
+          "description": "হাতে গড়া স্টপ-মোশন নারীরা, মাটিতে আঙুলের ছাপ স্পষ্ট।",
+          "name": "ক্লেমেশন নারীরা"
+        },
+        "cs": {
+          "description": "Ručně modelované ženy z animace stop-motion s otisky prstů v plastelíně.",
+          "name": "Plastelínové ženy"
+        },
+        "de": {
+          "description": "Handmodellierte Stop-Motion-Frauen mit Fingerabdrücken in der Knete.",
+          "name": "Knetfiguren-Frauen"
+        },
+        "es": {
+          "description": "Mujeres de stop-motion modeladas a mano, con huellas en la plastilina.",
+          "name": "Mujeres de plastilina"
+        },
+        "fr": {
+          "description": "Des femmes en stop-motion modelées à la main, avec des empreintes dans la pâte.",
+          "name": "Femmes en pâte à modeler"
+        },
+        "hi": {
+          "description": "हाथ से गढ़ी स्टॉप-मोशन महिलाएँ, मिट्टी में उँगलियों के निशान के साथ।",
+          "name": "क्लेमेशन महिलाएँ"
+        },
+        "id": {
+          "description": "Wanita stop-motion pahatan tangan dengan sidik jari di tanah liatnya.",
+          "name": "Wanita tanah liat"
+        },
+        "it": {
+          "description": "Donne in stop-motion modellate a mano, con le impronte nella plastilina.",
+          "name": "Donne di plastilina"
+        },
+        "ja": {
+          "description": "粘土に指あとが残る、手作りのストップモーションの女性たち。",
+          "name": "クレイアニメの女性たち"
+        },
+        "ko": {
+          "description": "점토에 손자국이 남은, 손으로 빚은 스톱모션 여성들.",
+          "name": "클레이 애니메이션 여성들"
+        },
+        "pl": {
+          "description": "Ręcznie lepione kobiety z animacji poklatkowej, z odciskami palców w plastelinie.",
+          "name": "Plastelinowe kobiety"
+        },
+        "pt": {
+          "description": "Mulheres de stop-motion modeladas à mão, com digitais na massinha.",
+          "name": "Mulheres de massinha"
+        },
+        "ru": {
+          "description": "Слепленные вручную женщины из кукольной анимации с отпечатками пальцев на пластилине.",
+          "name": "Пластилиновые женщины"
+        },
+        "tr": {
+          "description": "Kilde parmak izleri kalmış, elle şekillendirilmiş stop-motion kadınlar.",
+          "name": "Kil animasyon kadınlar"
+        },
+        "vi": {
+          "description": "Những người phụ nữ hoạt hình tĩnh vật nặn tay, còn in dấu vân tay trên đất sét.",
+          "name": "Phụ nữ đất sét"
+        },
+        "zh": {
+          "description": "手工捏制的定格动画女士，黏土上还留着指纹。",
+          "name": "黏土动画女士"
+        }
+      },
+      "name": "Claymation women",
+      "preview": "previews/clay-women.webp",
+      "previewBytes": 38234,
+      "previewSha256": "4bb70464268a1b567007721490703f0624194c9ad10bf9375034608d29d1875e",
+      "sha256": "c202b6349d5eb7df47576933a24eea4143a5baa92fa96b58151cfe7d8e9ab104",
+      "version": 1
+    },
+    {
+      "archive": "packs/cosmic-guardians-1.zip",
+      "bundled": false,
+      "bytes": 18104124,
+      "description": "Starlit heroes whose suits shimmer with nebulae.",
+      "family": "superhero",
+      "id": "cosmic-guardians",
+      "localizations": {
+        "ar": {
+          "description": "أبطال تتلألأ بزّاتهم بالسُّدم والنجوم.",
+          "name": "حراس الكون"
+        },
+        "bn": {
+          "description": "তারায় ঝলমলে নায়ক, যাদের পোশাকে নীহারিকা ঝিকমিক করে।",
+          "name": "মহাজাগতিক রক্ষক"
+        },
+        "cs": {
+          "description": "Hvězdní hrdinové, jejichž obleky třpytí mlhovinami.",
+          "name": "Kosmičtí strážci"
+        },
+        "de": {
+          "description": "Sternenhelden, deren Anzüge von Nebeln schimmern.",
+          "name": "Kosmische Wächter"
+        },
+        "es": {
+          "description": "Héroes estelares cuyos trajes brillan con nebulosas.",
+          "name": "Guardianes cósmicos"
+        },
+        "fr": {
+          "description": "Des héros étoilés dont les costumes scintillent de nébuleuses.",
+          "name": "Gardiens cosmiques"
+        },
+        "hi": {
+          "description": "तारों से जगमगाते नायक, जिनकी पोशाकों में नीहारिकाएँ चमकती हैं।",
+          "name": "ब्रह्मांड के रक्षक"
+        },
+        "id": {
+          "description": "Pahlawan berbintang yang kostumnya berkilau dengan nebula.",
+          "name": "Penjaga kosmik"
+        },
+        "it": {
+          "description": "Eroi stellari i cui costumi brillano di nebulose.",
+          "name": "Guardiani cosmici"
+        },
+        "ja": {
+          "description": "星雲がきらめくスーツをまとった、星の光のヒーロー。",
+          "name": "宇宙の守護者"
+        },
+        "ko": {
+          "description": "성운이 반짝이는 슈트를 입은 별빛 영웅들.",
+          "name": "우주의 수호자"
+        },
+        "pl": {
+          "description": "Gwiezdni bohaterowie w kostiumach mieniących się mgławicami.",
+          "name": "Kosmiczni strażnicy"
+        },
+        "pt": {
+          "description": "Heróis estelares cujos trajes cintilam com nebulosas.",
+          "name": "Guardiões cósmicos"
+        },
+        "ru": {
+          "description": "Звёздные герои в костюмах, мерцающих туманностями.",
+          "name": "Космические стражи"
+        },
+        "tr": {
+          "description": "Kıyafetleri bulutsularla parıldayan yıldızlı kahramanlar.",
+          "name": "Kozmik koruyucular"
+        },
+        "vi": {
+          "description": "Những anh hùng ánh sao với bộ đồ lấp lánh tinh vân.",
+          "name": "Hộ vệ vũ trụ"
+        },
+        "zh": {
+          "description": "战衣上闪耀着星云的星光英雄。",
+          "name": "宇宙守护者"
+        }
+      },
+      "name": "Cosmic guardians",
+      "preview": "previews/cosmic-guardians.webp",
+      "previewBytes": 47568,
+      "previewSha256": "aa3582e96ef6abc676902cf5dd4265cf8c0345f046027259190a78268914a75a",
+      "sha256": "301f38872c959e602b5a9c1b1b3acd7f8d7bfbdd31c67497f7fd382724431ca9",
+      "version": 1
+    },
+    {
+      "archive": "packs/crystal-aliens-1.zip",
+      "bundled": false,
+      "bytes": 14470953,
+      "description": "Glowing gemstone visitors from a crystal planet.",
+      "family": "alien",
+      "id": "crystal-aliens",
+      "localizations": {
+        "ar": {
+          "description": "زوّار متوهّجون من الأحجار الكريمة قادمون من كوكب بلّوري.",
+          "name": "كائنات بلّورية"
+        },
+        "bn": {
+          "description": "স্ফটিকের গ্রহ থেকে আসা জ্বলজ্বলে রত্নপাথরের অতিথি।",
+          "name": "স্ফটিক এলিয়েন"
+        },
+        "cs": {
+          "description": "Zářící návštěvníci z drahokamů z krystalové planety.",
+          "name": "Krystaloví mimozemšťané"
+        },
+        "de": {
+          "description": "Leuchtende Edelstein-Besucher von einem Kristallplaneten.",
+          "name": "Kristall-Aliens"
+        },
+        "es": {
+          "description": "Visitantes de piedras preciosas brillantes, llegados de un planeta de cristal.",
+          "name": "Alienígenas de cristal"
+        },
+        "fr": {
+          "description": "Des visiteurs de pierres précieuses lumineuses venus d'une planète de cristal.",
+          "name": "Extraterrestres de cristal"
+        },
+        "hi": {
+          "description": "क्रिस्टल ग्रह से आए चमकते रत्नों के मेहमान।",
+          "name": "क्रिस्टल एलियन"
+        },
+        "id": {
+          "description": "Pengunjung batu permata berpendar dari planet kristal.",
+          "name": "Alien kristal"
+        },
+        "it": {
+          "description": "Visitatori di gemme luminose da un pianeta di cristallo.",
+          "name": "Alieni di cristallo"
+        },
+        "ja": {
+          "description": "クリスタルの星からやってきた、光る宝石の訪問者。",
+          "name": "クリスタル星人"
+        },
+        "ko": {
+          "description": "크리스털 행성에서 온 빛나는 보석 방문자들.",
+          "name": "크리스털 외계인"
+        },
+        "pl": {
+          "description": "Świecący goście z kamieni szlachetnych z kryształowej planety.",
+          "name": "Kryształowi kosmici"
+        },
+        "pt": {
+          "description": "Visitantes de pedras preciosas brilhantes vindos de um planeta de cristal.",
+          "name": "Alienígenas de cristal"
+        },
+        "ru": {
+          "description": "Светящиеся гости-самоцветы с кристальной планеты.",
+          "name": "Кристальные пришельцы"
+        },
+        "tr": {
+          "description": "Kristal bir gezegenden gelen ışıltılı değerli taş ziyaretçiler.",
+          "name": "Kristal uzaylılar"
+        },
+        "vi": {
+          "description": "Những vị khách đá quý phát sáng đến từ hành tinh pha lê.",
+          "name": "Người ngoài hành tinh pha lê"
+        },
+        "zh": {
+          "description": "来自水晶星球、闪闪发光的宝石访客。",
+          "name": "水晶外星人"
+        }
+      },
+      "name": "Crystal aliens",
+      "preview": "previews/crystal-aliens.webp",
+      "previewBytes": 35648,
+      "previewSha256": "b314274fe77795a5cf9d3c6d6c49899a008fe45ec63de03e6ced060bb9aa8d8c",
+      "sha256": "a922b09908a2b3bbc28f1650bfbadd4cdd7f43b1375b2b6ad000863c24a294fa",
+      "version": 1
+    },
+    {
+      "archive": "packs/doodle-monsters-1.zip",
+      "bundled": false,
+      "bytes": 13779558,
+      "description": "Wild street-art monsters drawn in neon marker and spray paint.",
+      "family": "monster",
+      "id": "doodle-monsters",
+      "localizations": {
+        "ar": {
+          "description": "وحوش جامحة من فن الشارع مرسومة بأقلام النيون وطلاء الرذاذ.",
+          "name": "وحوش الشخبطة"
+        },
+        "bn": {
+          "description": "নিয়ন মার্কার আর স্প্রে রঙে আঁকা দুরন্ত স্ট্রিট-আর্ট দানব।",
+          "name": "আঁকিবুঁকি দানব"
+        },
+        "cs": {
+          "description": "Divoké příšerky z pouličního umění, kreslené neonovou fixou a sprejem.",
+          "name": "Čmáranice příšerky"
+        },
+        "de": {
+          "description": "Wilde Street-Art-Monster, gemalt mit Neonmarker und Sprühfarbe.",
+          "name": "Kritzelmonster"
+        },
+        "es": {
+          "description": "Monstruos salvajes de arte urbano, dibujados con rotulador neón y espray.",
+          "name": "Monstruos garabato"
+        },
+        "fr": {
+          "description": "Des monstres de street art déjantés, dessinés au marqueur fluo et à la bombe.",
+          "name": "Monstres gribouillés"
+        },
+        "hi": {
+          "description": "नियॉन मार्कर और स्प्रे पेंट से बने बेबाक स्ट्रीट-आर्ट राक्षस।",
+          "name": "डूडल राक्षस"
+        },
+        "id": {
+          "description": "Monster seni jalanan yang liar, digambar dengan spidol neon dan cat semprot.",
+          "name": "Monster coretan"
+        },
+        "it": {
+          "description": "Mostri scatenati da street art, disegnati con pennarello neon e vernice spray.",
+          "name": "Mostri scarabocchio"
+        },
+        "ja": {
+          "description": "ネオンマーカーとスプレーで描かれた、ワイルドなストリートアートのモンスター。",
+          "name": "らくがきモンスター"
+        },
+        "ko": {
+          "description": "네온 마커와 스프레이로 그린 자유분방한 스트리트 아트 몬스터.",
+          "name": "낙서 몬스터"
+        },
+        "pl": {
+          "description": "Szalone potworki ze street artu, rysowane neonowym markerem i sprayem.",
+          "name": "Bazgrołowe potworki"
+        },
+        "pt": {
+          "description": "Monstros malucos de arte de rua, desenhados com marcador neon e tinta spray.",
+          "name": "Monstros rabisco"
+        },
+        "ru": {
+          "description": "Дикие монстры стрит-арта, нарисованные неоновым маркером и баллончиком.",
+          "name": "Монстры-каракули"
+        },
+        "tr": {
+          "description": "Neon kalem ve sprey boyayla çizilmiş çılgın sokak sanatı canavarları.",
+          "name": "Karalama canavarlar"
+        },
+        "vi": {
+          "description": "Những quái vật nghệ thuật đường phố hoang dại, vẽ bằng bút neon và sơn xịt.",
+          "name": "Quái vật vẽ nguệch ngoạc"
+        },
+        "zh": {
+          "description": "用霓虹马克笔和喷漆画出的狂野街头艺术怪兽。",
+          "name": "涂鸦怪兽"
+        }
+      },
+      "name": "Doodle monsters",
+      "preview": "previews/doodle-monsters.webp",
+      "previewBytes": 37254,
+      "previewSha256": "0f375de8c5990b0c71a38603eb5c6b01310d8b307d84dcbd4e8f842cb1dc84c5",
+      "sha256": "20291b03fe016e5508d2907e74d9e7103ce76e1c7a3673f54d484049ef3bf92f",
+      "version": 1
+    },
+    {
+      "archive": "packs/elemental-sorceresses-1.zip",
+      "bundled": false,
+      "bytes": 18894436,
+      "description": "Four sorceresses of fire, ice, earth and storm.",
+      "family": "fantasy",
+      "id": "elemental-sorceresses",
+      "localizations": {
+        "ar": {
+          "description": "أربع ساحرات للنار والجليد والأرض والعاصفة.",
+          "name": "ساحرات العناصر"
+        },
+        "bn": {
+          "description": "আগুন, বরফ, মাটি আর ঝড়ের চার জাদুকরী।",
+          "name": "প্রকৃতি-শক্তির জাদুকরী"
+        },
+        "cs": {
+          "description": "Čtyři čarodějky ohně, ledu, země a bouře.",
+          "name": "Živelné čarodějky"
+        },
+        "de": {
+          "description": "Vier Zauberinnen aus Feuer, Eis, Erde und Sturm.",
+          "name": "Elementarzauberinnen"
+        },
+        "es": {
+          "description": "Cuatro hechiceras del fuego, el hielo, la tierra y la tormenta.",
+          "name": "Hechiceras elementales"
+        },
+        "fr": {
+          "description": "Quatre sorcières du feu, de la glace, de la terre et de la tempête.",
+          "name": "Sorcières des éléments"
+        },
+        "hi": {
+          "description": "आग, बर्फ़, धरती और तूफ़ान की चार जादूगरनियाँ।",
+          "name": "तत्वों की जादूगरनियाँ"
+        },
+        "id": {
+          "description": "Empat penyihir api, es, tanah, dan badai.",
+          "name": "Penyihir elemen"
+        },
+        "it": {
+          "description": "Quattro maghe del fuoco, del ghiaccio, della terra e della tempesta.",
+          "name": "Maghe degli elementi"
+        },
+        "ja": {
+          "description": "炎、氷、大地、嵐をあやつる4人の魔女。",
+          "name": "精霊の魔女たち"
+        },
+        "ko": {
+          "description": "불, 얼음, 대지, 폭풍을 다루는 네 마법사.",
+          "name": "원소의 마법사들"
+        },
+        "pl": {
+          "description": "Cztery czarodziejki ognia, lodu, ziemi i burzy.",
+          "name": "Czarodziejki żywiołów"
+        },
+        "pt": {
+          "description": "Quatro feiticeiras do fogo, do gelo, da terra e da tempestade.",
+          "name": "Feiticeiras elementais"
+        },
+        "ru": {
+          "description": "Четыре волшебницы огня, льда, земли и бури.",
+          "name": "Волшебницы стихий"
+        },
+        "tr": {
+          "description": "Ateş, buz, toprak ve fırtınanın dört büyücüsü.",
+          "name": "Element büyücüleri"
+        },
+        "vi": {
+          "description": "Bốn nữ pháp sư của lửa, băng, đất và bão.",
+          "name": "Nữ pháp sư nguyên tố"
+        },
+        "zh": {
+          "description": "掌管火、冰、大地与风暴的四位女术士。",
+          "name": "元素女术士"
+        }
+      },
+      "name": "Elemental sorceresses",
+      "preview": "previews/elemental-sorceresses.webp",
+      "previewBytes": 52862,
+      "previewSha256": "77a0a15070e38e775ed1ae00c71321d9e5eec6eb5bb192f415582ea09bd6114a",
+      "sha256": "e3d5df6c7978eddf5968b36109445b191a2425d1fa9439e36bf118f8d8a26b06",
+      "version": 1
     },
     {
       "archive": "packs/fantasy-2.zip",
@@ -799,6 +1726,90 @@
       "version": 4
     },
     {
+      "archive": "packs/gummy-monsters-1.zip",
+      "bundled": false,
+      "bytes": 15425914,
+      "description": "Wobbly jelly-candy monsters that glow when the light shines through.",
+      "family": "monster",
+      "id": "gummy-monsters",
+      "localizations": {
+        "ar": {
+          "description": "وحوش من حلوى الهلام المترجرجة تتوهّج حين يمرّ الضوء عبرها.",
+          "name": "وحوش الهلام"
+        },
+        "bn": {
+          "description": "নড়বড়ে জেলি-ক্যান্ডির দানব, আলো পড়লে ভেতর থেকে জ্বলে ওঠে।",
+          "name": "জেলি দানব"
+        },
+        "cs": {
+          "description": "Vratké želé příšerky, které zazáří, když jimi prosvítá světlo.",
+          "name": "Gumové příšerky"
+        },
+        "de": {
+          "description": "Wackelige Fruchtgummi-Monster, die leuchten, wenn Licht hindurchscheint.",
+          "name": "Gummimonster"
+        },
+        "es": {
+          "description": "Monstruos temblorosos de gominola que brillan cuando la luz los atraviesa.",
+          "name": "Monstruos de gominola"
+        },
+        "fr": {
+          "description": "Des monstres en bonbon gélifié qui tremblotent et brillent quand la lumière les traverse.",
+          "name": "Monstres en gélifié"
+        },
+        "hi": {
+          "description": "हिलते-डुलते जेली-कैंडी राक्षस, जो रोशनी पड़ते ही चमक उठते हैं।",
+          "name": "जेली राक्षस"
+        },
+        "id": {
+          "description": "Monster permen jeli yang goyang-goyang dan berpendar saat cahaya menembusnya.",
+          "name": "Monster jeli"
+        },
+        "it": {
+          "description": "Mostri di caramella gommosa traballanti che brillano quando la luce li attraversa.",
+          "name": "Mostri gommosi"
+        },
+        "ja": {
+          "description": "光が透けるとキラッと輝く、ぷるぷるのグミモンスター。",
+          "name": "グミモンスター"
+        },
+        "ko": {
+          "description": "빛이 비치면 반짝이는 말랑말랑 젤리 사탕 몬스터.",
+          "name": "젤리 몬스터"
+        },
+        "pl": {
+          "description": "Trzęsące się żelkowe potworki, które świecą, gdy przechodzi przez nie światło.",
+          "name": "Żelkowe potworki"
+        },
+        "pt": {
+          "description": "Monstros de bala de goma molengas que brilham quando a luz os atravessa.",
+          "name": "Monstros de goma"
+        },
+        "ru": {
+          "description": "Дрожащие мармеладные монстры, которые светятся, когда сквозь них проходит свет.",
+          "name": "Мармеладные монстры"
+        },
+        "tr": {
+          "description": "Işık içinden geçince parlayan, salınan jelibon canavarlar.",
+          "name": "Jelibon canavarlar"
+        },
+        "vi": {
+          "description": "Những quái vật kẹo dẻo rung rinh, phát sáng khi ánh sáng xuyên qua.",
+          "name": "Quái vật kẹo dẻo"
+        },
+        "zh": {
+          "description": "Q弹的软糖怪兽，被光一照就会发亮。",
+          "name": "软糖怪兽"
+        }
+      },
+      "name": "Gummy monsters",
+      "preview": "previews/gummy-monsters.webp",
+      "previewBytes": 41224,
+      "previewSha256": "51b35d603cbdff19fc7d37175d376a418d0b277ccf5ab065965808dcfedf03dd",
+      "sha256": "2803e1a84853b7a320e3ced7291e8200b3bd58ad79b0f2072bfa65d12e34793b",
+      "version": 1
+    },
+    {
       "archive": "packs/human-3.zip",
       "bundled": false,
       "bytes": 13766616,
@@ -903,6 +1914,90 @@
       "version": 4
     },
     {
+      "archive": "packs/mythic-men-1.zip",
+      "bundled": false,
+      "bytes": 19883127,
+      "description": "A faun, a merman, a dragon-kin and a tree spirit.",
+      "family": "fantasy",
+      "id": "mythic-men",
+      "localizations": {
+        "ar": {
+          "description": "فون، وحورية بحر ذكر، وسليل تنين، وروح شجرة.",
+          "name": "كائنات أسطورية"
+        },
+        "bn": {
+          "description": "এক ফন, এক জলমানব, এক ড্রাগন-বংশী আর এক বৃক্ষ-আত্মা।",
+          "name": "পৌরাণিক সংকর"
+        },
+        "cs": {
+          "description": "Faun, mořský muž, dračí potomek a duch stromu.",
+          "name": "Mýtičtí kříženci"
+        },
+        "de": {
+          "description": "Ein Faun, ein Meermann, ein Drachenblütiger und ein Baumgeist.",
+          "name": "Mythische Mischwesen"
+        },
+        "es": {
+          "description": "Un fauno, un tritón, un descendiente de dragón y un espíritu del bosque.",
+          "name": "Híbridos míticos"
+        },
+        "fr": {
+          "description": "Un faune, un triton, un enfant des dragons et un esprit des arbres.",
+          "name": "Hybrides mythiques"
+        },
+        "hi": {
+          "description": "एक फ़ॉन, एक जलपुरुष, एक ड्रैगन-वंशी और एक वृक्ष-आत्मा।",
+          "name": "पौराणिक संकर"
+        },
+        "id": {
+          "description": "Seorang faun, manusia duyung, keturunan naga, dan roh pohon.",
+          "name": "Hibrida mitos"
+        },
+        "it": {
+          "description": "Un fauno, un tritone, un discendente dei draghi e uno spirito degli alberi.",
+          "name": "Ibridi mitici"
+        },
+        "ja": {
+          "description": "フォーン、マーマン、竜の血を引く者、そして木の精霊。",
+          "name": "神話のハイブリッド"
+        },
+        "ko": {
+          "description": "파우누스, 인어 남자, 용의 혈족, 그리고 나무 정령.",
+          "name": "신화 속 혼혈족"
+        },
+        "pl": {
+          "description": "Faun, tryton, potomek smoków i duch drzewa.",
+          "name": "Mityczne hybrydy"
+        },
+        "pt": {
+          "description": "Um fauno, um tritão, um descendente de dragão e um espírito da árvore.",
+          "name": "Híbridos míticos"
+        },
+        "ru": {
+          "description": "Фавн, водяной, потомок драконов и дух дерева.",
+          "name": "Мифические гибриды"
+        },
+        "tr": {
+          "description": "Bir faun, bir deniz adamı, bir ejder soylu ve bir ağaç ruhu.",
+          "name": "Mitolojik melezler"
+        },
+        "vi": {
+          "description": "Một thần đồng áng, một người cá, một hậu duệ rồng và một linh hồn cây.",
+          "name": "Sinh vật lai thần thoại"
+        },
+        "zh": {
+          "description": "一位羊人、一位人鱼、一位龙裔和一位树灵。",
+          "name": "神话混血族"
+        }
+      },
+      "name": "Mythic hybrids",
+      "preview": "previews/mythic-men.webp",
+      "previewBytes": 53098,
+      "previewSha256": "9be49c3b93ecff428e517414f49511ec1aa4d2eb72c271665c2a2b247d5b5cae",
+      "sha256": "6d64797176ea8b13d9094a40f77d8e87b61ad3897e4c5735e8712f88c2c3da9a",
+      "version": 1
+    },
+    {
       "archive": "packs/oil-4.zip",
       "bundled": false,
       "bytes": 17532292,
@@ -943,6 +2038,90 @@
       "version": 4
     },
     {
+      "archive": "packs/pet-animals-1.zip",
+      "bundled": false,
+      "bytes": 13989948,
+      "description": "A corgi, a tabby cat, a hamster and a cockatiel.",
+      "family": "animal",
+      "id": "pet-animals",
+      "localizations": {
+        "ar": {
+          "description": "كلب كورجي وقطة مخططة وهامستر وببغاء كوكتيل.",
+          "name": "رفاق أليفون"
+        },
+        "bn": {
+          "description": "একটি কর্গি, একটি ডোরাকাটা বিড়াল, একটি হ্যামস্টার আর একটি ককাটিয়েল।",
+          "name": "পোষা সাথিরা"
+        },
+        "cs": {
+          "description": "Korgi, mourovatá kočka, křeček a korela.",
+          "name": "Mazlíčci"
+        },
+        "de": {
+          "description": "Ein Corgi, eine getigerte Katze, ein Hamster und ein Nymphensittich.",
+          "name": "Haustierfreunde"
+        },
+        "es": {
+          "description": "Un corgi, un gato atigrado, un hámster y una cacatúa ninfa.",
+          "name": "Amigos mascota"
+        },
+        "fr": {
+          "description": "Un corgi, un chat tigré, un hamster et une perruche calopsitte.",
+          "name": "Copains de compagnie"
+        },
+        "hi": {
+          "description": "एक कॉर्गी, एक धारीदार बिल्ली, एक हैम्स्टर और एक कॉकटील।",
+          "name": "पालतू साथी"
+        },
+        "id": {
+          "description": "Seekor corgi, kucing belang, hamster, dan burung parkit falk.",
+          "name": "Sahabat peliharaan"
+        },
+        "it": {
+          "description": "Un corgi, un gatto tigrato, un criceto e una calopsite.",
+          "name": "Amici a quattro zampe"
+        },
+        "ja": {
+          "description": "コーギー、トラ猫、ハムスター、オカメインコ。",
+          "name": "ペットのなかま"
+        },
+        "ko": {
+          "description": "코기, 고등어 무늬 고양이, 햄스터, 그리고 왕관앵무.",
+          "name": "반려동물 친구들"
+        },
+        "pl": {
+          "description": "Corgi, pręgowany kot, chomik i nimfa.",
+          "name": "Domowi pupile"
+        },
+        "pt": {
+          "description": "Um corgi, um gato malhado, um hamster e uma calopsita.",
+          "name": "Amigos de estimação"
+        },
+        "ru": {
+          "description": "Корги, полосатый кот, хомяк и корелла.",
+          "name": "Домашние любимцы"
+        },
+        "tr": {
+          "description": "Bir corgi, bir tekir kedi, bir hamster ve bir sultan papağanı.",
+          "name": "Evcil dostlar"
+        },
+        "vi": {
+          "description": "Một chú chó corgi, một mèo mướp, một chuột hamster và một vẹt mào.",
+          "name": "Bạn thú cưng"
+        },
+        "zh": {
+          "description": "一只柯基、一只虎斑猫、一只仓鼠和一只玄凤鹦鹉。",
+          "name": "萌宠伙伴"
+        }
+      },
+      "name": "Pet pals",
+      "preview": "previews/pet-animals.webp",
+      "previewBytes": 37382,
+      "previewSha256": "86247f7678735d1febcd00c0df2a61eb781a08b2ecc7874964e7260d0cd41ad2",
+      "sha256": "5c3f2fcec5c3e66995ead5d43392179196bac5027a0ce19a318b597d4826de05",
+      "version": 1
+    },
+    {
       "archive": "packs/pixel-4.zip",
       "bundled": false,
       "bytes": 10647895,
@@ -961,6 +2140,258 @@
       "previewSha256": "d8a276b9997eee869728913427d4196d1ffeea9abe394f2c248ff49414c09bc0",
       "sha256": "ff977755189ecfc81a9fde33e533ac73a2069e105ac6c7d3e6d0d3b9c03aa18b",
       "version": 4
+    },
+    {
+      "archive": "packs/polar-animals-1.zip",
+      "bundled": false,
+      "bytes": 13557191,
+      "description": "A polar bear, a penguin, a walrus and a snowy owl.",
+      "family": "animal",
+      "id": "polar-animals",
+      "localizations": {
+        "ar": {
+          "description": "دب قطبي وبطريق وفظّ وبومة ثلجية.",
+          "name": "رفاق القطب"
+        },
+        "bn": {
+          "description": "একটি মেরু ভালুক, একটি পেঙ্গুইন, একটি সিন্ধুঘোটক আর একটি তুষার পেঁচা।",
+          "name": "মেরুর সাথিরা"
+        },
+        "cs": {
+          "description": "Lední medvěd, tučňák, mrož a sněžná sova.",
+          "name": "Polární kamarádi"
+        },
+        "de": {
+          "description": "Ein Eisbär, ein Pinguin, ein Walross und eine Schneeeule.",
+          "name": "Polarfreunde"
+        },
+        "es": {
+          "description": "Un oso polar, un pingüino, una morsa y un búho nival.",
+          "name": "Amigos polares"
+        },
+        "fr": {
+          "description": "Un ours polaire, un manchot, un morse et une chouette harfang.",
+          "name": "Copains polaires"
+        },
+        "hi": {
+          "description": "एक ध्रुवीय भालू, एक पेंगुइन, एक वालरस और एक बर्फ़ीला उल्लू।",
+          "name": "ध्रुवीय साथी"
+        },
+        "id": {
+          "description": "Seekor beruang kutub, penguin, walrus, dan burung hantu salju.",
+          "name": "Sahabat kutub"
+        },
+        "it": {
+          "description": "Un orso polare, un pinguino, un tricheco e una civetta delle nevi.",
+          "name": "Amici polari"
+        },
+        "ja": {
+          "description": "ホッキョクグマ、ペンギン、セイウチ、シロフクロウ。",
+          "name": "極地のなかま"
+        },
+        "ko": {
+          "description": "북극곰, 펭귄, 바다코끼리, 그리고 흰올빼미.",
+          "name": "극지방 친구들"
+        },
+        "pl": {
+          "description": "Niedźwiedź polarny, pingwin, mors i sowa śnieżna.",
+          "name": "Polarni kumple"
+        },
+        "pt": {
+          "description": "Um urso-polar, um pinguim, uma morsa e uma coruja-das-neves.",
+          "name": "Amigos polares"
+        },
+        "ru": {
+          "description": "Белый медведь, пингвин, морж и полярная сова.",
+          "name": "Полярные друзья"
+        },
+        "tr": {
+          "description": "Bir kutup ayısı, bir penguen, bir mors ve bir kar baykuşu.",
+          "name": "Kutup dostları"
+        },
+        "vi": {
+          "description": "Một gấu Bắc Cực, một chim cánh cụt, một hải mã và một cú tuyết.",
+          "name": "Bạn bè vùng cực"
+        },
+        "zh": {
+          "description": "一只北极熊、一只企鹅、一头海象和一只雪鸮。",
+          "name": "极地伙伴"
+        }
+      },
+      "name": "Polar pals",
+      "preview": "previews/polar-animals.webp",
+      "previewBytes": 37688,
+      "previewSha256": "734bd46dcd94794848394d2914fc572afaffd01b503194289ffeeb375ad1e243",
+      "sha256": "bfe049650f643332f53faab5f0a9c97e832baecff8ffc25f66b9a5727d9cd33f",
+      "version": 1
+    },
+    {
+      "archive": "packs/pulp-heroes-1.zip",
+      "bundled": false,
+      "bytes": 21491298,
+      "description": "Retro 1950s comic-book heroes in halftone print.",
+      "family": "superhero",
+      "id": "pulp-heroes",
+      "localizations": {
+        "ar": {
+          "description": "أبطال كوميكس من خمسينيات القرن الماضي بطباعة النقاط القديمة.",
+          "name": "أبطال الكوميكس القديمة"
+        },
+        "bn": {
+          "description": "হাফটোন ছাপায় ১৯৫০-এর দশকের রেট্রো কমিকসের নায়ক।",
+          "name": "পাল্প নায়ক"
+        },
+        "cs": {
+          "description": "Retro komiksoví hrdinové z 50. let v rastrovém tisku.",
+          "name": "Pulpoví hrdinové"
+        },
+        "de": {
+          "description": "Retro-Comichelden der 1950er im Rasterdruck.",
+          "name": "Pulp-Helden"
+        },
+        "es": {
+          "description": "Héroes de cómic retro de los años 50 en impresión de semitonos.",
+          "name": "Héroes pulp"
+        },
+        "fr": {
+          "description": "Des héros de BD rétro des années 1950, en impression à trame.",
+          "name": "Héros pulp"
+        },
+        "hi": {
+          "description": "हाफ़टोन छपाई में 1950 के दशक के रेट्रो कॉमिक नायक।",
+          "name": "पल्प नायक"
+        },
+        "id": {
+          "description": "Pahlawan komik retro era 1950-an dalam cetakan halftone.",
+          "name": "Pahlawan pulp"
+        },
+        "it": {
+          "description": "Eroi dei fumetti retrò anni '50 in stampa a retino.",
+          "name": "Eroi pulp"
+        },
+        "ja": {
+          "description": "網点印刷で描かれた、1950年代のレトロなコミックヒーロー。",
+          "name": "パルプヒーロー"
+        },
+        "ko": {
+          "description": "망점 인쇄로 그린 1950년대 레트로 만화 영웅.",
+          "name": "펄프 히어로"
+        },
+        "pl": {
+          "description": "Retro bohaterowie komiksów z lat 50. w druku rastrowym.",
+          "name": "Pulpowi bohaterowie"
+        },
+        "pt": {
+          "description": "Heróis de quadrinhos retrô dos anos 1950 em impressão de meio-tom.",
+          "name": "Heróis pulp"
+        },
+        "ru": {
+          "description": "Ретро-герои комиксов 1950-х в растровой печати.",
+          "name": "Пальп-герои"
+        },
+        "tr": {
+          "description": "Yarım ton baskılı, 1950'lerin retro çizgi roman kahramanları.",
+          "name": "Pulp kahramanlar"
+        },
+        "vi": {
+          "description": "Anh hùng truyện tranh cổ điển thập niên 1950 in chấm lưới.",
+          "name": "Anh hùng truyện pulp"
+        },
+        "zh": {
+          "description": "网点印刷风格的1950年代复古漫画英雄。",
+          "name": "复古漫画英雄"
+        }
+      },
+      "name": "Pulp heroes",
+      "preview": "previews/pulp-heroes.webp",
+      "previewBytes": 57054,
+      "previewSha256": "3e58553083a53e40c723e7d9229e78ef78b9714454899c201af229632cfa4b9b",
+      "sha256": "2a9b7d79203c61a4c1edf51e312dec97483952e29caa6bc7a4676f2f59219ae0",
+      "version": 1
+    },
+    {
+      "archive": "packs/retro-aliens-1.zip",
+      "bundled": false,
+      "bytes": 12945498,
+      "description": "Bubble-helmeted aliens from a 1950s space poster.",
+      "family": "alien",
+      "id": "retro-aliens",
+      "localizations": {
+        "ar": {
+          "description": "كائنات فضائية بخوذات فقاعية من ملصق فضائي من الخمسينيات.",
+          "name": "زوّار عصر الفضاء"
+        },
+        "bn": {
+          "description": "১৯৫০-এর দশকের মহাকাশ পোস্টার থেকে বুদবুদ-হেলমেট পরা এলিয়েন।",
+          "name": "মহাকাশ যুগের অতিথি"
+        },
+        "cs": {
+          "description": "Mimozemšťané v bublinových helmách z vesmírného plakátu 50. let.",
+          "name": "Návštěvníci z vesmírného věku"
+        },
+        "de": {
+          "description": "Aliens mit Blasenhelmen von einem Weltraumplakat der 1950er.",
+          "name": "Besucher aus dem Weltraumzeitalter"
+        },
+        "es": {
+          "description": "Alienígenas con casco de burbuja salidos de un cartel espacial de los años 50.",
+          "name": "Visitantes de la era espacial"
+        },
+        "fr": {
+          "description": "Des extraterrestres à casque-bulle sortis d'une affiche spatiale des années 1950.",
+          "name": "Visiteurs de l'ère spatiale"
+        },
+        "hi": {
+          "description": "1950 के दशक के अंतरिक्ष पोस्टर से बुलबुला-हेलमेट वाले एलियन।",
+          "name": "अंतरिक्ष युग के मेहमान"
+        },
+        "id": {
+          "description": "Alien berhelm gelembung dari poster antariksa tahun 1950-an.",
+          "name": "Pengunjung era antariksa"
+        },
+        "it": {
+          "description": "Alieni con casco a bolla da un poster spaziale degli anni '50.",
+          "name": "Visitatori dell'era spaziale"
+        },
+        "ja": {
+          "description": "1950年代の宇宙ポスターから飛び出した、バブルヘルメットの宇宙人。",
+          "name": "スペースエイジの訪問者"
+        },
+        "ko": {
+          "description": "1950년대 우주 포스터에서 나온 버블 헬멧 외계인.",
+          "name": "우주 시대의 방문자"
+        },
+        "pl": {
+          "description": "Kosmici w bąbelkowych hełmach z kosmicznego plakatu z lat 50.",
+          "name": "Goście z ery kosmicznej"
+        },
+        "pt": {
+          "description": "Alienígenas de capacete-bolha saídos de um pôster espacial dos anos 1950.",
+          "name": "Visitantes da era espacial"
+        },
+        "ru": {
+          "description": "Пришельцы в шлемах-пузырях с космического плаката 1950-х.",
+          "name": "Гости космической эры"
+        },
+        "tr": {
+          "description": "1950'lerin uzay afişinden çıkmış baloncuk kasklı uzaylılar.",
+          "name": "Uzay çağı ziyaretçileri"
+        },
+        "vi": {
+          "description": "Người ngoài hành tinh đội mũ bong bóng bước ra từ áp phích vũ trụ thập niên 1950.",
+          "name": "Vị khách thời đại vũ trụ"
+        },
+        "zh": {
+          "description": "从1950年代太空海报里走出来、戴着泡泡头盔的外星人。",
+          "name": "太空时代访客"
+        }
+      },
+      "name": "Space-age visitors",
+      "preview": "previews/retro-aliens.webp",
+      "previewBytes": 34868,
+      "previewSha256": "f55a026e5055e53fb665ee53ec334360346a8fbd2d966e51e9849d8703441cbf",
+      "sha256": "bd1041aef1849810d7c9b635505efcd6fde61e85a9ca8807d293a91fa8fd8110",
+      "version": 1
     },
     {
       "archive": "packs/robot-2.zip",
@@ -1045,6 +2476,510 @@
       "previewSha256": "e3503d56f7b0521ec936db8adf74bc4e8c9283f92ef5d573604ddb2c7a3587b3",
       "sha256": "ca1ecace2fc1391e4d140032eb6d7da9ddafdcf7c652f29d7928698fe673739c",
       "version": 2
+    },
+    {
+      "archive": "packs/savanna-animals-1.zip",
+      "bundled": false,
+      "bytes": 14271392,
+      "description": "An elephant, a giraffe, a zebra and a hippo.",
+      "family": "animal",
+      "id": "savanna-animals",
+      "localizations": {
+        "ar": {
+          "description": "فيل وزرافة وحمار وحشي وفرس نهر.",
+          "name": "أصدقاء السافانا"
+        },
+        "bn": {
+          "description": "একটি হাতি, একটি জিরাফ, একটি জেব্রা আর একটি জলহস্তী।",
+          "name": "সাভানার বন্ধুরা"
+        },
+        "cs": {
+          "description": "Slon, žirafa, zebra a hroch.",
+          "name": "Kamarádi ze savany"
+        },
+        "de": {
+          "description": "Ein Elefant, eine Giraffe, ein Zebra und ein Nilpferd.",
+          "name": "Savannenfreunde"
+        },
+        "es": {
+          "description": "Un elefante, una jirafa, una cebra y un hipopótamo.",
+          "name": "Amigos de la sabana"
+        },
+        "fr": {
+          "description": "Un éléphant, une girafe, un zèbre et un hippopotame.",
+          "name": "Amis de la savane"
+        },
+        "hi": {
+          "description": "एक हाथी, एक जिराफ़, एक ज़ेबरा और एक दरियाई घोड़ा।",
+          "name": "सवाना के दोस्त"
+        },
+        "id": {
+          "description": "Seekor gajah, jerapah, zebra, dan kuda nil.",
+          "name": "Teman sabana"
+        },
+        "it": {
+          "description": "Un elefante, una giraffa, una zebra e un ippopotamo.",
+          "name": "Amici della savana"
+        },
+        "ja": {
+          "description": "ゾウ、キリン、シマウマ、カバ。",
+          "name": "サバンナのなかま"
+        },
+        "ko": {
+          "description": "코끼리, 기린, 얼룩말, 그리고 하마.",
+          "name": "사바나 친구들"
+        },
+        "pl": {
+          "description": "Słoń, żyrafa, zebra i hipopotam.",
+          "name": "Przyjaciele z sawanny"
+        },
+        "pt": {
+          "description": "Um elefante, uma girafa, uma zebra e um hipopótamo.",
+          "name": "Amigos da savana"
+        },
+        "ru": {
+          "description": "Слон, жираф, зебра и бегемот.",
+          "name": "Друзья из саванны"
+        },
+        "tr": {
+          "description": "Bir fil, bir zürafa, bir zebra ve bir su aygırı.",
+          "name": "Savan dostları"
+        },
+        "vi": {
+          "description": "Một chú voi, một hươu cao cổ, một ngựa vằn và một hà mã.",
+          "name": "Những người bạn thảo nguyên"
+        },
+        "zh": {
+          "description": "一头大象、一只长颈鹿、一匹斑马和一只河马。",
+          "name": "草原伙伴"
+        }
+      },
+      "name": "Savanna friends",
+      "preview": "previews/savanna-animals.webp",
+      "previewBytes": 41636,
+      "previewSha256": "1b2717ae7d20512aed898b8b8d3c6fc5e429254f5ac5080260fd9f9dcb2afe0f",
+      "sha256": "48e8ca6f797025899ae9621938ce6e63d76767714cae2aa946b9eee978eb1223",
+      "version": 1
+    },
+    {
+      "archive": "packs/snow-monsters-1.zip",
+      "bundled": false,
+      "bytes": 16746053,
+      "description": "Shaggy, frosty mountain beasts with icicle horns and warm hearts.",
+      "family": "monster",
+      "id": "snow-monsters",
+      "localizations": {
+        "ar": {
+          "description": "وحوش جبلية كثيفة الفراء مكسوّة بالصقيع، بقرون من الجليد وقلوب دافئة.",
+          "name": "وحوش الثلج"
+        },
+        "bn": {
+          "description": "বরফের শিং আর উষ্ণ হৃদয়ের লোমশ, তুষারঢাকা পাহাড়ি দানব।",
+          "name": "তুষার দানব"
+        },
+        "cs": {
+          "description": "Huňaté, ojíněné horské bestie s rohy z rampouchů a hřejivým srdcem.",
+          "name": "Sněžné bestie"
+        },
+        "de": {
+          "description": "Zottelige, bereifte Bergbestien mit Eiszapfenhörnern und warmem Herzen.",
+          "name": "Schneebestien"
+        },
+        "es": {
+          "description": "Bestias de montaña peludas y escarchadas, con cuernos de carámbano y corazón cálido.",
+          "name": "Bestias de nieve"
+        },
+        "fr": {
+          "description": "Des bêtes des montagnes hirsutes et givrées, aux cornes de glaçons et au cœur tendre.",
+          "name": "Bêtes des neiges"
+        },
+        "hi": {
+          "description": "बर्फ़ीले सींगों और गर्म दिल वाले झबरीले, पाले से ढके पहाड़ी दानव।",
+          "name": "हिम दानव"
+        },
+        "id": {
+          "description": "Makhluk gunung berbulu lebat dan bersalju, bertanduk es, berhati hangat.",
+          "name": "Makhluk salju"
+        },
+        "it": {
+          "description": "Bestie di montagna arruffate e brinate, con corna di ghiaccioli e un cuore caldo.",
+          "name": "Bestie delle nevi"
+        },
+        "ja": {
+          "description": "つららの角とあたたかい心をもつ、もふもふで霜だらけの山のけもの。",
+          "name": "雪のけものたち"
+        },
+        "ko": {
+          "description": "고드름 뿔과 따뜻한 마음을 지닌, 서리 내린 털복숭이 산의 야수.",
+          "name": "눈의 야수들"
+        },
+        "pl": {
+          "description": "Kudłate, oszronione górskie bestie z soplowymi rogami i ciepłym sercem.",
+          "name": "Śnieżne bestie"
+        },
+        "pt": {
+          "description": "Feras da montanha peludas e geladas, com chifres de pingente de gelo e coração quente.",
+          "name": "Feras da neve"
+        },
+        "ru": {
+          "description": "Лохматые заиндевевшие горные чудища с рогами-сосульками и тёплым сердцем.",
+          "name": "Снежные чудища"
+        },
+        "tr": {
+          "description": "Buz saçağı boynuzlu, sıcak kalpli, kabarık tüylü ve kırağılı dağ canavarları.",
+          "name": "Kar canavarları"
+        },
+        "vi": {
+          "description": "Quái thú núi lông xù phủ sương giá, sừng băng và trái tim ấm áp.",
+          "name": "Quái thú tuyết"
+        },
+        "zh": {
+          "description": "长满冰霜、头顶冰凌角、心地温暖的毛茸茸雪山巨兽。",
+          "name": "雪地巨兽"
+        }
+      },
+      "name": "Snow beasts",
+      "preview": "previews/snow-monsters.webp",
+      "previewBytes": 39696,
+      "previewSha256": "bceab909294e8a18eefc7cdf46c3c1f01d79a69f4679b67d2d47275b38e59491",
+      "sha256": "4a69ed6635902508acbe0d92120d1d009d55a5294b4508a575e2f0a9e0214923",
+      "version": 1
+    },
+    {
+      "archive": "packs/storybook-witches-1.zip",
+      "bundled": false,
+      "bytes": 16793425,
+      "description": "Cosy cottage witches painted in storybook gouache.",
+      "family": "fantasy",
+      "id": "storybook-witches",
+      "localizations": {
+        "ar": {
+          "description": "ساحرات أكواخ دافئات مرسومات بألوان الغواش كما في كتب الحكايات.",
+          "name": "ساحرات الحكايات"
+        },
+        "bn": {
+          "description": "রূপকথার বইয়ের গোয়াশ রঙে আঁকা কুটিরের আরামদায়ক ডাইনিরা।",
+          "name": "রূপকথার ডাইনি"
+        },
+        "cs": {
+          "description": "Útulné chaloupkové čarodějnice malované pohádkovým kvašem.",
+          "name": "Pohádkové čarodějnice"
+        },
+        "de": {
+          "description": "Gemütliche Hüttenhexen, in Märchenbuch-Gouache gemalt.",
+          "name": "Märchenhexen"
+        },
+        "es": {
+          "description": "Acogedoras brujas de cabaña pintadas en gouache de libro de cuentos.",
+          "name": "Brujas de cuento"
+        },
+        "fr": {
+          "description": "De douces sorcières de chaumière, peintes à la gouache comme dans un livre de contes.",
+          "name": "Sorcières de conte"
+        },
+        "hi": {
+          "description": "कहानी की किताबों जैसे गुआश रंगों में बनी, झोपड़ी वाली प्यारी चुड़ैलें।",
+          "name": "कहानियों की चुड़ैलें"
+        },
+        "id": {
+          "description": "Penyihir pondok yang nyaman, dilukis dengan guas ala buku dongeng.",
+          "name": "Penyihir dongeng"
+        },
+        "it": {
+          "description": "Accoglienti streghe di casetta dipinte a guazzo come in un libro di fiabe.",
+          "name": "Streghe da fiaba"
+        },
+        "ja": {
+          "description": "絵本のようなガッシュで描かれた、こぢんまりとした小屋の魔女たち。",
+          "name": "絵本の魔女たち"
+        },
+        "ko": {
+          "description": "동화책 과슈 물감으로 그린 아늑한 오두막 마녀들.",
+          "name": "동화 속 마녀들"
+        },
+        "pl": {
+          "description": "Przytulne chatkowe czarownice malowane bajkowym gwaszem.",
+          "name": "Bajkowe czarownice"
+        },
+        "pt": {
+          "description": "Bruxas aconchegantes de chalé, pintadas em guache de livro de histórias.",
+          "name": "Bruxas de conto"
+        },
+        "ru": {
+          "description": "Уютные ведьмочки из избушек, нарисованные сказочной гуашью.",
+          "name": "Сказочные ведьмочки"
+        },
+        "tr": {
+          "description": "Masal kitabı guaşıyla boyanmış, sıcacık kulübe cadıları.",
+          "name": "Masal cadıları"
+        },
+        "vi": {
+          "description": "Những phù thủy nhà tranh ấm cúng, vẽ bằng màu bột như sách truyện.",
+          "name": "Phù thủy truyện tranh"
+        },
+        "zh": {
+          "description": "用绘本水粉画出的温馨小屋女巫。",
+          "name": "绘本女巫"
+        }
+      },
+      "name": "Storybook witches",
+      "preview": "previews/storybook-witches.webp",
+      "previewBytes": 48576,
+      "previewSha256": "6adebcbc0d2163e24081c09b9fea27df8422132d46eb7a7dd288ad1865ca4ab6",
+      "sha256": "4952db60f599765febf698eeb7be093e08984189bf755d02076c40b9b69265d8",
+      "version": 1
+    },
+    {
+      "archive": "packs/street-heroines-1.zip",
+      "bundled": false,
+      "bytes": 15862464,
+      "description": "Neon-lit neighbourhood heroines in graphic-novel style.",
+      "family": "superhero",
+      "id": "street-heroines",
+      "localizations": {
+        "ar": {
+          "description": "بطلات الحيّ تحت أضواء النيون بأسلوب الروايات المصوّرة.",
+          "name": "بطلات الشارع"
+        },
+        "bn": {
+          "description": "গ্রাফিক নভেলের ঢঙে নিয়ন আলোয় পাড়ার নায়িকারা।",
+          "name": "রাস্তার নায়িকা"
+        },
+        "cs": {
+          "description": "Hrdinky ze sousedství v neonovém světle, ve stylu grafického románu.",
+          "name": "Pouliční hrdinky"
+        },
+        "de": {
+          "description": "Neonbeleuchtete Heldinnen aus der Nachbarschaft im Graphic-Novel-Stil.",
+          "name": "Straßenheldinnen"
+        },
+        "es": {
+          "description": "Heroínas de barrio bajo luces de neón, al estilo novela gráfica.",
+          "name": "Heroínas callejeras"
+        },
+        "fr": {
+          "description": "Des héroïnes de quartier sous les néons, façon roman graphique.",
+          "name": "Héroïnes de la rue"
+        },
+        "hi": {
+          "description": "ग्राफ़िक नॉवेल शैली में, नियॉन रोशनी में मोहल्ले की नायिकाएँ।",
+          "name": "गली की नायिकाएँ"
+        },
+        "id": {
+          "description": "Pahlawan wanita lingkungan bermandikan neon, bergaya novel grafis.",
+          "name": "Pahlawan wanita jalanan"
+        },
+        "it": {
+          "description": "Eroine di quartiere alla luce dei neon, in stile graphic novel.",
+          "name": "Eroine di strada"
+        },
+        "ja": {
+          "description": "グラフィックノベル風に描かれた、ネオンの街のヒロイン。",
+          "name": "ストリートヒロイン"
+        },
+        "ko": {
+          "description": "그래픽 노블 스타일로 그린, 네온 불빛 속 동네 히로인.",
+          "name": "거리의 히로인"
+        },
+        "pl": {
+          "description": "Bohaterki z sąsiedztwa w neonowym świetle, w stylu powieści graficznej.",
+          "name": "Uliczne bohaterki"
+        },
+        "pt": {
+          "description": "Heroínas do bairro sob luzes de neon, em estilo romance gráfico.",
+          "name": "Heroínas de rua"
+        },
+        "ru": {
+          "description": "Героини района в неоновом свете, в стиле графического романа.",
+          "name": "Уличные героини"
+        },
+        "tr": {
+          "description": "Çizgi roman tarzında, neon ışıklı mahalle kahramanları.",
+          "name": "Sokak kahramanları"
+        },
+        "vi": {
+          "description": "Những nữ anh hùng khu phố dưới ánh đèn neon, phong cách tiểu thuyết đồ họa.",
+          "name": "Nữ anh hùng đường phố"
+        },
+        "zh": {
+          "description": "图像小说风格、霓虹灯下的街区女英雄。",
+          "name": "街头女英雄"
+        }
+      },
+      "name": "Street heroines",
+      "preview": "previews/street-heroines.webp",
+      "previewBytes": 40368,
+      "previewSha256": "583d924886925e22fa14aa85839e95aab8e727af70103e5867e5a2d2deaa057b",
+      "sha256": "c4a25febcaf3776d1100fcb01691fed430a52e4e07cd360eda33154584ee54c5",
+      "version": 1
+    },
+    {
+      "archive": "packs/studio-men-1.zip",
+      "bundled": false,
+      "bytes": 13169413,
+      "description": "Photorealistic studio portraits of four very different men.",
+      "family": "photo",
+      "id": "studio-men",
+      "localizations": {
+        "ar": {
+          "description": "صور استوديو واقعية لأربعة رجال مختلفين تمامًا.",
+          "name": "رجال في الاستوديو"
+        },
+        "bn": {
+          "description": "চারজন একেবারে আলাদা পুরুষের বাস্তবধর্মী স্টুডিও প্রতিকৃতি।",
+          "name": "স্টুডিওতে পুরুষেরা"
+        },
+        "cs": {
+          "description": "Fotorealistické studiové portréty čtyř velmi odlišných mužů.",
+          "name": "Muži ve studiu"
+        },
+        "de": {
+          "description": "Fotorealistische Studioporträts von vier ganz verschiedenen Männern.",
+          "name": "Männer im Studio"
+        },
+        "es": {
+          "description": "Retratos de estudio fotorrealistas de cuatro hombres muy distintos.",
+          "name": "Hombres en el estudio"
+        },
+        "fr": {
+          "description": "Des portraits studio photoréalistes de quatre hommes très différents.",
+          "name": "Hommes en studio"
+        },
+        "hi": {
+          "description": "चार बिल्कुल अलग पुरुषों के फ़ोटो जैसे यथार्थ स्टूडियो पोर्ट्रेट।",
+          "name": "स्टूडियो में पुरुष"
+        },
+        "id": {
+          "description": "Potret studio fotorealistis empat pria yang sangat berbeda.",
+          "name": "Pria di studio"
+        },
+        "it": {
+          "description": "Ritratti in studio fotorealistici di quattro uomini molto diversi.",
+          "name": "Uomini in studio"
+        },
+        "ja": {
+          "description": "まったくタイプの違う4人の男性を写した、写真のようなスタジオポートレート。",
+          "name": "スタジオの男性たち"
+        },
+        "ko": {
+          "description": "서로 아주 다른 네 남성의 사실적인 스튜디오 인물 사진.",
+          "name": "스튜디오의 남성들"
+        },
+        "pl": {
+          "description": "Fotorealistyczne portrety studyjne czterech bardzo różnych mężczyzn.",
+          "name": "Mężczyźni w studiu"
+        },
+        "pt": {
+          "description": "Retratos de estúdio fotorrealistas de quatro homens muito diferentes.",
+          "name": "Homens no estúdio"
+        },
+        "ru": {
+          "description": "Фотореалистичные студийные портреты четырёх совсем разных мужчин.",
+          "name": "Мужчины в студии"
+        },
+        "tr": {
+          "description": "Birbirinden çok farklı dört erkeğin fotogerçekçi stüdyo portreleri.",
+          "name": "Stüdyoda erkekler"
+        },
+        "vi": {
+          "description": "Chân dung studio chân thực của bốn người đàn ông rất khác nhau.",
+          "name": "Đàn ông trong studio"
+        },
+        "zh": {
+          "description": "四位截然不同的男士的写实棚拍肖像。",
+          "name": "棚拍男士"
+        }
+      },
+      "name": "Men in the studio",
+      "preview": "previews/studio-men.webp",
+      "previewBytes": 37530,
+      "previewSha256": "9cee9a2ad8a8c398751fe854cedc3c3babe156b9edcbaaec9bc68777b30b6f45",
+      "sha256": "23ee79aae6ea438faadfaf2a94d26271f7366fedf2b710bbbfbebca7135e2eaf",
+      "version": 1
+    },
+    {
+      "archive": "packs/studio-women-1.zip",
+      "bundled": false,
+      "bytes": 14603086,
+      "description": "Photorealistic studio portraits of four very different women.",
+      "family": "photo",
+      "id": "studio-women",
+      "localizations": {
+        "ar": {
+          "description": "صور استوديو واقعية لأربع نساء مختلفات تمامًا.",
+          "name": "نساء في الاستوديو"
+        },
+        "bn": {
+          "description": "চারজন একেবারে আলাদা নারীর বাস্তবধর্মী স্টুডিও প্রতিকৃতি।",
+          "name": "স্টুডিওতে নারীরা"
+        },
+        "cs": {
+          "description": "Fotorealistické studiové portréty čtyř velmi odlišných žen.",
+          "name": "Ženy ve studiu"
+        },
+        "de": {
+          "description": "Fotorealistische Studioporträts von vier ganz verschiedenen Frauen.",
+          "name": "Frauen im Studio"
+        },
+        "es": {
+          "description": "Retratos de estudio fotorrealistas de cuatro mujeres muy distintas.",
+          "name": "Mujeres en el estudio"
+        },
+        "fr": {
+          "description": "Des portraits studio photoréalistes de quatre femmes très différentes.",
+          "name": "Femmes en studio"
+        },
+        "hi": {
+          "description": "चार बिल्कुल अलग महिलाओं के फ़ोटो जैसे यथार्थ स्टूडियो पोर्ट्रेट।",
+          "name": "स्टूडियो में महिलाएँ"
+        },
+        "id": {
+          "description": "Potret studio fotorealistis empat wanita yang sangat berbeda.",
+          "name": "Wanita di studio"
+        },
+        "it": {
+          "description": "Ritratti in studio fotorealistici di quattro donne molto diverse.",
+          "name": "Donne in studio"
+        },
+        "ja": {
+          "description": "まったくタイプの違う4人の女性を写した、写真のようなスタジオポートレート。",
+          "name": "スタジオの女性たち"
+        },
+        "ko": {
+          "description": "서로 아주 다른 네 여성의 사실적인 스튜디오 인물 사진.",
+          "name": "스튜디오의 여성들"
+        },
+        "pl": {
+          "description": "Fotorealistyczne portrety studyjne czterech bardzo różnych kobiet.",
+          "name": "Kobiety w studiu"
+        },
+        "pt": {
+          "description": "Retratos de estúdio fotorrealistas de quatro mulheres muito diferentes.",
+          "name": "Mulheres no estúdio"
+        },
+        "ru": {
+          "description": "Фотореалистичные студийные портреты четырёх совсем разных женщин.",
+          "name": "Женщины в студии"
+        },
+        "tr": {
+          "description": "Birbirinden çok farklı dört kadının fotogerçekçi stüdyo portreleri.",
+          "name": "Stüdyoda kadınlar"
+        },
+        "vi": {
+          "description": "Chân dung studio chân thực của bốn người phụ nữ rất khác nhau.",
+          "name": "Phụ nữ trong studio"
+        },
+        "zh": {
+          "description": "四位截然不同的女士的写实棚拍肖像。",
+          "name": "棚拍女士"
+        }
+      },
+      "name": "Women in the studio",
+      "preview": "previews/studio-women.webp",
+      "previewBytes": 28096,
+      "previewSha256": "0f3fe184fb1d14626a22e6f231516f52cb9f51e4e64c5b42fdaebba96697e31a",
+      "sha256": "a38c165cb336450150a70f1682f388e9f97ac9ef9907595207a2d6acf61e1dc1",
+      "version": 1
     },
     {
       "archive": "packs/sunnypop-3.zip",
@@ -1151,6 +3086,258 @@
       "version": 3
     },
     {
+      "archive": "packs/tavern-folk-1.zip",
+      "bundled": false,
+      "bytes": 16550055,
+      "description": "A cheerful orc cook, a goblin tinkerer, a troll bard and a gentle half-giant.",
+      "family": "fantasy",
+      "id": "tavern-folk",
+      "localizations": {
+        "ar": {
+          "description": "طاهٍ أوركي مرح، وغوبلن مخترع، وشاعر ترول، ونصف عملاق لطيف.",
+          "name": "أهل الحانة"
+        },
+        "bn": {
+          "description": "এক হাসিখুশি অর্ক রাঁধুনি, এক গবলিন কারিগর, এক ট্রল চারণকবি আর এক কোমল অর্ধ-দানব।",
+          "name": "সরাইখানার লোকজন"
+        },
+        "cs": {
+          "description": "Veselý skřetí kuchař, goblinský kutil, trolí bard a laskavý poloobr.",
+          "name": "Hospodská chasa"
+        },
+        "de": {
+          "description": "Ein fröhlicher Ork-Koch, ein Goblin-Tüftler, ein Troll-Barde und ein sanfter Halbriese.",
+          "name": "Tavernenvolk"
+        },
+        "es": {
+          "description": "Un alegre cocinero orco, un goblin inventor, un bardo trol y un amable semigigante.",
+          "name": "Gente de taberna"
+        },
+        "fr": {
+          "description": "Un joyeux cuisinier orc, un gobelin bricoleur, un barde troll et un doux demi-géant.",
+          "name": "Gens de taverne"
+        },
+        "hi": {
+          "description": "एक हँसमुख ऑर्क रसोइया, एक गोब्लिन कारीगर, एक ट्रोल गायक और एक कोमल अर्ध-दैत्य।",
+          "name": "सराय के लोग"
+        },
+        "id": {
+          "description": "Juru masak orc yang ceria, goblin tukang utak-atik, troll penyanyi, dan setengah raksasa yang lembut.",
+          "name": "Warga kedai"
+        },
+        "it": {
+          "description": "Un allegro cuoco orco, un goblin inventore, un bardo troll e un gentile mezzo gigante.",
+          "name": "Gente della locanda"
+        },
+        "ja": {
+          "description": "陽気なオークの料理人、ゴブリンの発明家、トロルの吟遊詩人、やさしい半巨人。",
+          "name": "酒場の仲間たち"
+        },
+        "ko": {
+          "description": "명랑한 오크 요리사, 고블린 땜장이, 트롤 음유시인, 그리고 다정한 반거인.",
+          "name": "주막 사람들"
+        },
+        "pl": {
+          "description": "Wesoły orkowy kucharz, goblin majsterkowicz, trollowy bard i łagodny półolbrzym.",
+          "name": "Karczemna kompania"
+        },
+        "pt": {
+          "description": "Um cozinheiro orc alegre, um goblin inventor, um bardo troll e um meio-gigante gentil.",
+          "name": "Gente da taverna"
+        },
+        "ru": {
+          "description": "Весёлый орк-повар, гоблин-изобретатель, тролль-бард и добрый полувеликан.",
+          "name": "Завсегдатаи таверны"
+        },
+        "tr": {
+          "description": "Neşeli bir ork aşçı, mucit bir goblin, ozan bir trol ve nazik bir yarı dev.",
+          "name": "Han ahalisi"
+        },
+        "vi": {
+          "description": "Một đầu bếp orc vui tính, một yêu tinh thợ máy, một quỷ khổng lồ hát rong và một bán khổng lồ hiền lành.",
+          "name": "Người trong quán trọ"
+        },
+        "zh": {
+          "description": "快活的兽人厨师、爱捣鼓的哥布林、巨魔吟游诗人和温柔的半巨人。",
+          "name": "酒馆伙伴"
+        }
+      },
+      "name": "Tavern folk",
+      "preview": "previews/tavern-folk.webp",
+      "previewBytes": 41886,
+      "previewSha256": "f14bef9c143ccc930fa14bde56953736bc16d3314423fd9b085a56284d4ffa2d",
+      "sha256": "029e674fdd72e0c97bc7ac9ca642aee1cd4aff84bc3283c3eff07651b402381d",
+      "version": 1
+    },
+    {
+      "archive": "packs/toon-women-1.zip",
+      "bundled": false,
+      "bytes": 13816606,
+      "description": "Bold, bouncy women from a modern 2D cartoon.",
+      "family": "animated",
+      "id": "toon-women",
+      "localizations": {
+        "ar": {
+          "description": "نساء جريئات مفعمات بالحيوية من رسوم كرتونية حديثة ثنائية الأبعاد.",
+          "name": "نساء الكرتون"
+        },
+        "bn": {
+          "description": "আধুনিক ২ডি কার্টুনের সাহসী, চঞ্চল নারীরা।",
+          "name": "কার্টুন নারীরা"
+        },
+        "cs": {
+          "description": "Výrazné, skotačivé ženy z moderního 2D animáku.",
+          "name": "Kreslené ženy"
+        },
+        "de": {
+          "description": "Kräftige, quirlige Frauen aus einem modernen 2D-Cartoon.",
+          "name": "Cartoon-Frauen"
+        },
+        "es": {
+          "description": "Mujeres audaces y llenas de rebote, de unos dibujos animados 2D modernos.",
+          "name": "Mujeres de dibujos"
+        },
+        "fr": {
+          "description": "Des femmes vives et pétillantes, tout droit sorties d'un dessin animé 2D moderne.",
+          "name": "Femmes de dessin animé"
+        },
+        "hi": {
+          "description": "आधुनिक 2D कार्टून की बेबाक, उछलती-कूदती महिलाएँ।",
+          "name": "कार्टून महिलाएँ"
+        },
+        "id": {
+          "description": "Wanita berani dan lincah dari kartun 2D modern.",
+          "name": "Wanita kartun"
+        },
+        "it": {
+          "description": "Donne vivaci e scattanti da un moderno cartone animato 2D.",
+          "name": "Donne dei cartoni"
+        },
+        "ja": {
+          "description": "今どきの2Dアニメから飛び出した、元気いっぱいの女性たち。",
+          "name": "アニメの女性たち"
+        },
+        "ko": {
+          "description": "요즘 2D 만화에서 튀어나온 대담하고 통통 튀는 여성들.",
+          "name": "카툰 여성들"
+        },
+        "pl": {
+          "description": "Wyraziste, energiczne kobiety z nowoczesnej kreskówki 2D.",
+          "name": "Kreskówkowe kobiety"
+        },
+        "pt": {
+          "description": "Mulheres ousadas e animadas de um desenho 2D moderno.",
+          "name": "Mulheres de desenho"
+        },
+        "ru": {
+          "description": "Яркие, задорные женщины из современного 2D-мультфильма.",
+          "name": "Мультяшные женщины"
+        },
+        "tr": {
+          "description": "Modern bir 2D çizgi filmden cesur, hareketli kadınlar.",
+          "name": "Çizgi film kadınlar"
+        },
+        "vi": {
+          "description": "Những người phụ nữ cá tính, năng động bước ra từ phim hoạt hình 2D hiện đại.",
+          "name": "Phụ nữ hoạt hình"
+        },
+        "zh": {
+          "description": "来自现代二维动画、大胆又活泼的女士们。",
+          "name": "卡通女士"
+        }
+      },
+      "name": "Toon women",
+      "preview": "previews/toon-women.webp",
+      "previewBytes": 37222,
+      "previewSha256": "3ecbd96d6e7014d210f3586d8dd6a5894df0746eee5724da6f516eac683eccff",
+      "sha256": "3038eb689f4d8ded42321f2ffdc22edac1e18ab89cde114a33c63a44d745c91d",
+      "version": 1
+    },
+    {
+      "archive": "packs/toy-robots-1.zip",
+      "bundled": false,
+      "bytes": 13854397,
+      "description": "Hand-carved wind-up robots in painted wood and brass.",
+      "family": "robot",
+      "id": "toy-robots",
+      "localizations": {
+        "ar": {
+          "description": "روبوتات بزنبرك منحوتة يدويًا من الخشب الملوّن والنحاس.",
+          "name": "روبوتات خشبية"
+        },
+        "bn": {
+          "description": "রং করা কাঠ আর পিতলে হাতে খোদাই করা দম দেওয়া রোবট।",
+          "name": "কাঠের খেলনা রোবট"
+        },
+        "cs": {
+          "description": "Ručně vyřezávaní natahovací robotci z malovaného dřeva a mosazi.",
+          "name": "Dřevění robotci"
+        },
+        "de": {
+          "description": "Handgeschnitzte Aufzieh-Roboter aus bemaltem Holz und Messing.",
+          "name": "Holzspielzeug-Roboter"
+        },
+        "es": {
+          "description": "Robots de cuerda tallados a mano en madera pintada y latón.",
+          "name": "Robots de juguete de madera"
+        },
+        "fr": {
+          "description": "Des robots mécaniques sculptés à la main, en bois peint et laiton.",
+          "name": "Robots en bois"
+        },
+        "hi": {
+          "description": "रंगी लकड़ी और पीतल से हाथ से तराशे गए चाबी वाले रोबोट।",
+          "name": "लकड़ी के खिलौना रोबोट"
+        },
+        "id": {
+          "description": "Robot putar kunci berukir tangan dari kayu bercat dan kuningan.",
+          "name": "Robot mainan kayu"
+        },
+        "it": {
+          "description": "Robot a carica intagliati a mano in legno dipinto e ottone.",
+          "name": "Robot giocattolo di legno"
+        },
+        "ja": {
+          "description": "色をぬった木と真ちゅうで手彫りされた、ゼンマイ仕掛けのロボット。",
+          "name": "木のおもちゃロボット"
+        },
+        "ko": {
+          "description": "색칠한 나무와 황동으로 손수 깎은 태엽 로봇.",
+          "name": "나무 장난감 로봇"
+        },
+        "pl": {
+          "description": "Ręcznie rzeźbione nakręcane roboty z malowanego drewna i mosiądzu.",
+          "name": "Drewniane roboty-zabawki"
+        },
+        "pt": {
+          "description": "Robôs de corda esculpidos à mão em madeira pintada e latão.",
+          "name": "Robôs de brinquedo de madeira"
+        },
+        "ru": {
+          "description": "Заводные роботы ручной работы из крашеного дерева и латуни.",
+          "name": "Деревянные роботы-игрушки"
+        },
+        "tr": {
+          "description": "Boyalı ahşap ve pirinçten el oyması kurmalı robotlar.",
+          "name": "Ahşap oyuncak robotlar"
+        },
+        "vi": {
+          "description": "Người máy lên dây cót chạm tay bằng gỗ sơn và đồng thau.",
+          "name": "Người máy đồ chơi gỗ"
+        },
+        "zh": {
+          "description": "用彩绘木头和黄铜手工雕成的发条机器人。",
+          "name": "木头玩具机器人"
+        }
+      },
+      "name": "Wooden toy robots",
+      "preview": "previews/toy-robots.webp",
+      "previewBytes": 35104,
+      "previewSha256": "f78ee2b625a4d92dfc62ac613d261ec181ef9dc6b0db5d950c4d5679fdeaf818",
+      "sha256": "920e3a1175df6530e1673f1bc5db50a3b7cbfa23c9314d2ab053536a6a9be68b",
+      "version": 1
+    },
+    {
       "archive": "packs/universe-3.zip",
       "bundled": false,
       "bytes": 7747926,
@@ -1169,6 +3356,174 @@
       "previewSha256": "aeef81c56fc2184c4c9b794eaed0e54a7cbc921cb7706bf343fa2911ca2b7bcb",
       "sha256": "554b4997437579088c033f1fbba351fb619492e3c767c179dd34548523eda894",
       "version": 3
+    },
+    {
+      "archive": "packs/vintage-toon-men-1.zip",
+      "bundled": false,
+      "bytes": 15017842,
+      "description": "Rubber-hose cartoon fellows from the 1930s.",
+      "family": "animated",
+      "id": "vintage-toon-men",
+      "localizations": {
+        "ar": {
+          "description": "شخصيات كرتونية مطاطية الأطراف من ثلاثينيات القرن الماضي.",
+          "name": "رجال الكرتون القديم"
+        },
+        "bn": {
+          "description": "১৯৩০-এর দশকের রাবার-হোস কার্টুনের লোকজন।",
+          "name": "পুরোনো কার্টুনের পুরুষ"
+        },
+        "cs": {
+          "description": "Gumoví kreslení chlapíci z 30. let.",
+          "name": "Staří kreslení pánové"
+        },
+        "de": {
+          "description": "Gummischlauch-Cartoonfiguren aus den 1930ern.",
+          "name": "Vintage-Cartoon-Männer"
+        },
+        "es": {
+          "description": "Tipos de dibujos animados de brazos de goma de los años 30.",
+          "name": "Hombres de dibujos antiguos"
+        },
+        "fr": {
+          "description": "Des bonshommes de dessin animé « rubber hose » des années 1930.",
+          "name": "Hommes de dessin animé rétro"
+        },
+        "hi": {
+          "description": "1930 के दशक के रबर-होज़ कार्टून वाले लोग।",
+          "name": "पुराने कार्टून के पुरुष"
+        },
+        "id": {
+          "description": "Tokoh kartun bergaya rubber-hose dari tahun 1930-an.",
+          "name": "Pria kartun klasik"
+        },
+        "it": {
+          "description": "Tipi da cartone animato \"rubber hose\" degli anni '30.",
+          "name": "Uomini dei cartoni d'epoca"
+        },
+        "ja": {
+          "description": "1930年代のラバーホース・アニメの男たち。",
+          "name": "ヴィンテージアニメの男性たち"
+        },
+        "ko": {
+          "description": "1930년대 고무호스 스타일 만화 속 사나이들.",
+          "name": "빈티지 카툰 남성들"
+        },
+        "pl": {
+          "description": "Gumowi kreskówkowi jegomoście z lat 30.",
+          "name": "Retro kreskówkowi panowie"
+        },
+        "pt": {
+          "description": "Sujeitos de desenho animado de braços de borracha dos anos 1930.",
+          "name": "Homens de desenho antigo"
+        },
+        "ru": {
+          "description": "Резиново-гибкие мультяшные парни 1930-х.",
+          "name": "Мужчины из старых мультфильмов"
+        },
+        "tr": {
+          "description": "1930'ların lastik kollu çizgi film adamları.",
+          "name": "Eski çizgi film erkekleri"
+        },
+        "vi": {
+          "description": "Những chàng hoạt hình tay chân dẻo như ống cao su thập niên 1930.",
+          "name": "Đàn ông hoạt hình cổ điển"
+        },
+        "zh": {
+          "description": "1930年代橡皮管动画里的男士们。",
+          "name": "复古卡通男士"
+        }
+      },
+      "name": "Vintage toon men",
+      "preview": "previews/vintage-toon-men.webp",
+      "previewBytes": 40598,
+      "previewSha256": "4b7397d16dc706d1a2c41cc99ff380e1332fbfc7682ec58fb569c449944fd6d5",
+      "sha256": "4d6c00e8e3b60ea52209c53ae1ff609ab4503fe17ff24587508f6946a781f164",
+      "version": 1
+    },
+    {
+      "archive": "packs/vinyl-toon-men-1.zip",
+      "bundled": false,
+      "bytes": 9470410,
+      "description": "Designer art-toy figures in smooth matte vinyl.",
+      "family": "animated",
+      "id": "vinyl-toon-men",
+      "localizations": {
+        "ar": {
+          "description": "مجسّمات فنية من تصميم المصممين بفينيل ناعم غير لامع.",
+          "name": "رجال الدمى الفينيل"
+        },
+        "bn": {
+          "description": "মসৃণ ম্যাট ভিনাইলে ডিজাইনার আর্ট-টয় ফিগার।",
+          "name": "ভিনাইল খেলনার পুরুষ"
+        },
+        "cs": {
+          "description": "Designové sběratelské figurky z hladkého matného vinylu.",
+          "name": "Vinyloví panáčci"
+        },
+        "de": {
+          "description": "Designer-Art-Toy-Figuren aus glattem, mattem Vinyl.",
+          "name": "Vinylfiguren-Männer"
+        },
+        "es": {
+          "description": "Figuras de art toy de diseño en vinilo mate y suave.",
+          "name": "Hombres de vinilo"
+        },
+        "fr": {
+          "description": "Des figurines d'art toy design en vinyle mat et lisse.",
+          "name": "Hommes en vinyle"
+        },
+        "hi": {
+          "description": "चिकने मैट विनाइल में डिज़ाइनर आर्ट-टॉय आकृतियाँ।",
+          "name": "विनाइल खिलौना पुरुष"
+        },
+        "id": {
+          "description": "Figur art toy desainer dari vinil doff yang halus.",
+          "name": "Pria mainan vinil"
+        },
+        "it": {
+          "description": "Figure art toy di design in vinile opaco e liscio.",
+          "name": "Uomini giocattolo in vinile"
+        },
+        "ja": {
+          "description": "なめらかなマットビニールのデザイナーズ・アートトイ。",
+          "name": "ソフビの男性たち"
+        },
+        "ko": {
+          "description": "매끈한 무광 바이닐로 만든 디자이너 아트 토이 피규어.",
+          "name": "바이닐 토이 남성들"
+        },
+        "pl": {
+          "description": "Designerskie figurki art toy z gładkiego, matowego winylu.",
+          "name": "Winylowi panowie"
+        },
+        "pt": {
+          "description": "Figuras de art toy de designer em vinil fosco e liso.",
+          "name": "Homens de vinil"
+        },
+        "ru": {
+          "description": "Дизайнерские арт-фигурки из гладкого матового винила.",
+          "name": "Виниловые фигурки-мужчины"
+        },
+        "tr": {
+          "description": "Pürüzsüz mat vinilden tasarımcı sanat oyuncağı figürleri.",
+          "name": "Vinil oyuncak erkekler"
+        },
+        "vi": {
+          "description": "Những mô hình art toy thiết kế bằng vinyl mờ mịn.",
+          "name": "Đàn ông đồ chơi vinyl"
+        },
+        "zh": {
+          "description": "光滑哑光搪胶材质的设计师潮玩公仔。",
+          "name": "搪胶公仔男士"
+        }
+      },
+      "name": "Vinyl toy men",
+      "preview": "previews/vinyl-toon-men.webp",
+      "previewBytes": 28360,
+      "previewSha256": "8018e01d22d838e7c758ef53aa398a691e5f685eb06e2e4ee5e08092ad533153",
+      "sha256": "5044db0cfd606170a9e7122f4fb5dbbe7c919a06d8fbfa3f68956b06e249ce65",
+      "version": 1
     },
     {
       "archive": "packs/watercolor-4.zip",
@@ -1211,6 +3566,90 @@
       "version": 3
     },
     {
+      "archive": "packs/wild-heroines-1.zip",
+      "bundled": false,
+      "bytes": 15306276,
+      "description": "Heroines with the powers of flowers, storms, snow and fire.",
+      "family": "superhero",
+      "id": "wild-heroines",
+      "localizations": {
+        "ar": {
+          "description": "بطلات يملكن قوى الزهور والعواصف والثلج والنار.",
+          "name": "بطلات الطبيعة"
+        },
+        "bn": {
+          "description": "ফুল, ঝড়, তুষার আর আগুনের শক্তিধর নায়িকারা।",
+          "name": "বুনো নায়িকা"
+        },
+        "cs": {
+          "description": "Hrdinky s mocí květin, bouří, sněhu a ohně.",
+          "name": "Divoké hrdinky"
+        },
+        "de": {
+          "description": "Heldinnen mit den Kräften von Blumen, Stürmen, Schnee und Feuer.",
+          "name": "Wilde Heldinnen"
+        },
+        "es": {
+          "description": "Heroínas con el poder de las flores, las tormentas, la nieve y el fuego.",
+          "name": "Heroínas salvajes"
+        },
+        "fr": {
+          "description": "Des héroïnes aux pouvoirs des fleurs, des tempêtes, de la neige et du feu.",
+          "name": "Héroïnes sauvages"
+        },
+        "hi": {
+          "description": "फूलों, तूफ़ानों, बर्फ़ और आग की शक्तियों वाली नायिकाएँ।",
+          "name": "जंगली नायिकाएँ"
+        },
+        "id": {
+          "description": "Pahlawan wanita dengan kekuatan bunga, badai, salju, dan api.",
+          "name": "Pahlawan wanita liar"
+        },
+        "it": {
+          "description": "Eroine con i poteri dei fiori, delle tempeste, della neve e del fuoco.",
+          "name": "Eroine selvagge"
+        },
+        "ja": {
+          "description": "花、嵐、雪、炎の力をもつヒロインたち。",
+          "name": "ワイルドヒロイン"
+        },
+        "ko": {
+          "description": "꽃, 폭풍, 눈, 불의 힘을 지닌 히로인들.",
+          "name": "야생의 히로인"
+        },
+        "pl": {
+          "description": "Bohaterki z mocą kwiatów, burz, śniegu i ognia.",
+          "name": "Dzikie bohaterki"
+        },
+        "pt": {
+          "description": "Heroínas com os poderes das flores, das tempestades, da neve e do fogo.",
+          "name": "Heroínas selvagens"
+        },
+        "ru": {
+          "description": "Героини с силой цветов, бурь, снега и огня.",
+          "name": "Дикие героини"
+        },
+        "tr": {
+          "description": "Çiçeklerin, fırtınaların, karın ve ateşin gücüne sahip kahramanlar.",
+          "name": "Vahşi kadın kahramanlar"
+        },
+        "vi": {
+          "description": "Những nữ anh hùng mang sức mạnh của hoa, bão, tuyết và lửa.",
+          "name": "Nữ anh hùng hoang dã"
+        },
+        "zh": {
+          "description": "拥有花、风暴、冰雪与火焰之力的女英雄。",
+          "name": "荒野女英雄"
+        }
+      },
+      "name": "Wild heroines",
+      "preview": "previews/wild-heroines.webp",
+      "previewBytes": 47718,
+      "previewSha256": "a2234521ec1cdb7505b08e1be4001fb5fac383269e1fffa9987d28e08ae21253",
+      "sha256": "3e97ccb5c7bd4de9dbe05d81c333980a655dbc94c5ef9022441e668589ae3316",
+      "version": 1
+    },
+    {
       "archive": "packs/wood-4.zip",
       "bundled": false,
       "bytes": 11661556,
@@ -1229,6 +3668,174 @@
       "previewSha256": "9b3dff43ca5898f039d8c1ccb41bade8eaa559f610181e641ec18e9aba880aa4",
       "sha256": "f07daeb29e845177d9dbe64eedc8d8f5a942b2f1330ff24b8dbb133122293557",
       "version": 4
+    },
+    {
+      "archive": "packs/woodland-animals-1.zip",
+      "bundled": false,
+      "bytes": 19697758,
+      "description": "Storybook woodland animals in watercolour and ink.",
+      "family": "animal",
+      "id": "woodland-animals",
+      "localizations": {
+        "ar": {
+          "description": "حيوانات الغابة كما في كتب الحكايات، بالألوان المائية والحبر.",
+          "name": "أصدقاء الغابة"
+        },
+        "bn": {
+          "description": "জলরং আর কালিতে আঁকা রূপকথার বইয়ের বনের প্রাণী।",
+          "name": "বনের বন্ধুরা"
+        },
+        "cs": {
+          "description": "Pohádková lesní zvířátka malovaná akvarelem a tuší.",
+          "name": "Lesní kamarádi"
+        },
+        "de": {
+          "description": "Märchenhafte Waldtiere in Aquarell und Tusche.",
+          "name": "Waldfreunde"
+        },
+        "es": {
+          "description": "Animales del bosque de cuento, en acuarela y tinta.",
+          "name": "Amigos del bosque"
+        },
+        "fr": {
+          "description": "Des animaux des bois de livre de contes, à l'aquarelle et à l'encre.",
+          "name": "Amis des bois"
+        },
+        "hi": {
+          "description": "जलरंग और स्याही में कहानियों की किताब जैसे जंगल के जानवर।",
+          "name": "जंगल के दोस्त"
+        },
+        "id": {
+          "description": "Hewan hutan ala buku dongeng dalam cat air dan tinta.",
+          "name": "Teman hutan"
+        },
+        "it": {
+          "description": "Animali del bosco da libro di fiabe, ad acquerello e inchiostro.",
+          "name": "Amici del bosco"
+        },
+        "ja": {
+          "description": "水彩とインクで描かれた、絵本の森のどうぶつたち。",
+          "name": "森のなかま"
+        },
+        "ko": {
+          "description": "수채화와 잉크로 그린 동화책 속 숲 동물들.",
+          "name": "숲속 친구들"
+        },
+        "pl": {
+          "description": "Bajkowe leśne zwierzęta malowane akwarelą i tuszem.",
+          "name": "Leśni przyjaciele"
+        },
+        "pt": {
+          "description": "Animais da floresta de livro de histórias, em aquarela e nanquim.",
+          "name": "Amigos da floresta"
+        },
+        "ru": {
+          "description": "Сказочные лесные зверята акварелью и тушью.",
+          "name": "Лесные друзья"
+        },
+        "tr": {
+          "description": "Suluboya ve mürekkeple çizilmiş masal kitabı orman hayvanları.",
+          "name": "Orman dostları"
+        },
+        "vi": {
+          "description": "Những con vật trong rừng như sách truyện, vẽ bằng màu nước và mực.",
+          "name": "Những người bạn trong rừng"
+        },
+        "zh": {
+          "description": "用水彩和墨水画出的绘本森林动物。",
+          "name": "森林伙伴"
+        }
+      },
+      "name": "Woodland friends",
+      "preview": "previews/woodland-animals.webp",
+      "previewBytes": 62244,
+      "previewSha256": "0430556d009e6a722afdf64e1e07921b4e47bd66fb7de70b5c111ee0a120a76f",
+      "sha256": "a233f0b2ee79f2a025c437bdaca3ff3a69392260a88e99666803661aafa23c03",
+      "version": 1
+    },
+    {
+      "archive": "packs/yarn-monsters-1.zip",
+      "bundled": false,
+      "bytes": 15079864,
+      "description": "Crocheted woolly monsters with felt eyes and stitched smiles.",
+      "family": "monster",
+      "id": "yarn-monsters",
+      "localizations": {
+        "ar": {
+          "description": "وحوش صوفية محاكة بالكروشيه بعيون من اللباد وابتسامات مطرّزة.",
+          "name": "وحوش الصوف"
+        },
+        "bn": {
+          "description": "ফেল্টের চোখ আর সেলাই করা হাসির ক্রুশে বোনা উলের দানব।",
+          "name": "উলের দানব"
+        },
+        "cs": {
+          "description": "Háčkované vlněné příšerky s plstěnýma očima a vyšitými úsměvy.",
+          "name": "Háčkované příšerky"
+        },
+        "de": {
+          "description": "Gehäkelte Wollmonster mit Filzaugen und gestickten Lächeln.",
+          "name": "Wollmonster"
+        },
+        "es": {
+          "description": "Monstruos de lana tejidos a ganchillo, con ojos de fieltro y sonrisas bordadas.",
+          "name": "Monstruos de lana"
+        },
+        "fr": {
+          "description": "Des monstres en laine au crochet, aux yeux en feutrine et aux sourires brodés.",
+          "name": "Monstres en laine"
+        },
+        "hi": {
+          "description": "फ़ेल्ट की आँखों और कढ़ी हुई मुस्कान वाले क्रोशिए से बुने ऊनी राक्षस।",
+          "name": "ऊन के राक्षस"
+        },
+        "id": {
+          "description": "Monster wol rajutan dengan mata kain flanel dan senyum sulaman.",
+          "name": "Monster rajut"
+        },
+        "it": {
+          "description": "Mostri di lana all'uncinetto con occhi di feltro e sorrisi ricamati.",
+          "name": "Mostri di lana"
+        },
+        "ja": {
+          "description": "フェルトの目と刺しゅうの笑顔をもつ、かぎ針編みのモンスター。",
+          "name": "あみぐるみモンスター"
+        },
+        "ko": {
+          "description": "펠트 눈과 수놓은 미소를 가진 코바늘 뜨개 몬스터.",
+          "name": "뜨개 몬스터"
+        },
+        "pl": {
+          "description": "Szydełkowe wełniane potworki z filcowymi oczami i wyszytymi uśmiechami.",
+          "name": "Włóczkowe potworki"
+        },
+        "pt": {
+          "description": "Monstros de lã em crochê, com olhos de feltro e sorrisos bordados.",
+          "name": "Monstros de lã"
+        },
+        "ru": {
+          "description": "Вязанные крючком шерстяные монстры с фетровыми глазами и вышитыми улыбками.",
+          "name": "Вязаные монстры"
+        },
+        "tr": {
+          "description": "Keçe gözlü, nakış gülüşlü tığ işi yün canavarlar.",
+          "name": "Yün canavarlar"
+        },
+        "vi": {
+          "description": "Những quái vật len móc với mắt dạ và nụ cười thêu.",
+          "name": "Quái vật len"
+        },
+        "zh": {
+          "description": "钩针编织的毛线怪兽，毛毡眼睛，刺绣笑脸。",
+          "name": "毛线怪兽"
+        }
+      },
+      "name": "Yarn monsters",
+      "preview": "previews/yarn-monsters.webp",
+      "previewBytes": 36480,
+      "previewSha256": "192117423ebe9fc3632d0fb6b1cbe4631dd5d036c5c6c91daba4f5ad8712ab60",
+      "sha256": "1f85f1430ca35d368b7f65f84d0bff4568bd9c214e922d4020842b2d5351235c",
+      "version": 1
     }
   ]
 }
