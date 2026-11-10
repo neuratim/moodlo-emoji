@@ -401,15 +401,15 @@
       "name": "Aliens"
     }
   ],
-  "generatedAt": "2026-11-10T14:54:22.854794Z",
+  "generatedAt": "2026-11-10T18:42:38.393465Z",
   "licence": "Copyright NeuraTiM. For use in NeuraTiM Moodlo only; not for resale or redistribution.",
-  "revision": 3,
+  "revision": 4,
   "schema": 3,
   "styles": [
     {
-      "archive": "packs/alien-1.zip",
+      "archive": "packs/alien-2.zip",
       "bundled": false,
-      "bytes": 8967853,
+      "bytes": 11730632,
       "description": "Four friendly aliens bringing their feelings from another planet.",
       "family": "alien",
       "id": "alien",
@@ -487,13 +487,13 @@
       "preview": "previews/alien.webp",
       "previewBytes": 30378,
       "previewSha256": "3d4053f05092687eb2d915472efbf8f8e1e4f4369162b06d004f15aef9f94874",
-      "sha256": "984d6e1a8874ff788f308e78197499a1835b9444e1a174879af84c99a355549d",
-      "version": 1
+      "sha256": "46bef0f9cdd35a6b90f428f260522e3b7a4034e5c5179d47c251367a1397662e",
+      "version": 2
     },
     {
-      "archive": "packs/animated-1.zip",
+      "archive": "packs/animated-2.zip",
       "bundled": false,
-      "bytes": 11518390,
+      "bytes": 14938564,
       "description": "Four big-eyed characters straight out of an animated film.",
       "family": "animated",
       "id": "animated",
@@ -571,13 +571,13 @@
       "preview": "previews/animated.webp",
       "previewBytes": 43668,
       "previewSha256": "4f196eebb3c6b5387f62055b4105074996bd72c1d5eb363510272cb5280fd51f",
-      "sha256": "cf5630474a1f7601ae4f6aff960b56c91d19a572ea2c36cd2991a9cd69239467",
-      "version": 1
+      "sha256": "f95930d544ce539db6ea30d84bc5f311c9e90b4c0a71a8c66d2b27bb6de22dba",
+      "version": 2
     },
     {
-      "archive": "packs/aurora-2.zip",
+      "archive": "packs/aurora-3.zip",
       "bundled": true,
-      "bytes": 7661309,
+      "bytes": 8639391,
       "description": "Glowing glass orbs under flowing aurora light.",
       "family": "classic",
       "id": "aurora",
@@ -591,13 +591,13 @@
       "preview": "previews/aurora.webp",
       "previewBytes": 39958,
       "previewSha256": "9b3f687c8b498b30cdfa62752d9912892c8141af90902b061dbf9b89d858bb6e",
-      "sha256": "c61a9f977f92f490350110097e76e1175bdf880ecc386562054e2ffe45d19430",
-      "version": 2
+      "sha256": "57f32d5699abe788f4e183874059106dc8f3524d6e504ecd487f25ce3c6ecbe8",
+      "version": 3
     },
     {
-      "archive": "packs/ceramic-3.zip",
+      "archive": "packs/ceramic-4.zip",
       "bundled": false,
-      "bytes": 8884582,
+      "bytes": 9706782,
       "description": "Smooth glazed characters with a warm, hand-crafted finish.",
       "family": "classic",
       "id": "ceramic",
@@ -611,13 +611,13 @@
       "preview": "previews/ceramic.webp",
       "previewBytes": 43912,
       "previewSha256": "998968a28686462eb0393ce881ebcdfa20b8aaafde88e0f38c4556ea4333c2e5",
-      "sha256": "212e684b4ea7cbcd41bcb1f07723d02bcee58e85e6488974074212aac9533093",
-      "version": 3
+      "sha256": "30e11f29d6b461ff775b11d619e0d7ca433f9afc210cb24041931ce907bf8e54",
+      "version": 4
     },
     {
-      "archive": "packs/clay-3.zip",
+      "archive": "packs/clay-4.zip",
       "bundled": false,
-      "bytes": 7809566,
+      "bytes": 8433039,
       "description": "Soft sculpted clay with playful shapes and gentle shadows.",
       "family": "classic",
       "id": "clay",
@@ -631,13 +631,13 @@
       "preview": "previews/clay.webp",
       "previewBytes": 50434,
       "previewSha256": "f68b7ef1228f6a60cca04f6a3347e0c12f51b4a6d004d5c67f52a472f0df14c9",
-      "sha256": "b039127ef3bc27408079cf085a26340eaa24a78f84acd1af13dff899726c405e",
-      "version": 3
+      "sha256": "d05b589a694fcb501272acf2b651ffdc85fde86106b9d84a6b2bb1ecd56018b5",
+      "version": 4
     },
     {
-      "archive": "packs/fantasy-1.zip",
+      "archive": "packs/fantasy-2.zip",
       "bundled": false,
-      "bytes": 14108726,
+      "bytes": 18455501,
       "description": "An elf, a dwarf, a fairy and a young wizard from an enchanted forest.",
       "family": "fantasy",
       "id": "fantasy",
@@ -715,13 +715,13 @@
       "preview": "previews/fantasy.webp",
       "previewBytes": 49444,
       "previewSha256": "142b80c673e75812ad3ae88c95411bc0fdd3c2f1774de6905e02fcbb101d06e2",
-      "sha256": "aedf8729a230fd87152513b2b3b18102a169903c66b416da2f08ff3c0178fd73",
-      "version": 1
+      "sha256": "5b98f3b1225a4f839cdb4b74b91aace6a6f00fec848fe1f2be42066716a196ad",
+      "version": 2
     },
     {
-      "archive": "packs/felt-3.zip",
+      "archive": "packs/felt-4.zip",
       "bundled": false,
-      "bytes": 12646636,
+      "bytes": 13593863,
       "description": "Cozy stitched felt characters with visible fibers and seams.",
       "family": "classic",
       "id": "felt",
@@ -735,13 +735,13 @@
       "preview": "previews/felt.webp",
       "previewBytes": 128054,
       "previewSha256": "5bee4ee03bdef758fec1f71a78c1539172913fbec63f4cf465f9e7766b03a882",
-      "sha256": "6a365b40f9d0f3b8d3ff06dc8db1c666f9c13e7536c774458c9aee98531d1e19",
-      "version": 3
+      "sha256": "19bd4d2b386969e2f3438337f073eec715ad2239558994a8309ad5df7ff12a26",
+      "version": 4
     },
     {
-      "archive": "packs/garden-2.zip",
+      "archive": "packs/garden-3.zip",
       "bundled": true,
-      "bytes": 10124540,
+      "bytes": 11526932,
       "description": "Hand-painted watercolour faces in wreaths of leaves and flowers.",
       "family": "classic",
       "id": "garden",
@@ -755,13 +755,13 @@
       "preview": "previews/garden.webp",
       "previewBytes": 42108,
       "previewSha256": "f3b75bd834164748175197a1d92f3f686bb63012962b7c5728b7a25ec3efadf6",
-      "sha256": "b88c35b932acd7f1b84a34b50b969363a384dc4c91aa4980ec2a81f38609feb5",
-      "version": 2
+      "sha256": "f4934534dbc5bfabf5db22d3356c63ec0a44950d0a34823e21b414cfee15c97c",
+      "version": 3
     },
     {
-      "archive": "packs/glass-3.zip",
+      "archive": "packs/glass-4.zip",
       "bundled": false,
-      "bytes": 14070040,
+      "bytes": 14933062,
       "description": "Translucent glass figures with luminous color and reflections.",
       "family": "classic",
       "id": "glass",
@@ -775,13 +775,13 @@
       "preview": "previews/glass.webp",
       "previewBytes": 61928,
       "previewSha256": "800314c45deea9cf6ecd4fb02b4be769c414c8da953d4004234e94c5955f9ca2",
-      "sha256": "f30be495e31dd9d609fc3a9972e467206dc2d13985729da96f1c539f2fd759a1",
-      "version": 3
+      "sha256": "819f8354e2776750a7332a49205ceffbbf8f0fbf5364cb992c5daac8f7a73fa1",
+      "version": 4
     },
     {
-      "archive": "packs/gouache-3.zip",
+      "archive": "packs/gouache-4.zip",
       "bundled": false,
-      "bytes": 13125422,
+      "bytes": 13905312,
       "description": "Bold matte gouache with expressive brush texture.",
       "family": "classic",
       "id": "gouache",
@@ -795,13 +795,13 @@
       "preview": "previews/gouache.webp",
       "previewBytes": 67584,
       "previewSha256": "cb1252ef3537774572464693cc8d116507ec9dea41c0b7c06d8843ef8e29c96e",
-      "sha256": "f6d8f4ab2f5820a8e6fae565bf82c473efd3bf1a98fd86073b084be0a18e7ec1",
-      "version": 3
+      "sha256": "4a0bf35b984487418f14aeee2b68f5cafd2a9cb7ceac5539748ea8914de9dc34",
+      "version": 4
     },
     {
-      "archive": "packs/human-2.zip",
+      "archive": "packs/human-3.zip",
       "bundled": false,
-      "bytes": 10681330,
+      "bytes": 13766616,
       "description": "Four illustrated people of different ages who feel it with you.",
       "family": "human",
       "id": "human",
@@ -879,13 +879,13 @@
       "preview": "previews/human.webp",
       "previewBytes": 39600,
       "previewSha256": "73758f23e259fe99be9e21c913c8e26baa8adc67942f8f9a5654b1f132c272ca",
-      "sha256": "381b5a39fac217fb777a8af5c7055862411c51ad1cdec7e7de25758dcaf362e4",
-      "version": 2
+      "sha256": "9819b9bce503a109c9d2d64f85c6d877e5af99f0bcf7e4ed43805067545ace04",
+      "version": 3
     },
     {
-      "archive": "packs/ink-3.zip",
+      "archive": "packs/ink-4.zip",
       "bundled": false,
-      "bytes": 15727266,
+      "bytes": 16657046,
       "description": "Confident ink lines with graphic contrast and lively marks.",
       "family": "classic",
       "id": "ink",
@@ -899,13 +899,13 @@
       "preview": "previews/ink.webp",
       "previewBytes": 75060,
       "previewSha256": "e980acfee1410f550cd8b037cd2c1a904bf8044d67a8c1810d80c52c1ea2ab00",
-      "sha256": "45d7054499f1f782c846f79f480be2b59f48bc2a319a3d95f21d46c5a607b090",
-      "version": 3
+      "sha256": "a00ff56e800d1ddeca622cd15e1ab15d0387750486a5d7e846ae55918c5301df",
+      "version": 4
     },
     {
-      "archive": "packs/oil-3.zip",
+      "archive": "packs/oil-4.zip",
       "bundled": false,
-      "bytes": 16574254,
+      "bytes": 17532292,
       "description": "Rich oil-painted emoji with deep color and visible brushwork.",
       "family": "classic",
       "id": "oil",
@@ -919,13 +919,13 @@
       "preview": "previews/oil.webp",
       "previewBytes": 121792,
       "previewSha256": "09d75bd7b587320b855d275218b1c4b8925b6499bcc27685487ed97393ff050e",
-      "sha256": "f6b3027a3ede52e9b891db658cdedcc7b6e1adbbdda1d310efd15b1948662ea9",
-      "version": 3
+      "sha256": "93f3aa2d40ee14e5ec88a5cc3863c110596f74f55ff31588b71822c8d146e038",
+      "version": 4
     },
     {
-      "archive": "packs/paper-3.zip",
+      "archive": "packs/paper-4.zip",
       "bundled": false,
-      "bytes": 9435639,
+      "bytes": 10217371,
       "description": "Layered paper-cut characters with tactile edges and soft depth.",
       "family": "classic",
       "id": "paper",
@@ -939,13 +939,13 @@
       "preview": "previews/paper.webp",
       "previewBytes": 72196,
       "previewSha256": "e00c752ab63d7bf3f28ed595eae5f7bb788bb4e50d6560e84156169675a07616",
-      "sha256": "40b0ed05f6a01d0054d1a5f3c22dbda067b4ea2ac14fa9519bb9e21acd660da2",
-      "version": 3
+      "sha256": "0832a25cde76778542ea1156b96ba40ece27182bcbc6b351cb7e8c3f7619e993",
+      "version": 4
     },
     {
-      "archive": "packs/pixel-3.zip",
+      "archive": "packs/pixel-4.zip",
       "bundled": false,
-      "bytes": 9890362,
+      "bytes": 10647895,
       "description": "Crisp pixel-art emoji with bright, readable expressions.",
       "family": "classic",
       "id": "pixel",
@@ -959,13 +959,13 @@
       "preview": "previews/pixel.webp",
       "previewBytes": 39330,
       "previewSha256": "d8a276b9997eee869728913427d4196d1ffeea9abe394f2c248ff49414c09bc0",
-      "sha256": "5038ab626ddad34f69d725561a1b34174e0938e7a8c58ce2f666cb345b672461",
-      "version": 3
+      "sha256": "ff977755189ecfc81a9fde33e533ac73a2069e105ac6c7d3e6d0d3b9c03aa18b",
+      "version": 4
     },
     {
-      "archive": "packs/robot-1.zip",
+      "archive": "packs/robot-2.zip",
       "bundled": false,
-      "bytes": 10196461,
+      "bytes": 13175367,
       "description": "Four friendly robots showing every feeling on screens and lamps.",
       "family": "robot",
       "id": "robot",
@@ -1043,13 +1043,13 @@
       "preview": "previews/robot.webp",
       "previewBytes": 30492,
       "previewSha256": "e3503d56f7b0521ec936db8adf74bc4e8c9283f92ef5d573604ddb2c7a3587b3",
-      "sha256": "a3a1ba92bf9539723b958c15cd0762e7b08eed859dea406b740582255ff202da",
-      "version": 1
+      "sha256": "ca1ecace2fc1391e4d140032eb6d7da9ddafdcf7c652f29d7928698fe673739c",
+      "version": 2
     },
     {
-      "archive": "packs/sunnypop-2.zip",
+      "archive": "packs/sunnypop-3.zip",
       "bundled": true,
-      "bytes": 4892055,
+      "bytes": 5602846,
       "description": "Glossy, candy-bright cartoon characters full of sunshine.",
       "family": "classic",
       "id": "sunnypop",
@@ -1063,13 +1063,13 @@
       "preview": "previews/sunnypop.webp",
       "previewBytes": 16762,
       "previewSha256": "fa7b1ef22142660dac88ef51cc9a4454acff58db6c515fcf3f820daae7d67834",
-      "sha256": "f7315fb68f75d5deb3f176c1c0bfe7e3b69f60d038985077b4d78fe950805f2e",
-      "version": 2
+      "sha256": "17c3a2779cb5badc52cff079a117128ca81628ad942ca876991b95b31bea8a03",
+      "version": 3
     },
     {
-      "archive": "packs/superhero-2.zip",
+      "archive": "packs/superhero-3.zip",
       "bundled": false,
-      "bytes": 10492948,
+      "bytes": 13547577,
       "description": "Four masked heroes who wear every mood in costume.",
       "family": "superhero",
       "id": "superhero",
@@ -1147,13 +1147,13 @@
       "preview": "previews/superhero.webp",
       "previewBytes": 34308,
       "previewSha256": "8ee77e90e574756450a10eb21bdef7dea76308b160b22ca056844c3477e919e0",
-      "sha256": "a8b1714a0187fcc3e814ecc175472fa75ed8de6c4f4d239125b0f6353503a493",
-      "version": 2
+      "sha256": "90365a4440abf619afc28919c867f601c1bfc6735dea023bff3651a046698024",
+      "version": 3
     },
     {
-      "archive": "packs/universe-2.zip",
+      "archive": "packs/universe-3.zip",
       "bundled": false,
-      "bytes": 6918108,
+      "bytes": 7747926,
       "description": "Little planets and moons with rings, stars and nebula colour.",
       "family": "classic",
       "id": "universe",
@@ -1167,13 +1167,13 @@
       "preview": "previews/universe.webp",
       "previewBytes": 28090,
       "previewSha256": "aeef81c56fc2184c4c9b794eaed0e54a7cbc921cb7706bf343fa2911ca2b7bcb",
-      "sha256": "4cef351023027624434369e97038c6efc4ac37b531b35d1246b13f7f12fe9ad0",
-      "version": 2
+      "sha256": "554b4997437579088c033f1fbba351fb619492e3c767c179dd34548523eda894",
+      "version": 3
     },
     {
-      "archive": "packs/watercolor-3.zip",
+      "archive": "packs/watercolor-4.zip",
       "bundled": false,
-      "bytes": 14998817,
+      "bytes": 15859633,
       "description": "Airy watercolor characters with gentle washes and organic edges.",
       "family": "classic",
       "id": "watercolor",
@@ -1187,13 +1187,13 @@
       "preview": "previews/watercolor.webp",
       "previewBytes": 76682,
       "previewSha256": "7b9eabe06ad0662fa928662113de37b3814599a6e907d0d152c0b0c1f3651df1",
-      "sha256": "d291972cf81be8775912c0ce9887fac77ae9f7b4eb431ffb0a4eb18e40080cf1",
-      "version": 3
+      "sha256": "f57cd5dc2376bb6cfd32cd4e5bc0fd34ffa0ce18894a1cf544522fa77a71c9a3",
+      "version": 4
     },
     {
-      "archive": "packs/weather-2.zip",
+      "archive": "packs/weather-3.zip",
       "bundled": true,
-      "bytes": 6117914,
+      "bytes": 6860891,
       "description": "Sunny clouds and soft skies that change with the mood.",
       "family": "classic",
       "id": "weather",
@@ -1207,13 +1207,13 @@
       "preview": "previews/weather.webp",
       "previewBytes": 29774,
       "previewSha256": "6d01b2b968899c4db5e3f5b81bec84fdeed8423212d2ed6fc8f10195ca5614f9",
-      "sha256": "55044100686eef63a203dad6cb74ec5fdec57ec93bd5a5c8a119d6adf8a37dc2",
-      "version": 2
+      "sha256": "a298108892f33758c7ad54be595bb5e7a843ce58470eb775151b316aac1256ba",
+      "version": 3
     },
     {
-      "archive": "packs/wood-3.zip",
+      "archive": "packs/wood-4.zip",
       "bundled": false,
-      "bytes": 10855341,
+      "bytes": 11661556,
       "description": "Carved wooden emoji with natural grain and rounded forms.",
       "family": "classic",
       "id": "wood",
@@ -1227,8 +1227,8 @@
       "preview": "previews/wood.webp",
       "previewBytes": 90034,
       "previewSha256": "9b3dff43ca5898f039d8c1ccb41bade8eaa559f610181e641ec18e9aba880aa4",
-      "sha256": "8002c9b196c3b966030bb4bb6f26fc4f5afc614e891ff47058f58950a9f1df67",
-      "version": 3
+      "sha256": "f07daeb29e845177d9dbe64eedc8d8f5a942b2f1330ff24b8dbb133122293557",
+      "version": 4
     }
   ]
 }
