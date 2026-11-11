@@ -12,5 +12,8 @@
 /feelingverse/*
 !/feelingverse/catalogue.json
 !/files/
+!/worlds/
+/worlds/*
+!/worlds/catalogue.json
 
 .DS_Store
